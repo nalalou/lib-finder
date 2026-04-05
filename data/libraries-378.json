@@ -1,6 +1,82 @@
 {
   "libraries": [
     {
+      "name": "WINFIELD PUBLIC LIBRARY",
+      "system": "WINFIELD PUBLIC LIBRARY",
+      "address": "112 W ASH, WINFIELD, IA",
+      "website": "https://wpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37732",
+        "37755",
+        "37847",
+        "37852",
+        "37892",
+        "52659"
+      ]
+    },
+    {
+      "name": "KNOX COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "KNOX COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "500 W. CHURCH AVENUE, KNOXVILLE (S), TN",
+      "website": "https://www.knoxcountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37721",
+        "37806",
+        "37849",
+        "37902",
+        "37909",
+        "37912",
+        "37914",
+        "37915",
+        "37916",
+        "37917",
+        "37918",
+        "37919",
+        "37920",
+        "37921",
+        "37922",
+        "37923",
+        "37924",
+        "37931",
+        "37932",
+        "37938",
+        "379HH"
+      ]
+    },
+    {
+      "name": "HANCOCK COUNTY PUBLIC LIBRARY",
+      "system": "HANCOCK COUNTY PUBLIC LIBRARY",
+      "address": "1210 MADISON STREET, HAWESVILLE, KY",
+      "website": "https://www.hcplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37765",
+        "37869",
+        "42348"
+      ]
+    },
+    {
+      "name": "ONEIDA PUBLIC LIBRARY",
+      "system": "ONEIDA PUBLIC LIBRARY",
+      "address": "290 SOUTH MAIN STREET, ONEIDA, TN",
+      "website": "https://oneidapubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37732",
+        "37755",
+        "37841",
+        "37847",
+        "37852",
+        "37892"
+      ]
+    },
+    {
       "name": "CLAIBORNE COUNTY PUBLIC LIBRARY",
       "system": "CLAIBORNE COUNTY PUBLIC LIBRARY",
       "address": "1304 OLD KNOXVILLE ROAD, TAZEWELL, TN",
@@ -8,7 +84,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37879"
+        "37715",
+        "37724",
+        "37730",
+        "37752",
+        "377XX",
+        "37825",
+        "37870",
+        "37879",
+        "378XX"
       ]
     },
     {
@@ -19,6 +103,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37770",
         "37887"
       ]
     },
@@ -30,7 +115,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37807"
+        "37807",
+        "37866"
       ]
     },
     {
@@ -63,7 +149,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37804"
+        "37701",
+        "37737",
+        "37777",
+        "37801",
+        "37803",
+        "37804",
+        "37853",
+        "37878",
+        "37882",
+        "37886"
       ]
     },
     {
@@ -74,7 +169,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37830"
+        "37705",
+        "37716",
+        "37754",
+        "377HH",
+        "37830",
+        "378HH"
       ]
     },
     {
@@ -85,7 +185,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37861"
+        "37848",
+        "37861",
+        "37881",
+        "37888"
       ]
     },
     {
@@ -96,7 +199,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37857"
+        "37711",
+        "37731",
+        "37811",
+        "37857",
+        "37873"
       ]
     },
     {
@@ -107,18 +214,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37814"
-      ]
-    },
-    {
-      "name": "HANCOCK COUNTY PUBLIC LIBRARY",
-      "system": "HANCOCK COUNTY PUBLIC LIBRARY",
-      "address": "138 WILLOW STREET, SNEEDVILLE, TN",
-      "website": "https://www.hcplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37869"
+        "37813",
+        "37814",
+        "37860",
+        "37877",
+        "37891"
       ]
     },
     {
@@ -129,7 +229,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37862"
+        "37764",
+        "37862",
+        "37865",
+        "37876"
       ]
     },
     {
@@ -140,18 +243,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37713",
+        "37753",
         "37821"
-      ]
-    },
-    {
-      "name": "ONEIDA PUBLIC LIBRARY",
-      "system": "ONEIDA PUBLIC LIBRARY",
-      "address": "290 SOUTH MAIN STREET, ONEIDA, TN",
-      "website": "https://oneidapubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37841"
       ]
     },
     {
@@ -162,6 +256,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37820",
         "37890"
       ]
     },
@@ -184,7 +279,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37828"
+        "37705",
+        "37716",
+        "37754",
+        "377HH",
+        "37828",
+        "378HH"
       ]
     },
     {
@@ -195,6 +295,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37770",
         "37845"
       ]
     },
@@ -206,18 +307,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37770",
         "37872"
-      ]
-    },
-    {
-      "name": "WINFIELD PUBLIC LIBRARY",
-      "system": "WINFIELD PUBLIC LIBRARY",
-      "address": "275 PINE GROVE ROAD, WINFIELD, TN",
-      "website": "https://wpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37892"
       ]
     },
     {
@@ -228,6 +319,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37770",
         "37829"
       ]
     },
@@ -239,6 +331,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37772",
         "37846"
       ]
     },
@@ -261,18 +354,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37713",
+        "37753",
         "37843"
-      ]
-    },
-    {
-      "name": "WASHBURN PUBLIC LIBRARY",
-      "system": "WASHBURN PUBLIC LIBRARY",
-      "address": "7715 HIGHWAY 131, WASHBURN, TN",
-      "website": "https://washburnndlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37888"
       ]
     },
     {
@@ -283,6 +367,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37820",
         "37871"
       ]
     },
@@ -294,6 +379,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37616",
+        "37641",
+        "37743",
+        "37744",
+        "37809",
+        "37810",
         "37818"
       ]
     },
@@ -305,7 +396,268 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37863"
+        "37764",
+        "37863",
+        "37865",
+        "37876"
+      ]
+    },
+    {
+      "name": "ENGLEWOOD PUBLIC LIBRARY",
+      "system": "ENGLEWOOD PUBLIC LIBRARY",
+      "address": "35 CARROLL STREET, ENGLEWOOD, TN",
+      "website": "https://www.englewoodco.gov/parks-recreation-library-golf/englewood-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37329",
+        "37370",
+        "37826"
+      ]
+    },
+    {
+      "name": "MEIGS-DECATUR PUBLIC LIBRARY",
+      "system": "MEIGS-DECATUR PUBLIC LIBRARY",
+      "address": "120 MEMORIAL DRIVE, DECATUR, TN",
+      "website": "https://www.meigscounty-decaturpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37322",
+        "37880"
+      ]
+    },
+    {
+      "name": "E. G. FISHER PUBLIC LIBRARY",
+      "system": "E. G. FISHER PUBLIC LIBRARY",
+      "address": "1289 INGLESIDE AVENUE, ATHENS, TN",
+      "website": "https://fisherlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37303",
+        "37370",
+        "37826"
+      ]
+    },
+    {
+      "name": "CALHOUN PUBLIC LIBRARY",
+      "system": "CALHOUN PUBLIC LIBRARY",
+      "address": "746 HWY 163, CALHOUN, TN",
+      "website": "https://librarytechnology.org/library/6194",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37309",
+        "37370",
+        "37826"
+      ]
+    },
+    {
+      "name": "ETOWAH CARNEGIE PUBLIC LIBRARY",
+      "system": "ETOWAH CARNEGIE PUBLIC LIBRARY",
+      "address": "723 OHIO AVENUE, ETOWAH, TN",
+      "website": "https://www.etowahlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37331",
+        "37370",
+        "37826"
+      ]
+    },
+    {
+      "name": "JACKSBORO PUBLIC LIBRARY",
+      "system": "JACKSBORO PUBLIC LIBRARY",
+      "address": "585 MAIN STREET, SUITE 201, JACKSBORO, TN",
+      "website": "https://jacksboro.org/library/library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37729",
+        "37757",
+        "37819"
+      ]
+    },
+    {
+      "name": "DANDRIDGE MEMORIAL LIBRARY",
+      "system": "DANDRIDGE MEMORIAL LIBRARY",
+      "address": "1235 CIRCLE DRIVE, DANDRIDGE, TN",
+      "website": "https://jcpls.org/dandridge-memorial-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37725",
+        "37820"
+      ]
+    },
+    {
+      "name": "JEFFERSON CITY PUBLIC LIBRARY",
+      "system": "JEFFERSON CITY PUBLIC LIBRARY",
+      "address": "108 CITY CENTER DRIVE, JEFFERSON CITY, TN",
+      "website": "https://jcpls.org/jefferson-city-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37760",
+        "37820"
+      ]
+    },
+    {
+      "name": "ANNA PORTER PUBLIC LIBRARY",
+      "system": "ANNA PORTER PUBLIC LIBRARY",
+      "address": "159 MILLS PARK ROAD, GATLINBURG, TN",
+      "website": "https://www.annaporterpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37738",
+        "37764",
+        "37865",
+        "37876"
+      ]
+    },
+    {
+      "name": "GREENEVILLE-GREENE COUNTY PUBLIC LIBRARY",
+      "system": "GREENEVILLE-GREENE COUNTY PUBLIC LIBRARY",
+      "address": "210 N. MAIN STREET, GREENEVILLE, TN",
+      "website": "https://www.ggcpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37616",
+        "37641",
+        "37743",
+        "37744",
+        "37745",
+        "37809",
+        "37810"
+      ]
+    },
+    {
+      "name": "ROCKY TOP PUBLIC LIBRARY",
+      "system": "ROCKY TOP PUBLIC LIBRARY",
+      "address": "226 NORTH MAIN ST., ROCKY TOP, TN",
+      "website": "https://www.rockytoppubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37705",
+        "37716",
+        "37754",
+        "37769",
+        "377HH",
+        "378HH"
+      ]
+    },
+    {
+      "name": "CARYVILLE PUBLIC LIBRARY",
+      "system": "CARYVILLE PUBLIC LIBRARY",
+      "address": "4839 OLD HIGHWAY 63, SUITE 2, CARYVILLE, TN",
+      "website": "https://caryvillepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37714",
+        "37729",
+        "37819"
+      ]
+    },
+    {
+      "name": "BRICEVILLE PUBLIC LIBRARY",
+      "system": "BRICEVILLE PUBLIC LIBRARY",
+      "address": "111 SLATESTONE ROAD, BRICEVILLE, TN",
+      "website": "https://librarytechnology.org/library/6174",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37705",
+        "37710",
+        "37716",
+        "37754",
+        "377HH",
+        "378HH"
+      ]
+    },
+    {
+      "name": "JELLICO PUBLIC LIBRARY",
+      "system": "JELLICO PUBLIC LIBRARY",
+      "address": "104 NORTH MAIN STREET, JELLICO, TN",
+      "website": "https://www.jellicolibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37729",
+        "37762",
+        "37819"
+      ]
+    },
+    {
+      "name": "LAFOLLETTE PUBLIC LIBRARY",
+      "system": "LAFOLLETTE PUBLIC LIBRARY",
+      "address": "201 SOUTH 9TH STREET, LAFOLLETTE, TN",
+      "website": "https://www.lafollettetn.gov/departments/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37729",
+        "37766",
+        "37819"
+      ]
+    },
+    {
+      "name": "LUTTRELL PUBLIC LIBRARY",
+      "system": "LUTTRELL PUBLIC LIBRARY",
+      "address": "115 PARK ROAD, LUTTRELL, TN",
+      "website": "https://www.luttrelllibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37779",
+        "37866"
+      ]
+    },
+    {
+      "name": "BEAN STATION PUBLIC LIBRARY",
+      "system": "BEAN STATION PUBLIC LIBRARY",
+      "address": "895 BROADWAY DRIVE, BEAN STATION, TN",
+      "website": "https://librarytechnology.org/library/6143",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37708",
+        "37848",
+        "37881",
+        "37888"
+      ]
+    },
+    {
+      "name": "BLAINE PUBLIC LIBRARY",
+      "system": "BLAINE PUBLIC LIBRARY",
+      "address": "220 INDIAN RIDGE ROAD, BLAINE, TN",
+      "website": "https://blainetnpubliclibrary.wordpress.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37709",
+        "37848",
+        "37881",
+        "37888"
+      ]
+    },
+    {
+      "name": "MT. CARMEL LIBRARY",
+      "system": "MT. CARMEL LIBRARY",
+      "address": "100 1/2 MAIN STREET, MT. CARMEL, TN",
+      "website": "https://www.mountcarmelpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37645",
+        "37711",
+        "37731",
+        "37811",
+        "37873"
       ]
     }
   ]

@@ -1,6 +1,48 @@
 {
   "libraries": [
     {
+      "name": "ASHTON PUBLIC LIBRARY",
+      "system": "ASHTON PUBLIC LIBRARY",
+      "address": "3029 3RD ST, ASHTON, IA",
+      "website": "https://www.ashton.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51232",
+        "51345",
+        "51349",
+        "51350"
+      ]
+    },
+    {
+      "name": "SIBLEY PUBLIC LIBRARY",
+      "system": "SIBLEY PUBLIC LIBRARY",
+      "address": "406 9TH ST, SIBLEY, IA",
+      "website": "https://www.sibley.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51249",
+        "51345",
+        "51349",
+        "51350"
+      ]
+    },
+    {
+      "name": "LAKE PARK PUBLIC LIBRARY",
+      "system": "LAKE PARK PUBLIC LIBRARY",
+      "address": "905 S MARKET ST, LAKE PARK, IA",
+      "website": "https://lakeparkpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51347",
+        "51355",
+        "51363",
+        "513HH"
+      ]
+    },
+    {
       "name": "ESTHERVILLE PUBLIC LIBRARY",
       "system": "ESTHERVILLE PUBLIC LIBRARY",
       "address": "613 CENTRAL AVE, ESTHERVILLE, IA",
@@ -8,18 +50,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51334"
-      ]
-    },
-    {
-      "name": "MELVIN PUBLIC LIBRARY",
-      "system": "MELVIN PUBLIC LIBRARY",
-      "address": "232 MAIN ST, MELVIN, IA",
-      "website": "https://librarytechnology.org/library/17519",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51350"
+        "50531",
+        "51334",
+        "51344",
+        "51365"
       ]
     },
     {
@@ -30,6 +64,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "51345",
+        "51349",
+        "51350",
         "51354"
       ]
     },
@@ -41,6 +78,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50515",
+        "50527",
+        "50528",
         "51358"
       ]
     },
@@ -52,6 +92,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "51333",
+        "51341",
+        "51343",
         "51357"
       ]
     },
@@ -63,7 +106,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51301"
+        "51301",
+        "51333",
+        "51341",
+        "51343"
       ]
     },
     {
@@ -74,6 +120,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "51333",
+        "51341",
+        "51343",
         "51366"
       ]
     },
@@ -85,18 +134,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51331"
-      ]
-    },
-    {
-      "name": "LAKE PARK PUBLIC LIBRARY",
-      "system": "LAKE PARK PUBLIC LIBRARY",
-      "address": "905 S MARKET ST, LAKE PARK, IA",
-      "website": "https://lakeparkpubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51347"
+        "51331",
+        "51355",
+        "51363",
+        "513HH"
       ]
     },
     {
@@ -107,7 +148,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51351"
+        "51351",
+        "51355",
+        "51363",
+        "513HH"
       ]
     },
     {
@@ -118,7 +162,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51360"
+        "51355",
+        "51360",
+        "51363",
+        "513HH"
       ]
     },
     {
@@ -129,7 +176,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51364"
+        "51355",
+        "51363",
+        "51364",
+        "513HH"
       ]
     },
     {
@@ -140,6 +190,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50515",
+        "50527",
+        "50528",
         "51342"
       ]
     },
@@ -162,7 +215,52 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51338"
+        "51333",
+        "51338",
+        "51341",
+        "51343"
+      ]
+    },
+    {
+      "name": "RINGSTED PUBLIC LIBRARY",
+      "system": "RINGSTED PUBLIC LIBRARY",
+      "address": "8 W MAPLE, RINGSTED, IA",
+      "website": "https://www.ringsted.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50531",
+        "50578",
+        "51344",
+        "51365"
+      ]
+    },
+    {
+      "name": "ARMSTRONG PUBLIC LIBRARY",
+      "system": "ARMSTRONG PUBLIC LIBRARY",
+      "address": "308 6TH ST, ARMSTRONG, IA",
+      "website": "https://www.armstrong.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50514",
+        "50531",
+        "51344",
+        "51365"
+      ]
+    },
+    {
+      "name": "KIRCHNER FRENCH MEMORIAL LIBRARY",
+      "system": "KIRCHNER FRENCH MEMORIAL LIBRARY",
+      "address": "101 MAIN ST, PETERSON, IA",
+      "website": "https://www.peterson.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51047",
+        "51333",
+        "51341",
+        "51343"
       ]
     }
   ]

@@ -1,6 +1,26 @@
 {
   "libraries": [
     {
+      "name": "MIDDLE GEORGIA REGIONAL LIBRARY SYSTEM",
+      "system": "MIDDLE GEORGIA REGIONAL LIBRARY SYSTEM",
+      "address": "1180 WASHINGTON AVENUE, MACON, GA",
+      "website": "https://bibblib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31052",
+        "31201",
+        "31204",
+        "31206",
+        "31210",
+        "31211",
+        "31216",
+        "31217",
+        "31220",
+        "312HH"
+      ]
+    },
+    {
       "name": "OCMULGEE REGIONAL LIBRARY SYSTEM",
       "system": "OCMULGEE REGIONAL LIBRARY SYSTEM",
       "address": "531 SECOND AVENUE, EASTMAN, GA",
@@ -8,18 +28,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "31023"
-      ]
-    },
-    {
-      "name": "HOUSTON COUNTY PUBLIC LIBRARY",
-      "system": "HOUSTON COUNTY PUBLIC LIBRARY",
-      "address": "1201 WASHINGTON STREET, PERRY, GA",
-      "website": "https://houstoncountytnlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "31069"
+        "31011",
+        "31012",
+        "31023",
+        "31077"
       ]
     },
     {
@@ -30,7 +42,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "31021"
+        "30454",
+        "31009",
+        "31019",
+        "31021",
+        "31022",
+        "31027",
+        "31065",
+        "31075"
       ]
     },
     {
@@ -41,6 +60,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "31008",
         "31030"
       ]
     }

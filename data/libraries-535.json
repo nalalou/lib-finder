@@ -1,157 +1,114 @@
 {
   "libraries": [
     {
-      "name": "ALBERTSON MEMORIAL LIBRARY",
-      "system": "ALBERTSON MEMORIAL LIBRARY",
-      "address": "200 N. WATER ST., ALBANY, WI",
-      "website": "https://www.albertsonlibrary.org/",
+      "name": "MILTON PUBLIC LIBRARY",
+      "system": "MILTON PUBLIC LIBRARY",
+      "address": "430 E. HIGH ST., #100, MILTON, WI",
+      "website": "https://miltonlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53502"
+        "53505",
+        "53525",
+        "53534",
+        "53537",
+        "53546",
+        "53563"
       ]
     },
     {
-      "name": "ARGYLE PUBLIC LIBRARY",
-      "system": "ARGYLE PUBLIC LIBRARY",
-      "address": "401 E. MILWAUKEE, ARGYLE, WI",
-      "website": "https://argylepubliclibrary.com/",
+      "name": "JEFFERSON PUBLIC LIBRARY",
+      "system": "JEFFERSON PUBLIC LIBRARY",
+      "address": "200 W LINCOLNWAY, JEFFERSON, IA",
+      "website": "https://jeffersonwilibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53504"
+        "50129",
+        "53036",
+        "53137",
+        "53178",
+        "531HH",
+        "53549"
       ]
     },
     {
-      "name": "BARNEVELD PUBLIC LIBRARY",
-      "system": "BARNEVELD PUBLIC LIBRARY",
-      "address": "107 W. ORBISON ST., BARNEVELD, WI",
-      "website": "https://barneveldpubliclibrary.org/",
+      "name": "MADISON PUBLIC LIBRARY",
+      "system": "MADISON PUBLIC LIBRARY",
+      "address": "12 OLD POINT AVENUE, MADISON, ME",
+      "website": "http://www.madisonpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53507"
+        "04950",
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
+      ]
+    },
+    {
+      "name": "PORTAGE PUBLIC LIBRARY",
+      "system": "PORTAGE PUBLIC LIBRARY",
+      "address": "253 W. EDGEWATER ST., PORTAGE, WI",
+      "website": "https://www.portagelibrary.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "535HH",
+        "53901",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935"
       ]
     },
     {
       "name": "BELLEVILLE PUBLIC LIBRARY",
       "system": "BELLEVILLE PUBLIC LIBRARY",
-      "address": "20 S. PARK ST., BELLEVILLE, WI",
+      "address": "121 EAST WASHINGTON STREET, BELLEVILLE, IL",
       "website": "https://bellepl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53508"
-      ]
-    },
-    {
-      "name": "JOHN TURGESON PUBLIC LIBRARY",
-      "system": "JOHN TURGESON PUBLIC LIBRARY",
-      "address": "220 S. MOUND AVE., BELMONT, WI",
-      "website": "https://www.vi.belmont.wi.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53510"
-      ]
-    },
-    {
-      "name": "BELOIT PUBLIC LIBRARY",
-      "system": "BELOIT PUBLIC LIBRARY",
-      "address": "605 ECLIPSE BLVD., BELOIT, WI",
-      "website": "https://beloitlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53511"
-      ]
-    },
-    {
-      "name": "BLACK EARTH PUBLIC LIBRARY",
-      "system": "BLACK EARTH PUBLIC LIBRARY",
-      "address": "1210 MILLS ST., BLACK EARTH, WI",
-      "website": "https://www.blackearthlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53515"
-      ]
-    },
-    {
-      "name": "BLANCHARDVILLE PUBLIC LIBRARY",
-      "system": "BLANCHARDVILLE PUBLIC LIBRARY",
-      "address": "208 MASON ST., BLANCHARDVILLE, WI",
-      "website": "https://blanchardvillepubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53516"
-      ]
-    },
-    {
-      "name": "BRODHEAD MEMORIAL PUBLIC LIBRARY",
-      "system": "BRODHEAD MEMORIAL PUBLIC LIBRARY",
-      "address": "1207 25TH ST., BRODHEAD, WI",
-      "website": "https://www.brodheadlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53520"
-      ]
-    },
-    {
-      "name": "CAMBRIDGE COMMUNITY LIBRARY",
-      "system": "CAMBRIDGE COMMUNITY LIBRARY",
-      "address": "101 SPRING WATER ALY., CAMBRIDGE, WI",
-      "website": "https://www.cambridgelib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53523"
-      ]
-    },
-    {
-      "name": "CLINTON PUBLIC LIBRARY",
-      "system": "CLINTON PUBLIC LIBRARY",
-      "address": "214 MILL ST., CLINTON, WI",
-      "website": "https://www.als.lib.wi.us/CPL/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53525"
-      ]
-    },
-    {
-      "name": "COBB PUBLIC LIBRARY",
-      "system": "COBB PUBLIC LIBRARY",
-      "address": "109 S. MIFFLIN ST., COBB, WI",
-      "website": "https://villageofcobb.com/cobb-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53526"
-      ]
-    },
-    {
-      "name": "ROSEMARY GARFOOT PUBLIC LIBRARY",
-      "system": "ROSEMARY GARFOOT PUBLIC LIBRARY",
-      "address": "2107 JULIUS ST., CROSS PLAINS, WI",
-      "website": "https://www.rgpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53528"
-      ]
-    },
-    {
-      "name": "JOHNSON PUBLIC LIBRARY",
-      "system": "JOHNSON PUBLIC LIBRARY",
-      "address": "131 E. CATHERINE ST., DARLINGTON, WI",
-      "website": "https://darlingtonwi.org/johnson-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53530"
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH",
+        "62220"
       ]
     },
     {
@@ -162,7 +119,563 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53531"
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53531",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
+      ]
+    },
+    {
+      "name": "MONROE PUBLIC LIBRARY",
+      "system": "MONROE PUBLIC LIBRARY",
+      "address": "3B SCHOOL ST., MONROE BRIDGE, MA",
+      "website": "https://monroenh.org/monroe-town-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01350",
+        "53522",
+        "53550",
+        "53566"
+      ]
+    },
+    {
+      "name": "BENTON PUBLIC LIBRARY",
+      "system": "BENTON PUBLIC LIBRARY",
+      "address": "48 W. MAIN ST., BENTON, WI",
+      "website": "https://bentonpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53541",
+        "53587",
+        "53803"
+      ]
+    },
+    {
+      "name": "CARNEGIE-SCHADDE MEMORIAL PUBLIC LIBRARY",
+      "system": "CARNEGIE-SCHADDE MEMORIAL PUBLIC LIBRARY",
+      "address": "230 FOURTH AVE., BARABOO, WI",
+      "website": "https://www.csmpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53561",
+        "53913",
+        "53937",
+        "53940",
+        "53943"
+      ]
+    },
+    {
+      "name": "BEAVER DAM COMMUNITY LIBRARY",
+      "system": "BEAVER DAM COMMUNITY LIBRARY",
+      "address": "311 N. SPRING ST., BEAVER DAM, WI",
+      "website": "https://www.beaverdamlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53916",
+        "53922"
+      ]
+    },
+    {
+      "name": "JANE MORGAN MEMORIAL LIBRARY",
+      "system": "JANE MORGAN MEMORIAL LIBRARY",
+      "address": "109 W. EDGEWATER ST., CAMBRIA, WI",
+      "website": "https://www.jmml.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "535HH",
+        "53911",
+        "53923",
+        "53925",
+        "53928",
+        "53932",
+        "53935"
+      ]
+    },
+    {
+      "name": "COLUMBUS PUBLIC LIBRARY",
+      "system": "COLUMBUS PUBLIC LIBRARY",
+      "address": "2500 14TH STREET, SUITE 2, COLUMBUS, NE",
+      "website": "https://www.columbusne.us/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
+        "68601"
+      ]
+    },
+    {
+      "name": "FOX LAKE PUBLIC LIBRARY",
+      "system": "FOX LAKE PUBLIC LIBRARY",
+      "address": "117 W. STATE ST., FOX LAKE, WI",
+      "website": "https://www.foxlake.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922",
+        "53933"
+      ]
+    },
+    {
+      "name": "LA VALLE PUBLIC LIBRARY",
+      "system": "LA VALLE PUBLIC LIBRARY",
+      "address": "101 W. MAIN ST., LA VALLE, WI",
+      "website": "https://www.lavallelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53561",
+        "53937",
+        "53940",
+        "53941",
+        "53943"
+      ]
+    },
+    {
+      "name": "NORTH FREEDOM PUBLIC LIBRARY",
+      "system": "NORTH FREEDOM PUBLIC LIBRARY",
+      "address": "105 N. MAPLE ST., NORTH FREEDOM, WI",
+      "website": "https://www.northfreedomlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53561",
+        "53937",
+        "53940",
+        "53943",
+        "53951"
+      ]
+    },
+    {
+      "name": "ANGIE WILLIAMS COX PUBLIC LIBRARY",
+      "system": "ANGIE WILLIAMS COX PUBLIC LIBRARY",
+      "address": "119 N. MAIN ST., PARDEEVILLE, WI",
+      "website": "https://www.pardeevillelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
+        "53954"
+      ]
+    },
+    {
+      "name": "POYNETTE AREA PUBLIC LIBRARY",
+      "system": "POYNETTE AREA PUBLIC LIBRARY",
+      "address": "118 N. MAIN ST., POYNETTE, WI",
+      "website": "https://www.poynettelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
+        "53955"
+      ]
+    },
+    {
+      "name": "HUTCHINSON MEMORIAL LIBRARY",
+      "system": "HUTCHINSON MEMORIAL LIBRARY",
+      "address": "228 N. HIGH ST., RANDOLPH, WI",
+      "website": "https://www.randolphlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
+        "53956"
+      ]
+    },
+    {
+      "name": "REEDSBURG PUBLIC LIBRARY",
+      "system": "REEDSBURG PUBLIC LIBRARY",
+      "address": "370 VINE ST., REEDSBURG, WI",
+      "website": "https://www.reedsburglibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53561",
+        "53937",
+        "53940",
+        "53943",
+        "53959"
+      ]
+    },
+    {
+      "name": "RIO COMMUNITY LIBRARY",
+      "system": "RIO COMMUNITY LIBRARY",
+      "address": "324 W. LYONS ST., RIO, WI",
+      "website": "https://www.riolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
+        "53960"
+      ]
+    },
+    {
+      "name": "ROCK SPRINGS PUBLIC LIBRARY",
+      "system": "ROCK SPRINGS PUBLIC LIBRARY",
+      "address": "251 RAILROAD ST., ROCK SPRINGS, WI",
+      "website": "https://www.rockspringslibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53561",
+        "53937",
+        "53940",
+        "53943",
+        "53961"
+      ]
+    },
+    {
+      "name": "WAUPUN PUBLIC LIBRARY",
+      "system": "WAUPUN PUBLIC LIBRARY",
+      "address": "123 S. FOREST ST., WAUPUN, WI",
+      "website": "https://www.cityofwaupun.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922",
+        "53963"
+      ]
+    },
+    {
+      "name": "KILBOURN PUBLIC LIBRARY",
+      "system": "KILBOURN PUBLIC LIBRARY",
+      "address": "620 ELM ST., WISCONSIN DELLS, WI",
+      "website": "https://www.dellslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
+        "53965"
+      ]
+    },
+    {
+      "name": "WYOCENA PUBLIC LIBRARY",
+      "system": "WYOCENA PUBLIC LIBRARY",
+      "address": "165 E. DODGE ST., WYOCENA, WI",
+      "website": "https://www.wyocenalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
+        "53969"
+      ]
+    },
+    {
+      "name": "ALBERTSON MEMORIAL LIBRARY",
+      "system": "ALBERTSON MEMORIAL LIBRARY",
+      "address": "200 N. WATER ST., ALBANY, WI",
+      "website": "https://www.albertsonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53502",
+        "53522",
+        "53550",
+        "53566"
+      ]
+    },
+    {
+      "name": "ARGYLE PUBLIC LIBRARY",
+      "system": "ARGYLE PUBLIC LIBRARY",
+      "address": "401 E. MILWAUKEE, ARGYLE, WI",
+      "website": "https://argylepubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53504",
+        "53541",
+        "53587"
+      ]
+    },
+    {
+      "name": "BARNEVELD PUBLIC LIBRARY",
+      "system": "BARNEVELD PUBLIC LIBRARY",
+      "address": "107 W. ORBISON ST., BARNEVELD, WI",
+      "website": "https://barneveldpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53503",
+        "53506",
+        "53507",
+        "53543",
+        "53544",
+        "53553",
+        "53580",
+        "53582"
+      ]
+    },
+    {
+      "name": "JOHN TURGESON PUBLIC LIBRARY",
+      "system": "JOHN TURGESON PUBLIC LIBRARY",
+      "address": "220 S. MOUND AVE., BELMONT, WI",
+      "website": "https://www.vi.belmont.wi.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53510",
+        "53541",
+        "53587"
+      ]
+    },
+    {
+      "name": "BELOIT PUBLIC LIBRARY",
+      "system": "BELOIT PUBLIC LIBRARY",
+      "address": "605 ECLIPSE BLVD., BELOIT, WI",
+      "website": "https://beloitlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53505",
+        "53511",
+        "53525",
+        "53534",
+        "53537",
+        "53546"
+      ]
+    },
+    {
+      "name": "BLACK EARTH PUBLIC LIBRARY",
+      "system": "BLACK EARTH PUBLIC LIBRARY",
+      "address": "1210 MILLS ST., BLACK EARTH, WI",
+      "website": "https://www.blackearthlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53508",
+        "53515",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
+      ]
+    },
+    {
+      "name": "BLANCHARDVILLE PUBLIC LIBRARY",
+      "system": "BLANCHARDVILLE PUBLIC LIBRARY",
+      "address": "208 MASON ST., BLANCHARDVILLE, WI",
+      "website": "https://blanchardvillepubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53516",
+        "53541",
+        "53587"
+      ]
+    },
+    {
+      "name": "BRODHEAD MEMORIAL PUBLIC LIBRARY",
+      "system": "BRODHEAD MEMORIAL PUBLIC LIBRARY",
+      "address": "1207 25TH ST., BRODHEAD, WI",
+      "website": "https://www.brodheadlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53520",
+        "53522",
+        "53550",
+        "53566"
+      ]
+    },
+    {
+      "name": "CAMBRIDGE COMMUNITY LIBRARY",
+      "system": "CAMBRIDGE COMMUNITY LIBRARY",
+      "address": "101 SPRING WATER ALY., CAMBRIDGE, WI",
+      "website": "https://www.cambridgelib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53508",
+        "53517",
+        "53521",
+        "53523",
+        "53527",
+        "53529",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
+      ]
+    },
+    {
+      "name": "CLINTON PUBLIC LIBRARY",
+      "system": "CLINTON PUBLIC LIBRARY",
+      "address": "313 SOUTH 4TH STREET, CLINTON, IN",
+      "website": "https://www.als.lib.wi.us/CPL/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47842",
+        "53505",
+        "53525",
+        "53534",
+        "53537",
+        "53546"
+      ]
+    },
+    {
+      "name": "COBB PUBLIC LIBRARY",
+      "system": "COBB PUBLIC LIBRARY",
+      "address": "109 S. MIFFLIN ST., COBB, WI",
+      "website": "https://villageofcobb.com/cobb-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53503",
+        "53506",
+        "53526",
+        "53543",
+        "53544",
+        "53553",
+        "53580",
+        "53582"
+      ]
+    },
+    {
+      "name": "ROSEMARY GARFOOT PUBLIC LIBRARY",
+      "system": "ROSEMARY GARFOOT PUBLIC LIBRARY",
+      "address": "2107 JULIUS ST., CROSS PLAINS, WI",
+      "website": "https://www.rgpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53528",
+        "53529",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
+      ]
+    },
+    {
+      "name": "JOHNSON PUBLIC LIBRARY",
+      "system": "JOHNSON PUBLIC LIBRARY",
+      "address": "131 E. CATHERINE ST., DARLINGTON, WI",
+      "website": "https://darlingtonwi.org/johnson-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53530",
+        "53541",
+        "53587"
       ]
     },
     {
@@ -173,18 +686,43 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53532"
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53532",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
       ]
     },
     {
       "name": "EDGERTON PUBLIC LIBRARY",
       "system": "EDGERTON PUBLIC LIBRARY",
-      "address": "101 ALBION ST., EDGERTON, WI",
+      "address": "811 1ST AV W, EDGERTON, MN",
       "website": "https://edgertonlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53534"
+        "53505",
+        "53525",
+        "53534",
+        "53537",
+        "53546",
+        "56128"
       ]
     },
     {
@@ -195,7 +733,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53536"
+        "53505",
+        "53525",
+        "53534",
+        "53536",
+        "53537",
+        "53546"
       ]
     },
     {
@@ -206,7 +749,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53538"
+        "53036",
+        "53137",
+        "53178",
+        "531HH",
+        "53538",
+        "53549"
       ]
     },
     {
@@ -217,18 +765,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53545"
-      ]
-    },
-    {
-      "name": "JEFFERSON PUBLIC LIBRARY",
-      "system": "JEFFERSON PUBLIC LIBRARY",
-      "address": "321 S. MAIN ST., JEFFERSON, WI",
-      "website": "https://jeffersonwilibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53549"
+        "53505",
+        "53525",
+        "53534",
+        "53537",
+        "53545",
+        "53546"
       ]
     },
     {
@@ -239,6 +781,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53036",
+        "53137",
+        "53178",
+        "531HH",
+        "53549",
         "53551"
       ]
     },
@@ -250,7 +797,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53554"
+        "53554",
+        "53801",
+        "53810",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
       ]
     },
     {
@@ -261,7 +815,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53556"
+        "53518",
+        "53540",
+        "53556",
+        "53581",
+        "53924"
       ]
     },
     {
@@ -272,7 +830,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53559"
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53559",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
       ]
     },
     {
@@ -283,7 +861,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53560"
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53560",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
       ]
     },
     {
@@ -294,18 +892,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53562"
-      ]
-    },
-    {
-      "name": "MILTON PUBLIC LIBRARY",
-      "system": "MILTON PUBLIC LIBRARY",
-      "address": "430 E. HIGH ST., #100, MILTON, WI",
-      "website": "https://miltonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53563"
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53562",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
       ]
     },
     {
@@ -316,18 +923,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53565"
-      ]
-    },
-    {
-      "name": "MONROE PUBLIC LIBRARY",
-      "system": "MONROE PUBLIC LIBRARY",
-      "address": "925 16TH AVE., MONROE, WI",
-      "website": "https://monroenh.org/monroe-town-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53566"
+        "53503",
+        "53506",
+        "53543",
+        "53544",
+        "53553",
+        "53565",
+        "53580",
+        "53582"
       ]
     },
     {
@@ -338,7 +941,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53569"
+        "53569",
+        "53801",
+        "53810",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
       ]
     },
     {
@@ -349,6 +959,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53522",
+        "53550",
+        "53566",
         "53570"
       ]
     },
@@ -360,7 +973,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53572"
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53571",
+        "53572",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
       ]
     },
     {
@@ -371,7 +1004,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53573"
+        "53573",
+        "53801",
+        "53810",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
       ]
     },
     {
@@ -382,18 +1022,41 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53522",
+        "53550",
+        "53566",
         "53574"
       ]
     },
     {
       "name": "OREGON PUBLIC LIBRARY",
       "system": "OREGON PUBLIC LIBRARY",
-      "address": "200 N. ALPINE PKWY, OREGON, WI",
+      "address": "103 S WASHINGTON ST, OREGON, MO",
       "website": "https://librarytechnology.org/library/20172",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53575"
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH",
+        "64473"
       ]
     },
     {
@@ -404,6 +1067,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53505",
+        "53525",
+        "53534",
+        "53537",
+        "53546",
         "53576"
       ]
     },
@@ -415,7 +1083,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53577"
+        "53561",
+        "53577",
+        "53937",
+        "53940",
+        "53943"
       ]
     },
     {
@@ -426,18 +1098,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53578"
+        "53561",
+        "53578",
+        "53937",
+        "53940",
+        "53943"
       ]
     },
     {
       "name": "BREWER PUBLIC LIBRARY",
       "system": "BREWER PUBLIC LIBRARY",
-      "address": "325 N. CENTRAL AVE., RICHLAND CENTER, WI",
+      "address": "100 SOUTH MAIN STREET, BREWER, ME",
       "website": "https://www.brewermaine.gov/171/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53581"
+        "04412",
+        "53518",
+        "53540",
+        "53581",
+        "53924"
       ]
     },
     {
@@ -448,7 +1128,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53583"
+        "53561",
+        "53583",
+        "53937",
+        "53940",
+        "53943"
       ]
     },
     {
@@ -459,6 +1143,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53148",
+        "53176",
+        "53195",
         "53585"
       ]
     },
@@ -470,7 +1157,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53586"
+        "53541",
+        "53586",
+        "53587"
       ]
     },
     {
@@ -481,18 +1170,42 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53588"
+        "53561",
+        "53588",
+        "53937",
+        "53940",
+        "53943"
       ]
     },
     {
       "name": "STOUGHTON PUBLIC LIBRARY",
       "system": "STOUGHTON PUBLIC LIBRARY",
-      "address": "304 S. 4TH ST., STOUGHTON, WI",
+      "address": "84 PARK STREET, STOUGHTON, MA",
       "website": "https://www.stoughton.org/657/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53589"
+        "02072",
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
       ]
     },
     {
@@ -503,7 +1216,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53590"
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53571",
+        "53575",
+        "53589",
+        "53590",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
       ]
     },
     {
@@ -514,7 +1247,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53593"
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53571",
+        "53575",
+        "53589",
+        "53593",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
       ]
     },
     {
@@ -525,6 +1278,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53036",
+        "53137",
+        "53178",
+        "531HH",
+        "53549",
         "53594"
       ]
     },
@@ -536,7 +1294,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53597"
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53571",
+        "53575",
+        "53589",
+        "53597",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
       ]
     },
     {
@@ -547,7 +1325,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53533"
+        "53503",
+        "53506",
+        "53533",
+        "53543",
+        "53544",
+        "53553",
+        "53580",
+        "53582"
       ]
     },
     {
@@ -558,7 +1343,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53555"
+        "53555",
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935"
       ]
     },
     {
@@ -569,7 +1360,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53579"
+        "53003",
+        "53016",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53579",
+        "53922"
       ]
     },
     {
@@ -580,7 +1379,320 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53558"
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53558",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
+      ]
+    },
+    {
+      "name": "FITCHBURG PUBLIC LIBRARY",
+      "system": "FITCHBURG PUBLIC LIBRARY",
+      "address": "5530 LACY RD., FITCHBURG, WI",
+      "website": "https://www.fitchburgma.gov/657/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53711",
+        "53713",
+        "53714",
+        "53715",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
+      ]
+    },
+    {
+      "name": "MONONA PUBLIC LIBRARY",
+      "system": "MONONA PUBLIC LIBRARY",
+      "address": "1000 NICHOLS RD., MONONA, WI",
+      "website": "https://www.mononalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53508",
+        "53517",
+        "53521",
+        "53527",
+        "53529",
+        "53571",
+        "53575",
+        "53589",
+        "53598",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53713",
+        "53714",
+        "53715",
+        "53716",
+        "53717",
+        "53718",
+        "53719",
+        "537HH"
+      ]
+    },
+    {
+      "name": "BROWNSVILLE PUBLIC LIBRARY",
+      "system": "BROWNSVILLE PUBLIC LIBRARY",
+      "address": "379 MAIN ST., BROWNSVILLE, WI",
+      "website": "https://brownsville.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53006",
+        "53016",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "HORICON PUBLIC LIBRARY",
+      "system": "HORICON PUBLIC LIBRARY",
+      "address": "404 E. LAKE ST., HORICON, WI",
+      "website": "http://www.horicon.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53032",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "JOHNSON CREEK PUBLIC LIBRARY",
+      "system": "JOHNSON CREEK PUBLIC LIBRARY",
+      "address": "125 LINCOLN ST., JOHNSON CREEK, WI",
+      "website": "https://www.johnsoncreeklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53036",
+        "53038",
+        "53137",
+        "53178",
+        "531HH",
+        "53549"
+      ]
+    },
+    {
+      "name": "JUNEAU PUBLIC LIBRARY",
+      "system": "JUNEAU PUBLIC LIBRARY",
+      "address": "250 N. FAIRFIELD AVE., JUNEAU, WI",
+      "website": "https://juneau.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53039",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "LOMIRA QUADGRAPHICS COMMUNITY LIBRARY",
+      "system": "LOMIRA QUADGRAPHICS COMMUNITY LIBRARY",
+      "address": "427 WATER ST., LOMIRA, WI",
+      "website": "https://lomira.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53047",
+        "53048",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "TED & GRACE BACHHUBER MEMORIAL LIBRARY",
+      "system": "TED & GRACE BACHHUBER MEMORIAL LIBRARY",
+      "address": "234 N. JOHN ST., MAYVILLE, WI",
+      "website": "https://www.mayville.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53047",
+        "53050",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "THERESA PUBLIC LIBRARY",
+      "system": "THERESA PUBLIC LIBRARY",
+      "address": "290 MAYVILLE ST., THERESA, WI",
+      "website": "https://theresa.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53047",
+        "53059",
+        "53078",
+        "53091",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "WATERTOWN PUBLIC LIBRARY",
+      "system": "WATERTOWN PUBLIC LIBRARY",
+      "address": "100 S. WATER ST., WATERTOWN, WI",
+      "website": "https://www.watertownpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53036",
+        "53094",
+        "53137",
+        "53178",
+        "531HH",
+        "53549"
+      ]
+    },
+    {
+      "name": "HUSTISFORD COMMUNITY LIBRARY",
+      "system": "HUSTISFORD COMMUNITY LIBRARY",
+      "address": "609 W. JUNEAU ST., HUSTISFORD, WI",
+      "website": "https://hustisford.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53034",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "IRON RIDGE PUBLIC LIBRARY",
+      "system": "IRON RIDGE PUBLIC LIBRARY",
+      "address": "205 PARK ST., IRON RIDGE, WI",
+      "website": "https://ironridge.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53035",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "IRVIN L. YOUNG MEMORIAL LIBRARY",
+      "system": "IRVIN L. YOUNG MEMORIAL LIBRARY",
+      "address": "431 W. CENTER ST., WHITEWATER, WI",
+      "website": "https://whitewaterlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53036",
+        "53137",
+        "53178",
+        "53190",
+        "531HH",
+        "53549"
+      ]
+    },
+    {
+      "name": "POWERS MEMORIAL LIBRARY",
+      "system": "POWERS MEMORIAL LIBRARY",
+      "address": "115 W. MAIN ST., PALMYRA, WI",
+      "website": "https://www.palmyra.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53036",
+        "53137",
+        "53156",
+        "53178",
+        "531HH",
+        "53549"
+      ]
+    },
+    {
+      "name": "VIOLA PUBLIC LIBRARY",
+      "system": "VIOLA PUBLIC LIBRARY",
+      "address": "137 S. MAIN ST., VIOLA, WI",
+      "website": "https://violapubliclibrary.wordpress.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53518",
+        "53540",
+        "53581",
+        "53924",
+        "54664"
       ]
     }
   ]

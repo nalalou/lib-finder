@@ -1,91 +1,17 @@
 {
   "libraries": [
     {
-      "name": "ANDOVER PUBLIC LIBRARY",
-      "system": "ANDOVER PUBLIC LIBRARY",
-      "address": "355 ROUTE 6, ANDOVER, CT",
-      "website": "https://www.andoverconnecticut.org/library",
+      "name": "THOMPSON PUBLIC LIBRARY",
+      "system": "THOMPSON PUBLIC LIBRARY",
+      "address": "934 RIVERSIDE DRIVE, NORTH GROSVENORDALE, CT",
+      "website": "https://thompsonpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06232"
-      ]
-    },
-    {
-      "name": "BABCOCK LIBRARY",
-      "system": "BABCOCK LIBRARY",
-      "address": "25 POMPEY HOLLOW RD., ASHFORD, CT",
-      "website": "https://www.babcocklibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06278"
-      ]
-    },
-    {
-      "name": "BROOKLYN TOWN LIBRARY ASSOCIATION",
-      "system": "BROOKLYN TOWN LIBRARY ASSOCIATION",
-      "address": "10 CANTERBURY RD., BROOKLYN, CT",
-      "website": "https://www.brooklyntownlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06234"
-      ]
-    },
-    {
-      "name": "CHAPLIN PUBLIC LIBRARY",
-      "system": "CHAPLIN PUBLIC LIBRARY",
-      "address": "130 CHAPLIN ST., CHAPLIN, CT",
-      "website": "https://www.chaplinpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06235"
-      ]
-    },
-    {
-      "name": "SAXTON B. LITTLE FREE LIBRARY",
-      "system": "SAXTON B. LITTLE FREE LIBRARY",
-      "address": "319 ROUTE 87, COLUMBIA, CT",
-      "website": "https://www.columbiactlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06237"
-      ]
-    },
-    {
-      "name": "DOUGLAS LIBRARY OF HEBRON",
-      "system": "DOUGLAS LIBRARY OF HEBRON",
-      "address": "22 MAIN ST., HEBRON, CT",
-      "website": "https://douglaslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06248"
-      ]
-    },
-    {
-      "name": "KILLINGLY PUBLIC LIBRARY",
-      "system": "KILLINGLY PUBLIC LIBRARY",
-      "address": "25 WESTCOTT RD., DANIELSON, CT",
-      "website": "https://www.killinglypl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06239"
-      ]
-    },
-    {
-      "name": "JONATHAN TRUMBULL LIBRARY",
-      "system": "JONATHAN TRUMBULL LIBRARY",
-      "address": "580 EXETER RD., LEBANON, CT",
-      "website": "https://www.lebanonctlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06249"
+        "06255",
+        "50453",
+        "50473",
+        "50478"
       ]
     },
     {
@@ -96,7 +22,228 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06250"
+        "06250",
+        "76001",
+        "76002",
+        "76006",
+        "76011",
+        "76012",
+        "76013",
+        "76014",
+        "76015",
+        "76016",
+        "76017",
+        "76018",
+        "76021",
+        "76022",
+        "76040",
+        "76054",
+        "76063",
+        "76103",
+        "76104",
+        "76105",
+        "76106",
+        "76107",
+        "76109",
+        "76110",
+        "76111",
+        "76112",
+        "76114",
+        "76115",
+        "76116",
+        "76119",
+        "76120",
+        "76123",
+        "76127",
+        "76131",
+        "76132",
+        "76133",
+        "76134",
+        "76137",
+        "76155",
+        "76177",
+        "761HH"
+      ]
+    },
+    {
+      "name": "BENTLEY MEMORIAL LIBRARY",
+      "system": "BENTLEY MEMORIAL LIBRARY",
+      "address": "206 BOLTON CENTER ROAD, BOLTON, CT",
+      "website": "https://www.boltonct.gov/departments/bentley-memorial-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06029",
+        "06043",
+        "06231",
+        "06232",
+        "06268",
+        "06269"
+      ]
+    },
+    {
+      "name": "STAFFORD LIBRARY",
+      "system": "STAFFORD LIBRARY",
+      "address": "10 LEVINTHAL RUN, STAFFORD SPRINGS, CT",
+      "website": "https://stafford.biblio.org/eg/opac/home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06029",
+        "06076",
+        "06231",
+        "06232",
+        "06268",
+        "06269"
+      ]
+    },
+    {
+      "name": "ROCKVILLE PUBLIC LIBRARY, INC.",
+      "system": "ROCKVILLE PUBLIC LIBRARY, INC.",
+      "address": "52 UNION ST., VERNON, CT",
+      "website": "https://www.rockvillepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06029",
+        "06066",
+        "06231",
+        "06232",
+        "06268",
+        "06269"
+      ]
+    },
+    {
+      "name": "BABCOCK LIBRARY",
+      "system": "BABCOCK LIBRARY",
+      "address": "25 POMPEY HOLLOW RD., ASHFORD, CT",
+      "website": "https://www.babcocklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06278",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
+      ]
+    },
+    {
+      "name": "BROOKLYN TOWN LIBRARY ASSOCIATION",
+      "system": "BROOKLYN TOWN LIBRARY ASSOCIATION",
+      "address": "10 CANTERBURY RD., BROOKLYN, CT",
+      "website": "https://www.brooklyntownlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06234",
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
+      ]
+    },
+    {
+      "name": "CHAPLIN PUBLIC LIBRARY",
+      "system": "CHAPLIN PUBLIC LIBRARY",
+      "address": "130 CHAPLIN ST., CHAPLIN, CT",
+      "website": "https://www.chaplinpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06235",
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
+      ]
+    },
+    {
+      "name": "SAXTON B. LITTLE FREE LIBRARY",
+      "system": "SAXTON B. LITTLE FREE LIBRARY",
+      "address": "319 ROUTE 87, COLUMBIA, CT",
+      "website": "https://www.columbiactlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06029",
+        "06231",
+        "06232",
+        "06237",
+        "06268",
+        "06269"
+      ]
+    },
+    {
+      "name": "DOUGLAS LIBRARY OF HEBRON",
+      "system": "DOUGLAS LIBRARY OF HEBRON",
+      "address": "22 MAIN ST., HEBRON, CT",
+      "website": "https://douglaslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06029",
+        "06231",
+        "06232",
+        "06248",
+        "06268",
+        "06269"
+      ]
+    },
+    {
+      "name": "KILLINGLY PUBLIC LIBRARY",
+      "system": "KILLINGLY PUBLIC LIBRARY",
+      "address": "25 WESTCOTT RD., DANIELSON, CT",
+      "website": "https://www.killinglypl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06239",
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
+      ]
+    },
+    {
+      "name": "JONATHAN TRUMBULL LIBRARY",
+      "system": "JONATHAN TRUMBULL LIBRARY",
+      "address": "580 EXETER RD., LEBANON, CT",
+      "website": "https://www.lebanonctlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06249",
+        "06333",
+        "06334",
+        "06335",
+        "06336",
+        "06375",
+        "06376",
+        "06379",
+        "06380",
+        "06382",
+        "06385"
       ]
     },
     {
@@ -107,7 +254,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06258"
+        "06241",
+        "06256",
+        "06258",
+        "06259",
+        "06262",
+        "06277",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -118,7 +274,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06230"
+        "06230",
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -129,7 +294,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06260"
+        "06241",
+        "06256",
+        "06259",
+        "06260",
+        "06262",
+        "06277",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -140,18 +314,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06264"
-      ]
-    },
-    {
-      "name": "THOMPSON PUBLIC LIBRARY",
-      "system": "THOMPSON PUBLIC LIBRARY",
-      "address": "934 RIVERSIDE DRIVE, NORTH GROSVENORDALE, CT",
-      "website": "https://thompsonpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06255"
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06264",
+        "06277",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -162,6 +334,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "06029",
+        "06231",
+        "06232",
+        "06268",
+        "06269",
         "06279"
       ]
     },
@@ -173,7 +350,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06266"
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06266",
+        "06277",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -184,7 +370,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06226"
+        "06226",
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -195,7 +390,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06280"
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06280",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -206,7 +410,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06281"
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06281",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -217,7 +430,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06281"
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06281",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -228,7 +450,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06244"
+        "06241",
+        "06244",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -239,7 +470,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06281"
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06281",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -250,7 +490,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06238"
+        "06029",
+        "06231",
+        "06232",
+        "06238",
+        "06268",
+        "06269"
       ]
     },
     {
@@ -261,7 +506,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06242"
+        "06241",
+        "06242",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -272,7 +526,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06247"
+        "06241",
+        "06247",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06282",
+        "062HH",
+        "06374",
+        "06377"
       ]
     },
     {
@@ -283,7 +546,57 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06254"
+        "06254",
+        "06333",
+        "06334",
+        "06335",
+        "06336",
+        "06375",
+        "06376",
+        "06379",
+        "06380",
+        "06382",
+        "06385"
+      ]
+    },
+    {
+      "name": "CANTERBURY PUBLIC LIBRARY",
+      "system": "CANTERBURY PUBLIC LIBRARY",
+      "address": "1 MUNICIPAL DRIVE, CANTERBURY, CT",
+      "website": "https://www.canterburylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06282",
+        "062HH",
+        "06331",
+        "06374",
+        "06377"
+      ]
+    },
+    {
+      "name": "ALDRICH FREE PUBLIC LIBRARY",
+      "system": "ALDRICH FREE PUBLIC LIBRARY",
+      "address": "299 MAIN ST., MOOSUP, CT",
+      "website": "https://www.plainfieldct.org/how_do_i/libraries/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06241",
+        "06256",
+        "06259",
+        "06262",
+        "06277",
+        "06282",
+        "062HH",
+        "06354",
+        "06374",
+        "06377"
       ]
     }
   ]

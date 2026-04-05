@@ -8,7 +8,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28461"
+        "28420",
+        "28422",
+        "28451",
+        "28452",
+        "28461",
+        "28462",
+        "28465",
+        "28467",
+        "28468",
+        "28469",
+        "28470",
+        "28479"
       ]
     },
     {
@@ -19,7 +30,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28472"
+        "28423",
+        "28430",
+        "28431",
+        "28432",
+        "28436",
+        "28438",
+        "28439",
+        "28442",
+        "28450",
+        "28455",
+        "28456",
+        "28463",
+        "28472",
+        "284XX"
       ]
     },
     {
@@ -30,7 +54,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28401"
+        "28401",
+        "28403",
+        "28405",
+        "28409",
+        "28411",
+        "28412",
+        "28428",
+        "28429",
+        "28449",
+        "28480"
       ]
     },
     {
@@ -41,7 +74,97 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28425"
+        "28421",
+        "28425",
+        "28435",
+        "28443",
+        "28457",
+        "28471",
+        "28478"
+      ]
+    },
+    {
+      "name": "ONSLOW COUNTY PUBLIC LIBRARY",
+      "system": "ONSLOW COUNTY PUBLIC LIBRARY",
+      "address": "58 DORIS AVENUE E, JACKSONVILLE, NC",
+      "website": "https://www.onslowcountync.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28445",
+        "28454",
+        "28460",
+        "28539",
+        "28540",
+        "28543",
+        "28544",
+        "28546",
+        "28547",
+        "28555",
+        "28574",
+        "28582"
+      ]
+    },
+    {
+      "name": "BLADEN COUNTY PUBLIC LIBRARY",
+      "system": "BLADEN COUNTY PUBLIC LIBRARY",
+      "address": "111 N CYPRESS ST, ELIZABETHTOWN, NC",
+      "website": "https://www.chamberofcommerce.com/business-directory/north-carolina/elizabethtown/public-library/2002457396-bladen-county-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28320",
+        "28332",
+        "28337",
+        "28392",
+        "28399",
+        "283HH",
+        "28433",
+        "28434",
+        "28448",
+        "284HH"
+      ]
+    },
+    {
+      "name": "DUPLIN COUNTY LIBRARY",
+      "system": "DUPLIN COUNTY LIBRARY",
+      "address": "107 BOWDEN DR, KENANSVILLE, NC",
+      "website": "https://www.duplinnc.gov/205/Libraries",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28325",
+        "28349",
+        "28398",
+        "28453",
+        "28458",
+        "28464",
+        "28466",
+        "28508",
+        "28518",
+        "28521",
+        "28572"
+      ]
+    },
+    {
+      "name": "SAMPSON-CLINTON PUBLIC LIBRARY",
+      "system": "SAMPSON-CLINTON PUBLIC LIBRARY",
+      "address": "217 GRAHAM ST, CLINTON, NC",
+      "website": "https://www.sampsoncountync.gov/Government/Departments-A-Z/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28318",
+        "28328",
+        "28341",
+        "28344",
+        "28366",
+        "28382",
+        "28385",
+        "28393",
+        "28441",
+        "28444",
+        "28447"
       ]
     }
   ]

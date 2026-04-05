@@ -1,6 +1,66 @@
 {
   "libraries": [
     {
+      "name": "NORTH LAKE COUNTY PUBLIC LIBRARY",
+      "system": "NORTH LAKE COUNTY PUBLIC LIBRARY",
+      "address": "102 1ST STREET EAST, POLSON, MT",
+      "website": "https://northlakecountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59821",
+        "59824",
+        "59855",
+        "59860",
+        "598HH",
+        "59910",
+        "59914",
+        "59915",
+        "59929",
+        "59931"
+      ]
+    },
+    {
+      "name": "RONAN LIBRARY DISTRICT",
+      "system": "RONAN LIBRARY DISTRICT",
+      "address": "203 MAIN STREET SW, RONAN, MT",
+      "website": "https://ronanlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59821",
+        "59824",
+        "59855",
+        "59864",
+        "598HH",
+        "59910",
+        "59914",
+        "59915",
+        "59929",
+        "59931"
+      ]
+    },
+    {
+      "name": "ST IGNATIUS SCHOOL-COMMUNITY LIBRARY",
+      "system": "ST IGNATIUS SCHOOL-COMMUNITY LIBRARY",
+      "address": "76 THIRD AVE, SAINT IGNATIUS, MT",
+      "website": "https://townofstignatius.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59821",
+        "59824",
+        "59855",
+        "59865",
+        "598HH",
+        "59910",
+        "59914",
+        "59915",
+        "59929",
+        "59931"
+      ]
+    },
+    {
       "name": "IMAGINEIF KALISPELL",
       "system": "IMAGINEIF KALISPELL",
       "address": "247 1ST AVE EAST, KALISPELL, MT",
@@ -8,7 +68,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59901"
+        "59901",
+        "59911",
+        "59912",
+        "59913",
+        "59916",
+        "59919",
+        "59920",
+        "59921",
+        "59922",
+        "59925",
+        "59926",
+        "59927",
+        "59928",
+        "59932",
+        "59936",
+        "599HH"
       ]
     },
     {
@@ -19,7 +94,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59923"
+        "59917",
+        "59918",
+        "59923",
+        "59930",
+        "59933",
+        "59934",
+        "59935"
       ]
     },
     {
@@ -30,7 +111,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59937"
+        "59911",
+        "59912",
+        "59913",
+        "59916",
+        "59919",
+        "59920",
+        "59921",
+        "59922",
+        "59925",
+        "59926",
+        "59927",
+        "59928",
+        "59932",
+        "59936",
+        "59937",
+        "599HH"
       ]
     }
   ]

@@ -1,6 +1,59 @@
 {
   "libraries": [
     {
+      "name": "WASHINGTON COUNTY LIBRARY",
+      "system": "WASHINGTON COUNTY LIBRARY",
+      "address": "8595 CENTRAL PARK PLACE, WOODBURY, MN",
+      "website": "https://thewashingtoncountylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38701",
+        "38703",
+        "38722",
+        "38723",
+        "38744",
+        "38748",
+        "38756",
+        "38760",
+        "55125"
+      ]
+    },
+    {
+      "name": "HUMPHREYS COUNTY LIBRARY SYSTEM",
+      "system": "HUMPHREYS COUNTY LIBRARY SYSTEM",
+      "address": "105 SOUTH HAYDEN STREET, BELZONI, MS",
+      "website": "https://www.humphreys.lib.ms.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38754",
+        "387HH",
+        "39038",
+        "39097",
+        "390XX",
+        "39115",
+        "39166"
+      ]
+    },
+    {
+      "name": "SHARKEY-ISSAQUENA COUNTY LIBRARY",
+      "system": "SHARKEY-ISSAQUENA COUNTY LIBRARY",
+      "address": "116 R MORGANFIELD WAY, ROLLING FORK, MS",
+      "website": "https://www.sicl.lib.ms.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38721",
+        "38763",
+        "38765",
+        "39054",
+        "39061",
+        "39088",
+        "39159"
+      ]
+    },
+    {
       "name": "BOLIVAR COUNTY LIBRARY",
       "system": "BOLIVAR COUNTY LIBRARY",
       "address": "104 SOUTH LEFLORE AVENUE, CLEVELAND, MS",
@@ -8,7 +61,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38732"
+        "38725",
+        "38726",
+        "38730",
+        "38732",
+        "38740",
+        "38746",
+        "38759",
+        "38762",
+        "38764",
+        "38769",
+        "38772",
+        "38773",
+        "38774",
+        "387XX"
       ]
     },
     {
@@ -19,18 +85,33 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38751"
+        "38737",
+        "38738",
+        "38751",
+        "38753",
+        "38761",
+        "38768",
+        "38771",
+        "38778"
       ]
     },
     {
-      "name": "WASHINGTON COUNTY LIBRARY",
-      "system": "WASHINGTON COUNTY LIBRARY",
-      "address": "341 MAIN STREET, GREENVILLE, MS",
-      "website": "https://thewashingtoncountylibrary.com/",
+      "name": "GREENWOOD-LEFLORE PUBLIC LIBRARY",
+      "system": "GREENWOOD-LEFLORE PUBLIC LIBRARY",
+      "address": "405 WEST WASHINGTON STREET, GREENWOOD, MS",
+      "website": "https://www.glpls.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38701"
+        "38736",
+        "38930",
+        "38941",
+        "38944",
+        "38946",
+        "38952",
+        "38954",
+        "38959",
+        "389XX"
       ]
     }
   ]

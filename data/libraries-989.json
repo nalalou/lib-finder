@@ -1,6 +1,26 @@
 {
   "libraries": [
     {
+      "name": "RICHLAND PUBLIC LIBRARY",
+      "system": "RICHLAND PUBLIC LIBRARY",
+      "address": "955 NORTHGATE DR, RICHLAND, WA",
+      "website": "https://www.richland.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "989HH",
+        "99320",
+        "99337",
+        "99338",
+        "99345",
+        "99346",
+        "99350",
+        "99352",
+        "99353",
+        "993HH"
+      ]
+    },
+    {
       "name": "CLE ELUM (CARPENTER MEMORIAL) LIBRARY",
       "system": "CLE ELUM (CARPENTER MEMORIAL) LIBRARY",
       "address": "302 PENNSYLVANIA AVE., CLE ELUM, WA",
@@ -8,7 +28,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "98922"
+        "98068",
+        "98922",
+        "98925",
+        "98940",
+        "98943",
+        "98946",
+        "98950"
       ]
     },
     {
@@ -19,7 +45,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "98934"
+        "98068",
+        "98925",
+        "98934",
+        "98940",
+        "98943",
+        "98946",
+        "98950"
       ]
     },
     {
@@ -30,7 +62,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "98941"
+        "98068",
+        "98925",
+        "98940",
+        "98941",
+        "98943",
+        "98946",
+        "98950"
       ]
     },
     {
@@ -41,7 +79,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "98926"
+        "98068",
+        "98925",
+        "98926",
+        "98940",
+        "98943",
+        "98946",
+        "98950"
       ]
     },
     {
@@ -52,7 +96,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "98930"
+        "98902",
+        "98903",
+        "98908",
+        "98923",
+        "98930",
+        "98932",
+        "98933",
+        "98935",
+        "98936",
+        "98937",
+        "98938",
+        "98942",
+        "98944",
+        "98947",
+        "98948",
+        "98951",
+        "98952",
+        "98953",
+        "989XX"
       ]
     },
     {
@@ -63,7 +125,45 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "98901"
+        "98901",
+        "98902",
+        "98903",
+        "98908",
+        "98923",
+        "98932",
+        "98933",
+        "98935",
+        "98936",
+        "98937",
+        "98938",
+        "98942",
+        "98944",
+        "98947",
+        "98948",
+        "98951",
+        "98952",
+        "98953",
+        "989XX"
+      ]
+    },
+    {
+      "name": "MID-COLUMBIA LIBRARIES",
+      "system": "MID-COLUMBIA LIBRARIES",
+      "address": "405 S. DAYTON STREET, KENNEWICK, WA",
+      "website": "https://midcolumbialibraries.org/branch/kennewick",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "989HH",
+        "99320",
+        "99336",
+        "99337",
+        "99338",
+        "99345",
+        "99346",
+        "99350",
+        "99353",
+        "993HH"
       ]
     }
   ]

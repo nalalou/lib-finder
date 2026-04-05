@@ -1,6 +1,113 @@
 {
   "libraries": [
     {
+      "name": "FRIONA PUBLIC LIBRARY",
+      "system": "FRIONA PUBLIC LIBRARY",
+      "address": "109 W 7TH ST, FRIONA, TX",
+      "website": "https://www.frionalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79009",
+        "79035",
+        "79053",
+        "79325"
+      ]
+    },
+    {
+      "name": "HALE CENTER PUBLIC LIBRARY INC",
+      "system": "HALE CENTER PUBLIC LIBRARY INC",
+      "address": "609 MAIN ST, HALE CENTER, TX",
+      "website": "https://librarytechnology.org/library/24281",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79021",
+        "79032",
+        "79041",
+        "79250",
+        "79311"
+      ]
+    },
+    {
+      "name": "UNGER MEMORIAL LIBRARY",
+      "system": "UNGER MEMORIAL LIBRARY",
+      "address": "825 N AUSTIN ST, PLAINVIEW, TX",
+      "website": "https://www.plainviewtx.org/141/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79021",
+        "79032",
+        "79072",
+        "79250",
+        "79311"
+      ]
+    },
+    {
+      "name": "SPRINGLAKE-EARTH COMMUNITY LIBRARY",
+      "system": "SPRINGLAKE-EARTH COMMUNITY LIBRARY",
+      "address": "472 FM 302, SPRINGLAKE, TX",
+      "website": "https://www.springlake-earth.org/Siren/02feb00/lib/Pages/Homepage.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79031",
+        "79082",
+        "790XX",
+        "79312",
+        "79326",
+        "79369",
+        "79371",
+        "793XX"
+      ]
+    },
+    {
+      "name": "OLTON AREA LIBRARY",
+      "system": "OLTON AREA LIBRARY",
+      "address": "701 MAIN ST, OLTON, TX",
+      "website": "https://citylibrary.com/public-libraries/olton-area-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79031",
+        "79064",
+        "790XX",
+        "79312",
+        "79326",
+        "79369",
+        "79371",
+        "793XX"
+      ]
+    },
+    {
+      "name": "LUBBOCK PUBLIC LIBRARY",
+      "system": "LUBBOCK PUBLIC LIBRARY",
+      "address": "1306 9TH ST, LUBBOCK, TX",
+      "website": "https://ci.lubbock.tx.us/departments/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79350",
+        "79366",
+        "79401",
+        "79403",
+        "79404",
+        "79405",
+        "79406",
+        "79407",
+        "79410",
+        "79411",
+        "79412",
+        "79413",
+        "79414",
+        "79415",
+        "79416",
+        "79423",
+        "79424"
+      ]
+    },
+    {
       "name": "YOAKUM COUNTY/CECIL BICKLEY LIBRARY",
       "system": "YOAKUM COUNTY/CECIL BICKLEY LIBRARY",
       "address": "205 W 4TH ST, DENVER CITY, TX",
@@ -8,7 +115,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79323"
+        "79323",
+        "79376"
       ]
     },
     {
@@ -19,7 +127,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79331"
+        "79331",
+        "79377"
       ]
     },
     {
@@ -30,7 +139,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79336"
+        "79313",
+        "79336",
+        "79353",
+        "79358",
+        "79367",
+        "79380"
       ]
     },
     {
@@ -41,7 +155,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79339"
+        "79031",
+        "790XX",
+        "79312",
+        "79326",
+        "79339",
+        "79369",
+        "79371",
+        "793XX"
       ]
     },
     {
@@ -52,7 +173,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79346"
+        "79314",
+        "79346",
+        "79379"
       ]
     },
     {
@@ -63,6 +186,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79320",
+        "79324",
+        "79344",
         "79347"
       ]
     },
@@ -74,7 +200,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79355"
+        "79355",
+        "79376"
       ]
     },
     {
@@ -85,6 +212,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79330",
         "79356"
       ]
     },
@@ -96,6 +224,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79342",
+        "79359",
         "79360"
       ]
     },
@@ -107,7 +237,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79373"
+        "79351",
+        "79373",
+        "79381",
+        "79383"
       ]
     },
     {
@@ -118,7 +251,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79329"
+        "79329",
+        "79350",
+        "79366",
+        "79403",
+        "79404",
+        "79405",
+        "79406",
+        "79407",
+        "79410",
+        "79411",
+        "79412",
+        "79413",
+        "79414",
+        "79415",
+        "79416",
+        "79423",
+        "79424"
       ]
     },
     {
@@ -129,7 +278,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79364"
+        "79350",
+        "79364",
+        "79366",
+        "79403",
+        "79404",
+        "79405",
+        "79406",
+        "79407",
+        "79410",
+        "79411",
+        "79412",
+        "79413",
+        "79414",
+        "79415",
+        "79416",
+        "79423",
+        "79424"
       ]
     },
     {
@@ -140,7 +305,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79316"
+        "79316",
+        "79345",
+        "79378"
       ]
     },
     {
@@ -151,7 +318,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79382"
+        "79350",
+        "79366",
+        "79382",
+        "79403",
+        "79404",
+        "79405",
+        "79406",
+        "79407",
+        "79410",
+        "79411",
+        "79412",
+        "79413",
+        "79414",
+        "79415",
+        "79416",
+        "79423",
+        "79424"
       ]
     },
     {
@@ -162,7 +345,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79322"
+        "79322",
+        "79343",
+        "79357",
+        "793HH"
       ]
     },
     {
@@ -173,6 +359,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79220",
+        "79229",
+        "79243",
         "79370"
       ]
     },
@@ -184,7 +373,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79363"
+        "79350",
+        "79363",
+        "79366",
+        "79403",
+        "79404",
+        "79405",
+        "79406",
+        "79407",
+        "79410",
+        "79411",
+        "79412",
+        "79413",
+        "79414",
+        "79415",
+        "79416",
+        "79423",
+        "79424"
       ]
     },
     {
@@ -195,7 +400,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79372"
+        "79313",
+        "79353",
+        "79358",
+        "79367",
+        "79372",
+        "79380"
       ]
     }
   ]

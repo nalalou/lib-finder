@@ -1,6 +1,40 @@
 {
   "libraries": [
     {
+      "name": "GAYLORD CITY LIBRARY",
+      "system": "GAYLORD CITY LIBRARY",
+      "address": "505 MAIN, GAYLORD, KS",
+      "website": "http://www.gaylordkansas.com/library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66932",
+        "669XX",
+        "67628",
+        "67638"
+      ]
+    },
+    {
+      "name": "WASHINGTON PUBLIC LIBRARY",
+      "system": "WASHINGTON PUBLIC LIBRARY",
+      "address": "116 E. 2ND, WASHINGTON, KS",
+      "website": "https://washboropl.org/contact-us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07825",
+        "07832",
+        "07833",
+        "07838",
+        "07846",
+        "07863",
+        "07865",
+        "07882",
+        "08886",
+        "66968"
+      ]
+    },
+    {
       "name": "RANDALL PUBLIC LIBRARY",
       "system": "RANDALL PUBLIC LIBRARY",
       "address": "107 MAIN ST., RANDALL, KS",
@@ -8,7 +42,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66963"
+        "66941",
+        "66963",
+        "66970"
       ]
     },
     {
@@ -19,7 +55,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66942"
+        "66941",
+        "66942",
+        "66970"
       ]
     },
     {
@@ -30,6 +68,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66930",
+        "66935",
+        "66959",
+        "66960",
         "66964"
       ]
     },
@@ -41,7 +83,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66936"
+        "66936",
+        "66941",
+        "66970"
       ]
     },
     {
@@ -52,7 +96,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66952"
+        "66932",
+        "66952",
+        "669XX",
+        "67628"
       ]
     },
     {
@@ -63,7 +110,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66939"
+        "66930",
+        "66935",
+        "66939",
+        "66959",
+        "66960"
       ]
     },
     {
@@ -74,7 +125,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66948"
+        "66948",
+        "67417",
+        "67466"
       ]
     },
     {
@@ -85,6 +138,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66930",
+        "66935",
+        "66959",
+        "66960",
         "66966"
       ]
     },
@@ -96,7 +153,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66949"
+        "66941",
+        "66949",
+        "66970"
       ]
     },
     {
@@ -107,7 +166,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66951"
+        "66932",
+        "66951",
+        "669XX",
+        "67628"
       ]
     },
     {
@@ -118,7 +180,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66938"
+        "66938",
+        "67417",
+        "67466"
       ]
     },
     {
@@ -129,7 +193,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66956"
+        "66941",
+        "66956",
+        "66970"
       ]
     },
     {
@@ -140,18 +206,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66967"
-      ]
-    },
-    {
-      "name": "BELLEVILLE PUBLIC LIBRARY",
-      "system": "BELLEVILLE PUBLIC LIBRARY",
-      "address": "1327 19TH STREET, BELLEVILLE, KS",
-      "website": "https://bellepl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66935"
+        "66932",
+        "66967",
+        "669XX",
+        "67628"
       ]
     },
     {
@@ -162,18 +220,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66901"
-      ]
-    },
-    {
-      "name": "CLIFTON PUBLIC LIBRARY",
-      "system": "CLIFTON PUBLIC LIBRARY",
-      "address": "104 E. PARALLEL, CLIFTON, KS",
-      "website": "https://cliftonpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66937"
+        "66901",
+        "67417",
+        "67466"
       ]
     },
     {
@@ -184,18 +233,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66945"
-      ]
-    },
-    {
-      "name": "WASHINGTON PUBLIC LIBRARY",
-      "system": "WASHINGTON PUBLIC LIBRARY",
-      "address": "116 E. 2ND, WASHINGTON, KS",
-      "website": "https://washboropl.org/contact-us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66968"
+        "66933",
+        "66937",
+        "66943",
+        "66944",
+        "66945",
+        "66946",
+        "66953",
+        "66955",
+        "66958",
+        "66962"
       ]
     },
     {
@@ -206,7 +253,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66940"
+        "66930",
+        "66935",
+        "66940",
+        "66959",
+        "66960"
+      ]
+    },
+    {
+      "name": "CLAY CENTER CARNEGIE LIBRARY",
+      "system": "CLAY CENTER CARNEGIE LIBRARY",
+      "address": "706 6 ST, CLAY CENTER, KS",
+      "website": "http://claycenter.lib.nckls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "669HH",
+        "67432",
+        "67447",
+        "67458",
+        "67468",
+        "674HH"
       ]
     }
   ]

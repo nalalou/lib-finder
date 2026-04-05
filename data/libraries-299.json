@@ -1,6 +1,27 @@
 {
   "libraries": [
     {
+      "name": "COLLETON COUNTY MEMORIAL LIBRARY",
+      "system": "COLLETON COUNTY MEMORIAL LIBRARY",
+      "address": "600 HAMPTON STREET, WALTERBORO, SC",
+      "website": "https://www.colletonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29082",
+        "29435",
+        "29446",
+        "29452",
+        "29474",
+        "29475",
+        "29481",
+        "29488",
+        "29493",
+        "29929",
+        "29945"
+      ]
+    },
+    {
       "name": "BEAUFORT COUNTY LIBRARY",
       "system": "BEAUFORT COUNTY LIBRARY",
       "address": "311 SCOTT STREET, BEAUFORT, SC",
@@ -8,7 +29,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29902"
+        "29902",
+        "29906",
+        "29910",
+        "29920",
+        "29926",
+        "29928",
+        "29935",
+        "29940",
+        "29941",
+        "299HH"
       ]
     }
   ]

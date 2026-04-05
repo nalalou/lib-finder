@@ -8,7 +8,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74429"
+        "74014",
+        "74429",
+        "74446",
+        "74454"
       ]
     },
     {
@@ -19,7 +22,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74437"
+        "74421",
+        "74431",
+        "74437",
+        "74445",
+        "74456",
+        "74460"
       ]
     },
     {
@@ -30,7 +38,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74403"
+        "74401",
+        "74403",
+        "74422",
+        "74423",
+        "74434",
+        "74436",
+        "74450",
+        "74455",
+        "74463",
+        "74468",
+        "74469",
+        "74470"
       ]
     },
     {
@@ -41,7 +60,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74447"
+        "74421",
+        "74431",
+        "74445",
+        "74447",
+        "74456",
+        "74460"
       ]
     },
     {
@@ -52,7 +76,33 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "74014",
+        "74446",
+        "74454",
         "74467"
+      ]
+    },
+    {
+      "name": "SOUTHEAST OKLAHOMA LIBRARY SYSTEM",
+      "system": "SOUTHEAST OKLAHOMA LIBRARY SYSTEM",
+      "address": "401 N 2ND, MCALESTER, OK",
+      "website": "https://www.seolibraries.com/about/hours-locations/mcalester",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74425",
+        "74430",
+        "74442",
+        "74501",
+        "74522",
+        "74528",
+        "74546",
+        "74547",
+        "74553",
+        "74554",
+        "74560",
+        "74561",
+        "74565"
       ]
     }
   ]

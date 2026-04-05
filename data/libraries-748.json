@@ -8,18 +8,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74820"
-      ]
-    },
-    {
-      "name": "CHANDLER PUBLIC LIBRARY",
-      "system": "CHANDLER PUBLIC LIBRARY",
-      "address": "1021 S MANVEL, CHANDLER, OK",
-      "website": "https://chandlerlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74834"
+        "74820",
+        "74825",
+        "74842",
+        "74843",
+        "74844",
+        "74865",
+        "74871"
       ]
     },
     {
@@ -30,7 +25,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74848"
+        "74531",
+        "74570",
+        "74827",
+        "74839",
+        "74848",
+        "74850",
+        "748HH"
       ]
     },
     {
@@ -41,7 +42,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74849"
+        "74830",
+        "74837",
+        "74849",
+        "74867"
       ]
     },
     {
@@ -52,7 +56,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74864"
+        "74026",
+        "74824",
+        "74832",
+        "74834",
+        "74864",
+        "74869",
+        "74881"
       ]
     },
     {
@@ -63,6 +73,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "74830",
+        "74837",
+        "74867",
         "74868"
       ]
     },
@@ -74,6 +87,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73074",
+        "73433",
+        "73434",
+        "73444",
         "74872"
       ]
     },
@@ -85,7 +102,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74883"
+        "74531",
+        "74570",
+        "74827",
+        "74839",
+        "74850",
+        "74883",
+        "748HH"
       ]
     },
     {
@@ -96,6 +119,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "74830",
+        "74837",
+        "74867",
         "74884"
       ]
     },
@@ -107,7 +133,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74859"
+        "74829",
+        "74833",
+        "74859",
+        "74860",
+        "74880"
       ]
     },
     {
@@ -118,18 +148,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74875"
-      ]
-    },
-    {
-      "name": "ALLEN PUBLIC LIBRARY",
-      "system": "ALLEN PUBLIC LIBRARY",
-      "address": "214 EAST BROADWAY, ALLEN, OK",
-      "website": "https://www.allenlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74825"
+        "74026",
+        "74824",
+        "74832",
+        "74834",
+        "74869",
+        "74875",
+        "74881"
       ]
     },
     {
@@ -140,7 +165,52 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74855"
+        "74026",
+        "74824",
+        "74832",
+        "74834",
+        "74855",
+        "74869",
+        "74881"
+      ]
+    },
+    {
+      "name": "STROUD PUBLIC LIBRARY",
+      "system": "STROUD PUBLIC LIBRARY",
+      "address": "301 WEST 7TH, STROUD, OK",
+      "website": "https://cityofstroud.com/stroud-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74026",
+        "74079",
+        "74824",
+        "74832",
+        "74834",
+        "74869",
+        "74881"
+      ]
+    },
+    {
+      "name": "PIONEER LIBRARY SYSTEM",
+      "system": "PIONEER LIBRARY SYSTEM",
+      "address": "300 NORMAN CENTER COURT, NORMAN, OK",
+      "website": "https://pioneerlibrarysystem.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73026",
+        "73051",
+        "73068",
+        "73069",
+        "73071",
+        "73072",
+        "73160",
+        "73165",
+        "73170",
+        "73173",
+        "731HH",
+        "74857"
       ]
     }
   ]

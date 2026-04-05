@@ -8,7 +8,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72560"
+        "72051",
+        "72533",
+        "72555",
+        "72560",
+        "72567",
+        "72663",
+        "72680"
       ]
     },
     {
@@ -19,7 +25,66 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72501"
+        "72165",
+        "72501",
+        "72522",
+        "72524",
+        "72526",
+        "72527",
+        "72534",
+        "72550",
+        "72553",
+        "72562",
+        "72564",
+        "72568",
+        "72571",
+        "72579"
+      ]
+    },
+    {
+      "name": "LAWRENCE COUNTY LIBRARY",
+      "system": "LAWRENCE COUNTY LIBRARY",
+      "address": "115 WEST WALNUT STREET, WALNUT RIDGE, AR",
+      "website": "http://lawrencecountylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72410",
+        "72415",
+        "72433",
+        "72434",
+        "72440",
+        "72445",
+        "72457",
+        "72458",
+        "72459",
+        "72466",
+        "72469",
+        "72476",
+        "724HH",
+        "72572"
+      ]
+    },
+    {
+      "name": "BAXTER COUNTY LIBRARY",
+      "system": "BAXTER COUNTY LIBRARY",
+      "address": "300 LIBRARY HILL, MOUNTAIN HOME, AR",
+      "website": "https://www.baxtercountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72537",
+        "72544",
+        "725HH",
+        "72617",
+        "72623",
+        "72626",
+        "72635",
+        "72642",
+        "72651",
+        "72653",
+        "72658",
+        "726HH"
       ]
     }
   ]

@@ -1,6 +1,69 @@
 {
   "libraries": [
     {
+      "name": "MORGAN COUNTY PUBLIC LIBRARY",
+      "system": "MORGAN COUNTY PUBLIC LIBRARY",
+      "address": "151 UNIVERSITY DRIVE, WEST LIBERTY, KY",
+      "website": "http://morgancountylibrary.info",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25411",
+        "25422",
+        "41472"
+      ]
+    },
+    {
+      "name": "HAMPSHIRE COUNTY PUBLIC LIBRARY",
+      "system": "HAMPSHIRE COUNTY PUBLIC LIBRARY",
+      "address": "153 WEST MAIN STREET, ROMNEY, WV",
+      "website": "https://hampshirecopubliclib.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25431",
+        "25437",
+        "25444",
+        "26704",
+        "26714",
+        "26722",
+        "26755",
+        "26757",
+        "26761",
+        "26763",
+        "26808",
+        "26817",
+        "26823",
+        "26852",
+        "26865"
+      ]
+    },
+    {
+      "name": "CAPON BRIDGE PUBLIC LIBRARY",
+      "system": "CAPON BRIDGE PUBLIC LIBRARY",
+      "address": "2987 NORTHWESTERN PIKE, CAPON BRIDGE, WV",
+      "website": "https://lib-kmcpl.wvnet.edu/caponbridge/about-us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25431",
+        "25437",
+        "25444",
+        "26704",
+        "26711",
+        "26714",
+        "26722",
+        "26755",
+        "26761",
+        "26763",
+        "26808",
+        "26817",
+        "26823",
+        "26852",
+        "26865"
+      ]
+    },
+    {
       "name": "MARTINSBURG-BERKELEY CO. PUBLIC LIBRARY",
       "system": "MARTINSBURG-BERKELEY CO. PUBLIC LIBRARY",
       "address": "101 WEST KING STREET, MARTINSBURG, WV",
@@ -8,7 +71,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "25401"
+        "25401",
+        "25413",
+        "25419",
+        "25420",
+        "25421",
+        "25427",
+        "25428"
       ]
     },
     {
@@ -19,7 +88,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "25425"
+        "25414",
+        "25425",
+        "25430",
+        "25438",
+        "25441",
+        "25442",
+        "254HH"
       ]
     },
     {
@@ -30,7 +105,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "25446"
+        "25414",
+        "25430",
+        "25438",
+        "25441",
+        "25442",
+        "25446",
+        "254HH"
       ]
     },
     {
@@ -41,18 +122,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "25443"
-      ]
-    },
-    {
-      "name": "MORGAN COUNTY PUBLIC LIBRARY",
-      "system": "MORGAN COUNTY PUBLIC LIBRARY",
-      "address": "105 CONGRESS ST., BERKELEY SPRINGS, WV",
-      "website": "http://morgancountylibrary.info",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "25411"
+        "25414",
+        "25430",
+        "25438",
+        "25441",
+        "25442",
+        "25443",
+        "254HH"
       ]
     },
     {
@@ -63,6 +139,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "25411",
+        "25422",
         "25434"
       ]
     }

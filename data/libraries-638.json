@@ -1,58 +1,26 @@
 {
   "libraries": [
     {
-      "name": "KELLER PUBLIC LIBRARY OF DEXTER",
-      "system": "KELLER PUBLIC LIBRARY OF DEXTER",
-      "address": "402 W GRANT ST, DEXTER, MO",
-      "website": "https://www.kellerpl.lib.mo.us/",
+      "name": "BLOOMFIELD PUBLIC LIBRARY",
+      "system": "BLOOMFIELD PUBLIC LIBRARY",
+      "address": "200 SENECA ST, BLOOMFIELD, MO",
+      "website": "https://www.bplnj.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63841"
-      ]
-    },
-    {
-      "name": "HAYTI CONRAN MEMORIAL LIBRARY",
-      "system": "HAYTI CONRAN MEMORIAL LIBRARY",
-      "address": "302 E MAIN ST, HAYTI, MO",
-      "website": "https://librarytechnology.org/library/20147",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63851"
-      ]
-    },
-    {
-      "name": "MISSISSIPPI COUNTY LIBRARY DISTRICT",
-      "system": "MISSISSIPPI COUNTY LIBRARY DISTRICT",
-      "address": "105 E MARSHALL ST, CHARLESTON, MO",
-      "website": "https://www.missco.lib.mo.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63834"
-      ]
-    },
-    {
-      "name": "LILBOURN MEMORIAL LIBRARY",
-      "system": "LILBOURN MEMORIAL LIBRARY",
-      "address": "210 E LEWIS AVE, LILBOURN, MO",
-      "website": "https://librarytechnology.org/library/20353",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63862"
-      ]
-    },
-    {
-      "name": "CARUTHERSVILLE PUBLIC LIBRARY",
-      "system": "CARUTHERSVILLE PUBLIC LIBRARY",
-      "address": "707 W 13TH ST, CARUTHERSVILLE, MO",
-      "website": "http://cville.lib.mo.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63830"
+        "17020",
+        "17024",
+        "17037",
+        "17040",
+        "17045",
+        "17047",
+        "17062",
+        "17068",
+        "17069",
+        "17074",
+        "17090",
+        "170XX",
+        "63825"
       ]
     },
     {
@@ -63,7 +31,150 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63877"
+        "63826",
+        "63827",
+        "63839",
+        "63853",
+        "63877",
+        "63879"
+      ]
+    },
+    {
+      "name": "CHAFFEE PUBLIC LIBRARY",
+      "system": "CHAFFEE PUBLIC LIBRARY",
+      "address": "202 WRIGHT AVE, CHAFFEE, MO",
+      "website": "http://www.cityofchaffee.com/chflibrary/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63736",
+        "63740",
+        "63742",
+        "63758",
+        "63767",
+        "63771",
+        "63774",
+        "63780",
+        "63784",
+        "63824"
+      ]
+    },
+    {
+      "name": "ADVANCE COMMUNITY LIBRARY",
+      "system": "ADVANCE COMMUNITY LIBRARY",
+      "address": "305 POPLAR ST, ADVANCE, MO",
+      "website": "http://www.advancecommunitylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63730",
+        "63735",
+        "63738",
+        "63846",
+        "63850",
+        "63936"
+      ]
+    },
+    {
+      "name": "PUXICO PUBLIC LIBRARY",
+      "system": "PUXICO PUBLIC LIBRARY",
+      "address": "201 N HICKMAN ST, PUXICO, MO",
+      "website": "https://www.puxico.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63735",
+        "63738",
+        "63846",
+        "63850",
+        "63936",
+        "63960"
+      ]
+    },
+    {
+      "name": "KELLER PUBLIC LIBRARY OF DEXTER",
+      "system": "KELLER PUBLIC LIBRARY OF DEXTER",
+      "address": "402 W GRANT ST, DEXTER, MO",
+      "website": "https://www.kellerpl.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63735",
+        "63738",
+        "63841",
+        "63846",
+        "63850",
+        "63936"
+      ]
+    },
+    {
+      "name": "HAYTI CONRAN MEMORIAL LIBRARY",
+      "system": "HAYTI CONRAN MEMORIAL LIBRARY",
+      "address": "302 E MAIN ST, HAYTI, MO",
+      "website": "https://librarytechnology.org/library/20147",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63826",
+        "63827",
+        "63839",
+        "63851",
+        "63853",
+        "63879"
+      ]
+    },
+    {
+      "name": "MISSISSIPPI COUNTY LIBRARY DISTRICT",
+      "system": "MISSISSIPPI COUNTY LIBRARY DISTRICT",
+      "address": "105 E MARSHALL ST, CHARLESTON, MO",
+      "website": "https://www.missco.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63820",
+        "63823",
+        "63834",
+        "63845",
+        "63882",
+        "638HH"
+      ]
+    },
+    {
+      "name": "LILBOURN MEMORIAL LIBRARY",
+      "system": "LILBOURN MEMORIAL LIBRARY",
+      "address": "210 E LEWIS AVE, LILBOURN, MO",
+      "website": "https://librarytechnology.org/library/20353",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63828",
+        "63833",
+        "63848",
+        "63860",
+        "63862",
+        "63866",
+        "63867",
+        "63868",
+        "63869",
+        "63870",
+        "63874",
+        "63878"
+      ]
+    },
+    {
+      "name": "CARUTHERSVILLE PUBLIC LIBRARY",
+      "system": "CARUTHERSVILLE PUBLIC LIBRARY",
+      "address": "707 W 13TH ST, CARUTHERSVILLE, MO",
+      "website": "http://cville.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63826",
+        "63827",
+        "63830",
+        "63839",
+        "63853",
+        "63879"
       ]
     },
     {
@@ -74,7 +185,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63857"
+        "63821",
+        "63829",
+        "63837",
+        "63847",
+        "63849",
+        "63852",
+        "63855",
+        "63857",
+        "63863",
+        "63876",
+        "63880",
+        "63933"
       ]
     },
     {
@@ -85,7 +207,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63801"
+        "63736",
+        "63742",
+        "63758",
+        "63767",
+        "63771",
+        "63774",
+        "63780",
+        "63784",
+        "63801",
+        "63824"
       ]
     },
     {
@@ -96,18 +227,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63873"
-      ]
-    },
-    {
-      "name": "BLOOMFIELD PUBLIC LIBRARY",
-      "system": "BLOOMFIELD PUBLIC LIBRARY",
-      "address": "200 SENECA ST, BLOOMFIELD, MO",
-      "website": "https://www.bplnj.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63825"
+        "63828",
+        "63833",
+        "63848",
+        "63860",
+        "63866",
+        "63867",
+        "63868",
+        "63869",
+        "63870",
+        "63873",
+        "63874",
+        "63878"
       ]
     },
     {
@@ -118,7 +249,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63822"
+        "63735",
+        "63738",
+        "63822",
+        "63846",
+        "63850",
+        "63936"
       ]
     }
   ]

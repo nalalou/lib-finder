@@ -1,14 +1,35 @@
 {
   "libraries": [
     {
-      "name": "ARDMORE PUBLIC LIBRARY",
-      "system": "ARDMORE PUBLIC LIBRARY",
-      "address": "320 E STREET NW, ARDMORE, OK",
-      "website": "https://ardmore.okpls.org/",
+      "name": "STRATFORD - CHANDLER-WATTS LIBRARY",
+      "system": "STRATFORD - CHANDLER-WATTS LIBRARY",
+      "address": "340 N OAK, STRATFORD, OK",
+      "website": "https://cwlibrary.okpls.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73401"
+        "73074",
+        "73433",
+        "73434",
+        "73444",
+        "74872"
+      ]
+    },
+    {
+      "name": "DUNCAN PUBLIC LIBRARY",
+      "system": "DUNCAN PUBLIC LIBRARY",
+      "address": "122 N HWY 75, DUNCAN, AZ",
+      "website": "https://greenleelibraries.org/duncan-library-information/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73425",
+        "73442",
+        "73491",
+        "73529",
+        "73533",
+        "73548",
+        "85534"
       ]
     },
     {
@@ -19,7 +40,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73401"
+        "73401",
+        "73435",
+        "73437",
+        "73438",
+        "73443",
+        "73458",
+        "73463",
+        "73481",
+        "73487",
+        "73488"
       ]
     },
     {
@@ -30,6 +60,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73439",
+        "73440",
         "73446"
       ]
     },
@@ -41,7 +73,113 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73456"
+        "73456",
+        "73520",
+        "73561",
+        "73565",
+        "73569"
+      ]
+    },
+    {
+      "name": "LINDSAY COMMUNITY LIBRARY",
+      "system": "LINDSAY COMMUNITY LIBRARY",
+      "address": "112 W CHOCTAW, LINDSAY, OK",
+      "website": "https://www.cityoflindsay.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73052",
+        "73074",
+        "73433",
+        "73434",
+        "73444"
+      ]
+    },
+    {
+      "name": "MARLOW - GARLAND SMITH PUBLIC LIBRARY",
+      "system": "MARLOW - GARLAND SMITH PUBLIC LIBRARY",
+      "address": "702 W. MAIN, MARLOW, OK",
+      "website": "https://www.garlandsmithpubliclibrary.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73055",
+        "73425",
+        "73442",
+        "73491",
+        "73529",
+        "73533",
+        "73548"
+      ]
+    },
+    {
+      "name": "MAYSVILLE PUBLIC LIBRARY",
+      "system": "MAYSVILLE PUBLIC LIBRARY",
+      "address": "506 WILLIAMS, MAYSVILLE, OK",
+      "website": "https://maysvillelibrary.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73057",
+        "73074",
+        "73433",
+        "73434",
+        "73444"
+      ]
+    },
+    {
+      "name": "PAULS VALLEY-NORA SPARKS WARREN MEM LIBRARY",
+      "system": "PAULS VALLEY-NORA SPARKS WARREN MEM LIBRARY",
+      "address": "210 N WILLOW ST., PAULS VALLEY, OK",
+      "website": "https://paulsvalley.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73074",
+        "73075",
+        "73433",
+        "73434",
+        "73444"
+      ]
+    },
+    {
+      "name": "WYNNEWOOD PUBLIC LIBRARY",
+      "system": "WYNNEWOOD PUBLIC LIBRARY",
+      "address": "108 N. DEAN A MCGEE, WYNNEWOOD, OK",
+      "website": "https://wynnewood.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73074",
+        "73098",
+        "73433",
+        "73434",
+        "73444"
+      ]
+    },
+    {
+      "name": "DURANT-DONALD REYNOLDS COMMUNITY CT & LIBRARY",
+      "system": "DURANT-DONALD REYNOLDS COMMUNITY CT & LIBRARY",
+      "address": "1515 WEST MAIN, DURANT, OK",
+      "website": "https://www.donaldwreynolds.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73449",
+        "734HH",
+        "74701",
+        "74720",
+        "74721",
+        "74723",
+        "74726",
+        "74729",
+        "74730",
+        "74731",
+        "74733",
+        "74741",
+        "74747",
+        "74753",
+        "747HH"
       ]
     }
   ]

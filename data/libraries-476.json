@@ -1,6 +1,19 @@
 {
   "libraries": [
     {
+      "name": "SPENCER COUNTY PUBLIC LIBRARY",
+      "system": "SPENCER COUNTY PUBLIC LIBRARY",
+      "address": "210 WALNUT STREET, ROCKPORT, IN",
+      "website": "https://spencercountypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40046",
+        "40071",
+        "47635"
+      ]
+    },
+    {
       "name": "OWENSVILLE CARNEGIE PUBLIC LIBRARY",
       "system": "OWENSVILLE CARNEGIE PUBLIC LIBRARY",
       "address": "110 SOUTH MAIN STREET, OWENSVILLE, IN",
@@ -8,18 +21,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47665"
-      ]
-    },
-    {
-      "name": "PRINCETON PUBLIC LIBRARY",
-      "system": "PRINCETON PUBLIC LIBRARY",
-      "address": "124 SOUTH HART STREET, PRINCETON, IN",
-      "website": "http://www.princetonpl.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47670"
+        "47639",
+        "47640",
+        "47647",
+        "47649",
+        "47654",
+        "47665",
+        "47666",
+        "47670",
+        "47683",
+        "476HH"
       ]
     },
     {
@@ -30,7 +41,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47648"
+        "47639",
+        "47640",
+        "47647",
+        "47648",
+        "47649",
+        "47654",
+        "47666",
+        "47670",
+        "47683",
+        "476HH"
       ]
     },
     {
@@ -41,7 +61,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47660"
+        "47639",
+        "47640",
+        "47647",
+        "47649",
+        "47654",
+        "47660",
+        "47666",
+        "47670",
+        "47683",
+        "476HH"
       ]
     },
     {
@@ -52,7 +81,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47633"
+        "47612",
+        "47616",
+        "47633",
+        "47638"
       ]
     },
     {
@@ -63,7 +95,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47631"
+        "47612",
+        "47616",
+        "47631",
+        "47638"
       ]
     },
     {
@@ -74,18 +109,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47620"
-      ]
-    },
-    {
-      "name": "SPENCER COUNTY PUBLIC LIBRARY",
-      "system": "SPENCER COUNTY PUBLIC LIBRARY",
-      "address": "210 WALNUT STREET, ROCKPORT, IN",
-      "website": "https://spencercountypubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47635"
+        "47612",
+        "47616",
+        "47620",
+        "47638"
       ]
     },
     {
@@ -96,7 +123,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47630"
+        "47610",
+        "47613",
+        "47619",
+        "47630",
+        "47637"
       ]
     },
     {
@@ -107,7 +138,32 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47601"
+        "47601",
+        "47610",
+        "47613",
+        "47619",
+        "47637"
+      ]
+    },
+    {
+      "name": "LINCOLN HERITAGE PUBLIC LIBRARY",
+      "system": "LINCOLN HERITAGE PUBLIC LIBRARY",
+      "address": "105 WALLACE STREET, DALE, IN",
+      "website": "https://www.lincolnheritage.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47523",
+        "47531",
+        "47536",
+        "47537",
+        "47550",
+        "47552",
+        "47577",
+        "47579",
+        "47611",
+        "47615",
+        "47634"
       ]
     }
   ]

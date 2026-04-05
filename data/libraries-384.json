@@ -1,25 +1,22 @@
 {
   "libraries": [
     {
-      "name": "GILES COUNTY PUBLIC LIBRARY",
-      "system": "GILES COUNTY PUBLIC LIBRARY",
-      "address": "122 SOUTH SECOND STREET, PULASKI (S), TN",
-      "website": "https://www.gilescountylibrary.org/",
+      "name": "FAYETTEVILLE-LINCOLN COUNTY PUBLIC LIBRARY",
+      "system": "FAYETTEVILLE-LINCOLN COUNTY PUBLIC LIBRARY",
+      "address": "306 ELK AVENUE NORTH, FAYETTEVILLE, TN",
+      "website": "https://www.flcpl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38478"
-      ]
-    },
-    {
-      "name": "LAWRENCE COUNTY PUBLIC LIBRARY",
-      "system": "LAWRENCE COUNTY PUBLIC LIBRARY",
-      "address": "519 EAST GAINES STREET, LAWRENCEBURG (S), TN",
-      "website": "https://lcplky.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "38464"
+        "37144",
+        "37328",
+        "37334",
+        "37335",
+        "37348",
+        "37359",
+        "38453",
+        "38459",
+        "38488"
       ]
     },
     {
@@ -34,28 +31,6 @@
       ]
     },
     {
-      "name": "MAURY COUNTY PUBLIC LIBRARY",
-      "system": "MAURY COUNTY PUBLIC LIBRARY",
-      "address": "211 WEST EIGHTH STREET, COLUMBIA (S), TN",
-      "website": "https://www.maurycounty-tn.gov/679/Maury-County-Public-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "38401"
-      ]
-    },
-    {
-      "name": "WAYNE COUNTY PUBLIC LIBRARY",
-      "system": "WAYNE COUNTY PUBLIC LIBRARY",
-      "address": "525A HIGHWAY 64 EAST, WAYNESBORO (S), TN",
-      "website": "https://www.visitwaynecountyohio.com/listing/wayne-county-public-library/93/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "38485"
-      ]
-    },
-    {
       "name": "ARDMORE PUBLIC LIBRARY",
       "system": "ARDMORE PUBLIC LIBRARY",
       "address": "25836 MAIN STREET, ARDMORE, TN",
@@ -63,7 +38,75 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38449"
+        "38449",
+        "38460",
+        "38472",
+        "38477"
+      ]
+    },
+    {
+      "name": "SPRING HILL PUBLIC LIBRARY",
+      "system": "SPRING HILL PUBLIC LIBRARY",
+      "address": "144 KEDRON PARKWAY, SPRING HILL, TN",
+      "website": "https://www.springhilltn.org/608/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37174",
+        "38451",
+        "38461",
+        "38474",
+        "38482",
+        "38487"
+      ]
+    },
+    {
+      "name": "LAWRENCE COUNTY PUBLIC LIBRARY",
+      "system": "LAWRENCE COUNTY PUBLIC LIBRARY",
+      "address": "401 COLLEGE STREET, MOULTON, AL",
+      "website": "https://lcplky.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35650",
+        "38456",
+        "38457",
+        "38464",
+        "38468",
+        "38469",
+        "38481",
+        "38483",
+        "38486"
+      ]
+    },
+    {
+      "name": "GILES COUNTY PUBLIC LIBRARY",
+      "system": "GILES COUNTY PUBLIC LIBRARY",
+      "address": "122 SOUTH SECOND STREET, PULASKI (S), TN",
+      "website": "https://www.gilescountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38460",
+        "38472",
+        "38477",
+        "38478"
+      ]
+    },
+    {
+      "name": "MAURY COUNTY PUBLIC LIBRARY",
+      "system": "MAURY COUNTY PUBLIC LIBRARY",
+      "address": "211 WEST EIGHTH STREET, COLUMBIA (S), TN",
+      "website": "https://www.maurycounty-tn.gov/679/Maury-County-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38401",
+        "38451",
+        "38461",
+        "38474",
+        "38482",
+        "38487"
       ]
     },
     {
@@ -74,7 +117,83 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38473"
+        "38460",
+        "38472",
+        "38473",
+        "38477"
+      ]
+    },
+    {
+      "name": "HICKMAN COUNTY PUBLIC LIBRARY",
+      "system": "HICKMAN COUNTY PUBLIC LIBRARY",
+      "address": "120 WEST SWAN STREET, CENTERVILLE (S), TN",
+      "website": "https://hickmancountylibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37025",
+        "37033",
+        "37098",
+        "37137",
+        "37140",
+        "37147",
+        "38454"
+      ]
+    },
+    {
+      "name": "WILLIAMSON COUNTY PUBLIC LIBRARY",
+      "system": "WILLIAMSON COUNTY PUBLIC LIBRARY",
+      "address": "1314 COLUMBIA AVE, FRANKLIN, TN",
+      "website": "https://www.wcpltn.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37014",
+        "37046",
+        "37062",
+        "37064",
+        "37067",
+        "37069",
+        "37135",
+        "37179",
+        "38476"
+      ]
+    },
+    {
+      "name": "THE JOHN P. HOLT BRENTWOOD LIBRARY",
+      "system": "THE JOHN P. HOLT BRENTWOOD LIBRARY",
+      "address": "8109 CONCORD ROAD, BRENTWOOD, TN",
+      "website": "https://library.brentwoodtn.gov/Home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37014",
+        "37027",
+        "37046",
+        "37062",
+        "37067",
+        "37069",
+        "37135",
+        "37179",
+        "38476"
+      ]
+    },
+    {
+      "name": "HARDIN COUNTY LIBRARY",
+      "system": "HARDIN COUNTY LIBRARY",
+      "address": "1365 PICKWICK STREET, SAVANNAH, TN",
+      "website": "https://hardincountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38326",
+        "38327",
+        "38361",
+        "38370",
+        "38372",
+        "38376",
+        "38475",
+        "384HH"
       ]
     }
   ]

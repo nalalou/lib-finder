@@ -1,6 +1,185 @@
 {
   "libraries": [
     {
+      "name": "CARNEGIE PUBLIC LIBRARY",
+      "system": "CARNEGIE PUBLIC LIBRARY",
+      "address": "219 E. FOURTH ST., EAST LIVERPOOL, OH",
+      "website": "https://www.shelbinacarnegie.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43920",
+        "73009",
+        "73015",
+        "73017",
+        "73029",
+        "73033",
+        "73038",
+        "73042",
+        "73053",
+        "730HH"
+      ]
+    },
+    {
+      "name": "BARNESVILLE HUTTON MEMORIAL LIBRARY",
+      "system": "BARNESVILLE HUTTON MEMORIAL LIBRARY",
+      "address": "308 E MAIN ST, BARNESVILLE, OH",
+      "website": "http://www.barnesvillehutton.lib.oh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43713",
+        "43718",
+        "43719",
+        "43902",
+        "43905",
+        "43909",
+        "43912",
+        "43927",
+        "43928",
+        "43933",
+        "43934",
+        "43940",
+        "43942",
+        "43947",
+        "43951",
+        "43967",
+        "43972",
+        "43977",
+        "43983",
+        "439HH"
+      ]
+    },
+    {
+      "name": "MONROE COUNTY DISTRICT LIBRARY",
+      "system": "MONROE COUNTY DISTRICT LIBRARY",
+      "address": "96 HOME AVE., WOODSFIELD, OH",
+      "website": "https://www.monroecounty.lib.oh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43716",
+        "43747",
+        "43754",
+        "43793",
+        "43914",
+        "43915",
+        "43946",
+        "45734"
+      ]
+    },
+    {
+      "name": "BOWERSTON PUBLIC LIBRARY",
+      "system": "BOWERSTON PUBLIC LIBRARY",
+      "address": "200 MAIN ST., BOWERSTON, OH",
+      "website": "http://bowerstonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43973",
+        "43974",
+        "43976",
+        "43981",
+        "43986",
+        "43988",
+        "44693",
+        "44695",
+        "44699"
+      ]
+    },
+    {
+      "name": "COLUMBIANA PUBLIC LIBRARY",
+      "system": "COLUMBIANA PUBLIC LIBRARY",
+      "address": "332 N. MIDDLE ST., COLUMBIANA, OH",
+      "website": "https://columbiana.lib.oh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43945",
+        "43962",
+        "44408",
+        "44423",
+        "44427",
+        "44441",
+        "44445",
+        "44455",
+        "44460",
+        "44490",
+        "44619",
+        "44625",
+        "44634"
+      ]
+    },
+    {
+      "name": "EAST PALESTINE MEMORIAL PUBLIC LIBRARY",
+      "system": "EAST PALESTINE MEMORIAL PUBLIC LIBRARY",
+      "address": "309 N. MARKET ST., EAST PALESTINE, OH",
+      "website": "https://www.east-palestine.lib.oh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43945",
+        "43962",
+        "44413",
+        "44423",
+        "44427",
+        "44441",
+        "44445",
+        "44455",
+        "44460",
+        "44490",
+        "44619",
+        "44625",
+        "44634"
+      ]
+    },
+    {
+      "name": "LEETONIA COMMUNITY PUBLIC LIBRARY",
+      "system": "LEETONIA COMMUNITY PUBLIC LIBRARY",
+      "address": "181 WALNUT STREET, LEETONIA, OH",
+      "website": "https://www.leetonialibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43945",
+        "43962",
+        "44423",
+        "44427",
+        "44431",
+        "44441",
+        "44445",
+        "44455",
+        "44460",
+        "44490",
+        "44619",
+        "44625",
+        "44634"
+      ]
+    },
+    {
+      "name": "LEPPER LIBRARY",
+      "system": "LEPPER LIBRARY",
+      "address": "303 E. LINCOLN WAY, LISBON, OH",
+      "website": "https://lepperlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43945",
+        "43962",
+        "44423",
+        "44427",
+        "44432",
+        "44441",
+        "44445",
+        "44455",
+        "44460",
+        "44490",
+        "44619",
+        "44625",
+        "44634"
+      ]
+    },
+    {
       "name": "BELLAIRE PUBLIC LIBRARY",
       "system": "BELLAIRE PUBLIC LIBRARY",
       "address": "330 32ND STREET, BELLAIRE, OH",
@@ -8,7 +187,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43906"
+        "43718",
+        "43719",
+        "43902",
+        "43905",
+        "43906",
+        "43909",
+        "43912",
+        "43927",
+        "43928",
+        "43933",
+        "43934",
+        "43940",
+        "43942",
+        "43947",
+        "43951",
+        "43967",
+        "43972",
+        "43977",
+        "43983",
+        "439HH"
       ]
     },
     {
@@ -19,18 +217,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43907"
-      ]
-    },
-    {
-      "name": "CARNEGIE PUBLIC LIBRARY",
-      "system": "CARNEGIE PUBLIC LIBRARY",
-      "address": "219 E. FOURTH ST., EAST LIVERPOOL, OH",
-      "website": "https://www.shelbinacarnegie.lib.mo.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "43920"
+        "43907",
+        "43973",
+        "43974",
+        "43976",
+        "43981",
+        "43986",
+        "43988",
+        "44693",
+        "44699"
       ]
     },
     {
@@ -41,7 +236,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43935"
+        "43718",
+        "43719",
+        "43902",
+        "43905",
+        "43909",
+        "43912",
+        "43927",
+        "43928",
+        "43933",
+        "43934",
+        "43935",
+        "43940",
+        "43942",
+        "43947",
+        "43951",
+        "43967",
+        "43972",
+        "43977",
+        "43983",
+        "439HH"
       ]
     },
     {
@@ -52,7 +266,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43950"
+        "43718",
+        "43719",
+        "43902",
+        "43905",
+        "43909",
+        "43912",
+        "43927",
+        "43928",
+        "43933",
+        "43934",
+        "43940",
+        "43942",
+        "43947",
+        "43950",
+        "43951",
+        "43967",
+        "43972",
+        "43977",
+        "43983",
+        "439HH"
       ]
     },
     {
@@ -63,7 +296,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43952"
+        "43901",
+        "43903",
+        "43908",
+        "43910",
+        "43913",
+        "43917",
+        "43925",
+        "43926",
+        "43930",
+        "43932",
+        "43938",
+        "43939",
+        "43943",
+        "43944",
+        "43948",
+        "43952",
+        "43953",
+        "43961",
+        "43963",
+        "43964",
+        "43971"
       ]
     },
     {
@@ -74,7 +327,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43968"
+        "43945",
+        "43962",
+        "43968",
+        "44423",
+        "44427",
+        "44441",
+        "44445",
+        "44455",
+        "44460",
+        "44490",
+        "44619",
+        "44625",
+        "44634"
       ]
     }
   ]

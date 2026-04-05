@@ -1,6 +1,443 @@
 {
   "libraries": [
     {
+      "name": "NEW CASTLE PUBLIC LIBRARY",
+      "system": "NEW CASTLE PUBLIC LIBRARY",
+      "address": "207 EAST NORTH STREET, NEW CASTLE, PA",
+      "website": "https://www.newcastle.nh.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16101",
+        "16102",
+        "16105",
+        "16116",
+        "16120",
+        "16132",
+        "16140",
+        "16142",
+        "16143",
+        "16155",
+        "16156",
+        "16157",
+        "16160"
+      ]
+    },
+    {
+      "name": "MARGARET SHONTZ MEM LIBRARY",
+      "system": "MARGARET SHONTZ MEM LIBRARY",
+      "address": "145 SECOND ST, CONNEAUT LAKE, PA",
+      "website": "https://shontz.ccfls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16316",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "BENSON MEMORIAL LIBRARY, INC.",
+      "system": "BENSON MEMORIAL LIBRARY, INC.",
+      "address": "213 NORTH FRANKLIN ST, TITUSVILLE, PA",
+      "website": "https://bensonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16354",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "COCHRANTON AREA PUBLIC LIBRARY",
+      "system": "COCHRANTON AREA PUBLIC LIBRARY",
+      "address": "107 W PINE ST, COCHRANTON, PA",
+      "website": "https://cochranton.ccfls.org/AJAX/JSON?method=getHoursAndLocations",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16314",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "MEADVILLE PUBLIC LIBRARY",
+      "system": "MEADVILLE PUBLIC LIBRARY",
+      "address": "848 NORTH MAIN STREET, MEADVILLE, PA",
+      "website": "https://meadvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16335",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "CAMBRIDGE SPRINGS PUB LIBRARY ASSOCIATION",
+      "system": "CAMBRIDGE SPRINGS PUB LIBRARY ASSOCIATION",
+      "address": "158 MCCLELLAN ST, CAMBRIDGE SPRINGS, PA",
+      "website": "https://cambridge.ccfls.org/Library/3/Branch",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16403",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "JAMES A STONE MEMORIAL LIBRARY",
+      "system": "JAMES A STONE MEMORIAL LIBRARY",
+      "address": "1101 MAIN STREET, CONNEAUTVILLE, PA",
+      "website": "https://stone.ccfls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16404",
+        "16406",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "LINESVILLE COMMUNITY PUBLIC LIBRARY",
+      "system": "LINESVILLE COMMUNITY PUBLIC LIBRARY",
+      "address": "111 PENN STREET, LINESVILLE, PA",
+      "website": "https://linesville.ccfls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16424",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "SAEGERTOWN AREA LIBRARY",
+      "system": "SAEGERTOWN AREA LIBRARY",
+      "address": "325 BROAD ST, SAEGERTOWN, PA",
+      "website": "https://saegertown.ccfls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16433",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "SPRINGBORO PUBLIC LIBRARY",
+      "system": "SPRINGBORO PUBLIC LIBRARY",
+      "address": "110 S MAIN ST, SPRINGBORO, PA",
+      "website": "https://springboro.ccfls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16435",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "BADEN MEMORIAL LIBRARY",
+      "system": "BADEN MEMORIAL LIBRARY",
+      "address": "385 STATE ST, BADEN, PA",
+      "website": "https://www.beaverlibraries.org/libraries/baden",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15005",
+        "15026",
+        "15027",
+        "15042",
+        "15043",
+        "15050",
+        "15052",
+        "15074",
+        "15081",
+        "16115",
+        "16123",
+        "16136",
+        "16141",
+        "161HH"
+      ]
+    },
+    {
+      "name": "BEAVER AREA MEMORIAL LIBRARY",
+      "system": "BEAVER AREA MEMORIAL LIBRARY",
+      "address": "100 COLLEGE AVE, BEAVER, PA",
+      "website": "https://www.beaverlibraries.org/libraries/beaver",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15009",
+        "15026",
+        "15027",
+        "15042",
+        "15043",
+        "15050",
+        "15052",
+        "15074",
+        "15081",
+        "16115",
+        "16123",
+        "16136",
+        "16141",
+        "161HH"
+      ]
+    },
+    {
+      "name": "CARNEGIE FREE LIBRARY-MIDLAND",
+      "system": "CARNEGIE FREE LIBRARY-MIDLAND",
+      "address": "61 NINTH ST, MIDLAND, PA",
+      "website": "http://midlandlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15026",
+        "15027",
+        "15042",
+        "15043",
+        "15050",
+        "15052",
+        "15059",
+        "15074",
+        "15081",
+        "16115",
+        "16123",
+        "16136",
+        "16141",
+        "161HH"
+      ]
+    },
+    {
+      "name": "NEW BRIGHTON PUBLIC LIBRARY",
+      "system": "NEW BRIGHTON PUBLIC LIBRARY",
+      "address": "1021 3RD AVE, NEW BRIGHTON, PA",
+      "website": "https://www.beaverlibraries.org/libraries/new-brighton",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15026",
+        "15027",
+        "15042",
+        "15043",
+        "15050",
+        "15052",
+        "15066",
+        "15074",
+        "15081",
+        "16115",
+        "16123",
+        "16136",
+        "16141",
+        "161HH"
+      ]
+    },
+    {
+      "name": "B F JONES MEMORIAL LIBRARY",
+      "system": "B F JONES MEMORIAL LIBRARY",
+      "address": "663 FRANKLIN AVE, ALIQUIPPA, PA",
+      "website": "https://www.beaverlibraries.org/libraries/aliquippa",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15001",
+        "15026",
+        "15027",
+        "15042",
+        "15043",
+        "15050",
+        "15052",
+        "15074",
+        "15081",
+        "16115",
+        "16123",
+        "16136",
+        "16141",
+        "161HH"
+      ]
+    },
+    {
+      "name": "LAUGHLIN MEMORIAL FREE LIBRARY",
+      "system": "LAUGHLIN MEMORIAL FREE LIBRARY",
+      "address": "99 ELEVENTH ST, AMBRIDGE, PA",
+      "website": "https://www.beaverlibraries.org/libraries/ambridge",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15003",
+        "15026",
+        "15027",
+        "15042",
+        "15043",
+        "15050",
+        "15052",
+        "15074",
+        "15081",
+        "16115",
+        "16123",
+        "16136",
+        "16141",
+        "161HH"
+      ]
+    },
+    {
+      "name": "CARNEGIE FREE LIBRARY - BEAVER FALLS",
+      "system": "CARNEGIE FREE LIBRARY - BEAVER FALLS",
+      "address": "1301 7TH AVE, BEAVER FALLS, PA",
+      "website": "https://www.beaverlibraries.org/libraries/beaver-falls",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15010",
+        "15026",
+        "15027",
+        "15042",
+        "15043",
+        "15050",
+        "15052",
+        "15074",
+        "15081",
+        "16115",
+        "16123",
+        "16136",
+        "16141",
+        "161HH"
+      ]
+    },
+    {
+      "name": "MONACA PUBLIC LIBRARY",
+      "system": "MONACA PUBLIC LIBRARY",
+      "address": "998 INDIANA AVENUE, MONACA, PA",
+      "website": "https://www.beaverlibraries.org/libraries/monaca",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15026",
+        "15027",
+        "15042",
+        "15043",
+        "15050",
+        "15052",
+        "15061",
+        "15074",
+        "15081",
+        "16115",
+        "16123",
+        "16136",
+        "16141",
+        "161HH"
+      ]
+    },
+    {
+      "name": "BEAVER SYS ADMIN UNIT",
+      "system": "BEAVER SYS ADMIN UNIT",
+      "address": "109 PLEASANT DRIVE, SUITE 101, ALIQUIPPA, PA",
+      "website": "https://www.beaverlibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15001",
+        "15026",
+        "15027",
+        "15042",
+        "15043",
+        "15050",
+        "15052",
+        "15074",
+        "15081",
+        "16115",
+        "16123",
+        "16136",
+        "16141",
+        "161HH"
+      ]
+    },
+    {
       "name": "F D CAMPBELL MEMORIAL LIBRARY",
       "system": "F D CAMPBELL MEMORIAL LIBRARY",
       "address": "209 HILLSVILLE RD., BESSEMER, PA",
@@ -8,7 +445,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16112"
+        "16102",
+        "16105",
+        "16112",
+        "16116",
+        "16120",
+        "16132",
+        "16140",
+        "16142",
+        "16143",
+        "16155",
+        "16156",
+        "16157",
+        "16160"
       ]
     },
     {
@@ -19,18 +468,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16117"
-      ]
-    },
-    {
-      "name": "NEW CASTLE PUBLIC LIBRARY",
-      "system": "NEW CASTLE PUBLIC LIBRARY",
-      "address": "207 EAST NORTH STREET, NEW CASTLE, PA",
-      "website": "https://www.newcastle.nh.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "16101"
+        "16102",
+        "16105",
+        "16116",
+        "16117",
+        "16120",
+        "16132",
+        "16140",
+        "16142",
+        "16143",
+        "16155",
+        "16156",
+        "16157",
+        "16160"
       ]
     },
     {
@@ -41,7 +491,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16125"
+        "16113",
+        "16114",
+        "16121",
+        "16124",
+        "16125",
+        "16130",
+        "16133",
+        "16145",
+        "16148",
+        "16150",
+        "16151",
+        "16153",
+        "16154",
+        "16159",
+        "16161",
+        "16311"
       ]
     },
     {
@@ -52,7 +517,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16127"
+        "16113",
+        "16114",
+        "16121",
+        "16124",
+        "16127",
+        "16130",
+        "16133",
+        "16145",
+        "16148",
+        "16150",
+        "16151",
+        "16153",
+        "16154",
+        "16159",
+        "16161",
+        "16311"
       ]
     },
     {
@@ -63,7 +543,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16137"
+        "16113",
+        "16114",
+        "16121",
+        "16124",
+        "16130",
+        "16133",
+        "16137",
+        "16145",
+        "16148",
+        "16150",
+        "16151",
+        "16153",
+        "16154",
+        "16159",
+        "16161",
+        "16311"
       ]
     },
     {
@@ -74,7 +569,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16146"
+        "16113",
+        "16114",
+        "16121",
+        "16124",
+        "16130",
+        "16133",
+        "16145",
+        "16146",
+        "16148",
+        "16150",
+        "16151",
+        "16153",
+        "16154",
+        "16159",
+        "16161",
+        "16311"
       ]
     }
   ]

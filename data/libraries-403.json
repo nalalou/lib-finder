@@ -1,36 +1,16 @@
 {
   "libraries": [
     {
-      "name": "ANDERSON COUNTY PUBLIC LIBRARY",
-      "system": "ANDERSON COUNTY PUBLIC LIBRARY",
-      "address": "114 NORTH MAIN STREET, LAWRENCEBURG, KY",
-      "website": "https://aplkentucky.org/",
+      "name": "SCOTT COUNTY PUBLIC LIBRARY",
+      "system": "SCOTT COUNTY PUBLIC LIBRARY",
+      "address": "104 SOUTH BRADFORD LANE, GEORGETOWN, KY",
+      "website": "https://scott.lib.in.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40342"
-      ]
-    },
-    {
-      "name": "BATH COUNTY MEMORIAL LIBRARY",
-      "system": "BATH COUNTY MEMORIAL LIBRARY",
-      "address": "24 WEST MAIN STREET, OWINGSVILLE, KY",
-      "website": "https://www.bathlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "40360"
-      ]
-    },
-    {
-      "name": "PARIS-BOURBON COUNTY LIBRARY",
-      "system": "PARIS-BOURBON COUNTY LIBRARY",
-      "address": "701 HIGH STREET, PARIS, KY",
-      "website": "https://bourbonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "40361"
+        "40324",
+        "40370",
+        "40379"
       ]
     },
     {
@@ -41,7 +21,72 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40391"
+        "40391",
+        "43010",
+        "45323",
+        "45341",
+        "45349",
+        "45368",
+        "45369",
+        "45502",
+        "45503",
+        "45504",
+        "45505",
+        "45506",
+        "455HH"
+      ]
+    },
+    {
+      "name": "OWEN COUNTY PUBLIC LIBRARY",
+      "system": "OWEN COUNTY PUBLIC LIBRARY",
+      "address": "1370 HIGHWAY 22 EAST, OWENTON, KY",
+      "website": "https://owenlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40355",
+        "40359",
+        "40363",
+        "41098"
+      ]
+    },
+    {
+      "name": "ANDERSON COUNTY PUBLIC LIBRARY",
+      "system": "ANDERSON COUNTY PUBLIC LIBRARY",
+      "address": "114 NORTH MAIN STREET, LAWRENCEBURG, KY",
+      "website": "https://aplkentucky.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40342",
+        "403HH"
+      ]
+    },
+    {
+      "name": "BATH COUNTY MEMORIAL LIBRARY",
+      "system": "BATH COUNTY MEMORIAL LIBRARY",
+      "address": "24 WEST MAIN STREET, OWINGSVILLE, KY",
+      "website": "https://www.bathlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40334",
+        "40358",
+        "40360",
+        "40371",
+        "40374"
+      ]
+    },
+    {
+      "name": "PARIS-BOURBON COUNTY LIBRARY",
+      "system": "PARIS-BOURBON COUNTY LIBRARY",
+      "address": "701 HIGH STREET, PARIS, KY",
+      "website": "https://bourbonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40348",
+        "40361"
       ]
     },
     {
@@ -52,7 +97,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40336"
+        "40336",
+        "40472"
       ]
     },
     {
@@ -63,7 +109,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40356"
+        "40339",
+        "40356",
+        "40390"
       ]
     },
     {
@@ -74,7 +122,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40322"
+        "40316",
+        "40322",
+        "40346",
+        "40387"
       ]
     },
     {
@@ -85,7 +136,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40330"
+        "40310",
+        "40330",
+        "40372"
       ]
     },
     {
@@ -96,6 +149,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "40337",
         "40353"
       ]
     },
@@ -107,18 +161,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40311"
-      ]
-    },
-    {
-      "name": "OWEN COUNTY PUBLIC LIBRARY",
-      "system": "OWEN COUNTY PUBLIC LIBRARY",
-      "address": "1370 HIGHWAY 22 EAST, OWENTON, KY",
-      "website": "https://owenlib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "40359"
+        "40311",
+        "40350"
       ]
     },
     {
@@ -129,6 +173,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "40312",
+        "40376",
         "40380"
       ]
     },
@@ -140,18 +186,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "40313",
         "40351"
-      ]
-    },
-    {
-      "name": "SCOTT COUNTY PUBLIC LIBRARY",
-      "system": "SCOTT COUNTY PUBLIC LIBRARY",
-      "address": "104 SOUTH BRADFORD LANE, GEORGETOWN, KY",
-      "website": "https://scott.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "40324"
       ]
     },
     {
@@ -162,6 +198,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "40347",
         "40383"
       ]
     }

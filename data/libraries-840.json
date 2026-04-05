@@ -1,6 +1,98 @@
 {
   "libraries": [
     {
+      "name": "MURRAY PUBLIC LIBRARY",
+      "system": "MURRAY PUBLIC LIBRARY",
+      "address": "416 MAPLE ST, MURRAY, IA",
+      "website": "https://www.murrayia.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50174",
+        "84006",
+        "84020",
+        "84044",
+        "84047",
+        "84065",
+        "84070",
+        "84084",
+        "84092",
+        "84093",
+        "84094",
+        "84095",
+        "84101",
+        "84102",
+        "84103",
+        "84104",
+        "84105",
+        "84106",
+        "84107",
+        "84108",
+        "84109",
+        "84112",
+        "84113",
+        "84115",
+        "84116",
+        "84117",
+        "84118",
+        "84119",
+        "84120",
+        "84121",
+        "84123",
+        "84124",
+        "84128",
+        "84180",
+        "841HH",
+        "841XX"
+      ]
+    },
+    {
+      "name": "SALT LAKE CITY PUBLIC LIBRARY SYSTEM",
+      "system": "SALT LAKE CITY PUBLIC LIBRARY SYSTEM",
+      "address": "210 EAST 400 SOUTH, SALT LAKE CITY, UT",
+      "website": "https://library.utah.gov/directory/lib_system/salt_lake_city_library_system/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84006",
+        "84020",
+        "84044",
+        "84047",
+        "84065",
+        "84070",
+        "84084",
+        "84092",
+        "84093",
+        "84094",
+        "84095",
+        "84101",
+        "84102",
+        "84103",
+        "84104",
+        "84105",
+        "84106",
+        "84107",
+        "84108",
+        "84109",
+        "84111",
+        "84112",
+        "84113",
+        "84115",
+        "84116",
+        "84117",
+        "84118",
+        "84119",
+        "84120",
+        "84121",
+        "84123",
+        "84124",
+        "84128",
+        "84180",
+        "841HH",
+        "841XX"
+      ]
+    },
+    {
       "name": "DAVIS COUNTY LIBRARY",
       "system": "DAVIS COUNTY LIBRARY",
       "address": "133 S MAIN STREET, FARMINGTON, UT",
@@ -8,7 +100,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84025"
+        "84010",
+        "84014",
+        "84015",
+        "84025",
+        "84037",
+        "84040",
+        "84041",
+        "84054",
+        "84056",
+        "84075",
+        "84087"
       ]
     },
     {
@@ -19,17 +121,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84021"
+        "84001",
+        "84002",
+        "84007",
+        "84021",
+        "84027",
+        "84031",
+        "84051",
+        "84052",
+        "84053",
+        "84066",
+        "84072",
+        "84073"
       ]
     },
     {
       "name": "MORGAN COUNTY LIBRARY",
       "system": "MORGAN COUNTY LIBRARY",
-      "address": "50 NORTH 100 WEST, MORGAN, UT",
+      "address": "600 N HUNTER ST, VERSAILLES, MO",
       "website": "https://morgancountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "65084",
+        "84018",
         "84050"
       ]
     },
@@ -41,18 +156,61 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84088"
+        "84006",
+        "84020",
+        "84044",
+        "84047",
+        "84065",
+        "84070",
+        "84084",
+        "84088",
+        "84092",
+        "84093",
+        "84094",
+        "84095",
+        "84101",
+        "84102",
+        "84103",
+        "84104",
+        "84105",
+        "84106",
+        "84107",
+        "84108",
+        "84109",
+        "84112",
+        "84113",
+        "84115",
+        "84116",
+        "84117",
+        "84118",
+        "84119",
+        "84120",
+        "84121",
+        "84123",
+        "84124",
+        "84128",
+        "84180",
+        "841HH",
+        "841XX"
       ]
     },
     {
       "name": "SUMMIT COUNTY LIBRARY",
       "system": "SUMMIT COUNTY LIBRARY",
-      "address": "1885 W UTE BLVD, PARK CITY, UT",
+      "address": "037 PEAK ONE DRIVE, FRISCO, CO",
       "website": "https://www.thesummitcountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84098"
+        "80443",
+        "84017",
+        "84024",
+        "84033",
+        "84036",
+        "84055",
+        "84061",
+        "84098",
+        "840XX"
       ]
     },
     {
@@ -63,7 +221,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84060"
+        "84017",
+        "84024",
+        "84033",
+        "84036",
+        "84055",
+        "84060",
+        "84061",
+        "84098",
+        "840XX"
       ]
     },
     {
@@ -74,7 +240,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84074"
+        "84022",
+        "84034",
+        "84069",
+        "84071",
+        "84074",
+        "84080",
+        "84083"
       ]
     },
     {
@@ -85,7 +257,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84078"
+        "84026",
+        "84035",
+        "84039",
+        "84063",
+        "84076",
+        "84078",
+        "84085"
       ]
     },
     {
@@ -96,7 +274,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84003"
+        "84003",
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
       ]
     },
     {
@@ -107,7 +296,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84043"
+        "84004",
+        "84013",
+        "84042",
+        "84043",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
       ]
     },
     {
@@ -118,18 +318,40 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84057"
+        "84004",
+        "84013",
+        "84042",
+        "84057",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
       ]
     },
     {
       "name": "PLEASANT GROVE PUBLIC LIBRARY",
       "system": "PLEASANT GROVE PUBLIC LIBRARY",
-      "address": "30 EAST CENTER STREET, PLEASANT GROVE, UT",
+      "address": "501 PARK ROAD, PLEASANT GROVE, AL",
       "website": "https://www.pgcityutah.gov/departments/library/index.php",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84062"
+        "35127",
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
       ]
     },
     {
@@ -140,7 +362,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84032"
+        "84032",
+        "84049",
+        "84082"
       ]
     },
     {
@@ -151,7 +375,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84067"
+        "84067",
+        "84310",
+        "84315",
+        "84317",
+        "843XX",
+        "84401",
+        "84403",
+        "84404",
+        "84405",
+        "84414",
+        "844HH"
       ]
     },
     {
@@ -162,18 +396,40 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84003"
+        "84003",
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
       ]
     },
     {
       "name": "SARATOGA SPRINGS PUBLIC LIBRARY",
       "system": "SARATOGA SPRINGS PUBLIC LIBRARY",
-      "address": "1307 N COMMERCE DR, SARATOGA SPRINGS, UT",
+      "address": "49 HENRY STREET, SARATOGA SPRINGS, NY",
       "website": "http://www.sspl.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84045"
+        "12866",
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
       ]
     },
     {
@@ -184,7 +440,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84005"
+        "84004",
+        "84005",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
       ]
     },
     {
@@ -195,7 +462,167 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84029"
+        "84022",
+        "84029",
+        "84034",
+        "84069",
+        "84071",
+        "84080",
+        "84083"
+      ]
+    },
+    {
+      "name": "UTAH COUNTY BOOKMOBILE LIBRARY",
+      "system": "UTAH COUNTY BOOKMOBILE LIBRARY",
+      "address": "125 WEST 400 NORTH, MAPLETON, UT",
+      "website": "https://bookmobiles.utah.gov/utah/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663",
+        "84664"
+      ]
+    },
+    {
+      "name": "PAYSON CITY LIBRARY",
+      "system": "PAYSON CITY LIBRARY",
+      "address": "66 SOUTH MAIN STREET, PAYSON, UT",
+      "website": "https://library.paysonutah.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84651",
+        "84663"
+      ]
+    },
+    {
+      "name": "PROVO CITY LIBRARY",
+      "system": "PROVO CITY LIBRARY",
+      "address": "550 NORTH UNIVERSITY AVENUE, PROVO, UT",
+      "website": "https://provolibrary.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84601",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
+      ]
+    },
+    {
+      "name": "SANTAQUIN CITY LIBRARY",
+      "system": "SANTAQUIN CITY LIBRARY",
+      "address": "20 WEST 100 SOUTH, SANTAQUIN, UT",
+      "website": "https://www.santaquin.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84655",
+        "84663"
+      ]
+    },
+    {
+      "name": "SPANISH FORK PUBLIC LIBRARY",
+      "system": "SPANISH FORK PUBLIC LIBRARY",
+      "address": "49 SOUTH MAIN STREET, SPANISH FORK, UT",
+      "website": "https://www.spanishfork.gov/departments/library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84660",
+        "84663"
+      ]
+    },
+    {
+      "name": "SPRINGVILLE PUBLIC LIBRARY",
+      "system": "SPRINGVILLE PUBLIC LIBRARY",
+      "address": "6315 U.S. HIGHWAY 11, SPRINGVILLE, AL",
+      "website": "https://library.utah.gov/directory/listing/springville-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35146",
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
+      ]
+    },
+    {
+      "name": "SALEM CITY LIBRARY",
+      "system": "SALEM CITY LIBRARY",
+      "address": "59 SOUTH MAIN STREET, SALEM, UT",
+      "website": "https://salemutahlibrary.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84653",
+        "84663"
       ]
     }
   ]

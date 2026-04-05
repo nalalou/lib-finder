@@ -1,39 +1,6 @@
 {
   "libraries": [
     {
-      "name": "FRANKFORD PUBLIC LIBRARY",
-      "system": "FRANKFORD PUBLIC LIBRARY",
-      "address": "8 MAIN STREET, FRANKFORD, DE",
-      "website": "https://frankford.lib.de.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "19945"
-      ]
-    },
-    {
-      "name": "GEORGETOWN PUBLIC LIBRARY",
-      "system": "GEORGETOWN PUBLIC LIBRARY",
-      "address": "123 WEST PINE STREET, GEORGETOWN, DE",
-      "website": "https://georgetowntexas.gov/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "19947"
-      ]
-    },
-    {
-      "name": "HARRINGTON PUBLIC LIBRARY",
-      "system": "HARRINGTON PUBLIC LIBRARY",
-      "address": "110 CENTER STREET, HARRINGTON, DE",
-      "website": "https://www.harrington.lib.wa.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "19952"
-      ]
-    },
-    {
       "name": "LAUREL PUBLIC LIBRARY",
       "system": "LAUREL PUBLIC LIBRARY",
       "address": "101 E. FOURTH ST, LAUREL, DE",
@@ -41,18 +8,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "19956"
-      ]
-    },
-    {
-      "name": "LEWES PUBLIC LIBRARY",
-      "system": "LEWES PUBLIC LIBRARY",
-      "address": "111 ADAMS AVENUE, LEWES, DE",
-      "website": "https://lewes.lib.de.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "19958"
+        "19956",
+        "59002",
+        "59006",
+        "59015",
+        "59024",
+        "59037",
+        "59044",
+        "59057",
+        "59064",
+        "59079",
+        "59088",
+        "59102",
+        "59105",
+        "59106"
       ]
     },
     {
@@ -63,7 +32,212 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "19963"
+        "19963",
+        "84731",
+        "84751"
+      ]
+    },
+    {
+      "name": "SMYRNA PUBLIC LIBRARY",
+      "system": "SMYRNA PUBLIC LIBRARY",
+      "address": "107 SOUTH MAIN STREET, SMYRNA, DE",
+      "website": "https://duckcreek.lib.de.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13124",
+        "13136",
+        "13155",
+        "13464",
+        "13780",
+        "13801",
+        "13809",
+        "13832",
+        "13841",
+        "13844",
+        "19977"
+      ]
+    },
+    {
+      "name": "HARRINGTON PUBLIC LIBRARY",
+      "system": "HARRINGTON PUBLIC LIBRARY",
+      "address": "110 CENTER STREET, HARRINGTON, DE",
+      "website": "https://www.harrington.lib.wa.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "19952",
+        "99008",
+        "99032",
+        "990HH",
+        "990XX",
+        "99103",
+        "99117",
+        "99134",
+        "99154"
+      ]
+    },
+    {
+      "name": "KENT COUNTY PUBLIC LIBRARY",
+      "system": "KENT COUNTY PUBLIC LIBRARY",
+      "address": "497 SOUTH RED HAVEN LANE, DOVER, DE",
+      "website": "https://kentcountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "19901",
+        "21610",
+        "21620",
+        "21635",
+        "21645",
+        "21650",
+        "21651",
+        "21661",
+        "21667",
+        "21678"
+      ]
+    },
+    {
+      "name": "DOVER PUBLIC LIBRARY",
+      "system": "DOVER PUBLIC LIBRARY",
+      "address": "35 LOOCKERMAN PLAZA, DOVER, DE",
+      "website": "https://www.doverlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "19901",
+        "43837",
+        "43840",
+        "44612",
+        "44621",
+        "44622",
+        "44653",
+        "44656",
+        "44671",
+        "44678",
+        "44680",
+        "44681",
+        "44682",
+        "44697"
+      ]
+    },
+    {
+      "name": "BRIDGEVILLE PUBLIC LIBRARY",
+      "system": "BRIDGEVILLE PUBLIC LIBRARY",
+      "address": "600 SOUTH CANNON STREET, BRIDGEVILLE, DE",
+      "website": "https://bridgevillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15006",
+        "15007",
+        "15014",
+        "15015",
+        "15017",
+        "15018",
+        "15020",
+        "15024",
+        "15028",
+        "15030",
+        "15031",
+        "15034",
+        "15035",
+        "15037",
+        "15045",
+        "15046",
+        "15049",
+        "15051",
+        "15056",
+        "15075",
+        "15076",
+        "15082",
+        "15084",
+        "15086",
+        "15088",
+        "15090",
+        "150HH",
+        "15110",
+        "15112",
+        "15122",
+        "15126",
+        "15131",
+        "15133",
+        "15135",
+        "15140",
+        "15142",
+        "15145",
+        "15146",
+        "15147",
+        "15148",
+        "151HH",
+        "15201",
+        "15203",
+        "15204",
+        "15206",
+        "15207",
+        "15208",
+        "15210",
+        "15211",
+        "15212",
+        "15214",
+        "15215",
+        "15217",
+        "15219",
+        "15222",
+        "15223",
+        "15224",
+        "15225",
+        "15226",
+        "15229",
+        "15232",
+        "15233",
+        "15243",
+        "152HH",
+        "19933"
+      ]
+    },
+    {
+      "name": "FRANKFORD PUBLIC LIBRARY",
+      "system": "FRANKFORD PUBLIC LIBRARY",
+      "address": "8 MAIN STREET, FRANKFORD, DE",
+      "website": "https://frankford.lib.de.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "19930",
+        "19931",
+        "19939",
+        "19941",
+        "19944",
+        "19945",
+        "19950",
+        "19951",
+        "19960",
+        "19967",
+        "19968",
+        "19970"
+      ]
+    },
+    {
+      "name": "LEWES PUBLIC LIBRARY",
+      "system": "LEWES PUBLIC LIBRARY",
+      "address": "111 ADAMS AVENUE, LEWES, DE",
+      "website": "https://lewes.lib.de.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "19930",
+        "19931",
+        "19939",
+        "19941",
+        "19944",
+        "19950",
+        "19951",
+        "19958",
+        "19960",
+        "19967",
+        "19968",
+        "19970"
       ]
     },
     {
@@ -74,7 +248,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "19966"
+        "19930",
+        "19931",
+        "19939",
+        "19941",
+        "19944",
+        "19950",
+        "19951",
+        "19960",
+        "19966",
+        "19967",
+        "19968",
+        "19970"
       ]
     },
     {
@@ -85,6 +270,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "19930",
+        "19931",
+        "19939",
+        "19941",
+        "19944",
+        "19950",
+        "19951",
+        "19960",
+        "19967",
+        "19968",
+        "19970",
         "19971"
       ]
     },
@@ -96,6 +292,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "19930",
+        "19931",
+        "19939",
+        "19941",
+        "19944",
+        "19950",
+        "19951",
+        "19960",
+        "19967",
+        "19968",
+        "19970",
         "19973"
       ]
     },
@@ -107,29 +314,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "19930",
+        "19931",
+        "19939",
+        "19941",
+        "19944",
+        "19950",
+        "19951",
+        "19960",
+        "19967",
+        "19968",
+        "19970",
         "19975"
-      ]
-    },
-    {
-      "name": "SMYRNA PUBLIC LIBRARY",
-      "system": "SMYRNA PUBLIC LIBRARY",
-      "address": "107 SOUTH MAIN STREET, SMYRNA, DE",
-      "website": "https://duckcreek.lib.de.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "19977"
-      ]
-    },
-    {
-      "name": "BRIDGEVILLE PUBLIC LIBRARY",
-      "system": "BRIDGEVILLE PUBLIC LIBRARY",
-      "address": "600 SOUTH CANNON STREET, BRIDGEVILLE, DE",
-      "website": "https://bridgevillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "19933"
       ]
     },
     {
@@ -140,18 +336,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "19940"
-      ]
-    },
-    {
-      "name": "DOVER PUBLIC LIBRARY",
-      "system": "DOVER PUBLIC LIBRARY",
-      "address": "35 LOOCKERMAN PLAZA, DOVER, DE",
-      "website": "https://www.doverlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "19901"
+        "19930",
+        "19931",
+        "19939",
+        "19940",
+        "19941",
+        "19944",
+        "19950",
+        "19951",
+        "19960",
+        "19967",
+        "19968",
+        "19970"
       ]
     },
     {
@@ -162,18 +358,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "19947"
-      ]
-    },
-    {
-      "name": "KENT COUNTY PUBLIC LIBRARY",
-      "system": "KENT COUNTY PUBLIC LIBRARY",
-      "address": "497 SOUTH RED HAVEN LANE, DOVER, DE",
-      "website": "https://kentcountylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "19901"
+        "19930",
+        "19931",
+        "19939",
+        "19941",
+        "19944",
+        "19947",
+        "19950",
+        "19951",
+        "19960",
+        "19967",
+        "19968",
+        "19970"
       ]
     }
   ]

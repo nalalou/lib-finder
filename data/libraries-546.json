@@ -1,6 +1,54 @@
 {
   "libraries": [
     {
+      "name": "ADAMS COUNTY LIBRARY",
+      "system": "ADAMS COUNTY LIBRARY",
+      "address": "569 N. CEDAR ST., SUITE 1, ADAMS, WI",
+      "website": "https://adamscountyndlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53910",
+        "53934",
+        "53936",
+        "539HH",
+        "544HH",
+        "54613",
+        "546HH"
+      ]
+    },
+    {
+      "name": "INDEPENDENCE PUBLIC LIBRARY",
+      "system": "INDEPENDENCE PUBLIC LIBRARY",
+      "address": "805 1ST ST E, INDEPENDENCE, IA",
+      "website": "http://iplks.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50644",
+        "54625",
+        "54747",
+        "54760"
+      ]
+    },
+    {
+      "name": "LESTER PUBLIC LIBRARY OF ROME",
+      "system": "LESTER PUBLIC LIBRARY OF ROME",
+      "address": "1157 ROME CENTER DR., NEKOOSA, WI",
+      "website": "https://www.romepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53934",
+        "53936",
+        "539HH",
+        "54457",
+        "544HH",
+        "54613",
+        "546HH"
+      ]
+    },
+    {
       "name": "ALMA PUBLIC LIBRARY",
       "system": "ALMA PUBLIC LIBRARY",
       "address": "312 N. MAIN ST., ALMA, WI",
@@ -8,62 +56,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54610"
-      ]
-    },
-    {
-      "name": "ARCADIA FREE PUBLIC LIBRARY",
-      "system": "ARCADIA FREE PUBLIC LIBRARY",
-      "address": "730 RAIDER DRIVE SUITE 3140, ARCADIA, WI",
-      "website": "https://arcadialibrary.wrlsweb.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54612"
-      ]
-    },
-    {
-      "name": "BLACK RIVER FALLS PUBLIC LIBRARY",
-      "system": "BLACK RIVER FALLS PUBLIC LIBRARY",
-      "address": "222 FILLMORE ST., BLACK RIVER FALLS, WI",
-      "website": "https://www.blackriverfallslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54615"
-      ]
-    },
-    {
-      "name": "DE SOTO PUBLIC LIBRARY",
-      "system": "DE SOTO PUBLIC LIBRARY",
-      "address": "111 S. HOUGHTON ST., DE SOTO, WI",
-      "website": "https://www.dspl.missouri.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54624"
-      ]
-    },
-    {
-      "name": "GALESVILLE PUBLIC LIBRARY",
-      "system": "GALESVILLE PUBLIC LIBRARY",
-      "address": "16787 S. MAIN ST., GALESVILLE, WI",
-      "website": "https://www.cityofgalesvillewi.gov/departments/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54630"
-      ]
-    },
-    {
-      "name": "GAYS MILLS PUBLIC LIBRARY",
-      "system": "GAYS MILLS PUBLIC LIBRARY",
-      "address": "16381 STATE HWY. 131, STE. 2, GAYS MILLS, WI",
-      "website": "https://gaysmillslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54631"
+        "54610",
+        "54622",
+        "54629",
+        "54756"
       ]
     },
     {
@@ -74,51 +70,43 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54634"
+        "54621",
+        "54632",
+        "54634",
+        "54658"
       ]
     },
     {
-      "name": "KENDALL PUBLIC LIBRARY",
-      "system": "KENDALL PUBLIC LIBRARY",
-      "address": "110 E. SOUTH RAILROAD ST., KENDALL, WI",
-      "website": "https://kendallpublibrary.wrlsweb.org/",
+      "name": "PRAIRIE DU CHIEN MEMORIAL LIBRARY",
+      "system": "PRAIRIE DU CHIEN MEMORIAL LIBRARY",
+      "address": "125 S. WACOUTA AVE., PRAIRIE DU CHIEN, WI",
+      "website": "http://www.pdcpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54638"
+        "53821",
+        "53826",
+        "538HH",
+        "54626",
+        "54628",
+        "54640",
+        "54645",
+        "54654",
+        "54657"
       ]
     },
     {
-      "name": "LA CROSSE PUBLIC LIBRARY",
-      "system": "LA CROSSE PUBLIC LIBRARY",
-      "address": "800 MAIN ST., LA CROSSE, WI",
-      "website": "https://www.lacrosselibrary.org",
+      "name": "WHITEHALL PUBLIC LIBRARY",
+      "system": "WHITEHALL PUBLIC LIBRARY",
+      "address": "36351 MAIN ST., WHITEHALL, WI",
+      "website": "https://whtlpl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54601"
-      ]
-    },
-    {
-      "name": "LAWTON MEMORIAL LIBRARY",
-      "system": "LAWTON MEMORIAL LIBRARY",
-      "address": "118 N. BIRD ST., LA FARGE, WI",
-      "website": "https://librarytechnology.org/library/25692",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54639"
-      ]
-    },
-    {
-      "name": "NECEDAH COMMUNITY-SIEGLER MEMORIAL LIBRARY",
-      "system": "NECEDAH COMMUNITY-SIEGLER MEMORIAL LIBRARY",
-      "address": "217 OAK GROVE DR., NECEDAH, WI",
-      "website": "https://necedahlibrary.wrlsweb.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54646"
+        "54625",
+        "54747",
+        "54760",
+        "54773"
       ]
     },
     {
@@ -129,7 +117,296 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54651"
+        "54621",
+        "54632",
+        "54651",
+        "54658"
+      ]
+    },
+    {
+      "name": "ELROY PUBLIC LIBRARY",
+      "system": "ELROY PUBLIC LIBRARY",
+      "address": "501 SECOND MAIN ST., ELROY, WI",
+      "website": "https://www.elroylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53929",
+        "53944",
+        "53948",
+        "53962",
+        "54618",
+        "54637"
+      ]
+    },
+    {
+      "name": "HATCH PUBLIC LIBRARY",
+      "system": "HATCH PUBLIC LIBRARY",
+      "address": "530 E. HALL, HATCH, NM",
+      "website": "https://hatchpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53944",
+        "53948",
+        "53962",
+        "54618",
+        "54637",
+        "87937"
+      ]
+    },
+    {
+      "name": "NEW LISBON MEMORIAL LIBRARY",
+      "system": "NEW LISBON MEMORIAL LIBRARY",
+      "address": "115 W. PARK ST., NEW LISBON, WI",
+      "website": "https://www.newlisbonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53944",
+        "53948",
+        "53950",
+        "53962",
+        "54618",
+        "54637"
+      ]
+    },
+    {
+      "name": "WONEWOC PUBLIC LIBRARY",
+      "system": "WONEWOC PUBLIC LIBRARY",
+      "address": "305 CENTER ST., WONEWOC, WI",
+      "website": "https://wonewoclibrary.wrlsweb.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53944",
+        "53948",
+        "53962",
+        "53968",
+        "54618",
+        "54637"
+      ]
+    },
+    {
+      "name": "DE SOTO PUBLIC LIBRARY",
+      "system": "DE SOTO PUBLIC LIBRARY",
+      "address": "111 S. HOUGHTON ST., DE SOTO, WI",
+      "website": "https://www.dspl.missouri.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54621",
+        "54624",
+        "54632",
+        "54658"
+      ]
+    },
+    {
+      "name": "NORWALK PUBLIC LIBRARY",
+      "system": "NORWALK PUBLIC LIBRARY",
+      "address": "101 RAILROAD ST., NORWALK, WI",
+      "website": "http://norwalkpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54648",
+        "54666"
+      ]
+    },
+    {
+      "name": "MONDOVI PUBLIC LIBRARY",
+      "system": "MONDOVI PUBLIC LIBRARY",
+      "address": "146 W. HUDSON ST., MONDOVI, WI",
+      "website": "https://mondovilibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54622",
+        "54629",
+        "54755",
+        "54756"
+      ]
+    },
+    {
+      "name": "HAUGE MEMORIAL LIBRARY",
+      "system": "HAUGE MEMORIAL LIBRARY",
+      "address": "50655 CHARLES ST., OSSEO, WI",
+      "website": "https://osseopubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54625",
+        "54747",
+        "54758",
+        "54760"
+      ]
+    },
+    {
+      "name": "STRUM PUBLIC LIBRARY",
+      "system": "STRUM PUBLIC LIBRARY",
+      "address": "114 5TH AVE. S., STRUM, WI",
+      "website": "https://strumlibrary.wrlsweb.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54625",
+        "54747",
+        "54760",
+        "54770"
+      ]
+    },
+    {
+      "name": "LA CROSSE PUBLIC LIBRARY",
+      "system": "LA CROSSE PUBLIC LIBRARY",
+      "address": "800 MAIN ST., LA CROSSE, WI",
+      "website": "https://www.lacrosselibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54601",
+        "54603",
+        "54614",
+        "54644",
+        "54650",
+        "54653",
+        "54669"
+      ]
+    },
+    {
+      "name": "WILTON PUBLIC LIBRARY",
+      "system": "WILTON PUBLIC LIBRARY",
+      "address": "400 EAST ST., STE. 102, WILTON, WI",
+      "website": "https://wiltonlibrary.wrlsweb.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54666",
+        "54670"
+      ]
+    },
+    {
+      "name": "TAYLOR MEMORIAL LIBRARY",
+      "system": "TAYLOR MEMORIAL LIBRARY",
+      "address": "420 2ND ST., TAYLOR, WI",
+      "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=1000",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "544XX",
+        "54611",
+        "54635",
+        "54642",
+        "54659",
+        "546XX",
+        "54754",
+        "547XX"
+      ]
+    },
+    {
+      "name": "ARCADIA FREE PUBLIC LIBRARY",
+      "system": "ARCADIA FREE PUBLIC LIBRARY",
+      "address": "730 RAIDER DRIVE SUITE 3140, ARCADIA, WI",
+      "website": "https://arcadialibrary.wrlsweb.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54612",
+        "54625",
+        "54747",
+        "54760"
+      ]
+    },
+    {
+      "name": "BLACK RIVER FALLS PUBLIC LIBRARY",
+      "system": "BLACK RIVER FALLS PUBLIC LIBRARY",
+      "address": "222 FILLMORE ST., BLACK RIVER FALLS, WI",
+      "website": "https://www.blackriverfallslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "544XX",
+        "54611",
+        "54615",
+        "54635",
+        "54642",
+        "546XX",
+        "54754",
+        "547XX"
+      ]
+    },
+    {
+      "name": "GALESVILLE PUBLIC LIBRARY",
+      "system": "GALESVILLE PUBLIC LIBRARY",
+      "address": "16787 S. MAIN ST., GALESVILLE, WI",
+      "website": "https://www.cityofgalesvillewi.gov/departments/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54625",
+        "54630",
+        "54747",
+        "54760"
+      ]
+    },
+    {
+      "name": "GAYS MILLS PUBLIC LIBRARY",
+      "system": "GAYS MILLS PUBLIC LIBRARY",
+      "address": "16381 STATE HWY. 131, STE. 2, GAYS MILLS, WI",
+      "website": "https://gaysmillslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53826",
+        "538HH",
+        "54626",
+        "54628",
+        "54631",
+        "54640",
+        "54645",
+        "54654",
+        "54657"
+      ]
+    },
+    {
+      "name": "KENDALL PUBLIC LIBRARY",
+      "system": "KENDALL PUBLIC LIBRARY",
+      "address": "110 E. SOUTH RAILROAD ST., KENDALL, WI",
+      "website": "https://kendallpublibrary.wrlsweb.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54638",
+        "54666"
+      ]
+    },
+    {
+      "name": "LAWTON MEMORIAL LIBRARY",
+      "system": "LAWTON MEMORIAL LIBRARY",
+      "address": "118 N. BIRD ST., LA FARGE, WI",
+      "website": "https://librarytechnology.org/library/25692",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54621",
+        "54632",
+        "54639",
+        "54658"
+      ]
+    },
+    {
+      "name": "NECEDAH COMMUNITY-SIEGLER MEMORIAL LIBRARY",
+      "system": "NECEDAH COMMUNITY-SIEGLER MEMORIAL LIBRARY",
+      "address": "217 OAK GROVE DR., NECEDAH, WI",
+      "website": "https://necedahlibrary.wrlsweb.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53944",
+        "53948",
+        "53962",
+        "54618",
+        "54637",
+        "54646"
       ]
     },
     {
@@ -140,7 +417,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54655"
+        "53826",
+        "538HH",
+        "54626",
+        "54628",
+        "54640",
+        "54645",
+        "54654",
+        "54655",
+        "54657"
       ]
     },
     {
@@ -151,7 +436,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54656"
+        "54656",
+        "54666"
       ]
     },
     {
@@ -162,7 +448,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54660"
+        "54660",
+        "54666"
       ]
     },
     {
@@ -173,7 +460,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54661"
+        "54625",
+        "54661",
+        "54747",
+        "54760"
       ]
     },
     {
@@ -184,6 +474,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53518",
+        "53540",
+        "53581",
+        "53924",
         "54664"
       ]
     },
@@ -195,6 +489,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54621",
+        "54632",
+        "54658",
         "54665"
       ]
     },
@@ -206,18 +503,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54621",
+        "54632",
+        "54658",
         "54667"
-      ]
-    },
-    {
-      "name": "WILTON PUBLIC LIBRARY",
-      "system": "WILTON PUBLIC LIBRARY",
-      "address": "400 EAST ST., STE. 102, WILTON, WI",
-      "website": "https://wiltonlibrary.wrlsweb.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54670"
       ]
     },
     {
@@ -228,7 +517,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54616"
+        "54616",
+        "54625",
+        "54747",
+        "54760"
       ]
     },
     {
@@ -239,7 +531,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54636"
+        "54603",
+        "54614",
+        "54636",
+        "54644",
+        "54650",
+        "54653",
+        "54669"
       ]
     },
     {
@@ -250,7 +548,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54652"
+        "54621",
+        "54632",
+        "54652",
+        "54658"
       ]
     },
     {
@@ -261,18 +562,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54619"
-      ]
-    },
-    {
-      "name": "NORWALK PUBLIC LIBRARY",
-      "system": "NORWALK PUBLIC LIBRARY",
-      "address": "101 RAILROAD ST., NORWALK, WI",
-      "website": "http://norwalkpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54648"
+        "54619",
+        "54666"
       ]
     },
     {
@@ -283,18 +574,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54627"
-      ]
-    },
-    {
-      "name": "TAYLOR MEMORIAL LIBRARY",
-      "system": "TAYLOR MEMORIAL LIBRARY",
-      "address": "420 2ND ST., TAYLOR, WI",
-      "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=1000",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54659"
+        "54625",
+        "54627",
+        "54747",
+        "54760"
       ]
     },
     {
@@ -305,7 +588,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54623"
+        "54621",
+        "54623",
+        "54632",
+        "54658"
       ]
     }
   ]

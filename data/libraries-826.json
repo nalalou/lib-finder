@@ -8,7 +8,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "82601"
+        "82601",
+        "82604",
+        "82609",
+        "82620",
+        "82635",
+        "82636",
+        "82643",
+        "82644"
       ]
     },
     {
@@ -19,7 +26,47 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "82633"
+        "82224",
+        "82633",
+        "82637",
+        "826HH"
+      ]
+    },
+    {
+      "name": "JOHNSON COUNTY LIBRARY SYSTEM",
+      "system": "JOHNSON COUNTY LIBRARY SYSTEM",
+      "address": "171 NORTH ADAMS, BUFFALO, WY",
+      "website": "https://jclwyo.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82639",
+        "82640",
+        "82834",
+        "828HH"
+      ]
+    },
+    {
+      "name": "FREMONT COUNTY LIBRARY SYSTEM",
+      "system": "FREMONT COUNTY LIBRARY SYSTEM",
+      "address": "451 NORTH 2ND ST, LANDER, WY",
+      "website": "https://www.fclsonline.org/landerlibrary",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82310",
+        "82501",
+        "82510",
+        "82512",
+        "82513",
+        "82514",
+        "82515",
+        "82516",
+        "82520",
+        "82523",
+        "825HH",
+        "82642",
+        "82649"
       ]
     }
   ]

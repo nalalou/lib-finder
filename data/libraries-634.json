@@ -1,6 +1,133 @@
 {
   "libraries": [
     {
+      "name": "CLARENCE PUBLIC LIBRARY",
+      "system": "CLARENCE PUBLIC LIBRARY",
+      "address": "200 E BEECH ST, CLARENCE, MO",
+      "website": "https://search.211helps.org/search/10df5a23-1949-5935-9203-cb29d2d54a00",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "14026",
+        "14030",
+        "14031",
+        "14032",
+        "14033",
+        "14043",
+        "14047",
+        "14051",
+        "14055",
+        "14059",
+        "14068",
+        "14069",
+        "14075",
+        "14080",
+        "14081",
+        "14085",
+        "14086",
+        "14091",
+        "14134",
+        "14139",
+        "14170",
+        "14201",
+        "14202",
+        "14204",
+        "14206",
+        "14207",
+        "14208",
+        "14209",
+        "14210",
+        "14211",
+        "14212",
+        "14213",
+        "14214",
+        "14215",
+        "14216",
+        "14219",
+        "14220",
+        "14221",
+        "14222",
+        "14223",
+        "14225",
+        "14226",
+        "14228",
+        "142HH",
+        "63437"
+      ]
+    },
+    {
+      "name": "LOUISIANA PUBLIC LIBRARY",
+      "system": "LOUISIANA PUBLIC LIBRARY",
+      "address": "121 N THIRD ST, LOUISIANA, MO",
+      "website": "https://www.louisiana.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63330",
+        "63336",
+        "63339",
+        "63344",
+        "63353",
+        "63433",
+        "63441"
+      ]
+    },
+    {
+      "name": "BOWLING GREEN PUBLIC LIBRARY",
+      "system": "BOWLING GREEN PUBLIC LIBRARY",
+      "address": "201 W LOCUST ST, BOWLING GREEN, MO",
+      "website": "https://bowlinggreen-mo.gov/public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63330",
+        "63334",
+        "63336",
+        "63339",
+        "63344",
+        "63433",
+        "63441"
+      ]
+    },
+    {
+      "name": "MACON PUBLIC LIBRARY",
+      "system": "MACON PUBLIC LIBRARY",
+      "address": "210 N RUTHERFORD ST, MACON, MO",
+      "website": "http://www.maconlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63431",
+        "63530",
+        "63532",
+        "63534",
+        "63538",
+        "63539",
+        "63552",
+        "63558",
+        "65247"
+      ]
+    },
+    {
+      "name": "LAPLATA PUBLIC LIBRARY",
+      "system": "LAPLATA PUBLIC LIBRARY",
+      "address": "103 E MOORE ST, LA PLATA, MO",
+      "website": "https://www.laplatapubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63431",
+        "63530",
+        "63532",
+        "63534",
+        "63538",
+        "63539",
+        "63549",
+        "63558",
+        "65247"
+      ]
+    },
+    {
       "name": "MARION COUNTY LIBRARY SUB-DISTRICT #1",
       "system": "MARION COUNTY LIBRARY SUB-DISTRICT #1",
       "address": "212 S. MAIN ST., PALMYRA, MO",
@@ -8,7 +135,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63461"
+        "63454",
+        "63461",
+        "63463",
+        "63471"
       ]
     },
     {
@@ -19,7 +149,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63401"
+        "63401",
+        "63454",
+        "63463",
+        "63471"
       ]
     },
     {
@@ -30,7 +163,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63445"
+        "52626",
+        "63430",
+        "63445",
+        "63453",
+        "63465",
+        "63472",
+        "63474",
+        "634HH"
       ]
     },
     {
@@ -41,40 +181,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63456"
-      ]
-    },
-    {
-      "name": "CANTON PUBLIC LIBRARY",
-      "system": "CANTON PUBLIC LIBRARY",
-      "address": "403 LEWIS ST, CANTON, MO",
-      "website": "https://cantonpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63435"
-      ]
-    },
-    {
-      "name": "CARNEGIE PUBLIC LIBRARY",
-      "system": "CARNEGIE PUBLIC LIBRARY",
-      "address": "102 N CENTER ST, SHELBINA, MO",
-      "website": "https://www.shelbinacarnegie.lib.mo.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63468"
-      ]
-    },
-    {
-      "name": "CLARENCE PUBLIC LIBRARY",
-      "system": "CLARENCE PUBLIC LIBRARY",
-      "address": "200 E BEECH ST, CLARENCE, MO",
-      "website": "https://search.211helps.org/search/10df5a23-1949-5935-9203-cb29d2d54a00",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63437"
+        "63456",
+        "65258",
+        "65263",
+        "65275",
+        "65282",
+        "65283"
       ]
     },
     {
@@ -85,7 +197,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63436"
+        "63436",
+        "63459",
+        "63462"
       ]
     }
   ]

@@ -1,6 +1,121 @@
 {
   "libraries": [
     {
+      "name": "WESTCHESTER PUBLIC LIBRARY",
+      "system": "WESTCHESTER PUBLIC LIBRARY",
+      "address": "200 WEST INDIANA AVENUE, CHESTERTON, IN",
+      "website": "https://wpl.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46301",
+        "46304",
+        "46341",
+        "46347",
+        "46368",
+        "46385",
+        "46393"
+      ]
+    },
+    {
+      "name": "NEWTON COUNTY PUBLIC LIBRARY",
+      "system": "NEWTON COUNTY PUBLIC LIBRARY",
+      "address": "9444 NORTH 315 WEST, LAKE VILLAGE, IN",
+      "website": "https://www.newtoncountypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46349",
+        "75928",
+        "75932",
+        "75933",
+        "75966",
+        "75977",
+        "77614"
+      ]
+    },
+    {
+      "name": "STARKE COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "STARKE COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "152 WEST CULVER ROAD, KNOX, IN",
+      "website": "https://scpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46374",
+        "46531",
+        "46532",
+        "46534",
+        "46968"
+      ]
+    },
+    {
+      "name": "LAKE COUNTY PUBLIC LIBRARY",
+      "system": "LAKE COUNTY PUBLIC LIBRARY",
+      "address": "1919 WEST 81ST AVENUE, MERRILLVILLE, IN",
+      "website": "https://www.lakecountypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46303",
+        "46311",
+        "46319",
+        "46321",
+        "46322",
+        "46323",
+        "46324",
+        "46327",
+        "46342",
+        "46373",
+        "46375",
+        "46376",
+        "46377",
+        "463HH",
+        "46403",
+        "46404",
+        "46405",
+        "46406",
+        "46407",
+        "46408",
+        "46409",
+        "46410",
+        "464HH"
+      ]
+    },
+    {
+      "name": "GARY PUBLIC LIBRARY",
+      "system": "GARY PUBLIC LIBRARY",
+      "address": "220 W. 5TH AVENUE, GARY, IN",
+      "website": "http://www.garypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46303",
+        "46311",
+        "46319",
+        "46321",
+        "46322",
+        "46323",
+        "46324",
+        "46327",
+        "46342",
+        "46373",
+        "46375",
+        "46376",
+        "46377",
+        "463HH",
+        "46402",
+        "46403",
+        "46404",
+        "46405",
+        "46406",
+        "46407",
+        "46408",
+        "46409",
+        "464HH"
+      ]
+    },
+    {
       "name": "WHITING PUBLIC LIBRARY",
       "system": "WHITING PUBLIC LIBRARY",
       "address": "1735 OLIVER STREET, WHITING, IN",
@@ -8,7 +123,102 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46394"
+        "46303",
+        "46311",
+        "46319",
+        "46321",
+        "46322",
+        "46323",
+        "46324",
+        "46327",
+        "46342",
+        "46373",
+        "46375",
+        "46376",
+        "46377",
+        "46394",
+        "463HH",
+        "46403",
+        "46404",
+        "46405",
+        "46406",
+        "46407",
+        "46408",
+        "46409",
+        "464HH"
+      ]
+    },
+    {
+      "name": "REMINGTON-CARPENTER TOWNSHIP PUBLIC LIBRARY",
+      "system": "REMINGTON-CARPENTER TOWNSHIP PUBLIC LIBRARY",
+      "address": "105 NORTH OHIO STREET, REMINGTON, IN",
+      "website": "http://rctpl.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46310",
+        "46392",
+        "47943",
+        "47977"
+      ]
+    },
+    {
+      "name": "JASPER COUNTY PUBLIC LIBRARY",
+      "system": "JASPER COUNTY PUBLIC LIBRARY",
+      "address": "208 WEST SUSAN STREET, RENSSELAER, IN",
+      "website": "https://www.in.gov/jaspercountypubliclibrary/about/hours-and-locations/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46310",
+        "46392",
+        "47943",
+        "47978"
+      ]
+    },
+    {
+      "name": "BROOK-IROQUOIS-WASHINGTON TOWNSHIP PUBLIC LIBRARY",
+      "system": "BROOK-IROQUOIS-WASHINGTON TOWNSHIP PUBLIC LIBRARY",
+      "address": "100 WEST MAIN STREET, BROOK, IN",
+      "website": "https://www.brook.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46379",
+        "46381",
+        "47922",
+        "47963",
+        "47964"
+      ]
+    },
+    {
+      "name": "KENTLAND-JEFFERSON TOWNSHIP PUBLIC LIBRARY",
+      "system": "KENTLAND-JEFFERSON TOWNSHIP PUBLIC LIBRARY",
+      "address": "201 EAST GRAHAM STREET, KENTLAND, IN",
+      "website": "https://www.kentland.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46379",
+        "46381",
+        "47951",
+        "47963",
+        "47964"
+      ]
+    },
+    {
+      "name": "GOODLAND & GRANT TOWNSHIP PUBLIC LIBRARY",
+      "system": "GOODLAND & GRANT TOWNSHIP PUBLIC LIBRARY",
+      "address": "111 SOUTH NEWTON STREET, GOODLAND, IN",
+      "website": "https://www.google.com/search?q=GOODLAND+&+GRANT+TOWNSHIP+PUBLIC+LIBRARY+GOODLAND+IN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46379",
+        "46381",
+        "47948",
+        "47963",
+        "47964"
       ]
     },
     {
@@ -19,7 +229,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46312"
+        "46303",
+        "46311",
+        "46312",
+        "46319",
+        "46321",
+        "46322",
+        "46323",
+        "46324",
+        "46327",
+        "46342",
+        "46373",
+        "46375",
+        "46376",
+        "46377",
+        "463HH",
+        "46403",
+        "46404",
+        "46405",
+        "46406",
+        "46407",
+        "46408",
+        "46409",
+        "464HH"
       ]
     },
     {
@@ -30,7 +262,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46320"
+        "46303",
+        "46311",
+        "46319",
+        "46320",
+        "46321",
+        "46322",
+        "46323",
+        "46324",
+        "46327",
+        "46342",
+        "46373",
+        "46375",
+        "46376",
+        "46377",
+        "463HH",
+        "46403",
+        "46404",
+        "46405",
+        "46406",
+        "46407",
+        "46408",
+        "46409",
+        "464HH"
       ]
     },
     {
@@ -41,7 +295,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46307"
+        "46303",
+        "46307",
+        "46311",
+        "46319",
+        "46321",
+        "46322",
+        "46323",
+        "46324",
+        "46327",
+        "46342",
+        "46373",
+        "46375",
+        "46376",
+        "46377",
+        "463HH",
+        "46403",
+        "46404",
+        "46405",
+        "46406",
+        "46407",
+        "46408",
+        "46409",
+        "464HH"
       ]
     },
     {
@@ -74,18 +350,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46340",
+        "46345",
+        "46346",
+        "46348",
+        "46365",
+        "46371",
+        "46382",
         "46390"
-      ]
-    },
-    {
-      "name": "LA CROSSE PUBLIC LIBRARY",
-      "system": "LA CROSSE PUBLIC LIBRARY",
-      "address": "307 E MAIN STREET, LA CROSSE, IN",
-      "website": "https://www.lacrosselibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46348"
       ]
     },
     {
@@ -96,18 +368,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46350"
-      ]
-    },
-    {
-      "name": "NEWTON COUNTY PUBLIC LIBRARY",
-      "system": "NEWTON COUNTY PUBLIC LIBRARY",
-      "address": "9444 NORTH 315 WEST, LAKE VILLAGE, IN",
-      "website": "https://www.newtoncountypubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46349"
+        "46340",
+        "46345",
+        "46346",
+        "46348",
+        "46350",
+        "46365",
+        "46371",
+        "46382"
       ]
     },
     {
@@ -118,18 +386,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46383"
-      ]
-    },
-    {
-      "name": "WESTCHESTER PUBLIC LIBRARY",
-      "system": "WESTCHESTER PUBLIC LIBRARY",
-      "address": "200 WEST INDIANA AVENUE, CHESTERTON, IN",
-      "website": "https://wpl.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46304"
+        "46301",
+        "46341",
+        "46347",
+        "46368",
+        "46383",
+        "46385",
+        "46393"
       ]
     },
     {
@@ -140,7 +403,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46366"
+        "46366",
+        "46374",
+        "46531",
+        "46532",
+        "46968"
       ]
     },
     {
@@ -151,7 +418,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46356"
+        "46303",
+        "46311",
+        "46319",
+        "46321",
+        "46322",
+        "46323",
+        "46324",
+        "46327",
+        "46342",
+        "46356",
+        "46373",
+        "46375",
+        "46376",
+        "46377",
+        "463HH",
+        "46403",
+        "46404",
+        "46405",
+        "46406",
+        "46407",
+        "46408",
+        "46409",
+        "464HH"
       ]
     }
   ]

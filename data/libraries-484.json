@@ -1,6 +1,60 @@
 {
   "libraries": [
     {
+      "name": "LAINGSBURG PUBLIC LIBRARY",
+      "system": "LAINGSBURG PUBLIC LIBRARY",
+      "address": "255 EAST GRAND RIVER ROAD, LAINGSBURG, MI",
+      "website": "https://www.laingsburg.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48414",
+        "48418",
+        "48429",
+        "48460",
+        "48841",
+        "48848",
+        "48857",
+        "48872"
+      ]
+    },
+    {
+      "name": "SHIAWASSEE DISTRICT LIBRARY",
+      "system": "SHIAWASSEE DISTRICT LIBRARY",
+      "address": "502 WEST MAIN STREET, OWOSSO, MI",
+      "website": "https://www.mysdl.org/owosso",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48414",
+        "48418",
+        "48429",
+        "48460",
+        "48841",
+        "48857",
+        "48867",
+        "48872"
+      ]
+    },
+    {
+      "name": "COMMUNITY DISTRICT LIBRARY",
+      "system": "COMMUNITY DISTRICT LIBRARY",
+      "address": "210 EAST CORUNNA AVENUE, CORUNNA, MI",
+      "website": "https://www.mycdl.org/about/locations-hours/corunna",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48414",
+        "48418",
+        "48429",
+        "48460",
+        "48817",
+        "48841",
+        "48857",
+        "48872"
+      ]
+    },
+    {
       "name": "BAD AXE AREA DISTRICT LIBRARY",
       "system": "BAD AXE AREA DISTRICT LIBRARY",
       "address": "200 SOUTH HANSELMAN STREET, BAD AXE, MI",
@@ -8,7 +62,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48413"
+        "48413",
+        "48432",
+        "48445",
+        "48468",
+        "48470",
+        "48720",
+        "48725",
+        "48731",
+        "48754"
       ]
     },
     {
@@ -19,6 +81,44 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "48025",
+        "48034",
+        "48069",
+        "48073",
+        "48075",
+        "48083",
+        "48084",
+        "48098",
+        "48165",
+        "48237",
+        "48301",
+        "48304",
+        "48306",
+        "48309",
+        "48320",
+        "48322",
+        "48324",
+        "48327",
+        "48328",
+        "48329",
+        "48331",
+        "48335",
+        "48336",
+        "48340",
+        "48341",
+        "48348",
+        "48350",
+        "48357",
+        "48359",
+        "48360",
+        "48363",
+        "48370",
+        "48371",
+        "48374",
+        "48377",
+        "48380",
+        "48381",
+        "48383",
         "48462"
       ]
     },
@@ -30,7 +130,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48416"
+        "48401",
+        "48416",
+        "48419",
+        "48426",
+        "48434",
+        "48454",
+        "48456",
+        "48465",
+        "48472"
       ]
     },
     {
@@ -41,7 +149,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48427"
+        "48401",
+        "48419",
+        "48426",
+        "48427",
+        "48434",
+        "48454",
+        "48456",
+        "48465",
+        "48472"
       ]
     },
     {
@@ -52,7 +168,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48428"
+        "48412",
+        "48421",
+        "48428",
+        "48440",
+        "48455",
+        "48464",
+        "48727"
       ]
     },
     {
@@ -63,7 +185,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48466"
+        "48401",
+        "48419",
+        "48426",
+        "48434",
+        "48454",
+        "48456",
+        "48465",
+        "48466",
+        "48472"
       ]
     },
     {
@@ -74,7 +204,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48415"
+        "48415",
+        "48602",
+        "48603",
+        "48604",
+        "48614",
+        "48623",
+        "48649",
+        "48722",
+        "48724"
       ]
     },
     {
@@ -85,7 +223,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48441"
+        "48432",
+        "48441",
+        "48445",
+        "48468",
+        "48470",
+        "48720",
+        "48725",
+        "48731",
+        "48754"
       ]
     },
     {
@@ -96,6 +242,44 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "48025",
+        "48034",
+        "48069",
+        "48073",
+        "48075",
+        "48083",
+        "48084",
+        "48098",
+        "48165",
+        "48237",
+        "48301",
+        "48304",
+        "48306",
+        "48309",
+        "48320",
+        "48322",
+        "48324",
+        "48327",
+        "48328",
+        "48329",
+        "48331",
+        "48335",
+        "48336",
+        "48340",
+        "48341",
+        "48348",
+        "48350",
+        "48357",
+        "48359",
+        "48360",
+        "48363",
+        "48370",
+        "48371",
+        "48374",
+        "48377",
+        "48380",
+        "48381",
+        "48383",
         "48442"
       ]
     },
@@ -107,7 +291,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48444"
+        "48412",
+        "48421",
+        "48440",
+        "48444",
+        "48455",
+        "48464",
+        "48727"
       ]
     },
     {
@@ -118,7 +308,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48446"
+        "48412",
+        "48421",
+        "48440",
+        "48446",
+        "48455",
+        "48464",
+        "48727"
       ]
     },
     {
@@ -129,7 +325,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48453"
+        "48401",
+        "48419",
+        "48426",
+        "48434",
+        "48453",
+        "48454",
+        "48456",
+        "48465",
+        "48472"
       ]
     },
     {
@@ -140,7 +344,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48450"
+        "48401",
+        "48419",
+        "48426",
+        "48434",
+        "48450",
+        "48454",
+        "48456",
+        "48465",
+        "48472"
       ]
     },
     {
@@ -151,7 +363,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48461"
+        "48412",
+        "48421",
+        "48440",
+        "48455",
+        "48461",
+        "48464",
+        "48727"
       ]
     },
     {
@@ -162,7 +380,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48467"
+        "48432",
+        "48445",
+        "48467",
+        "48468",
+        "48470",
+        "48720",
+        "48725",
+        "48731",
+        "48754"
       ]
     },
     {
@@ -173,7 +399,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48471"
+        "48401",
+        "48419",
+        "48426",
+        "48434",
+        "48454",
+        "48456",
+        "48465",
+        "48471",
+        "48472"
       ]
     },
     {
@@ -184,7 +418,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48469"
+        "48401",
+        "48419",
+        "48426",
+        "48434",
+        "48454",
+        "48456",
+        "48465",
+        "48469",
+        "48472"
       ]
     },
     {
@@ -195,7 +437,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48475"
+        "48432",
+        "48445",
+        "48468",
+        "48470",
+        "48475",
+        "48720",
+        "48725",
+        "48731",
+        "48754"
       ]
     },
     {
@@ -206,7 +456,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48417"
+        "48417",
+        "48602",
+        "48603",
+        "48604",
+        "48614",
+        "48623",
+        "48649",
+        "48722",
+        "48724"
       ]
     },
     {
@@ -217,7 +475,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48476"
+        "48414",
+        "48418",
+        "48429",
+        "48460",
+        "48476",
+        "48841",
+        "48857",
+        "48872"
       ]
     },
     {
@@ -228,7 +493,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48435"
+        "48435",
+        "48701",
+        "48729",
+        "48735",
+        "48760"
       ]
     },
     {
@@ -239,7 +508,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48422"
+        "48401",
+        "48419",
+        "48422",
+        "48426",
+        "48434",
+        "48454",
+        "48456",
+        "48465",
+        "48472"
       ]
     },
     {
@@ -250,7 +527,138 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48444"
+        "48412",
+        "48421",
+        "48440",
+        "48444",
+        "48455",
+        "48464",
+        "48727"
+      ]
+    },
+    {
+      "name": "GLORIA COLES FLINT PUBLIC LIBRARY",
+      "system": "GLORIA COLES FLINT PUBLIC LIBRARY",
+      "address": "1026 EAST KEARSLEY STREET, FLINT, MI",
+      "website": "https://www.exploreflintandgenesee.org/listing/gloria-coles-flint-public-library/600/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48420",
+        "48423",
+        "48430",
+        "48433",
+        "48436",
+        "48437",
+        "48438",
+        "48439",
+        "48449",
+        "48451",
+        "48457",
+        "48458",
+        "48463",
+        "48473",
+        "484HH",
+        "48502",
+        "48503",
+        "48505",
+        "48506",
+        "48507",
+        "48509",
+        "48519",
+        "48529",
+        "48532",
+        "485HH"
+      ]
+    },
+    {
+      "name": "GENESEE DISTRICT LIBRARY",
+      "system": "GENESEE DISTRICT LIBRARY",
+      "address": "G-4195 WEST PASADENA AVENUE, FLINT, MI",
+      "website": "https://www.thegdl.org/headquarters/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48420",
+        "48423",
+        "48430",
+        "48433",
+        "48436",
+        "48437",
+        "48438",
+        "48439",
+        "48449",
+        "48451",
+        "48457",
+        "48458",
+        "48463",
+        "48473",
+        "484HH",
+        "48502",
+        "48504",
+        "48505",
+        "48506",
+        "48507",
+        "48509",
+        "48519",
+        "48529",
+        "48532",
+        "485HH"
+      ]
+    },
+    {
+      "name": "PIGEON DISTRICT LIBRARY",
+      "system": "PIGEON DISTRICT LIBRARY",
+      "address": "7236 NITZ STREET, PIGEON, MI",
+      "website": "https://www.pigeondistrictlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48432",
+        "48445",
+        "48468",
+        "48470",
+        "48720",
+        "48725",
+        "48731",
+        "48754",
+        "48755"
+      ]
+    },
+    {
+      "name": "SEBEWAING TOWNSHIP LIBRARY",
+      "system": "SEBEWAING TOWNSHIP LIBRARY",
+      "address": "41 NORTH CENTER STREET, SEBEWAING, MI",
+      "website": "https://www.chamberofcommerce.com/united-states/michigan/sebewaing/public-library/4189225-sebewaing-township-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48432",
+        "48445",
+        "48468",
+        "48470",
+        "48720",
+        "48725",
+        "48731",
+        "48754",
+        "48759"
+      ]
+    },
+    {
+      "name": "ALMONT DISTRICT LIBRARY",
+      "system": "ALMONT DISTRICT LIBRARY",
+      "address": "213 WEST SAINT CLAIR STREET, ALMONT, MI",
+      "website": "https://www.adlmi.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48003",
+        "48412",
+        "48421",
+        "48440",
+        "48455",
+        "48464",
+        "48727"
       ]
     }
   ]

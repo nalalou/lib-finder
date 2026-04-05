@@ -8,7 +8,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "30549"
+        "30517",
+        "30529",
+        "30548",
+        "30549",
+        "30558",
+        "30565",
+        "30567",
+        "30575"
       ]
     },
     {
@@ -19,7 +26,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "30523"
+        "30510",
+        "30523",
+        "30531",
+        "30535",
+        "30563"
       ]
     },
     {
@@ -41,6 +52,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "30546",
         "30582"
       ]
     },
@@ -52,7 +64,54 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "30501"
+        "30501",
+        "30504",
+        "30506",
+        "30507",
+        "30527",
+        "30542",
+        "30543",
+        "30554",
+        "30564",
+        "30566"
+      ]
+    },
+    {
+      "name": "HART COUNTY LIBRARY SYSTEM",
+      "system": "HART COUNTY LIBRARY SYSTEM",
+      "address": "150 BENSON STREET, HARTWELL, GA",
+      "website": "https://www.hartcountylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30516",
+        "30643"
+      ]
+    },
+    {
+      "name": "GWINNETT COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "GWINNETT COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "1001 LAWRENCEVILLE HIGHWAY, LAWRENCEVILLE, GA",
+      "website": "https://www.gwinnettpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30017",
+        "30019",
+        "30024",
+        "30039",
+        "30043",
+        "30044",
+        "30045",
+        "30046",
+        "30047",
+        "30071",
+        "30078",
+        "30092",
+        "30093",
+        "30096",
+        "30518",
+        "30519"
       ]
     }
   ]

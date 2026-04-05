@@ -1,36 +1,50 @@
 {
   "libraries": [
     {
-      "name": "WESTERN PLAINS LIBRARY SYSTEM",
-      "system": "WESTERN PLAINS LIBRARY SYSTEM",
-      "address": "501 S. 28TH STREET, CLINTON, OK",
-      "website": "https://wplibs.com/",
+      "name": "MANGUM - MARGARET CARDER LIBRARY",
+      "system": "MANGUM - MARGARET CARDER LIBRARY",
+      "address": "201 W. LINCOLN ST., MANGUM, OK",
+      "website": "https://librarytechnology.org/library/23104",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73601"
+        "73547",
+        "73554",
+        "73673"
       ]
     },
     {
-      "name": "ELK CITY CARNEGIE LIBRARY",
-      "system": "ELK CITY CARNEGIE LIBRARY",
-      "address": "221 WEST BROADWAY AVE, ELK CITY, OK",
-      "website": "https://www.elkcity.com/library/",
+      "name": "OKEENE PUBLIC LIBRARY",
+      "system": "OKEENE PUBLIC LIBRARY",
+      "address": "215 N MAIN, OKEENE, OK",
+      "website": "https://okeene.okpls.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73644"
+        "73043",
+        "73646",
+        "73724",
+        "73744",
+        "73755",
+        "73763",
+        "737HH"
       ]
     },
     {
-      "name": "HOBART PUBLIC LIBRARY",
-      "system": "HOBART PUBLIC LIBRARY",
-      "address": "200 S MAIN, HOBART, OK",
-      "website": "https://www.hobartlibrary.okpls.org/",
+      "name": "WATONGA PUBLIC LIBRARY",
+      "system": "WATONGA PUBLIC LIBRARY",
+      "address": "301 N PROUTY, WATONGA, OK",
+      "website": "https://www.watongapl.okpls.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73651"
+        "73043",
+        "73646",
+        "73724",
+        "73744",
+        "73755",
+        "73772",
+        "737HH"
       ]
     },
     {
@@ -41,7 +55,105 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "16914",
+        "16926",
+        "186HH",
+        "18814",
+        "18817",
+        "18829",
+        "18831",
+        "18833",
+        "18837",
+        "18840",
+        "18845",
+        "18846",
+        "18851",
+        "18854",
+        "188HH",
         "73662"
+      ]
+    },
+    {
+      "name": "WESTERN PLAINS LIBRARY SYSTEM",
+      "system": "WESTERN PLAINS LIBRARY SYSTEM",
+      "address": "501 S. 28TH STREET, CLINTON, OK",
+      "website": "https://wplibs.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73096",
+        "73601",
+        "73620",
+        "73625",
+        "73639",
+        "73669"
+      ]
+    },
+    {
+      "name": "ELK CITY CARNEGIE LIBRARY",
+      "system": "ELK CITY CARNEGIE LIBRARY",
+      "address": "221 WEST BROADWAY AVE, ELK CITY, OK",
+      "website": "https://www.elkcity.com/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73627",
+        "73644",
+        "73645",
+        "73668",
+        "736HH",
+        "736XX"
+      ]
+    },
+    {
+      "name": "HOBART PUBLIC LIBRARY",
+      "system": "HOBART PUBLIC LIBRARY",
+      "address": "200 S MAIN, HOBART, OK",
+      "website": "https://www.hobartlibrary.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73041",
+        "730XX",
+        "73559",
+        "73564",
+        "73566",
+        "73651",
+        "73655"
+      ]
+    },
+    {
+      "name": "GEARY PUBLIC LIBRARY",
+      "system": "GEARY PUBLIC LIBRARY",
+      "address": "106 W MAIN ST, GEARY, OK",
+      "website": "https://librarytechnology.org/library/23086",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73040",
+        "73043",
+        "73646",
+        "73724",
+        "73744",
+        "73755",
+        "737HH"
+      ]
+    },
+    {
+      "name": "MT VIEW - ADDIE DAVIS MEMORIAL LIBRARY",
+      "system": "MT VIEW - ADDIE DAVIS MEMORIAL LIBRARY",
+      "address": "301 N. 4TH, MTN. VIEW, OK",
+      "website": "https://mountainviewok.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73041",
+        "73062",
+        "730XX",
+        "73559",
+        "73564",
+        "73566",
+        "73655"
       ]
     }
   ]

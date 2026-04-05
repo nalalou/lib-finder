@@ -1,6 +1,24 @@
 {
   "libraries": [
     {
+      "name": "NELSON COUNTY PUBLIC LIBRARY",
+      "system": "NELSON COUNTY PUBLIC LIBRARY",
+      "address": "201 CATHEDRAL MANOR, BARDSTOWN, KY",
+      "website": "https://www.ncplky.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40004",
+        "40008",
+        "40012",
+        "40013",
+        "40020",
+        "40051",
+        "40052",
+        "40107"
+      ]
+    },
+    {
       "name": "BRECKINRIDGE COUNTY PUBLIC LIBRARY",
       "system": "BRECKINRIDGE COUNTY PUBLIC LIBRARY",
       "address": "308 OLD HIGHWAY 60, HARDINSBURG, KY",
@@ -8,7 +26,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40143"
+        "40111",
+        "40115",
+        "40140",
+        "40143",
+        "40144",
+        "40145",
+        "40146",
+        "40152",
+        "40164",
+        "40170",
+        "40171",
+        "40178",
+        "401HH",
+        "427HH"
       ]
     },
     {
@@ -19,7 +50,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40165"
+        "40047",
+        "40109",
+        "40150",
+        "40165",
+        "401XX"
       ]
     },
     {
@@ -30,7 +65,96 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40108"
+        "40104",
+        "40108",
+        "40117",
+        "40142",
+        "40155",
+        "40157",
+        "40176"
+      ]
+    },
+    {
+      "name": "GRAYSON COUNTY PUBLIC LIBRARY",
+      "system": "GRAYSON COUNTY PUBLIC LIBRARY",
+      "address": "163 CARROLL GIBSON BLVD, LEITCHFIELD, KY",
+      "website": "https://www.gcpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40119",
+        "42712",
+        "42721",
+        "42726",
+        "42754",
+        "42762"
+      ]
+    },
+    {
+      "name": "HARDIN COUNTY PUBLIC LIBRARY",
+      "system": "HARDIN COUNTY PUBLIC LIBRARY",
+      "address": "100 JIM OWEN DRIVE, ELIZABETHTOWN, KY",
+      "website": "https://public-libraries.com/kentucky/elizabethtown/hardin-county-public-library-kentucky-elizabethtown/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40121",
+        "40160",
+        "40162",
+        "40175",
+        "40177",
+        "42701",
+        "42724",
+        "42732",
+        "42740",
+        "42776",
+        "42784",
+        "42788"
+      ]
+    },
+    {
+      "name": "LOUISVILLE FREE PUBLIC LIBRARY",
+      "system": "LOUISVILLE FREE PUBLIC LIBRARY",
+      "address": "301 YORK STREET, LOUISVILLE, KY",
+      "website": "https://www.lfpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40023",
+        "40059",
+        "40118",
+        "40202",
+        "40203",
+        "40204",
+        "40205",
+        "40206",
+        "40207",
+        "40208",
+        "40209",
+        "40210",
+        "40211",
+        "40212",
+        "40213",
+        "40214",
+        "40215",
+        "40216",
+        "40217",
+        "40218",
+        "40219",
+        "40220",
+        "40222",
+        "40223",
+        "40228",
+        "40229",
+        "40241",
+        "40242",
+        "40243",
+        "40245",
+        "40258",
+        "40272",
+        "40291",
+        "40299",
+        "402HH"
       ]
     }
   ]

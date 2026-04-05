@@ -1,113 +1,19 @@
 {
   "libraries": [
     {
-      "name": "RAPID CITY PUBLIC LIBRARY",
-      "system": "RAPID CITY PUBLIC LIBRARY",
-      "address": "610 QUINCY STREET, RAPID CITY, SD",
-      "website": "https://www.rapidcitylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57701"
-      ]
-    },
-    {
       "name": "NORTHWEST REGIONAL LIBRARY",
       "system": "NORTHWEST REGIONAL LIBRARY",
-      "address": "410 RAMSLAND ST, BUFFALO, SD",
+      "address": "210 LABREE AVENUE NORTH, THIEF RIVER FALLS, MN",
       "website": "https://nwregional.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57720"
-      ]
-    },
-    {
-      "name": "BELLE FOURCHE PUBLIC LIBRARY",
-      "system": "BELLE FOURCHE PUBLIC LIBRARY",
-      "address": "905 5TH AVE, BELLE FOURCHE, SD",
-      "website": "https://bellefourche.yoursdlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57717"
-      ]
-    },
-    {
-      "name": "CUSTER COUNTY LIBRARY",
-      "system": "CUSTER COUNTY LIBRARY",
-      "address": "447 CROOK STREET SUITE 4, CUSTER, SD",
-      "website": "https://custercountylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57730"
-      ]
-    },
-    {
-      "name": "DEADWOOD PUBLIC LIBRARY",
-      "system": "DEADWOOD PUBLIC LIBRARY",
-      "address": "435 WILLIAMS ST, DEADWOOD, SD",
-      "website": "https://www.cityofdeadwood.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57732"
-      ]
-    },
-    {
-      "name": "EDGEMONT PUBLIC LIBRARY",
-      "system": "EDGEMONT PUBLIC LIBRARY",
-      "address": "412 2ND AVE, EDGEMONT, SD",
-      "website": "https://edgemontpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57735"
-      ]
-    },
-    {
-      "name": "HILL CITY PUBLIC LIBRARY",
-      "system": "HILL CITY PUBLIC LIBRARY",
-      "address": "341 MAIN ST, HILL CITY, SD",
-      "website": "https://www.hillcitysd.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57745"
-      ]
-    },
-    {
-      "name": "HOT SPRINGS PUBLIC LIBRARY",
-      "system": "HOT SPRINGS PUBLIC LIBRARY",
-      "address": "2005 LIBRARY DRIVE, HOT SPRINGS, SD",
-      "website": "https://hotspringspubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57747"
-      ]
-    },
-    {
-      "name": "KEYSTONE TOWN LIBRARY",
-      "system": "KEYSTONE TOWN LIBRARY",
-      "address": "1101 MADILL ST, KEYSTONE, SD",
-      "website": "https://keystone.yoursdlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57751"
-      ]
-    },
-    {
-      "name": "PHOEBE APPERSON HEARST FREE LIBRARY",
-      "system": "PHOEBE APPERSON HEARST FREE LIBRARY",
-      "address": "315 WEST MAIN, LEAD, SD",
-      "website": "https://lead.yoursdlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57754"
+        "56701",
+        "57650",
+        "57651",
+        "57720",
+        "57724",
+        "57755"
       ]
     },
     {
@@ -118,7 +24,190 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57760"
+        "57742",
+        "57760",
+        "57762",
+        "57788"
+      ]
+    },
+    {
+      "name": "JACKSON COUNTY LIBRARY",
+      "system": "JACKSON COUNTY LIBRARY",
+      "address": "311 THIRD STREET, JACKSON, MN",
+      "website": "https://jacksoncounty.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56143",
+        "57521",
+        "57543",
+        "57547",
+        "57577",
+        "57750"
+      ]
+    },
+    {
+      "name": "BENNETT COUNTY LIBRARY",
+      "system": "BENNETT COUNTY LIBRARY",
+      "address": "101 MAIN STREET, MARTIN, SD",
+      "website": "https://librarytechnology.org/library/24103",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57551",
+        "57574",
+        "57714"
+      ]
+    },
+    {
+      "name": "RAPID CITY PUBLIC LIBRARY",
+      "system": "RAPID CITY PUBLIC LIBRARY",
+      "address": "610 QUINCY STREET, RAPID CITY, SD",
+      "website": "https://www.rapidcitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57701",
+        "57702",
+        "57703",
+        "57719",
+        "57725",
+        "57729",
+        "57761",
+        "57767",
+        "57775",
+        "57778",
+        "57780",
+        "57791"
+      ]
+    },
+    {
+      "name": "BELLE FOURCHE PUBLIC LIBRARY",
+      "system": "BELLE FOURCHE PUBLIC LIBRARY",
+      "address": "905 5TH AVE, BELLE FOURCHE, SD",
+      "website": "https://bellefourche.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57717",
+        "57742",
+        "57762",
+        "57788"
+      ]
+    },
+    {
+      "name": "CUSTER COUNTY LIBRARY",
+      "system": "CUSTER COUNTY LIBRARY",
+      "address": "447 CROOK STREET SUITE 4, CUSTER, SD",
+      "website": "https://custercountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57722",
+        "57730",
+        "57738",
+        "57744",
+        "57773"
+      ]
+    },
+    {
+      "name": "DEADWOOD PUBLIC LIBRARY",
+      "system": "DEADWOOD PUBLIC LIBRARY",
+      "address": "435 WILLIAMS ST, DEADWOOD, SD",
+      "website": "https://www.cityofdeadwood.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57732",
+        "57759",
+        "57779",
+        "57799"
+      ]
+    },
+    {
+      "name": "EDGEMONT PUBLIC LIBRARY",
+      "system": "EDGEMONT PUBLIC LIBRARY",
+      "address": "412 2ND AVE, EDGEMONT, SD",
+      "website": "https://edgemontpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57735",
+        "57763",
+        "57766",
+        "57774"
+      ]
+    },
+    {
+      "name": "HILL CITY PUBLIC LIBRARY",
+      "system": "HILL CITY PUBLIC LIBRARY",
+      "address": "341 MAIN ST, HILL CITY, SD",
+      "website": "https://www.hillcitysd.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57702",
+        "57703",
+        "57719",
+        "57725",
+        "57729",
+        "57745",
+        "57761",
+        "57767",
+        "57775",
+        "57778",
+        "57780",
+        "57791"
+      ]
+    },
+    {
+      "name": "HOT SPRINGS PUBLIC LIBRARY",
+      "system": "HOT SPRINGS PUBLIC LIBRARY",
+      "address": "2005 LIBRARY DRIVE, HOT SPRINGS, SD",
+      "website": "https://hotspringspubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57747",
+        "57763",
+        "57766",
+        "57774"
+      ]
+    },
+    {
+      "name": "KEYSTONE TOWN LIBRARY",
+      "system": "KEYSTONE TOWN LIBRARY",
+      "address": "1101 MADILL ST, KEYSTONE, SD",
+      "website": "https://keystone.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57702",
+        "57703",
+        "57719",
+        "57725",
+        "57729",
+        "57751",
+        "57761",
+        "57767",
+        "57775",
+        "57778",
+        "57780",
+        "57791"
+      ]
+    },
+    {
+      "name": "PHOEBE APPERSON HEARST FREE LIBRARY",
+      "system": "PHOEBE APPERSON HEARST FREE LIBRARY",
+      "address": "315 WEST MAIN, LEAD, SD",
+      "website": "https://lead.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57754",
+        "57759",
+        "57779",
+        "57799"
       ]
     },
     {
@@ -129,7 +218,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57783"
+        "57759",
+        "57779",
+        "57783",
+        "57799"
       ]
     },
     {
@@ -140,7 +232,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57785"
+        "57706",
+        "57718",
+        "57736",
+        "57737",
+        "57758",
+        "57765",
+        "57777",
+        "57785",
+        "57787",
+        "57792",
+        "577HH"
       ]
     },
     {
@@ -151,7 +253,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57790"
+        "57702",
+        "57703",
+        "57719",
+        "57725",
+        "57729",
+        "57761",
+        "57767",
+        "57775",
+        "57778",
+        "57780",
+        "57790",
+        "57791"
       ]
     },
     {
@@ -162,7 +275,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57793"
+        "57759",
+        "57779",
+        "57793",
+        "57799"
       ]
     },
     {
@@ -184,7 +300,38 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57769"
+        "57706",
+        "57718",
+        "57736",
+        "57737",
+        "57758",
+        "57765",
+        "57769",
+        "57777",
+        "57787",
+        "57792",
+        "577HH"
+      ]
+    },
+    {
+      "name": "FAITH PUBLIC LIBRARY",
+      "system": "FAITH PUBLIC LIBRARY",
+      "address": "204 W FIFTH ST, FAITH, SD",
+      "website": "https://faithsdlibrary.weebly.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57626",
+        "57706",
+        "57718",
+        "57736",
+        "57737",
+        "57758",
+        "57765",
+        "57777",
+        "57787",
+        "57792",
+        "577HH"
       ]
     }
   ]

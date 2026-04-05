@@ -1,6 +1,23 @@
 {
   "libraries": [
     {
+      "name": "TIPTON COUNTY PUBLIC LIBRARY",
+      "system": "TIPTON COUNTY PUBLIC LIBRARY",
+      "address": "127 EAST MADISON STREET, TIPTON, IN",
+      "website": "https://www.tiptoncountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38004",
+        "38011",
+        "38015",
+        "38019",
+        "38023",
+        "38049",
+        "46072"
+      ]
+    },
+    {
       "name": "COLFAX-PERRY TOWNSHIP PUBLIC LIBRARY",
       "system": "COLFAX-PERRY TOWNSHIP PUBLIC LIBRARY",
       "address": "207 SOUTH CLARK STREET, COLFAX, IN",
@@ -8,7 +25,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46035"
+        "46035",
+        "46039",
+        "46057",
+        "46058",
+        "46065"
       ]
     },
     {
@@ -19,7 +40,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46041"
+        "46039",
+        "46041",
+        "46057",
+        "46058",
+        "46065"
       ]
     },
     {
@@ -30,18 +55,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46050"
-      ]
-    },
-    {
-      "name": "TIPTON COUNTY PUBLIC LIBRARY",
-      "system": "TIPTON COUNTY PUBLIC LIBRARY",
-      "address": "127 EAST MADISON STREET, TIPTON, IN",
-      "website": "https://www.tiptoncountylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46072"
+        "46039",
+        "46050",
+        "46057",
+        "46058",
+        "46065"
       ]
     },
     {
@@ -52,7 +70,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46036"
+        "46011",
+        "46012",
+        "46013",
+        "46017",
+        "46036",
+        "46044",
+        "46048",
+        "46051",
+        "46056",
+        "46063",
+        "46070"
       ]
     },
     {
@@ -63,7 +91,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46001"
+        "46001",
+        "46011",
+        "46012",
+        "46013",
+        "46017",
+        "46044",
+        "46048",
+        "46051",
+        "46056",
+        "46063",
+        "46070"
       ]
     },
     {
@@ -74,7 +112,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46016"
+        "46011",
+        "46012",
+        "46013",
+        "46016",
+        "46017",
+        "46044",
+        "46048",
+        "46051",
+        "46056",
+        "46063",
+        "46070"
       ]
     },
     {
@@ -85,7 +133,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46064"
+        "46011",
+        "46012",
+        "46013",
+        "46017",
+        "46044",
+        "46048",
+        "46051",
+        "46056",
+        "46063",
+        "46064",
+        "46070"
       ]
     },
     {
@@ -96,29 +154,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46071"
-      ]
-    },
-    {
-      "name": "LEBANON PUBLIC LIBRARY",
-      "system": "LEBANON PUBLIC LIBRARY",
-      "address": "104 EAST WASHINGTON STREET, LEBANON, IN",
-      "website": "https://lebanonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46052"
-      ]
-    },
-    {
-      "name": "SHERIDAN PUBLIC LIBRARY",
-      "system": "SHERIDAN PUBLIC LIBRARY",
-      "address": "103 WEST FIRST STREET, SHERIDAN, IN",
-      "website": "https://townofsheridanmt.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46069"
+        "46052",
+        "46071",
+        "46075",
+        "46102",
+        "46147"
       ]
     },
     {
@@ -129,7 +169,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46074"
+        "46030",
+        "46031",
+        "46033",
+        "46038",
+        "46069",
+        "46074",
+        "460HH",
+        "46280",
+        "46290",
+        "462HH"
       ]
     },
     {
@@ -140,7 +189,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46032"
+        "46030",
+        "46031",
+        "46032",
+        "46033",
+        "46038",
+        "46069",
+        "460HH",
+        "46280",
+        "46290",
+        "462HH"
       ]
     },
     {
@@ -151,7 +209,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46034"
+        "46030",
+        "46031",
+        "46033",
+        "46034",
+        "46038",
+        "46069",
+        "460HH",
+        "46280",
+        "46290",
+        "462HH"
       ]
     },
     {
@@ -162,7 +229,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46060"
+        "46030",
+        "46031",
+        "46033",
+        "46038",
+        "46060",
+        "46069",
+        "460HH",
+        "46280",
+        "46290",
+        "462HH"
       ]
     },
     {
@@ -173,7 +249,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46040"
+        "46040",
+        "46055",
+        "46117",
+        "46140",
+        "46163",
+        "46186"
       ]
     },
     {
@@ -184,7 +265,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46077"
+        "46052",
+        "46075",
+        "46077",
+        "46102",
+        "46147"
       ]
     }
   ]

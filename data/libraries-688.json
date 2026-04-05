@@ -1,6 +1,59 @@
 {
   "libraries": [
     {
+      "name": "GIBBON PUBLIC LIBRARY",
+      "system": "GIBBON PUBLIC LIBRARY",
+      "address": "116 LABARRE STREET, GIBBON, NE",
+      "website": "https://libraries.ne.gov/gibbon/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68812",
+        "68840",
+        "68845",
+        "68858",
+        "68861",
+        "68866",
+        "68870",
+        "688HH"
+      ]
+    },
+    {
+      "name": "TAYLOR PUBLIC LIBRARY",
+      "system": "TAYLOR PUBLIC LIBRARY",
+      "address": "106 WILLIAMS STREET, TAYLOR, NE",
+      "website": "https://libs.ne.gov/taylor",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68879",
+        "76527",
+        "76530",
+        "76574",
+        "76578",
+        "78615",
+        "78626",
+        "78628",
+        "78681",
+        "78717",
+        "78729"
+      ]
+    },
+    {
+      "name": "CENTRAL CITY PUBLIC LIBRARY",
+      "system": "CENTRAL CITY PUBLIC LIBRARY",
+      "address": "1604 15TH AVENUE, CENTRAL CITY, NE",
+      "website": "https://www.cc-ne.com/city_government/library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68816",
+        "68826",
+        "68827",
+        "68864"
+      ]
+    },
+    {
       "name": "ANSLEY TOWNSHIP LIBRARY",
       "system": "ANSLEY TOWNSHIP LIBRARY",
       "address": "619 MAIN STREET, ANSLEY, NE",
@@ -8,7 +61,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68814"
+        "68813",
+        "68814",
+        "68819",
+        "68828",
+        "68860",
+        "68881"
       ]
     },
     {
@@ -19,7 +77,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68815"
+        "68815",
+        "68837"
       ]
     },
     {
@@ -30,7 +89,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68818"
+        "68818",
+        "68841",
+        "68843",
+        "68846",
+        "68854",
+        "68865"
       ]
     },
     {
@@ -41,17 +105,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68822"
+        "68813",
+        "68819",
+        "68822",
+        "68828",
+        "68860",
+        "68881"
       ]
     },
     {
       "name": "GARFIELD COUNTY LIBRARY",
       "system": "GARFIELD COUNTY LIBRARY",
-      "address": "217 G STREET, BURWELL, NE",
+      "address": "202 MAIN ST, JORDAN, MT",
       "website": "https://www.garfieldcountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59337",
         "68823"
       ]
     },
@@ -63,18 +133,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68825"
-      ]
-    },
-    {
-      "name": "CENTRAL CITY PUBLIC LIBRARY",
-      "system": "CENTRAL CITY PUBLIC LIBRARY",
-      "address": "1604 15TH AVENUE, CENTRAL CITY, NE",
-      "website": "https://www.cc-ne.com/city_government/library/index.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68826"
+        "68813",
+        "68819",
+        "68825",
+        "68828",
+        "68860",
+        "68881"
       ]
     },
     {
@@ -85,7 +149,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68836"
+        "68812",
+        "68836",
+        "68845",
+        "68858",
+        "68861",
+        "68866",
+        "68870",
+        "688HH"
       ]
     },
     {
@@ -96,7 +167,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68801"
+        "68801",
+        "68803",
+        "68810",
+        "68824",
+        "68832"
       ]
     },
     {
@@ -107,18 +182,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68847"
+        "68812",
+        "68845",
+        "68847",
+        "68858",
+        "68861",
+        "68866",
+        "68870",
+        "688HH"
       ]
     },
     {
       "name": "LEXINGTON PUBLIC LIBRARY",
       "system": "LEXINGTON PUBLIC LIBRARY",
-      "address": "907 NORTH WASHINGTON STREET, LEXINGTON, NE",
+      "address": "140 EAST MAIN STREET, LEXINGTON, KY",
       "website": "http://www.lexpublib.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68850"
+        "40507",
+        "68834",
+        "68850",
+        "68863",
+        "68878"
       ]
     },
     {
@@ -129,7 +215,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68852"
+        "68817",
+        "68844",
+        "68852",
+        "68871"
       ]
     },
     {
@@ -140,7 +229,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68853"
+        "68817",
+        "68844",
+        "68853",
+        "68871"
       ]
     },
     {
@@ -151,7 +243,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68855"
+        "68813",
+        "68819",
+        "68828",
+        "68855",
+        "68860",
+        "68881"
       ]
     },
     {
@@ -162,7 +259,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68856"
+        "68813",
+        "68819",
+        "68828",
+        "68856",
+        "68860",
+        "68881"
       ]
     },
     {
@@ -173,6 +275,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68837",
         "68859"
       ]
     },
@@ -184,6 +287,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68837",
         "68862"
       ]
     },
@@ -195,17 +299,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68869"
+        "68812",
+        "68845",
+        "68858",
+        "68861",
+        "68866",
+        "68869",
+        "68870",
+        "688HH"
       ]
     },
     {
       "name": "SAINT PAUL PUBLIC LIBRARY",
       "system": "SAINT PAUL PUBLIC LIBRARY",
-      "address": "1301 HOWARD AVENUE, ST. PAUL, NE",
+      "address": "90 WEST FOURTH STREET, SAINT PAUL, MN",
       "website": "https://sppl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "55102",
+        "68820",
+        "68831",
+        "68835",
+        "68838",
+        "68872",
         "68873"
       ]
     },
@@ -217,7 +334,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68874"
+        "68813",
+        "68819",
+        "68828",
+        "68860",
+        "68874",
+        "68881"
       ]
     },
     {
@@ -228,18 +350,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68876"
-      ]
-    },
-    {
-      "name": "TAYLOR PUBLIC LIBRARY",
-      "system": "TAYLOR PUBLIC LIBRARY",
-      "address": "106 WILLIAMS STREET, TAYLOR, NE",
-      "website": "https://libs.ne.gov/taylor",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68879"
+        "68812",
+        "68845",
+        "68858",
+        "68861",
+        "68866",
+        "68870",
+        "68876",
+        "688HH"
       ]
     },
     {
@@ -250,18 +368,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68803",
+        "68810",
+        "68824",
+        "68832",
         "68883"
-      ]
-    },
-    {
-      "name": "GIBBON PUBLIC LIBRARY",
-      "system": "GIBBON PUBLIC LIBRARY",
-      "address": "116 LABARRE STREET, GIBBON, NE",
-      "website": "https://libraries.ne.gov/gibbon/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68840"
       ]
     },
     {
@@ -272,7 +383,111 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68875"
+        "68842",
+        "68875",
+        "68882"
+      ]
+    },
+    {
+      "name": "WILSON PUBLIC LIBRARY",
+      "system": "WILSON PUBLIC LIBRARY",
+      "address": "910 MERIDIAN, COZAD, NE",
+      "website": "https://wilsonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68834",
+        "68850",
+        "68863",
+        "68878",
+        "69130"
+      ]
+    },
+    {
+      "name": "GOTHENBURG PUBLIC LIBRARY",
+      "system": "GOTHENBURG PUBLIC LIBRARY",
+      "address": "1104 LAKE AVENUE, GOTHENBURG, NE",
+      "website": "https://ci.gothenburg.ne.us/departments/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68834",
+        "68850",
+        "68863",
+        "68878",
+        "69138"
+      ]
+    },
+    {
+      "name": "FINCH MEMORIAL LIBRARY",
+      "system": "FINCH MEMORIAL LIBRARY",
+      "address": "205 NORTH WALNUT, ARNOLD, NE",
+      "website": "https://arnoldne.org/finch-memorial-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68813",
+        "68819",
+        "68828",
+        "68860",
+        "68881",
+        "69120"
+      ]
+    },
+    {
+      "name": "FARNAM PUBLIC LIBRARY",
+      "system": "FARNAM PUBLIC LIBRARY",
+      "address": "310 MAIN STREET, FARNAM, NE",
+      "website": "https://libraries.ne.gov/farnam/farnam-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68834",
+        "68850",
+        "68863",
+        "68878",
+        "69029"
+      ]
+    },
+    {
+      "name": "CLARKS PUBLIC LIBRARY",
+      "system": "CLARKS PUBLIC LIBRARY",
+      "address": "101 WEST AMITY STREET, CLARKS, NE",
+      "website": "https://villageofclarks.com/our-community/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68628",
+        "68816",
+        "68827",
+        "68864"
+      ]
+    },
+    {
+      "name": "SILVER CREEK TOWNSHIP LIBRARY",
+      "system": "SILVER CREEK TOWNSHIP LIBRARY",
+      "address": "309 VINE STREET, SILVER CREEK, NE",
+      "website": "http://www.nlc.ne.gov/Scripts/Libraries/BasicLibraryData.asp?libcode=NE0206",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68663",
+        "68816",
+        "68827",
+        "68864"
+      ]
+    },
+    {
+      "name": "SPALDING PUBLIC LIBRARY",
+      "system": "SPALDING PUBLIC LIBRARY",
+      "address": "159 WEST SAINT JOSEPH STREET, SPALDING, NE",
+      "website": "https://libs.ne.gov/spalding",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68665",
+        "68842",
+        "68882"
       ]
     }
   ]

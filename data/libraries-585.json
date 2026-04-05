@@ -1,80 +1,20 @@
 {
   "libraries": [
     {
-      "name": "BEULAH PUBLIC LIBRARY",
-      "system": "BEULAH PUBLIC LIBRARY",
-      "address": "116 CENTRAL AVENUE N, BEULAH, ND",
-      "website": "https://beulahndlibrary.com/",
+      "name": "GLEN ULLIN PUBLIC LIBRARY",
+      "system": "GLEN ULLIN PUBLIC LIBRARY",
+      "address": "114 SOUTH MAIN STREET, GLEN ULLIN, ND",
+      "website": "https://www.whereorg.com/glen-ullin-public-library-9799666",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58523"
-      ]
-    },
-    {
-      "name": "BISMARCK VETERANS MEMORIAL PUBLIC LIBRARY",
-      "system": "BISMARCK VETERANS MEMORIAL PUBLIC LIBRARY",
-      "address": "515 N 5TH STREET, BISMARCK, ND",
-      "website": "https://www.bismarcklibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58501"
-      ]
-    },
-    {
-      "name": "GARRISON PUBLIC LIBRARY",
-      "system": "GARRISON PUBLIC LIBRARY",
-      "address": "32 SOUTH MAIN STREET, GARRISON, ND",
-      "website": "https://garrisonndlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58540"
-      ]
-    },
-    {
-      "name": "HARRY L. PETRIE PUBLIC LIBRARY",
-      "system": "HARRY L. PETRIE PUBLIC LIBRARY",
-      "address": "101 NE FIRST, LINTON, ND",
-      "website": "https://lintonndlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58552"
-      ]
-    },
-    {
-      "name": "HAZEN PUBLIC LIBRARY",
-      "system": "HAZEN PUBLIC LIBRARY",
-      "address": "203 EAST MAIN, HAZEN, ND",
-      "website": "https://public-libraries.com/nd/hazen/hazen-public-library-nd-hazen/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58545"
-      ]
-    },
-    {
-      "name": "MCLEAN-MERCER REGIONAL LIBRARY",
-      "system": "MCLEAN-MERCER REGIONAL LIBRARY",
-      "address": "216 SECOND ST., RIVERDALE, ND",
-      "website": "https://riverdalendlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58565"
-      ]
-    },
-    {
-      "name": "MORTON MANDAN PUBLIC LIBRARY",
-      "system": "MORTON MANDAN PUBLIC LIBRARY",
-      "address": "609 W. MAIN ST., MANDAN, ND",
-      "website": "https://www.cityofmandan.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58554"
+        "58520",
+        "58535",
+        "58563",
+        "58566",
+        "58570",
+        "58631",
+        "58638"
       ]
     },
     {
@@ -85,18 +25,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54733",
+        "54762",
+        "547HH",
+        "54805",
+        "54813",
+        "54822",
+        "54826",
+        "54841",
+        "54857",
+        "54889",
         "58575"
-      ]
-    },
-    {
-      "name": "UNDERWOOD PUBLIC LIBRARY",
-      "system": "UNDERWOOD PUBLIC LIBRARY",
-      "address": "88 LINCOLN AVE, UNDERWOOD, ND",
-      "website": "http://www.underwoodnd.org/city",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58576"
       ]
     },
     {
@@ -107,18 +46,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54827",
+        "54839",
+        "54844",
+        "54856",
+        "54865",
+        "54891",
+        "548XX",
         "58577"
-      ]
-    },
-    {
-      "name": "STANTON PUBLIC LIBRARY",
-      "system": "STANTON PUBLIC LIBRARY",
-      "address": "600 COUNTY 37, STANTON, ND",
-      "website": "http://www.stanton.net/library.html",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58571"
       ]
     },
     {
@@ -129,7 +64,206 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58533"
+        "58533",
+        "78612",
+        "78621",
+        "78650",
+        "78659",
+        "78662",
+        "786HH",
+        "78953",
+        "789HH"
+      ]
+    },
+    {
+      "name": "MAX COMMUNITY LIBRARY",
+      "system": "MAX COMMUNITY LIBRARY",
+      "address": "215 MAIN STREET, MAX, ND",
+      "website": "https://maxndlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58531",
+        "58559",
+        "58579",
+        "58716",
+        "58723",
+        "58759",
+        "58775",
+        "58778"
+      ]
+    },
+    {
+      "name": "GARRISON PUBLIC LIBRARY",
+      "system": "GARRISON PUBLIC LIBRARY",
+      "address": "32 SOUTH MAIN STREET, GARRISON, ND",
+      "website": "https://garrisonndlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58531",
+        "58540",
+        "58559",
+        "58579",
+        "58716",
+        "58723",
+        "58775",
+        "58778"
+      ]
+    },
+    {
+      "name": "STANTON PUBLIC LIBRARY",
+      "system": "STANTON PUBLIC LIBRARY",
+      "address": "600 COUNTY 37, STANTON, ND",
+      "website": "http://www.stanton.net/library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58571",
+        "68779"
+      ]
+    },
+    {
+      "name": "ASHLEY PUBLIC LIBRARY",
+      "system": "ASHLEY PUBLIC LIBRARY",
+      "address": "113 FIRST AVENUE NW, ASHLEY, ND",
+      "website": "https://ashleypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58413",
+        "58489",
+        "58581"
+      ]
+    },
+    {
+      "name": "WISHEK SCHOOL & PUBLIC LIBRARY",
+      "system": "WISHEK SCHOOL & PUBLIC LIBRARY",
+      "address": "200 BADGER STREET S, WISHEK, ND",
+      "website": "https://www.wishek.k12.nd.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58489",
+        "58495",
+        "58581"
+      ]
+    },
+    {
+      "name": "BEULAH PUBLIC LIBRARY",
+      "system": "BEULAH PUBLIC LIBRARY",
+      "address": "116 CENTRAL AVENUE N, BEULAH, ND",
+      "website": "https://beulahndlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58523",
+        "58541",
+        "58580"
+      ]
+    },
+    {
+      "name": "BISMARCK VETERANS MEMORIAL PUBLIC LIBRARY",
+      "system": "BISMARCK VETERANS MEMORIAL PUBLIC LIBRARY",
+      "address": "515 N 5TH STREET, BISMARCK, ND",
+      "website": "https://www.bismarcklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58477",
+        "58494",
+        "58501",
+        "58504",
+        "58505",
+        "58521",
+        "58532",
+        "58553",
+        "58558",
+        "58560",
+        "58572"
+      ]
+    },
+    {
+      "name": "HARRY L. PETRIE PUBLIC LIBRARY",
+      "system": "HARRY L. PETRIE PUBLIC LIBRARY",
+      "address": "101 NE FIRST, LINTON, ND",
+      "website": "https://lintonndlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58524",
+        "58542",
+        "58544",
+        "58549",
+        "58552",
+        "58573",
+        "585HH"
+      ]
+    },
+    {
+      "name": "HAZEN PUBLIC LIBRARY",
+      "system": "HAZEN PUBLIC LIBRARY",
+      "address": "203 EAST MAIN, HAZEN, ND",
+      "website": "https://public-libraries.com/nd/hazen/hazen-public-library-nd-hazen/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58541",
+        "58545",
+        "58580"
+      ]
+    },
+    {
+      "name": "MCLEAN-MERCER REGIONAL LIBRARY",
+      "system": "MCLEAN-MERCER REGIONAL LIBRARY",
+      "address": "216 SECOND ST., RIVERDALE, ND",
+      "website": "https://riverdalendlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58531",
+        "58559",
+        "58565",
+        "58579",
+        "58716",
+        "58723",
+        "58775",
+        "58778"
+      ]
+    },
+    {
+      "name": "MORTON MANDAN PUBLIC LIBRARY",
+      "system": "MORTON MANDAN PUBLIC LIBRARY",
+      "address": "609 W. MAIN ST., MANDAN, ND",
+      "website": "https://www.cityofmandan.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58520",
+        "58535",
+        "58554",
+        "58563",
+        "58566",
+        "58570",
+        "58638"
+      ]
+    },
+    {
+      "name": "UNDERWOOD PUBLIC LIBRARY",
+      "system": "UNDERWOOD PUBLIC LIBRARY",
+      "address": "88 LINCOLN AVE, UNDERWOOD, ND",
+      "website": "http://www.underwoodnd.org/city",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58531",
+        "58559",
+        "58576",
+        "58579",
+        "58716",
+        "58723",
+        "58775",
+        "58778"
       ]
     }
   ]

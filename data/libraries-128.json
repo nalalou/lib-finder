@@ -1,58 +1,24 @@
 {
   "libraries": [
     {
-      "name": "HILLVIEW FREE LIBRARY",
-      "system": "HILLVIEW FREE LIBRARY",
-      "address": "3717 LAKE SHORE DRIVE, DIAMOND POINT, NY",
-      "website": "https://www.hillviewfreelibrary.com/",
+      "name": "RAQUETTE LAKE FREE LIBRARY",
+      "system": "RAQUETTE LAKE FREE LIBRARY",
+      "address": "1 DILLON ROAD, RAQUETTE LAKE, NY",
+      "website": "https://raquettelakelibrary.sals.edu/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12824"
-      ]
-    },
-    {
-      "name": "SCHROON LAKE PUBLIC LIBRARY",
-      "system": "SCHROON LAKE PUBLIC LIBRARY",
-      "address": "15 LELAND AVENUE, SCHROON LAKE, NY",
-      "website": "https://schroonlakelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "12870"
-      ]
-    },
-    {
-      "name": "TICONDEROGA BLACK WATCH MEMORIAL LIBRARY",
-      "system": "TICONDEROGA BLACK WATCH MEMORIAL LIBRARY",
-      "address": "99 MONTCALM STREET, TICONDEROGA, NY",
-      "website": "https://townofticonderoga.gov/black-watch-memorial-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "12883"
-      ]
-    },
-    {
-      "name": "TOWN OF INDIAN LAKE PUBLIC LIBRARY",
-      "system": "TOWN OF INDIAN LAKE PUBLIC LIBRARY",
-      "address": "113 PELON ROAD, INDIAN LAKE, NY",
-      "website": "https://indianlake.sals.edu/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "12842"
-      ]
-    },
-    {
-      "name": "CORINTH FREE LIBRARY",
-      "system": "CORINTH FREE LIBRARY",
-      "address": "89 MAIN STREET, CORINTH, NY",
-      "website": "https://corinth.sals.edu/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "12822"
+        "12108",
+        "12139",
+        "12190",
+        "121XX",
+        "12812",
+        "128XX",
+        "13353",
+        "133HH",
+        "133XX",
+        "13436",
+        "134XX"
       ]
     },
     {
@@ -63,7 +29,550 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12866"
+        "12866",
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
+      ]
+    },
+    {
+      "name": "BANCROFT PUBLIC LIBRARY",
+      "system": "BANCROFT PUBLIC LIBRARY",
+      "address": "103 E. POPLAR, BANCROFT, NE",
+      "website": "https://www.bancroftnebraska.com/community/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12057",
+        "12819",
+        "12821",
+        "12823",
+        "12827",
+        "12837",
+        "12838",
+        "12841",
+        "12844",
+        "12849",
+        "12861",
+        "12865",
+        "12873",
+        "68004"
+      ]
+    },
+    {
+      "name": "TOWN OF INLET PUBLIC LIBRARY",
+      "system": "TOWN OF INLET PUBLIC LIBRARY",
+      "address": "164 NORTH ROUTE 28, INLET, NY",
+      "website": "https://inletlibrary.sals.edu/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12108",
+        "12139",
+        "12190",
+        "121XX",
+        "12812",
+        "128XX",
+        "13353",
+        "13360",
+        "133HH",
+        "133XX",
+        "134XX"
+      ]
+    },
+    {
+      "name": "CAMBRIDGE PUBLIC LIBRARY",
+      "system": "CAMBRIDGE PUBLIC LIBRARY",
+      "address": "21 WEST MAIN STREET, CAMBRIDGE, NY",
+      "website": "http://www.cambridgema.gov/cpl",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12057",
+        "12816",
+        "12819",
+        "12821",
+        "12823",
+        "12827",
+        "12837",
+        "12838",
+        "12841",
+        "12844",
+        "12849",
+        "12861",
+        "12865",
+        "12873"
+      ]
+    },
+    {
+      "name": "AUSABLE FORKS FREE LIBRARY",
+      "system": "AUSABLE FORKS FREE LIBRARY",
+      "address": "9 CHURCH LANE, AUSABLE FORKS, NY",
+      "website": "https://ausableforksfreelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12912",
+        "12913",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964"
+      ]
+    },
+    {
+      "name": "HAMMOND LIBRARY OF CROWN POINT",
+      "system": "HAMMOND LIBRARY OF CROWN POINT",
+      "address": "2732 MAIN STREET, CROWN POINT, NY",
+      "website": "https://cefls.org/libraries/crown-point/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12928",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964"
+      ]
+    },
+    {
+      "name": "ELIZABETHTOWN LIBRARY ASSOCIATION",
+      "system": "ELIZABETHTOWN LIBRARY ASSOCIATION",
+      "address": "8256 RIVER STREET, ELIZABETHTOWN, NY",
+      "website": "https://cefls.org/libraries/elizabethtown/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12932",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964"
+      ]
+    },
+    {
+      "name": "BELDEN NOBLE MEMORIAL LIBRARY OF ESSEX",
+      "system": "BELDEN NOBLE MEMORIAL LIBRARY OF ESSEX",
+      "address": "2759 ESSEX RD., ESSEX, NY",
+      "website": "https://cefls.org/libraries/essex/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12936",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964"
+      ]
+    },
+    {
+      "name": "KEENE PUBLIC LIBRARY",
+      "system": "KEENE PUBLIC LIBRARY",
+      "address": "60 WINTER STREET, KEENE, NH",
+      "website": "https://keenenh.gov/keene-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03431",
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964"
+      ]
+    },
+    {
+      "name": "KEENE VALLEY LIBRARY ASSOCIATION",
+      "system": "KEENE VALLEY LIBRARY ASSOCIATION",
+      "address": "1796 MAIN STREET, KEENE VALLEY, NY",
+      "website": "https://www.keenevalleylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12941",
+        "12942",
+        "12943",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964"
+      ]
+    },
+    {
+      "name": "KEESEVILLE FREE LIBRARY",
+      "system": "KEESEVILLE FREE LIBRARY",
+      "address": "1721 FRONT STREET, KEESEVILLE, NY",
+      "website": "https://keesevillefreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12941",
+        "12942",
+        "12944",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964"
+      ]
+    },
+    {
+      "name": "LAKE PLACID PUBLIC LIBRARY",
+      "system": "LAKE PLACID PUBLIC LIBRARY",
+      "address": "2471 MAIN STREET, LAKE PLACID, NY",
+      "website": "https://lakeplacidlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12941",
+        "12942",
+        "12946",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964"
+      ]
+    },
+    {
+      "name": "SHERMAN FREE LIBRARY",
+      "system": "SHERMAN FREE LIBRARY",
+      "address": "20 CHURCH STREET, PORT HENRY, NY",
+      "website": "https://www.shermanfreelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964",
+        "12974"
+      ]
+    },
+    {
+      "name": "WELLS MEMORIAL LIBRARY",
+      "system": "WELLS MEMORIAL LIBRARY",
+      "address": "12230 NYS RTE 9N, UPPER JAY, NY",
+      "website": "https://cefls.org/libraries/upper-jay/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964",
+        "12987"
+      ]
+    },
+    {
+      "name": "WADHAMS FREE LIBRARY",
+      "system": "WADHAMS FREE LIBRARY",
+      "address": "763 NYS ROUTE 22, WADHAMS, NY",
+      "website": "https://wadhamsfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964",
+        "12993"
+      ]
+    },
+    {
+      "name": "WESTPORT LIBRARY ASSOCIATION",
+      "system": "WESTPORT LIBRARY ASSOCIATION",
+      "address": "6 HARRIS LANE, WESTPORT, NY",
+      "website": "https://www.westportnylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964",
+        "12993"
+      ]
+    },
+    {
+      "name": "PAINE MEMORIAL LIBRARY",
+      "system": "PAINE MEMORIAL LIBRARY",
+      "address": "2 GILLILAND LANE, WILLSBORO, NY",
+      "website": "https://www.painememoriallibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964",
+        "12996"
+      ]
+    },
+    {
+      "name": "WILMINGTON E.M. COOPER MEMORIAL P L",
+      "system": "WILMINGTON E.M. COOPER MEMORIAL P L",
+      "address": "5751 ROUTE 86, WILMINGTON, NY",
+      "website": "https://wilmingtoncooperlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "128HH",
+        "12913",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964",
+        "12997"
+      ]
+    },
+    {
+      "name": "HILLVIEW FREE LIBRARY",
+      "system": "HILLVIEW FREE LIBRARY",
+      "address": "3717 LAKE SHORE DRIVE, DIAMOND POINT, NY",
+      "website": "https://www.hillviewfreelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12804",
+        "12808",
+        "12810",
+        "12824",
+        "12836",
+        "12843",
+        "12856",
+        "12860",
+        "12874",
+        "12886"
+      ]
+    },
+    {
+      "name": "SCHROON LAKE PUBLIC LIBRARY",
+      "system": "SCHROON LAKE PUBLIC LIBRARY",
+      "address": "15 LELAND AVENUE, SCHROON LAKE, NY",
+      "website": "https://schroonlakelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "12870",
+        "128HH",
+        "12913",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964"
+      ]
+    },
+    {
+      "name": "TICONDEROGA BLACK WATCH MEMORIAL LIBRARY",
+      "system": "TICONDEROGA BLACK WATCH MEMORIAL LIBRARY",
+      "address": "99 MONTCALM STREET, TICONDEROGA, NY",
+      "website": "https://townofticonderoga.gov/black-watch-memorial-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12851",
+        "12852",
+        "12855",
+        "12857",
+        "12858",
+        "12883",
+        "128HH",
+        "12913",
+        "12941",
+        "12942",
+        "12950",
+        "12956",
+        "12960",
+        "12961",
+        "12964"
+      ]
+    },
+    {
+      "name": "TOWN OF INDIAN LAKE PUBLIC LIBRARY",
+      "system": "TOWN OF INDIAN LAKE PUBLIC LIBRARY",
+      "address": "113 PELON ROAD, INDIAN LAKE, NY",
+      "website": "https://indianlake.sals.edu/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12108",
+        "12139",
+        "12190",
+        "121XX",
+        "12812",
+        "12842",
+        "128XX",
+        "13353",
+        "133HH",
+        "133XX",
+        "134XX"
+      ]
+    },
+    {
+      "name": "CORINTH FREE LIBRARY",
+      "system": "CORINTH FREE LIBRARY",
+      "address": "89 MAIN STREET, CORINTH, NY",
+      "website": "https://corinth.sals.edu/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12019",
+        "12148",
+        "12170",
+        "12188",
+        "12803",
+        "12822",
+        "12831",
+        "12833",
+        "12835",
+        "12850",
+        "12859",
+        "12863"
       ]
     },
     {
@@ -74,6 +583,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "12019",
+        "12148",
+        "12170",
+        "12188",
+        "12803",
+        "12831",
+        "12833",
+        "12835",
+        "12850",
+        "12859",
+        "12863",
         "12871"
       ]
     },
@@ -85,7 +605,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12814"
+        "12804",
+        "12808",
+        "12810",
+        "12814",
+        "12836",
+        "12843",
+        "12856",
+        "12860",
+        "12874",
+        "12886"
       ]
     },
     {
@@ -96,7 +625,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12815"
+        "12804",
+        "12808",
+        "12810",
+        "12815",
+        "12836",
+        "12843",
+        "12856",
+        "12860",
+        "12874",
+        "12886"
       ]
     },
     {
@@ -107,7 +645,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12801"
+        "12801",
+        "12804",
+        "12808",
+        "12810",
+        "12836",
+        "12843",
+        "12856",
+        "12860",
+        "12874",
+        "12886"
       ]
     },
     {
@@ -118,7 +665,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12845"
+        "12804",
+        "12808",
+        "12810",
+        "12836",
+        "12843",
+        "12845",
+        "12856",
+        "12860",
+        "12874",
+        "12886"
       ]
     },
     {
@@ -129,7 +685,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12846"
+        "12804",
+        "12808",
+        "12810",
+        "12836",
+        "12843",
+        "12846",
+        "12856",
+        "12860",
+        "12874",
+        "12886"
       ]
     },
     {
@@ -140,7 +705,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12878"
+        "12804",
+        "12808",
+        "12810",
+        "12836",
+        "12843",
+        "12856",
+        "12860",
+        "12874",
+        "12878",
+        "12886"
       ]
     },
     {
@@ -151,7 +725,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12885"
+        "12804",
+        "12808",
+        "12810",
+        "12836",
+        "12843",
+        "12856",
+        "12860",
+        "12874",
+        "12885",
+        "12886"
       ]
     },
     {
@@ -162,18 +745,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12809"
-      ]
-    },
-    {
-      "name": "CAMBRIDGE PUBLIC LIBRARY",
-      "system": "CAMBRIDGE PUBLIC LIBRARY",
-      "address": "21 WEST MAIN STREET, CAMBRIDGE, NY",
-      "website": "http://www.cambridgema.gov/cpl",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "12816"
+        "12057",
+        "12809",
+        "12819",
+        "12821",
+        "12823",
+        "12827",
+        "12837",
+        "12838",
+        "12841",
+        "12844",
+        "12849",
+        "12861",
+        "12865",
+        "12873"
       ]
     },
     {
@@ -184,7 +769,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12834"
+        "12057",
+        "12819",
+        "12821",
+        "12823",
+        "12827",
+        "12834",
+        "12837",
+        "12838",
+        "12841",
+        "12844",
+        "12849",
+        "12861",
+        "12865",
+        "12873"
       ]
     },
     {
@@ -195,7 +793,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12828"
+        "12057",
+        "12819",
+        "12821",
+        "12823",
+        "12827",
+        "12828",
+        "12837",
+        "12838",
+        "12841",
+        "12844",
+        "12849",
+        "12861",
+        "12865",
+        "12873"
       ]
     },
     {
@@ -206,7 +817,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12832"
+        "12057",
+        "12819",
+        "12821",
+        "12823",
+        "12827",
+        "12832",
+        "12837",
+        "12838",
+        "12841",
+        "12844",
+        "12849",
+        "12861",
+        "12865",
+        "12873"
       ]
     },
     {
@@ -217,7 +841,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12834"
+        "12057",
+        "12819",
+        "12821",
+        "12823",
+        "12827",
+        "12834",
+        "12837",
+        "12838",
+        "12841",
+        "12844",
+        "12849",
+        "12861",
+        "12865",
+        "12873"
       ]
     },
     {
@@ -228,18 +865,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12839"
-      ]
-    },
-    {
-      "name": "BANCROFT PUBLIC LIBRARY",
-      "system": "BANCROFT PUBLIC LIBRARY",
-      "address": "181 MAIN STREET, SALEM, NY",
-      "website": "https://www.bancroftnebraska.com/community/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "12865"
+        "12057",
+        "12819",
+        "12821",
+        "12823",
+        "12827",
+        "12837",
+        "12838",
+        "12839",
+        "12841",
+        "12844",
+        "12849",
+        "12861",
+        "12865",
+        "12873"
       ]
     },
     {
@@ -250,6 +889,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "12057",
+        "12819",
+        "12821",
+        "12823",
+        "12827",
+        "12837",
+        "12838",
+        "12841",
+        "12844",
+        "12849",
+        "12861",
+        "12865",
+        "12873",
         "12887"
       ]
     },
@@ -261,7 +913,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12847"
+        "12108",
+        "12139",
+        "12190",
+        "121XX",
+        "12812",
+        "12847",
+        "128XX",
+        "13353",
+        "133HH",
+        "133XX",
+        "134XX"
       ]
     },
     {
@@ -272,7 +934,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12817"
+        "12804",
+        "12808",
+        "12810",
+        "12817",
+        "12836",
+        "12843",
+        "12856",
+        "12860",
+        "12874",
+        "12886"
       ]
     },
     {
@@ -283,7 +954,169 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12853"
+        "12804",
+        "12808",
+        "12810",
+        "12836",
+        "12843",
+        "12853",
+        "12856",
+        "12860",
+        "12874",
+        "12886"
+      ]
+    },
+    {
+      "name": "MECHANICVILLE DISTRICT PUBLIC LIBRARY",
+      "system": "MECHANICVILLE DISTRICT PUBLIC LIBRARY",
+      "address": "190 NORTH MAIN STREET, MECHANICVILLE, NY",
+      "website": "https://meclib.sals.edu/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12019",
+        "12118",
+        "12148",
+        "12170",
+        "12188",
+        "12803",
+        "12831",
+        "12833",
+        "12835",
+        "12850",
+        "12859",
+        "12863"
+      ]
+    },
+    {
+      "name": "WOMAN'S ROUND LAKE IMPROVEMENT SOCIETY",
+      "system": "WOMAN'S ROUND LAKE IMPROVEMENT SOCIETY",
+      "address": "31 WESLEY AVENUE, ROUND LAKE, NY",
+      "website": "https://roundlake.sals.edu/about-the-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12019",
+        "12148",
+        "12151",
+        "12170",
+        "12188",
+        "12803",
+        "12831",
+        "12833",
+        "12835",
+        "12850",
+        "12859",
+        "12863"
+      ]
+    },
+    {
+      "name": "TOWN OF LAKE PLEASANT PUBLIC LIBRARY",
+      "system": "TOWN OF LAKE PLEASANT PUBLIC LIBRARY",
+      "address": "2864 STATE HWY 8, SPECULATOR, NY",
+      "website": "https://lakepleasantlibrary.sals.edu/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12108",
+        "12139",
+        "12164",
+        "12190",
+        "121XX",
+        "12812",
+        "128XX",
+        "13353",
+        "133HH",
+        "133XX",
+        "134XX"
+      ]
+    },
+    {
+      "name": "BALLSTON SPA PUBLIC LIBRARY",
+      "system": "BALLSTON SPA PUBLIC LIBRARY",
+      "address": "21 MILTON AVENUE, BALLSTON SPA, NY",
+      "website": "https://bspl.sals.edu/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12019",
+        "12020",
+        "12148",
+        "12170",
+        "12188",
+        "12803",
+        "12831",
+        "12833",
+        "12835",
+        "12850",
+        "12859",
+        "12863"
+      ]
+    },
+    {
+      "name": "BALLSTON COMMUNITY PUBLIC LIBRARY",
+      "system": "BALLSTON COMMUNITY PUBLIC LIBRARY",
+      "address": "2 LAWMAR LANE, BURNT HILLS, NY",
+      "website": "https://toblibrary.sals.edu/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12019",
+        "12027",
+        "12148",
+        "12170",
+        "12188",
+        "12803",
+        "12831",
+        "12833",
+        "12835",
+        "12850",
+        "12859",
+        "12863"
+      ]
+    },
+    {
+      "name": "CLIFTON PARK-HALFMOON PUBLIC LIBRARY",
+      "system": "CLIFTON PARK-HALFMOON PUBLIC LIBRARY",
+      "address": "475 MOE ROAD, CLIFTON PARK, NY",
+      "website": "https://cphlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12019",
+        "12065",
+        "12148",
+        "12170",
+        "12188",
+        "12803",
+        "12831",
+        "12833",
+        "12835",
+        "12850",
+        "12859",
+        "12863"
+      ]
+    },
+    {
+      "name": "GALWAY PUBLIC LIBRARY",
+      "system": "GALWAY PUBLIC LIBRARY",
+      "address": "2112 EAST ST., GALWAY, NY",
+      "website": "https://www.galwaypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12019",
+        "12074",
+        "12148",
+        "12170",
+        "12188",
+        "12803",
+        "12831",
+        "12833",
+        "12835",
+        "12850",
+        "12859",
+        "12863"
       ]
     }
   ]

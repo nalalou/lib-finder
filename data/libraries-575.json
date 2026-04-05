@@ -1,6 +1,19 @@
 {
   "libraries": [
     {
+      "name": "HYDE COUNTY LIBRARY",
+      "system": "HYDE COUNTY LIBRARY",
+      "address": "107 COMMERCIAL AVE SE, HIGHMORE, SD",
+      "website": "https://hydecounty.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57345",
+        "57346",
+        "57540"
+      ]
+    },
+    {
       "name": "R. E. RAWLINS MUNICIPAL LIBRARY",
       "system": "R. E. RAWLINS MUNICIPAL LIBRARY",
       "address": "1000 E. CHURCH ST, PIERRE, SD",
@@ -8,7 +21,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57501"
+        "57501",
+        "57522",
+        "57536"
       ]
     },
     {
@@ -19,7 +34,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57523"
+        "57317",
+        "57335",
+        "57523",
+        "57529",
+        "57538",
+        "57571",
+        "575HH"
       ]
     },
     {
@@ -30,18 +51,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57533"
+        "57317",
+        "57335",
+        "57529",
+        "57533",
+        "57538",
+        "57571",
+        "575HH"
       ]
     },
     {
       "name": "JACKSON COUNTY LIBRARY",
       "system": "JACKSON COUNTY LIBRARY",
-      "address": "910 MAIN ST, KADOKA, SD",
+      "address": "311 THIRD STREET, JACKSON, MN",
       "website": "https://jacksoncounty.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57543"
+        "56143",
+        "57521",
+        "57543",
+        "57547",
+        "57577",
+        "57750"
       ]
     },
     {
@@ -52,6 +84,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57552",
+        "57553",
         "57567"
       ]
     },
@@ -63,6 +97,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57520",
         "57564"
       ]
     },
@@ -74,7 +109,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57568"
+        "57365",
+        "57542",
+        "57568",
+        "57569",
+        "57576"
       ]
     },
     {
@@ -85,7 +124,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57580"
+        "57528",
+        "57534",
+        "57541",
+        "57578",
+        "57580",
+        "57584"
       ]
     },
     {
@@ -96,7 +140,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57544"
+        "57365",
+        "57542",
+        "57544",
+        "57569",
+        "57576"
       ]
     },
     {
@@ -107,7 +155,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57551"
+        "57551",
+        "57574",
+        "57714"
       ]
     },
     {
@@ -118,7 +168,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57555"
+        "57526",
+        "57555",
+        "57563",
+        "57566",
+        "57570",
+        "57572"
       ]
     },
     {
@@ -129,7 +184,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57548"
+        "57365",
+        "57542",
+        "57548",
+        "57569",
+        "57576"
       ]
     }
   ]

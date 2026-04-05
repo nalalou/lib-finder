@@ -8,7 +8,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47012"
+        "47010",
+        "47012",
+        "47016",
+        "47024",
+        "47030",
+        "47035",
+        "47036"
       ]
     },
     {
@@ -19,29 +25,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47025"
+        "47001",
+        "47018",
+        "47022",
+        "47025",
+        "47032",
+        "47060",
+        "470HH"
       ]
     },
     {
       "name": "AURORA PUBLIC LIBRARY DISTRICT",
       "system": "AURORA PUBLIC LIBRARY DISTRICT",
-      "address": "414 2ND STREET, AURORA, IN",
+      "address": "101 SOUTH RIVER STREET, AURORA, IL",
       "website": "https://www.aurorapubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47001"
-      ]
-    },
-    {
-      "name": "OHIO COUNTY PUBLIC LIBRARY",
-      "system": "OHIO COUNTY PUBLIC LIBRARY",
-      "address": "503 SECOND STREET, RISING SUN, IN",
-      "website": "http://ocpl.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47040"
+        "47001",
+        "47018",
+        "47022",
+        "47032",
+        "47060",
+        "470HH",
+        "60506"
       ]
     },
     {
@@ -52,7 +59,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47006"
+        "47006",
+        "47017",
+        "47021",
+        "47023",
+        "47031",
+        "47034",
+        "47041"
       ]
     },
     {
@@ -63,7 +76,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47037"
+        "47017",
+        "47021",
+        "47023",
+        "47031",
+        "47034",
+        "47037",
+        "47041"
       ]
     },
     {
@@ -74,6 +93,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "47017",
+        "47021",
+        "47023",
+        "47031",
+        "47034",
+        "47041",
         "47042"
       ]
     },
@@ -85,7 +110,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47043"
+        "47011",
+        "47019",
+        "47020",
+        "47038",
+        "47043",
+        "47224"
       ]
     }
   ]

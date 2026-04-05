@@ -1,6 +1,25 @@
 {
   "libraries": [
     {
+      "name": "GUNNISON COUNTY LIBRARY DISTRICT",
+      "system": "GUNNISON COUNTY LIBRARY DISTRICT",
+      "address": "1 QUARTZ ST., GUNNISON, CO",
+      "website": "https://www.gunnisoncountylibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "81210",
+        "81220",
+        "81224",
+        "81225",
+        "81230",
+        "81239",
+        "81241",
+        "81243",
+        "81434"
+      ]
+    },
+    {
       "name": "MONTROSE REGIONAL LIBRARY DISTRICT",
       "system": "MONTROSE REGIONAL LIBRARY DISTRICT",
       "address": "320 SOUTH 2ND STREET, MONTROSE, CO",
@@ -8,7 +27,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "81401"
+        "81401",
+        "81411",
+        "81422",
+        "81425",
+        "81431"
       ]
     },
     {
@@ -19,7 +42,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "81423"
+        "81325",
+        "81423",
+        "81426",
+        "81430"
       ]
     },
     {
@@ -30,7 +56,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "81424"
+        "81411",
+        "81422",
+        "81424",
+        "81425",
+        "81431"
       ]
     },
     {
@@ -52,7 +82,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "81433"
+        "81433",
+        "814XX"
       ]
     },
     {
@@ -63,6 +94,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "81325",
+        "81426",
+        "81430",
         "81435"
       ]
     },
@@ -74,7 +108,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "81419"
+        "81410",
+        "81413",
+        "81415",
+        "81416",
+        "81418",
+        "81419",
+        "81428"
       ]
     },
     {

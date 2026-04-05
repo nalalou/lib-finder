@@ -1,6 +1,22 @@
 {
   "libraries": [
     {
+      "name": "GREATER CLARKS HILL REGIONAL LIBRARY",
+      "system": "GREATER CLARKS HILL REGIONAL LIBRARY",
+      "address": "7022 EVANS TOWNE CENTER BLVD, EVANS, GA",
+      "website": "https://columbiacountylibrarysystem.org/160/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30802",
+        "30809",
+        "30813",
+        "30814",
+        "30907",
+        "309HH"
+      ]
+    },
+    {
       "name": "AUGUSTA-RICHMOND COUNTY PUBLIC LIBRARY SYSTEM",
       "system": "AUGUSTA-RICHMOND COUNTY PUBLIC LIBRARY SYSTEM",
       "address": "823 TELFAIR STREET, AUGUSTA, GA",
@@ -8,7 +24,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "30901"
+        "30805",
+        "30815",
+        "308XX",
+        "30901",
+        "30904",
+        "30905",
+        "30906",
+        "30909"
       ]
     }
   ]

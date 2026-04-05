@@ -1,6 +1,85 @@
 {
   "libraries": [
     {
+      "name": "CULPEPER COUNTY LIBRARY",
+      "system": "CULPEPER COUNTY LIBRARY",
+      "address": "271 SOUTHGATE SHOPPING CENTER, CULPEPER, VA",
+      "website": "https://www.cclva.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "20106",
+        "22701",
+        "22713",
+        "22714",
+        "22718",
+        "22724",
+        "22726",
+        "22729",
+        "22733",
+        "22736",
+        "22737",
+        "22741",
+        "22746"
+      ]
+    },
+    {
+      "name": "FAIRFAX COUNTY PUBLIC LIBRARY",
+      "system": "FAIRFAX COUNTY PUBLIC LIBRARY",
+      "address": "12000 GOVERNMENT CENTER PARKWAY SUI, FAIRFAX, VA",
+      "website": "https://www.fairfaxcounty.gov/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "20120",
+        "20121",
+        "20124",
+        "20151",
+        "20170",
+        "20171",
+        "20190",
+        "20191",
+        "20194",
+        "201HH",
+        "22003",
+        "22015",
+        "22027",
+        "22030",
+        "22031",
+        "22032",
+        "22033",
+        "22035",
+        "22039",
+        "22041",
+        "22042",
+        "22043",
+        "22044",
+        "22060",
+        "22066",
+        "22079",
+        "220HH",
+        "22101",
+        "22102",
+        "22124",
+        "22150",
+        "22151",
+        "22152",
+        "22153",
+        "22180",
+        "22181",
+        "22182",
+        "22303",
+        "22306",
+        "22307",
+        "22308",
+        "22309",
+        "22310",
+        "22312",
+        "22315",
+        "223HH"
+      ]
+    },
+    {
       "name": "FAUQUIER COUNTY PUBLIC LIBRARY",
       "system": "FAUQUIER COUNTY PUBLIC LIBRARY",
       "address": "11 WINCHESTER STREET, WARRENTON, VA",
@@ -8,7 +87,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "20186"
+        "20115",
+        "20119",
+        "20130",
+        "20137",
+        "20138",
+        "20139",
+        "20140",
+        "20144",
+        "20184",
+        "20186",
+        "20187",
+        "20198",
+        "22639",
+        "22643",
+        "22712",
+        "22720",
+        "22728",
+        "22734",
+        "22742"
       ]
     },
     {
@@ -19,7 +116,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "20176"
+        "20105",
+        "20117",
+        "20118",
+        "20129",
+        "20132",
+        "20141",
+        "20147",
+        "20148",
+        "20152",
+        "20158",
+        "20164",
+        "20165",
+        "20166",
+        "20175",
+        "20176",
+        "20180",
+        "20197"
       ]
     },
     {
@@ -31,6 +144,31 @@
       "formStatus": "unknown",
       "zipcodes": [
         "20111"
+      ]
+    },
+    {
+      "name": "PRINCE WILLIAM PUBLIC LIBRARIES",
+      "system": "PRINCE WILLIAM PUBLIC LIBRARIES",
+      "address": "13083 CHINN PARK DRIVE, PRINCE WILLIAM, VA",
+      "website": "https://www.pwcva.gov/department/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "20109",
+        "20112",
+        "20136",
+        "20143",
+        "20155",
+        "20169",
+        "20181",
+        "22026",
+        "22125",
+        "22134",
+        "22172",
+        "22191",
+        "22192",
+        "22193",
+        "221HH"
       ]
     }
   ]

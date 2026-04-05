@@ -1,36 +1,96 @@
 {
   "libraries": [
     {
-      "name": "INDEPENDENCE PUBLIC LIBRARY",
-      "system": "INDEPENDENCE PUBLIC LIBRARY",
-      "address": "175 MONMOUTH ST, INDEPENDENCE, OR",
-      "website": "http://iplks.org/",
+      "name": "DALLAS PUBLIC LIBRARY",
+      "system": "DALLAS PUBLIC LIBRARY",
+      "address": "950 MAIN ST, DALLAS, OR",
+      "website": "http://www.dallaslibrary.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97351"
-      ]
-    },
-    {
-      "name": "JEFFERSON PUBLIC LIBRARY",
-      "system": "JEFFERSON PUBLIC LIBRARY",
-      "address": "150 N 2ND ST SUITE B, JEFFERSON, OR",
-      "website": "https://jeffersonwilibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97352"
+        "75001",
+        "75038",
+        "75039",
+        "75041",
+        "75042",
+        "75043",
+        "75044",
+        "75050",
+        "75052",
+        "75061",
+        "75062",
+        "75063",
+        "75081",
+        "75089",
+        "75137",
+        "75146",
+        "75150",
+        "75181",
+        "75201",
+        "75202",
+        "75203",
+        "75204",
+        "75206",
+        "75207",
+        "75208",
+        "75209",
+        "75210",
+        "75212",
+        "75214",
+        "75215",
+        "75216",
+        "75217",
+        "75218",
+        "75219",
+        "75220",
+        "75223",
+        "75224",
+        "75226",
+        "75227",
+        "75228",
+        "75229",
+        "75230",
+        "75231",
+        "75232",
+        "75233",
+        "75235",
+        "75236",
+        "75237",
+        "75238",
+        "75240",
+        "75241",
+        "75243",
+        "75244",
+        "75246",
+        "75247",
+        "75248",
+        "75249",
+        "75251",
+        "75253",
+        "75270",
+        "752HH",
+        "97338"
       ]
     },
     {
       "name": "LEBANON PUBLIC LIBRARY",
       "system": "LEBANON PUBLIC LIBRARY",
-      "address": "55 ACADEMY ST, LEBANON, OR",
+      "address": "314 WEST SAINT LOUIS STREET, LEBANON, IL",
       "website": "https://lebanonlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97355"
+        "62254",
+        "97321",
+        "97329",
+        "97345",
+        "97350",
+        "97355",
+        "97358",
+        "97360",
+        "97377",
+        "97389",
+        "973XX"
       ]
     },
     {
@@ -41,18 +101,39 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97367"
+        "97326",
+        "97341",
+        "97343",
+        "97357",
+        "97364",
+        "97365",
+        "97366",
+        "97367",
+        "97368",
+        "97376",
+        "97390",
+        "97391"
       ]
     },
     {
       "name": "LYONS PUBLIC LIBRARY",
       "system": "LYONS PUBLIC LIBRARY",
-      "address": "279 8TH ST, LYONS, OR",
+      "address": "305 MAIN STREET, LYONS, NE",
       "website": "https://lyonsne.com/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97358"
+        "68038",
+        "97321",
+        "97329",
+        "97345",
+        "97350",
+        "97355",
+        "97358",
+        "97360",
+        "97377",
+        "97389",
+        "973XX"
       ]
     },
     {
@@ -63,7 +144,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97361"
+        "97304",
+        "97344",
+        "97347",
+        "97351",
+        "97361",
+        "97371"
       ]
     },
     {
@@ -74,29 +160,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97362"
-      ]
-    },
-    {
-      "name": "NEWPORT PUBLIC LIBRARY",
-      "system": "NEWPORT PUBLIC LIBRARY",
-      "address": "35 NW NYE ST, NEWPORT, OR",
-      "website": "http://www.newportlibraryri.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97365"
-      ]
-    },
-    {
-      "name": "SALEM PUBLIC LIBRARY",
-      "system": "SALEM PUBLIC LIBRARY",
-      "address": "585 LIBERTY ST SE, SALEM, OR",
-      "website": "https://salempl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97301"
+        "97002",
+        "97020",
+        "97026",
+        "97032",
+        "97137",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306",
+        "97325",
+        "97342",
+        "97346",
+        "97352",
+        "97362",
+        "97375",
+        "97385",
+        "97392"
       ]
     },
     {
@@ -107,17 +188,32 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97374"
+        "97321",
+        "97329",
+        "97345",
+        "97350",
+        "97355",
+        "97358",
+        "97360",
+        "97374",
+        "97377",
+        "97389",
+        "973XX"
       ]
     },
     {
       "name": "SHERIDAN PUBLIC LIBRARY",
       "system": "SHERIDAN PUBLIC LIBRARY",
-      "address": "142 NW YAMHILL ST, SHERIDAN, OR",
+      "address": "109 EAST HAMILTON, SHERIDAN, MT",
       "website": "https://townofsheridanmt.org/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59749",
+        "97111",
+        "97115",
+        "97127",
+        "97148",
         "97378"
       ]
     },
@@ -129,7 +225,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97381"
+        "97002",
+        "97020",
+        "97026",
+        "97032",
+        "97137",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306",
+        "97325",
+        "97342",
+        "97346",
+        "97352",
+        "97375",
+        "97381",
+        "97385",
+        "97392"
       ]
     },
     {
@@ -140,7 +253,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97383"
+        "97002",
+        "97020",
+        "97026",
+        "97032",
+        "97137",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306",
+        "97325",
+        "97342",
+        "97346",
+        "97352",
+        "97375",
+        "97383",
+        "97385",
+        "97392"
       ]
     },
     {
@@ -151,17 +281,38 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97386"
+        "97321",
+        "97329",
+        "97345",
+        "97350",
+        "97355",
+        "97358",
+        "97360",
+        "97377",
+        "97386",
+        "97389",
+        "973XX"
       ]
     },
     {
       "name": "TOLEDO PUBLIC LIBRARY",
       "system": "TOLEDO PUBLIC LIBRARY",
-      "address": "173 NW 7TH ST, TOLEDO, OR",
+      "address": "206 E HIGH ST, TOLEDO, IA",
       "website": "https://www.toledo.lib.ia.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "52342",
+        "97326",
+        "97341",
+        "97343",
+        "97357",
+        "97364",
+        "97365",
+        "97366",
+        "97368",
+        "97376",
+        "97390",
         "97391"
       ]
     },
@@ -173,6 +324,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "97326",
+        "97341",
+        "97343",
+        "97357",
+        "97364",
+        "97365",
+        "97366",
+        "97368",
+        "97376",
+        "97390",
+        "97391",
         "97394"
       ]
     },
@@ -184,18 +346,33 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "97111",
+        "97115",
+        "97127",
+        "97148",
+        "97378",
         "97396"
       ]
     },
     {
       "name": "ALBANY PUBLIC LIBRARY",
       "system": "ALBANY PUBLIC LIBRARY",
-      "address": "2450 14TH AVE SE, ALBANY, OR",
+      "address": "161 WASHINGTON AVENUE, ALBANY, NY",
       "website": "https://www.albanypubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97322"
+        "12210",
+        "97321",
+        "97329",
+        "97345",
+        "97350",
+        "97355",
+        "97358",
+        "97360",
+        "97377",
+        "97389",
+        "973XX"
       ]
     },
     {
@@ -206,7 +383,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97327"
+        "97321",
+        "97327",
+        "97329",
+        "97345",
+        "97350",
+        "97355",
+        "97358",
+        "97360",
+        "97377",
+        "97389",
+        "973XX"
       ]
     },
     {
@@ -217,18 +404,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97330"
-      ]
-    },
-    {
-      "name": "DALLAS PUBLIC LIBRARY",
-      "system": "DALLAS PUBLIC LIBRARY",
-      "address": "950 MAIN ST, DALLAS, OR",
-      "website": "http://www.dallaslibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97338"
+        "97324",
+        "97330",
+        "97331",
+        "97333",
+        "97370",
+        "973HH",
+        "97456",
+        "974HH"
       ]
     },
     {
@@ -239,7 +422,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97348"
+        "97321",
+        "97329",
+        "97345",
+        "97348",
+        "97350",
+        "97355",
+        "97358",
+        "97360",
+        "97377",
+        "97389",
+        "973XX"
       ]
     },
     {
@@ -250,7 +443,153 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97380"
+        "97326",
+        "97341",
+        "97343",
+        "97357",
+        "97364",
+        "97365",
+        "97366",
+        "97368",
+        "97376",
+        "97380",
+        "97390",
+        "97391"
+      ]
+    },
+    {
+      "name": "HARRISBURG PUBLIC LIBRARY",
+      "system": "HARRISBURG PUBLIC LIBRARY",
+      "address": "354 SMITH ST, HARRISBURG, OR",
+      "website": "https://www.ci.harrisburg.or.us/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97321",
+        "97329",
+        "97345",
+        "97350",
+        "97355",
+        "97358",
+        "97360",
+        "97377",
+        "97389",
+        "973XX",
+        "97446"
+      ]
+    },
+    {
+      "name": "YACHATS PUBLIC LIBRARY",
+      "system": "YACHATS PUBLIC LIBRARY",
+      "address": "560 W 7TH ST, YACHATS, OR",
+      "website": "https://www.yachatslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97326",
+        "97341",
+        "97343",
+        "97357",
+        "97364",
+        "97365",
+        "97366",
+        "97368",
+        "97376",
+        "97390",
+        "97391",
+        "97498"
+      ]
+    },
+    {
+      "name": "AMITY PUBLIC LIBRARY",
+      "system": "AMITY PUBLIC LIBRARY",
+      "address": "307 S TRADE ST, AMITY, OR",
+      "website": "https://librarytechnology.org/library/8123",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97101",
+        "97111",
+        "97115",
+        "97127",
+        "97148",
+        "97378"
+      ]
+    },
+    {
+      "name": "MCMINNVILLE PUBLIC LIBRARY",
+      "system": "MCMINNVILLE PUBLIC LIBRARY",
+      "address": "225 NW ADAMS ST, MCMINNVILLE, OR",
+      "website": "https://www.mcminnvilleoregon.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97111",
+        "97115",
+        "97127",
+        "97128",
+        "97148",
+        "97378"
+      ]
+    },
+    {
+      "name": "NEWBERG PUBLIC LIBRARY",
+      "system": "NEWBERG PUBLIC LIBRARY",
+      "address": "503 E HANCOCK ST, NEWBERG, OR",
+      "website": "https://www.newbergoregon.gov/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97111",
+        "97115",
+        "97127",
+        "97132",
+        "97148",
+        "97378"
+      ]
+    },
+    {
+      "name": "MARY GILKEY PUBLIC LIBRARY",
+      "system": "MARY GILKEY PUBLIC LIBRARY",
+      "address": "416 FERRY ST, DAYTON, OR",
+      "website": "https://www.daytonoregon.gov/page/library_about",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97111",
+        "97114",
+        "97115",
+        "97127",
+        "97148",
+        "97378"
+      ]
+    },
+    {
+      "name": "WOODBURN PUBLIC LIBRARY",
+      "system": "WOODBURN PUBLIC LIBRARY",
+      "address": "280 GARFIELD ST, WOODBURN, OR",
+      "website": "https://www.woodburn-or.gov/213/Woodburn-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97002",
+        "97020",
+        "97026",
+        "97032",
+        "97071",
+        "97137",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306",
+        "97325",
+        "97342",
+        "97346",
+        "97352",
+        "97375",
+        "97385",
+        "97392"
       ]
     }
   ]

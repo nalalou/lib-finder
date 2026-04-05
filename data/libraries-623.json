@@ -1,72 +1,6 @@
 {
   "libraries": [
     {
-      "name": "BARRY PUBLIC LIBRARY",
-      "system": "BARRY PUBLIC LIBRARY",
-      "address": "880 BAINBRIDGE STREET, BARRY, IL",
-      "website": "http://www.barrypubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62312"
-      ]
-    },
-    {
-      "name": "CAMP POINT PUBLIC LIBRARY DISTRICT",
-      "system": "CAMP POINT PUBLIC LIBRARY DISTRICT",
-      "address": "206 EAST STATE STREET, CAMP POINT, IL",
-      "website": "http://www.camppointpubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62320"
-      ]
-    },
-    {
-      "name": "CARTHAGE PUBLIC LIBRARY DISTRICT",
-      "system": "CARTHAGE PUBLIC LIBRARY DISTRICT",
-      "address": "500 WABASH AVENUE, CARTHAGE, IL",
-      "website": "https://www.carthagepubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62321"
-      ]
-    },
-    {
-      "name": "CLAYTON PUBLIC LIBRARY DISTRICT",
-      "system": "CLAYTON PUBLIC LIBRARY DISTRICT",
-      "address": "211 EAST MAIN STREET, CLAYTON, IL",
-      "website": "https://www.claytonpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62324"
-      ]
-    },
-    {
-      "name": "COLCHESTER DISTRICT LIBRARY",
-      "system": "COLCHESTER DISTRICT LIBRARY",
-      "address": "203 MACOMB STREET, COLCHESTER, IL",
-      "website": "https://www.colchesterlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62326"
-      ]
-    },
-    {
-      "name": "NORTH PIKE DISTRICT LIBRARY",
-      "system": "NORTH PIKE DISTRICT LIBRARY",
-      "address": "119 SOUTH COREY STREET, GRIGGSVILLE, IL",
-      "website": "https://www.northpikedistrictlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62340"
-      ]
-    },
-    {
       "name": "HAMILTON PUBLIC LIBRARY",
       "system": "HAMILTON PUBLIC LIBRARY",
       "address": "861 BROADWAY STREET, HAMILTON, IL",
@@ -74,62 +8,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62341"
-      ]
-    },
-    {
-      "name": "GREATER WEST CENTRAL PUBLIC LIBRARY DISTRICT",
-      "system": "GREATER WEST CENTRAL PUBLIC LIBRARY DISTRICT",
-      "address": "202 NORTH CENTER STREET, AUGUSTA, IL",
-      "website": "https://www.greaterwestcentral.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62311"
-      ]
-    },
-    {
-      "name": "BROWN COUNTY PUBLIC LIBRARY DISTRICT",
-      "system": "BROWN COUNTY PUBLIC LIBRARY DISTRICT",
-      "address": "143 WEST MAIN STREET, MOUNT STERLING, IL",
-      "website": "https://www.bcpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62353"
-      ]
-    },
-    {
-      "name": "NAUVOO PUBLIC LIBRARY",
-      "system": "NAUVOO PUBLIC LIBRARY",
-      "address": "1270 MULHOLLAND STREET, NAUVOO, IL",
-      "website": "https://www.nauvoopubliclibrary.com/contact",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62354"
-      ]
-    },
-    {
-      "name": "PITTSFIELD PUBLIC LIBRARY",
-      "system": "PITTSFIELD PUBLIC LIBRARY",
-      "address": "205 NORTH MEMORIAL STREET, PITTSFIELD, IL",
-      "website": "http://www.pittsfield.lib.me.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62363"
-      ]
-    },
-    {
-      "name": "QUINCY PUBLIC LIBRARY",
-      "system": "QUINCY PUBLIC LIBRARY",
-      "address": "526 JERSEY STREET, QUINCY, IL",
-      "website": "https://www.quincylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62301"
+        "62341",
+        "76436",
+        "76457",
+        "76531",
+        "76565"
       ]
     },
     {
@@ -140,7 +23,228 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "14037",
+        "14039",
+        "14066",
+        "14082",
+        "14083",
+        "14113",
+        "14145",
+        "14167",
+        "14536",
+        "14569",
         "62379"
+      ]
+    },
+    {
+      "name": "BARRY PUBLIC LIBRARY",
+      "system": "BARRY PUBLIC LIBRARY",
+      "address": "880 BAINBRIDGE STREET, BARRY, IL",
+      "website": "http://www.barrypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62312",
+        "62314",
+        "62323",
+        "62343",
+        "62345",
+        "62352",
+        "62355",
+        "62356",
+        "62357",
+        "62361",
+        "62362",
+        "62363",
+        "62366",
+        "62370"
+      ]
+    },
+    {
+      "name": "CAMP POINT PUBLIC LIBRARY DISTRICT",
+      "system": "CAMP POINT PUBLIC LIBRARY DISTRICT",
+      "address": "206 EAST STATE STREET, CAMP POINT, IL",
+      "website": "http://www.camppointpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62320",
+        "62325",
+        "62338",
+        "62339",
+        "62346",
+        "62347",
+        "62348",
+        "62349",
+        "62359",
+        "62360",
+        "62365",
+        "62376",
+        "623HH"
+      ]
+    },
+    {
+      "name": "CARTHAGE PUBLIC LIBRARY DISTRICT",
+      "system": "CARTHAGE PUBLIC LIBRARY DISTRICT",
+      "address": "500 WABASH AVENUE, CARTHAGE, IL",
+      "website": "https://www.carthagepubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62313",
+        "62316",
+        "62318",
+        "62321",
+        "62330",
+        "62334",
+        "62336",
+        "62358",
+        "62367",
+        "62373",
+        "62380"
+      ]
+    },
+    {
+      "name": "CLAYTON PUBLIC LIBRARY DISTRICT",
+      "system": "CLAYTON PUBLIC LIBRARY DISTRICT",
+      "address": "211 EAST MAIN STREET, CLAYTON, IL",
+      "website": "https://www.claytonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62324",
+        "62325",
+        "62338",
+        "62339",
+        "62346",
+        "62347",
+        "62348",
+        "62349",
+        "62359",
+        "62360",
+        "62365",
+        "62376",
+        "623HH"
+      ]
+    },
+    {
+      "name": "COLCHESTER DISTRICT LIBRARY",
+      "system": "COLCHESTER DISTRICT LIBRARY",
+      "address": "203 MACOMB STREET, COLCHESTER, IL",
+      "website": "https://www.colchesterlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61411",
+        "61416",
+        "61438",
+        "61440",
+        "61470",
+        "61475",
+        "62326",
+        "62374"
+      ]
+    },
+    {
+      "name": "NORTH PIKE DISTRICT LIBRARY",
+      "system": "NORTH PIKE DISTRICT LIBRARY",
+      "address": "119 SOUTH COREY STREET, GRIGGSVILLE, IL",
+      "website": "https://www.northpikedistrictlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62314",
+        "62323",
+        "62340",
+        "62343",
+        "62345",
+        "62352",
+        "62355",
+        "62356",
+        "62357",
+        "62361",
+        "62362",
+        "62363",
+        "62366",
+        "62370"
+      ]
+    },
+    {
+      "name": "GREATER WEST CENTRAL PUBLIC LIBRARY DISTRICT",
+      "system": "GREATER WEST CENTRAL PUBLIC LIBRARY DISTRICT",
+      "address": "202 NORTH CENTER STREET, AUGUSTA, IL",
+      "website": "https://www.greaterwestcentral.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62311",
+        "62313",
+        "62316",
+        "62318",
+        "62330",
+        "62334",
+        "62336",
+        "62358",
+        "62367",
+        "62373",
+        "62380"
+      ]
+    },
+    {
+      "name": "BROWN COUNTY PUBLIC LIBRARY DISTRICT",
+      "system": "BROWN COUNTY PUBLIC LIBRARY DISTRICT",
+      "address": "143 WEST MAIN STREET, MOUNT STERLING, IL",
+      "website": "https://www.bcpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62353",
+        "62375",
+        "62378"
+      ]
+    },
+    {
+      "name": "NAUVOO PUBLIC LIBRARY",
+      "system": "NAUVOO PUBLIC LIBRARY",
+      "address": "1270 MULHOLLAND STREET, NAUVOO, IL",
+      "website": "https://www.nauvoopubliclibrary.com/contact",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62313",
+        "62316",
+        "62318",
+        "62330",
+        "62334",
+        "62336",
+        "62354",
+        "62358",
+        "62367",
+        "62373",
+        "62380"
+      ]
+    },
+    {
+      "name": "QUINCY PUBLIC LIBRARY",
+      "system": "QUINCY PUBLIC LIBRARY",
+      "address": "526 JERSEY STREET, QUINCY, IL",
+      "website": "https://www.quincylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62301",
+        "62325",
+        "62338",
+        "62339",
+        "62346",
+        "62347",
+        "62348",
+        "62349",
+        "62359",
+        "62360",
+        "62365",
+        "62376",
+        "623HH"
       ]
     },
     {
@@ -151,7 +255,94 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62351"
+        "62325",
+        "62338",
+        "62339",
+        "62346",
+        "62347",
+        "62348",
+        "62349",
+        "62351",
+        "62359",
+        "62360",
+        "62365",
+        "62376",
+        "623HH"
+      ]
+    },
+    {
+      "name": "BLANDINSVILLE-HIRE LIBRARY DISTRICT",
+      "system": "BLANDINSVILLE-HIRE LIBRARY DISTRICT",
+      "address": "130 SOUTH MAIN STREET, BLANDINSVILLE, IL",
+      "website": "https://www.bhpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61411",
+        "61416",
+        "61420",
+        "61438",
+        "61440",
+        "61470",
+        "61475",
+        "62374"
+      ]
+    },
+    {
+      "name": "BUSHNELL PUBLIC LIBRARY DISTRICT",
+      "system": "BUSHNELL PUBLIC LIBRARY DISTRICT",
+      "address": "455 NORTH DEAN STREET, BUSHNELL, IL",
+      "website": "https://librarytechnology.org/library/17282",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61411",
+        "61416",
+        "61422",
+        "61438",
+        "61440",
+        "61470",
+        "61475",
+        "62374"
+      ]
+    },
+    {
+      "name": "LAHARPE CARNEGIE PUBLIC LIBRARY DISTRICT",
+      "system": "LAHARPE CARNEGIE PUBLIC LIBRARY DISTRICT",
+      "address": "209 EAST MAIN STREET, LA HARPE, IL",
+      "website": "https://www.laharpelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61450",
+        "62313",
+        "62316",
+        "62318",
+        "62330",
+        "62334",
+        "62336",
+        "62358",
+        "62367",
+        "62373",
+        "62380"
+      ]
+    },
+    {
+      "name": "MACOMB PUBLIC LIBRARY DISTRICT",
+      "system": "MACOMB PUBLIC LIBRARY DISTRICT",
+      "address": "235 SOUTH LAFAYETTE STREET, MACOMB, IL",
+      "website": "https://www.macomblibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61411",
+        "61416",
+        "61438",
+        "61440",
+        "61455",
+        "61470",
+        "61475",
+        "62374"
       ]
     }
   ]

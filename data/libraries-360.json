@@ -1,6 +1,154 @@
 {
   "libraries": [
     {
+      "name": "LUVERNE PUBLIC LIBRARY",
+      "system": "LUVERNE PUBLIC LIBRARY",
+      "address": "148 EAST THIRD STREET, LUVERNE, AL",
+      "website": "https://www.luvernepubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36049",
+        "50517",
+        "50559",
+        "50560"
+      ]
+    },
+    {
+      "name": "ANDALUSIA PUBLIC LIBRARY",
+      "system": "ANDALUSIA PUBLIC LIBRARY",
+      "address": "212 SOUTH THREE NOTCH STREET, ANDALUSIA, AL",
+      "website": "http://cityofandalusia.com/leisure-services/library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36028",
+        "36420",
+        "36455",
+        "36474",
+        "36476",
+        "36483"
+      ]
+    },
+    {
+      "name": "FLORALA PUBLIC LIBRARY",
+      "system": "FLORALA PUBLIC LIBRARY",
+      "address": "1214 FOURTH STREET, FLORALA, AL",
+      "website": "https://aplsnew-web.apls.state.al.us:10131/florala/web/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36028",
+        "36442",
+        "36455",
+        "36474",
+        "36476",
+        "36483"
+      ]
+    },
+    {
+      "name": "OPP PUBLIC LIBRARY",
+      "system": "OPP PUBLIC LIBRARY",
+      "address": "1604 NORTH MAIN STREET, OPP, AL",
+      "website": "http://www.opplibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36028",
+        "36455",
+        "36467",
+        "36474",
+        "36476",
+        "36483"
+      ]
+    },
+    {
+      "name": "GOODWATER PUBLIC LIBRARY",
+      "system": "GOODWATER PUBLIC LIBRARY",
+      "address": "62 COOSA COUNTY ROAD 66, GOODWATER, AL",
+      "website": "https://ils.apls.state.al.us:10041/eg/opac/home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35072",
+        "35089",
+        "350XX",
+        "35183",
+        "351XX",
+        "36026"
+      ]
+    },
+    {
+      "name": "CHILTON - CLANTON PUBLIC LIBRARY",
+      "system": "CHILTON - CLANTON PUBLIC LIBRARY",
+      "address": "100 FIRST AVENUE, CLANTON, AL",
+      "website": "https://www.chiltonclantonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35045",
+        "35046",
+        "35085",
+        "350HH",
+        "35171",
+        "36091",
+        "36750",
+        "36790"
+      ]
+    },
+    {
+      "name": "TROY PUBLIC LIBRARY",
+      "system": "TROY PUBLIC LIBRARY",
+      "address": "500 EAST WALNUT STREET, TROY, AL",
+      "website": "http://www.thetroylibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12028",
+        "12052",
+        "12062",
+        "12063",
+        "12094",
+        "12121",
+        "12153",
+        "12156",
+        "12169",
+        "12182",
+        "12196",
+        "36079"
+      ]
+    },
+    {
+      "name": "MONTGOMERY CITY-COUNTY PUBLIC LIBRARY",
+      "system": "MONTGOMERY CITY-COUNTY PUBLIC LIBRARY",
+      "address": "245 HIGH STREET, MONTGOMERY, AL",
+      "website": "http://www.mccpl.lib.al.us/montgomery/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36013",
+        "36036",
+        "36043",
+        "36052",
+        "36064",
+        "36065",
+        "36069",
+        "36104",
+        "36105",
+        "36106",
+        "36107",
+        "36108",
+        "36109",
+        "36110",
+        "36111",
+        "36113",
+        "36115",
+        "36116",
+        "36117",
+        "361HH"
+      ]
+    },
+    {
       "name": "BRUNDIDGE - TUPPER LIGHTFOOT MEMORIAL LIBRARY",
       "system": "BRUNDIDGE - TUPPER LIGHTFOOT MEMORIAL LIBRARY",
       "address": "164 SOUTH MAIN STREET, BRUNDIDGE, AL",
@@ -8,7 +156,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36010"
+        "36005",
+        "36010",
+        "36034",
+        "36035",
+        "36081"
       ]
     },
     {
@@ -19,17 +171,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36017"
-      ]
-    },
-    {
-      "name": "LOUISVILLE PUBLIC LIBRARY",
-      "system": "LOUISVILLE PUBLIC LIBRARY",
-      "address": "1951 MAIN STREET, LOUISVILLE, AL",
-      "website": "http://www.louisvillenelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
+        "36017",
         "36048"
       ]
     },
@@ -41,18 +183,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36016"
-      ]
-    },
-    {
-      "name": "TROY PUBLIC LIBRARY",
-      "system": "TROY PUBLIC LIBRARY",
-      "address": "500 EAST WALNUT STREET, TROY, AL",
-      "website": "http://www.thetroylibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36079"
+        "36016",
+        "36048"
       ]
     },
     {
@@ -63,6 +195,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "36029",
+        "36053",
         "36089"
       ]
     },
@@ -74,18 +208,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36009"
-      ]
-    },
-    {
-      "name": "LUVERNE PUBLIC LIBRARY",
-      "system": "LUVERNE PUBLIC LIBRARY",
-      "address": "148 EAST THIRD STREET, LUVERNE, AL",
-      "website": "https://www.luvernepubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36049"
+        "36009",
+        "36041",
+        "36042",
+        "36046",
+        "36071"
       ]
     },
     {
@@ -96,7 +223,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36054"
+        "36020",
+        "36022",
+        "36025",
+        "36054",
+        "36080",
+        "36093"
       ]
     },
     {
@@ -107,7 +239,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36078"
+        "36078",
+        "36256",
+        "36850",
+        "36861"
       ]
     },
     {
@@ -118,7 +253,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36092"
+        "36020",
+        "36022",
+        "36025",
+        "36080",
+        "36092",
+        "36093"
       ]
     },
     {
@@ -129,7 +269,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36037"
+        "36030",
+        "36033",
+        "36037",
+        "360XX",
+        "36456"
       ]
     },
     {
@@ -140,7 +284,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36083"
+        "36031",
+        "36039",
+        "36075",
+        "36083",
+        "36088",
+        "36866"
       ]
     },
     {
@@ -151,7 +300,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36040"
+        "36040",
+        "36047",
+        "36752",
+        "36785"
       ]
     },
     {
@@ -162,7 +314,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36067"
+        "36003",
+        "36006",
+        "36051",
+        "36066",
+        "36067",
+        "360HH",
+        "36749",
+        "367HH"
       ]
     },
     {
@@ -173,7 +332,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36040"
+        "36040",
+        "36047",
+        "36752",
+        "36785"
       ]
     },
     {
@@ -184,7 +346,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36027"
+        "36027",
+        "36048"
       ]
     },
     {
@@ -195,7 +358,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36032"
+        "36032",
+        "36047",
+        "36752",
+        "36785"
       ]
     },
     {
@@ -206,7 +372,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36024"
+        "36020",
+        "36022",
+        "36024",
+        "36025",
+        "36080",
+        "36093"
       ]
     }
   ]

@@ -8,7 +8,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51601"
+        "51601",
+        "51631",
+        "51637",
+        "51647"
       ]
     },
     {
@@ -19,7 +22,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51632"
+        "51631",
+        "51632",
+        "51637",
+        "51647"
       ]
     },
     {
@@ -30,40 +36,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51638"
-      ]
-    },
-    {
-      "name": "HAMBURG PUBLIC LIBRARY",
-      "system": "HAMBURG PUBLIC LIBRARY",
-      "address": "1301 MAIN ST, HAMBURG, IA",
-      "website": "https://www.hamburg.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51640"
-      ]
-    },
-    {
-      "name": "RANDOLPH PUBLIC LIBRARY",
-      "system": "RANDOLPH PUBLIC LIBRARY",
-      "address": "106 S MAIN, RANDOLPH, IA",
-      "website": "https://randolphnhpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51649"
-      ]
-    },
-    {
-      "name": "SIDNEY PUBLIC LIBRARY",
-      "system": "SIDNEY PUBLIC LIBRARY",
-      "address": "1002 ILLINOIS ST, SIDNEY, IA",
-      "website": "http://sidneypubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51652"
+        "51631",
+        "51637",
+        "51638",
+        "51647"
       ]
     },
     {
@@ -74,7 +50,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51653"
+        "51645",
+        "51648",
+        "51649",
+        "51650",
+        "51652",
+        "51653",
+        "51654",
+        "516HH"
       ]
     },
     {
@@ -85,7 +68,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51636"
+        "51631",
+        "51636",
+        "51637",
+        "51647"
       ]
     },
     {
@@ -96,6 +82,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50833",
+        "50836",
+        "50848",
+        "50862",
         "51646"
       ]
     },
@@ -107,7 +97,31 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51639"
+        "51639",
+        "51645",
+        "51648",
+        "51649",
+        "51650",
+        "51652",
+        "51654",
+        "516HH"
+      ]
+    },
+    {
+      "name": "ATCHISON COUNTY LIBRARY",
+      "system": "ATCHISON COUNTY LIBRARY",
+      "address": "200 S MAIN ST, ROCK PORT, MO",
+      "website": "https://www.countyoffice.org/atchison-county-library-main-branch-rock-port-mo-33a/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51630",
+        "51640",
+        "64446",
+        "64482",
+        "64491",
+        "64496",
+        "64498"
       ]
     }
   ]

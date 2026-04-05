@@ -1,6 +1,90 @@
 {
   "libraries": [
     {
+      "name": "ADAMS COUNTY LIBRARY",
+      "system": "ADAMS COUNTY LIBRARY",
+      "address": "569 N. CEDAR ST., SUITE 1, ADAMS, WI",
+      "website": "https://adamscountyndlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53910",
+        "53934",
+        "53936",
+        "539HH",
+        "544HH",
+        "54613",
+        "546HH"
+      ]
+    },
+    {
+      "name": "DORCHESTER PUBLIC LIBRARY",
+      "system": "DORCHESTER PUBLIC LIBRARY",
+      "address": "155 N. SECOND ST., DORCHESTER, WI",
+      "website": "https://www.dorchesterpubliclibrary.org/library-services/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54420",
+        "54422",
+        "54425",
+        "54488",
+        "54493",
+        "54746"
+      ]
+    },
+    {
+      "name": "MINOCQUA PUBLIC LIBRARY",
+      "system": "MINOCQUA PUBLIC LIBRARY",
+      "address": "415 MENOMINEE ST., STE. 100, MINOCQUA, WI",
+      "website": "https://minocqualibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54463",
+        "54529",
+        "54531",
+        "54539",
+        "54543",
+        "54548",
+        "54564"
+      ]
+    },
+    {
+      "name": "RHINELANDER DISTRICT LIBRARY",
+      "system": "RHINELANDER DISTRICT LIBRARY",
+      "address": "106 N. STEVENS ST., RHINELANDER, WI",
+      "website": "https://rhinelanderlibrary.org/services/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54463",
+        "54501",
+        "54529",
+        "54531",
+        "54539",
+        "54543",
+        "54564"
+      ]
+    },
+    {
+      "name": "EDWARD U. DEMMER MEMORIAL LIBRARY",
+      "system": "EDWARD U. DEMMER MEMORIAL LIBRARY",
+      "address": "6961 W. SCHOOL ST., THREE LAKES, WI",
+      "website": "https://demmerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54463",
+        "54529",
+        "54531",
+        "54539",
+        "54543",
+        "54562",
+        "54564"
+      ]
+    },
+    {
       "name": "ABBOTSFORD PUBLIC LIBRARY",
       "system": "ABBOTSFORD PUBLIC LIBRARY",
       "address": "203 FIRST ST., ABBOTSFORD, WI",
@@ -8,7 +92,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54405"
+        "54405",
+        "54420",
+        "54422",
+        "54488",
+        "54493",
+        "54746"
       ]
     },
     {
@@ -19,7 +108,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54406"
+        "54406",
+        "54407",
+        "54423",
+        "54443",
+        "54467",
+        "54473",
+        "54909",
+        "54921"
       ]
     },
     {
@@ -30,7 +126,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54409"
+        "54409",
+        "54418",
+        "54424",
+        "54428",
+        "54430",
+        "54462",
+        "54465",
+        "54485",
+        "54491"
       ]
     },
     {
@@ -41,7 +145,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54410"
+        "54410",
+        "54412",
+        "54413",
+        "54441",
+        "54454",
+        "54469",
+        "54475",
+        "54495"
       ]
     },
     {
@@ -52,7 +163,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54421"
+        "54420",
+        "54421",
+        "54422",
+        "54488",
+        "54493",
+        "54746"
       ]
     },
     {
@@ -63,7 +179,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54433"
+        "54433",
+        "54447"
       ]
     },
     {
@@ -74,7 +191,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54437"
+        "54420",
+        "54422",
+        "54437",
+        "54488",
+        "54493",
+        "54746"
       ]
     },
     {
@@ -85,7 +207,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54446"
+        "54420",
+        "54422",
+        "54446",
+        "54488",
+        "54493",
+        "54746"
       ]
     },
     {
@@ -96,7 +223,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54449"
+        "54412",
+        "54413",
+        "54441",
+        "54449",
+        "54454",
+        "54469",
+        "54475",
+        "54495"
       ]
     },
     {
@@ -107,6 +241,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54447",
         "54451"
       ]
     },
@@ -118,7 +253,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54456"
+        "54420",
+        "54422",
+        "54456",
+        "54488",
+        "54493",
+        "54746"
       ]
     },
     {
@@ -129,7 +269,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54457"
+        "54412",
+        "54413",
+        "54441",
+        "54454",
+        "54457",
+        "54469",
+        "54475",
+        "54495"
       ]
     },
     {
@@ -140,7 +287,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54459"
+        "54459",
+        "54513",
+        "54515",
+        "54524",
+        "54537",
+        "54555",
+        "54556"
       ]
     },
     {
@@ -151,7 +304,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54460"
+        "54420",
+        "54422",
+        "54460",
+        "54488",
+        "54493",
+        "54746"
       ]
     },
     {
@@ -162,6 +320,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54447",
         "54470"
       ]
     },
@@ -173,6 +332,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54447",
         "54480"
       ]
     },
@@ -184,7 +344,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54481"
+        "54407",
+        "54423",
+        "54443",
+        "54467",
+        "54473",
+        "54481",
+        "54909",
+        "54921"
       ]
     },
     {
@@ -195,6 +362,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54435",
+        "54442",
         "54487"
       ]
     },
@@ -206,7 +375,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54489"
+        "54412",
+        "54413",
+        "54441",
+        "54454",
+        "54469",
+        "54475",
+        "54489",
+        "54495"
       ]
     },
     {
@@ -217,7 +393,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54403"
+        "54401",
+        "54403",
+        "54408",
+        "54411",
+        "54417",
+        "54426",
+        "54427",
+        "54440",
+        "54448",
+        "54455",
+        "54471",
+        "54474",
+        "54476",
+        "54479",
+        "54484"
       ]
     },
     {
@@ -228,6 +418,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54447",
         "54490"
       ]
     },
@@ -239,7 +430,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54494"
+        "54412",
+        "54413",
+        "54441",
+        "54454",
+        "54469",
+        "54475",
+        "54494",
+        "54495"
       ]
     },
     {
@@ -250,18 +448,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54498"
-      ]
-    },
-    {
-      "name": "DORCHESTER PUBLIC LIBRARY",
-      "system": "DORCHESTER PUBLIC LIBRARY",
-      "address": "155 N. SECOND ST., DORCHESTER, WI",
-      "website": "https://www.dorchesterpubliclibrary.org/library-services/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54425"
+        "54420",
+        "54422",
+        "54488",
+        "54493",
+        "54498",
+        "54746"
       ]
     },
     {
@@ -272,7 +464,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54436"
+        "54420",
+        "54422",
+        "54436",
+        "54488",
+        "54493",
+        "54746"
       ]
     },
     {
@@ -283,6 +480,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54435",
+        "54442",
         "54452"
       ]
     },
@@ -294,7 +493,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54466"
+        "54412",
+        "54413",
+        "54441",
+        "54454",
+        "54466",
+        "54469",
+        "54475",
+        "54495"
       ]
     },
     {
@@ -305,7 +511,88 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54457"
+        "53934",
+        "53936",
+        "539HH",
+        "54457",
+        "544HH",
+        "54613",
+        "546HH"
+      ]
+    },
+    {
+      "name": "SHAWANO COUNTY LIBRARY",
+      "system": "SHAWANO COUNTY LIBRARY",
+      "address": "128 S. SAWYER ST., SHAWANO, WI",
+      "website": "https://shawanolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54107",
+        "54111",
+        "54127",
+        "54128",
+        "54137",
+        "54166",
+        "54414",
+        "54416",
+        "54486",
+        "54499",
+        "54928",
+        "54948",
+        "54978"
+      ]
+    },
+    {
+      "name": "THORP PUBLIC LIBRARY",
+      "system": "THORP PUBLIC LIBRARY",
+      "address": "401 S. CONWAY DR., THORP, WI",
+      "website": "https://www.thorppubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54420",
+        "54422",
+        "54488",
+        "54493",
+        "54746",
+        "54771"
+      ]
+    },
+    {
+      "name": "TAYLOR MEMORIAL LIBRARY",
+      "system": "TAYLOR MEMORIAL LIBRARY",
+      "address": "420 2ND ST., TAYLOR, WI",
+      "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=1000",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "544XX",
+        "54611",
+        "54635",
+        "54642",
+        "54659",
+        "546XX",
+        "54754",
+        "547XX"
+      ]
+    },
+    {
+      "name": "BLACK RIVER FALLS PUBLIC LIBRARY",
+      "system": "BLACK RIVER FALLS PUBLIC LIBRARY",
+      "address": "222 FILLMORE ST., BLACK RIVER FALLS, WI",
+      "website": "https://www.blackriverfallslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "544XX",
+        "54611",
+        "54615",
+        "54635",
+        "54642",
+        "546XX",
+        "54754",
+        "547XX"
       ]
     }
   ]

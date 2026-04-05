@@ -1,80 +1,59 @@
 {
   "libraries": [
     {
-      "name": "ALTAMONT PUBLIC LIBRARY",
-      "system": "ALTAMONT PUBLIC LIBRARY",
-      "address": "121 WEST WASHINGTON AVENUE, ALTAMONT, IL",
-      "website": "https://altamontpubliclibrary.org/",
+      "name": "RAMSEY PUBLIC LIBRARY",
+      "system": "RAMSEY PUBLIC LIBRARY",
+      "address": "401 SOUTH SUPERIOR STREET, RAMSEY, IL",
+      "website": "https://librarylearning.org/ramsey-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62411"
+        "62011",
+        "62080",
+        "62418",
+        "62838",
+        "62857",
+        "62880",
+        "62885",
+        "628HH"
       ]
     },
     {
-      "name": "CASEY TOWNSHIP LIBRARY",
-      "system": "CASEY TOWNSHIP LIBRARY",
-      "address": "307 EAST MAIN STREET, CASEY, IL",
-      "website": "https://www.cityofcaseyil.org/community/casey-township-library",
+      "name": "MOWEAQUA PUBLIC LIBRARY DISTRICT",
+      "system": "MOWEAQUA PUBLIC LIBRARY DISTRICT",
+      "address": "600 NORTH PUTNAM STREET, MOWEAQUA, IL",
+      "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=419.1033.0.0.3&lp=0",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62420"
+        "62438",
+        "62444",
+        "62462",
+        "62463",
+        "62465",
+        "62534",
+        "62550",
+        "62553",
+        "62571"
       ]
     },
     {
-      "name": "DRY POINT TOWNSHIP LIBRARY",
-      "system": "DRY POINT TOWNSHIP LIBRARY",
-      "address": "COUNTY HIGHWAY 651, COWDEN, IL",
-      "website": "https://www.drypointtownshiplibrary.org/",
+      "name": "SHELBYVILLE PUBLIC LIBRARY",
+      "system": "SHELBYVILLE PUBLIC LIBRARY",
+      "address": "154 NORTH BROADWAY STREET, SHELBYVILLE, IL",
+      "website": "https://www.shelbyvillelibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62422"
-      ]
-    },
-    {
-      "name": "EFFINGHAM PUBLIC LIBRARY",
-      "system": "EFFINGHAM PUBLIC LIBRARY",
-      "address": "200 NORTH THIRD STREET, EFFINGHAM, IL",
-      "website": "https://effingham.lib.nh.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62401"
-      ]
-    },
-    {
-      "name": "GREENUP TOWNSHIP PUBLIC LIBRARY",
-      "system": "GREENUP TOWNSHIP PUBLIC LIBRARY",
-      "address": "101 NORTH FRANKLIN STREET, GREENUP, IL",
-      "website": "https://www.greenup.lib.il.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62428"
-      ]
-    },
-    {
-      "name": "HERRICK TOWNSHIP PUBLIC LIBRARY",
-      "system": "HERRICK TOWNSHIP PUBLIC LIBRARY",
-      "address": "303 NORTH BROADWAY STREET, HERRICK, IL",
-      "website": "https://librarylearning.org/herrick-township-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62431"
-      ]
-    },
-    {
-      "name": "LAWRENCE PUBLIC LIBRARY DISTRICT",
-      "system": "LAWRENCE PUBLIC LIBRARY DISTRICT",
-      "address": "814 12TH STREET, LAWRENCEVILLE, IL",
-      "website": "https://lawpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62439"
+        "62438",
+        "62444",
+        "62462",
+        "62463",
+        "62465",
+        "62534",
+        "62553",
+        "62565",
+        "62571"
       ]
     },
     {
@@ -85,7 +64,154 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62441"
+        "62441",
+        "75650",
+        "75651",
+        "75661",
+        "75670",
+        "75672"
+      ]
+    },
+    {
+      "name": "EFFINGHAM PUBLIC LIBRARY",
+      "system": "EFFINGHAM PUBLIC LIBRARY",
+      "address": "200 NORTH THIRD STREET, EFFINGHAM, IL",
+      "website": "https://effingham.lib.nh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03259",
+        "03813",
+        "03830",
+        "03832",
+        "03838",
+        "03845",
+        "03853",
+        "03864",
+        "03875",
+        "03882",
+        "03883",
+        "03897",
+        "62401"
+      ]
+    },
+    {
+      "name": "FLORA PUBLIC LIBRARY",
+      "system": "FLORA PUBLIC LIBRARY",
+      "address": "216 NORTH MAIN STREET, FLORA, IL",
+      "website": "https://florapubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62434",
+        "62824",
+        "62839",
+        "62858",
+        "62879",
+        "62899"
+      ]
+    },
+    {
+      "name": "WAYNE CITY KISSNER PUBLIC LIBRARY",
+      "system": "WAYNE CITY KISSNER PUBLIC LIBRARY",
+      "address": "102 SOUTH MAIN STREET, WAYNE CITY, IL",
+      "website": "https://villageofwaynecity.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62446",
+        "62809",
+        "62823",
+        "62833",
+        "62837",
+        "62842",
+        "62843",
+        "62850",
+        "62851",
+        "62878",
+        "62886",
+        "62895",
+        "628XX"
+      ]
+    },
+    {
+      "name": "CASEY TOWNSHIP LIBRARY",
+      "system": "CASEY TOWNSHIP LIBRARY",
+      "address": "307 EAST MAIN STREET, CASEY, IL",
+      "website": "https://www.cityofcaseyil.org/community/casey-township-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62420",
+        "62423",
+        "62474",
+        "624HH"
+      ]
+    },
+    {
+      "name": "DRY POINT TOWNSHIP LIBRARY",
+      "system": "DRY POINT TOWNSHIP LIBRARY",
+      "address": "COUNTY HIGHWAY 651, COWDEN, IL",
+      "website": "https://www.drypointtownshiplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62422",
+        "62438",
+        "62444",
+        "62462",
+        "62463",
+        "62465",
+        "62534",
+        "62553",
+        "62571"
+      ]
+    },
+    {
+      "name": "GREENUP TOWNSHIP PUBLIC LIBRARY",
+      "system": "GREENUP TOWNSHIP PUBLIC LIBRARY",
+      "address": "101 NORTH FRANKLIN STREET, GREENUP, IL",
+      "website": "https://www.greenup.lib.il.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62428",
+        "62436",
+        "62445",
+        "62469"
+      ]
+    },
+    {
+      "name": "HERRICK TOWNSHIP PUBLIC LIBRARY",
+      "system": "HERRICK TOWNSHIP PUBLIC LIBRARY",
+      "address": "303 NORTH BROADWAY STREET, HERRICK, IL",
+      "website": "https://librarylearning.org/herrick-township-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62431",
+        "62438",
+        "62444",
+        "62462",
+        "62463",
+        "62465",
+        "62534",
+        "62553",
+        "62571"
+      ]
+    },
+    {
+      "name": "LAWRENCE PUBLIC LIBRARY DISTRICT",
+      "system": "LAWRENCE PUBLIC LIBRARY DISTRICT",
+      "address": "814 12TH STREET, LAWRENCEVILLE, IL",
+      "website": "https://lawpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62417",
+        "62439",
+        "62460",
+        "62466"
       ]
     },
     {
@@ -96,7 +222,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62442"
+        "62423",
+        "62442",
+        "62474",
+        "624HH"
       ]
     },
     {
@@ -107,7 +236,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62447"
+        "62436",
+        "62445",
+        "62447",
+        "62469"
       ]
     },
     {
@@ -118,7 +250,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62448"
+        "62432",
+        "62448",
+        "62459",
+        "62475",
+        "62479",
+        "62480",
+        "62481"
       ]
     },
     {
@@ -129,7 +267,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62450"
+        "62419",
+        "62421",
+        "62425",
+        "62450",
+        "62452",
+        "62868"
       ]
     },
     {
@@ -140,7 +283,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62451"
+        "62413",
+        "62427",
+        "62433",
+        "62449",
+        "62451",
+        "62478"
       ]
     },
     {
@@ -151,7 +299,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62454"
+        "62413",
+        "62427",
+        "62433",
+        "62449",
+        "62454",
+        "62478"
       ]
     },
     {
@@ -162,7 +315,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62458"
+        "62011",
+        "62418",
+        "62458",
+        "62838",
+        "62857",
+        "62880",
+        "62885",
+        "628HH"
       ]
     },
     {
@@ -173,7 +333,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62468"
+        "62436",
+        "62445",
+        "62468",
+        "62469"
       ]
     },
     {
@@ -184,7 +347,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62471"
+        "62011",
+        "62418",
+        "62471",
+        "62838",
+        "62857",
+        "62880",
+        "62885",
+        "628HH"
       ]
     },
     {
@@ -195,7 +365,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62476"
+        "62476",
+        "62806",
+        "62815",
+        "62818"
       ]
     },
     {
@@ -206,7 +379,61 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62477"
+        "62423",
+        "62474",
+        "62477",
+        "624HH"
+      ]
+    },
+    {
+      "name": "CHARLESTON CARNEGIE PUBLIC LIBRARY",
+      "system": "CHARLESTON CARNEGIE PUBLIC LIBRARY",
+      "address": "712 SIXTH STREET, CHARLESTON, IL",
+      "website": "https://charlestonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61912",
+        "61920",
+        "61931",
+        "61943",
+        "619HH",
+        "62440"
+      ]
+    },
+    {
+      "name": "MATTOON PUBLIC LIBRARY",
+      "system": "MATTOON PUBLIC LIBRARY",
+      "address": "1600 CHARLESTON AVENUE, MATTOON, IL",
+      "website": "https://mattoonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61912",
+        "61931",
+        "61938",
+        "61943",
+        "619HH",
+        "62440"
+      ]
+    },
+    {
+      "name": "WINDSOR STORM MEMORIAL PUBLIC LIBRARY DISTRICT",
+      "system": "WINDSOR STORM MEMORIAL PUBLIC LIBRARY DISTRICT",
+      "address": "102 SOUTH MAPLE STREET, WINDSOR, IL",
+      "website": "https://windsor.lib.il.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61957",
+        "62438",
+        "62444",
+        "62462",
+        "62463",
+        "62465",
+        "62534",
+        "62553",
+        "62571"
       ]
     }
   ]

@@ -1,14 +1,87 @@
 {
   "libraries": [
     {
-      "name": "DAVENPORT PUBLIC LIBRARY",
-      "system": "DAVENPORT PUBLIC LIBRARY",
-      "address": "321 MAIN ST, DAVENPORT, IA",
-      "website": "http://www.davenportlibrary.com/",
+      "name": "BETTENDORF PUBLIC LIBRARY INFORMATION CENTER",
+      "system": "BETTENDORF PUBLIC LIBRARY INFORMATION CENTER",
+      "address": "2950 LEARNING CAMPUS DR, BETTENDORF, IA",
+      "website": "https://www.bettendorflibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52801"
+        "52722",
+        "52726",
+        "52728",
+        "52745",
+        "52746",
+        "52756",
+        "52758",
+        "52765",
+        "52767",
+        "52768",
+        "52773",
+        "52801",
+        "52802",
+        "52803",
+        "52804",
+        "52806",
+        "52807",
+        "528HH"
+      ]
+    },
+    {
+      "name": "SCOTT COUNTY LIBRARY SYSTEM",
+      "system": "SCOTT COUNTY LIBRARY SYSTEM",
+      "address": "200 N 6TH AVE, ELDRIDGE, IA",
+      "website": "https://www.scottcountyiowa.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52726",
+        "52728",
+        "52745",
+        "52746",
+        "52748",
+        "52756",
+        "52758",
+        "52765",
+        "52767",
+        "52768",
+        "52773",
+        "52801",
+        "52802",
+        "52803",
+        "52804",
+        "52806",
+        "52807",
+        "528HH"
+      ]
+    },
+    {
+      "name": "LE CLAIRE COMMUNITY LIBRARY",
+      "system": "LE CLAIRE COMMUNITY LIBRARY",
+      "address": "323 WISCONSIN ST, LE CLAIRE, IA",
+      "website": "https://www.leclaireiowa.gov/153/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52726",
+        "52728",
+        "52745",
+        "52746",
+        "52753",
+        "52756",
+        "52758",
+        "52765",
+        "52767",
+        "52768",
+        "52773",
+        "52801",
+        "52802",
+        "52803",
+        "52804",
+        "52806",
+        "52807",
+        "528HH"
       ]
     }
   ]

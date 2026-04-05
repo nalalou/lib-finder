@@ -1,6 +1,157 @@
 {
   "libraries": [
     {
+      "name": "JOHNSONBURG PUBLIC LIBRARY",
+      "system": "JOHNSONBURG PUBLIC LIBRARY",
+      "address": "520 MARKET ST, JOHNSONBURG, PA",
+      "website": "https://www.johnsonburglibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15821",
+        "15823",
+        "15827",
+        "15841",
+        "15845",
+        "15846",
+        "15868",
+        "16734"
+      ]
+    },
+    {
+      "name": "RIDGWAY FREE PUBLIC LIBRARY",
+      "system": "RIDGWAY FREE PUBLIC LIBRARY",
+      "address": "329 CENTER ST, RIDGWAY, PA",
+      "website": "http://www.ridgwaylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15821",
+        "15823",
+        "15827",
+        "15841",
+        "15846",
+        "15853",
+        "15868",
+        "16734"
+      ]
+    },
+    {
+      "name": "SAINT MARYS PUBLIC LIBRARY",
+      "system": "SAINT MARYS PUBLIC LIBRARY",
+      "address": "127 CENTER ST, ST MARYS, PA",
+      "website": "http://www.stmpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15821",
+        "15823",
+        "15827",
+        "15841",
+        "15846",
+        "15857",
+        "15868",
+        "16734"
+      ]
+    },
+    {
+      "name": "WILCOX PUBLIC LIBRARY",
+      "system": "WILCOX PUBLIC LIBRARY",
+      "address": "105 CLARION STREET, WILCOX, PA",
+      "website": "https://www.wilcoxlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15821",
+        "15823",
+        "15827",
+        "15841",
+        "15846",
+        "15868",
+        "15870",
+        "16734"
+      ]
+    },
+    {
+      "name": "COUDERSPORT PUBLIC LIBRARY",
+      "system": "COUDERSPORT PUBLIC LIBRARY",
+      "address": "502 PARK AVE, COUDERSPORT, PA",
+      "website": "https://coudersportlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16720",
+        "16746",
+        "16915",
+        "16927",
+        "16937",
+        "16941",
+        "17729"
+      ]
+    },
+    {
+      "name": "GALETON PUBLIC LIBRARY",
+      "system": "GALETON PUBLIC LIBRARY",
+      "address": "5 PARK LANE, GALETON, PA",
+      "website": "https://galetonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16720",
+        "16746",
+        "16922",
+        "16927",
+        "16937",
+        "16941",
+        "17729"
+      ]
+    },
+    {
+      "name": "GENESEE AREA LIBRARY",
+      "system": "GENESEE AREA LIBRARY",
+      "address": "301 MAIN STREET, GENESEE, PA",
+      "website": "https://geneseelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16720",
+        "16746",
+        "16923",
+        "16927",
+        "16937",
+        "16941",
+        "17729"
+      ]
+    },
+    {
+      "name": "ULYSSES LIBRARY",
+      "system": "ULYSSES LIBRARY",
+      "address": "401 NORTH MAIN ST, ULYSSES, PA",
+      "website": "https://ulysseslibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16720",
+        "16746",
+        "16927",
+        "16937",
+        "16941",
+        "16948",
+        "17729"
+      ]
+    },
+    {
+      "name": "HAMLIN MEMORIAL LIBRARY",
+      "system": "HAMLIN MEMORIAL LIBRARY",
+      "address": "123 S MECHANIC ST, SMETHPORT, PA",
+      "website": "http://www.hamlin.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16749"
+      ]
+    },
+    {
       "name": "BRADFORD AREA PUBLIC LIBRARY",
       "system": "BRADFORD AREA PUBLIC LIBRARY",
       "address": "67 W WASHINGTON ST, BRADFORD, PA",
@@ -45,17 +196,6 @@
       ]
     },
     {
-      "name": "HAMLIN MEMORIAL LIBRARY",
-      "system": "HAMLIN MEMORIAL LIBRARY",
-      "address": "123 S MECHANIC ST, SMETHPORT, PA",
-      "website": "http://www.hamlin.lib.me.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "16749"
-      ]
-    },
-    {
       "name": "OSWAYO VALLEY MEMORIAL LIBRARY",
       "system": "OSWAYO VALLEY MEMORIAL LIBRARY",
       "address": "103 NORTH PLEASANT STREET, SHINGLEHOUSE, PA",
@@ -63,7 +203,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16748"
+        "16720",
+        "16746",
+        "16748",
+        "16927",
+        "16937",
+        "16941",
+        "17729"
       ]
     }
   ]

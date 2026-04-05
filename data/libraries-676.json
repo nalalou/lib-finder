@@ -1,6 +1,37 @@
 {
   "libraries": [
     {
+      "name": "NORTON PUBLIC LIBRARY",
+      "system": "NORTON PUBLIC LIBRARY",
+      "address": "1 WASHINGTON SQUARE, NORTON, KS",
+      "website": "https://nortonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02048",
+        "02375",
+        "02702",
+        "02718",
+        "02720",
+        "02721",
+        "02723",
+        "02724",
+        "02725",
+        "02726",
+        "02744",
+        "02745",
+        "02746",
+        "02747",
+        "02760",
+        "02763",
+        "02764",
+        "02766",
+        "02779",
+        "027HH",
+        "67654"
+      ]
+    },
+    {
       "name": "SUNSHINE CITY LIBRARY",
       "system": "SUNSHINE CITY LIBRARY",
       "address": "207 KANSAS, PRAIRIE VIEW, KS",
@@ -8,18 +39,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67664"
-      ]
-    },
-    {
-      "name": "LONG ISLAND COMMUNITY LIBRARY",
-      "system": "LONG ISLAND COMMUNITY LIBRARY",
-      "address": "350 WASHINGTON, LONG ISLAND, KS",
-      "website": "https://library.townoflongisland.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67647"
+        "67639",
+        "67646",
+        "67647",
+        "67664",
+        "67670",
+        "676HH"
       ]
     },
     {
@@ -30,6 +55,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66932",
+        "669XX",
+        "67628",
         "67638"
       ]
     },
@@ -41,7 +69,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67644"
+        "67639",
+        "67644",
+        "67646",
+        "67647",
+        "67670",
+        "676HH"
       ]
     },
     {
@@ -52,7 +85,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67657"
+        "67632",
+        "67657",
+        "67675",
+        "676XX"
       ]
     },
     {
@@ -63,7 +99,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67621"
+        "67621",
+        "67639",
+        "67646",
+        "67647",
+        "67670",
+        "676HH"
       ]
     },
     {
@@ -74,18 +115,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67648"
+        "67626",
+        "67634",
+        "67640",
+        "67648",
+        "67658",
+        "67665",
+        "67673"
       ]
     },
     {
       "name": "LOGAN PUBLIC LIBRARY",
       "system": "LOGAN PUBLIC LIBRARY",
-      "address": "109 W. MAIN, LOGAN, KS",
+      "address": "121 E 6TH ST, LOGAN, IA",
       "website": "https://librarytechnology.org/library/18174",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67646"
+        "51546",
+        "67639",
+        "67646",
+        "67647",
+        "67670",
+        "676HH"
       ]
     },
     {
@@ -96,7 +148,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67669"
+        "67632",
+        "67669",
+        "67675",
+        "676XX"
       ]
     },
     {
@@ -107,7 +162,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67637"
+        "67637",
+        "67660",
+        "67667",
+        "67671",
+        "67674"
       ]
     },
     {
@@ -118,7 +177,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67663"
+        "67632",
+        "67663",
+        "67675",
+        "676XX"
       ]
     },
     {
@@ -129,18 +191,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67661"
-      ]
-    },
-    {
-      "name": "RUSSELL PUBLIC LIBRARY",
-      "system": "RUSSELL PUBLIC LIBRARY",
-      "address": "126 EAST 6TH STREET, RUSSELL, KS",
-      "website": "https://www.townofrussell.us/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67665"
+        "67639",
+        "67646",
+        "67647",
+        "67661",
+        "67670",
+        "676HH"
       ]
     },
     {
@@ -151,7 +207,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67601"
+        "67601",
+        "67660",
+        "67667",
+        "67671",
+        "67674"
       ]
     },
     {
@@ -162,7 +222,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67643"
+        "67635",
+        "67643",
+        "67653"
       ]
     },
     {
@@ -173,6 +235,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67629",
         "67645"
       ]
     },
@@ -184,18 +247,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67622"
-      ]
-    },
-    {
-      "name": "NORTON PUBLIC LIBRARY",
-      "system": "NORTON PUBLIC LIBRARY",
-      "address": "1 WASHINGTON SQUARE, NORTON, KS",
-      "website": "https://nortonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67654"
+        "67622",
+        "67629"
       ]
     },
     {
@@ -206,7 +259,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67642"
+        "67625",
+        "67642",
+        "67650",
+        "67659"
       ]
     },
     {
@@ -217,6 +273,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67631",
+        "67656",
         "67672"
       ]
     },
@@ -228,7 +286,96 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67649"
+        "67626",
+        "67634",
+        "67640",
+        "67649",
+        "67658",
+        "67665",
+        "67673"
+      ]
+    },
+    {
+      "name": "OBERLIN CITY LIBRARY",
+      "system": "OBERLIN CITY LIBRARY",
+      "address": "104 E. OAK, OBERLIN, KS",
+      "website": "https://oberlin.nwkls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67635",
+        "67653",
+        "67749"
+      ]
+    },
+    {
+      "name": "LEBANON COMMUNITY",
+      "system": "LEBANON COMMUNITY",
+      "address": "404 MAIN, LEBANON, KS",
+      "website": "https://librarytechnology.org/library/18160",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66932",
+        "66952",
+        "669XX",
+        "67628"
+      ]
+    },
+    {
+      "name": "KENSINGTON COMMUNITY/SCHOOL LIBRARY",
+      "system": "KENSINGTON COMMUNITY/SCHOOL LIBRARY",
+      "address": "203 SOUTH JACKSON, KENSINGTON, KS",
+      "website": "https://www.kensingtonks.net/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66932",
+        "66951",
+        "669XX",
+        "67628"
+      ]
+    },
+    {
+      "name": "SMITH CENTER PUBLIC LIBRARY",
+      "system": "SMITH CENTER PUBLIC LIBRARY",
+      "address": "117 W. COURT, SMITH CENTER, KS",
+      "website": "https://smithcenterks.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66932",
+        "66967",
+        "669XX",
+        "67628"
+      ]
+    },
+    {
+      "name": "DOWNS CARNEGIE LIBRARY",
+      "system": "DOWNS CARNEGIE LIBRARY",
+      "address": "504 MORGAN AVE, DOWNS, KS",
+      "website": "https://downs.mykansaslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67437",
+        "67474",
+        "67623",
+        "67651"
+      ]
+    },
+    {
+      "name": "OSBORNE PUBLIC LIBRARY",
+      "system": "OSBORNE PUBLIC LIBRARY",
+      "address": "325 W MAIN, OSBORNE, KS",
+      "website": "https://www.ospublib.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67473",
+        "67474",
+        "67623",
+        "67651"
       ]
     }
   ]

@@ -1,58 +1,20 @@
 {
   "libraries": [
     {
-      "name": "FLORENCE - LAUDERDALE PUBLIC LIBRARY",
-      "system": "FLORENCE - LAUDERDALE PUBLIC LIBRARY",
-      "address": "350 NORTH WOOD AVENUE, FLORENCE, AL",
-      "website": "https://www.flpl.org/",
+      "name": "RED BAY - WEATHERFORD PUBLIC LIBRARY",
+      "system": "RED BAY - WEATHERFORD PUBLIC LIBRARY",
+      "address": "307 4TH AVENUE SOUTH, RED BAY, AL",
+      "website": "https://northwestregional.net/weatherford-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35630"
-      ]
-    },
-    {
-      "name": "TUSCUMBIA - HELEN KELLER PUBLIC LIBRARY",
-      "system": "TUSCUMBIA - HELEN KELLER PUBLIC LIBRARY",
-      "address": "511 NORTH MAIN STREET, TUSCUMBIA, AL",
-      "website": "https://cityoftuscumbia.org/departments/helen-keller-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35674"
-      ]
-    },
-    {
-      "name": "LEIGHTON PUBLIC LIBRARY",
-      "system": "LEIGHTON PUBLIC LIBRARY",
-      "address": "8740 MAIN STREET, LEIGHTON, AL",
-      "website": "https://librarytechnology.org/library/6642",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35646"
-      ]
-    },
-    {
-      "name": "MUSCLE SHOALS PUBLIC LIBRARY",
-      "system": "MUSCLE SHOALS PUBLIC LIBRARY",
-      "address": "1918 EAST AVALON AVENUE, MUSCLE SHOALS, AL",
-      "website": "https://www.chamberofcommerce.com/business-directory/alabama/muscle-shoals/public-library/2029589496-muscle-shoals-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35661"
-      ]
-    },
-    {
-      "name": "ROGERSVILLE PUBLIC LIBRARY",
-      "system": "ROGERSVILLE PUBLIC LIBRARY",
-      "address": "74 BANK STREET, ROGERSVILLE, AL",
-      "website": "http://www.rogersvillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35652"
+        "35571",
+        "35581",
+        "35582",
+        "35585",
+        "35593",
+        "355HH",
+        "35654"
       ]
     },
     {
@@ -63,128 +25,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35660"
-      ]
-    },
-    {
-      "name": "RUSSELLVILLE PUBLIC LIBRARY",
-      "system": "RUSSELLVILLE PUBLIC LIBRARY",
-      "address": "110 EAST LAWRENCE STREET, RUSSELLVILLE, AL",
-      "website": "https://www.russellvilleal.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35653"
-      ]
-    },
-    {
-      "name": "ATHENS - LIMESTONE PUBLIC LIBRARY",
-      "system": "ATHENS - LIMESTONE PUBLIC LIBRARY",
-      "address": "603 JEFFERSON STREET, ATHENS, AL",
-      "website": "http://www.alcpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35611"
-      ]
-    },
-    {
-      "name": "DECATUR PUBLIC LIBRARY",
-      "system": "DECATUR PUBLIC LIBRARY",
-      "address": "504 CHERRY STREET NE, DECATUR, AL",
-      "website": "https://dekalblibrary.org/branches/deca",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35601"
-      ]
-    },
-    {
-      "name": "HARTSELLE - WILLIAM BRADFORD HUIE LIBRARY OF HARTSELLE",
-      "system": "HARTSELLE - WILLIAM BRADFORD HUIE LIBRARY OF HARTSELLE",
-      "address": "152 SPARKMAN STREET NW, HARTSELLE, AL",
-      "website": "https://hartselle.org/252/William-Bradford-Huie-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35640"
-      ]
-    },
-    {
-      "name": "LAWRENCE COUNTY PUBLIC LIBRARY",
-      "system": "LAWRENCE COUNTY PUBLIC LIBRARY",
-      "address": "401 COLLEGE STREET, MOULTON, AL",
-      "website": "https://lcplky.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35650"
-      ]
-    },
-    {
-      "name": "CHEROKEE PUBLIC LIBRARY",
-      "system": "CHEROKEE PUBLIC LIBRARY",
-      "address": "118 CHURCH STREET, CHEROKEE, AL",
-      "website": "https://www.cherokee.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35616"
-      ]
-    },
-    {
-      "name": "KILLEN PUBLIC LIBRARY",
-      "system": "KILLEN PUBLIC LIBRARY",
-      "address": "325 J. C. MAULDIN HIGHWAY, KILLEN, AL",
-      "website": "https://townofkillen.org/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35645"
-      ]
-    },
-    {
-      "name": "LEXINGTON - BURCHELL CAMPBELL MEMORIAL LIBRARY",
-      "system": "LEXINGTON - BURCHELL CAMPBELL MEMORIAL LIBRARY",
-      "address": "11075 HIGHWAY 101, LEXINGTON, AL",
-      "website": "https://www.chamberofcommerce.com/business-directory/alabama/lexington/public-library/2032212052-burchell-campbell-memorial-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35648"
-      ]
-    },
-    {
-      "name": "COURTLAND PUBLIC LIBRARY",
-      "system": "COURTLAND PUBLIC LIBRARY",
-      "address": "215 COLLEGE STREET, COURTLAND, AL",
-      "website": "https://www.townofcourtland.org/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35618"
-      ]
-    },
-    {
-      "name": "EVA PUBLIC LIBRARY",
-      "system": "EVA PUBLIC LIBRARY",
-      "address": "4549 HIGHWAY 55 EAST, EVA, AL",
-      "website": "https://ils.apls.state.al.us:10040/eg/opac/home",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35621"
-      ]
-    },
-    {
-      "name": "FALKVILLE PUBLIC LIBRARY",
-      "system": "FALKVILLE PUBLIC LIBRARY",
-      "address": "7 NORTH 1ST AVENUE, FALKVILLE, AL",
-      "website": "http://falkvillepubliclibrary.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35622"
+        "35660",
+        "61312",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61337",
+        "61338",
+        "61346",
+        "61359",
+        "61361",
+        "61374",
+        "613HH"
       ]
     },
     {
@@ -195,7 +48,284 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "01450",
+        "01474",
+        "01701",
+        "01718",
+        "01721",
+        "01731",
+        "01749",
+        "01773",
+        "01803",
+        "01850",
+        "01851",
+        "01854",
+        "01862",
+        "01863",
+        "02138",
+        "02139",
+        "02140",
+        "02141",
+        "02142",
+        "02143",
+        "02144",
+        "02145",
+        "02421",
+        "02452",
+        "02453",
+        "02458",
+        "02460",
+        "02461",
+        "02462",
+        "02464",
+        "02465",
+        "02466",
+        "02467",
+        "02468",
+        "02474",
+        "02478",
+        "02493",
         "35670"
+      ]
+    },
+    {
+      "name": "DECATUR PUBLIC LIBRARY",
+      "system": "DECATUR PUBLIC LIBRARY",
+      "address": "504 CHERRY STREET NE, DECATUR, AL",
+      "website": "https://dekalblibrary.org/branches/deca",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35601",
+        "76023",
+        "76073",
+        "76234",
+        "76246",
+        "76426"
+      ]
+    },
+    {
+      "name": "LAWRENCE COUNTY PUBLIC LIBRARY",
+      "system": "LAWRENCE COUNTY PUBLIC LIBRARY",
+      "address": "401 COLLEGE STREET, MOULTON, AL",
+      "website": "https://lcplky.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35650",
+        "38456",
+        "38457",
+        "38464",
+        "38468",
+        "38469",
+        "38481",
+        "38483",
+        "38486"
+      ]
+    },
+    {
+      "name": "CHEROKEE PUBLIC LIBRARY",
+      "system": "CHEROKEE PUBLIC LIBRARY",
+      "address": "118 CHURCH STREET, CHEROKEE, AL",
+      "website": "https://www.cherokee.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35616",
+        "51012",
+        "51029",
+        "51037"
+      ]
+    },
+    {
+      "name": "FLORENCE - LAUDERDALE PUBLIC LIBRARY",
+      "system": "FLORENCE - LAUDERDALE PUBLIC LIBRARY",
+      "address": "350 NORTH WOOD AVENUE, FLORENCE, AL",
+      "website": "https://www.flpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35610",
+        "35630",
+        "35633",
+        "35634",
+        "35677"
+      ]
+    },
+    {
+      "name": "TUSCUMBIA - HELEN KELLER PUBLIC LIBRARY",
+      "system": "TUSCUMBIA - HELEN KELLER PUBLIC LIBRARY",
+      "address": "511 NORTH MAIN STREET, TUSCUMBIA, AL",
+      "website": "https://cityoftuscumbia.org/departments/helen-keller-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35674",
+        "356HH"
+      ]
+    },
+    {
+      "name": "LEIGHTON PUBLIC LIBRARY",
+      "system": "LEIGHTON PUBLIC LIBRARY",
+      "address": "8740 MAIN STREET, LEIGHTON, AL",
+      "website": "https://librarytechnology.org/library/6642",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35646",
+        "356HH"
+      ]
+    },
+    {
+      "name": "MUSCLE SHOALS PUBLIC LIBRARY",
+      "system": "MUSCLE SHOALS PUBLIC LIBRARY",
+      "address": "1918 EAST AVALON AVENUE, MUSCLE SHOALS, AL",
+      "website": "https://www.chamberofcommerce.com/business-directory/alabama/muscle-shoals/public-library/2029589496-muscle-shoals-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35661",
+        "356HH"
+      ]
+    },
+    {
+      "name": "ROGERSVILLE PUBLIC LIBRARY",
+      "system": "ROGERSVILLE PUBLIC LIBRARY",
+      "address": "74 BANK STREET, ROGERSVILLE, AL",
+      "website": "http://www.rogersvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35610",
+        "35633",
+        "35634",
+        "35652",
+        "35677"
+      ]
+    },
+    {
+      "name": "RUSSELLVILLE PUBLIC LIBRARY",
+      "system": "RUSSELLVILLE PUBLIC LIBRARY",
+      "address": "110 EAST LAWRENCE STREET, RUSSELLVILLE, AL",
+      "website": "https://www.russellvilleal.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35571",
+        "35581",
+        "35585",
+        "35593",
+        "355HH",
+        "35653",
+        "35654"
+      ]
+    },
+    {
+      "name": "ATHENS - LIMESTONE PUBLIC LIBRARY",
+      "system": "ATHENS - LIMESTONE PUBLIC LIBRARY",
+      "address": "603 JEFFERSON STREET, ATHENS, AL",
+      "website": "http://www.alcpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35611",
+        "35613",
+        "35614",
+        "35620",
+        "35647",
+        "35649",
+        "35671",
+        "35739",
+        "35742",
+        "35756"
+      ]
+    },
+    {
+      "name": "HARTSELLE - WILLIAM BRADFORD HUIE LIBRARY OF HARTSELLE",
+      "system": "HARTSELLE - WILLIAM BRADFORD HUIE LIBRARY OF HARTSELLE",
+      "address": "152 SPARKMAN STREET NW, HARTSELLE, AL",
+      "website": "https://hartselle.org/252/William-Bradford-Huie-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35619",
+        "35640",
+        "35754",
+        "35775"
+      ]
+    },
+    {
+      "name": "KILLEN PUBLIC LIBRARY",
+      "system": "KILLEN PUBLIC LIBRARY",
+      "address": "325 J. C. MAULDIN HIGHWAY, KILLEN, AL",
+      "website": "https://townofkillen.org/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35610",
+        "35633",
+        "35634",
+        "35645",
+        "35677"
+      ]
+    },
+    {
+      "name": "LEXINGTON - BURCHELL CAMPBELL MEMORIAL LIBRARY",
+      "system": "LEXINGTON - BURCHELL CAMPBELL MEMORIAL LIBRARY",
+      "address": "11075 HIGHWAY 101, LEXINGTON, AL",
+      "website": "https://www.chamberofcommerce.com/business-directory/alabama/lexington/public-library/2032212052-burchell-campbell-memorial-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35610",
+        "35633",
+        "35634",
+        "35648",
+        "35677"
+      ]
+    },
+    {
+      "name": "COURTLAND PUBLIC LIBRARY",
+      "system": "COURTLAND PUBLIC LIBRARY",
+      "address": "215 COLLEGE STREET, COURTLAND, AL",
+      "website": "https://www.townofcourtland.org/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "355XX",
+        "35618",
+        "35643",
+        "35651",
+        "35673",
+        "356XX"
+      ]
+    },
+    {
+      "name": "EVA PUBLIC LIBRARY",
+      "system": "EVA PUBLIC LIBRARY",
+      "address": "4549 HIGHWAY 55 EAST, EVA, AL",
+      "website": "https://ils.apls.state.al.us:10040/eg/opac/home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35619",
+        "35621",
+        "35754",
+        "35775"
+      ]
+    },
+    {
+      "name": "FALKVILLE PUBLIC LIBRARY",
+      "system": "FALKVILLE PUBLIC LIBRARY",
+      "address": "7 NORTH 1ST AVENUE, FALKVILLE, AL",
+      "website": "http://falkvillepubliclibrary.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35619",
+        "35622",
+        "35754",
+        "35775"
       ]
     },
     {
@@ -206,7 +336,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35672"
+        "355XX",
+        "35643",
+        "35651",
+        "35672",
+        "35673",
+        "356XX"
       ]
     },
     {
@@ -217,7 +352,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35603"
+        "35603",
+        "35619",
+        "35754",
+        "35775"
       ]
     }
   ]

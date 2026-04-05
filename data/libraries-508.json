@@ -8,7 +8,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50801"
+        "50149",
+        "50254",
+        "50801",
+        "50830",
+        "50861"
       ]
     },
     {
@@ -19,18 +23,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50854"
-      ]
-    },
-    {
-      "name": "BEDFORD PUBLIC LIBRARY",
-      "system": "BEDFORD PUBLIC LIBRARY",
-      "address": "507 JEFFERSON ST, BEDFORD, IA",
-      "website": "https://www.bedlib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50833"
+        "50074",
+        "50133",
+        "50835",
+        "50845",
+        "50854",
+        "50860",
+        "50863"
       ]
     },
     {
@@ -41,7 +40,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50851"
+        "50833",
+        "50836",
+        "50848",
+        "50851",
+        "50862"
       ]
     },
     {
@@ -52,17 +55,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50841"
-      ]
-    },
-    {
-      "name": "PRESCOTT PUBLIC LIBRARY",
-      "system": "PRESCOTT PUBLIC LIBRARY",
-      "address": "607 2ND ST, PRESCOTT, IA",
-      "website": "http://www.prescottlibrary.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
+        "50841",
+        "50857",
         "50859"
       ]
     },
@@ -74,17 +68,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50846"
-      ]
-    },
-    {
-      "name": "GREENFIELD PUBLIC LIBRARY",
-      "system": "GREENFIELD PUBLIC LIBRARY",
-      "address": "202 S FIRST ST, GREENFIELD, IA",
-      "website": "https://www.greenfieldpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
+        "50837",
+        "50846",
         "50849"
       ]
     },
@@ -96,29 +81,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50864"
-      ]
-    },
-    {
-      "name": "CUMBERLAND PUBLIC LIBRARY",
-      "system": "CUMBERLAND PUBLIC LIBRARY",
-      "address": "119 MAIN, CUMBERLAND, IA",
-      "website": "https://www.cumberlandlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50843"
-      ]
-    },
-    {
-      "name": "MASSENA PUBLIC LIBRARY",
-      "system": "MASSENA PUBLIC LIBRARY",
-      "address": "122 MAIN ST, MASSENA, IA",
-      "website": "https://massenapubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50853"
+        "50847",
+        "50864",
+        "51566",
+        "51573"
       ]
     },
     {
@@ -129,7 +95,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50840"
+        "50833",
+        "50836",
+        "50840",
+        "50848",
+        "50862"
       ]
     },
     {
@@ -140,7 +110,111 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50837",
+        "50849",
         "50858"
+      ]
+    },
+    {
+      "name": "ELLIOTT PUBLIC LIBRARY",
+      "system": "ELLIOTT PUBLIC LIBRARY",
+      "address": "401 MAIN ST, ELLIOTT, IA",
+      "website": "https://librarytechnology.org/library/16980",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50847",
+        "51532",
+        "51566",
+        "51573"
+      ]
+    },
+    {
+      "name": "LEWIS PUBLIC LIBRARY",
+      "system": "LEWIS PUBLIC LIBRARY",
+      "address": "412 W MAIN ST, LEWIS, IA",
+      "website": "https://www.countyoffice.org/lewis-public-library-lewis-ia-eae/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50274",
+        "50843",
+        "50853",
+        "51544",
+        "51552"
+      ]
+    },
+    {
+      "name": "GRISWOLD PUBLIC LIBRARY",
+      "system": "GRISWOLD PUBLIC LIBRARY",
+      "address": "505 MAIN ST, GRISWOLD, IA",
+      "website": "https://www.griswoldpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50274",
+        "50843",
+        "50853",
+        "51535",
+        "51552"
+      ]
+    },
+    {
+      "name": "NEW MARKET PUBLIC LIBRARY",
+      "system": "NEW MARKET PUBLIC LIBRARY",
+      "address": "407 MAIN ST, NEW MARKET, IA",
+      "website": "https://newmarketia.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50833",
+        "50836",
+        "50848",
+        "50862",
+        "51646"
+      ]
+    },
+    {
+      "name": "ADAIR PUBLIC LIBRARY",
+      "system": "ADAIR PUBLIC LIBRARY",
+      "address": "310 AUDUBON, ADAIR, IA",
+      "website": "https://www.adair.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50002",
+        "50837",
+        "50849"
+      ]
+    },
+    {
+      "name": "ANITA PUBLIC LIBRARY",
+      "system": "ANITA PUBLIC LIBRARY",
+      "address": "812 3RD ST, ANITA, IA",
+      "website": "https://www.anitalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50020",
+        "50274",
+        "50843",
+        "50853",
+        "51552"
+      ]
+    },
+    {
+      "name": "ATLANTIC PUBLIC LIBRARY",
+      "system": "ATLANTIC PUBLIC LIBRARY",
+      "address": "507 POPLAR ST, ATLANTIC, IA",
+      "website": "https://www.atlantic.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50022",
+        "50274",
+        "50843",
+        "50853",
+        "51552"
       ]
     }
   ]

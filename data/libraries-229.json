@@ -1,6 +1,51 @@
 {
   "libraries": [
     {
+      "name": "MADISON COUNTY LIBRARY, INC.",
+      "system": "MADISON COUNTY LIBRARY, INC.",
+      "address": "402 N MAIN ST, MADISON, VA",
+      "website": "https://madisoncountyvalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22709",
+        "22711",
+        "22715",
+        "22719",
+        "22722",
+        "22723",
+        "22727",
+        "22730",
+        "22731",
+        "22732",
+        "22735",
+        "22738",
+        "22743",
+        "227XX",
+        "22948",
+        "22989"
+      ]
+    },
+    {
+      "name": "ORANGE COUNTY PUBLIC LIBRARY",
+      "system": "ORANGE COUNTY PUBLIC LIBRARY",
+      "address": "146A MADISON ROAD, ORANGE, VA",
+      "website": "https://www.orangecountync.gov/3009/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22433",
+        "22508",
+        "22542",
+        "22567",
+        "22923",
+        "22942",
+        "22957",
+        "22960",
+        "22972"
+      ]
+    },
+    {
       "name": "AUGUSTA COUNTY LIBRARY",
       "system": "AUGUSTA COUNTY LIBRARY",
       "address": "1759 JEFFERSON HWY., FISHERSVILLE, VA",
@@ -8,7 +53,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "22939"
+        "22843",
+        "22939",
+        "22952",
+        "24421",
+        "24430",
+        "24431",
+        "24432",
+        "24437",
+        "24440",
+        "24459",
+        "24463",
+        "24467",
+        "24475",
+        "24477",
+        "24479",
+        "24482",
+        "24485",
+        "24486"
       ]
     },
     {
@@ -19,7 +81,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "22963"
+        "22963",
+        "22974",
+        "23022",
+        "23055",
+        "23084"
       ]
     },
     {
@@ -31,17 +97,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "22902"
-      ]
-    },
-    {
-      "name": "ORANGE COUNTY PUBLIC LIBRARY",
-      "system": "ORANGE COUNTY PUBLIC LIBRARY",
-      "address": "146A MADISON ROAD, ORANGE, VA",
-      "website": "https://www.orangecountync.gov/3009/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "22960"
       ]
     },
     {

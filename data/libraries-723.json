@@ -1,6 +1,25 @@
 {
   "libraries": [
     {
+      "name": "TRUMANN PUBLIC LIBRARY",
+      "system": "TRUMANN PUBLIC LIBRARY",
+      "address": "1200 WEST MAIN, TRUMANN, AR",
+      "website": "https://cityoftrumannar.gov/departments/trumann-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72354",
+        "72365",
+        "72377",
+        "72386",
+        "72429",
+        "72432",
+        "72472",
+        "72475",
+        "72479"
+      ]
+    },
+    {
       "name": "PHILLIPS LEE MONROE REGIONAL LIBRARY SYSTEM",
       "system": "PHILLIPS LEE MONROE REGIONAL LIBRARY SYSTEM",
       "address": "702 PORTER ST, HELENA, AR",
@@ -8,7 +27,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72342"
+        "72328",
+        "72333",
+        "72342",
+        "72353",
+        "72355",
+        "72366",
+        "72367",
+        "72369",
+        "72374",
+        "72383",
+        "72389",
+        "72390"
       ]
     },
     {
@@ -19,6 +49,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "72324",
+        "72347",
+        "72373",
+        "72387",
         "72396"
       ]
     },
@@ -30,7 +64,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72301"
+        "72301",
+        "72327",
+        "72331",
+        "72332",
+        "72339",
+        "72364",
+        "72376",
+        "72384",
+        "723HH"
       ]
     },
     {
@@ -41,7 +83,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72335"
+        "72322",
+        "72326",
+        "72335",
+        "72340",
+        "72346",
+        "72348",
+        "72359",
+        "72372",
+        "72392",
+        "72394"
       ]
     },
     {
@@ -52,7 +103,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72315"
+        "72315",
+        "72321",
+        "72329",
+        "72330",
+        "72338",
+        "72350",
+        "72351",
+        "72358",
+        "72370",
+        "72395",
+        "72426",
+        "72428",
+        "72438",
+        "72442"
       ]
     }
   ]

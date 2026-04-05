@@ -3,12 +3,22 @@
     {
       "name": "CALHOUN COUNTY PUBLIC LIBRARY",
       "system": "CALHOUN COUNTY PUBLIC LIBRARY",
-      "address": "250 MILL STREET, GRANTSVILLE, WV",
+      "address": "200 W MAHAN ST, PORT LAVACA, TX",
       "website": "https://cclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26147"
+        "25234",
+        "25235",
+        "25261",
+        "25268",
+        "26136",
+        "26137",
+        "26141",
+        "26147",
+        "26151",
+        "26152",
+        "77979"
       ]
     },
     {
@@ -19,7 +29,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26143"
+        "26138",
+        "26143",
+        "26160"
       ]
     },
     {
@@ -30,7 +42,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26104"
+        "26101",
+        "26104",
+        "26133",
+        "26142",
+        "26150",
+        "26169",
+        "26180",
+        "26181",
+        "26184",
+        "26187"
       ]
     },
     {
@@ -41,6 +62,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "26134",
         "26170"
       ]
     },
@@ -52,7 +74,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26105"
+        "26101",
+        "26105",
+        "26133",
+        "26142",
+        "26150",
+        "26169",
+        "26180",
+        "26181",
+        "26184",
+        "26187"
       ]
     },
     {
@@ -63,7 +94,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26155"
+        "26155",
+        "26162",
+        "26167",
+        "26186",
+        "26348",
+        "26377",
+        "26437",
+        "26562",
+        "26581"
       ]
     },
     {
@@ -74,7 +113,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26159"
+        "26159",
+        "26162",
+        "26167",
+        "26186",
+        "26348",
+        "26377",
+        "26437",
+        "26562",
+        "26581"
       ]
     },
     {
@@ -85,7 +132,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26175"
+        "26146",
+        "26175",
+        "26320"
       ]
     },
     {
@@ -96,7 +145,92 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26149"
+        "26146",
+        "26149",
+        "26320"
+      ]
+    },
+    {
+      "name": "RITCHIE COUNTY PUBLIC LIBRARY",
+      "system": "RITCHIE COUNTY PUBLIC LIBRARY",
+      "address": "608 E. MAIN ST., HARRISVILLE, WV",
+      "website": "https://www.ritchielibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26148",
+        "26161",
+        "26178",
+        "26325",
+        "26327",
+        "26337",
+        "26346",
+        "26362",
+        "26415",
+        "26421"
+      ]
+    },
+    {
+      "name": "JACKSON COUNTY PUBLIC LIBRARY",
+      "system": "JACKSON COUNTY PUBLIC LIBRARY",
+      "address": "208 N. CHURCH ST., RIPLEY, WV",
+      "website": "https://www.myjclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25231",
+        "25239",
+        "25241",
+        "25244",
+        "25245",
+        "25248",
+        "25252",
+        "25262",
+        "25264",
+        "25271",
+        "25275",
+        "25279",
+        "252HH",
+        "26164",
+        "261HH"
+      ]
+    },
+    {
+      "name": "HUNDRED PUBLIC LIBRARY",
+      "system": "HUNDRED PUBLIC LIBRARY",
+      "address": "3527 HORNET HIGHWAY, HUNDRED, WV",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Hundred Public Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26162",
+        "26167",
+        "26186",
+        "26348",
+        "26377",
+        "26437",
+        "26562",
+        "26575",
+        "26581"
+      ]
+    },
+    {
+      "name": "PINE GROVE PUBLIC LIBRARY",
+      "system": "PINE GROVE PUBLIC LIBRARY",
+      "address": "756 ALLEY ADDITION, PINE GROVE, WV",
+      "website": "https://citylibrary.com/public-libraries/pine-grove-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26162",
+        "26167",
+        "26186",
+        "26348",
+        "26377",
+        "26419",
+        "26437",
+        "26562",
+        "26581"
       ]
     }
   ]

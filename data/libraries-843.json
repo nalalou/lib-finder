@@ -1,58 +1,24 @@
 {
   "libraries": [
     {
-      "name": "BOX ELDER COUNTY BOOKMOBILE LIBRARY",
-      "system": "BOX ELDER COUNTY BOOKMOBILE LIBRARY",
-      "address": "80 WEST 50 SOUTH, WILLARD, UT",
-      "website": "https://www.boxeldercountyut.gov/194/Bookmobile",
+      "name": "WEBER COUNTY LIBRARY SYSTEM",
+      "system": "WEBER COUNTY LIBRARY SYSTEM",
+      "address": "2039 W 4000 S, ROY, UT",
+      "website": "https://www.weberpl.lib.ut.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84340"
-      ]
-    },
-    {
-      "name": "BRIGHAM CITY LIBRARY",
-      "system": "BRIGHAM CITY LIBRARY",
-      "address": "26 EAST FOREST STREET, BRIGHAM CITY, UT",
-      "website": "https://library.bcutah.gov/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "84302"
-      ]
-    },
-    {
-      "name": "GARLAND PUBLIC LIBRARY",
-      "system": "GARLAND PUBLIC LIBRARY",
-      "address": "86 WEST FACTORY ROAD, GARLAND, UT",
-      "website": "https://garland.lib.utah.gov/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "84312"
-      ]
-    },
-    {
-      "name": "TREMONTON CITY LIBRARY",
-      "system": "TREMONTON CITY LIBRARY",
-      "address": "210 NORTH TREMONT STREET, TREMONTON, UT",
-      "website": "https://tremontoncity.lib.utah.gov/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "84337"
-      ]
-    },
-    {
-      "name": "HYRUM LIBRARY",
-      "system": "HYRUM LIBRARY",
-      "address": "50 W MAIN STREET, HYRUM, UT",
-      "website": "https://www.hyrumcity.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "84319"
+        "84067",
+        "84310",
+        "84315",
+        "84317",
+        "843XX",
+        "84401",
+        "84403",
+        "84404",
+        "84405",
+        "84414",
+        "844HH"
       ]
     },
     {
@@ -63,7 +29,140 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84320"
+        "84304",
+        "84305",
+        "84318",
+        "84320",
+        "84326",
+        "84328",
+        "84332",
+        "84333",
+        "84338",
+        "84339"
+      ]
+    },
+    {
+      "name": "BOX ELDER COUNTY BOOKMOBILE LIBRARY",
+      "system": "BOX ELDER COUNTY BOOKMOBILE LIBRARY",
+      "address": "80 WEST 50 SOUTH, WILLARD, UT",
+      "website": "https://www.boxeldercountyut.gov/194/Bookmobile",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84301",
+        "84306",
+        "84307",
+        "84309",
+        "84311",
+        "84313",
+        "84314",
+        "84316",
+        "84324",
+        "84329",
+        "84330",
+        "84331",
+        "84334",
+        "84336",
+        "84340",
+        "843HH"
+      ]
+    },
+    {
+      "name": "BRIGHAM CITY LIBRARY",
+      "system": "BRIGHAM CITY LIBRARY",
+      "address": "26 EAST FOREST STREET, BRIGHAM CITY, UT",
+      "website": "https://library.bcutah.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84301",
+        "84302",
+        "84306",
+        "84307",
+        "84309",
+        "84311",
+        "84313",
+        "84314",
+        "84316",
+        "84324",
+        "84329",
+        "84330",
+        "84331",
+        "84334",
+        "84336",
+        "843HH"
+      ]
+    },
+    {
+      "name": "GARLAND PUBLIC LIBRARY",
+      "system": "GARLAND PUBLIC LIBRARY",
+      "address": "86 WEST FACTORY ROAD, GARLAND, UT",
+      "website": "https://garland.lib.utah.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84301",
+        "84306",
+        "84307",
+        "84309",
+        "84311",
+        "84312",
+        "84313",
+        "84314",
+        "84316",
+        "84324",
+        "84329",
+        "84330",
+        "84331",
+        "84334",
+        "84336",
+        "843HH"
+      ]
+    },
+    {
+      "name": "TREMONTON CITY LIBRARY",
+      "system": "TREMONTON CITY LIBRARY",
+      "address": "210 NORTH TREMONT STREET, TREMONTON, UT",
+      "website": "https://tremontoncity.lib.utah.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84301",
+        "84306",
+        "84307",
+        "84309",
+        "84311",
+        "84313",
+        "84314",
+        "84316",
+        "84324",
+        "84329",
+        "84330",
+        "84331",
+        "84334",
+        "84336",
+        "84337",
+        "843HH"
+      ]
+    },
+    {
+      "name": "HYRUM LIBRARY",
+      "system": "HYRUM LIBRARY",
+      "address": "50 W MAIN STREET, HYRUM, UT",
+      "website": "https://www.hyrumcity.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84304",
+        "84305",
+        "84318",
+        "84319",
+        "84326",
+        "84328",
+        "84332",
+        "84333",
+        "84338",
+        "84339"
       ]
     },
     {
@@ -74,18 +173,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84321"
-      ]
-    },
-    {
-      "name": "RICHMOND PUBLIC LIBRARY",
-      "system": "RICHMOND PUBLIC LIBRARY",
-      "address": "38 WEST MAIN STREET, RICHMOND, UT",
-      "website": "https://rvalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "84333"
+        "84304",
+        "84305",
+        "84318",
+        "84321",
+        "84326",
+        "84328",
+        "84332",
+        "84333",
+        "84338",
+        "84339"
       ]
     },
     {
@@ -96,7 +193,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84335"
+        "84304",
+        "84305",
+        "84318",
+        "84326",
+        "84328",
+        "84332",
+        "84333",
+        "84335",
+        "84338",
+        "84339"
       ]
     },
     {
@@ -107,6 +213,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "84304",
+        "84305",
+        "84318",
+        "84326",
+        "84328",
+        "84332",
+        "84333",
+        "84338",
+        "84339",
         "84341"
       ]
     },
@@ -118,7 +233,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84327"
+        "84304",
+        "84305",
+        "84318",
+        "84326",
+        "84327",
+        "84328",
+        "84332",
+        "84333",
+        "84338",
+        "84339"
       ]
     },
     {
@@ -129,7 +253,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84325"
+        "84304",
+        "84305",
+        "84318",
+        "84325",
+        "84326",
+        "84328",
+        "84332",
+        "84333",
+        "84338",
+        "84339"
       ]
     }
   ]

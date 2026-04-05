@@ -1,28 +1,6 @@
 {
   "libraries": [
     {
-      "name": "KINGSPORT PUBLIC LIBRARY",
-      "system": "KINGSPORT PUBLIC LIBRARY",
-      "address": "400 BROAD STREET, KINGSPORT (S), TN",
-      "website": "https://www.kingsportlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37660"
-      ]
-    },
-    {
-      "name": "ELIZABETHTON CARTER COUNTY PUBLIC LIBRARY",
-      "system": "ELIZABETHTON CARTER COUNTY PUBLIC LIBRARY",
-      "address": "201 N. SYCAMORE STREET, ELIZABETHTON, TN",
-      "website": "https://mainstreetelizabethton.com/business/elizabethton-carter-county-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37643"
-      ]
-    },
-    {
       "name": "WASHINGTON COUNTY PUBLIC LIBRARY",
       "system": "WASHINGTON COUNTY PUBLIC LIBRARY",
       "address": "200 SABIN DRIVE, JONESBOROUGH, TN",
@@ -30,40 +8,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "24202",
+        "24210",
+        "24211",
+        "24236",
+        "24270",
+        "24327",
+        "24340",
+        "24361",
         "37659"
-      ]
-    },
-    {
-      "name": "SULLIVAN COUNTY PUBLIC LIBRARY",
-      "system": "SULLIVAN COUNTY PUBLIC LIBRARY",
-      "address": "1655 BLOUNTVILLE BOULEVARD, BLOUNTVILLE, TN",
-      "website": "http://www.sullivan.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37617"
-      ]
-    },
-    {
-      "name": "JOHNSON CITY PUBLIC LIBRARY",
-      "system": "JOHNSON CITY PUBLIC LIBRARY",
-      "address": "100 WEST MILLARD STREET, JOHNSON CITY, TN",
-      "website": "https://www.jcpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37604"
-      ]
-    },
-    {
-      "name": "UNICOI COUNTY PUBLIC LIBRARY",
-      "system": "UNICOI COUNTY PUBLIC LIBRARY",
-      "address": "201 NOLICHUCKY AVENUE, ERWIN, TN",
-      "website": "https://www.wrlibrary.org/Libraries/unpage.html",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37650"
       ]
     },
     {
@@ -74,7 +27,127 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37683"
+        "37640",
+        "37680",
+        "37683",
+        "37688",
+        "37691"
+      ]
+    },
+    {
+      "name": "MOSHEIM PUBLIC LIBRARY",
+      "system": "MOSHEIM PUBLIC LIBRARY",
+      "address": "730 MAIN STREET, MOSHEIM, TN",
+      "website": "http://www.mosheimlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37616",
+        "37641",
+        "37743",
+        "37744",
+        "37809",
+        "37810",
+        "37818"
+      ]
+    },
+    {
+      "name": "SULLIVAN COUNTY PUBLIC LIBRARY",
+      "system": "SULLIVAN COUNTY PUBLIC LIBRARY",
+      "address": "100 SOUTH CROWDER STREET, SULLIVAN, IN",
+      "website": "http://www.sullivan.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37617",
+        "37618",
+        "37620",
+        "37663",
+        "37664",
+        "37665",
+        "37686",
+        "47882"
+      ]
+    },
+    {
+      "name": "GREENEVILLE-GREENE COUNTY PUBLIC LIBRARY",
+      "system": "GREENEVILLE-GREENE COUNTY PUBLIC LIBRARY",
+      "address": "210 N. MAIN STREET, GREENEVILLE, TN",
+      "website": "https://www.ggcpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37616",
+        "37641",
+        "37743",
+        "37744",
+        "37745",
+        "37809",
+        "37810"
+      ]
+    },
+    {
+      "name": "KINGSPORT PUBLIC LIBRARY",
+      "system": "KINGSPORT PUBLIC LIBRARY",
+      "address": "400 BROAD STREET, KINGSPORT (S), TN",
+      "website": "https://www.kingsportlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37617",
+        "37618",
+        "37620",
+        "37660",
+        "37663",
+        "37664",
+        "37665",
+        "37686"
+      ]
+    },
+    {
+      "name": "ELIZABETHTON CARTER COUNTY PUBLIC LIBRARY",
+      "system": "ELIZABETHTON CARTER COUNTY PUBLIC LIBRARY",
+      "address": "201 N. SYCAMORE STREET, ELIZABETHTON, TN",
+      "website": "https://mainstreetelizabethton.com/business/elizabethton-carter-county-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37643",
+        "37658",
+        "37687",
+        "37694",
+        "376HH"
+      ]
+    },
+    {
+      "name": "JOHNSON CITY PUBLIC LIBRARY",
+      "system": "JOHNSON CITY PUBLIC LIBRARY",
+      "address": "100 WEST MILLARD STREET, JOHNSON CITY, TN",
+      "website": "https://www.jcpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37601",
+        "37604",
+        "37614",
+        "37615",
+        "37656",
+        "37681",
+        "37684",
+        "37690"
+      ]
+    },
+    {
+      "name": "UNICOI COUNTY PUBLIC LIBRARY",
+      "system": "UNICOI COUNTY PUBLIC LIBRARY",
+      "address": "201 NOLICHUCKY AVENUE, ERWIN, TN",
+      "website": "https://www.wrlibrary.org/Libraries/unpage.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37650",
+        "37657",
+        "37692"
       ]
     },
     {
@@ -85,7 +158,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37645"
+        "37645",
+        "37711",
+        "37731",
+        "37811",
+        "37873"
       ]
     }
   ]

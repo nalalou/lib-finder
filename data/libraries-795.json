@@ -1,6 +1,106 @@
 {
   "libraries": [
     {
+      "name": "CARNEGIE LIBRARY OF BALLINGER",
+      "system": "CARNEGIE LIBRARY OF BALLINGER",
+      "address": "204 N 8TH ST, BALLINGER, TX",
+      "website": "https://www.baltx.org/carnegie-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76821",
+        "76861",
+        "76865",
+        "76875",
+        "79566"
+      ]
+    },
+    {
+      "name": "COLEMAN PUBLIC LIBRARY",
+      "system": "COLEMAN PUBLIC LIBRARY",
+      "address": "402 S COMMERCIAL AVE, COLEMAN, TX",
+      "website": "http://www.cityofcolemantx.us/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76828",
+        "76834",
+        "76845",
+        "76873",
+        "76878",
+        "76882",
+        "76884",
+        "76888",
+        "79519",
+        "79538"
+      ]
+    },
+    {
+      "name": "CROSS PLAINS PUBLIC LIBRARY",
+      "system": "CROSS PLAINS PUBLIC LIBRARY",
+      "address": "149 N MAIN ST, CROSS PLAINS, TX",
+      "website": "https://www.crossplainslibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76443",
+        "76469",
+        "79504",
+        "79510"
+      ]
+    },
+    {
+      "name": "HOWARD COUNTY LIBRARY",
+      "system": "HOWARD COUNTY LIBRARY",
+      "address": "500 S MAIN ST, BIG SPRING, TX",
+      "website": "https://www.chamberofcommerce.com/united-states/texas/big-spring/public-library/6426358-howard-county-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79511",
+        "79720",
+        "79733",
+        "79748"
+      ]
+    },
+    {
+      "name": "ABILENE PUBLIC LIBRARY",
+      "system": "ABILENE PUBLIC LIBRARY",
+      "address": "209 NW 4TH, ABILENE, KS",
+      "website": "http://abilene.lib.nckls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67410",
+        "79508",
+        "79530",
+        "79541",
+        "79561",
+        "79562",
+        "79563",
+        "79601",
+        "79602",
+        "79603",
+        "79605",
+        "79606",
+        "79607"
+      ]
+    },
+    {
+      "name": "MUNDAY CITY-COUNTY LIBRARY",
+      "system": "MUNDAY CITY-COUNTY LIBRARY",
+      "address": "131 S MUNDAY AVE, MUNDAY, TX",
+      "website": "https://www.mundaytexas.com/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76363",
+        "76371",
+        "79505",
+        "79529"
+      ]
+    },
+    {
       "name": "ANSON PUBLIC LIBRARY",
       "system": "ANSON PUBLIC LIBRARY",
       "address": "1137 12TH ST, ANSON, TX",
@@ -8,7 +108,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79501"
+        "79501",
+        "79503",
+        "79520",
+        "79525",
+        "79533"
       ]
     },
     {
@@ -19,7 +123,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79502"
+        "79502",
+        "79540"
       ]
     },
     {
@@ -30,7 +135,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79521"
+        "76388",
+        "79521",
+        "79539",
+        "79544",
+        "79547",
+        "79548"
       ]
     },
     {
@@ -41,6 +151,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79518",
         "79528"
       ]
     },
@@ -52,7 +163,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79546"
+        "79534",
+        "79543",
+        "79546",
+        "79560"
       ]
     },
     {
@@ -63,6 +177,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79517",
+        "79526",
+        "79527",
         "79549"
       ]
     },
@@ -74,6 +191,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79503",
+        "79520",
+        "79525",
+        "79533",
         "79553"
       ]
     },
@@ -85,6 +206,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79506",
+        "79535",
+        "79537",
+        "79545",
         "79556"
       ]
     },
@@ -96,17 +221,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "76861",
+        "76865",
+        "76875",
+        "79566",
         "79567"
       ]
     },
     {
       "name": "CLYDE PUBLIC LIBRARY",
       "system": "CLYDE PUBLIC LIBRARY",
-      "address": "125 OAK ST, CLYDE, TX",
+      "address": "222 W. BUCKEYE ST., CLYDE, OH",
       "website": "https://www.clyde-tx.gov/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "43410",
+        "76469",
+        "79504",
         "79510"
       ]
     },
@@ -118,7 +250,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79512"
+        "79512",
+        "79532",
+        "79565"
       ]
     },
     {
@@ -129,7 +263,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79536"
+        "79508",
+        "79530",
+        "79536",
+        "79541",
+        "79561",
+        "79562",
+        "79563",
+        "79601",
+        "79602",
+        "79603",
+        "79605",
+        "79606",
+        "79607"
       ]
     }
   ]

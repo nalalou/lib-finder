@@ -1,6 +1,208 @@
 {
   "libraries": [
     {
+      "name": "FLORENCE PUBLIC LIBRARY",
+      "system": "FLORENCE PUBLIC LIBRARY",
+      "address": "324 MAIN ST., FLORENCE, KS",
+      "website": "https://florenceks.com/text/city/city_library.htm",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66851",
+        "76527",
+        "76530",
+        "76574",
+        "76578",
+        "78615",
+        "78626",
+        "78628",
+        "78681",
+        "78717",
+        "78729"
+      ]
+    },
+    {
+      "name": "GOESSEL PUBLIC LIBRARY",
+      "system": "GOESSEL PUBLIC LIBRARY",
+      "address": "101 S. CEDAR, GOESSEL, KS",
+      "website": "https://librarytechnology.org/library/18204",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66858",
+        "66859",
+        "67053",
+        "67063",
+        "67073",
+        "67438",
+        "67475",
+        "67483"
+      ]
+    },
+    {
+      "name": "LEON PUBLIC LIBRARY",
+      "system": "LEON PUBLIC LIBRARY",
+      "address": "200 W 1ST ST, LEON, IA",
+      "website": "https://cityofleon.org/library-2",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50144",
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67144"
+      ]
+    },
+    {
+      "name": "DOUGLASS PUBLIC LIBRARY",
+      "system": "DOUGLASS PUBLIC LIBRARY",
+      "address": "319 S. FOREST, DOUGLASS, KS",
+      "website": "https://douglass.scklslibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67039",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67144"
+      ]
+    },
+    {
+      "name": "AUGUSTA PUBLIC LIBRARY",
+      "system": "AUGUSTA PUBLIC LIBRARY",
+      "address": "1609 STATE ST., AUGUSTA, KS",
+      "website": "https://www.augustapubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66842",
+        "67002",
+        "67010",
+        "67012",
+        "67017",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67144"
+      ]
+    },
+    {
+      "name": "BRADFORD MEMORIAL LIBRARY",
+      "system": "BRADFORD MEMORIAL LIBRARY",
+      "address": "611 S. WASHINGTON, EL DORADO, KS",
+      "website": "https://bradford.scklslibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67041",
+        "67042",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67144"
+      ]
+    },
+    {
+      "name": "EUREKA PUBLIC LIBRARY",
+      "system": "EUREKA PUBLIC LIBRARY",
+      "address": "606 NORTH MAIN, EUREKA, KS",
+      "website": "http://eurekapubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66860",
+        "66863",
+        "66870",
+        "67045",
+        "67122",
+        "67137"
+      ]
+    },
+    {
+      "name": "POTWIN PUBLIC LIBRARY",
+      "system": "POTWIN PUBLIC LIBRARY",
+      "address": "126 N. RANDALL, POTWIN, KS",
+      "website": "https://potwinks.com/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67123",
+        "67132",
+        "67144"
+      ]
+    },
+    {
+      "name": "WHITEWATER MEMORIAL LIBRARY",
+      "system": "WHITEWATER MEMORIAL LIBRARY",
+      "address": "118 EAST TOPEKA, WHITEWATER, KS",
+      "website": "https://whitewaterks.gov/whitewater-memorial-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67144",
+        "67154"
+      ]
+    },
+    {
+      "name": "ROSE HILL PUBLIC LIBRARY",
+      "system": "ROSE HILL PUBLIC LIBRARY",
+      "address": "306 N ROSE HILL RD, ROSE HILL, KS",
+      "website": "https://rosehill.scklslibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67133",
+        "67144"
+      ]
+    },
+    {
       "name": "BURNS PUBLIC LIBRARY",
       "system": "BURNS PUBLIC LIBRARY",
       "address": "104 NORTH WASHINGTON AVE, BURNS, KS",
@@ -8,7 +210,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66840"
+        "66840",
+        "66858",
+        "66859",
+        "67063",
+        "67073",
+        "67438",
+        "67475",
+        "67483"
       ]
     },
     {
@@ -19,6 +228,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66838",
         "66849"
       ]
     },
@@ -30,6 +240,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66838",
         "66873"
       ]
     },
@@ -41,18 +252,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66838",
         "66872"
-      ]
-    },
-    {
-      "name": "FLORENCE PUBLIC LIBRARY",
-      "system": "FLORENCE PUBLIC LIBRARY",
-      "address": "324 MAIN ST., FLORENCE, KS",
-      "website": "https://florenceks.com/text/city/city_library.htm",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66851"
       ]
     },
     {
@@ -63,7 +264,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66845"
+        "66843",
+        "66845",
+        "66850",
+        "66862",
+        "66869",
+        "668HH"
       ]
     },
     {
@@ -74,7 +280,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66854"
+        "66830",
+        "66854",
+        "66864",
+        "66865",
+        "66868"
       ]
     },
     {
@@ -85,7 +295,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66835"
+        "66830",
+        "66835",
+        "66864",
+        "66865",
+        "66868"
       ]
     },
     {
@@ -96,7 +310,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66866"
+        "66858",
+        "66859",
+        "66866",
+        "67063",
+        "67073",
+        "67438",
+        "67475",
+        "67483"
       ]
     },
     {
@@ -107,7 +328,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66861"
+        "66858",
+        "66859",
+        "66861",
+        "67063",
+        "67073",
+        "67438",
+        "67475",
+        "67483"
       ]
     },
     {
@@ -118,6 +346,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66838",
         "66846"
       ]
     },
@@ -129,7 +358,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66801"
+        "66801",
+        "66830",
+        "66864",
+        "66865",
+        "66868"
       ]
     },
     {
@@ -140,7 +373,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66833"
+        "66830",
+        "66833",
+        "66864",
+        "66865",
+        "66868"
       ]
     },
     {
@@ -151,18 +388,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66853"
-      ]
-    },
-    {
-      "name": "MADISON PUBLIC LIBRARY",
-      "system": "MADISON PUBLIC LIBRARY",
-      "address": "110 SOUTH 1ST ST., MADISON, KS",
-      "website": "http://www.madisonpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66860"
+        "66853",
+        "66860",
+        "66863",
+        "66870",
+        "67122",
+        "67137"
       ]
     },
     {
@@ -173,7 +404,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66839"
+        "66839",
+        "66852",
+        "66856",
+        "66857",
+        "66871"
       ]
     }
   ]

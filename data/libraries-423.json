@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "DAVIESS COUNTY PUBLIC LIBRARY DISTRICT",
-      "system": "DAVIESS COUNTY PUBLIC LIBRARY DISTRICT",
-      "address": "2020 FREDERICA STREET, OWENSBORO, KY",
-      "website": "https://www.dcplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "42301"
-      ]
-    },
-    {
       "name": "HANCOCK COUNTY PUBLIC LIBRARY",
       "system": "HANCOCK COUNTY PUBLIC LIBRARY",
       "address": "1210 MADISON STREET, HAWESVILLE, KY",
@@ -19,6 +8,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37765",
+        "37869",
         "42348"
       ]
     },
@@ -30,7 +21,43 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "26003",
+        "26059",
+        "26060",
+        "26074",
         "42347"
+      ]
+    },
+    {
+      "name": "BUTLER COUNTY PUBLIC LIBRARY",
+      "system": "BUTLER COUNTY PUBLIC LIBRARY",
+      "address": "116 WEST OHIO STREET, MORGANTOWN, KY",
+      "website": "https://librarytechnology.org/library/18515",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "42261",
+        "42273",
+        "42275",
+        "42287",
+        "422HH",
+        "423HH"
+      ]
+    },
+    {
+      "name": "DAVIESS COUNTY PUBLIC LIBRARY DISTRICT",
+      "system": "DAVIESS COUNTY PUBLIC LIBRARY DISTRICT",
+      "address": "2020 FREDERICA STREET, OWENSBORO, KY",
+      "website": "https://www.dcplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "42301",
+        "42303",
+        "42355",
+        "42366",
+        "42376",
+        "42378"
       ]
     },
     {
@@ -41,7 +68,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42345"
+        "42321",
+        "42323",
+        "42324",
+        "42325",
+        "42326",
+        "42330",
+        "42332",
+        "42337",
+        "42339",
+        "42344",
+        "42345",
+        "42365",
+        "42374",
+        "423XX"
       ]
     },
     {
@@ -52,7 +92,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42352"
+        "42327",
+        "42350",
+        "42352",
+        "42371",
+        "42372"
       ]
     }
   ]

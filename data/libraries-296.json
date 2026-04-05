@@ -1,6 +1,23 @@
 {
   "libraries": [
     {
+      "name": "LAURENS COUNTY LIBRARY SYSTEM",
+      "system": "LAURENS COUNTY LIBRARY SYSTEM",
+      "address": "1017 WEST MAIN STREET, LAURENS, SC",
+      "website": "https://www.lcpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29325",
+        "29332",
+        "29351",
+        "29360",
+        "29370",
+        "29384",
+        "29645"
+      ]
+    },
+    {
       "name": "ANDERSON COUNTY LIBRARY",
       "system": "ANDERSON COUNTY LIBRARY",
       "address": "300 N MCDUFFIE STREET, ANDERSON, SC",
@@ -8,7 +25,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29621"
+        "29621",
+        "29624",
+        "29625",
+        "29626",
+        "29627",
+        "29654",
+        "29655",
+        "29656",
+        "29669",
+        "29670",
+        "29677",
+        "29684",
+        "29689",
+        "29697"
       ]
     },
     {
@@ -19,7 +49,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29601"
+        "29601",
+        "29605",
+        "29607",
+        "29609",
+        "29611",
+        "29615",
+        "29617",
+        "29635",
+        "29644",
+        "29650",
+        "29651",
+        "29661",
+        "29662",
+        "29673",
+        "29680",
+        "29681",
+        "29683",
+        "29687",
+        "29688",
+        "29690"
       ]
     },
     {
@@ -30,7 +79,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29691"
+        "29643",
+        "29658",
+        "29664",
+        "29665",
+        "29672",
+        "29676",
+        "29678",
+        "29686",
+        "29691",
+        "29693",
+        "29696"
       ]
     },
     {
@@ -41,7 +100,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29640"
+        "29630",
+        "29631",
+        "29640",
+        "29642",
+        "29657",
+        "29667",
+        "29671",
+        "29682",
+        "29685"
       ]
     },
     {
@@ -52,7 +119,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29620"
+        "29620",
+        "29628",
+        "29638",
+        "29639",
+        "29659",
+        "296HH"
       ]
     },
     {
@@ -63,7 +135,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29646"
+        "29646",
+        "29649",
+        "29653",
+        "29666",
+        "29692",
+        "29819",
+        "29848"
       ]
     }
   ]

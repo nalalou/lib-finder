@@ -1,6 +1,221 @@
 {
   "libraries": [
     {
+      "name": "PLEASANTON PUBLIC LIBRARY",
+      "system": "PLEASANTON PUBLIC LIBRARY",
+      "address": "115 N MAIN ST, PLEASANTON, TX",
+      "website": "https://www.cityofpleasantonca.gov/your-community/pleasanton-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78008",
+        "78012",
+        "78050",
+        "78053",
+        "78064",
+        "78069"
+      ]
+    },
+    {
+      "name": "NEW BRAUNFELS PUBLIC LIBRARY",
+      "system": "NEW BRAUNFELS PUBLIC LIBRARY",
+      "address": "700 E COMMON ST, NEW BRAUNFELS, TX",
+      "website": "https://newbraunfels.gov/3078/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78070",
+        "78130",
+        "78132",
+        "781HH",
+        "78623"
+      ]
+    },
+    {
+      "name": "UNIVERSAL CITY PUBLIC LIBRARY",
+      "system": "UNIVERSAL CITY PUBLIC LIBRARY",
+      "address": "100 NORTHVIEW DR, UNIVERSAL CITY, TX",
+      "website": "https://www.universalcitytexas.gov/396/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78002",
+        "78015",
+        "78023",
+        "78073",
+        "78101",
+        "78112",
+        "78148",
+        "78152",
+        "78201",
+        "78202",
+        "78203",
+        "78204",
+        "78207",
+        "78208",
+        "78209",
+        "78210",
+        "78211",
+        "78212",
+        "78213",
+        "78214",
+        "78215",
+        "78216",
+        "78217",
+        "78218",
+        "78219",
+        "78220",
+        "78221",
+        "78222",
+        "78223",
+        "78224",
+        "78225",
+        "78226",
+        "78227",
+        "78228",
+        "78229",
+        "78230",
+        "78231",
+        "78232",
+        "78233",
+        "78234",
+        "78235",
+        "78236",
+        "78237",
+        "78239",
+        "78240",
+        "78242",
+        "78244",
+        "78245",
+        "78247",
+        "78248",
+        "78249",
+        "78250",
+        "78251",
+        "78252",
+        "78253",
+        "78254",
+        "78255",
+        "78256",
+        "78257",
+        "78258",
+        "78259",
+        "78260",
+        "78261",
+        "78263",
+        "78264",
+        "782HH",
+        "782XX"
+      ]
+    },
+    {
+      "name": "MAMMEN FAMILY PUBLIC LIBRARY",
+      "system": "MAMMEN FAMILY PUBLIC LIBRARY",
+      "address": "131 BULVERDE CROSSING RD, BULVERDE, TX",
+      "website": "https://mfplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78070",
+        "78132",
+        "78163",
+        "781HH",
+        "78623"
+      ]
+    },
+    {
+      "name": "TYE PRESTON MEMORIAL LIBRARY",
+      "system": "TYE PRESTON MEMORIAL LIBRARY",
+      "address": "16311 S ACCESS RD, CANYON LAKE, TX",
+      "website": "https://tpml.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78070",
+        "78132",
+        "78133",
+        "781HH",
+        "78623"
+      ]
+    },
+    {
+      "name": "CONVERSE PUBLIC LIBRARY",
+      "system": "CONVERSE PUBLIC LIBRARY",
+      "address": "601 S SEGUIN RD, CONVERSE, TX",
+      "website": "https://www.converselib.org/index.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78002",
+        "78015",
+        "78023",
+        "78073",
+        "78101",
+        "78109",
+        "78112",
+        "78152",
+        "78201",
+        "78202",
+        "78203",
+        "78204",
+        "78207",
+        "78208",
+        "78209",
+        "78210",
+        "78211",
+        "78212",
+        "78213",
+        "78214",
+        "78215",
+        "78216",
+        "78217",
+        "78218",
+        "78219",
+        "78220",
+        "78221",
+        "78222",
+        "78223",
+        "78224",
+        "78225",
+        "78226",
+        "78227",
+        "78228",
+        "78229",
+        "78230",
+        "78231",
+        "78232",
+        "78233",
+        "78234",
+        "78235",
+        "78236",
+        "78237",
+        "78239",
+        "78240",
+        "78242",
+        "78244",
+        "78245",
+        "78247",
+        "78248",
+        "78249",
+        "78250",
+        "78251",
+        "78252",
+        "78253",
+        "78254",
+        "78255",
+        "78256",
+        "78257",
+        "78258",
+        "78259",
+        "78260",
+        "78261",
+        "78263",
+        "78264",
+        "782HH",
+        "782XX"
+      ]
+    },
+    {
       "name": "DRISCOLL PUBLIC LIBRARY",
       "system": "DRISCOLL PUBLIC LIBRARY",
       "address": "202 E HONDO AVE, DEVINE, TX",
@@ -8,7 +223,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78016"
+        "78016",
+        "78039",
+        "78056",
+        "78066",
+        "78850",
+        "78886"
       ]
     },
     {
@@ -19,7 +239,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78022"
+        "78022",
+        "78071",
+        "78075",
+        "78383"
       ]
     },
     {
@@ -30,7 +253,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78026"
+        "78008",
+        "78012",
+        "78026",
+        "78050",
+        "78053",
+        "78069"
       ]
     },
     {
@@ -41,7 +269,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78027"
+        "78004",
+        "78027",
+        "78074"
       ]
     },
     {
@@ -52,7 +282,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78028"
+        "78010",
+        "78024",
+        "78025",
+        "78028",
+        "78058"
       ]
     },
     {
@@ -63,7 +297,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78041"
+        "78040",
+        "78041",
+        "78043",
+        "78045",
+        "78046",
+        "780XX",
+        "78344",
+        "78369",
+        "78371",
+        "783XX"
       ]
     },
     {
@@ -74,7 +317,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78003"
+        "78003",
+        "780HH",
+        "78883",
+        "78885"
       ]
     },
     {
@@ -85,7 +331,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78052"
+        "78008",
+        "78012",
+        "78050",
+        "78052",
+        "78053",
+        "78069"
       ]
     },
     {
@@ -96,18 +347,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "78005",
+        "78057",
         "78061"
-      ]
-    },
-    {
-      "name": "PLEASANTON PUBLIC LIBRARY",
-      "system": "PLEASANTON PUBLIC LIBRARY",
-      "address": "115 N MAIN ST, PLEASANTON, TX",
-      "website": "https://www.cityofpleasantonca.gov/your-community/pleasanton-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78064"
       ]
     },
     {
@@ -118,7 +360,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78065"
+        "78008",
+        "78012",
+        "78050",
+        "78053",
+        "78065",
+        "78069"
       ]
     },
     {
@@ -129,7 +376,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78006"
+        "78004",
+        "78006",
+        "78074"
       ]
     },
     {
@@ -140,6 +389,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "78067",
         "78076"
       ]
     },
@@ -151,7 +401,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78011"
+        "78008",
+        "78011",
+        "78012",
+        "78050",
+        "78053",
+        "78069"
       ]
     },
     {
@@ -162,7 +417,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78009"
+        "78009",
+        "78039",
+        "78056",
+        "78066",
+        "78850",
+        "78886"
       ]
     },
     {
@@ -173,7 +433,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78013"
+        "78004",
+        "78013",
+        "78074"
       ]
     },
     {
@@ -184,7 +446,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78014"
+        "78001",
+        "78014",
+        "78019",
+        "78021"
       ]
     },
     {
@@ -195,7 +460,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78017"
+        "78005",
+        "78017",
+        "78057"
       ]
     },
     {
@@ -206,7 +473,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78063"
+        "78063",
+        "780HH",
+        "78883",
+        "78885"
       ]
     },
     {
@@ -217,7 +487,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78055"
+        "78055",
+        "780HH",
+        "78883",
+        "78885"
       ]
     },
     {
@@ -228,7 +501,274 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78059"
+        "78039",
+        "78056",
+        "78059",
+        "78066",
+        "78850",
+        "78886"
+      ]
+    },
+    {
+      "name": "LEON VALLEY PUBLIC LIBRARY",
+      "system": "LEON VALLEY PUBLIC LIBRARY",
+      "address": "6425 EVERS RD, LEON VALLEY, TX",
+      "website": "https://librarytechnology.org/library/24409",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78002",
+        "78015",
+        "78023",
+        "78073",
+        "78101",
+        "78112",
+        "78152",
+        "78201",
+        "78202",
+        "78203",
+        "78204",
+        "78207",
+        "78208",
+        "78209",
+        "78210",
+        "78211",
+        "78212",
+        "78213",
+        "78214",
+        "78215",
+        "78216",
+        "78217",
+        "78218",
+        "78219",
+        "78220",
+        "78221",
+        "78222",
+        "78223",
+        "78224",
+        "78225",
+        "78226",
+        "78227",
+        "78228",
+        "78229",
+        "78230",
+        "78231",
+        "78232",
+        "78233",
+        "78234",
+        "78235",
+        "78236",
+        "78237",
+        "78238",
+        "78239",
+        "78240",
+        "78242",
+        "78244",
+        "78245",
+        "78247",
+        "78248",
+        "78249",
+        "78250",
+        "78251",
+        "78252",
+        "78253",
+        "78254",
+        "78255",
+        "78256",
+        "78257",
+        "78258",
+        "78259",
+        "78260",
+        "78261",
+        "78263",
+        "78264",
+        "782HH",
+        "782XX"
+      ]
+    },
+    {
+      "name": "SAN ANTONIO PUBLIC LIBRARY",
+      "system": "SAN ANTONIO PUBLIC LIBRARY",
+      "address": "600 SOLEDAD ST, SAN ANTONIO, TX",
+      "website": "http://mysapl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78002",
+        "78015",
+        "78023",
+        "78073",
+        "78101",
+        "78112",
+        "78152",
+        "78201",
+        "78202",
+        "78203",
+        "78204",
+        "78205",
+        "78207",
+        "78208",
+        "78209",
+        "78210",
+        "78211",
+        "78212",
+        "78213",
+        "78214",
+        "78215",
+        "78216",
+        "78217",
+        "78218",
+        "78219",
+        "78220",
+        "78221",
+        "78222",
+        "78223",
+        "78224",
+        "78225",
+        "78226",
+        "78227",
+        "78228",
+        "78229",
+        "78230",
+        "78231",
+        "78232",
+        "78233",
+        "78234",
+        "78235",
+        "78236",
+        "78237",
+        "78239",
+        "78240",
+        "78242",
+        "78244",
+        "78245",
+        "78247",
+        "78248",
+        "78249",
+        "78250",
+        "78251",
+        "78252",
+        "78253",
+        "78254",
+        "78255",
+        "78256",
+        "78257",
+        "78258",
+        "78259",
+        "78260",
+        "78261",
+        "78263",
+        "78264",
+        "782HH",
+        "782XX"
+      ]
+    },
+    {
+      "name": "CITY OF GARDEN RIDGE LIBRARY",
+      "system": "CITY OF GARDEN RIDGE LIBRARY",
+      "address": "9400 MUNICIPAL PKWY, GARDEN RIDGE, TX",
+      "website": "https://www.ci.garden-ridge.tx.us/103/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78070",
+        "78132",
+        "781HH",
+        "78266",
+        "78623"
+      ]
+    },
+    {
+      "name": "BIBLIOTECH",
+      "system": "BIBLIOTECH",
+      "address": "3505 PLEASANTON RD, SAN ANTONIO, TX",
+      "website": "https://bibliotech.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78002",
+        "78015",
+        "78023",
+        "78073",
+        "78101",
+        "78112",
+        "78152",
+        "78201",
+        "78202",
+        "78203",
+        "78204",
+        "78205",
+        "78207",
+        "78208",
+        "78209",
+        "78210",
+        "78211",
+        "78212",
+        "78213",
+        "78214",
+        "78215",
+        "78216",
+        "78217",
+        "78218",
+        "78219",
+        "78220",
+        "78221",
+        "78222",
+        "78223",
+        "78224",
+        "78225",
+        "78226",
+        "78227",
+        "78228",
+        "78229",
+        "78230",
+        "78231",
+        "78232",
+        "78233",
+        "78234",
+        "78235",
+        "78236",
+        "78237",
+        "78239",
+        "78240",
+        "78242",
+        "78244",
+        "78245",
+        "78247",
+        "78248",
+        "78249",
+        "78250",
+        "78251",
+        "78252",
+        "78253",
+        "78254",
+        "78255",
+        "78256",
+        "78257",
+        "78258",
+        "78259",
+        "78260",
+        "78261",
+        "78263",
+        "78264",
+        "782HH",
+        "782XX"
+      ]
+    },
+    {
+      "name": "HONDO PUBLIC LIBRARY",
+      "system": "HONDO PUBLIC LIBRARY",
+      "address": "2003 AVENUE K, HONDO, TX",
+      "website": "https://hondo-tx.org/251/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78039",
+        "78056",
+        "78066",
+        "78850",
+        "78861",
+        "78886"
       ]
     }
   ]

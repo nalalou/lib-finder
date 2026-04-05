@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "HENRICO COUNTY PUBLIC LIBRARY",
-      "system": "HENRICO COUNTY PUBLIC LIBRARY",
-      "address": "1700 NORTH PARHAM ROAD, HENRICO, VA",
-      "website": "https://henricolibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "23229"
-      ]
-    },
-    {
       "name": "RICHMOND PUBLIC LIBRARY",
       "system": "RICHMOND PUBLIC LIBRARY",
       "address": "101 EAST FRANKLIN STREET, RICHMOND, VA",
@@ -19,7 +8,52 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "22460",
+        "22548",
         "23219"
+      ]
+    },
+    {
+      "name": "CHESTERFIELD COUNTY PUBLIC LIBRARY",
+      "system": "CHESTERFIELD COUNTY PUBLIC LIBRARY",
+      "address": "9501 LORI ROAD, CHESTERFIELD, VA",
+      "website": "https://www.chesterfield.gov/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23112",
+        "23113",
+        "23120",
+        "23234",
+        "23235",
+        "23236",
+        "23237",
+        "23831",
+        "23832",
+        "23836",
+        "23838"
+      ]
+    },
+    {
+      "name": "HENRICO COUNTY PUBLIC LIBRARY",
+      "system": "HENRICO COUNTY PUBLIC LIBRARY",
+      "address": "1700 NORTH PARHAM ROAD, HENRICO, VA",
+      "website": "https://henricolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23059",
+        "23060",
+        "23075",
+        "23150",
+        "23227",
+        "23228",
+        "23229",
+        "23230",
+        "23231",
+        "23233",
+        "23294",
+        "232HH"
       ]
     }
   ]

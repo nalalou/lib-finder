@@ -1,6 +1,22 @@
 {
   "libraries": [
     {
+      "name": "NORTHWEST REGIONAL LIBRARY",
+      "system": "NORTHWEST REGIONAL LIBRARY",
+      "address": "210 LABREE AVENUE NORTH, THIEF RIVER FALLS, MN",
+      "website": "https://nwregional.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56701",
+        "57650",
+        "57651",
+        "57720",
+        "57724",
+        "57755"
+      ]
+    },
+    {
       "name": "A. H. BROWN PUBLIC LIBRARY",
       "system": "A. H. BROWN PUBLIC LIBRARY",
       "address": "521 N MAIN STREET, MOBRIDGE, SD",
@@ -8,7 +24,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57601"
+        "57420",
+        "57452",
+        "57472",
+        "57601",
+        "57631"
       ]
     },
     {
@@ -19,7 +39,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57626"
+        "57626",
+        "57706",
+        "57718",
+        "57736",
+        "57737",
+        "57758",
+        "57765",
+        "57777",
+        "57787",
+        "57792",
+        "577HH"
       ]
     },
     {
@@ -30,7 +60,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57638"
+        "57638",
+        "57640",
+        "57644",
+        "57649",
+        "57653"
       ]
     },
     {
@@ -41,7 +75,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57656"
+        "57633",
+        "57636",
+        "57652",
+        "57656",
+        "57661"
       ]
     },
     {
@@ -52,7 +90,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57625"
+        "57625",
+        "57633",
+        "57636",
+        "57652",
+        "57661"
       ]
     },
     {
@@ -63,7 +105,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57620"
+        "57620",
+        "57640",
+        "57644",
+        "57649",
+        "57653"
       ]
     }
   ]

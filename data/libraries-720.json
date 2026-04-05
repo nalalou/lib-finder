@@ -1,6 +1,215 @@
 {
   "libraries": [
     {
+      "name": "WHITE RIVER REGIONAL LIBRARY",
+      "system": "WHITE RIVER REGIONAL LIBRARY",
+      "address": "503 WEST MAIN STREET, SUITE 3, MOUNTAIN VIEW, AR",
+      "website": "https://librarytechnology.org/library/33925",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72051",
+        "72533",
+        "72555",
+        "72560",
+        "72567",
+        "72663",
+        "72680"
+      ]
+    },
+    {
+      "name": "GARLAND COUNTY LIBRARY",
+      "system": "GARLAND COUNTY LIBRARY",
+      "address": "1427 MALVERN AVENUE, HOT SPRINGS, AR",
+      "website": "http://www.gclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71901",
+        "71909",
+        "71913",
+        "71949",
+        "71956",
+        "71964",
+        "71968",
+        "72087"
+      ]
+    },
+    {
+      "name": "CENTRAL ARKANSAS LIBRARY SYSTEM",
+      "system": "CENTRAL ARKANSAS LIBRARY SYSTEM",
+      "address": "100 ROCK STREET, LITTLE ROCK, AR",
+      "website": "https://cals.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72053",
+        "72076",
+        "72099",
+        "72113",
+        "72116",
+        "72117",
+        "72118",
+        "72120",
+        "72135",
+        "72180",
+        "72183",
+        "72201",
+        "72202",
+        "72204",
+        "72205",
+        "72206",
+        "72207",
+        "72209",
+        "72210",
+        "72211",
+        "72212",
+        "72223",
+        "72227",
+        "722HH"
+      ]
+    },
+    {
+      "name": "NORTH LITTLE ROCK PUBLIC LIBRARY SYSTEM",
+      "system": "NORTH LITTLE ROCK PUBLIC LIBRARY SYSTEM",
+      "address": "2801 ORANGE STREET, NORTH LITTLE ROCK, AR",
+      "website": "https://www.nlrlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72053",
+        "72076",
+        "72099",
+        "72113",
+        "72114",
+        "72116",
+        "72117",
+        "72118",
+        "72120",
+        "72135",
+        "72180",
+        "72183",
+        "72202",
+        "72204",
+        "72205",
+        "72206",
+        "72207",
+        "72209",
+        "72210",
+        "72211",
+        "72212",
+        "72223",
+        "72227",
+        "722HH"
+      ]
+    },
+    {
+      "name": "WHITE COUNTY REGIONAL LIBRARY SYSTEM",
+      "system": "WHITE COUNTY REGIONAL LIBRARY SYSTEM",
+      "address": "113 EAST PLEASURE AVENUE, SEARCY, AR",
+      "website": "https://whitecountylibraries.org/locations/searcy",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72010",
+        "72012",
+        "72020",
+        "72045",
+        "72060",
+        "72068",
+        "72081",
+        "72082",
+        "72085",
+        "72102",
+        "72121",
+        "72136",
+        "72137",
+        "72139",
+        "72143"
+      ]
+    },
+    {
+      "name": "W.A. BILLINGSLEY/JACKSON COUNTY LIBRARY",
+      "system": "W.A. BILLINGSLEY/JACKSON COUNTY LIBRARY",
+      "address": "213 WALNUT STREET, NEWPORT, AR",
+      "website": "https://library.arkansas.gov/facilities/jackson-county-library-hq-w-a-billingsley-memorial-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72005",
+        "72014",
+        "72043",
+        "72075",
+        "72112",
+        "72169",
+        "72431",
+        "72471",
+        "72473"
+      ]
+    },
+    {
+      "name": "CONWAY COUNTY LIBRARY",
+      "system": "CONWAY COUNTY LIBRARY",
+      "address": "101 WEST CHURCH STREET, MORRILTON, AR",
+      "website": "https://conwaycountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72027",
+        "72030",
+        "72063",
+        "72107",
+        "72110",
+        "72125",
+        "72127",
+        "72156",
+        "72157"
+      ]
+    },
+    {
+      "name": "ARKANSAS COUNTY LIBRARY",
+      "system": "ARKANSAS COUNTY LIBRARY",
+      "address": "2002 S. BUERKLE STREET, STUTTGART, AR",
+      "website": "https://stuttgartpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72003",
+        "72026",
+        "72038",
+        "72042",
+        "72048",
+        "72055",
+        "72073",
+        "720HH",
+        "72140",
+        "72160",
+        "72166",
+        "721HH"
+      ]
+    },
+    {
+      "name": "PINE BLUFF/JEFFERSON COUNTY LIBRARY SYSTEM",
+      "system": "PINE BLUFF/JEFFERSON COUNTY LIBRARY SYSTEM",
+      "address": "200 E. 8TH AVENUE, PINE BLUFF, AR",
+      "website": "https://www.pineblufflibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71601",
+        "71602",
+        "71603",
+        "71659",
+        "72004",
+        "72079",
+        "72132",
+        "72133",
+        "72152",
+        "72168",
+        "72175"
+      ]
+    },
+    {
       "name": "FAULKNER-VAN BUREN REGIONAL LIBRARY SYSTEM",
       "system": "FAULKNER-VAN BUREN REGIONAL LIBRARY SYSTEM",
       "address": "1900 TYLER STREET, CONWAY, AR",
@@ -8,7 +217,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72032"
+        "72032",
+        "72039",
+        "72047",
+        "72058",
+        "72061",
+        "72106",
+        "72111",
+        "72173",
+        "72181"
       ]
     },
     {
@@ -19,7 +236,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72086"
+        "72007",
+        "72023",
+        "72024",
+        "72046",
+        "72072",
+        "72083",
+        "72086",
+        "72142",
+        "72176"
       ]
     },
     {
@@ -30,18 +255,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72088"
-      ]
-    },
-    {
-      "name": "PRAIRIE COUNTY LIBRARY",
-      "system": "PRAIRIE COUNTY LIBRARY",
-      "address": "201 US HWY 70 EAST, HAZEN, AR",
-      "website": "https://prairiecounty.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "72064"
+        "72013",
+        "72031",
+        "72080",
+        "72088",
+        "72141",
+        "72153",
+        "72629"
       ]
     }
   ]

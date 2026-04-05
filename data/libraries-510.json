@@ -1,6 +1,123 @@
 {
   "libraries": [
     {
+      "name": "BOYDEN PUBLIC LIBRARY",
+      "system": "BOYDEN PUBLIC LIBRARY",
+      "address": "609 WEBB ST, BOYDEN, IA",
+      "website": "https://www.boyden.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51011",
+        "51022",
+        "51027",
+        "51036",
+        "51234",
+        "51239",
+        "51244"
+      ]
+    },
+    {
+      "name": "ROCK VALLEY PUBLIC LIBRARY",
+      "system": "ROCK VALLEY PUBLIC LIBRARY",
+      "address": "1531 MAIN ST, ROCK VALLEY, IA",
+      "website": "https://www.rockvalley.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51011",
+        "51022",
+        "51027",
+        "51036",
+        "51239",
+        "51244",
+        "51247"
+      ]
+    },
+    {
+      "name": "SIOUX CENTER PUBLIC LIBRARY",
+      "system": "SIOUX CENTER PUBLIC LIBRARY",
+      "address": "102 S MAIN AVE, SIOUX CENTER, IA",
+      "website": "https://www.siouxcenterlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51011",
+        "51022",
+        "51027",
+        "51036",
+        "51239",
+        "51244",
+        "51250"
+      ]
+    },
+    {
+      "name": "HOSPERS PUBLIC LIBRARY",
+      "system": "HOSPERS PUBLIC LIBRARY",
+      "address": "213 MAIN ST, HOSPERS, IA",
+      "website": "https://www.hospers.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51011",
+        "51022",
+        "51027",
+        "51036",
+        "51238",
+        "51239",
+        "51244"
+      ]
+    },
+    {
+      "name": "AKRON PUBLIC LIBRARY",
+      "system": "AKRON PUBLIC LIBRARY",
+      "address": "350 REED ST, AKRON, IA",
+      "website": "https://www.akron.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51001",
+        "51008",
+        "51024",
+        "51045",
+        "51062"
+      ]
+    },
+    {
+      "name": "MOORHEAD PUBLIC LIBRARY",
+      "system": "MOORHEAD PUBLIC LIBRARY",
+      "address": "MAIN ST, MOORHEAD, IA",
+      "website": "https://larl.org/locations/moorhead/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51010",
+        "51051",
+        "51059",
+        "51063",
+        "510HH",
+        "51523",
+        "51558"
+      ]
+    },
+    {
+      "name": "SOLDIER PUBLIC LIBRARY",
+      "system": "SOLDIER PUBLIC LIBRARY",
+      "address": "108 OAK ST, SOLDIER, IA",
+      "website": "https://librarytechnology.org/library/17084",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51010",
+        "51051",
+        "51059",
+        "51063",
+        "510HH",
+        "51523",
+        "51572"
+      ]
+    },
+    {
       "name": "PAULLINA PUBLIC LIBRARY",
       "system": "PAULLINA PUBLIC LIBRARY",
       "address": "113 S MICKLEY ST, PAULLINA, IA",
@@ -23,17 +140,6 @@
       ]
     },
     {
-      "name": "AKRON PUBLIC LIBRARY",
-      "system": "AKRON PUBLIC LIBRARY",
-      "address": "350 REED ST, AKRON, IA",
-      "website": "https://www.akron.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51001"
-      ]
-    },
-    {
       "name": "KINGSLEY PUBLIC LIBRARY",
       "system": "KINGSLEY PUBLIC LIBRARY",
       "address": "220 MAIN, KINGSLEY, IA",
@@ -41,7 +147,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51028"
+        "51008",
+        "51024",
+        "51028",
+        "51045",
+        "51062"
       ]
     },
     {
@@ -52,7 +162,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51031"
+        "51008",
+        "51024",
+        "51031",
+        "51045",
+        "51062"
       ]
     },
     {
@@ -63,7 +177,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51038"
+        "51008",
+        "51024",
+        "51038",
+        "51045",
+        "51062"
       ]
     },
     {
@@ -74,7 +192,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51050"
+        "51008",
+        "51024",
+        "51045",
+        "51050",
+        "51062"
       ]
     },
     {
@@ -85,7 +207,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51003"
+        "51003",
+        "51011",
+        "51022",
+        "51027",
+        "51036",
+        "51239",
+        "51244"
       ]
     },
     {
@@ -96,7 +224,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51023"
+        "51011",
+        "51022",
+        "51023",
+        "51027",
+        "51036",
+        "51239",
+        "51244"
       ]
     },
     {
@@ -107,7 +241,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51041"
+        "51011",
+        "51022",
+        "51027",
+        "51036",
+        "51041",
+        "51239",
+        "51244"
       ]
     },
     {
@@ -118,7 +258,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51004"
+        "51004",
+        "51007",
+        "51019",
+        "51026",
+        "51030",
+        "51044",
+        "51048",
+        "51052",
+        "51056",
+        "51103",
+        "51104",
+        "51105",
+        "51106",
+        "51108",
+        "51109",
+        "51111",
+        "511HH"
       ]
     },
     {
@@ -129,7 +285,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51016"
+        "51007",
+        "51016",
+        "51019",
+        "51026",
+        "51030",
+        "51044",
+        "51048",
+        "51052",
+        "51056",
+        "51103",
+        "51104",
+        "51105",
+        "51106",
+        "51108",
+        "51109",
+        "51111",
+        "511HH"
       ]
     },
     {
@@ -140,7 +312,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51039"
+        "51007",
+        "51019",
+        "51026",
+        "51030",
+        "51039",
+        "51044",
+        "51048",
+        "51052",
+        "51056",
+        "51103",
+        "51104",
+        "51105",
+        "51106",
+        "51108",
+        "51109",
+        "51111",
+        "511HH"
       ]
     },
     {
@@ -151,7 +339,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51055"
+        "51007",
+        "51019",
+        "51026",
+        "51030",
+        "51044",
+        "51048",
+        "51052",
+        "51055",
+        "51056",
+        "51103",
+        "51104",
+        "51105",
+        "51106",
+        "51108",
+        "51109",
+        "51111",
+        "511HH"
       ]
     },
     {
@@ -162,6 +366,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50565",
+        "50568",
+        "50592",
         "51002"
       ]
     },
@@ -173,18 +380,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50565",
+        "50568",
+        "50592",
         "51033"
       ]
     },
     {
       "name": "CHEROKEE PUBLIC LIBRARY",
       "system": "CHEROKEE PUBLIC LIBRARY",
-      "address": "215 S 2ND ST, CHEROKEE, IA",
+      "address": "118 CHURCH STREET, CHEROKEE, AL",
       "website": "https://www.cherokee.lib.ia.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51012"
+        "35616",
+        "51012",
+        "51029",
+        "51037"
       ]
     },
     {
@@ -195,7 +408,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51014"
+        "51012",
+        "51014",
+        "51029",
+        "51037"
       ]
     },
     {
@@ -206,7 +422,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51035"
+        "51012",
+        "51029",
+        "51035",
+        "51037"
       ]
     },
     {
@@ -217,6 +436,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "51012",
+        "51029",
+        "51037",
         "51049"
       ]
     },
@@ -228,7 +450,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51047"
+        "51047",
+        "51333",
+        "51341",
+        "51343"
       ]
     },
     {
@@ -250,18 +475,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51040"
-      ]
-    },
-    {
-      "name": "WHITING PUBLIC LIBRARY",
-      "system": "WHITING PUBLIC LIBRARY",
-      "address": "407 WHITTIER ST, WHITING, IA",
-      "website": "https://www.whiting.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51063"
+        "51010",
+        "51040",
+        "51051",
+        "51059",
+        "51063",
+        "510HH",
+        "51523"
       ]
     },
     {
@@ -272,7 +492,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51034"
+        "51010",
+        "51034",
+        "51051",
+        "51059",
+        "51063",
+        "510HH",
+        "51523"
       ]
     },
     {
@@ -283,7 +509,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51005"
+        "51005",
+        "51012",
+        "51029",
+        "51037"
       ]
     },
     {
@@ -316,7 +545,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51053"
+        "50567",
+        "51053",
+        "51433"
       ]
     },
     {
@@ -327,7 +558,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51060"
+        "51010",
+        "51051",
+        "51059",
+        "51060",
+        "51063",
+        "510HH",
+        "51523"
       ]
     },
     {
@@ -338,6 +575,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "51012",
+        "51029",
+        "51037",
         "51061"
       ]
     },
@@ -349,7 +589,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51018"
+        "51007",
+        "51018",
+        "51019",
+        "51026",
+        "51030",
+        "51044",
+        "51048",
+        "51052",
+        "51056",
+        "51103",
+        "51104",
+        "51105",
+        "51106",
+        "51108",
+        "51109",
+        "51111",
+        "511HH"
       ]
     },
     {
@@ -360,7 +616,50 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51054"
+        "51007",
+        "51019",
+        "51026",
+        "51030",
+        "51044",
+        "51048",
+        "51052",
+        "51054",
+        "51056",
+        "51103",
+        "51104",
+        "51105",
+        "51106",
+        "51108",
+        "51109",
+        "51111",
+        "511HH"
+      ]
+    },
+    {
+      "name": "SIOUX CITY PUBLIC LIBRARY",
+      "system": "SIOUX CITY PUBLIC LIBRARY",
+      "address": "529 PIERCE ST, SIOUX CITY, IA",
+      "website": "https://www.siouxcitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51007",
+        "51019",
+        "51026",
+        "51030",
+        "51044",
+        "51048",
+        "51052",
+        "51056",
+        "51101",
+        "51103",
+        "51104",
+        "51105",
+        "51106",
+        "51108",
+        "51109",
+        "51111",
+        "511HH"
       ]
     }
   ]

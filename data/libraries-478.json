@@ -1,14 +1,19 @@
 {
   "libraries": [
     {
-      "name": "BRAZIL PUBLIC LIBRARY",
-      "system": "BRAZIL PUBLIC LIBRARY",
-      "address": "204 NORTH WALNUT STREET, BRAZIL, IN",
-      "website": "https://brazil.lib.in.us/",
+      "name": "CLINTON PUBLIC LIBRARY",
+      "system": "CLINTON PUBLIC LIBRARY",
+      "address": "313 SOUTH 4TH STREET, CLINTON, IN",
+      "website": "https://www.als.lib.wi.us/CPL/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47834"
+        "47842",
+        "53505",
+        "53525",
+        "53534",
+        "53537",
+        "53546"
       ]
     },
     {
@@ -19,18 +24,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47862"
+        "47832",
+        "47836",
+        "47856",
+        "47859",
+        "47860",
+        "47862",
+        "47874"
       ]
     },
     {
-      "name": "PARKE COUNTY PUBLIC LIBRARY",
-      "system": "PARKE COUNTY PUBLIC LIBRARY",
-      "address": "106 NORTH MARKET STREET, ROCKVILLE, IN",
-      "website": "https://www.parkecountypl.lib.in.us/",
+      "name": "VERMILLION COUNTY PUBLIC LIBRARY",
+      "system": "VERMILLION COUNTY PUBLIC LIBRARY",
+      "address": "385 EAST MARKET STREET, NEWPORT, IN",
+      "website": "https://www.loc8nearme.com/indiana/newport/vermillion-county-public-library/9067736/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47872"
+        "47847",
+        "47854",
+        "47884",
+        "47928",
+        "47966",
+        "47974"
       ]
     },
     {
@@ -41,18 +57,50 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37617",
+        "37618",
+        "37620",
+        "37663",
+        "37664",
+        "37665",
+        "37686",
         "47882"
       ]
     },
     {
-      "name": "CLINTON PUBLIC LIBRARY",
-      "system": "CLINTON PUBLIC LIBRARY",
-      "address": "313 SOUTH 4TH STREET, CLINTON, IN",
-      "website": "https://www.als.lib.wi.us/CPL/",
+      "name": "BRAZIL PUBLIC LIBRARY",
+      "system": "BRAZIL PUBLIC LIBRARY",
+      "address": "204 NORTH WALNUT STREET, BRAZIL, IN",
+      "website": "https://brazil.lib.in.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47842"
+        "47833",
+        "47834",
+        "47837",
+        "47840",
+        "47841",
+        "47846",
+        "47853",
+        "47858",
+        "47881"
+      ]
+    },
+    {
+      "name": "PARKE COUNTY PUBLIC LIBRARY",
+      "system": "PARKE COUNTY PUBLIC LIBRARY",
+      "address": "106 NORTH MARKET STREET, ROCKVILLE, IN",
+      "website": "https://www.parkecountypl.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47832",
+        "47836",
+        "47856",
+        "47859",
+        "47860",
+        "47872",
+        "47874"
       ]
     },
     {
@@ -63,7 +111,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47807"
+        "47802",
+        "47803",
+        "47804",
+        "47805",
+        "47807",
+        "47863",
+        "47866",
+        "47876",
+        "47885"
       ]
     }
   ]

@@ -8,7 +8,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41005"
+        "41005",
+        "41042",
+        "41048",
+        "41080",
+        "41091",
+        "41092",
+        "41094",
+        "410HH"
       ]
     },
     {
@@ -19,7 +26,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41076"
+        "41001",
+        "41007",
+        "41059",
+        "41071",
+        "41073",
+        "41074",
+        "41075",
+        "41076",
+        "41085"
       ]
     },
     {
@@ -30,7 +45,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41008"
+        "41008",
+        "41045",
+        "41083"
       ]
     },
     {
@@ -41,7 +58,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41041"
+        "41039",
+        "41041",
+        "41049",
+        "41093"
       ]
     },
     {
@@ -52,6 +72,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "41010",
+        "41030",
+        "41035",
+        "41052",
         "41097"
       ]
     },
@@ -63,6 +87,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "41003",
         "41031"
       ]
     },
@@ -74,29 +99,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41018"
-      ]
-    },
-    {
-      "name": "MASON COUNTY PUBLIC LIBRARY",
-      "system": "MASON COUNTY PUBLIC LIBRARY",
-      "address": "218 EAST THIRD STREET, MAYSVILLE, KY",
-      "website": "https://www.masoncountylibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "41056"
-      ]
-    },
-    {
-      "name": "PENDLETON COUNTY PUBLIC LIBRARY",
-      "system": "PENDLETON COUNTY PUBLIC LIBRARY",
-      "address": "801 ROBBINS AVENUE, FALMOUTH, KY",
-      "website": "https://www.pcplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "41040"
+        "41011",
+        "41014",
+        "41015",
+        "41016",
+        "41017",
+        "41018",
+        "41051",
+        "41063"
       ]
     },
     {
@@ -107,6 +117,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "41046",
+        "41086",
         "41095"
       ]
     },
@@ -129,7 +141,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41004"
+        "41002",
+        "41004",
+        "41043",
+        "41044"
+      ]
+    },
+    {
+      "name": "OWEN COUNTY PUBLIC LIBRARY",
+      "system": "OWEN COUNTY PUBLIC LIBRARY",
+      "address": "1370 HIGHWAY 22 EAST, OWENTON, KY",
+      "website": "https://owenlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40355",
+        "40359",
+        "40363",
+        "41098"
       ]
     }
   ]

@@ -8,7 +8,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61910"
+        "61910",
+        "61919",
+        "61930",
+        "61941"
       ]
     },
     {
@@ -19,7 +22,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61911"
+        "61911",
+        "61925",
+        "61928"
       ]
     },
     {
@@ -30,7 +35,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61913"
+        "61855",
+        "61884",
+        "61913",
+        "61929",
+        "61936"
       ]
     },
     {
@@ -41,7 +50,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61920"
+        "61912",
+        "61920",
+        "61931",
+        "61943",
+        "619HH",
+        "62440"
       ]
     },
     {
@@ -52,7 +66,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61924"
+        "61917",
+        "61924",
+        "61932",
+        "61940",
+        "61949"
       ]
     },
     {
@@ -63,7 +81,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61933"
+        "61917",
+        "61932",
+        "61933",
+        "61940",
+        "61949"
       ]
     },
     {
@@ -74,6 +96,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "61925",
+        "61928",
         "61937"
       ]
     },
@@ -85,7 +109,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61914"
+        "61914",
+        "61925",
+        "61928"
       ]
     },
     {
@@ -96,7 +122,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61938"
+        "61912",
+        "61931",
+        "61938",
+        "61943",
+        "619HH",
+        "62440"
       ]
     },
     {
@@ -107,7 +138,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61944"
+        "61917",
+        "61932",
+        "61940",
+        "61944",
+        "61949"
       ]
     },
     {
@@ -118,6 +153,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "61925",
+        "61928",
         "61951"
       ]
     },
@@ -129,6 +166,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "61919",
+        "61930",
+        "61941",
         "61953"
       ]
     },
@@ -140,6 +180,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "61919",
+        "61930",
+        "61941",
         "61956"
       ]
     },
@@ -151,7 +194,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61957"
+        "61957",
+        "62438",
+        "62444",
+        "62462",
+        "62463",
+        "62465",
+        "62534",
+        "62553",
+        "62571"
       ]
     },
     {
@@ -162,7 +213,100 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "61919",
+        "61930",
+        "61941",
         "61942"
+      ]
+    },
+    {
+      "name": "BEMENT PUBLIC LIBRARY DISTRICT",
+      "system": "BEMENT PUBLIC LIBRARY DISTRICT",
+      "address": "349 SOUTH MACON STREET, BEMENT, IL",
+      "website": "https://bementpubliclibrary.specialdistrict.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61813",
+        "61855",
+        "61884",
+        "61929",
+        "61936"
+      ]
+    },
+    {
+      "name": "HOPE WELTY PUBLIC LIBRARY DISTRICT",
+      "system": "HOPE WELTY PUBLIC LIBRARY DISTRICT",
+      "address": "100 SOUTH MADISON STREET, CERRO GORDO, IL",
+      "website": "https://hopeweltylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61818",
+        "61855",
+        "61884",
+        "61929",
+        "61936"
+      ]
+    },
+    {
+      "name": "WILLOW BRANCH TOWNSHIP LIBRARY",
+      "system": "WILLOW BRANCH TOWNSHIP LIBRARY",
+      "address": "330 NORTH ELDON STREET, CISCO, IL",
+      "website": "https://librarylearning.org/willow-branch-township-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61830",
+        "61855",
+        "61884",
+        "61929",
+        "61936"
+      ]
+    },
+    {
+      "name": "GOOSE CREEK DISTRICT LIBRARY",
+      "system": "GOOSE CREEK DISTRICT LIBRARY",
+      "address": "220 NORTH HIGHWAY AVENUE, DELAND, IL",
+      "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=665.1033.0.0.3",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61839",
+        "61855",
+        "61884",
+        "61929",
+        "61936"
+      ]
+    },
+    {
+      "name": "BLUE RIDGE TOWNSHIP PUBLIC LIBRARY",
+      "system": "BLUE RIDGE TOWNSHIP PUBLIC LIBRARY",
+      "address": "116 EAST OLIVER STREET, MANSFIELD, IL",
+      "website": "https://www.chipublib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61854",
+        "61855",
+        "61884",
+        "61929",
+        "61936"
+      ]
+    },
+    {
+      "name": "ALLERTON PUBLIC LIBRARY DISTRICT",
+      "system": "ALLERTON PUBLIC LIBRARY DISTRICT",
+      "address": "4000 GREEN APPLE LANE, MONTICELLO, IL",
+      "website": "https://www.allertonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61855",
+        "61856",
+        "61884",
+        "61929",
+        "61936"
       ]
     }
   ]

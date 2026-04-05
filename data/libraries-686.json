@@ -1,14 +1,15 @@
 {
   "libraries": [
     {
-      "name": "ALBION PUBLIC LIBRARY",
-      "system": "ALBION PUBLIC LIBRARY",
-      "address": "437 SOUTH 3RD STREET, ALBION, NE",
-      "website": "https://townofalbionmaine.com/community/albion-public-library",
+      "name": "FULLERTON PUBLIC LIBRARY",
+      "system": "FULLERTON PUBLIC LIBRARY",
+      "address": "903 BROADWAY, FULLERTON, NE",
+      "website": "https://fullertonne.gov/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68620"
+        "68623",
+        "68638"
       ]
     },
     {
@@ -19,29 +20,39 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68627"
+        "68620",
+        "68627",
+        "68655"
       ]
     },
     {
-      "name": "CLARKS PUBLIC LIBRARY",
-      "system": "CLARKS PUBLIC LIBRARY",
-      "address": "101 WEST AMITY STREET, CLARKS, NE",
-      "website": "https://villageofclarks.com/our-community/library/",
+      "name": "OSCEOLA PUBLIC LIBRARY",
+      "system": "OSCEOLA PUBLIC LIBRARY",
+      "address": "131 NORTH MAIN, OSCEOLA, NE",
+      "website": "https://libraries.ne.gov/osceola/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68628"
+        "13312",
+        "13343",
+        "13489",
+        "13620",
+        "13626",
+        "68651"
       ]
     },
     {
-      "name": "CLARKSON PUBLIC LIBRARY",
-      "system": "CLARKSON PUBLIC LIBRARY",
-      "address": "318 PINE STREET, CLARKSON, NE",
-      "website": "https://libraries.ne.gov/clarkson/",
+      "name": "CLEARWATER PUBLIC LIBRARY",
+      "system": "CLEARWATER PUBLIC LIBRARY",
+      "address": "626 MAIN STREET, CLEARWATER, NE",
+      "website": "https://clearwaterpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68629"
+        "68636",
+        "68720",
+        "68726",
+        "68773"
       ]
     },
     {
@@ -52,7 +63,133 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
         "68601"
+      ]
+    },
+    {
+      "name": "PETERSBURG PUBLIC LIBRARY",
+      "system": "PETERSBURG PUBLIC LIBRARY",
+      "address": "103 SOUTH SECOND STREET, PETERSBURG, NE",
+      "website": "https://ci.petersburg.ne.us/our-community/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68652"
+      ]
+    },
+    {
+      "name": "NORTH BEND PUBLIC LIBRARY",
+      "system": "NORTH BEND PUBLIC LIBRARY",
+      "address": "110 E. 13TH ST., NORTH BEND, NE",
+      "website": "https://libs.ne.gov/northbend",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68649",
+        "97414",
+        "97459"
+      ]
+    },
+    {
+      "name": "NELIGH PUBLIC LIBRARY",
+      "system": "NELIGH PUBLIC LIBRARY",
+      "address": "710 MAIN STREET, NELIGH, NE",
+      "website": "https://libraries.ne.gov/neligh/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68636",
+        "68720",
+        "68756",
+        "68773"
+      ]
+    },
+    {
+      "name": "LOIS JOHNSON MEMORIAL LIBRARY",
+      "system": "LOIS JOHNSON MEMORIAL LIBRARY",
+      "address": "406 5TH STREET, OAKDALE, NE",
+      "website": "https://www.villageofoakdale.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68636",
+        "68720",
+        "68761",
+        "68773"
+      ]
+    },
+    {
+      "name": "ORCHARD PUBLIC LIBRARY",
+      "system": "ORCHARD PUBLIC LIBRARY",
+      "address": "407 EAST 4TH STREET, SUITE 200, ORCHARD, NE",
+      "website": "http://orchardpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68636",
+        "68720",
+        "68764",
+        "68773"
+      ]
+    },
+    {
+      "name": "RAYMOND A. WHITWER TILDEN PUBLIC LIBRARY",
+      "system": "RAYMOND A. WHITWER TILDEN PUBLIC LIBRARY",
+      "address": "202 SOUTH CENTER STREET, TILDEN, NE",
+      "website": "https://libraries.ne.gov/tilden/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68636",
+        "68720",
+        "68773",
+        "68781"
+      ]
+    },
+    {
+      "name": "ALBION PUBLIC LIBRARY",
+      "system": "ALBION PUBLIC LIBRARY",
+      "address": "18 MAIN STREET, ALBION, ME",
+      "website": "https://townofalbionmaine.com/community/albion-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04910",
+        "68620",
+        "68655"
+      ]
+    },
+    {
+      "name": "CLARKS PUBLIC LIBRARY",
+      "system": "CLARKS PUBLIC LIBRARY",
+      "address": "101 WEST AMITY STREET, CLARKS, NE",
+      "website": "https://villageofclarks.com/our-community/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68628",
+        "68816",
+        "68827",
+        "68864"
+      ]
+    },
+    {
+      "name": "CLARKSON PUBLIC LIBRARY",
+      "system": "CLARKSON PUBLIC LIBRARY",
+      "address": "318 PINE STREET, CLARKSON, NE",
+      "website": "https://libraries.ne.gov/clarkson/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68629",
+        "68659",
+        "686HH"
       ]
     },
     {
@@ -63,29 +200,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68044",
+        "68063",
+        "68621",
         "68633"
-      ]
-    },
-    {
-      "name": "ELGIN PUBLIC LIBRARY",
-      "system": "ELGIN PUBLIC LIBRARY",
-      "address": "503 SOUTH SECOND STREET, ELGIN, NE",
-      "website": "https://libraries.ne.gov/elgin/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68636"
-      ]
-    },
-    {
-      "name": "FULLERTON PUBLIC LIBRARY",
-      "system": "FULLERTON PUBLIC LIBRARY",
-      "address": "903 BROADWAY, FULLERTON, NE",
-      "website": "https://fullertonne.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68638"
       ]
     },
     {
@@ -96,6 +214,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68623",
         "68640"
       ]
     },
@@ -107,7 +226,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68641"
+        "68641",
+        "68659",
+        "686HH"
       ]
     },
     {
@@ -118,7 +239,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68642"
+        "68631",
+        "68634",
+        "68642",
+        "68644",
+        "68647",
+        "68653"
       ]
     },
     {
@@ -129,29 +255,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68643"
-      ]
-    },
-    {
-      "name": "NORTH BEND PUBLIC LIBRARY",
-      "system": "NORTH BEND PUBLIC LIBRARY",
-      "address": "110 E. 13TH ST., NORTH BEND, NE",
-      "website": "https://libs.ne.gov/northbend",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68649"
-      ]
-    },
-    {
-      "name": "OSCEOLA PUBLIC LIBRARY",
-      "system": "OSCEOLA PUBLIC LIBRARY",
-      "address": "131 NORTH MAIN, OSCEOLA, NE",
-      "website": "https://libraries.ne.gov/osceola/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68651"
+        "68643",
+        "68659",
+        "686HH"
       ]
     },
     {
@@ -173,7 +279,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68658"
+        "68001",
+        "68014",
+        "68036",
+        "68624",
+        "68626",
+        "68658",
+        "68667"
       ]
     },
     {
@@ -184,6 +296,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68620",
+        "68655",
         "68660"
       ]
     },
@@ -195,7 +309,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68661"
+        "68659",
+        "68661",
+        "686HH"
       ]
     },
     {
@@ -206,7 +322,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68663"
+        "68663",
+        "68816",
+        "68827",
+        "68864"
       ]
     },
     {
@@ -217,6 +336,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68044",
+        "68063",
+        "68621",
         "68664"
       ]
     },
@@ -239,6 +361,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68001",
+        "68014",
+        "68036",
+        "68624",
+        "68626",
+        "68667",
         "68669"
       ]
     },
@@ -261,7 +389,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68632"
+        "68001",
+        "68014",
+        "68036",
+        "68624",
+        "68626",
+        "68632",
+        "68667"
       ]
     },
     {
@@ -272,18 +406,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68635"
-      ]
-    },
-    {
-      "name": "PETERSBURG PUBLIC LIBRARY",
-      "system": "PETERSBURG PUBLIC LIBRARY",
-      "address": "103 SOUTH SECOND STREET, PETERSBURG, NE",
-      "website": "https://ci.petersburg.ne.us/our-community/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68652"
+        "68001",
+        "68014",
+        "68036",
+        "68624",
+        "68626",
+        "68635",
+        "68667"
       ]
     },
     {
@@ -294,7 +423,131 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68665"
+        "68665",
+        "68842",
+        "68882"
+      ]
+    },
+    {
+      "name": "CERESCO COMMUNITY LIBRARY",
+      "system": "CERESCO COMMUNITY LIBRARY",
+      "address": "425 SOUTH 2ND STREET, CERESCO, NE",
+      "website": "https://libraries.ne.gov/ceresco/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68015",
+        "68017",
+        "68018",
+        "68033",
+        "68035",
+        "68040",
+        "68042",
+        "68050",
+        "68070",
+        "68648"
+      ]
+    },
+    {
+      "name": "KEENE MEMORIAL LIBRARY",
+      "system": "KEENE MEMORIAL LIBRARY",
+      "address": "1030 NORTH BROAD STREET, FREMONT, NE",
+      "website": "https://www.fremontne.gov/968/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68025",
+        "68044",
+        "68063",
+        "68621"
+      ]
+    },
+    {
+      "name": "SCRIBNER PUBLIC LIBRARY",
+      "system": "SCRIBNER PUBLIC LIBRARY",
+      "address": "530 MAIN STREET, SCRIBNER, NE",
+      "website": "https://www.scribner-ne.gov/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68044",
+        "68057",
+        "68063",
+        "68621"
+      ]
+    },
+    {
+      "name": "VALPARAISO PUBLIC LIBRARY",
+      "system": "VALPARAISO PUBLIC LIBRARY",
+      "address": "300 WEST 2ND, VALPARAISO, NE",
+      "website": "https://libs.ne.gov/valparaiso",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68015",
+        "68018",
+        "68033",
+        "68035",
+        "68040",
+        "68042",
+        "68050",
+        "68065",
+        "68070",
+        "68648"
+      ]
+    },
+    {
+      "name": "WAHOO PUBLIC LIBRARY",
+      "system": "WAHOO PUBLIC LIBRARY",
+      "address": "637 NORTH MAPLE STREET, WAHOO, NE",
+      "website": "https://www.wahoopubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68015",
+        "68018",
+        "68033",
+        "68035",
+        "68040",
+        "68042",
+        "68050",
+        "68066",
+        "68070",
+        "68648"
+      ]
+    },
+    {
+      "name": "YUTAN PUBLIC LIBRARY",
+      "system": "YUTAN PUBLIC LIBRARY",
+      "address": "410 1ST ST., YUTAN, NE",
+      "website": "https://libs.ne.gov/yutan",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68015",
+        "68018",
+        "68033",
+        "68035",
+        "68040",
+        "68042",
+        "68050",
+        "68070",
+        "68073",
+        "68648"
+      ]
+    },
+    {
+      "name": "HOOPER PUBLIC LIBRARY",
+      "system": "HOOPER PUBLIC LIBRARY",
+      "address": "128 NORTH MAIN, HOOPER, NE",
+      "website": "https://hooperpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68031",
+        "68044",
+        "68063",
+        "68621"
       ]
     }
   ]

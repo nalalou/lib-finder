@@ -1,102 +1,39 @@
 {
   "libraries": [
     {
-      "name": "ATHENS COMMUNITY LIBRARY",
-      "system": "ATHENS COMMUNITY LIBRARY",
-      "address": "106 EAST BURR OAK STREET, ATHENS, MI",
-      "website": "https://www.athenscommunitylibrary.org/",
+      "name": "FENNVILLE DISTRICT LIBRARY",
+      "system": "FENNVILLE DISTRICT LIBRARY",
+      "address": "400 WEST MAIN STREET, FENNVILLE, MI",
+      "website": "https://www.fennvilledl.michlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49011"
+        "490HH",
+        "49344",
+        "493HH",
+        "49408",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
       ]
     },
     {
-      "name": "AUGUSTA-ROSS TOWNSHIP DISTRICT LIBRARY",
-      "system": "AUGUSTA-ROSS TOWNSHIP DISTRICT LIBRARY",
-      "address": "105 SOUTH WEBSTER STREET, AUGUSTA, MI",
-      "website": "http://mckaylibrary.org/",
+      "name": "SAUGATUCK-DOUGLAS DISTRICT LIBRARY",
+      "system": "SAUGATUCK-DOUGLAS DISTRICT LIBRARY",
+      "address": "174 CENTER ST., DOUGLAS, MI",
+      "website": "https://www.sdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49012"
-      ]
-    },
-    {
-      "name": "BELLEVUE TOWNSHIP LIBRARY",
-      "system": "BELLEVUE TOWNSHIP LIBRARY",
-      "address": "212 NORTH MAIN STREET, BELLEVUE, MI",
-      "website": "https://bellevuetownship.org/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49021"
-      ]
-    },
-    {
-      "name": "BENTON HARBOR PUBLIC LIBRARY",
-      "system": "BENTON HARBOR PUBLIC LIBRARY",
-      "address": "213 EAST WALL STREET, BENTON HARBOR, MI",
-      "website": "https://www.bentonharborlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49022"
-      ]
-    },
-    {
-      "name": "BRANCH DISTRICT LIBRARY",
-      "system": "BRANCH DISTRICT LIBRARY",
-      "address": "10 EAST CHICAGO STREET, COLDWATER, MI",
-      "website": "https://www.branchdistrictlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49036"
-      ]
-    },
-    {
-      "name": "BURLINGTON TOWNSHIP LIBRARY",
-      "system": "BURLINGTON TOWNSHIP LIBRARY",
-      "address": "135 ELM STREET, BURLINGTON, MI",
-      "website": "https://burlingtontownshipcalhouncountymi.com/library-information/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49029"
-      ]
-    },
-    {
-      "name": "BURR OAK TOWNSHIP LIBRARY",
-      "system": "BURR OAK TOWNSHIP LIBRARY",
-      "address": "220 SOUTH SECOND STREET, BURR OAK, MI",
-      "website": "https://www.burroaklibrary.michlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49030"
-      ]
-    },
-    {
-      "name": "CASS DISTRICT LIBRARY",
-      "system": "CASS DISTRICT LIBRARY",
-      "address": "319 M-62 NORTH, CASSOPOLIS, MI",
-      "website": "https://www.cassdistrictlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49031"
-      ]
-    },
-    {
-      "name": "CHARLES A. RANSOM DISTRICT LIBRARY",
-      "system": "CHARLES A. RANSOM DISTRICT LIBRARY",
-      "address": "180 SOUTH SHERWOOD AVENUE, PLAINWELL, MI",
-      "website": "https://www.ransomlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49080"
+        "490HH",
+        "49344",
+        "493HH",
+        "49406",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
       ]
     },
     {
@@ -107,139 +44,114 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49038"
+        "49038",
+        "54930",
+        "54966",
+        "54976"
       ]
     },
     {
-      "name": "COLON TOWNSHIP LIBRARY",
-      "system": "COLON TOWNSHIP LIBRARY",
-      "address": "128 SOUTH BLACKSTONE AVENUE, COLON, MI",
-      "website": "https://www.colonlibrary.org/",
+      "name": "POTTERVILLE-BENTON TOWNSHIP DISTRICT LIBRARY",
+      "system": "POTTERVILLE-BENTON TOWNSHIP DISTRICT LIBRARY",
+      "address": "150 LIBRARY LANE, POTTERVILLE, MI",
+      "website": "https://www.pottervillelibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49040"
+        "48876",
+        "489HH",
+        "49076"
       ]
     },
     {
-      "name": "COMSTOCK TOWNSHIP LIBRARY",
-      "system": "COMSTOCK TOWNSHIP LIBRARY",
-      "address": "6130 KING HIGHWAY, COMSTOCK, MI",
-      "website": "https://www.comstocklibrary.org/",
+      "name": "CHARLOTTE COMMUNITY LIBRARY",
+      "system": "CHARLOTTE COMMUNITY LIBRARY",
+      "address": "226 SOUTH BOSTWICK STREET, CHARLOTTE, MI",
+      "website": "https://charlottelibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49041"
+        "48813",
+        "489HH",
+        "49076"
       ]
     },
     {
-      "name": "CONSTANTINE TOWNSHIP LIBRARY",
-      "system": "CONSTANTINE TOWNSHIP LIBRARY",
-      "address": "165 CANARIS STREET, CONSTANTINE, MI",
-      "website": "https://www.constantine.michlibrary.org/",
+      "name": "EATON RAPIDS AREA DISTRICT LIBRARY",
+      "system": "EATON RAPIDS AREA DISTRICT LIBRARY",
+      "address": "220 SOUTH MAIN STREET, EATON RAPIDS, MI",
+      "website": "https://eradl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49042"
+        "48827",
+        "489HH",
+        "49076"
       ]
     },
     {
-      "name": "DELTON DISTRICT LIBRARY",
-      "system": "DELTON DISTRICT LIBRARY",
-      "address": "330 NORTH GROVE STREET, DELTON, MI",
-      "website": "https://deltonlib.org/",
+      "name": "GRAND LEDGE AREA DISTRICT LIBRARY",
+      "system": "GRAND LEDGE AREA DISTRICT LIBRARY",
+      "address": "131 EAST JEFFERSON STREET, GRAND LEDGE, MI",
+      "website": "https://gladl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49046"
+        "48837",
+        "489HH",
+        "49076"
       ]
     },
     {
-      "name": "DOWAGIAC DISTRICT LIBRARY",
-      "system": "DOWAGIAC DISTRICT LIBRARY",
-      "address": "211 COMMERCIAL STREET, DOWAGIAC, MI",
-      "website": "https://www.dowagiacdl.org/",
+      "name": "MULLIKEN DISTRICT LIBRARY",
+      "system": "MULLIKEN DISTRICT LIBRARY",
+      "address": "135 MAIN STREET, MULLIKEN, MI",
+      "website": "http://www.mullikendistrictlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49047"
+        "48861",
+        "489HH",
+        "49076"
       ]
     },
     {
-      "name": "DOWLING PUBLIC LIBRARY",
-      "system": "DOWLING PUBLIC LIBRARY",
-      "address": "1765 EAST DOWLING ROAD, HASTINGS, MI",
-      "website": "https://www.countyoffice.org/dowling-public-library-hastings-mi-350/",
+      "name": "SUNFIELD DISTRICT LIBRARY",
+      "system": "SUNFIELD DISTRICT LIBRARY",
+      "address": "112 MAIN STREET, SUNFIELD, MI",
+      "website": "https://www.sunfieldlibrary.michlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49058"
+        "48890",
+        "489HH",
+        "49076"
       ]
     },
     {
-      "name": "GALESBURG-CHARLESTON MEMORIAL DISTRICT LIBRARY",
-      "system": "GALESBURG-CHARLESTON MEMORIAL DISTRICT LIBRARY",
-      "address": "188 EAST MICHIGAN AVENUE, GALESBURG, MI",
-      "website": "https://www.galesburgcharlestonlibrary.org/",
+      "name": "DOROTHY HULL LIBRARY - WINDSOR TOWNSHIP",
+      "system": "DOROTHY HULL LIBRARY - WINDSOR TOWNSHIP",
+      "address": "405 WEST JEFFERSON STREET, DIMONDALE, MI",
+      "website": "https://windsortownship.com/dorothy-hull-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49053"
+        "48821",
+        "489HH",
+        "49076"
       ]
     },
     {
-      "name": "HARTFORD PUBLIC LIBRARY",
-      "system": "HARTFORD PUBLIC LIBRARY",
-      "address": "12 CHURCH STREET, HARTFORD, MI",
-      "website": "http://www.hplct.org/",
+      "name": "GEORGE W. SPINDLER MEMORIAL LIBRARY",
+      "system": "GEORGE W. SPINDLER MEMORIAL LIBRARY",
+      "address": "186 NORTH MAIN STREET, WOODLAND, MI",
+      "website": "https://www.spindler.michlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49057"
-      ]
-    },
-    {
-      "name": "HASTINGS PUBLIC LIBRARY",
-      "system": "HASTINGS PUBLIC LIBRARY",
-      "address": "227 EAST STATE STREET, HASTINGS, MI",
-      "website": "https://www.hastingspubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49058"
-      ]
-    },
-    {
-      "name": "J. C. WHEELER PUBLIC LIBRARY",
-      "system": "J. C. WHEELER PUBLIC LIBRARY",
-      "address": "1576 SOUTH MAIN STREET, MARTIN, MI",
-      "website": "https://www.wheelerpl.michlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49070"
-      ]
-    },
-    {
-      "name": "KALAMAZOO PUBLIC LIBRARY",
-      "system": "KALAMAZOO PUBLIC LIBRARY",
-      "address": "315 SOUTH ROSE STREET, KALAMAZOO, MI",
-      "website": "https://www.kpl.gov/central/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49007"
-      ]
-    },
-    {
-      "name": "LAWRENCE MEMORIAL PUBLIC LIBRARY",
-      "system": "LAWRENCE MEMORIAL PUBLIC LIBRARY",
-      "address": "107 NORTH MAIN STREET, CLIMAX, MI",
-      "website": "https://www.lawrencememorialdistrictlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49034"
+        "48897",
+        "49050",
+        "49060"
       ]
     },
     {
@@ -250,7 +162,550 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49065"
+        "49065",
+        "73501",
+        "73503",
+        "73505",
+        "73507",
+        "73527",
+        "73528",
+        "73540",
+        "73541",
+        "73543",
+        "73552",
+        "73557",
+        "73567",
+        "735HH"
+      ]
+    },
+    {
+      "name": "HASTINGS PUBLIC LIBRARY",
+      "system": "HASTINGS PUBLIC LIBRARY",
+      "address": "227 EAST STATE STREET, HASTINGS, MI",
+      "website": "https://www.hastingspubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15760",
+        "15762",
+        "15773",
+        "15775",
+        "15902",
+        "15905",
+        "15906",
+        "15909",
+        "15925",
+        "15927",
+        "15930",
+        "15934",
+        "15940",
+        "15942",
+        "15946",
+        "15948",
+        "15952",
+        "15955",
+        "15958",
+        "159HH",
+        "16613",
+        "16619",
+        "16624",
+        "16636",
+        "16639",
+        "16640",
+        "16646",
+        "49058"
+      ]
+    },
+    {
+      "name": "ALBION DISTRICT LIBRARY",
+      "system": "ALBION DISTRICT LIBRARY",
+      "address": "501 SOUTH SUPERIOR STREET, ALBION, MI",
+      "website": "https://www.albionlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49014",
+        "49015",
+        "49016",
+        "49033",
+        "49051",
+        "49224",
+        "492HH"
+      ]
+    },
+    {
+      "name": "DORR TOWNSHIP LIBRARY",
+      "system": "DORR TOWNSHIP LIBRARY",
+      "address": "1804 SUNSET DRIVE, DORR, MI",
+      "website": "https://www.dorrlibrary.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "490HH",
+        "49323",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
+      ]
+    },
+    {
+      "name": "FREEPORT DISTRICT LIBRARY",
+      "system": "FREEPORT DISTRICT LIBRARY",
+      "address": "208 SOUTH STATE STREET, FREEPORT, MI",
+      "website": "https://www.freeportdl.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49050",
+        "49060",
+        "49325"
+      ]
+    },
+    {
+      "name": "HENIKA DISTRICT LIBRARY",
+      "system": "HENIKA DISTRICT LIBRARY",
+      "address": "149 SOUTH MAIN STREET, WAYLAND, MI",
+      "website": "https://www.henikalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "490HH",
+        "49344",
+        "49348",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
+      ]
+    },
+    {
+      "name": "HOPKINS DISTRICT LIBRARY",
+      "system": "HOPKINS DISTRICT LIBRARY",
+      "address": "118 EAST MAIN STREET, HOPKINS, MI",
+      "website": "https://www.hopkinspl.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "490HH",
+        "49328",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
+      ]
+    },
+    {
+      "name": "THORNAPPLE KELLOGG SCHOOL AND COMMUNITY LIBRARY",
+      "system": "THORNAPPLE KELLOGG SCHOOL AND COMMUNITY LIBRARY",
+      "address": "3885 BENDER ROAD, MIDDLEVILLE, MI",
+      "website": "https://www.tkschools.org/apps/pages/index.jsp?uREC_ID=314357&type=d&pREC_ID=720428",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49050",
+        "49060",
+        "49333"
+      ]
+    },
+    {
+      "name": "LEIGHTON TOWNSHIP LIBRARY",
+      "system": "LEIGHTON TOWNSHIP LIBRARY",
+      "address": "4451 12TH STREET, WAYLNAD, MI",
+      "website": "https://www.leightonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "490HH",
+        "49335",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
+      ]
+    },
+    {
+      "name": "SALEM TOWNSHIP LIBRARY",
+      "system": "SALEM TOWNSHIP LIBRARY",
+      "address": "3007 142ND AVENUE, BURNIPS, MI",
+      "website": "https://salemtownshiplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "490HH",
+        "49314",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
+      ]
+    },
+    {
+      "name": "HARTFORD PUBLIC LIBRARY",
+      "system": "HARTFORD PUBLIC LIBRARY",
+      "address": "12 CHURCH STREET, HARTFORD, MI",
+      "website": "http://www.hplct.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49013",
+        "49026",
+        "49027",
+        "49043",
+        "49055",
+        "49056",
+        "49057",
+        "49064",
+        "49071"
+      ]
+    },
+    {
+      "name": "DELTA TOWNSHIP DISTRICT LIBRARY",
+      "system": "DELTA TOWNSHIP DISTRICT LIBRARY",
+      "address": "5130 DAVENPORT DRIVE, LANSING, MI",
+      "website": "https://www.dtdl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48917",
+        "489HH",
+        "49076"
+      ]
+    },
+    {
+      "name": "RICHLAND COMMUNITY LIBRARY",
+      "system": "RICHLAND COMMUNITY LIBRARY",
+      "address": "8951 PARK STREET, RICHLAND, MI",
+      "website": "https://www.richlandlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17010",
+        "17016",
+        "17026",
+        "17038",
+        "17041",
+        "17042",
+        "17064",
+        "17073",
+        "17077",
+        "17078",
+        "17083",
+        "17087",
+        "17088",
+        "49083"
+      ]
+    },
+    {
+      "name": "ATHENS COMMUNITY LIBRARY",
+      "system": "ATHENS COMMUNITY LIBRARY",
+      "address": "106 EAST BURR OAK STREET, ATHENS, MI",
+      "website": "https://www.athenscommunitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49011",
+        "49014",
+        "49015",
+        "49016",
+        "49033",
+        "49051",
+        "492HH"
+      ]
+    },
+    {
+      "name": "AUGUSTA-ROSS TOWNSHIP DISTRICT LIBRARY",
+      "system": "AUGUSTA-ROSS TOWNSHIP DISTRICT LIBRARY",
+      "address": "105 SOUTH WEBSTER STREET, AUGUSTA, MI",
+      "website": "http://mckaylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49001",
+        "49006",
+        "49008",
+        "49009",
+        "49012",
+        "49024",
+        "49052",
+        "49088"
+      ]
+    },
+    {
+      "name": "BELLEVUE TOWNSHIP LIBRARY",
+      "system": "BELLEVUE TOWNSHIP LIBRARY",
+      "address": "212 NORTH MAIN STREET, BELLEVUE, MI",
+      "website": "https://bellevuetownship.org/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "489HH",
+        "49021",
+        "49076"
+      ]
+    },
+    {
+      "name": "BENTON HARBOR PUBLIC LIBRARY",
+      "system": "BENTON HARBOR PUBLIC LIBRARY",
+      "address": "213 EAST WALL STREET, BENTON HARBOR, MI",
+      "website": "https://www.bentonharborlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49022",
+        "49101",
+        "49102",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49129",
+        "491HH"
+      ]
+    },
+    {
+      "name": "BRANCH DISTRICT LIBRARY",
+      "system": "BRANCH DISTRICT LIBRARY",
+      "address": "10 EAST CHICAGO STREET, COLDWATER, MI",
+      "website": "https://www.branchdistrictlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49028",
+        "49036",
+        "49082",
+        "49089",
+        "49094",
+        "49255"
+      ]
+    },
+    {
+      "name": "BURLINGTON TOWNSHIP LIBRARY",
+      "system": "BURLINGTON TOWNSHIP LIBRARY",
+      "address": "135 ELM STREET, BURLINGTON, MI",
+      "website": "https://burlingtontownshipcalhouncountymi.com/library-information/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49014",
+        "49015",
+        "49016",
+        "49029",
+        "49033",
+        "49051",
+        "492HH"
+      ]
+    },
+    {
+      "name": "BURR OAK TOWNSHIP LIBRARY",
+      "system": "BURR OAK TOWNSHIP LIBRARY",
+      "address": "220 SOUTH SECOND STREET, BURR OAK, MI",
+      "website": "https://www.burroaklibrary.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49030",
+        "49066",
+        "49075"
+      ]
+    },
+    {
+      "name": "CASS DISTRICT LIBRARY",
+      "system": "CASS DISTRICT LIBRARY",
+      "address": "319 M-62 NORTH, CASSOPOLIS, MI",
+      "website": "https://www.cassdistrictlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49031",
+        "49061",
+        "49095",
+        "49112",
+        "49130"
+      ]
+    },
+    {
+      "name": "CHARLES A. RANSOM DISTRICT LIBRARY",
+      "system": "CHARLES A. RANSOM DISTRICT LIBRARY",
+      "address": "180 SOUTH SHERWOOD AVENUE, PLAINWELL, MI",
+      "website": "https://www.ransomlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49080",
+        "490HH",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
+      ]
+    },
+    {
+      "name": "COLON TOWNSHIP LIBRARY",
+      "system": "COLON TOWNSHIP LIBRARY",
+      "address": "128 SOUTH BLACKSTONE AVENUE, COLON, MI",
+      "website": "https://www.colonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49040",
+        "49066",
+        "49075"
+      ]
+    },
+    {
+      "name": "COMSTOCK TOWNSHIP LIBRARY",
+      "system": "COMSTOCK TOWNSHIP LIBRARY",
+      "address": "6130 KING HIGHWAY, COMSTOCK, MI",
+      "website": "https://www.comstocklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49001",
+        "49006",
+        "49008",
+        "49009",
+        "49024",
+        "49041",
+        "49052",
+        "49088"
+      ]
+    },
+    {
+      "name": "CONSTANTINE TOWNSHIP LIBRARY",
+      "system": "CONSTANTINE TOWNSHIP LIBRARY",
+      "address": "165 CANARIS STREET, CONSTANTINE, MI",
+      "website": "https://www.constantine.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49042",
+        "49066",
+        "49075"
+      ]
+    },
+    {
+      "name": "DELTON DISTRICT LIBRARY",
+      "system": "DELTON DISTRICT LIBRARY",
+      "address": "330 NORTH GROVE STREET, DELTON, MI",
+      "website": "https://deltonlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49046",
+        "49050",
+        "49060"
+      ]
+    },
+    {
+      "name": "DOWAGIAC DISTRICT LIBRARY",
+      "system": "DOWAGIAC DISTRICT LIBRARY",
+      "address": "211 COMMERCIAL STREET, DOWAGIAC, MI",
+      "website": "https://www.dowagiacdl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49047",
+        "49061",
+        "49095",
+        "49112",
+        "49130"
+      ]
+    },
+    {
+      "name": "DOWLING PUBLIC LIBRARY",
+      "system": "DOWLING PUBLIC LIBRARY",
+      "address": "1765 EAST DOWLING ROAD, HASTINGS, MI",
+      "website": "https://www.countyoffice.org/dowling-public-library-hastings-mi-350/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49050",
+        "49058",
+        "49060"
+      ]
+    },
+    {
+      "name": "GALESBURG-CHARLESTON MEMORIAL DISTRICT LIBRARY",
+      "system": "GALESBURG-CHARLESTON MEMORIAL DISTRICT LIBRARY",
+      "address": "188 EAST MICHIGAN AVENUE, GALESBURG, MI",
+      "website": "https://www.galesburgcharlestonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49001",
+        "49006",
+        "49008",
+        "49009",
+        "49024",
+        "49052",
+        "49053",
+        "49088"
+      ]
+    },
+    {
+      "name": "J. C. WHEELER PUBLIC LIBRARY",
+      "system": "J. C. WHEELER PUBLIC LIBRARY",
+      "address": "1576 SOUTH MAIN STREET, MARTIN, MI",
+      "website": "https://www.wheelerpl.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49070",
+        "490HH",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
+      ]
+    },
+    {
+      "name": "KALAMAZOO PUBLIC LIBRARY",
+      "system": "KALAMAZOO PUBLIC LIBRARY",
+      "address": "315 SOUTH ROSE STREET, KALAMAZOO, MI",
+      "website": "https://www.kpl.gov/central/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49001",
+        "49006",
+        "49007",
+        "49008",
+        "49009",
+        "49024",
+        "49052",
+        "49088"
+      ]
+    },
+    {
+      "name": "LAWRENCE MEMORIAL PUBLIC LIBRARY",
+      "system": "LAWRENCE MEMORIAL PUBLIC LIBRARY",
+      "address": "107 NORTH MAIN STREET, CLIMAX, MI",
+      "website": "https://www.lawrencememorialdistrictlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49001",
+        "49006",
+        "49008",
+        "49009",
+        "49024",
+        "49034",
+        "49052",
+        "49088"
       ]
     },
     {
@@ -261,7 +716,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49067"
+        "49061",
+        "49067",
+        "49095",
+        "49112",
+        "49130"
       ]
     },
     {
@@ -272,7 +731,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49068"
+        "49014",
+        "49015",
+        "49016",
+        "49033",
+        "49051",
+        "49068",
+        "492HH"
       ]
     },
     {
@@ -283,7 +748,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49085"
+        "49085",
+        "49101",
+        "49102",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49129",
+        "491HH"
       ]
     },
     {
@@ -294,7 +767,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49072"
+        "49066",
+        "49072",
+        "49075"
       ]
     },
     {
@@ -305,7 +780,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49032"
+        "49032",
+        "49066",
+        "49075"
       ]
     },
     {
@@ -316,7 +793,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49078"
+        "49078",
+        "490HH",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
       ]
     },
     {
@@ -327,7 +811,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49004"
+        "49001",
+        "49004",
+        "49006",
+        "49008",
+        "49009",
+        "49024",
+        "49052",
+        "49088"
       ]
     },
     {
@@ -338,6 +829,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49013",
+        "49026",
+        "49027",
+        "49043",
+        "49055",
+        "49056",
+        "49064",
+        "49071",
         "49079"
       ]
     },
@@ -349,7 +848,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49002"
+        "49001",
+        "49002",
+        "49006",
+        "49008",
+        "49009",
+        "49024",
+        "49052",
+        "49088"
       ]
     },
     {
@@ -360,18 +866,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49050",
+        "49060",
         "49073"
-      ]
-    },
-    {
-      "name": "RICHLAND COMMUNITY LIBRARY",
-      "system": "RICHLAND COMMUNITY LIBRARY",
-      "address": "8951 PARK STREET, RICHLAND, MI",
-      "website": "https://www.richlandlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49083"
       ]
     },
     {
@@ -382,7 +879,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49087"
+        "49001",
+        "49006",
+        "49008",
+        "49009",
+        "49024",
+        "49052",
+        "49087",
+        "49088"
       ]
     },
     {
@@ -393,6 +897,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49013",
+        "49026",
+        "49027",
+        "49043",
+        "49055",
+        "49056",
+        "49064",
+        "49071",
         "49090"
       ]
     },
@@ -404,6 +916,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49066",
+        "49075",
         "49091"
       ]
     },
@@ -415,7 +929,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49092"
+        "49014",
+        "49015",
+        "49016",
+        "49033",
+        "49051",
+        "49092",
+        "492HH"
       ]
     },
     {
@@ -426,6 +946,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49066",
+        "49075",
         "49093"
       ]
     },
@@ -437,7 +959,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49045"
+        "49013",
+        "49026",
+        "49027",
+        "49043",
+        "49045",
+        "49055",
+        "49056",
+        "49064",
+        "49071"
       ]
     },
     {
@@ -448,6 +978,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "489HH",
+        "49076",
         "49096"
       ]
     },
@@ -459,6 +991,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49001",
+        "49006",
+        "49008",
+        "49009",
+        "49024",
+        "49052",
+        "49088",
         "49097"
       ]
     },
@@ -470,7 +1009,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49098"
+        "49098",
+        "49101",
+        "49102",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49129",
+        "491HH"
       ]
     },
     {
@@ -481,6 +1028,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49066",
+        "49075",
         "49099"
       ]
     },
@@ -492,7 +1041,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49017"
+        "49014",
+        "49015",
+        "49016",
+        "49017",
+        "49033",
+        "49051",
+        "492HH"
       ]
     },
     {
@@ -503,7 +1058,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49010"
+        "49010",
+        "490HH",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
       ]
     }
   ]

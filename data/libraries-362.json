@@ -8,7 +8,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36264"
+        "36262",
+        "36264",
+        "36269",
+        "36273"
       ]
     },
     {
@@ -19,7 +22,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36274"
+        "36263",
+        "36270",
+        "36274",
+        "36276",
+        "36278",
+        "36280"
       ]
     },
     {
@@ -30,7 +38,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36251"
+        "35082",
+        "36251",
+        "36255",
+        "36258",
+        "36267"
       ]
     },
     {
@@ -41,7 +53,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36266"
+        "35082",
+        "36255",
+        "36258",
+        "36266",
+        "36267"
       ]
     },
     {
@@ -52,18 +68,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36264"
-      ]
-    },
-    {
-      "name": "OXFORD PUBLIC LIBRARY",
-      "system": "OXFORD PUBLIC LIBRARY",
-      "address": "110 EAST 6TH STREET, OXFORD, AL",
-      "website": "http://oxford.njlibraries.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36203"
+        "36262",
+        "36264",
+        "36269",
+        "36273"
       ]
     },
     {
@@ -74,29 +82,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36201"
-      ]
-    },
-    {
-      "name": "JACKSONVILLE PUBLIC LIBRARY",
-      "system": "JACKSONVILLE PUBLIC LIBRARY",
-      "address": "200 PELHAM ROAD SOUTH, JACKSONVILLE, AL",
-      "website": "http://www.jaxpubliclibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36265"
-      ]
-    },
-    {
-      "name": "PIEDMONT PUBLIC LIBRARY",
-      "system": "PIEDMONT PUBLIC LIBRARY",
-      "address": "106 NORTH MAIN STREET, PIEDMONT, AL",
-      "website": "https://www.cityofpiedmont.com/community-profile/page/public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36272"
+        "36201",
+        "36203",
+        "36205",
+        "36206",
+        "36207",
+        "36250",
+        "36260",
+        "36265",
+        "36272",
+        "36277",
+        "36279",
+        "362HH",
+        "362XX"
       ]
     },
     {
@@ -107,7 +105,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36271"
+        "36203",
+        "36205",
+        "36206",
+        "36207",
+        "36250",
+        "36260",
+        "36265",
+        "36271",
+        "36272",
+        "36277",
+        "36279",
+        "362HH",
+        "362XX"
       ]
     },
     {
@@ -118,7 +128,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36201"
+        "36201",
+        "36203",
+        "36205",
+        "36206",
+        "36207",
+        "36250",
+        "36260",
+        "36265",
+        "36272",
+        "36277",
+        "36279",
+        "362HH",
+        "362XX"
       ]
     },
     {
@@ -129,7 +151,67 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35014",
+        "35096",
+        "35149",
+        "35151",
         "36268"
+      ]
+    },
+    {
+      "name": "HORSESHOE BEND REGIONAL LIBRARY",
+      "system": "HORSESHOE BEND REGIONAL LIBRARY",
+      "address": "207 NORTH WEST STREET, DADEVILLE, AL",
+      "website": "http://www.horseshoebendlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36256",
+        "36850",
+        "36853",
+        "36861"
+      ]
+    },
+    {
+      "name": "DADEVILLE PUBLIC LIBRARY",
+      "system": "DADEVILLE PUBLIC LIBRARY",
+      "address": "205 NORTH WEST STREET, DADEVILLE, AL",
+      "website": "http://dadevillepubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36256",
+        "36850",
+        "36853",
+        "36861"
+      ]
+    },
+    {
+      "name": "ALEXANDER CITY - ADELIA MCCONNELL RUSSELL LIBRARY",
+      "system": "ALEXANDER CITY - ADELIA MCCONNELL RUSSELL LIBRARY",
+      "address": "318 CHURCH STREET, ALEXANDER CITY, AL",
+      "website": "https://www.alexandercityal.gov/library/page/adelia-m-russell-library-0",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35010",
+        "36256",
+        "36850",
+        "36861"
+      ]
+    },
+    {
+      "name": "TALLASSEE COMMUNITY PUBLIC LIBRARY",
+      "system": "TALLASSEE COMMUNITY PUBLIC LIBRARY",
+      "address": "99 FREEMAN AVENUE, TALLASSEE, AL",
+      "website": "https://www.tallasseeal.gov/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36078",
+        "36256",
+        "36850",
+        "36861"
       ]
     }
   ]

@@ -1,116 +1,6 @@
 {
   "libraries": [
     {
-      "name": "ALCESTER PUBLIC LIBRARY",
-      "system": "ALCESTER PUBLIC LIBRARY",
-      "address": "409 E 6TH STREET, ALCESTER, SD",
-      "website": "https://www.alcesterlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57001"
-      ]
-    },
-    {
-      "name": "BERESFORD PUBLIC LIBRARY",
-      "system": "BERESFORD PUBLIC LIBRARY",
-      "address": "115 SOUTH THIRD STREET, BERESFORD, SD",
-      "website": "https://www.beresfordlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57004"
-      ]
-    },
-    {
-      "name": "BROOKINGS PUBLIC LIBRARY",
-      "system": "BROOKINGS PUBLIC LIBRARY",
-      "address": "515 THIRD STREET, BROOKINGS, SD",
-      "website": "https://www.brookingslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57006"
-      ]
-    },
-    {
-      "name": "CANTON PUBLIC LIBRARY",
-      "system": "CANTON PUBLIC LIBRARY",
-      "address": "225 N BROADWAY, CANTON, SD",
-      "website": "https://cantonpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57013"
-      ]
-    },
-    {
-      "name": "CENTERVILLE COMMUNITY LIBRARY",
-      "system": "CENTERVILLE COMMUNITY LIBRARY",
-      "address": "421 FLORIDA, CENTERVILLE, SD",
-      "website": "https://www.centervillecommunitylibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57014"
-      ]
-    },
-    {
-      "name": "DELL RAPIDS CARNEGIE PUBLIC LIBRARY",
-      "system": "DELL RAPIDS CARNEGIE PUBLIC LIBRARY",
-      "address": "513 N ORLEANS AVENUE, DELL RAPIDS, SD",
-      "website": "https://www.cityofdellrapids.org/departments/dell_rapids_carnegie_library/index.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57022"
-      ]
-    },
-    {
-      "name": "ELK POINT-JEFFERSON COMMUNITY/SCHOOL LIBRARY",
-      "system": "ELK POINT-JEFFERSON COMMUNITY/SCHOOL LIBRARY",
-      "address": "402 S DOUGLAS, ELK POINT, SD",
-      "website": "https://epjcommunity.yoursdlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57025"
-      ]
-    },
-    {
-      "name": "ELKTON SCHOOL/COMMUNITY LIBRARY",
-      "system": "ELKTON SCHOOL/COMMUNITY LIBRARY",
-      "address": "508 BUFFALO ST, ELKTON, SD",
-      "website": "https://elktonsd.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57026"
-      ]
-    },
-    {
-      "name": "MOODY COUNTY RESOURCE CENTER",
-      "system": "MOODY COUNTY RESOURCE CENTER",
-      "address": "610 WEST COMMUNITY DRIVE, FLANDREAU, SD",
-      "website": "https://moodycounty.yoursdlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57028"
-      ]
-    },
-    {
-      "name": "FREEMAN PUBLIC LIBRARY",
-      "system": "FREEMAN PUBLIC LIBRARY",
-      "address": "322 S MAIN ST, FREEMAN, SD",
-      "website": "https://www.freemanlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57029"
-      ]
-    },
-    {
       "name": "HURLEY PUBLIC LIBRARY",
       "system": "HURLEY PUBLIC LIBRARY",
       "address": "603 CENTER AVENUE, HURLEY, SD",
@@ -118,51 +8,117 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54525",
+        "54534",
+        "54536",
+        "54550",
+        "54559",
+        "54565",
         "57036"
       ]
     },
     {
-      "name": "IRENE SCHOOL/COMMUNITY LIBRARY",
-      "system": "IRENE SCHOOL/COMMUNITY LIBRARY",
-      "address": "130 E STATE ST, IRENE, SD",
-      "website": "https://dakotaathome.sd.gov/search/e2165bb9-d8c2-5f14-8814-71e3e29ca1bf",
+      "name": "AVON PUBLIC LIBRARY",
+      "system": "AVON PUBLIC LIBRARY",
+      "address": "280 WEST MAIN ST., AVON, MA",
+      "website": "https://www.avon-ma.gov/avon-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57037"
+        "02322",
+        "57063",
+        "570HH",
+        "57315"
       ]
     },
     {
-      "name": "LENNOX COMMUNITY LIBRARY",
-      "system": "LENNOX COMMUNITY LIBRARY",
-      "address": "208 W. 5TH STREET, LENNOX, SD",
-      "website": "https://www.cityoflennoxsd.com/page/lennox-community-library/",
+      "name": "PARKSTON PUBLIC LIBRARY",
+      "system": "PARKSTON PUBLIC LIBRARY",
+      "address": "110 W MAIN ST, PARKSTON, SD",
+      "website": "https://www.cityofparkston.org/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57039"
+        "57052",
+        "57331",
+        "57366"
       ]
     },
     {
-      "name": "MADISON PUBLIC LIBRARY",
-      "system": "MADISON PUBLIC LIBRARY",
-      "address": "209 E CENTER, MADISON, SD",
-      "website": "http://www.madisonpubliclibrary.org/",
+      "name": "TRIPP PUBLIC LIBRARY",
+      "system": "TRIPP PUBLIC LIBRARY",
+      "address": "105 S SLOAN STREET, TRIPP, SD",
+      "website": "https://tripp.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57042"
+        "57052",
+        "57331",
+        "57376"
       ]
     },
     {
-      "name": "MENNO COMMUNITY-SCHOOL LIBRARY",
-      "system": "MENNO COMMUNITY-SCHOOL LIBRARY",
-      "address": "410 S 5TH STREET, MENNO, SD",
-      "website": "https://menno.yoursdlibrary.org/",
+      "name": "HAZEL L. MEYER MEMORIAL LIBRARY",
+      "system": "HAZEL L. MEYER MEMORIAL LIBRARY",
+      "address": "102 1ST STREET NE, DE SMET, SD",
+      "website": "https://desmetsd.com/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57045"
+        "57051",
+        "57212",
+        "57214",
+        "57231",
+        "57233",
+        "57244",
+        "57353"
+      ]
+    },
+    {
+      "name": "DOROTHEE PIKE MEMORIAL LIBRARY",
+      "system": "DOROTHEE PIKE MEMORIAL LIBRARY",
+      "address": "225 N MAIN AVE, LAKE PRESTON, SD",
+      "website": "https://lakeprestonsd.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57051",
+        "57212",
+        "57214",
+        "57233",
+        "57244",
+        "57249",
+        "57353"
+      ]
+    },
+    {
+      "name": "CANTON PUBLIC LIBRARY",
+      "system": "CANTON PUBLIC LIBRARY",
+      "address": "1200 SOUTH CANTON CENTER ROAD, CANTON, MI",
+      "website": "https://cantonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48188",
+        "57013",
+        "57027",
+        "57077",
+        "57108"
+      ]
+    },
+    {
+      "name": "HUDSON PUBLIC LIBRARY",
+      "system": "HUDSON PUBLIC LIBRARY",
+      "address": "316 WHEELOCK, HUDSON, SD",
+      "website": "https://www.townofhudson.org/159/Hudson-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57013",
+        "57027",
+        "57034",
+        "57077",
+        "57108"
       ]
     },
     {
@@ -173,7 +129,221 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57015",
+        "57021",
+        "57043",
+        "57047",
         "57053"
+      ]
+    },
+    {
+      "name": "SIOUXLAND LIBRARIES",
+      "system": "SIOUXLAND LIBRARIES",
+      "address": "200 NORTH DAKOTA AVE, SIOUX FALLS, SD",
+      "website": "https://www.siouxlandlib.org/Home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57003",
+        "57005",
+        "57018",
+        "57020",
+        "57030",
+        "57033",
+        "57035",
+        "57041",
+        "57055",
+        "57068",
+        "57103",
+        "57104",
+        "57105",
+        "57106",
+        "57107",
+        "57110",
+        "57117"
+      ]
+    },
+    {
+      "name": "ALCESTER PUBLIC LIBRARY",
+      "system": "ALCESTER PUBLIC LIBRARY",
+      "address": "409 E 6TH STREET, ALCESTER, SD",
+      "website": "https://www.alcesterlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57001",
+        "57038"
+      ]
+    },
+    {
+      "name": "BERESFORD PUBLIC LIBRARY",
+      "system": "BERESFORD PUBLIC LIBRARY",
+      "address": "115 SOUTH THIRD STREET, BERESFORD, SD",
+      "website": "https://www.beresfordlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57004",
+        "57038"
+      ]
+    },
+    {
+      "name": "BROOKINGS PUBLIC LIBRARY",
+      "system": "BROOKINGS PUBLIC LIBRARY",
+      "address": "515 THIRD STREET, BROOKINGS, SD",
+      "website": "https://www.brookingslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57002",
+        "57006",
+        "57061",
+        "57071",
+        "57220",
+        "57276",
+        "572HH"
+      ]
+    },
+    {
+      "name": "CENTERVILLE COMMUNITY LIBRARY",
+      "system": "CENTERVILLE COMMUNITY LIBRARY",
+      "address": "421 FLORIDA, CENTERVILLE, SD",
+      "website": "https://www.centervillecommunitylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57014",
+        "57015",
+        "57021",
+        "57043",
+        "57047"
+      ]
+    },
+    {
+      "name": "DELL RAPIDS CARNEGIE PUBLIC LIBRARY",
+      "system": "DELL RAPIDS CARNEGIE PUBLIC LIBRARY",
+      "address": "513 N ORLEANS AVENUE, DELL RAPIDS, SD",
+      "website": "https://www.cityofdellrapids.org/departments/dell_rapids_carnegie_library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57003",
+        "57005",
+        "57018",
+        "57020",
+        "57022",
+        "57030",
+        "57033",
+        "57035",
+        "57041",
+        "57055",
+        "57068",
+        "57103",
+        "57104",
+        "57105",
+        "57106",
+        "57107",
+        "57110"
+      ]
+    },
+    {
+      "name": "ELK POINT-JEFFERSON COMMUNITY/SCHOOL LIBRARY",
+      "system": "ELK POINT-JEFFERSON COMMUNITY/SCHOOL LIBRARY",
+      "address": "402 S DOUGLAS, ELK POINT, SD",
+      "website": "https://epjcommunity.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57025",
+        "57038"
+      ]
+    },
+    {
+      "name": "ELKTON SCHOOL/COMMUNITY LIBRARY",
+      "system": "ELKTON SCHOOL/COMMUNITY LIBRARY",
+      "address": "508 BUFFALO ST, ELKTON, SD",
+      "website": "https://elktonsd.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57002",
+        "57026",
+        "57061",
+        "57071",
+        "57220",
+        "57276",
+        "572HH"
+      ]
+    },
+    {
+      "name": "MOODY COUNTY RESOURCE CENTER",
+      "system": "MOODY COUNTY RESOURCE CENTER",
+      "address": "610 WEST COMMUNITY DRIVE, FLANDREAU, SD",
+      "website": "https://moodycounty.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57017",
+        "57024",
+        "57028",
+        "57065",
+        "57074"
+      ]
+    },
+    {
+      "name": "FREEMAN PUBLIC LIBRARY",
+      "system": "FREEMAN PUBLIC LIBRARY",
+      "address": "322 S MAIN ST, FREEMAN, SD",
+      "website": "https://www.freemanlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57029",
+        "57052",
+        "57331"
+      ]
+    },
+    {
+      "name": "IRENE SCHOOL/COMMUNITY LIBRARY",
+      "system": "IRENE SCHOOL/COMMUNITY LIBRARY",
+      "address": "130 E STATE ST, IRENE, SD",
+      "website": "https://dakotaathome.sd.gov/search/e2165bb9-d8c2-5f14-8814-71e3e29ca1bf",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57015",
+        "57021",
+        "57037",
+        "57043",
+        "57047"
+      ]
+    },
+    {
+      "name": "LENNOX COMMUNITY LIBRARY",
+      "system": "LENNOX COMMUNITY LIBRARY",
+      "address": "208 W. 5TH STREET, LENNOX, SD",
+      "website": "https://www.cityoflennoxsd.com/page/lennox-community-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57013",
+        "57027",
+        "57039",
+        "57077",
+        "57108"
+      ]
+    },
+    {
+      "name": "MENNO COMMUNITY-SCHOOL LIBRARY",
+      "system": "MENNO COMMUNITY-SCHOOL LIBRARY",
+      "address": "410 S 5TH STREET, MENNO, SD",
+      "website": "https://menno.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57045",
+        "57052",
+        "57331"
       ]
     },
     {
@@ -184,7 +354,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57066"
+        "57063",
+        "57066",
+        "570HH",
+        "57315"
       ]
     },
     {
@@ -195,7 +368,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57059"
+        "57059",
+        "57063",
+        "570HH",
+        "57315"
       ]
     },
     {
@@ -206,7 +382,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57069"
+        "57010",
+        "57044",
+        "57069",
+        "57073"
       ]
     },
     {
@@ -217,6 +396,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57015",
+        "57021",
+        "57043",
+        "57047",
         "57070"
       ]
     },
@@ -228,6 +411,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57031",
+        "57040",
+        "57046",
+        "57067",
+        "57072",
         "57078"
       ]
     },
@@ -239,18 +427,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57062"
-      ]
-    },
-    {
-      "name": "HUDSON PUBLIC LIBRARY",
-      "system": "HUDSON PUBLIC LIBRARY",
-      "address": "316 WHEELOCK, HUDSON, SD",
-      "website": "https://www.townofhudson.org/159/Hudson-Public-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57034"
+        "57062",
+        "57063",
+        "570HH",
+        "57315"
       ]
     },
     {
@@ -261,6 +441,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57038",
         "57049"
       ]
     },
@@ -272,7 +453,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57032"
+        "57013",
+        "57027",
+        "57032",
+        "57077",
+        "57108"
       ]
     },
     {
@@ -283,7 +468,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57064"
+        "57013",
+        "57027",
+        "57064",
+        "57077",
+        "57108"
       ]
     }
   ]

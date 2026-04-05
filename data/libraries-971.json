@@ -1,113 +1,203 @@
 {
   "libraries": [
     {
-      "name": "AMITY PUBLIC LIBRARY",
-      "system": "AMITY PUBLIC LIBRARY",
-      "address": "307 S TRADE ST, AMITY, OR",
-      "website": "https://librarytechnology.org/library/8123",
+      "name": "MT. ANGEL PUBLIC LIBRARY",
+      "system": "MT. ANGEL PUBLIC LIBRARY",
+      "address": "290 E CHARLES ST, MOUNT ANGEL, OR",
+      "website": "https://mtangelpubliclibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97101"
+        "97002",
+        "97020",
+        "97026",
+        "97032",
+        "97137",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306",
+        "97325",
+        "97342",
+        "97346",
+        "97352",
+        "97362",
+        "97375",
+        "97385",
+        "97392"
       ]
     },
     {
-      "name": "FOREST GROVE CITY LIBRARY",
-      "system": "FOREST GROVE CITY LIBRARY",
-      "address": "2114 PACIFIC AVE, FOREST GROVE, OR",
-      "website": "https://www.wccls.org/using-library/member-libraries/forest-grove-city-library",
+      "name": "SHERIDAN PUBLIC LIBRARY",
+      "system": "SHERIDAN PUBLIC LIBRARY",
+      "address": "109 EAST HAMILTON, SHERIDAN, MT",
+      "website": "https://townofsheridanmt.org/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97116"
+        "59749",
+        "97111",
+        "97115",
+        "97127",
+        "97148",
+        "97378"
       ]
     },
     {
-      "name": "HILLSBORO PUBLIC LIBRARY",
-      "system": "HILLSBORO PUBLIC LIBRARY",
-      "address": "2850 NE BROOKWOOD PKWY, HILLSBORO, OR",
-      "website": "https://librarytechnology.org/library/18225",
+      "name": "SILVER FALLS LIBRARY DISTRICT",
+      "system": "SILVER FALLS LIBRARY DISTRICT",
+      "address": "410 S WATER ST, SILVERTON, OR",
+      "website": "https://www.silverfallslibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97124"
+        "97002",
+        "97020",
+        "97026",
+        "97032",
+        "97137",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306",
+        "97325",
+        "97342",
+        "97346",
+        "97352",
+        "97375",
+        "97381",
+        "97385",
+        "97392"
       ]
     },
     {
-      "name": "ASTORIA PUBLIC LIBRARY",
-      "system": "ASTORIA PUBLIC LIBRARY",
-      "address": "450 10TH ST, ASTORIA, OR",
-      "website": "https://www.astoria.gov/dept/Library",
+      "name": "STAYTON PUBLIC LIBRARY",
+      "system": "STAYTON PUBLIC LIBRARY",
+      "address": "515 N FIRST AVE, STAYTON, OR",
+      "website": "https://www.staytonoregon.gov/page/library_home",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97103"
+        "97002",
+        "97020",
+        "97026",
+        "97032",
+        "97137",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306",
+        "97325",
+        "97342",
+        "97346",
+        "97352",
+        "97375",
+        "97383",
+        "97385",
+        "97392"
       ]
     },
     {
-      "name": "MCMINNVILLE PUBLIC LIBRARY",
-      "system": "MCMINNVILLE PUBLIC LIBRARY",
-      "address": "225 NW ADAMS ST, MCMINNVILLE, OR",
-      "website": "https://www.mcminnvilleoregon.gov/library",
+      "name": "WILLAMINA PUBLIC LIBRARY",
+      "system": "WILLAMINA PUBLIC LIBRARY",
+      "address": "382 NE C ST, WILLAMINA, OR",
+      "website": "https://www.willaminaoregon.gov/departments/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97128"
+        "97111",
+        "97115",
+        "97127",
+        "97148",
+        "97378",
+        "97396"
       ]
     },
     {
-      "name": "NEWBERG PUBLIC LIBRARY",
-      "system": "NEWBERG PUBLIC LIBRARY",
-      "address": "503 E HANCOCK ST, NEWBERG, OR",
-      "website": "https://www.newbergoregon.gov/library/",
+      "name": "TIGARD PUBLIC LIBRARY",
+      "system": "TIGARD PUBLIC LIBRARY",
+      "address": "13500 SW HALL BLVD, TIGARD, OR",
+      "website": "https://www.tigard-or.gov/your-government/departments/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97132"
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97223",
+        "97224"
       ]
     },
     {
-      "name": "SEASIDE PUBLIC LIBRARY",
-      "system": "SEASIDE PUBLIC LIBRARY",
-      "address": "1131 BROADWAY ST, SEASIDE, OR",
-      "website": "https://www.seasidelibrary.org/",
+      "name": "CEDAR MILL COMMUNITY LIBRARY",
+      "system": "CEDAR MILL COMMUNITY LIBRARY",
+      "address": "1080 NW SALTZMAN RD, PORTLAND, OR",
+      "website": "https://library.cedarmill.org/location/cedar-mill-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97138"
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224",
+        "97229"
       ]
     },
     {
-      "name": "TILLAMOOK COUNTY LIBRARY",
-      "system": "TILLAMOOK COUNTY LIBRARY",
-      "address": "1716 3RD ST, TILLAMOOK, OR",
-      "website": "https://www.tillabook.org/",
+      "name": "GARDEN HOME COMMUNITY LIBRARY",
+      "system": "GARDEN HOME COMMUNITY LIBRARY",
+      "address": "7475 SW OLESON RD, PORTLAND, OR",
+      "website": "https://www.gardenhomelibrary.org/ghl",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97141"
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97223",
+        "97224"
       ]
     },
     {
-      "name": "CORNELIUS PUBLIC LIBRARY",
-      "system": "CORNELIUS PUBLIC LIBRARY",
-      "address": "1370 N ADAIR ST, CORNELIUS, OR",
-      "website": "http://www.ci.cornelius.or.us/LIBRARY",
+      "name": "WEST SLOPE COMMUNITY LIBRARY",
+      "system": "WEST SLOPE COMMUNITY LIBRARY",
+      "address": "3678 SW 78TH AVE, PORTLAND, OR",
+      "website": "https://westslopelibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97113"
-      ]
-    },
-    {
-      "name": "MARY GILKEY PUBLIC LIBRARY",
-      "system": "MARY GILKEY PUBLIC LIBRARY",
-      "address": "416 FERRY ST, DAYTON, OR",
-      "website": "https://www.daytonoregon.gov/page/library_about",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97114"
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224",
+        "97225"
       ]
     },
     {
@@ -118,7 +208,180 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97140"
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97140",
+        "97144",
+        "97224"
+      ]
+    },
+    {
+      "name": "AMITY PUBLIC LIBRARY",
+      "system": "AMITY PUBLIC LIBRARY",
+      "address": "307 S TRADE ST, AMITY, OR",
+      "website": "https://librarytechnology.org/library/8123",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97101",
+        "97111",
+        "97115",
+        "97127",
+        "97148",
+        "97378"
+      ]
+    },
+    {
+      "name": "FOREST GROVE CITY LIBRARY",
+      "system": "FOREST GROVE CITY LIBRARY",
+      "address": "2114 PACIFIC AVE, FOREST GROVE, OR",
+      "website": "https://www.wccls.org/using-library/member-libraries/forest-grove-city-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97008",
+        "97109",
+        "97116",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224"
+      ]
+    },
+    {
+      "name": "ASTORIA PUBLIC LIBRARY",
+      "system": "ASTORIA PUBLIC LIBRARY",
+      "address": "450 10TH ST, ASTORIA, OR",
+      "website": "https://www.astoria.gov/dept/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97102",
+        "97103",
+        "97110",
+        "97121",
+        "97145",
+        "971HH"
+      ]
+    },
+    {
+      "name": "MCMINNVILLE PUBLIC LIBRARY",
+      "system": "MCMINNVILLE PUBLIC LIBRARY",
+      "address": "225 NW ADAMS ST, MCMINNVILLE, OR",
+      "website": "https://www.mcminnvilleoregon.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97111",
+        "97115",
+        "97127",
+        "97128",
+        "97148",
+        "97378"
+      ]
+    },
+    {
+      "name": "NEWBERG PUBLIC LIBRARY",
+      "system": "NEWBERG PUBLIC LIBRARY",
+      "address": "503 E HANCOCK ST, NEWBERG, OR",
+      "website": "https://www.newbergoregon.gov/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97111",
+        "97115",
+        "97127",
+        "97132",
+        "97148",
+        "97378"
+      ]
+    },
+    {
+      "name": "SEASIDE PUBLIC LIBRARY",
+      "system": "SEASIDE PUBLIC LIBRARY",
+      "address": "1131 BROADWAY ST, SEASIDE, OR",
+      "website": "https://www.seasidelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97102",
+        "97110",
+        "97121",
+        "97138",
+        "97145",
+        "971HH"
+      ]
+    },
+    {
+      "name": "TILLAMOOK COUNTY LIBRARY",
+      "system": "TILLAMOOK COUNTY LIBRARY",
+      "address": "1716 3RD ST, TILLAMOOK, OR",
+      "website": "https://www.tillabook.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97107",
+        "97108",
+        "97112",
+        "97118",
+        "97122",
+        "97130",
+        "97131",
+        "97134",
+        "97135",
+        "97136",
+        "97141",
+        "97143",
+        "97147",
+        "97149",
+        "971XX"
+      ]
+    },
+    {
+      "name": "CORNELIUS PUBLIC LIBRARY",
+      "system": "CORNELIUS PUBLIC LIBRARY",
+      "address": "1370 N ADAIR ST, CORNELIUS, OR",
+      "website": "http://www.ci.cornelius.or.us/LIBRARY",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97008",
+        "97109",
+        "97113",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224"
+      ]
+    },
+    {
+      "name": "MARY GILKEY PUBLIC LIBRARY",
+      "system": "MARY GILKEY PUBLIC LIBRARY",
+      "address": "416 FERRY ST, DAYTON, OR",
+      "website": "https://www.daytonoregon.gov/page/library_about",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97111",
+        "97114",
+        "97115",
+        "97127",
+        "97148",
+        "97378"
       ]
     },
     {
@@ -129,7 +392,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97146"
+        "97102",
+        "97110",
+        "97121",
+        "97145",
+        "97146",
+        "971HH"
       ]
     },
     {
@@ -140,7 +408,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97106"
+        "97006",
+        "97008",
+        "97106",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224"
       ]
     },
     {
@@ -151,7 +429,108 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97133"
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97133",
+        "97144",
+        "97224"
+      ]
+    },
+    {
+      "name": "BEAVERTON CITY LIBRARY",
+      "system": "BEAVERTON CITY LIBRARY",
+      "address": "12375 SW 5TH ST, BEAVERTON, OR",
+      "website": "https://www.beavertonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97005",
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224"
+      ]
+    },
+    {
+      "name": "TUALATIN PUBLIC LIBRARY",
+      "system": "TUALATIN PUBLIC LIBRARY",
+      "address": "18878 SW MARTINAZZI AVE, TUALATIN, OR",
+      "website": "http://www.tualatinoregon.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97008",
+        "97062",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224"
+      ]
+    },
+    {
+      "name": "WOODBURN PUBLIC LIBRARY",
+      "system": "WOODBURN PUBLIC LIBRARY",
+      "address": "280 GARFIELD ST, WOODBURN, OR",
+      "website": "https://www.woodburn-or.gov/213/Woodburn-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97002",
+        "97020",
+        "97026",
+        "97032",
+        "97071",
+        "97137",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306",
+        "97325",
+        "97342",
+        "97346",
+        "97352",
+        "97375",
+        "97385",
+        "97392"
+      ]
+    },
+    {
+      "name": "ALOHA COMMUNITY LIBRARY",
+      "system": "ALOHA COMMUNITY LIBRARY",
+      "address": "17455 SW FARMINGTON RD, SUITE 26A, ALOHA, OR",
+      "website": "https://alohalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97007",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224"
       ]
     }
   ]

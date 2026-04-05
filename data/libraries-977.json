@@ -1,6 +1,19 @@
 {
   "libraries": [
     {
+      "name": "FOSSIL PUBLIC LIBRARY",
+      "system": "FOSSIL PUBLIC LIBRARY",
+      "address": "401 MAIN ST, FOSSIL, OR",
+      "website": "https://www.fossilridge.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97750",
+        "97830",
+        "97874"
+      ]
+    },
+    {
       "name": "JEFFERSON COUNTY LIBRARY DISTRICT",
       "system": "JEFFERSON COUNTY LIBRARY DISTRICT",
       "address": "241 SE 7TH ST, MADRAS, OR",
@@ -8,7 +21,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97741"
+        "97711",
+        "97730",
+        "97734",
+        "97741",
+        "97760",
+        "97761",
+        "977XX"
       ]
     },
     {
@@ -19,6 +38,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "97751",
+        "97752",
+        "97753",
         "97754"
       ]
     },
@@ -30,7 +52,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97703"
+        "97701",
+        "97702",
+        "97703",
+        "97707",
+        "97712",
+        "97739",
+        "97756",
+        "97759",
+        "977HH"
       ]
     },
     {
@@ -41,7 +71,64 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97720"
+        "97710",
+        "97720",
+        "97721",
+        "97722",
+        "97732",
+        "97736",
+        "97738",
+        "97758",
+        "97904"
+      ]
+    },
+    {
+      "name": "KLAMATH COUNTY LIBRARY SERVICE DISTRICT",
+      "system": "KLAMATH COUNTY LIBRARY SERVICE DISTRICT",
+      "address": "126 S 3RD ST, KLAMATH FALLS, OR",
+      "website": "https://klamathlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97425",
+        "97601",
+        "97603",
+        "97604",
+        "97621",
+        "97622",
+        "97623",
+        "97624",
+        "97625",
+        "97626",
+        "97627",
+        "97632",
+        "97633",
+        "97634",
+        "97639",
+        "976HH",
+        "976XX",
+        "97731",
+        "97733",
+        "97737"
+      ]
+    },
+    {
+      "name": "LAKE COUNTY LIBRARY DISTRICT",
+      "system": "LAKE COUNTY LIBRARY DISTRICT",
+      "address": "26 S G ST, LAKEVIEW, OR",
+      "website": "https://www.lakecountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97620",
+        "97630",
+        "97635",
+        "97636",
+        "97637",
+        "97638",
+        "97640",
+        "97641",
+        "97735"
       ]
     }
   ]

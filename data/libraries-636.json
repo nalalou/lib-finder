@@ -1,6 +1,25 @@
 {
   "libraries": [
     {
+      "name": "BOLLINGER COUNTY LIBRARY",
+      "system": "BOLLINGER COUNTY LIBRARY",
+      "address": "207 MAYFIELD DR., MARBLE HILL, MO",
+      "website": "https://bocolib.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63662",
+        "63750",
+        "63751",
+        "63753",
+        "63760",
+        "63764",
+        "63781",
+        "63782",
+        "63787"
+      ]
+    },
+    {
       "name": "DESLOGE PUBLIC LIBRARY",
       "system": "DESLOGE PUBLIC LIBRARY",
       "address": "209 N DESLOGE DR, DESLOGE, MO",
@@ -8,7 +27,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63601"
+        "63036",
+        "63087",
+        "63601",
+        "63624",
+        "63626",
+        "63637",
+        "63640",
+        "63653"
       ]
     },
     {
@@ -19,29 +45,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63650"
-      ]
-    },
-    {
-      "name": "WASHINGTON COUNTY LIBRARY",
-      "system": "WASHINGTON COUNTY LIBRARY",
-      "address": "235 E HIGH ST, POTOSI, MO",
-      "website": "https://thewashingtoncountylibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63664"
-      ]
-    },
-    {
-      "name": "FARMINGTON PUBLIC LIBRARY",
-      "system": "FARMINGTON PUBLIC LIBRARY",
-      "address": "101 NORTH A STREET, FARMINGTON, MO",
-      "website": "http://www.infoway.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63640"
+        "63620",
+        "63621",
+        "63623",
+        "63636",
+        "63650",
+        "63656",
+        "63663",
+        "63675",
+        "65439",
+        "65566"
       ]
     },
     {
@@ -52,7 +65,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63601"
+        "63036",
+        "63087",
+        "63601",
+        "63624",
+        "63626",
+        "63637",
+        "63640",
+        "63653"
       ]
     },
     {
@@ -63,7 +83,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63628"
+        "63036",
+        "63087",
+        "63624",
+        "63626",
+        "63628",
+        "63637",
+        "63640",
+        "63653"
       ]
     },
     {
@@ -74,7 +101,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63633"
+        "63625",
+        "63629",
+        "63633",
+        "63638",
+        "63654",
+        "63665",
+        "639HH"
       ]
     }
   ]

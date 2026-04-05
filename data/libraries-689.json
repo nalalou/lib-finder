@@ -1,6 +1,39 @@
 {
   "libraries": [
     {
+      "name": "BLUE HILL PUBLIC LIBRARY",
+      "system": "BLUE HILL PUBLIC LIBRARY",
+      "address": "317 WEST GAGE STREET, BLUE HILL, NE",
+      "website": "https://bhpl.libcal.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68928",
+        "68930",
+        "68952"
+      ]
+    },
+    {
+      "name": "FAIRFIELD PUBLIC LIBRARY",
+      "system": "FAIRFIELD PUBLIC LIBRARY",
+      "address": "1080 OLD POST RD., FAIRFIELD, CT",
+      "website": "https://www.fairfield.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06824",
+        "68452",
+        "68934",
+        "68935",
+        "68938",
+        "68941",
+        "68944",
+        "68954",
+        "68975",
+        "68980"
+      ]
+    },
+    {
       "name": "HOESCH MEMORIAL LIBRARY",
       "system": "HOESCH MEMORIAL LIBRARY",
       "address": "1119 SECOND STREET, ALMA, NE",
@@ -8,7 +41,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68920"
+        "68920",
+        "68971",
+        "68977"
       ]
     },
     {
@@ -19,18 +54,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68922"
+        "68922",
+        "68936",
+        "68946",
+        "68948",
+        "68967",
+        "689HH",
+        "69046"
       ]
     },
     {
       "name": "AXTELL PUBLIC LIBRARY",
       "system": "AXTELL PUBLIC LIBRARY",
-      "address": "305 NORTH MAIN STREET, AXTELL, NE",
+      "address": "401 MAPLE, AXTELL, KS",
       "website": "https://libraries.ne.gov/axtell/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68924"
+        "66403",
+        "68924",
+        "68945",
+        "68982"
       ]
     },
     {
@@ -41,18 +85,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68926"
-      ]
-    },
-    {
-      "name": "BLUE HILL PUBLIC LIBRARY",
-      "system": "BLUE HILL PUBLIC LIBRARY",
-      "address": "317 WEST GAGE STREET, BLUE HILL, NE",
-      "website": "https://bhpl.libcal.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68930"
+        "68926",
+        "68936",
+        "68946",
+        "68948",
+        "68967",
+        "689HH",
+        "69046"
       ]
     },
     {
@@ -63,40 +102,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68933"
-      ]
-    },
-    {
-      "name": "ELWOOD PUBLIC LIBRARY",
-      "system": "ELWOOD PUBLIC LIBRARY",
-      "address": "306 CALVERT ST, ELWOOD, NE",
-      "website": "https://elwoodlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68937"
-      ]
-    },
-    {
-      "name": "FAIRFIELD PUBLIC LIBRARY",
-      "system": "FAIRFIELD PUBLIC LIBRARY",
-      "address": "412 NORTH D STREET, FAIRFIELD, NE",
-      "website": "https://www.fairfield.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68938"
-      ]
-    },
-    {
-      "name": "FRANKLIN PUBLIC LIBRARY",
-      "system": "FRANKLIN PUBLIC LIBRARY",
-      "address": "1502 P STREET, FRANKLIN, NE",
-      "website": "https://www.fspl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68939"
+        "68452",
+        "68933",
+        "68934",
+        "68935",
+        "68938",
+        "68941",
+        "68944",
+        "68954",
+        "68975",
+        "68980"
       ]
     },
     {
@@ -107,29 +122,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68942"
+        "68928",
+        "68942",
+        "68952"
       ]
     },
     {
       "name": "HARVARD PUBLIC LIBRARY",
       "system": "HARVARD PUBLIC LIBRARY",
-      "address": "309 NORTH CLAY AVENUE, HARVARD, NE",
+      "address": "4 POND RD., HARVARD, MA",
       "website": "https://www.harvardpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68944"
-      ]
-    },
-    {
-      "name": "HASTINGS PUBLIC LIBRARY",
-      "system": "HASTINGS PUBLIC LIBRARY",
-      "address": "314 N DENVER AV, HASTINGS, NE",
-      "website": "https://www.hastingspubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68901"
+        "01451",
+        "68452",
+        "68934",
+        "68935",
+        "68938",
+        "68941",
+        "68944",
+        "68954",
+        "68975",
+        "68980"
       ]
     },
     {
@@ -140,7 +155,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68947"
+        "68929",
+        "68932",
+        "68939",
+        "68947",
+        "68960",
+        "68972",
+        "68981"
       ]
     },
     {
@@ -151,7 +172,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68949"
+        "68923",
+        "68927",
+        "68940",
+        "68949",
+        "68958"
       ]
     },
     {
@@ -162,7 +187,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68959"
+        "68924",
+        "68945",
+        "68959",
+        "68982"
       ]
     },
     {
@@ -173,7 +201,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68961"
+        "68943",
+        "68957",
+        "68961",
+        "68964",
+        "68974",
+        "68978"
       ]
     },
     {
@@ -184,18 +217,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68966"
-      ]
-    },
-    {
-      "name": "OXFORD PUBLIC LIBRARY",
-      "system": "OXFORD PUBLIC LIBRARY",
-      "address": "411 OGDEN STREET, OXFORD, NE",
-      "website": "http://oxford.njlibraries.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68967"
+        "68966",
+        "68971",
+        "68977"
       ]
     },
     {
@@ -206,6 +230,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68928",
+        "68952",
         "68970"
       ]
     },
@@ -217,18 +243,33 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68979"
+        "68452",
+        "68934",
+        "68935",
+        "68938",
+        "68941",
+        "68944",
+        "68954",
+        "68975",
+        "68979",
+        "68980"
       ]
     },
     {
-      "name": "SUPERIOR PUBLIC LIBRARY",
-      "system": "SUPERIOR PUBLIC LIBRARY",
-      "address": "449 NORTH KANSAS STREET, SUPERIOR, NE",
-      "website": "http://superiorlibrary.org",
+      "name": "BUTLER MEMORIAL LIBRARY",
+      "system": "BUTLER MEMORIAL LIBRARY",
+      "address": "621 PENN, CAMBRIDGE, NE",
+      "website": "https://www.butlermemoriallibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68978"
+        "68936",
+        "68946",
+        "68948",
+        "68967",
+        "689HH",
+        "69022",
+        "69046"
       ]
     }
   ]

@@ -1,14 +1,18 @@
 {
   "libraries": [
     {
-      "name": "CHESTER COUNTY LIBRARY",
-      "system": "CHESTER COUNTY LIBRARY",
-      "address": "100 CENTER STREET, CHESTER, SC",
-      "website": "https://chestercountylibrary.net/",
+      "name": "CHEROKEE COUNTY PUBLIC LIBRARY",
+      "system": "CHEROKEE COUNTY PUBLIC LIBRARY",
+      "address": "300 E. RUTLEDGE AVENUE, GAFFNEY, SC",
+      "website": "https://cherokeecountypubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29706"
+        "29340",
+        "29341",
+        "293HH",
+        "29702",
+        "297HH"
       ]
     },
     {
@@ -19,7 +23,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29709"
+        "29101",
+        "291HH",
+        "29520",
+        "29584",
+        "295HH",
+        "29709",
+        "29718",
+        "29727",
+        "29728",
+        "29741"
       ]
     },
     {
@@ -30,6 +43,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "29058",
+        "29067",
         "29720"
       ]
     },
@@ -41,7 +56,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29730"
+        "29704",
+        "29708",
+        "29710",
+        "29715",
+        "29717",
+        "29726",
+        "29730",
+        "29732",
+        "29742",
+        "29743",
+        "29745"
       ]
     }
   ]

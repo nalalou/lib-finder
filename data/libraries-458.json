@@ -1,58 +1,74 @@
 {
   "libraries": [
     {
-      "name": "ADA PUBLIC SCHOOL DISTRICT LIBRARY",
-      "system": "ADA PUBLIC SCHOOL DISTRICT LIBRARY",
-      "address": "320 N MAIN ST, ADA, OH",
-      "website": "https://www.adalibrary.org/",
+      "name": "LIMA PUBLIC LIBRARY",
+      "system": "LIMA PUBLIC LIBRARY",
+      "address": "650 W. MARKET ST., LIMA, OH",
+      "website": "https://www.limalibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45810"
+        "45801",
+        "45804",
+        "45805",
+        "45806",
+        "45807",
+        "45808",
+        "45809",
+        "45820",
+        "45850",
+        "45887"
       ]
     },
     {
-      "name": "ALGER PUBLIC LIBRARY",
-      "system": "ALGER PUBLIC LIBRARY",
-      "address": "100 W WAGNER ST, ALGER, OH",
-      "website": "https://www.algerlibrary.org/",
+      "name": "SHELBY COUNTY LIBRARIES - AMOS MEMORIAL",
+      "system": "SHELBY COUNTY LIBRARIES - AMOS MEMORIAL",
+      "address": "230 E. NORTH ST., SIDNEY, OH",
+      "website": "https://shelbycountylibraries.org/amos-memorial-public-library-sidney/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45812"
+        "45302",
+        "45306",
+        "45333",
+        "45334",
+        "45336",
+        "45340",
+        "45353",
+        "45360",
+        "45363",
+        "45365",
+        "45845"
       ]
     },
     {
-      "name": "BLUFFTON PUBLIC LIBRARY",
-      "system": "BLUFFTON PUBLIC LIBRARY",
-      "address": "145 S. MAIN ST., BLUFFTON, OH",
-      "website": "https://blufftonpubliclibrary.org/",
+      "name": "RIDGEMONT PUBLIC LIBRARY",
+      "system": "RIDGEMONT PUBLIC LIBRARY",
+      "address": "124 E. TAYLOR ST., MT. VICTORY, OH",
+      "website": "https://www.ridgemont.lib.oh.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45817"
+        "43326",
+        "43340",
+        "43345",
+        "45835",
+        "45859"
       ]
     },
     {
-      "name": "MERCER COUNTY DISTRICT PUBLIC LIBRARY",
-      "system": "MERCER COUNTY DISTRICT PUBLIC LIBRARY",
-      "address": "303 N. MAIN ST., CELINA, OH",
-      "website": "https://mercerlibrary.org/",
+      "name": "MARY LOU JOHNSON-HARDIN CNTY PL",
+      "system": "MARY LOU JOHNSON-HARDIN CNTY PL",
+      "address": "325 E. COLUMBUS ST., KENTON, OH",
+      "website": "https://www.mljlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45822"
-      ]
-    },
-    {
-      "name": "COLDWATER PUBLIC LIBRARY",
-      "system": "COLDWATER PUBLIC LIBRARY",
-      "address": "305 W. MAIN ST., COLDWATER, OH",
-      "website": "https://www.coldwaterpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "45828"
+        "43326",
+        "43345",
+        "44326",
+        "45835",
+        "45859"
       ]
     },
     {
@@ -63,7 +79,100 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45833"
+        "45804",
+        "45805",
+        "45806",
+        "45807",
+        "45808",
+        "45809",
+        "45820",
+        "45833",
+        "45850",
+        "45887"
+      ]
+    },
+    {
+      "name": "ADA PUBLIC SCHOOL DISTRICT LIBRARY",
+      "system": "ADA PUBLIC SCHOOL DISTRICT LIBRARY",
+      "address": "320 N MAIN ST, ADA, OH",
+      "website": "https://www.adalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43326",
+        "43345",
+        "45810",
+        "45835",
+        "45859"
+      ]
+    },
+    {
+      "name": "ALGER PUBLIC LIBRARY",
+      "system": "ALGER PUBLIC LIBRARY",
+      "address": "100 W WAGNER ST, ALGER, OH",
+      "website": "https://www.algerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43326",
+        "43345",
+        "45812",
+        "45835",
+        "45859"
+      ]
+    },
+    {
+      "name": "BLUFFTON PUBLIC LIBRARY",
+      "system": "BLUFFTON PUBLIC LIBRARY",
+      "address": "145 S. MAIN ST., BLUFFTON, OH",
+      "website": "https://blufftonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45804",
+        "45805",
+        "45806",
+        "45807",
+        "45808",
+        "45809",
+        "45817",
+        "45820",
+        "45850",
+        "45887"
+      ]
+    },
+    {
+      "name": "MERCER COUNTY DISTRICT PUBLIC LIBRARY",
+      "system": "MERCER COUNTY DISTRICT PUBLIC LIBRARY",
+      "address": "303 N. MAIN ST., CELINA, OH",
+      "website": "https://mercerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45310",
+        "45822",
+        "45860",
+        "45862",
+        "45866",
+        "45883",
+        "458HH"
+      ]
+    },
+    {
+      "name": "COLDWATER PUBLIC LIBRARY",
+      "system": "COLDWATER PUBLIC LIBRARY",
+      "address": "305 W. MAIN ST., COLDWATER, OH",
+      "website": "https://www.coldwaterpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45310",
+        "45828",
+        "45860",
+        "45862",
+        "45866",
+        "45883",
+        "458HH"
       ]
     },
     {
@@ -74,7 +183,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45836"
+        "43326",
+        "43345",
+        "45835",
+        "45836",
+        "45859"
       ]
     },
     {
@@ -85,7 +198,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45840"
+        "44804",
+        "45814",
+        "45816",
+        "45840",
+        "45841",
+        "45867",
+        "45868",
+        "45881",
+        "45889",
+        "45890",
+        "45897"
       ]
     },
     {
@@ -96,7 +219,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45843"
+        "43326",
+        "43345",
+        "45835",
+        "45843",
+        "45859"
       ]
     },
     {
@@ -107,18 +234,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45846"
-      ]
-    },
-    {
-      "name": "LIMA PUBLIC LIBRARY",
-      "system": "LIMA PUBLIC LIBRARY",
-      "address": "650 W. MARKET ST., LIMA, OH",
-      "website": "https://www.limalibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "45801"
+        "45310",
+        "45846",
+        "45860",
+        "45862",
+        "45866",
+        "45883",
+        "458HH"
       ]
     },
     {
@@ -129,7 +251,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45858"
+        "44804",
+        "45814",
+        "45816",
+        "45841",
+        "45858",
+        "45867",
+        "45868",
+        "45881",
+        "45889",
+        "45890",
+        "45897"
       ]
     },
     {
@@ -140,6 +272,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817",
         "45872"
       ]
     },
@@ -151,7 +302,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45875"
+        "45827",
+        "45830",
+        "45831",
+        "45837",
+        "45844",
+        "45853",
+        "45856",
+        "45875",
+        "45876",
+        "45877"
       ]
     },
     {
@@ -162,7 +322,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45879"
+        "45813",
+        "45821",
+        "45849",
+        "45851",
+        "45855",
+        "45861",
+        "45873",
+        "45879",
+        "45880"
       ]
     },
     {
@@ -173,7 +341,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45882"
+        "45310",
+        "45860",
+        "45862",
+        "45866",
+        "45882",
+        "45883",
+        "458HH"
       ]
     },
     {
@@ -184,7 +358,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45885"
+        "45819",
+        "45865",
+        "45869",
+        "45870",
+        "45871",
+        "45885",
+        "45888",
+        "45896"
       ]
     },
     {
@@ -195,7 +376,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45891"
+        "45832",
+        "45838",
+        "45863",
+        "45874",
+        "45886",
+        "45891",
+        "45894",
+        "45898",
+        "45899"
       ]
     },
     {
@@ -206,7 +395,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45895"
+        "45819",
+        "45865",
+        "45869",
+        "45870",
+        "45871",
+        "45888",
+        "45895",
+        "45896"
       ]
     }
   ]

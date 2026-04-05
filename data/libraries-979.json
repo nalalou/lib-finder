@@ -8,7 +8,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97913"
+        "97901",
+        "97903",
+        "97906",
+        "97908",
+        "97909",
+        "97910",
+        "97911",
+        "97913",
+        "97920",
+        "979XX"
       ]
     },
     {
@@ -19,7 +28,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97914"
+        "97901",
+        "97903",
+        "97906",
+        "97908",
+        "97909",
+        "97910",
+        "97911",
+        "97914",
+        "97920",
+        "979XX"
       ]
     },
     {
@@ -30,7 +48,58 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97918"
+        "97901",
+        "97903",
+        "97906",
+        "97908",
+        "97909",
+        "97910",
+        "97911",
+        "97918",
+        "97920",
+        "979XX"
+      ]
+    },
+    {
+      "name": "BAKER COUNTY LIBRARY DISTRICT",
+      "system": "BAKER COUNTY LIBRARY DISTRICT",
+      "address": "2400 RESORT ST, BAKER CITY, OR",
+      "website": "https://www.bakerlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97814",
+        "97819",
+        "97833",
+        "97834",
+        "97837",
+        "97840",
+        "97870",
+        "97877",
+        "97884",
+        "978HH",
+        "97905",
+        "97907",
+        "979HH"
+      ]
+    },
+    {
+      "name": "HARNEY COUNTY LIBRARY",
+      "system": "HARNEY COUNTY LIBRARY",
+      "address": "80 WEST D ST, BURNS, OR",
+      "website": "https://www.harneycountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97710",
+        "97720",
+        "97721",
+        "97722",
+        "97732",
+        "97736",
+        "97738",
+        "97758",
+        "97904"
       ]
     }
   ]

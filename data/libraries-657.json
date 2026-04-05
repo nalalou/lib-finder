@@ -1,6 +1,156 @@
 {
   "libraries": [
     {
+      "name": "WRIGHT COUNTY LIBRARY",
+      "system": "WRIGHT COUNTY LIBRARY",
+      "address": "160 E. MARSHFIELD, HARTVILLE, MO",
+      "website": "http://www.wrightcounty.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65660",
+        "65662",
+        "65667",
+        "65702",
+        "65704",
+        "65711",
+        "65717"
+      ]
+    },
+    {
+      "name": "LOCKWOOD PUBLIC LIBRARY",
+      "system": "LOCKWOOD PUBLIC LIBRARY",
+      "address": "721 S MAIN ST, LOCKWOOD, MO",
+      "website": "https://librarytechnology.org/library/20159",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65603",
+        "65635",
+        "65646",
+        "65682",
+        "65752"
+      ]
+    },
+    {
+      "name": "STONE COUNTY LIBRARY",
+      "system": "STONE COUNTY LIBRARY",
+      "address": "322 W STATE HIGHWAY 248, GALENA, MO",
+      "website": "http://www.stonecountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65611",
+        "65624",
+        "65633",
+        "65656",
+        "65675",
+        "65681",
+        "65686",
+        "65728",
+        "65737"
+      ]
+    },
+    {
+      "name": "DALLAS COUNTY LIBRARY",
+      "system": "DALLAS COUNTY LIBRARY",
+      "address": "219 WEST MAIN STREET, BUFFALO, MO",
+      "website": "http://www.dallascountylibrary.missouri.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65590",
+        "65622",
+        "65644",
+        "65685",
+        "65764",
+        "65767",
+        "65783"
+      ]
+    },
+    {
+      "name": "OREGON COUNTY LIBRARY DISTRICT",
+      "system": "OREGON COUNTY LIBRARY DISTRICT",
+      "address": "20 COURT SQUARE, ALTON, MO",
+      "website": "https://www.ocld.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65606",
+        "65690",
+        "65692",
+        "65778",
+        "65791"
+      ]
+    },
+    {
+      "name": "DADE COUNTY LIBRARY",
+      "system": "DADE COUNTY LIBRARY",
+      "address": "209 S MAIN ST, GREENFIELD, MO",
+      "website": "https://www.dadecolib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65603",
+        "65635",
+        "65646",
+        "65661",
+        "65752"
+      ]
+    },
+    {
+      "name": "HICKORY COUNTY LIBRARY",
+      "system": "HICKORY COUNTY LIBRARY",
+      "address": "18376 NEW HERMITAGE DRIVE, HERMITAGE, MO",
+      "website": "https://hickorylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65634",
+        "65650",
+        "65668",
+        "65724",
+        "65732",
+        "65735",
+        "65774",
+        "65779"
+      ]
+    },
+    {
+      "name": "POLK COUNTY LIBRARY",
+      "system": "POLK COUNTY LIBRARY",
+      "address": "1690 W BROADWAY ST, BOLIVAR, MO",
+      "website": "http://www.polkcolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65601",
+        "65613",
+        "65617",
+        "65640",
+        "65649",
+        "65659",
+        "65663",
+        "65674",
+        "65710",
+        "65725",
+        "65727"
+      ]
+    },
+    {
+      "name": "SEYMOUR COMMUNITY LIBRARY",
+      "system": "SEYMOUR COMMUNITY LIBRARY",
+      "address": "320 E CLINTON AVE, SEYMOUR, MO",
+      "website": "https://seymour.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65652",
+        "65713",
+        "65746"
+      ]
+    },
+    {
       "name": "BARRY-LAWRENCE REGIONAL LIBRARY",
       "system": "BARRY-LAWRENCE REGIONAL LIBRARY",
       "address": "213 SIXTH ST, MONETT, MO",
@@ -8,7 +158,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65708"
+        "64874",
+        "65623",
+        "65625",
+        "65641",
+        "65647",
+        "65658",
+        "656HH",
+        "65708",
+        "65734",
+        "65745",
+        "65747",
+        "65772",
+        "657HH"
       ]
     },
     {
@@ -19,6 +181,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "65626",
+        "65777",
+        "65788",
+        "65789",
+        "65790",
         "65793"
       ]
     },
@@ -30,7 +197,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65775"
+        "65626",
+        "65775",
+        "65777",
+        "65788",
+        "65789",
+        "65790"
       ]
     },
     {
@@ -41,18 +213,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65714"
-      ]
-    },
-    {
-      "name": "SEYMOUR COMMUNITY LIBRARY",
-      "system": "SEYMOUR COMMUNITY LIBRARY",
-      "address": "320 E CLINTON AVE, SEYMOUR, MO",
-      "website": "https://seymour.lib.mo.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "65746"
+        "65610",
+        "65620",
+        "65629",
+        "65630",
+        "65631",
+        "65657",
+        "65669",
+        "65714",
+        "65720",
+        "65721",
+        "65753",
+        "65754"
       ]
     },
     {
@@ -63,6 +235,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "64744",
+        "64756",
         "65785"
       ]
     },
@@ -74,7 +248,87 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65706"
+        "65652",
+        "65706",
+        "65713"
+      ]
+    },
+    {
+      "name": "MCDONALD COUNTY LIBRARY",
+      "system": "MCDONALD COUNTY LIBRARY",
+      "address": "808 BAILEY RD, PINEVILLE, MO",
+      "website": "https://www.mcdonaldcountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "64831",
+        "64843",
+        "64847",
+        "64854",
+        "64856",
+        "64861",
+        "64863",
+        "64867",
+        "65730"
+      ]
+    },
+    {
+      "name": "MOUNTAIN VIEW PUBLIC LIBRARY",
+      "system": "MOUNTAIN VIEW PUBLIC LIBRARY",
+      "address": "125 S OAK ST, MOUNTAIN VIEW, MO",
+      "website": "https://mtnviewlibmo.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65548",
+        "65626",
+        "65777",
+        "65788",
+        "65789",
+        "65790"
+      ]
+    },
+    {
+      "name": "SPRINGFIELD-GREENE COUNTY LIBRARY DISTRICT",
+      "system": "SPRINGFIELD-GREENE COUNTY LIBRARY DISTRICT",
+      "address": "4653 S CAMPBELL AVE, SPRINGFIELD, MO",
+      "website": "https://thelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65604",
+        "65612",
+        "65619",
+        "65648",
+        "65738",
+        "65742",
+        "65757",
+        "65770",
+        "65781",
+        "65802",
+        "65803",
+        "65804",
+        "65806",
+        "65807",
+        "65809",
+        "65810",
+        "658HH"
+      ]
+    },
+    {
+      "name": "LEBANON-LACLEDE COUNTY LIBRARY",
+      "system": "LEBANON-LACLEDE COUNTY LIBRARY",
+      "address": "915 S JEFFERSON AVE, LEBANON, MO",
+      "website": "https://www.lebanon-laclede.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65463",
+        "65470",
+        "65536",
+        "65543",
+        "65632",
+        "65722"
       ]
     }
   ]

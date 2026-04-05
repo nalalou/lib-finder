@@ -3,12 +3,16 @@
     {
       "name": "OHIO COUNTY PUBLIC LIBRARY",
       "system": "OHIO COUNTY PUBLIC LIBRARY",
-      "address": "52 16TH ST., WHEELING, WV",
+      "address": "413 SOUTH MAIN STREET, HARTFORD, KY",
       "website": "http://ocpl.lib.in.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26003"
+        "26003",
+        "26059",
+        "26060",
+        "26074",
+        "42347"
       ]
     },
     {
@@ -19,7 +23,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26041"
+        "26031",
+        "26033",
+        "26036",
+        "26038",
+        "26039",
+        "26040",
+        "26041",
+        "26055"
       ]
     },
     {
@@ -30,6 +41,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "26050",
+        "26056",
         "26062"
       ]
     },
@@ -41,7 +54,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26047"
+        "26047",
+        "26050",
+        "26056"
       ]
     },
     {
@@ -52,7 +67,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26034"
+        "26034",
+        "26050",
+        "26056"
       ]
     },
     {
@@ -63,7 +80,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26070"
+        "26030",
+        "26032",
+        "26035",
+        "26037",
+        "26070",
+        "26075",
+        "260HH"
       ]
     }
   ]

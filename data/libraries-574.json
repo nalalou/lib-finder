@@ -1,6 +1,54 @@
 {
   "libraries": [
     {
+      "name": "HAND COUNTY LIBRARY",
+      "system": "HAND COUNTY LIBRARY",
+      "address": "402 NORTH BROADWAY, MILLER, SD",
+      "website": "https://handcounty.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57362",
+        "57371",
+        "57373",
+        "57467"
+      ]
+    },
+    {
+      "name": "WAUBAY PUBLIC LIBRARY",
+      "system": "WAUBAY PUBLIC LIBRARY",
+      "address": "94 NORTH MAIN ST, WAUBAY, SD",
+      "website": "https://waubay.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57219",
+        "57239",
+        "57261",
+        "57273",
+        "57274",
+        "57422",
+        "57468"
+      ]
+    },
+    {
+      "name": "WEBSTER PUBLIC LIBRARY",
+      "system": "WEBSTER PUBLIC LIBRARY",
+      "address": "WEBSTER PLAZA, 980 RIDGE ROAD, WEBSTER, NY",
+      "website": "https://webster.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "14580",
+        "57219",
+        "57239",
+        "57261",
+        "57274",
+        "57422",
+        "57468"
+      ]
+    },
+    {
       "name": "K.O. LEE ABERDEEN PUBLIC LIBRARY",
       "system": "K.O. LEE ABERDEEN PUBLIC LIBRARY",
       "address": "215 FOURTH AVENUE SE, ABERDEEN, SD",
@@ -8,7 +56,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57401"
+        "57401",
+        "57426",
+        "57427",
+        "57432",
+        "57433",
+        "57446",
+        "57449",
+        "57460",
+        "57474",
+        "57479",
+        "57481"
       ]
     },
     {
@@ -19,7 +77,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57428"
+        "57428",
+        "57448",
+        "57462",
+        "57471"
       ]
     },
     {
@@ -30,6 +91,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57232",
+        "57247",
+        "57270",
+        "57421",
         "57430"
       ]
     },
@@ -41,7 +106,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57436"
+        "57424",
+        "57434",
+        "57436",
+        "57440",
+        "57461",
+        "57465",
+        "57476",
+        "57477"
       ]
     },
     {
@@ -52,7 +124,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57437"
+        "57437",
+        "57457"
       ]
     },
     {
@@ -63,7 +136,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57438"
+        "57435",
+        "57438",
+        "57466",
+        "57470",
+        "57473"
       ]
     },
     {
@@ -74,7 +151,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57441"
+        "57426",
+        "57427",
+        "57432",
+        "57433",
+        "57441",
+        "57446",
+        "57449",
+        "57460",
+        "57474",
+        "57479",
+        "57481"
       ]
     },
     {
@@ -85,7 +172,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57442"
+        "57442",
+        "57450",
+        "57455",
+        "57475",
+        "574HH"
       ]
     },
     {
@@ -96,7 +187,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57451"
+        "57448",
+        "57451",
+        "57462",
+        "57471"
       ]
     },
     {
@@ -107,7 +201,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57456"
+        "57456",
+        "57457"
       ]
     },
     {
@@ -118,7 +213,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57469"
+        "57424",
+        "57434",
+        "57440",
+        "57461",
+        "57465",
+        "57469",
+        "57476",
+        "57477"
       ]
     },
     {
@@ -129,7 +231,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57445"
+        "57426",
+        "57427",
+        "57432",
+        "57433",
+        "57445",
+        "57446",
+        "57449",
+        "57460",
+        "57474",
+        "57479",
+        "57481"
       ]
     },
     {
@@ -140,7 +252,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57232",
+        "57247",
+        "57270",
+        "57421",
         "57454"
+      ]
+    },
+    {
+      "name": "A. H. BROWN PUBLIC LIBRARY",
+      "system": "A. H. BROWN PUBLIC LIBRARY",
+      "address": "521 N MAIN STREET, MOBRIDGE, SD",
+      "website": "https://ahbrown.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57420",
+        "57452",
+        "57472",
+        "57601",
+        "57631"
       ]
     }
   ]

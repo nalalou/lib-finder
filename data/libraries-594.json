@@ -1,47 +1,17 @@
 {
   "libraries": [
     {
-      "name": "WEDSWORTH MEMORIAL LIBRARY",
-      "system": "WEDSWORTH MEMORIAL LIBRARY",
-      "address": "13 NORTH FRONT STREET, CASCADE, MT",
-      "website": "https://cascademtwedsworthlibrary.org/",
+      "name": "HARLOWTON PUBLIC LIBRARY",
+      "system": "HARLOWTON PUBLIC LIBRARY",
+      "address": "13 SOUTH CENTRAL AVE, HARLOWTON, MT",
+      "website": "https://harlowtonpubliclibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59421"
-      ]
-    },
-    {
-      "name": "CHOTEAU/TETON PUBLIC LIBRARY",
-      "system": "CHOTEAU/TETON PUBLIC LIBRARY",
-      "address": "17 MAIN AVENUE NORTH, CHOTEAU, MT",
-      "website": "https://choteau-tetonpubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59422"
-      ]
-    },
-    {
-      "name": "CONRAD PUBLIC LIBRARY",
-      "system": "CONRAD PUBLIC LIBRARY",
-      "address": "15 4TH AVENUE SW, CONRAD, MT",
-      "website": "https://www.conradlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59425"
-      ]
-    },
-    {
-      "name": "GLACIER COUNTY LIBRARY",
-      "system": "GLACIER COUNTY LIBRARY",
-      "address": "21 1ST AVENUE SE, CUT BANK, MT",
-      "website": "https://glaciercountymt.gov/departments/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59427"
+        "59036",
+        "59078",
+        "59085",
+        "59453"
       ]
     },
     {
@@ -52,62 +22,36 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59430"
+        "59430",
+        "75007",
+        "75010",
+        "75028",
+        "75057",
+        "75077",
+        "76201",
+        "76205",
+        "76207",
+        "76208",
+        "76226"
       ]
     },
     {
-      "name": "DUTTON/TETON PUBLIC LIBRARY",
-      "system": "DUTTON/TETON PUBLIC LIBRARY",
-      "address": "22 MAIN ST W, DUTTON, MT",
-      "website": "https://tetoncountymt.gov/libraries/",
+      "name": "LEWIS AND CLARK LIBRARY",
+      "system": "LEWIS AND CLARK LIBRARY",
+      "address": "120 SOUTH LAST CHANCE GULCH, HELENA, MT",
+      "website": "http://www.lclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59433"
-      ]
-    },
-    {
-      "name": "FAIRFIELD/TETON PUBLIC LIBRARY",
-      "system": "FAIRFIELD/TETON PUBLIC LIBRARY",
-      "address": "14 NORTH 4TH ST, FAIRFIELD, MT",
-      "website": "https://librarytechnology.org/library/20701",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59436"
-      ]
-    },
-    {
-      "name": "CHOUTEAU COUNTY LIBRARY",
-      "system": "CHOUTEAU COUNTY LIBRARY",
-      "address": "1518 MAIN, FORT BENTON, MT",
-      "website": "https://www.chouteaucountylibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59442"
-      ]
-    },
-    {
-      "name": "GREAT FALLS PUBLIC LIBRARY",
-      "system": "GREAT FALLS PUBLIC LIBRARY",
-      "address": "301 2ND AVE NORTH, GREAT FALLS, MT",
-      "website": "https://greatfallslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59401"
-      ]
-    },
-    {
-      "name": "LEWISTOWN PUBLIC LIBRARY",
-      "system": "LEWISTOWN PUBLIC LIBRARY",
-      "address": "701 WEST MAIN, LEWISTOWN, MT",
-      "website": "https://lewistownlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59457"
+        "59410",
+        "59601",
+        "59602",
+        "59633",
+        "59635",
+        "59636",
+        "59639",
+        "59640",
+        "59648"
       ]
     },
     {
@@ -118,7 +62,172 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59464"
+        "59464",
+        "77517",
+        "77518",
+        "77551",
+        "77553",
+        "77554",
+        "77565",
+        "77590",
+        "77591",
+        "77617",
+        "77623",
+        "77650"
+      ]
+    },
+    {
+      "name": "WEDSWORTH MEMORIAL LIBRARY",
+      "system": "WEDSWORTH MEMORIAL LIBRARY",
+      "address": "13 NORTH FRONT STREET, CASCADE, MT",
+      "website": "https://cascademtwedsworthlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59404",
+        "59405",
+        "59414",
+        "59421",
+        "59443",
+        "59463",
+        "59465",
+        "59472",
+        "59477",
+        "59480",
+        "59483",
+        "59485",
+        "59487",
+        "594HH"
+      ]
+    },
+    {
+      "name": "CHOTEAU/TETON PUBLIC LIBRARY",
+      "system": "CHOTEAU/TETON PUBLIC LIBRARY",
+      "address": "17 MAIN AVENUE NORTH, CHOTEAU, MT",
+      "website": "https://choteau-tetonpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59419",
+        "59422",
+        "59467",
+        "59468"
+      ]
+    },
+    {
+      "name": "CONRAD PUBLIC LIBRARY",
+      "system": "CONRAD PUBLIC LIBRARY",
+      "address": "114 N MAIN ST, CONRAD, IA",
+      "website": "https://www.conradlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50621",
+        "59416",
+        "59425",
+        "59432",
+        "59448"
+      ]
+    },
+    {
+      "name": "GLACIER COUNTY LIBRARY",
+      "system": "GLACIER COUNTY LIBRARY",
+      "address": "21 1ST AVENUE SE, CUT BANK, MT",
+      "website": "https://glaciercountymt.gov/departments/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59411",
+        "59417",
+        "59427",
+        "59434",
+        "594XX"
+      ]
+    },
+    {
+      "name": "DUTTON/TETON PUBLIC LIBRARY",
+      "system": "DUTTON/TETON PUBLIC LIBRARY",
+      "address": "22 MAIN ST W, DUTTON, MT",
+      "website": "https://tetoncountymt.gov/libraries/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59419",
+        "59433",
+        "59467",
+        "59468"
+      ]
+    },
+    {
+      "name": "FAIRFIELD/TETON PUBLIC LIBRARY",
+      "system": "FAIRFIELD/TETON PUBLIC LIBRARY",
+      "address": "14 NORTH 4TH ST, FAIRFIELD, MT",
+      "website": "https://librarytechnology.org/library/20701",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59419",
+        "59436",
+        "59467",
+        "59468"
+      ]
+    },
+    {
+      "name": "CHOUTEAU COUNTY LIBRARY",
+      "system": "CHOUTEAU COUNTY LIBRARY",
+      "address": "1518 MAIN, FORT BENTON, MT",
+      "website": "https://www.chouteaucountylibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59420",
+        "59440",
+        "59442",
+        "59446",
+        "59450",
+        "59460",
+        "59520",
+        "595HH"
+      ]
+    },
+    {
+      "name": "GREAT FALLS PUBLIC LIBRARY",
+      "system": "GREAT FALLS PUBLIC LIBRARY",
+      "address": "301 2ND AVE NORTH, GREAT FALLS, MT",
+      "website": "https://greatfallslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59401",
+        "59404",
+        "59405",
+        "59414",
+        "59443",
+        "59463",
+        "59465",
+        "59472",
+        "59477",
+        "59480",
+        "59483",
+        "59485",
+        "59487",
+        "594HH"
+      ]
+    },
+    {
+      "name": "LEWISTOWN PUBLIC LIBRARY",
+      "system": "LEWISTOWN PUBLIC LIBRARY",
+      "address": "701 WEST MAIN, LEWISTOWN, MT",
+      "website": "https://lewistownlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59032",
+        "59424",
+        "59441",
+        "59451",
+        "59457",
+        "59471"
       ]
     },
     {
@@ -129,7 +238,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59474"
+        "59454",
+        "59456",
+        "59466",
+        "59474",
+        "59482",
+        "59484"
       ]
     },
     {
@@ -140,6 +254,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59447",
+        "59452",
+        "59462",
+        "59469",
         "59479"
       ]
     },
@@ -151,6 +269,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59416",
+        "59425",
+        "59432",
+        "59448",
         "59486"
       ]
     },
@@ -162,7 +284,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59412"
+        "59404",
+        "59405",
+        "59412",
+        "59414",
+        "59443",
+        "59463",
+        "59465",
+        "59472",
+        "59477",
+        "59480",
+        "59483",
+        "59485",
+        "59487",
+        "594HH"
       ]
     },
     {
@@ -173,7 +308,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59032",
+        "59424",
+        "59441",
+        "59451",
+        "59471",
         "59489"
+      ]
+    },
+    {
+      "name": "LIBERTY COUNTY LIBRARY",
+      "system": "LIBERTY COUNTY LIBRARY",
+      "address": "110 EAST 1ST STREET, CHESTER, MT",
+      "website": "https://www.libertycountymt.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59444",
+        "59522",
+        "59531",
+        "59545"
       ]
     }
   ]

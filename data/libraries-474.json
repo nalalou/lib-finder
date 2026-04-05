@@ -1,6 +1,97 @@
 {
   "libraries": [
     {
+      "name": "BEDFORD PUBLIC LIBRARY",
+      "system": "BEDFORD PUBLIC LIBRARY",
+      "address": "1323 K STREET, BEDFORD, IN",
+      "website": "https://www.bedlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47421",
+        "76001",
+        "76002",
+        "76006",
+        "76011",
+        "76012",
+        "76013",
+        "76014",
+        "76015",
+        "76016",
+        "76017",
+        "76018",
+        "76021",
+        "76022",
+        "76040",
+        "76054",
+        "76063",
+        "76103",
+        "76104",
+        "76105",
+        "76106",
+        "76107",
+        "76109",
+        "76110",
+        "76111",
+        "76112",
+        "76114",
+        "76115",
+        "76116",
+        "76119",
+        "76120",
+        "76123",
+        "76127",
+        "76131",
+        "76132",
+        "76133",
+        "76134",
+        "76137",
+        "76155",
+        "76177",
+        "761HH"
+      ]
+    },
+    {
+      "name": "BROWN COUNTY PUBLIC LIBRARY",
+      "system": "BROWN COUNTY PUBLIC LIBRARY",
+      "address": "205 LOCUST LANE, NASHVILLE, IN",
+      "website": "http://browncountylibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45101",
+        "45115",
+        "45118",
+        "45121",
+        "45130",
+        "45131",
+        "45154",
+        "45168",
+        "45171",
+        "47448"
+      ]
+    },
+    {
+      "name": "MONROE COUNTY PUBLIC LIBRARY",
+      "system": "MONROE COUNTY PUBLIC LIBRARY",
+      "address": "303 EAST KIRKWOOD AVENUE, BLOOMINGTON, IN",
+      "website": "http://www.mcpl.info",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24918",
+        "24941",
+        "24945",
+        "24951",
+        "24974",
+        "24976",
+        "24983",
+        "24984",
+        "24985",
+        "47408"
+      ]
+    },
+    {
       "name": "JASONVILLE PUBLIC LIBRARY",
       "system": "JASONVILLE PUBLIC LIBRARY",
       "address": "611 WEST MAIN STREET, JASONVILLE, IN",
@@ -8,7 +99,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47438"
+        "47438",
+        "47443",
+        "47445",
+        "47449",
+        "47453",
+        "47459",
+        "47465"
       ]
     },
     {
@@ -19,7 +116,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47441"
+        "47441",
+        "47443",
+        "47445",
+        "47449",
+        "47453",
+        "47459",
+        "47465"
       ]
     },
     {
@@ -30,6 +133,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "47443",
+        "47445",
+        "47449",
+        "47453",
+        "47459",
+        "47465",
         "47471"
       ]
     },
@@ -41,18 +150,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47424"
-      ]
-    },
-    {
-      "name": "BEDFORD PUBLIC LIBRARY",
-      "system": "BEDFORD PUBLIC LIBRARY",
-      "address": "1323 K STREET, BEDFORD, IN",
-      "website": "https://www.bedlib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47421"
+        "47424",
+        "47443",
+        "47445",
+        "47449",
+        "47453",
+        "47459",
+        "47465"
       ]
     },
     {
@@ -63,40 +167,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47446"
-      ]
-    },
-    {
-      "name": "MONROE COUNTY PUBLIC LIBRARY",
-      "system": "MONROE COUNTY PUBLIC LIBRARY",
-      "address": "303 EAST KIRKWOOD AVENUE, BLOOMINGTON, IN",
-      "website": "http://www.mcpl.info",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47408"
-      ]
-    },
-    {
-      "name": "OWEN COUNTY PUBLIC LIBRARY",
-      "system": "OWEN COUNTY PUBLIC LIBRARY",
-      "address": "10 SOUTH MONTGOMERY STREET, SPENCER, IN",
-      "website": "https://owenlib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47460"
-      ]
-    },
-    {
-      "name": "BROWN COUNTY PUBLIC LIBRARY",
-      "system": "BROWN COUNTY PUBLIC LIBRARY",
-      "address": "205 LOCUST LANE, NASHVILLE, IN",
-      "website": "http://browncountylibrary.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47448"
+        "47420",
+        "47430",
+        "47436",
+        "47446",
+        "47451",
+        "47462",
+        "47467",
+        "47470"
       ]
     },
     {
@@ -107,7 +185,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47432"
+        "47432",
+        "47469"
       ]
     },
     {
@@ -118,7 +197,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47452"
+        "47452",
+        "47469"
       ]
     },
     {
@@ -129,7 +209,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47454"
+        "47454",
+        "47469"
       ]
     }
   ]

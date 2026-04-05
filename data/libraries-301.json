@@ -1,6 +1,35 @@
 {
   "libraries": [
     {
+      "name": "COBB COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "COBB COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "266 ROSWELL STREET, MARIETTA, GA",
+      "website": "https://www.cobbcounty.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30008",
+        "30060",
+        "30062",
+        "30064",
+        "30066",
+        "30067",
+        "30068",
+        "30080",
+        "30082",
+        "300HH",
+        "30101",
+        "30106",
+        "30126",
+        "30127",
+        "30144",
+        "30152",
+        "30168",
+        "30339",
+        "303HH"
+      ]
+    },
+    {
       "name": "BARTOW COUNTY LIBRARY SYSTEM",
       "system": "BARTOW COUNTY LIBRARY SYSTEM",
       "address": "429 WEST MAIN STREET, CARTERSVILLE, GA",
@@ -8,7 +37,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "30120"
+        "30103",
+        "30120",
+        "30121",
+        "30137",
+        "30145",
+        "30171",
+        "30178",
+        "30184",
+        "301HH"
       ]
     },
     {
@@ -19,7 +56,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "30117"
+        "30108",
+        "30116",
+        "30117",
+        "30170",
+        "30179",
+        "30180",
+        "30182",
+        "30185"
       ]
     },
     {
@@ -30,7 +74,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "30114"
+        "30102",
+        "30107",
+        "30114",
+        "30115",
+        "30183",
+        "30188",
+        "30189"
       ]
     },
     {
@@ -41,7 +91,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "30161"
+        "30105",
+        "30124",
+        "30147",
+        "30161",
+        "30165",
+        "30173"
       ]
     }
   ]

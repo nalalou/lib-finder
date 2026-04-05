@@ -8,7 +8,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83210"
+        "83203",
+        "83210",
+        "83215",
+        "83218",
+        "83236",
+        "83262",
+        "83277",
+        "832XX"
       ]
     },
     {
@@ -19,7 +26,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83211"
+        "83211",
+        "83212"
       ]
     },
     {
@@ -30,7 +38,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83213"
+        "83213",
+        "83244",
+        "83255"
       ]
     },
     {
@@ -41,7 +51,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83221"
+        "83203",
+        "83215",
+        "83218",
+        "83221",
+        "83236",
+        "83262",
+        "83277",
+        "832XX"
       ]
     },
     {
@@ -52,7 +69,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83221"
+        "83203",
+        "83215",
+        "83218",
+        "83221",
+        "83236",
+        "83262",
+        "83277",
+        "832XX"
       ]
     },
     {
@@ -63,7 +87,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83226"
+        "83226",
+        "83227",
+        "83235"
       ]
     },
     {
@@ -74,7 +100,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83202"
+        "83201",
+        "83202",
+        "83214",
+        "83245",
+        "83246",
+        "83250",
+        "83281",
+        "832HH"
       ]
     },
     {
@@ -85,7 +118,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83234"
+        "83201",
+        "83214",
+        "83234",
+        "83245",
+        "83246",
+        "83250",
+        "83281",
+        "832HH"
       ]
     },
     {
@@ -96,7 +136,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83241"
+        "83217",
+        "83241",
+        "83285"
       ]
     },
     {
@@ -107,6 +149,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "83243",
         "83252"
       ]
     },
@@ -118,6 +161,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "83227",
+        "83235",
         "83251"
       ]
     },
@@ -129,7 +174,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83254"
+        "83220",
+        "83223",
+        "83238",
+        "83239",
+        "83254",
+        "83261",
+        "83272",
+        "83287"
       ]
     },
     {
@@ -140,7 +192,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83204"
+        "83201",
+        "83204",
+        "83214",
+        "83245",
+        "83246",
+        "83250",
+        "83281",
+        "832HH"
       ]
     },
     {
@@ -151,7 +210,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83263"
+        "83228",
+        "83232",
+        "83237",
+        "83263",
+        "83283",
+        "83286"
       ]
     },
     {
@@ -162,6 +226,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "83212",
         "83271"
       ]
     },
@@ -173,7 +238,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83274"
+        "83203",
+        "83215",
+        "83218",
+        "83236",
+        "83262",
+        "83274",
+        "83277",
+        "832XX"
       ]
     },
     {
@@ -184,7 +256,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83276"
+        "83217",
+        "83276",
+        "83285"
       ]
     },
     {
@@ -195,7 +269,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "83227",
+        "83235",
         "83278"
+      ]
+    },
+    {
+      "name": "LEMHI COUNTY DISTRICT",
+      "system": "LEMHI COUNTY DISTRICT",
+      "address": "300 MAIN ST, SALMON, ID",
+      "website": "https://libraries.idaho.gov/idaho-library-directory/listing/lemhi-county-district-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "83253",
+        "83462",
+        "83463",
+        "83464",
+        "83465",
+        "83466",
+        "83467",
+        "83468",
+        "83469"
       ]
     }
   ]

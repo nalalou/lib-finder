@@ -8,7 +8,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72834"
+        "72824",
+        "72827",
+        "72828",
+        "72829",
+        "72833",
+        "72834",
+        "72838",
+        "72842",
+        "72853",
+        "72857",
+        "72860"
       ]
     },
     {
@@ -19,7 +29,34 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72801"
+        "72679",
+        "72801",
+        "72802",
+        "72823",
+        "72837",
+        "72843",
+        "72847",
+        "72858"
+      ]
+    },
+    {
+      "name": "NEWTON COUNTY",
+      "system": "NEWTON COUNTY",
+      "address": "230 S. STONE, JASPER, AR",
+      "website": "https://www.newtoncountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72624",
+        "72628",
+        "72640",
+        "72641",
+        "72648",
+        "72655",
+        "72666",
+        "72683",
+        "72685",
+        "72856"
       ]
     }
   ]

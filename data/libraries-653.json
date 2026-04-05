@@ -1,6 +1,24 @@
 {
   "libraries": [
     {
+      "name": "TRAILS REGIONAL LIBRARY",
+      "system": "TRAILS REGIONAL LIBRARY",
+      "address": "432 N HOLDEN ST, WARRENSBURG, MO",
+      "website": "https://www.trailslibrary.org/about/hours-locations/warrensburg-branch/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "64019",
+        "64040",
+        "64061",
+        "64093",
+        "64733",
+        "64761",
+        "65305",
+        "65336"
+      ]
+    },
+    {
       "name": "SLATER PUBLIC LIBRARY",
       "system": "SLATER PUBLIC LIBRARY",
       "address": "201 N MAIN ST, SLATER, MO",
@@ -8,7 +26,33 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "65320",
+        "65321",
+        "65327",
+        "65330",
+        "65339",
+        "65340",
+        "65344",
+        "65347",
         "65349"
+      ]
+    },
+    {
+      "name": "HENRY COUNTY LIBRARY",
+      "system": "HENRY COUNTY LIBRARY",
+      "address": "123 E GREEN ST, CLINTON, MO",
+      "website": "https://www.henrycolib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "64726",
+        "64735",
+        "64740",
+        "64770",
+        "64788",
+        "647HH",
+        "65323",
+        "65360"
       ]
     },
     {
@@ -19,7 +63,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65301"
+        "65301",
+        "65332",
+        "65333",
+        "65334",
+        "65337",
+        "65345",
+        "65350"
       ]
     },
     {
@@ -30,7 +80,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65301"
+        "65301",
+        "65332",
+        "65333",
+        "65334",
+        "65337",
+        "65345",
+        "65350"
       ]
     },
     {
@@ -41,18 +97,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "65320",
+        "65321",
+        "65327",
+        "65330",
+        "65339",
+        "65340",
+        "65344",
+        "65347",
         "65351"
-      ]
-    },
-    {
-      "name": "MARSHALL PUBLIC LIBRARY",
-      "system": "MARSHALL PUBLIC LIBRARY",
-      "address": "214 N LAFAYETTE AVE, MARSHALL, MO",
-      "website": "https://marshallpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "65340"
       ]
     }
   ]

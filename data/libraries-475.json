@@ -1,58 +1,16 @@
 {
   "libraries": [
     {
-      "name": "WASHINGTON CARNEGIE PUBLIC LIBRARY",
-      "system": "WASHINGTON CARNEGIE PUBLIC LIBRARY",
-      "address": "300 WEST MAIN STREET, WASHINGTON, IN",
-      "website": "https://evergreen.lib.in.us/eg/opac/library/WTONC-WAS",
+      "name": "PERRY COUNTY PUBLIC LIBRARY",
+      "system": "PERRY COUNTY PUBLIC LIBRARY",
+      "address": "2328 TELL STREET, TELL CITY, IN",
+      "website": "https://perrycountypl.org/tell-city/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47501"
-      ]
-    },
-    {
-      "name": "ODON WINKELPLECK PUBLIC LIBRARY",
-      "system": "ODON WINKELPLECK PUBLIC LIBRARY",
-      "address": "202 WEST MAIN STREET, ODON, IN",
-      "website": "https://evergreen.lib.in.us/eg/opac/library/ODONW-ODO",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47562"
-      ]
-    },
-    {
-      "name": "JASPER-DUBOIS COUNTY CONTRACTUAL PUBLIC LIBRARY",
-      "system": "JASPER-DUBOIS COUNTY CONTRACTUAL PUBLIC LIBRARY",
-      "address": "100 3RD AVE, SUITE B, JASPER, IN",
-      "website": "https://jdcpl.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47546"
-      ]
-    },
-    {
-      "name": "HUNTINGBURG PUBLIC LIBRARY",
-      "system": "HUNTINGBURG PUBLIC LIBRARY",
-      "address": "419 NORTH JACKSON STREET, HUNTINGBURG, IN",
-      "website": "https://huntingburglibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47542"
-      ]
-    },
-    {
-      "name": "BICKNELL-VIGO TOWNSHIP PUBLIC LIBRARY",
-      "system": "BICKNELL-VIGO TOWNSHIP PUBLIC LIBRARY",
-      "address": "201 WEST 2ND STREET, BICKNELL, IN",
-      "website": "https://bicknell-vigo.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47512"
+        "37096",
+        "37097",
+        "47586"
       ]
     },
     {
@@ -63,7 +21,137 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "40734",
+        "40771",
+        "40903",
+        "40906",
+        "40915",
+        "40921",
+        "40923",
+        "40930",
+        "40935",
+        "40943",
+        "40946",
+        "40949",
+        "40953",
+        "40982",
+        "40995",
+        "40997",
+        "40999",
         "47591"
+      ]
+    },
+    {
+      "name": "PIKE COUNTY PUBLIC LIBRARY",
+      "system": "PIKE COUNTY PUBLIC LIBRARY",
+      "address": "1008 EAST MAPLE STREET, PETERSBURG, IN",
+      "website": "https://evergreen.lib.in.us/eg/opac/library/PIKEC-PET",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18324",
+        "18328",
+        "18336",
+        "18337",
+        "18340",
+        "18425",
+        "18426",
+        "18435",
+        "18451",
+        "18457",
+        "18458",
+        "18464",
+        "47567"
+      ]
+    },
+    {
+      "name": "WASHINGTON CARNEGIE PUBLIC LIBRARY",
+      "system": "WASHINGTON CARNEGIE PUBLIC LIBRARY",
+      "address": "300 WEST MAIN STREET, WASHINGTON, IN",
+      "website": "https://evergreen.lib.in.us/eg/opac/library/WTONC-WAS",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47501",
+        "47519",
+        "47529",
+        "47558",
+        "47568",
+        "475HH"
+      ]
+    },
+    {
+      "name": "ODON WINKELPLECK PUBLIC LIBRARY",
+      "system": "ODON WINKELPLECK PUBLIC LIBRARY",
+      "address": "202 WEST MAIN STREET, ODON, IN",
+      "website": "https://evergreen.lib.in.us/eg/opac/library/ODONW-ODO",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47519",
+        "47529",
+        "47558",
+        "47562",
+        "47568",
+        "475HH"
+      ]
+    },
+    {
+      "name": "JASPER-DUBOIS COUNTY CONTRACTUAL PUBLIC LIBRARY",
+      "system": "JASPER-DUBOIS COUNTY CONTRACTUAL PUBLIC LIBRARY",
+      "address": "100 3RD AVE, SUITE B, JASPER, IN",
+      "website": "https://jdcpl.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47513",
+        "47521",
+        "47527",
+        "47532",
+        "47541",
+        "47545",
+        "47546",
+        "47575",
+        "47580"
+      ]
+    },
+    {
+      "name": "HUNTINGBURG PUBLIC LIBRARY",
+      "system": "HUNTINGBURG PUBLIC LIBRARY",
+      "address": "419 NORTH JACKSON STREET, HUNTINGBURG, IN",
+      "website": "https://huntingburglibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47513",
+        "47521",
+        "47527",
+        "47532",
+        "47541",
+        "47542",
+        "47545",
+        "47575",
+        "47580"
+      ]
+    },
+    {
+      "name": "BICKNELL-VIGO TOWNSHIP PUBLIC LIBRARY",
+      "system": "BICKNELL-VIGO TOWNSHIP PUBLIC LIBRARY",
+      "address": "201 WEST 2ND STREET, BICKNELL, IN",
+      "website": "https://bicknell-vigo.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47512",
+        "47516",
+        "47524",
+        "47528",
+        "47535",
+        "47557",
+        "47561",
+        "47578",
+        "47596",
+        "47597"
       ]
     },
     {
@@ -74,6 +162,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "47522",
         "47553"
       ]
     },
@@ -85,29 +174,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "47522",
         "47581"
-      ]
-    },
-    {
-      "name": "PERRY COUNTY PUBLIC LIBRARY",
-      "system": "PERRY COUNTY PUBLIC LIBRARY",
-      "address": "2328 TELL STREET, TELL CITY, IN",
-      "website": "https://perrycountypl.org/tell-city/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47586"
-      ]
-    },
-    {
-      "name": "PIKE COUNTY PUBLIC LIBRARY",
-      "system": "PIKE COUNTY PUBLIC LIBRARY",
-      "address": "1008 EAST MAPLE STREET, PETERSBURG, IN",
-      "website": "https://evergreen.lib.in.us/eg/opac/library/PIKEC-PET",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47567"
       ]
     },
     {
@@ -118,7 +186,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47523"
+        "47523",
+        "47531",
+        "47536",
+        "47537",
+        "47550",
+        "47552",
+        "47577",
+        "47579",
+        "47611",
+        "47615",
+        "47634"
       ]
     }
   ]

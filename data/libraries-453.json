@@ -1,6 +1,60 @@
 {
   "libraries": [
     {
+      "name": "MECHANICSBURG PUBLIC LIBRARY",
+      "system": "MECHANICSBURG PUBLIC LIBRARY",
+      "address": "60 S. MAIN ST., MECHANICSBURG, OH",
+      "website": "https://www.mechanicsburgohlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43009",
+        "43044",
+        "43060",
+        "43070",
+        "43084",
+        "430HH",
+        "45317",
+        "45389"
+      ]
+    },
+    {
+      "name": "ST. PARIS PUBLIC LIBRARY",
+      "system": "ST. PARIS PUBLIC LIBRARY",
+      "address": "127 E. MAIN ST., ST. PARIS, OH",
+      "website": "https://www.stparispubliclibrary.org/index.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43009",
+        "43060",
+        "43070",
+        "43072",
+        "43084",
+        "430HH",
+        "45317",
+        "45389"
+      ]
+    },
+    {
+      "name": "CHAMPAIGN COUNTY LIBRARY",
+      "system": "CHAMPAIGN COUNTY LIBRARY",
+      "address": "1060 SCIOTO ST., URBANA, OH",
+      "website": "https://www.champaigncountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43009",
+        "43060",
+        "43070",
+        "43078",
+        "43084",
+        "430HH",
+        "45317",
+        "45389"
+      ]
+    },
+    {
       "name": "ARCANUM PUBLIC LIBRARY",
       "system": "ARCANUM PUBLIC LIBRARY",
       "address": "101 NORTH ST., ARCANUM, OH",
@@ -8,7 +62,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45304"
+        "45303",
+        "45304",
+        "45328",
+        "45331",
+        "45332",
+        "45348",
+        "45351",
+        "45352",
+        "45358",
+        "45362",
+        "45388",
+        "45390"
       ]
     },
     {
@@ -19,7 +84,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45308"
+        "45308",
+        "45312",
+        "45326",
+        "45337",
+        "45339",
+        "45359"
       ]
     },
     {
@@ -30,7 +100,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45318"
+        "45312",
+        "45318",
+        "45326",
+        "45337",
+        "45339",
+        "45359"
       ]
     },
     {
@@ -41,7 +116,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45320"
+        "45003",
+        "45070",
+        "45311",
+        "45320",
+        "45321",
+        "45338",
+        "45347",
+        "45378",
+        "45381",
+        "45382"
       ]
     },
     {
@@ -52,7 +136,39 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45327"
+        "45309",
+        "45315",
+        "45322",
+        "45325",
+        "45327",
+        "45342",
+        "45345",
+        "45354",
+        "45377",
+        "45403",
+        "45404",
+        "45405",
+        "45406",
+        "45407",
+        "45408",
+        "45409",
+        "45410",
+        "45414",
+        "45415",
+        "45416",
+        "45417",
+        "45418",
+        "45420",
+        "45424",
+        "45426",
+        "45427",
+        "45429",
+        "45431",
+        "45439",
+        "45440",
+        "45449",
+        "45459",
+        "454HH"
       ]
     },
     {
@@ -63,29 +179,36 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45330"
-      ]
-    },
-    {
-      "name": "GREENVILLE PUBLIC LIBRARY",
-      "system": "GREENVILLE PUBLIC LIBRARY",
-      "address": "520 SYCAMORE ST., GREENVILLE, OH",
-      "website": "http://www.yourlibrary.ws/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "45331"
+        "45003",
+        "45070",
+        "45311",
+        "45321",
+        "45330",
+        "45338",
+        "45347",
+        "45378",
+        "45381",
+        "45382"
       ]
     },
     {
       "name": "BROWN MEMORIAL LIBRARY",
       "system": "BROWN MEMORIAL LIBRARY",
-      "address": "101 S. COMMERCE ST., LEWISBURG, OH",
+      "address": "78 WEST MAIN STREET, BRADFORD, NH",
       "website": "http://www.clinton-me.us/index.asp?SEC=3990C4D7-E89A-4722-B926-831200BB08B2&Type=B_BASIC",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45338"
+        "03221",
+        "45003",
+        "45070",
+        "45311",
+        "45321",
+        "45338",
+        "45347",
+        "45378",
+        "45381",
+        "45382"
       ]
     },
     {
@@ -96,7 +219,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45344"
+        "43010",
+        "45323",
+        "45341",
+        "45344",
+        "45349",
+        "45368",
+        "45369",
+        "45502",
+        "45503",
+        "45504",
+        "45505",
+        "45506",
+        "455HH"
       ]
     },
     {
@@ -107,7 +242,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45346"
+        "45303",
+        "45328",
+        "45331",
+        "45332",
+        "45346",
+        "45348",
+        "45351",
+        "45352",
+        "45358",
+        "45362",
+        "45388",
+        "45390"
       ]
     },
     {
@@ -118,7 +264,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45356"
+        "45312",
+        "45326",
+        "45337",
+        "45339",
+        "45356",
+        "45359"
       ]
     },
     {
@@ -129,7 +280,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45365"
+        "45302",
+        "45306",
+        "45333",
+        "45334",
+        "45336",
+        "45340",
+        "45353",
+        "45360",
+        "45363",
+        "45365",
+        "45845"
       ]
     },
     {
@@ -140,6 +301,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "45312",
+        "45326",
+        "45337",
+        "45339",
+        "45359",
         "45371"
       ]
     },
@@ -151,6 +317,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "45312",
+        "45326",
+        "45337",
+        "45339",
+        "45359",
         "45373"
       ]
     },
@@ -162,7 +333,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45380"
+        "45303",
+        "45328",
+        "45331",
+        "45332",
+        "45348",
+        "45351",
+        "45352",
+        "45358",
+        "45362",
+        "45380",
+        "45388",
+        "45390"
       ]
     },
     {
@@ -173,6 +355,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "45312",
+        "45326",
+        "45337",
+        "45339",
+        "45359",
         "45383"
       ]
     },
@@ -184,7 +371,242 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45385"
+        "45301",
+        "45305",
+        "45307",
+        "45314",
+        "45316",
+        "45324",
+        "45335",
+        "45370",
+        "45384",
+        "45385",
+        "45387",
+        "453HH",
+        "45430",
+        "45432",
+        "45433",
+        "45434"
+      ]
+    },
+    {
+      "name": "CLARK COUNTY PUBLIC LIBRARY",
+      "system": "CLARK COUNTY PUBLIC LIBRARY",
+      "address": "370 SOUTH BURNS AVENUE, WINCHESTER, KY",
+      "website": "https://www.ccplohio.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40391",
+        "43010",
+        "45323",
+        "45341",
+        "45349",
+        "45368",
+        "45369",
+        "45502",
+        "45503",
+        "45504",
+        "45505",
+        "45506",
+        "455HH"
+      ]
+    },
+    {
+      "name": "MERCER COUNTY DISTRICT PUBLIC LIBRARY",
+      "system": "MERCER COUNTY DISTRICT PUBLIC LIBRARY",
+      "address": "303 N. MAIN ST., CELINA, OH",
+      "website": "https://mercerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45310",
+        "45822",
+        "45860",
+        "45862",
+        "45866",
+        "45883",
+        "458HH"
+      ]
+    },
+    {
+      "name": "COLDWATER PUBLIC LIBRARY",
+      "system": "COLDWATER PUBLIC LIBRARY",
+      "address": "305 W. MAIN ST., COLDWATER, OH",
+      "website": "https://www.coldwaterpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45310",
+        "45828",
+        "45860",
+        "45862",
+        "45866",
+        "45883",
+        "458HH"
+      ]
+    },
+    {
+      "name": "FORT RECOVERY PUBLIC LIBRARY",
+      "system": "FORT RECOVERY PUBLIC LIBRARY",
+      "address": "113 N. WAYNE ST., FORT RECOVERY, OH",
+      "website": "https://www.fortrecoverylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45310",
+        "45846",
+        "45860",
+        "45862",
+        "45866",
+        "45883",
+        "458HH"
+      ]
+    },
+    {
+      "name": "ROCKFORD CARNEGIE LIBRARY",
+      "system": "ROCKFORD CARNEGIE LIBRARY",
+      "address": "162 S. MAIN ST., ROCKFORD, OH",
+      "website": "https://www.rcpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45310",
+        "45860",
+        "45862",
+        "45866",
+        "45882",
+        "45883",
+        "458HH"
+      ]
+    },
+    {
+      "name": "WASHINGTON-CENTERVILLE PUBLIC LIBRARY",
+      "system": "WASHINGTON-CENTERVILLE PUBLIC LIBRARY",
+      "address": "111 W. SPRING VALLEY ROAD, CENTERVILLE, OH",
+      "website": "https://www.wclibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45309",
+        "45315",
+        "45322",
+        "45325",
+        "45342",
+        "45345",
+        "45354",
+        "45377",
+        "45403",
+        "45404",
+        "45405",
+        "45406",
+        "45407",
+        "45408",
+        "45409",
+        "45410",
+        "45414",
+        "45415",
+        "45416",
+        "45417",
+        "45418",
+        "45420",
+        "45424",
+        "45426",
+        "45427",
+        "45429",
+        "45431",
+        "45439",
+        "45440",
+        "45449",
+        "45458",
+        "45459",
+        "454HH"
+      ]
+    },
+    {
+      "name": "DAYTON METRO LIBRARY",
+      "system": "DAYTON METRO LIBRARY",
+      "address": "215 E. THIRD ST., DAYTON, OH",
+      "website": "https://www.daytonmetrolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45309",
+        "45315",
+        "45322",
+        "45325",
+        "45342",
+        "45345",
+        "45354",
+        "45377",
+        "45402",
+        "45403",
+        "45404",
+        "45405",
+        "45406",
+        "45407",
+        "45408",
+        "45409",
+        "45410",
+        "45414",
+        "45415",
+        "45416",
+        "45417",
+        "45418",
+        "45420",
+        "45424",
+        "45426",
+        "45427",
+        "45429",
+        "45431",
+        "45439",
+        "45440",
+        "45449",
+        "45459",
+        "454HH"
+      ]
+    },
+    {
+      "name": "WRIGHT MEMORIAL PUBLIC LIBRARY",
+      "system": "WRIGHT MEMORIAL PUBLIC LIBRARY",
+      "address": "1776 FAR HILLS AVE., OAKWOOD, OH",
+      "website": "https://wrightlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45309",
+        "45315",
+        "45322",
+        "45325",
+        "45342",
+        "45345",
+        "45354",
+        "45377",
+        "45403",
+        "45404",
+        "45405",
+        "45406",
+        "45407",
+        "45408",
+        "45409",
+        "45410",
+        "45414",
+        "45415",
+        "45416",
+        "45417",
+        "45418",
+        "45419",
+        "45420",
+        "45424",
+        "45426",
+        "45427",
+        "45429",
+        "45431",
+        "45439",
+        "45440",
+        "45449",
+        "45459",
+        "454HH"
       ]
     }
   ]

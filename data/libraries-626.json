@@ -1,157 +1,23 @@
 {
   "libraries": [
     {
-      "name": "PRAIRIE SKIES PUBLIC LIBRARY DISTRICT",
-      "system": "PRAIRIE SKIES PUBLIC LIBRARY DISTRICT",
-      "address": "125 WEST EDITOR STREET, ASHLAND, IL",
-      "website": "https://www.ashlandil.com/library",
+      "name": "ATLANTA PUBLIC LIBRARY DISTRICT",
+      "system": "ATLANTA PUBLIC LIBRARY DISTRICT",
+      "address": "100 RACE STREET, ATLANTA, IL",
+      "website": "http://www.atlantapld.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62612"
-      ]
-    },
-    {
-      "name": "AUBURN PUBLIC LIBRARY DISTRICT",
-      "system": "AUBURN PUBLIC LIBRARY DISTRICT",
-      "address": "338 WEST JEFFERSON STREET, AUBURN, IL",
-      "website": "https://www.auburnpubliclibraryil.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62615"
-      ]
-    },
-    {
-      "name": "BEARDSTOWN HOUSTON MEMORIAL PUBLIC LIBRARY",
-      "system": "BEARDSTOWN HOUSTON MEMORIAL PUBLIC LIBRARY",
-      "address": "13 BOULEVARD ROAD, BEARDSTOWN, IL",
-      "website": "https://cityofbeardstown.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62618"
-      ]
-    },
-    {
-      "name": "BLUFFS PUBLIC LIBRARY",
-      "system": "BLUFFS PUBLIC LIBRARY",
-      "address": "110 NORTH BLUFF STREET, BLUFFS, IL",
-      "website": "https://librarytechnology.org/library/17273",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62621"
-      ]
-    },
-    {
-      "name": "CARLINVILLE PUBLIC LIBRARY",
-      "system": "CARLINVILLE PUBLIC LIBRARY",
-      "address": "510 NORTH BROAD STREET, CARLINVILLE, IL",
-      "website": "https://www.carlinvillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62626"
-      ]
-    },
-    {
-      "name": "CHATHAM AREA PUBLIC LIBRARY DISTRICT",
-      "system": "CHATHAM AREA PUBLIC LIBRARY DISTRICT",
-      "address": "600 EAST SPRUCE STREET, CHATHAM, IL",
-      "website": "https://www.chathamlib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62629"
-      ]
-    },
-    {
-      "name": "ELKHART PUBLIC LIBRARY DISTRICT",
-      "system": "ELKHART PUBLIC LIBRARY DISTRICT",
-      "address": "121 EAST BOHAN STREET, ELKHART, IL",
-      "website": "https://www.elkhartlibrary.lib.il.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62634"
-      ]
-    },
-    {
-      "name": "GIRARD TOWNSHIP LIBRARY",
-      "system": "GIRARD TOWNSHIP LIBRARY",
-      "address": "201 WEST MADISON STREET, GIRARD, IL",
-      "website": "https://www.girardtownshiplibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62640"
-      ]
-    },
-    {
-      "name": "HAVANA PUBLIC LIBRARY DISTRICT",
-      "system": "HAVANA PUBLIC LIBRARY DISTRICT",
-      "address": "201 WEST ADAMS STREET, HAVANA, IL",
-      "website": "https://www.havanalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62644"
-      ]
-    },
-    {
-      "name": "JACKSONVILLE PUBLIC LIBRARY",
-      "system": "JACKSONVILLE PUBLIC LIBRARY",
-      "address": "201 WEST COLLEGE AVENUE, JACKSONVILLE, IL",
-      "website": "http://www.jaxpubliclibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62650"
-      ]
-    },
-    {
-      "name": "LINCOLN PUBLIC LIBRARY DISTRICT",
-      "system": "LINCOLN PUBLIC LIBRARY DISTRICT",
-      "address": "725 PEKIN STREET, LINCOLN, IL",
-      "website": "https://lincolnpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62656"
-      ]
-    },
-    {
-      "name": "M-C RIVER VALLEY PUBLIC LIBRARY DISTRICT",
-      "system": "M-C RIVER VALLEY PUBLIC LIBRARY DISTRICT",
-      "address": "304 MAIN STREET, MEREDOSIA, IL",
-      "website": "https://librarylearning.org/m-c-river-valley-public-library-district",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62665"
-      ]
-    },
-    {
-      "name": "MASON CITY PUBLIC LIBRARY DISTRICT",
-      "system": "MASON CITY PUBLIC LIBRARY DISTRICT",
-      "address": "820 WEST CHESTNUT STREET, MASON CITY, IL",
-      "website": "https://www.masoncitylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62664"
-      ]
-    },
-    {
-      "name": "PETERSBURG PUBLIC LIBRARY",
-      "system": "PETERSBURG PUBLIC LIBRARY",
-      "address": "220 SOUTH SIXTH STREET, PETERSBURG, IL",
-      "website": "https://ci.petersburg.ne.us/our-community/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62675"
+        "61723",
+        "62512",
+        "62518",
+        "62519",
+        "62541",
+        "62543",
+        "62635",
+        "62643",
+        "62666",
+        "62671"
       ]
     },
     {
@@ -162,7 +28,353 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62681"
+        "62681",
+        "69335",
+        "69340",
+        "69351",
+        "69360",
+        "69365"
+      ]
+    },
+    {
+      "name": "BUNKER HILL PUBLIC LIBRARY DISTRICT",
+      "system": "BUNKER HILL PUBLIC LIBRARY DISTRICT",
+      "address": "220 EAST WARREN STREET, BUNKER HILL, IL",
+      "website": "https://www.bunkerhilllibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62014",
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "GILLESPIE PUBLIC LIBRARY",
+      "system": "GILLESPIE PUBLIC LIBRARY",
+      "address": "201 WEST CHESTNUT STREET, GILLESPIE, IL",
+      "website": "http://www.gillespiepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62023",
+        "62033",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "BRIGHTON MEMORIAL LIBRARY DISTRICT",
+      "system": "BRIGHTON MEMORIAL LIBRARY DISTRICT",
+      "address": "110 NORTH MAIN STREET, BRIGHTON, IL",
+      "website": "https://brightonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62012",
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "FRANK BERTETTI BENLD PUBLIC LIBRARY",
+      "system": "FRANK BERTETTI BENLD PUBLIC LIBRARY",
+      "address": "308 EAST CENTRAL AVENUE, BENLD, IL",
+      "website": "https://www.benldlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62009",
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "PRAIRIE SKIES PUBLIC LIBRARY DISTRICT",
+      "system": "PRAIRIE SKIES PUBLIC LIBRARY DISTRICT",
+      "address": "125 WEST EDITOR STREET, ASHLAND, IL",
+      "website": "https://www.ashlandil.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62611",
+        "62612",
+        "62627",
+        "626HH"
+      ]
+    },
+    {
+      "name": "AUBURN PUBLIC LIBRARY DISTRICT",
+      "system": "AUBURN PUBLIC LIBRARY DISTRICT",
+      "address": "338 WEST JEFFERSON STREET, AUBURN, IL",
+      "website": "https://www.auburnpubliclibraryil.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62615",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "BEARDSTOWN HOUSTON MEMORIAL PUBLIC LIBRARY",
+      "system": "BEARDSTOWN HOUSTON MEMORIAL PUBLIC LIBRARY",
+      "address": "13 BOULEVARD ROAD, BEARDSTOWN, IL",
+      "website": "https://cityofbeardstown.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62611",
+        "62618",
+        "62627",
+        "626HH"
+      ]
+    },
+    {
+      "name": "BLUFFS PUBLIC LIBRARY",
+      "system": "BLUFFS PUBLIC LIBRARY",
+      "address": "110 NORTH BLUFF STREET, BLUFFS, IL",
+      "website": "https://librarytechnology.org/library/17273",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62610",
+        "62621",
+        "62663",
+        "62694"
+      ]
+    },
+    {
+      "name": "CARLINVILLE PUBLIC LIBRARY",
+      "system": "CARLINVILLE PUBLIC LIBRARY",
+      "address": "510 NORTH BROAD STREET, CARLINVILLE, IL",
+      "website": "https://www.carlinvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62626",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "CHATHAM AREA PUBLIC LIBRARY DISTRICT",
+      "system": "CHATHAM AREA PUBLIC LIBRARY DISTRICT",
+      "address": "600 EAST SPRUCE STREET, CHATHAM, IL",
+      "website": "https://www.chathamlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62625",
+        "62629",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "ELKHART PUBLIC LIBRARY DISTRICT",
+      "system": "ELKHART PUBLIC LIBRARY DISTRICT",
+      "address": "121 EAST BOHAN STREET, ELKHART, IL",
+      "website": "https://www.elkhartlibrary.lib.il.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62512",
+        "62518",
+        "62519",
+        "62541",
+        "62543",
+        "62634",
+        "62635",
+        "62643",
+        "62666",
+        "62671"
+      ]
+    },
+    {
+      "name": "GIRARD TOWNSHIP LIBRARY",
+      "system": "GIRARD TOWNSHIP LIBRARY",
+      "address": "201 WEST MADISON STREET, GIRARD, IL",
+      "website": "https://www.girardtownshiplibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62640",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "HAVANA PUBLIC LIBRARY DISTRICT",
+      "system": "HAVANA PUBLIC LIBRARY DISTRICT",
+      "address": "201 WEST ADAMS STREET, HAVANA, IL",
+      "website": "https://www.havanalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61532",
+        "61567",
+        "62617",
+        "62633",
+        "62644",
+        "62655",
+        "62682"
+      ]
+    },
+    {
+      "name": "LINCOLN PUBLIC LIBRARY DISTRICT",
+      "system": "LINCOLN PUBLIC LIBRARY DISTRICT",
+      "address": "725 PEKIN STREET, LINCOLN, IL",
+      "website": "https://lincolnpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62512",
+        "62518",
+        "62519",
+        "62541",
+        "62543",
+        "62635",
+        "62643",
+        "62656",
+        "62666",
+        "62671"
+      ]
+    },
+    {
+      "name": "M-C RIVER VALLEY PUBLIC LIBRARY DISTRICT",
+      "system": "M-C RIVER VALLEY PUBLIC LIBRARY DISTRICT",
+      "address": "304 MAIN STREET, MEREDOSIA, IL",
+      "website": "https://librarylearning.org/m-c-river-valley-public-library-district",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62601",
+        "62628",
+        "62631",
+        "62638",
+        "62650",
+        "62665",
+        "62668",
+        "62692",
+        "62695"
+      ]
+    },
+    {
+      "name": "MASON CITY PUBLIC LIBRARY DISTRICT",
+      "system": "MASON CITY PUBLIC LIBRARY DISTRICT",
+      "address": "820 WEST CHESTNUT STREET, MASON CITY, IL",
+      "website": "https://www.masoncitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61532",
+        "61567",
+        "62617",
+        "62633",
+        "62655",
+        "62664",
+        "62682"
       ]
     },
     {
@@ -173,6 +385,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686",
         "62690"
       ]
     },
@@ -184,29 +411,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62691"
+        "62611",
+        "62627",
+        "62691",
+        "626HH"
       ]
     },
     {
       "name": "WAVERLY PUBLIC LIBRARY",
       "system": "WAVERLY PUBLIC LIBRARY",
-      "address": "291 NORTH PEARL STREET, WAVERLY, IL",
+      "address": "1500 W BREMER AVE, WAVERLY, IA",
       "website": "https://www.waverlyil.com/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62692"
-      ]
-    },
-    {
-      "name": "WINCHESTER PUBLIC LIBRARY",
-      "system": "WINCHESTER PUBLIC LIBRARY",
-      "address": "215 NORTH MAIN STREET, WINCHESTER, IL",
-      "website": "https://www.winpublib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62694"
+        "50677",
+        "62601",
+        "62628",
+        "62631",
+        "62638",
+        "62650",
+        "62668",
+        "62692",
+        "62695"
       ]
     },
     {
@@ -217,7 +444,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62684"
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62625",
+        "62661",
+        "62677",
+        "62684",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
       ]
     },
     {
@@ -228,7 +469,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62613"
+        "62613",
+        "62642",
+        "62673",
+        "62675",
+        "62688"
       ]
     },
     {
@@ -239,7 +484,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62693"
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62693",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
       ]
     },
     {
@@ -250,7 +509,183 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62670"
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62625",
+        "62661",
+        "62670",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "DIVERNON TOWNSHIP LIBRARY",
+      "system": "DIVERNON TOWNSHIP LIBRARY",
+      "address": "221 SOUTH SECOND STREET, DIVERNON, IL",
+      "website": "https://divernontownshiplibrary.org/about-us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62520",
+        "62530",
+        "62536",
+        "62545",
+        "62558",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "ILLIOPOLIS/NIANTIC PUBLIC LIBRARY DISTRICT",
+      "system": "ILLIOPOLIS/NIANTIC PUBLIC LIBRARY DISTRICT",
+      "address": "401 SIXTH AND MARY STREET, ILLIOPOLIS, IL",
+      "website": "https://www.illiopolisniantic.lib.il.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62520",
+        "62536",
+        "62539",
+        "62545",
+        "62558",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "MOUNT PULASKI PUBLIC LIBRARY DISTRICT",
+      "system": "MOUNT PULASKI PUBLIC LIBRARY DISTRICT",
+      "address": "320 NORTH WASHINGTON STREET, MOUNT PULASKI, IL",
+      "website": "https://mplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62512",
+        "62518",
+        "62519",
+        "62541",
+        "62543",
+        "62548",
+        "62635",
+        "62643",
+        "62666",
+        "62671"
+      ]
+    },
+    {
+      "name": "ROCHESTER PUBLIC LIBRARY DISTRICT",
+      "system": "ROCHESTER PUBLIC LIBRARY DISTRICT",
+      "address": "1 COMMUNITY DRIVE, ROCHESTER, IL",
+      "website": "https://www.rochesterlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62563",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "RIVERTON VILLAGE LIBRARY",
+      "system": "RIVERTON VILLAGE LIBRARY",
+      "address": "1200 EAST RIVERTON ROAD, RIVERTON, IL",
+      "website": "https://www.rivertonvillagelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62561",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "TRI-CITY PUBLIC LIBRARY DISTRICT",
+      "system": "TRI-CITY PUBLIC LIBRARY DISTRICT",
+      "address": "600 SOUTH MAIN STREET, BUFFALO, IL",
+      "website": "https://www.tricitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62515",
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "FORMAN VALLEY PUBLIC LIBRARY DISTRICT",
+      "system": "FORMAN VALLEY PUBLIC LIBRARY DISTRICT",
+      "address": "404 1/2 SOUTH HARRISON STREET, MANITO, IL",
+      "website": "https://formanvalleylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61532",
+        "61546",
+        "61567",
+        "62617",
+        "62633",
+        "62655",
+        "62682"
       ]
     }
   ]

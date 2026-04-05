@@ -1,105 +1,6 @@
 {
   "libraries": [
     {
-      "name": "ASHLAND PUBLIC LIBRARY",
-      "system": "ASHLAND PUBLIC LIBRARY",
-      "address": "224 CLAREMONT AVE., ASHLAND, OH",
-      "website": "https://www.ashlandmass.com/184/Ashland-Public-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44805"
-      ]
-    },
-    {
-      "name": "SENECA EAST PUBLIC LIBRARY",
-      "system": "SENECA EAST PUBLIC LIBRARY",
-      "address": "14 N MAIN ST, ATTICA, OH",
-      "website": "https://www.senecaeastlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44807"
-      ]
-    },
-    {
-      "name": "BELLEVUE PUBLIC LIBRARY",
-      "system": "BELLEVUE PUBLIC LIBRARY",
-      "address": "224 E MAIN ST, BELLEVUE, OH",
-      "website": "https://www.bellevue.net/176/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44811"
-      ]
-    },
-    {
-      "name": "BETTSVILLE PUBLIC LIBRARY",
-      "system": "BETTSVILLE PUBLIC LIBRARY",
-      "address": "233 STATE ST., BETTSVILLE, OH",
-      "website": "https://www.bettsvillepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44815"
-      ]
-    },
-    {
-      "name": "BLISS MEMORIAL PUBLIC LIBRARY",
-      "system": "BLISS MEMORIAL PUBLIC LIBRARY",
-      "address": "20 S. MARION ST., BLOOMVILLE, OH",
-      "website": "https://blisslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44818"
-      ]
-    },
-    {
-      "name": "BUCYRUS PUBLIC LIBRARY",
-      "system": "BUCYRUS PUBLIC LIBRARY",
-      "address": "200 E. MANSFIELD, BUCYRUS, OH",
-      "website": "http://bucyruslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44820"
-      ]
-    },
-    {
-      "name": "CRESTLINE PUBLIC LIBRARY",
-      "system": "CRESTLINE PUBLIC LIBRARY",
-      "address": "324 N. THOMAN ST., CRESTLINE, OH",
-      "website": "http://crestlinepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44827"
-      ]
-    },
-    {
-      "name": "KAUBISCH MEMORIAL PUBLIC LIBRARY",
-      "system": "KAUBISCH MEMORIAL PUBLIC LIBRARY",
-      "address": "205 PERRY ST., FOSTORIA, OH",
-      "website": "https://www.fostoria.lib.oh.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44830"
-      ]
-    },
-    {
-      "name": "GALION PUBLIC LIBRARY ASSOCIATION",
-      "system": "GALION PUBLIC LIBRARY ASSOCIATION",
-      "address": "123 N. MARKET ST., GALION, OH",
-      "website": "http://www.galion.lib.oh.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44833"
-      ]
-    },
-    {
       "name": "HURON PUBLIC LIBRARY",
       "system": "HURON PUBLIC LIBRARY",
       "address": "333 WILLIAMS ST., HURON, OH",
@@ -107,40 +8,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44839"
-      ]
-    },
-    {
-      "name": "LOUDONVILLE PUBLIC LIBRARY",
-      "system": "LOUDONVILLE PUBLIC LIBRARY",
-      "address": "122 E. MAIN ST., LOUDONVILLE, OH",
-      "website": "https://loudonvillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44842"
-      ]
-    },
-    {
-      "name": "MILAN-BERLIN LIBRARY DISTRICT",
-      "system": "MILAN-BERLIN LIBRARY DISTRICT",
-      "address": "19 E. CHURCH ST., MILAN, OH",
-      "website": "https://www.milan-berlin.lib.oh.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44846"
-      ]
-    },
-    {
-      "name": "MONROEVILLE PUBLIC LIBRARY",
-      "system": "MONROEVILLE PUBLIC LIBRARY",
-      "address": "34 MONROE ST., MONROEVILLE, OH",
-      "website": "http://www.monroevillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44847"
+        "44839",
+        "57324",
+        "57348",
+        "57350",
+        "57379",
+        "57381",
+        "57384",
+        "57386"
       ]
     },
     {
@@ -151,18 +26,361 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44851"
+        "44851",
+        "54933",
+        "54950",
+        "54961",
+        "54962"
       ]
     },
     {
-      "name": "NORWALK PUBLIC LIBRARY",
-      "system": "NORWALK PUBLIC LIBRARY",
-      "address": "46 W. MAIN ST., NORWALK, OH",
-      "website": "http://norwalkpl.org/",
+      "name": "RITTER PUBLIC LIBRARY",
+      "system": "RITTER PUBLIC LIBRARY",
+      "address": "5680 LIBERTY AVE., VERMILION, OH",
+      "website": "https://www.ritterpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44857"
+        "43438",
+        "434HH",
+        "44089",
+        "44814",
+        "44816",
+        "44824"
+      ]
+    },
+    {
+      "name": "MANSFIELD-RICHLAND COUNTY PUBLIC LIBRARY",
+      "system": "MANSFIELD-RICHLAND COUNTY PUBLIC LIBRARY",
+      "address": "43 W. THIRD ST., MANSFIELD, OH",
+      "website": "https://www.mrcpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44813",
+        "44822",
+        "44843",
+        "44878",
+        "44902",
+        "44903",
+        "44904",
+        "44905",
+        "44906",
+        "44907",
+        "449HH"
+      ]
+    },
+    {
+      "name": "BELLEVUE PUBLIC LIBRARY",
+      "system": "BELLEVUE PUBLIC LIBRARY",
+      "address": "1003 LINCOLN ROAD, BELLEVUE, NE",
+      "website": "https://www.bellevue.net/176/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44826",
+        "44837",
+        "44850",
+        "44855",
+        "44857",
+        "44865",
+        "44889",
+        "68005"
+      ]
+    },
+    {
+      "name": "WAYNE PUBLIC LIBRARY",
+      "system": "WAYNE PUBLIC LIBRARY",
+      "address": "3737 SOUTH WAYNE ROAD, WAYNE, MI",
+      "website": "https://www.waynepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817",
+        "48184"
+      ]
+    },
+    {
+      "name": "MONROEVILLE PUBLIC LIBRARY",
+      "system": "MONROEVILLE PUBLIC LIBRARY",
+      "address": "34 MONROE ST., MONROEVILLE, OH",
+      "website": "http://www.monroevillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15006",
+        "15007",
+        "15014",
+        "15015",
+        "15017",
+        "15018",
+        "15020",
+        "15024",
+        "15028",
+        "15030",
+        "15031",
+        "15034",
+        "15035",
+        "15037",
+        "15045",
+        "15046",
+        "15049",
+        "15051",
+        "15056",
+        "15075",
+        "15076",
+        "15082",
+        "15084",
+        "15086",
+        "15088",
+        "15090",
+        "150HH",
+        "15110",
+        "15112",
+        "15122",
+        "15126",
+        "15131",
+        "15133",
+        "15135",
+        "15140",
+        "15142",
+        "15145",
+        "15146",
+        "15147",
+        "15148",
+        "151HH",
+        "15201",
+        "15203",
+        "15204",
+        "15206",
+        "15207",
+        "15208",
+        "15210",
+        "15211",
+        "15212",
+        "15214",
+        "15215",
+        "15217",
+        "15219",
+        "15222",
+        "15223",
+        "15224",
+        "15225",
+        "15226",
+        "15229",
+        "15232",
+        "15233",
+        "15243",
+        "152HH",
+        "44847"
+      ]
+    },
+    {
+      "name": "DORCAS CAREY PUBLIC LIBRARY",
+      "system": "DORCAS CAREY PUBLIC LIBRARY",
+      "address": "236 E. FINDLAY ST., CAREY, OH",
+      "website": "https://www.dorcascarey.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43316",
+        "43323",
+        "43359",
+        "44844",
+        "44849"
+      ]
+    },
+    {
+      "name": "UPPER SANDUSKY COMMUNITY LIBRARY",
+      "system": "UPPER SANDUSKY COMMUNITY LIBRARY",
+      "address": "301 N. SANDUSKY AVE., UPPER SANDUSKY, OH",
+      "website": "https://www.usclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43323",
+        "43351",
+        "43359",
+        "44844",
+        "44849"
+      ]
+    },
+    {
+      "name": "SENECA EAST PUBLIC LIBRARY",
+      "system": "SENECA EAST PUBLIC LIBRARY",
+      "address": "14 N MAIN ST, ATTICA, OH",
+      "website": "https://www.senecaeastlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44802",
+        "44807",
+        "44809",
+        "44828",
+        "44836",
+        "44841",
+        "44853",
+        "44861",
+        "44867"
+      ]
+    },
+    {
+      "name": "BETTSVILLE PUBLIC LIBRARY",
+      "system": "BETTSVILLE PUBLIC LIBRARY",
+      "address": "233 STATE ST., BETTSVILLE, OH",
+      "website": "https://www.bettsvillepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44802",
+        "44809",
+        "44815",
+        "44828",
+        "44836",
+        "44841",
+        "44853",
+        "44861",
+        "44867"
+      ]
+    },
+    {
+      "name": "BLISS MEMORIAL PUBLIC LIBRARY",
+      "system": "BLISS MEMORIAL PUBLIC LIBRARY",
+      "address": "20 S. MARION ST., BLOOMVILLE, OH",
+      "website": "https://blisslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44802",
+        "44809",
+        "44818",
+        "44828",
+        "44836",
+        "44841",
+        "44853",
+        "44861",
+        "44867"
+      ]
+    },
+    {
+      "name": "BUCYRUS PUBLIC LIBRARY",
+      "system": "BUCYRUS PUBLIC LIBRARY",
+      "address": "200 E. MANSFIELD, BUCYRUS, OH",
+      "website": "http://bucyruslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44820",
+        "44825",
+        "44854",
+        "44856",
+        "44860",
+        "44887"
+      ]
+    },
+    {
+      "name": "CRESTLINE PUBLIC LIBRARY",
+      "system": "CRESTLINE PUBLIC LIBRARY",
+      "address": "324 N. THOMAN ST., CRESTLINE, OH",
+      "website": "http://crestlinepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44825",
+        "44827",
+        "44854",
+        "44856",
+        "44860",
+        "44887"
+      ]
+    },
+    {
+      "name": "KAUBISCH MEMORIAL PUBLIC LIBRARY",
+      "system": "KAUBISCH MEMORIAL PUBLIC LIBRARY",
+      "address": "205 PERRY ST., FOSTORIA, OH",
+      "website": "https://www.fostoria.lib.oh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44802",
+        "44809",
+        "44828",
+        "44830",
+        "44836",
+        "44841",
+        "44853",
+        "44861",
+        "44867"
+      ]
+    },
+    {
+      "name": "GALION PUBLIC LIBRARY ASSOCIATION",
+      "system": "GALION PUBLIC LIBRARY ASSOCIATION",
+      "address": "123 N. MARKET ST., GALION, OH",
+      "website": "http://www.galion.lib.oh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44825",
+        "44833",
+        "44854",
+        "44856",
+        "44860",
+        "44887"
+      ]
+    },
+    {
+      "name": "LOUDONVILLE PUBLIC LIBRARY",
+      "system": "LOUDONVILLE PUBLIC LIBRARY",
+      "address": "122 E. MAIN ST., LOUDONVILLE, OH",
+      "website": "https://loudonvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44805",
+        "44838",
+        "44840",
+        "44842",
+        "44859",
+        "44864",
+        "44866",
+        "44874",
+        "44880",
+        "448HH"
+      ]
+    },
+    {
+      "name": "MILAN-BERLIN LIBRARY DISTRICT",
+      "system": "MILAN-BERLIN LIBRARY DISTRICT",
+      "address": "19 E. CHURCH ST., MILAN, OH",
+      "website": "https://www.milan-berlin.lib.oh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43438",
+        "434HH",
+        "44814",
+        "44816",
+        "44824",
+        "44846"
       ]
     },
     {
@@ -173,6 +391,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "43438",
+        "434HH",
+        "44814",
+        "44816",
+        "44824",
         "44870"
       ]
     },
@@ -184,7 +407,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44875"
+        "44813",
+        "44822",
+        "44843",
+        "44875",
+        "44878",
+        "44903",
+        "44904",
+        "44905",
+        "44906",
+        "44907",
+        "449HH"
       ]
     },
     {
@@ -195,6 +428,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "43323",
+        "43359",
+        "44844",
+        "44849",
         "44882"
       ]
     },
@@ -206,6 +443,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "44802",
+        "44809",
+        "44828",
+        "44836",
+        "44841",
+        "44853",
+        "44861",
+        "44867",
         "44883"
       ]
     },
@@ -217,7 +462,224 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "44826",
+        "44837",
+        "44850",
+        "44855",
+        "44857",
+        "44865",
+        "44889",
         "44890"
+      ]
+    },
+    {
+      "name": "WOOD COUNTY DISTRICT PUBLIC LIBRARY",
+      "system": "WOOD COUNTY DISTRICT PUBLIC LIBRARY",
+      "address": "251 N. MAIN ST., BOWLING GREEN, OH",
+      "website": "https://wcdpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43402",
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817"
+      ]
+    },
+    {
+      "name": "BIRCHARD PUBLIC LIBRARY OF SANDUSKY COUNTY",
+      "system": "BIRCHARD PUBLIC LIBRARY OF SANDUSKY COUNTY",
+      "address": "423 CROGHAN ST., FREMONT, OH",
+      "website": "https://www.birchard.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43407",
+        "43420",
+        "43431",
+        "43435",
+        "43442",
+        "43464",
+        "43469",
+        "44811"
+      ]
+    },
+    {
+      "name": "PEMBERVILLE PUBLIC LIBRARY",
+      "system": "PEMBERVILLE PUBLIC LIBRARY",
+      "address": "375 E. FRONT ST., PEMBERVILLE, OH",
+      "website": "https://www.pembervillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43450",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817"
+      ]
+    },
+    {
+      "name": "ROSSFORD PUBLIC LIBRARY",
+      "system": "ROSSFORD PUBLIC LIBRARY",
+      "address": "720 DIXIE HIGHWAY, ROSSFORD, OH",
+      "website": "https://www.rossfordlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43460",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817"
+      ]
+    },
+    {
+      "name": "WAY PUBLIC LIBRARY",
+      "system": "WAY PUBLIC LIBRARY",
+      "address": "101 E. INDIANA AVE., PERRYSBURG, OH",
+      "website": "https://www.waylibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43551",
+        "43565",
+        "43619",
+        "44817"
+      ]
+    },
+    {
+      "name": "FINDLAY HANCOCK CNTY DIST PUBLIC LIBRARY",
+      "system": "FINDLAY HANCOCK CNTY DIST PUBLIC LIBRARY",
+      "address": "206 BROADWAY, FINDLAY, OH",
+      "website": "https://www.findlaylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44804",
+        "45814",
+        "45816",
+        "45840",
+        "45841",
+        "45867",
+        "45868",
+        "45881",
+        "45889",
+        "45890",
+        "45897"
+      ]
+    },
+    {
+      "name": "MCCOMB PUBLIC LIBRARY",
+      "system": "MCCOMB PUBLIC LIBRARY",
+      "address": "113 S. TODD ST., MCCOMB, OH",
+      "website": "https://www.mccombpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44804",
+        "45814",
+        "45816",
+        "45841",
+        "45858",
+        "45867",
+        "45868",
+        "45881",
+        "45889",
+        "45890",
+        "45897"
+      ]
+    },
+    {
+      "name": "NORTH BALTIMORE PUBLIC LIBRARY",
+      "system": "NORTH BALTIMORE PUBLIC LIBRARY",
+      "address": "230 N. MAIN ST., NORTH BALTIMORE, OH",
+      "website": "https://www.nbpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817",
+        "45872"
       ]
     }
   ]

@@ -1,6 +1,66 @@
 {
   "libraries": [
     {
+      "name": "EMERSON PUBLIC LIBRARY",
+      "system": "EMERSON PUBLIC LIBRARY",
+      "address": "205 WEST 3RD, EMERSON, NE",
+      "website": "https://www.emersonlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07074",
+        "070HH",
+        "07436",
+        "07606",
+        "07608",
+        "07620",
+        "07630",
+        "07632",
+        "07648",
+        "076HH",
+        "68733"
+      ]
+    },
+    {
+      "name": "PLAINVIEW PUBLIC LIBRARY",
+      "system": "PLAINVIEW PUBLIC LIBRARY",
+      "address": "209 N. PINE ST, PLAINVIEW, NE",
+      "website": "https://libraries.ne.gov/plainview/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68737",
+        "68747",
+        "68769"
+      ]
+    },
+    {
+      "name": "CLEARWATER PUBLIC LIBRARY",
+      "system": "CLEARWATER PUBLIC LIBRARY",
+      "address": "626 MAIN STREET, CLEARWATER, NE",
+      "website": "https://clearwaterpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68636",
+        "68720",
+        "68726",
+        "68773"
+      ]
+    },
+    {
+      "name": "STANTON PUBLIC LIBRARY",
+      "system": "STANTON PUBLIC LIBRARY",
+      "address": "600 COUNTY 37, STANTON, ND",
+      "website": "http://www.stanton.net/library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58571",
+        "68779"
+      ]
+    },
+    {
       "name": "ATKINSON PUBLIC LIBRARY",
       "system": "ATKINSON PUBLIC LIBRARY",
       "address": "210 WEST STATE STREET, ATKINSON, NE",
@@ -8,7 +68,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68713"
+        "68711",
+        "68713",
+        "68725",
+        "68734",
+        "68742",
+        "68766"
       ]
     },
     {
@@ -19,7 +84,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68714"
+        "68714",
+        "68759",
+        "68772"
       ]
     },
     {
@@ -30,7 +97,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68715"
+        "68701",
+        "68715",
+        "68748"
       ]
     },
     {
@@ -45,17 +114,6 @@
       ]
     },
     {
-      "name": "BLOOMFIELD PUBLIC LIBRARY",
-      "system": "BLOOMFIELD PUBLIC LIBRARY",
-      "address": "121 SOUTH BROADWAY, BLOOMFIELD, NE",
-      "website": "https://www.bplnj.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68718"
-      ]
-    },
-    {
       "name": "LIED CARROLL PUBLIC LIBRARY",
       "system": "LIED CARROLL PUBLIC LIBRARY",
       "address": "506 MAIN STREET, CARROLL, NE",
@@ -63,18 +121,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68723"
-      ]
-    },
-    {
-      "name": "CLEARWATER PUBLIC LIBRARY",
-      "system": "CLEARWATER PUBLIC LIBRARY",
-      "address": "626 MAIN STREET, CLEARWATER, NE",
-      "website": "https://clearwaterpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68726"
+        "68723",
+        "68740",
+        "68787"
       ]
     },
     {
@@ -85,7 +134,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68729"
+        "68718",
+        "68724",
+        "68729",
+        "68789"
       ]
     },
     {
@@ -96,7 +148,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68730"
+        "68718",
+        "68724",
+        "68730",
+        "68789"
       ]
     },
     {
@@ -107,18 +162,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68731"
-      ]
-    },
-    {
-      "name": "EMERSON PUBLIC LIBRARY",
-      "system": "EMERSON PUBLIC LIBRARY",
-      "address": "205 WEST 3RD, EMERSON, NE",
-      "website": "https://www.emersonlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68733"
+        "68030",
+        "68731",
+        "68741"
       ]
     },
     {
@@ -129,7 +175,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68739"
+        "68717",
+        "68727",
+        "68736",
+        "68739",
+        "68774",
+        "68792",
+        "687HH"
       ]
     },
     {
@@ -140,6 +192,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68701",
+        "68748",
         "68752"
       ]
     },
@@ -151,7 +205,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68756"
+        "68636",
+        "68720",
+        "68756",
+        "68773"
       ]
     },
     {
@@ -162,6 +219,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68701",
+        "68748",
         "68758"
       ]
     },
@@ -173,18 +232,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68760"
-      ]
-    },
-    {
-      "name": "NORFOLK PUBLIC LIBRARY",
-      "system": "NORFOLK PUBLIC LIBRARY",
-      "address": "308 W PROSPECT AVENUE, NORFOLK, NE",
-      "website": "https://norfolkpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68701"
+        "68718",
+        "68724",
+        "68760",
+        "68789"
       ]
     },
     {
@@ -195,7 +246,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68761"
+        "68636",
+        "68720",
+        "68761",
+        "68773"
       ]
     },
     {
@@ -206,7 +260,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68763"
+        "68711",
+        "68725",
+        "68734",
+        "68742",
+        "68763",
+        "68766"
       ]
     },
     {
@@ -217,7 +276,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68764"
+        "68636",
+        "68720",
+        "68764",
+        "68773"
       ]
     },
     {
@@ -228,6 +290,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68737",
+        "68747",
         "68765"
       ]
     },
@@ -239,6 +303,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68737",
+        "68747",
         "68767"
       ]
     },
@@ -250,18 +316,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68768"
-      ]
-    },
-    {
-      "name": "PLAINVIEW PUBLIC LIBRARY",
-      "system": "PLAINVIEW PUBLIC LIBRARY",
-      "address": "209 N. PINE ST, PLAINVIEW, NE",
-      "website": "https://libraries.ne.gov/plainview/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68769"
+        "68768",
+        "68779"
       ]
     },
     {
@@ -272,7 +328,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68770"
+        "68728",
+        "68732",
+        "68757",
+        "68770",
+        "68785"
       ]
     },
     {
@@ -283,7 +343,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68771"
+        "68717",
+        "68727",
+        "68736",
+        "68771",
+        "68774",
+        "68792",
+        "687HH"
       ]
     },
     {
@@ -294,6 +360,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68030",
+        "68741",
         "68776"
       ]
     },
@@ -305,18 +373,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68719",
+        "68722",
+        "68746",
+        "68755",
         "68777"
-      ]
-    },
-    {
-      "name": "STANTON PUBLIC LIBRARY",
-      "system": "STANTON PUBLIC LIBRARY",
-      "address": "1009 JACKPINE, STANTON, NE",
-      "website": "http://www.stanton.net/library.html",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68779"
       ]
     },
     {
@@ -327,6 +388,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68711",
+        "68725",
+        "68734",
+        "68742",
+        "68766",
         "68780"
       ]
     },
@@ -338,6 +404,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68636",
+        "68720",
+        "68773",
         "68781"
       ]
     },
@@ -349,7 +418,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68783"
+        "68718",
+        "68724",
+        "68783",
+        "68789"
       ]
     },
     {
@@ -360,7 +432,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68784"
+        "68728",
+        "68732",
+        "68757",
+        "68784",
+        "68785"
       ]
     },
     {
@@ -371,18 +447,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68786"
-      ]
-    },
-    {
-      "name": "WAYNE PUBLIC LIBRARY",
-      "system": "WAYNE PUBLIC LIBRARY",
-      "address": "410 NORTH PEARL STREET, WAYNE, NE",
-      "website": "https://www.waynepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68787"
+        "68718",
+        "68724",
+        "68786",
+        "68789"
       ]
     },
     {
@@ -404,6 +472,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68740",
+        "68787",
         "68790"
       ]
     },
@@ -419,17 +489,6 @@
       ]
     },
     {
-      "name": "MADISON PUBLIC LIBRARY",
-      "system": "MADISON PUBLIC LIBRARY",
-      "address": "208 WEST 3RD STREET, MADISON, NE",
-      "website": "http://www.madisonpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68748"
-      ]
-    },
-    {
       "name": "EWING TOWNSHIP LIBRARY",
       "system": "EWING TOWNSHIP LIBRARY",
       "address": "202 EAST NEBRASKA, EWING, NE",
@@ -437,7 +496,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68735"
+        "68711",
+        "68725",
+        "68734",
+        "68735",
+        "68742",
+        "68766"
       ]
     },
     {
@@ -448,7 +512,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68745"
+        "68717",
+        "68727",
+        "68736",
+        "68745",
+        "68774",
+        "68792",
+        "687HH"
       ]
     },
     {
@@ -459,6 +529,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68753",
         "68778"
       ]
     },
@@ -470,7 +541,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68710"
+        "68710",
+        "68728",
+        "68732",
+        "68757",
+        "68785"
       ]
     },
     {
@@ -481,6 +556,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68030",
+        "68741",
         "68743"
       ]
     }

@@ -1,6 +1,108 @@
 {
   "libraries": [
     {
+      "name": "BENTON HARBOR PUBLIC LIBRARY",
+      "system": "BENTON HARBOR PUBLIC LIBRARY",
+      "address": "213 EAST WALL STREET, BENTON HARBOR, MI",
+      "website": "https://www.bentonharborlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49022",
+        "49101",
+        "49102",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49129",
+        "491HH"
+      ]
+    },
+    {
+      "name": "CASS DISTRICT LIBRARY",
+      "system": "CASS DISTRICT LIBRARY",
+      "address": "319 M-62 NORTH, CASSOPOLIS, MI",
+      "website": "https://www.cassdistrictlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49031",
+        "49061",
+        "49095",
+        "49112",
+        "49130"
+      ]
+    },
+    {
+      "name": "DOWAGIAC DISTRICT LIBRARY",
+      "system": "DOWAGIAC DISTRICT LIBRARY",
+      "address": "211 COMMERCIAL STREET, DOWAGIAC, MI",
+      "website": "https://www.dowagiacdl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49047",
+        "49061",
+        "49095",
+        "49112",
+        "49130"
+      ]
+    },
+    {
+      "name": "MARCELLUS TOWNSHIP WOOD MEMORIAL LIBRARY",
+      "system": "MARCELLUS TOWNSHIP WOOD MEMORIAL LIBRARY",
+      "address": "205 EAST MAIN STREET, MARCELLUS, MI",
+      "website": "https://www.marcellus.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49061",
+        "49067",
+        "49095",
+        "49112",
+        "49130"
+      ]
+    },
+    {
+      "name": "MAUD PRESTON PALENSKE MEMORIAL LIBRARY",
+      "system": "MAUD PRESTON PALENSKE MEMORIAL LIBRARY",
+      "address": "500 MARKET STREET, SAINT JOSEPH, MI",
+      "website": "https://www.youseemore.com/maudpreston/default.asp",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49085",
+        "49101",
+        "49102",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49129",
+        "491HH"
+      ]
+    },
+    {
+      "name": "WATERVLIET DISTRICT LIBRARY",
+      "system": "WATERVLIET DISTRICT LIBRARY",
+      "address": "333 NORTH MAIN STREET, WATERVLIET, MI",
+      "website": "https://www.watervlietlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49098",
+        "49101",
+        "49102",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49129",
+        "491HH"
+      ]
+    },
+    {
       "name": "BERRIEN SPRINGS COMMUNITY LIBRARY",
       "system": "BERRIEN SPRINGS COMMUNITY LIBRARY",
       "address": "215 WEST UNION STREET, BERRIEN SPRINGS, MI",
@@ -8,7 +110,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49103"
+        "49101",
+        "49102",
+        "49103",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49129",
+        "491HH"
       ]
     },
     {
@@ -19,7 +129,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49106"
+        "49101",
+        "49102",
+        "49106",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49129",
+        "491HH"
       ]
     },
     {
@@ -30,7 +148,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49107"
+        "49101",
+        "49102",
+        "49107",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49129",
+        "491HH"
       ]
     },
     {
@@ -41,7 +167,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49111"
+        "49101",
+        "49102",
+        "49111",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49129",
+        "491HH"
       ]
     },
     {
@@ -52,7 +186,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49113"
+        "49101",
+        "49102",
+        "49113",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49129",
+        "491HH"
       ]
     },
     {
@@ -63,7 +205,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49127"
+        "49101",
+        "49102",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49127",
+        "49129",
+        "491HH"
       ]
     },
     {
@@ -74,7 +224,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49117"
+        "49101",
+        "49102",
+        "49115",
+        "49116",
+        "49117",
+        "49119",
+        "49125",
+        "49129",
+        "491HH"
       ]
     },
     {
@@ -85,7 +243,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49120"
+        "49101",
+        "49102",
+        "49115",
+        "49116",
+        "49119",
+        "49120",
+        "49125",
+        "49129",
+        "491HH"
       ]
     },
     {
@@ -96,7 +262,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49126"
+        "49101",
+        "49102",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49126",
+        "49129",
+        "491HH"
       ]
     },
     {
@@ -107,7 +281,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49128"
+        "49101",
+        "49102",
+        "49115",
+        "49116",
+        "49119",
+        "49125",
+        "49128",
+        "49129",
+        "491HH"
       ]
     }
   ]

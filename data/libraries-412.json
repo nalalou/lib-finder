@@ -1,28 +1,6 @@
 {
   "libraries": [
     {
-      "name": "JOHNSON COUNTY PUBLIC LIBRARY",
-      "system": "JOHNSON COUNTY PUBLIC LIBRARY",
-      "address": "444 MAIN STREET, PAINTSVILLE, KY",
-      "website": "http://www.johnsoncountypubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "41240"
-      ]
-    },
-    {
-      "name": "LAWRENCE COUNTY PUBLIC LIBRARY",
-      "system": "LAWRENCE COUNTY PUBLIC LIBRARY",
-      "address": "102 WEST MAIN ST., LOUISA, KY",
-      "website": "https://lcplky.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "41230"
-      ]
-    },
-    {
       "name": "MARTIN COUNTY PUBLIC LIBRARY SYSTEM",
       "system": "MARTIN COUNTY PUBLIC LIBRARY SYSTEM",
       "address": "387 E MAIN STREET, INEZ, KY",
@@ -30,7 +8,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41224"
+        "41203",
+        "41214",
+        "41224",
+        "41231",
+        "41250",
+        "41262",
+        "41267"
       ]
     }
   ]

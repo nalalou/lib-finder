@@ -1,6 +1,300 @@
 {
   "libraries": [
     {
+      "name": "DEER CREEK DISTRICT LIBRARY",
+      "system": "DEER CREEK DISTRICT LIBRARY",
+      "address": "205 EAST FIRST AVENUE, DEER CREEK, IL",
+      "website": "https://www.deercreeklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61534",
+        "61535",
+        "61564",
+        "61721",
+        "61733",
+        "61747"
+      ]
+    },
+    {
+      "name": "AYER PUBLIC LIBRARY DISTRICT",
+      "system": "AYER PUBLIC LIBRARY DISTRICT",
+      "address": "208 LOCUST STREET, DELAVAN, IL",
+      "website": "https://librarytechnology.org/library/17351",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61534",
+        "61535",
+        "61564",
+        "61721",
+        "61734",
+        "61747"
+      ]
+    },
+    {
+      "name": "EL PASO DISTRICT LIBRARY",
+      "system": "EL PASO DISTRICT LIBRARY",
+      "address": "149 WEST FIRST STREET, EL PASO, IL",
+      "website": "https://www.elpasodistrictlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61516",
+        "61545",
+        "61561",
+        "61570",
+        "61729",
+        "61738",
+        "61742",
+        "61771"
+      ]
+    },
+    {
+      "name": "MACKINAW DISTRICT PUBLIC LIBRARY",
+      "system": "MACKINAW DISTRICT PUBLIC LIBRARY",
+      "address": "117 SOUTH MAIN STREET, MACKINAW, IL",
+      "website": "https://mackinawpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61534",
+        "61535",
+        "61564",
+        "61721",
+        "61747",
+        "61755"
+      ]
+    },
+    {
+      "name": "H.A. PEINE DISTRICT LIBRARY",
+      "system": "H.A. PEINE DISTRICT LIBRARY",
+      "address": "202 NORTH MAIN STREET, MINIER, IL",
+      "website": "https://www.minierlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61534",
+        "61535",
+        "61564",
+        "61721",
+        "61747",
+        "61759"
+      ]
+    },
+    {
+      "name": "FILGER PUBLIC LIBRARY",
+      "system": "FILGER PUBLIC LIBRARY",
+      "address": "261 EAST FIFTH STREET, MINONK, IL",
+      "website": "https://minonklibrary.wordpress.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61516",
+        "61545",
+        "61561",
+        "61570",
+        "61729",
+        "61742",
+        "61760",
+        "61771"
+      ]
+    },
+    {
+      "name": "ALPHA PARK PUBLIC LIBRARY DISTRICT",
+      "system": "ALPHA PARK PUBLIC LIBRARY DISTRICT",
+      "address": "3527 SOUTH AIRPORT ROAD, BARTONVILLE, IL",
+      "website": "http://alphapark.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61451",
+        "61526",
+        "61528",
+        "61533",
+        "61536",
+        "61539",
+        "61547",
+        "61552",
+        "61569",
+        "61603",
+        "61604",
+        "61605",
+        "61606",
+        "61607",
+        "61614",
+        "61615",
+        "616HH"
+      ]
+    },
+    {
+      "name": "CREVE COEUR PUBLIC LIBRARY DISTRICT",
+      "system": "CREVE COEUR PUBLIC LIBRARY DISTRICT",
+      "address": "311 NORTH HIGHLAND STREET, CREVE COEUR, IL",
+      "website": "http://www.crevecoeurlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61534",
+        "61535",
+        "61564",
+        "61610",
+        "61721",
+        "61747"
+      ]
+    },
+    {
+      "name": "FONDULAC PUBLIC LIBRARY DISTRICT",
+      "system": "FONDULAC PUBLIC LIBRARY DISTRICT",
+      "address": "400 RICHLAND STREET, EAST PEORIA, IL",
+      "website": "https://www.fondulaclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61534",
+        "61535",
+        "61564",
+        "61611",
+        "61721",
+        "61747"
+      ]
+    },
+    {
+      "name": "PEORIA PUBLIC LIBRARY",
+      "system": "PEORIA PUBLIC LIBRARY",
+      "address": "107 NORTHEAST MONROE STREET, PEORIA, IL",
+      "website": "https://peoriapubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61451",
+        "61526",
+        "61528",
+        "61533",
+        "61536",
+        "61539",
+        "61547",
+        "61552",
+        "61569",
+        "61602",
+        "61603",
+        "61604",
+        "61605",
+        "61606",
+        "61614",
+        "61615",
+        "616HH"
+      ]
+    },
+    {
+      "name": "PEORIA HEIGHTS PUBLIC LIBRARY",
+      "system": "PEORIA HEIGHTS PUBLIC LIBRARY",
+      "address": "816 EAST GLEN AVENUE, PEORIA HEIGHTS, IL",
+      "website": "https://www.peoriaheightslibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61451",
+        "61526",
+        "61528",
+        "61533",
+        "61536",
+        "61539",
+        "61547",
+        "61552",
+        "61569",
+        "61603",
+        "61604",
+        "61605",
+        "61606",
+        "61614",
+        "61615",
+        "61616",
+        "616HH"
+      ]
+    },
+    {
+      "name": "HAVANA PUBLIC LIBRARY DISTRICT",
+      "system": "HAVANA PUBLIC LIBRARY DISTRICT",
+      "address": "201 WEST ADAMS STREET, HAVANA, IL",
+      "website": "https://www.havanalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61532",
+        "61567",
+        "62617",
+        "62633",
+        "62644",
+        "62655",
+        "62682"
+      ]
+    },
+    {
+      "name": "MASON CITY PUBLIC LIBRARY DISTRICT",
+      "system": "MASON CITY PUBLIC LIBRARY DISTRICT",
+      "address": "820 WEST CHESTNUT STREET, MASON CITY, IL",
+      "website": "https://www.masoncitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61532",
+        "61567",
+        "62617",
+        "62633",
+        "62655",
+        "62664",
+        "62682"
+      ]
+    },
+    {
+      "name": "PUTNAM COUNTY PUBLIC LIBRARY DISTRICT",
+      "system": "PUTNAM COUNTY PUBLIC LIBRARY DISTRICT",
+      "address": "214 NORTH FOURTH STREET, HENNEPIN, IL",
+      "website": "https://putnamcountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61326",
+        "61327",
+        "61335",
+        "61336",
+        "61340",
+        "61363",
+        "61560"
+      ]
+    },
+    {
+      "name": "TOLUCA PUBLIC LIBRARY DISTRICT",
+      "system": "TOLUCA PUBLIC LIBRARY DISTRICT",
+      "address": "102 NORTH MAIN STREET, TOLUCA, IL",
+      "website": "https://librarylearning.org/toluca-public-library-district-toluca-public-library-district",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61369",
+        "61375",
+        "61424",
+        "61541",
+        "61565"
+      ]
+    },
+    {
+      "name": "BOND PUBLIC LIBRARY",
+      "system": "BOND PUBLIC LIBRARY",
+      "address": "208 SOUTH CHESTNUT STREET, WENONA, IL",
+      "website": "https://cityofwenona.org/community_post/wenona-bond-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61375",
+        "61377",
+        "61424",
+        "61541",
+        "61565"
+      ]
+    },
+    {
       "name": "ASTORIA PUBLIC LIBRARY DISTRICT",
       "system": "ASTORIA PUBLIC LIBRARY DISTRICT",
       "address": "220 WEST BROADWAY STREET, ASTORIA, IL",
@@ -8,7 +302,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61501"
+        "61431",
+        "61441",
+        "61459",
+        "61477",
+        "61482",
+        "61501",
+        "61519",
+        "61524",
+        "61543",
+        "61544",
+        "61563",
+        "615HH"
       ]
     },
     {
@@ -19,7 +324,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61517"
+        "61451",
+        "61517",
+        "61526",
+        "61528",
+        "61533",
+        "61536",
+        "61539",
+        "61547",
+        "61552",
+        "61569",
+        "61603",
+        "61604",
+        "61605",
+        "61606",
+        "61614",
+        "61615",
+        "616HH"
       ]
     },
     {
@@ -30,7 +351,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61520"
+        "61431",
+        "61441",
+        "61459",
+        "61477",
+        "61482",
+        "61519",
+        "61520",
+        "61524",
+        "61543",
+        "61544",
+        "61563",
+        "615HH"
       ]
     },
     {
@@ -41,7 +373,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61523"
+        "61451",
+        "61523",
+        "61526",
+        "61528",
+        "61533",
+        "61536",
+        "61539",
+        "61547",
+        "61552",
+        "61569",
+        "61603",
+        "61604",
+        "61605",
+        "61606",
+        "61614",
+        "61615",
+        "616HH"
       ]
     },
     {
@@ -52,7 +400,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61525"
+        "61451",
+        "61525",
+        "61526",
+        "61528",
+        "61533",
+        "61536",
+        "61539",
+        "61547",
+        "61552",
+        "61569",
+        "61603",
+        "61604",
+        "61605",
+        "61606",
+        "61614",
+        "61615",
+        "616HH"
       ]
     },
     {
@@ -63,7 +427,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61529"
+        "61451",
+        "61526",
+        "61528",
+        "61529",
+        "61533",
+        "61536",
+        "61539",
+        "61547",
+        "61552",
+        "61569",
+        "61603",
+        "61604",
+        "61605",
+        "61606",
+        "61614",
+        "61615",
+        "616HH"
       ]
     },
     {
@@ -74,7 +454,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61530"
+        "61516",
+        "61530",
+        "61545",
+        "61561",
+        "61570",
+        "61729",
+        "61742",
+        "61771"
       ]
     },
     {
@@ -85,7 +472,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61531"
+        "61431",
+        "61441",
+        "61459",
+        "61477",
+        "61482",
+        "61519",
+        "61524",
+        "61531",
+        "61543",
+        "61544",
+        "61563",
+        "615HH"
       ]
     },
     {
@@ -96,7 +494,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61537"
+        "61375",
+        "61424",
+        "61537",
+        "61541",
+        "61565"
       ]
     },
     {
@@ -107,7 +509,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61548"
+        "61516",
+        "61545",
+        "61548",
+        "61561",
+        "61570",
+        "61729",
+        "61742",
+        "61771"
       ]
     },
     {
@@ -118,7 +527,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61540"
+        "61375",
+        "61424",
+        "61540",
+        "61541",
+        "61565"
       ]
     },
     {
@@ -129,7 +542,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61542"
+        "61431",
+        "61441",
+        "61459",
+        "61477",
+        "61482",
+        "61519",
+        "61524",
+        "61542",
+        "61543",
+        "61544",
+        "61563",
+        "615HH"
       ]
     },
     {
@@ -140,7 +564,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61546"
+        "61532",
+        "61546",
+        "61567",
+        "62617",
+        "62633",
+        "62655",
+        "62682"
       ]
     },
     {
@@ -151,7 +581,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61554"
+        "61534",
+        "61535",
+        "61554",
+        "61564",
+        "61721",
+        "61747"
       ]
     },
     {
@@ -162,7 +597,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61550"
+        "61534",
+        "61535",
+        "61550",
+        "61564",
+        "61721",
+        "61747"
       ]
     },
     {
@@ -173,7 +613,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61554"
+        "61534",
+        "61535",
+        "61554",
+        "61564",
+        "61721",
+        "61747"
       ]
     },
     {
@@ -184,7 +629,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61559"
+        "61451",
+        "61526",
+        "61528",
+        "61533",
+        "61536",
+        "61539",
+        "61547",
+        "61552",
+        "61559",
+        "61569",
+        "61603",
+        "61604",
+        "61605",
+        "61606",
+        "61614",
+        "61615",
+        "616HH"
       ]
     },
     {
@@ -195,6 +656,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "61428",
+        "61430",
+        "61436",
+        "61439",
+        "61472",
+        "61474",
+        "61488",
         "61572"
       ]
     },
@@ -206,7 +674,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61568"
+        "61534",
+        "61535",
+        "61564",
+        "61568",
+        "61721",
+        "61747"
       ]
     },
     {
@@ -217,7 +690,100 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61571"
+        "61534",
+        "61535",
+        "61564",
+        "61571",
+        "61721",
+        "61747"
+      ]
+    },
+    {
+      "name": "VILLAGE OF AVON PUBLIC LIBRARY",
+      "system": "VILLAGE OF AVON PUBLIC LIBRARY",
+      "address": "105 SOUTH MAIN STREET, AVON, IL",
+      "website": "https://www.chamberofcommerce.com/united-states/illinois/avon/public-library/2000219937-village-of-avon-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61415",
+        "61431",
+        "61441",
+        "61459",
+        "61477",
+        "61482",
+        "61519",
+        "61524",
+        "61543",
+        "61544",
+        "61563",
+        "615HH"
+      ]
+    },
+    {
+      "name": "SPOON RIVER LIBRARY DISTRICT",
+      "system": "SPOON RIVER LIBRARY DISTRICT",
+      "address": "201 SOUTH THIRD STREET, CUBA, IL",
+      "website": "https://www.cubaspoonriverlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61427",
+        "61431",
+        "61441",
+        "61459",
+        "61477",
+        "61482",
+        "61519",
+        "61524",
+        "61543",
+        "61544",
+        "61563",
+        "615HH"
+      ]
+    },
+    {
+      "name": "VALLEY DISTRICT LIBRARY",
+      "system": "VALLEY DISTRICT LIBRARY",
+      "address": "515 CARTER STREET, FAIRVIEW, IL",
+      "website": "https://valleydistrictlibrary.weebly.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61431",
+        "61432",
+        "61441",
+        "61459",
+        "61477",
+        "61482",
+        "61519",
+        "61524",
+        "61543",
+        "61544",
+        "61563",
+        "615HH"
+      ]
+    },
+    {
+      "name": "VERMONT PUBLIC LIBRARY",
+      "system": "VERMONT PUBLIC LIBRARY",
+      "address": "EAST 4TH AND MAIN STREETS, VERMONT, IL",
+      "website": "https://www.vermontpubliclibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61431",
+        "61441",
+        "61459",
+        "61477",
+        "61482",
+        "61484",
+        "61519",
+        "61524",
+        "61543",
+        "61544",
+        "61563",
+        "615HH"
       ]
     }
   ]

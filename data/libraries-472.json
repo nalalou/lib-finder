@@ -1,6 +1,41 @@
 {
   "libraries": [
     {
+      "name": "SHELBY COUNTY PUBLIC LIBRARY",
+      "system": "SHELBY COUNTY PUBLIC LIBRARY",
+      "address": "57 WEST BROADWAY, SHELBYVILLE, IN",
+      "website": "https://www.myshelbylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46110",
+        "46126",
+        "46130",
+        "46144",
+        "46161",
+        "46162",
+        "46176",
+        "46182",
+        "47234"
+      ]
+    },
+    {
+      "name": "SWITZERLAND COUNTY PUBLIC LIBRARY",
+      "system": "SWITZERLAND COUNTY PUBLIC LIBRARY",
+      "address": "205 FERRY STREET, VEVAY, IN",
+      "website": "https://scpl.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47011",
+        "47019",
+        "47020",
+        "47038",
+        "47043",
+        "47224"
+      ]
+    },
+    {
       "name": "BARTHOLOMEW COUNTY PUBLIC LIBRARY",
       "system": "BARTHOLOMEW COUNTY PUBLIC LIBRARY",
       "address": "536 FIFTH STREET, COLUMBUS, IN",
@@ -8,7 +43,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47201"
+        "47201",
+        "47203",
+        "47226",
+        "47232",
+        "47244",
+        "47246",
+        "47247",
+        "47280",
+        "472HH"
       ]
     },
     {
@@ -19,29 +62,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47220"
-      ]
-    },
-    {
-      "name": "JACKSON COUNTY PUBLIC LIBRARY",
-      "system": "JACKSON COUNTY PUBLIC LIBRARY",
-      "address": "303 WEST SECOND STREET, SEYMOUR, IN",
-      "website": "https://www.myjclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47274"
+        "47220",
+        "47229",
+        "47235",
+        "47260",
+        "47264",
+        "47274",
+        "47281"
       ]
     },
     {
       "name": "JEFFERSON COUNTY PUBLIC LIBRARY",
       "system": "JEFFERSON COUNTY PUBLIC LIBRARY",
-      "address": "420 WEST MAIN STREET, MADISON, IN",
+      "address": "10200 W 20TH AVE, LAKEWOOD, CO",
       "website": "https://jeffcolibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47250"
+        "47230",
+        "47231",
+        "47243",
+        "47250",
+        "80215"
       ]
     },
     {
@@ -52,7 +94,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47265"
+        "47223",
+        "47227",
+        "47265",
+        "47270",
+        "47273",
+        "47282"
       ]
     },
     {
@@ -63,7 +110,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47240"
+        "47240",
+        "47263",
+        "47272",
+        "47283"
       ]
     }
   ]

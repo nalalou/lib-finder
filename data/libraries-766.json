@@ -1,6 +1,119 @@
 {
   "libraries": [
     {
+      "name": "MOODY COMMUNITY LIBRARY",
+      "system": "MOODY COMMUNITY LIBRARY",
+      "address": "612 AVE D, MOODY, TX",
+      "website": "https://moodylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76524",
+        "76557",
+        "76624",
+        "76630",
+        "76633",
+        "76638",
+        "76640",
+        "76655",
+        "76682",
+        "76704",
+        "76705",
+        "76706",
+        "76707",
+        "76708",
+        "76710",
+        "76711",
+        "76712",
+        "76798",
+        "767HH"
+      ]
+    },
+    {
+      "name": "D BROWN MEMORIAL LIBRARY",
+      "system": "D BROWN MEMORIAL LIBRARY",
+      "address": "203 N 2ND ST, ROSEBUD, TX",
+      "website": "https://rosebudtexas.us/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76570",
+        "76632",
+        "76656",
+        "76675",
+        "76680",
+        "76685"
+      ]
+    },
+    {
+      "name": "FAIRFIELD LIBRARY",
+      "system": "FAIRFIELD LIBRARY",
+      "address": "350 W MAIN ST, FAIRFIELD, TX",
+      "website": "https://www.fairfieldtxlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75838",
+        "75840",
+        "75848",
+        "75859",
+        "758HH",
+        "76693"
+      ]
+    },
+    {
+      "name": "TEAGUE PUBLIC LIBRARY",
+      "system": "TEAGUE PUBLIC LIBRARY",
+      "address": "400 MAIN ST, TEAGUE, TX",
+      "website": "https://www.teaguelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75838",
+        "75848",
+        "75859",
+        "75860",
+        "758HH",
+        "76693"
+      ]
+    },
+    {
+      "name": "RED OAK PUBLIC LIBRARY",
+      "system": "RED OAK PUBLIC LIBRARY",
+      "address": "101 S LIVE OAK ST, RED OAK, TX",
+      "website": "https://www.redoak.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75101",
+        "75152",
+        "75154",
+        "75167",
+        "76041",
+        "76064",
+        "76651",
+        "76670"
+      ]
+    },
+    {
+      "name": "AH MEADOWS LIBRARY",
+      "system": "AH MEADOWS LIBRARY",
+      "address": "923 S 9TH ST, MIDLOTHIAN, TX",
+      "website": "https://www.midlothian.tx.us/504/Midlothian-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75101",
+        "75152",
+        "75167",
+        "76041",
+        "76064",
+        "76065",
+        "76651",
+        "76670"
+      ]
+    },
+    {
       "name": "GROESBECK PUBLIC LIBRARY",
       "system": "GROESBECK PUBLIC LIBRARY",
       "address": "601 W YEAGUA ST, GROESBECK, TX",
@@ -8,7 +121,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76642"
+        "76635",
+        "76642",
+        "76653",
+        "76678",
+        "76686",
+        "76687"
       ]
     },
     {
@@ -19,7 +137,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76645"
+        "76055",
+        "76621",
+        "76622",
+        "76627",
+        "76628",
+        "76631",
+        "76636",
+        "76645",
+        "76648",
+        "76660",
+        "76666",
+        "76676"
       ]
     },
     {
@@ -30,7 +159,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76661"
+        "76632",
+        "76656",
+        "76661",
+        "76675",
+        "76680",
+        "76685"
       ]
     },
     {
@@ -41,7 +175,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76667"
+        "76635",
+        "76653",
+        "76667",
+        "76678",
+        "76686",
+        "76687"
       ]
     },
     {
@@ -52,7 +191,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76643"
+        "76524",
+        "76624",
+        "76630",
+        "76633",
+        "76638",
+        "76640",
+        "76643",
+        "76655",
+        "76682",
+        "76704",
+        "76705",
+        "76706",
+        "76707",
+        "76708",
+        "76710",
+        "76711",
+        "76712",
+        "76798",
+        "767HH"
       ]
     },
     {
@@ -63,7 +220,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76691"
+        "76524",
+        "76624",
+        "76630",
+        "76633",
+        "76638",
+        "76640",
+        "76655",
+        "76682",
+        "76691",
+        "76704",
+        "76705",
+        "76706",
+        "76707",
+        "76708",
+        "76710",
+        "76711",
+        "76712",
+        "76798",
+        "767HH"
       ]
     },
     {
@@ -74,6 +249,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "76055",
+        "76621",
+        "76622",
+        "76627",
+        "76628",
+        "76631",
+        "76636",
+        "76648",
+        "76660",
+        "76666",
+        "76676",
         "76692"
       ]
     },
@@ -85,7 +271,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76657"
+        "76524",
+        "76624",
+        "76630",
+        "76633",
+        "76638",
+        "76640",
+        "76655",
+        "76657",
+        "76682",
+        "76704",
+        "76705",
+        "76706",
+        "76707",
+        "76708",
+        "76710",
+        "76711",
+        "76712",
+        "76798",
+        "767HH"
       ]
     },
     {
@@ -96,7 +300,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76673"
+        "76055",
+        "76621",
+        "76622",
+        "76627",
+        "76628",
+        "76631",
+        "76636",
+        "76648",
+        "76660",
+        "76666",
+        "76673",
+        "76676"
       ]
     },
     {
@@ -107,7 +322,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76689"
+        "76637",
+        "76649",
+        "76652",
+        "76671",
+        "76689",
+        "76690",
+        "766HH"
       ]
     },
     {
@@ -118,7 +339,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76634"
+        "76634",
+        "76637",
+        "76649",
+        "76652",
+        "76671",
+        "76690",
+        "766HH"
       ]
     },
     {
@@ -129,7 +356,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76665"
+        "76637",
+        "76649",
+        "76652",
+        "76665",
+        "76671",
+        "76690",
+        "766HH"
       ]
     },
     {
@@ -140,7 +373,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76629"
+        "76629",
+        "77837",
+        "77867",
+        "77870",
+        "77882"
       ]
     },
     {
@@ -151,7 +388,148 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76664"
+        "76524",
+        "76624",
+        "76630",
+        "76633",
+        "76638",
+        "76640",
+        "76655",
+        "76664",
+        "76682",
+        "76704",
+        "76705",
+        "76706",
+        "76707",
+        "76708",
+        "76710",
+        "76711",
+        "76712",
+        "76798",
+        "767HH"
+      ]
+    },
+    {
+      "name": "WACO-MCLENNAN COUNTY LIBRARY",
+      "system": "WACO-MCLENNAN COUNTY LIBRARY",
+      "address": "1717 AUSTIN AVE, WACO, TX",
+      "website": "https://www.waco-texas.com/Departments/Library/Contact-Us",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76524",
+        "76624",
+        "76630",
+        "76633",
+        "76638",
+        "76640",
+        "76655",
+        "76682",
+        "76701",
+        "76704",
+        "76705",
+        "76706",
+        "76707",
+        "76708",
+        "76710",
+        "76711",
+        "76712",
+        "76798",
+        "767HH"
+      ]
+    },
+    {
+      "name": "ENNIS PUBLIC LIBRARY",
+      "system": "ENNIS PUBLIC LIBRARY",
+      "address": "115 W BROWN ST, ENNIS, TX",
+      "website": "https://www.ennistx.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75101",
+        "75119",
+        "75152",
+        "75167",
+        "76041",
+        "76064",
+        "76651",
+        "76670"
+      ]
+    },
+    {
+      "name": "FERRIS PUBLIC LIBRARY",
+      "system": "FERRIS PUBLIC LIBRARY",
+      "address": "301 E 10TH ST, FERRIS, TX",
+      "website": "https://www.ferristexas.gov/165/Ferris-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75101",
+        "75125",
+        "75152",
+        "75167",
+        "76041",
+        "76064",
+        "76651",
+        "76670"
+      ]
+    },
+    {
+      "name": "NICHOLAS P SIMS LIBRARY & LYCEUM",
+      "system": "NICHOLAS P SIMS LIBRARY & LYCEUM",
+      "address": "515 W MAIN ST, WAXAHACHIE, TX",
+      "website": "https://www.simslib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75101",
+        "75152",
+        "75165",
+        "75167",
+        "76041",
+        "76064",
+        "76651",
+        "76670"
+      ]
+    },
+    {
+      "name": "CORSICANA PUBLIC LIBRARY",
+      "system": "CORSICANA PUBLIC LIBRARY",
+      "address": "100 N 12TH ST, CORSICANA, TX",
+      "website": "https://www.cityofcorsicana.com/328/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75102",
+        "75105",
+        "75110",
+        "75153",
+        "75155",
+        "76626",
+        "76639",
+        "76641",
+        "76679",
+        "76681"
+      ]
+    },
+    {
+      "name": "KERENS LIBRARY",
+      "system": "KERENS LIBRARY",
+      "address": "121 S COLKET ST, KERENS, TX",
+      "website": "https://kerenslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75102",
+        "75105",
+        "75144",
+        "75153",
+        "75155",
+        "76626",
+        "76639",
+        "76641",
+        "76679",
+        "76681"
       ]
     }
   ]

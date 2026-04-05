@@ -1,6 +1,55 @@
 {
   "libraries": [
     {
+      "name": "ROWAN PUBLIC LIBRARY",
+      "system": "ROWAN PUBLIC LIBRARY",
+      "address": "201 W FISHER ST, SALISBURY, NC",
+      "website": "https://www.chamberofcommerce.com/united-states/iowa/rowan/public-library/29437114-rowan-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27013",
+        "27054",
+        "28023",
+        "28071",
+        "28072",
+        "28088",
+        "28125",
+        "28138",
+        "28144",
+        "28146",
+        "28147",
+        "28159"
+      ]
+    },
+    {
+      "name": "FORSYTH COUNTY PUBLIC LIBRARY",
+      "system": "FORSYTH COUNTY PUBLIC LIBRARY",
+      "address": "585 DAHLONEGA STREET, CUMMING, GA",
+      "website": "https://www.forsythpl.org/cumming-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27009",
+        "27012",
+        "27023",
+        "27040",
+        "27045",
+        "27050",
+        "27051",
+        "27101",
+        "27103",
+        "27104",
+        "27105",
+        "27106",
+        "27107",
+        "27109",
+        "27127",
+        "27284",
+        "30040"
+      ]
+    },
+    {
       "name": "DAVIE COUNTY PUBLIC LIBRARY",
       "system": "DAVIE COUNTY PUBLIC LIBRARY",
       "address": "371 N MAIN ST, MOCKSVILLE, NC",
@@ -8,7 +57,62 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "27006",
+        "27014",
         "27028"
+      ]
+    },
+    {
+      "name": "NORTHWESTERN REGIONAL LIBRARY",
+      "system": "NORTHWESTERN REGIONAL LIBRARY",
+      "address": "111 N FRONT ST, ELKIN, NC",
+      "website": "https://www.elkinnc.org/residents/town_facilities_and_services/library.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27007",
+        "27017",
+        "27024",
+        "27030",
+        "27041",
+        "27047",
+        "28621",
+        "28676",
+        "28683"
+      ]
+    },
+    {
+      "name": "DAVIDSON COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "DAVIDSON COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "602 S MAIN ST, LEXINGTON, NC",
+      "website": "https://www.co.davidson.nc.us/284/Lexington-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "270HH",
+        "271HH",
+        "27239",
+        "27292",
+        "27295",
+        "27299",
+        "27360"
+      ]
+    },
+    {
+      "name": "ROCKINGHAM COUNTY PUBLIC LIBRARY",
+      "system": "ROCKINGHAM COUNTY PUBLIC LIBRARY",
+      "address": "527 BOONE RD, EDEN, NC",
+      "website": "https://rcpl.libguides.com/EdenLibrary/Home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27025",
+        "27027",
+        "27048",
+        "27288",
+        "27320",
+        "27326",
+        "27357"
       ]
     }
   ]

@@ -1,6 +1,26 @@
 {
   "libraries": [
     {
+      "name": "MECKLENBURG COUNTY PUBLIC LIBRARY",
+      "system": "MECKLENBURG COUNTY PUBLIC LIBRARY",
+      "address": "1294 JEFFERSON ST., BOYDTON, VA",
+      "website": "https://librarytechnology.org/library/25157",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23915",
+        "23917",
+        "23919",
+        "23924",
+        "23927",
+        "23950",
+        "23968",
+        "23970",
+        "24529",
+        "24580"
+      ]
+    },
+    {
       "name": "AMHERST COUNTY PUBLIC LIBRARY",
       "system": "AMHERST COUNTY PUBLIC LIBRARY",
       "address": "382 SOUTH MAIN STREET, AMHERST, VA",
@@ -8,7 +28,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24521"
+        "24521",
+        "24533",
+        "24572",
+        "24574",
+        "24595"
       ]
     },
     {
@@ -19,7 +43,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24522"
+        "23939",
+        "24522",
+        "24593"
       ]
     },
     {
@@ -30,7 +56,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24523"
+        "24095",
+        "240HH",
+        "24104",
+        "24121",
+        "24122",
+        "24174",
+        "241HH",
+        "24523",
+        "24526",
+        "24536",
+        "24551",
+        "24556"
       ]
     },
     {
@@ -41,18 +78,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "24517",
+        "24528",
+        "24538",
+        "24550",
+        "24554",
+        "24571",
         "24588"
-      ]
-    },
-    {
-      "name": "DANVILLE PUBLIC LIBRARY",
-      "system": "DANVILLE PUBLIC LIBRARY",
-      "address": "511 PATTON STREET, DANVILLE, VA",
-      "website": "https://danvillepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "24541"
       ]
     },
     {
@@ -63,7 +95,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24558"
+        "24520",
+        "24534",
+        "24539",
+        "24558",
+        "24577",
+        "24589",
+        "24592",
+        "24597",
+        "24598"
       ]
     },
     {
@@ -85,7 +125,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24531"
+        "24069",
+        "24139",
+        "24161",
+        "24527",
+        "24530",
+        "24531",
+        "24549",
+        "24557",
+        "24563",
+        "24565",
+        "24566",
+        "24569",
+        "24586",
+        "24594"
       ]
     }
   ]

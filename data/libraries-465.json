@@ -1,6 +1,38 @@
 {
   "libraries": [
     {
+      "name": "GOSHEN PUBLIC LIBRARY",
+      "system": "GOSHEN PUBLIC LIBRARY",
+      "address": "601 SOUTH 5TH STREET, GOSHEN, IN",
+      "website": "https://www.goshenpublib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46514",
+        "46517",
+        "46526",
+        "46528",
+        "46543",
+        "46553",
+        "465HH"
+      ]
+    },
+    {
+      "name": "LA GRANGE COUNTY PUBLIC LIBRARY",
+      "system": "LA GRANGE COUNTY PUBLIC LIBRARY",
+      "address": "203 WEST SPRING STREET, LAGRANGE, IN",
+      "website": "https://www.lagrange.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46565",
+        "46571",
+        "46746",
+        "46761",
+        "46795"
+      ]
+    },
+    {
       "name": "STARKE COUNTY PUBLIC LIBRARY SYSTEM",
       "system": "STARKE COUNTY PUBLIC LIBRARY SYSTEM",
       "address": "152 WEST CULVER ROAD, KNOX, IN",
@@ -8,7 +40,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46534"
+        "46374",
+        "46531",
+        "46532",
+        "46534",
+        "46968"
       ]
     },
     {
@@ -19,7 +55,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46516"
+        "46514",
+        "46516",
+        "46517",
+        "46528",
+        "46543",
+        "46553",
+        "465HH"
       ]
     },
     {
@@ -30,7 +72,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46573"
+        "46514",
+        "46517",
+        "46528",
+        "46543",
+        "46553",
+        "46573",
+        "465HH"
       ]
     },
     {
@@ -41,7 +89,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46550"
+        "46514",
+        "46517",
+        "46528",
+        "46543",
+        "46550",
+        "46553",
+        "465HH"
       ]
     },
     {
@@ -52,18 +106,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46507"
-      ]
-    },
-    {
-      "name": "GOSHEN PUBLIC LIBRARY",
-      "system": "GOSHEN PUBLIC LIBRARY",
-      "address": "601 SOUTH 5TH STREET, GOSHEN, IN",
-      "website": "https://www.goshenpublib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46526"
+        "46507",
+        "46514",
+        "46517",
+        "46528",
+        "46543",
+        "46553",
+        "465HH"
       ]
     },
     {
@@ -74,7 +123,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46540"
+        "46514",
+        "46517",
+        "46528",
+        "46540",
+        "46543",
+        "46553",
+        "465HH"
       ]
     },
     {
@@ -85,7 +140,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46539"
+        "46502",
+        "46508",
+        "46510",
+        "46524",
+        "46538",
+        "46539",
+        "46542",
+        "46566",
+        "46582",
+        "46590",
+        "46982"
       ]
     },
     {
@@ -96,18 +161,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46580"
-      ]
-    },
-    {
-      "name": "MILFORD PUBLIC LIBRARY",
-      "system": "MILFORD PUBLIC LIBRARY",
-      "address": "101 NORTH MAIN STREET, MILFORD, IN",
-      "website": "http://www.milfordnjlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46542"
+        "46502",
+        "46508",
+        "46510",
+        "46524",
+        "46538",
+        "46542",
+        "46566",
+        "46580",
+        "46582",
+        "46590",
+        "46982"
       ]
     },
     {
@@ -118,7 +182,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46567"
+        "46502",
+        "46508",
+        "46510",
+        "46524",
+        "46538",
+        "46542",
+        "46566",
+        "46567",
+        "46582",
+        "46590",
+        "46982"
       ]
     },
     {
@@ -129,7 +203,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46562"
+        "46502",
+        "46508",
+        "46510",
+        "46524",
+        "46538",
+        "46542",
+        "46562",
+        "46566",
+        "46582",
+        "46590",
+        "46982"
       ]
     },
     {
@@ -140,29 +224,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46511"
-      ]
-    },
-    {
-      "name": "PLYMOUTH PUBLIC LIBRARY",
-      "system": "PLYMOUTH PUBLIC LIBRARY",
-      "address": "201 NORTH CENTER STREET, PLYMOUTH, IN",
-      "website": "https://plymouthpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46563"
-      ]
-    },
-    {
-      "name": "BREMEN PUBLIC LIBRARY",
-      "system": "BREMEN PUBLIC LIBRARY",
-      "address": "304 NORTH JACKSON STREET, BREMEN, IN",
-      "website": "https://bremenlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46506"
+        "46506",
+        "46511",
+        "46513",
+        "46537",
+        "46563",
+        "46570"
       ]
     },
     {
@@ -173,7 +240,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46501"
+        "46501",
+        "46506",
+        "46513",
+        "46537",
+        "46563",
+        "46570"
       ]
     },
     {
@@ -184,7 +256,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46504"
+        "46504",
+        "46506",
+        "46513",
+        "46537",
+        "46563",
+        "46570"
       ]
     },
     {
@@ -228,7 +305,32 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46555"
+        "46502",
+        "46508",
+        "46510",
+        "46524",
+        "46538",
+        "46542",
+        "46555",
+        "46566",
+        "46582",
+        "46590",
+        "46982"
+      ]
+    },
+    {
+      "name": "NORTH JUDSON-WAYNE TOWNSHIP PUBLIC LIBRARY",
+      "system": "NORTH JUDSON-WAYNE TOWNSHIP PUBLIC LIBRARY",
+      "address": "208 KELLER AVENUE, NORTH JUDSON, IN",
+      "website": "https://www.njwtpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46366",
+        "46374",
+        "46531",
+        "46532",
+        "46968"
       ]
     }
   ]

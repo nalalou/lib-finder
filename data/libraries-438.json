@@ -1,6 +1,152 @@
 {
   "libraries": [
     {
+      "name": "MUSKINGUM COUNTY LIBRARY SYSTEM",
+      "system": "MUSKINGUM COUNTY LIBRARY SYSTEM",
+      "address": "220 N. FIFTH ST., ZANESVILLE, OH",
+      "website": "https://muskingumlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43701",
+        "43720",
+        "43727",
+        "43734",
+        "43735",
+        "43738",
+        "43740",
+        "43746",
+        "43762",
+        "43767",
+        "43771",
+        "43777",
+        "43791",
+        "43802",
+        "43821",
+        "43822",
+        "43830",
+        "43842"
+      ]
+    },
+    {
+      "name": "CLAYMONT SCHOOL DISTRICT PUBLIC LIBRARY",
+      "system": "CLAYMONT SCHOOL DISTRICT PUBLIC LIBRARY",
+      "address": "215 E. THIRD ST., UHRICHSVILLE, OH",
+      "website": "https://www.claymontlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43837",
+        "43840",
+        "44612",
+        "44621",
+        "44622",
+        "44653",
+        "44656",
+        "44671",
+        "44678",
+        "44680",
+        "44681",
+        "44682",
+        "44683",
+        "44697"
+      ]
+    },
+    {
+      "name": "DOVER PUBLIC LIBRARY",
+      "system": "DOVER PUBLIC LIBRARY",
+      "address": "35 LOOCKERMAN PLAZA, DOVER, DE",
+      "website": "https://www.doverlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "19901",
+        "43837",
+        "43840",
+        "44612",
+        "44621",
+        "44622",
+        "44653",
+        "44656",
+        "44671",
+        "44678",
+        "44680",
+        "44681",
+        "44682",
+        "44697"
+      ]
+    },
+    {
+      "name": "GNADENHUTTENP.L./INDIAN VALLEY SCHOOL DIST.",
+      "system": "GNADENHUTTENP.L./INDIAN VALLEY SCHOOL DIST.",
+      "address": "160 N. WALNUT ST., GNADENHUTTEN, OH",
+      "website": "https://libraryhours.org/oh/gnadenhutten/gnadenhuttenplindian-valley-school-dist/4679/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43837",
+        "43840",
+        "44612",
+        "44621",
+        "44622",
+        "44629",
+        "44653",
+        "44656",
+        "44671",
+        "44678",
+        "44680",
+        "44681",
+        "44682",
+        "44697"
+      ]
+    },
+    {
+      "name": "HOLMES COUNTY DISTRICT PUBLIC LIBRARY",
+      "system": "HOLMES COUNTY DISTRICT PUBLIC LIBRARY",
+      "address": "3102 GLEN DR., MILLERSBURG, OH",
+      "website": "https://www.holmeslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43006",
+        "43804",
+        "44610",
+        "44611",
+        "44624",
+        "44628",
+        "44633",
+        "44637",
+        "44638",
+        "44654",
+        "44661",
+        "44690"
+      ]
+    },
+    {
+      "name": "TUSCARAWAS COUNTY PUBLIC LIBRARY",
+      "system": "TUSCARAWAS COUNTY PUBLIC LIBRARY",
+      "address": "121 FAIR AVENUE NW, NEW PHILADELPHIA, OH",
+      "website": "https://www.tusclibrary.org/newphil",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43837",
+        "43840",
+        "44612",
+        "44621",
+        "44622",
+        "44653",
+        "44656",
+        "44663",
+        "44671",
+        "44678",
+        "44680",
+        "44681",
+        "44682",
+        "44697"
+      ]
+    },
+    {
       "name": "COSHOCTON COUNTY DISTRICT LIBRARY",
       "system": "COSHOCTON COUNTY DISTRICT LIBRARY",
       "address": "655 MAIN ST., COSHOCTON, OH",
@@ -8,7 +154,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43812"
+        "43811",
+        "43812",
+        "43824",
+        "43843",
+        "43844",
+        "43845",
+        "438HH"
       ]
     },
     {
@@ -19,7 +171,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43832"
+        "43832",
+        "43837",
+        "43840",
+        "44612",
+        "44621",
+        "44622",
+        "44653",
+        "44656",
+        "44671",
+        "44678",
+        "44680",
+        "44681",
+        "44682",
+        "44697"
       ]
     }
   ]

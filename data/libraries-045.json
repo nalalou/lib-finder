@@ -1,135 +1,83 @@
 {
   "libraries": [
     {
-      "name": "PATTEN FREE LIBRARY",
-      "system": "PATTEN FREE LIBRARY",
-      "address": "33 SUMMER STREET, BATH, ME",
-      "website": "https://pattenfreelibrary.org/",
+      "name": "REVERE MEMORIAL LIBRARY",
+      "system": "REVERE MEMORIAL LIBRARY",
+      "address": "416 MAIN STREET, ISLE-AU-HAUT, ME",
+      "website": "http://www.revere.lib.me.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04530"
+        "045HH",
+        "04645",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "048HH"
       ]
     },
     {
-      "name": "BOOTHBAY HARBOR MEMORIAL LIBRARY",
-      "system": "BOOTHBAY HARBOR MEMORIAL LIBRARY",
-      "address": "4 OAK STREET, BOOTHBAY HARBOR, ME",
-      "website": "https://bbhlibrary.org/",
+      "name": "THOMASTON PUBLIC LIBRARY",
+      "system": "THOMASTON PUBLIC LIBRARY",
+      "address": "60 MAIN STREET, THOMASTON, ME",
+      "website": "https://thomastonlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04538"
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "04861",
+        "048HH"
       ]
     },
     {
-      "name": "SKIDOMPHA PUBLIC LIBRARY",
-      "system": "SKIDOMPHA PUBLIC LIBRARY",
-      "address": "184 MAIN STREET, DAMARISCOTTA, ME",
-      "website": "http://www.skidompha.org",
+      "name": "BOWDOINHAM PUBLIC LIBRARY",
+      "system": "BOWDOINHAM PUBLIC LIBRARY",
+      "address": "13A SCHOOL STREET, BOWDOINHAM, ME",
+      "website": "https://bowdoinhamlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04543"
+        "04008",
+        "04287",
+        "04579"
       ]
     },
     {
-      "name": "FRIENDSHIP PUBLIC LIBRARY",
-      "system": "FRIENDSHIP PUBLIC LIBRARY",
-      "address": "3 MAIN STREET, FRIENDSHIP, ME",
-      "website": "https://www.friendshiplibrary.me/",
+      "name": "TOPSHAM PUBLIC LIBRARY",
+      "system": "TOPSHAM PUBLIC LIBRARY",
+      "address": "25 FORESIDE ROAD, TOPSHAM, ME",
+      "website": "https://topshamlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04547"
+        "04086",
+        "04287",
+        "04579"
       ]
     },
     {
-      "name": "LAURA E. RICHARDS LIBRARY",
-      "system": "LAURA E. RICHARDS LIBRARY",
-      "address": "863 FIVE ISLANDS ROAD, GEORGETOWN, ME",
-      "website": "https://www.maine.gov/msl/mainelibs/displaypub.shtml?id=41022",
+      "name": "ROCKPORT PUBLIC LIBRARY",
+      "system": "ROCKPORT PUBLIC LIBRARY",
+      "address": "1 LIMEROCK STREET, ROCKPORT, ME",
+      "website": "https://www.rockportlibrary.net/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04548"
-      ]
-    },
-    {
-      "name": "ALBERT F. TOTMAN LIBRARY",
-      "system": "ALBERT F. TOTMAN LIBRARY",
-      "address": "28 PARKER HEAD ROAD, PHIPPSBURG, ME",
-      "website": "https://www.totmanpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04562"
-      ]
-    },
-    {
-      "name": "RUTHERFORD LIBRARY",
-      "system": "RUTHERFORD LIBRARY",
-      "address": "2000 STATE ROUTE 129, SOUTH BRISTOL, ME",
-      "website": "https://www.maine.gov/msl/libs/directories/displaypub.shtml?id=41054",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04568"
-      ]
-    },
-    {
-      "name": "WALDOBORO PUBLIC LIBRARY",
-      "system": "WALDOBORO PUBLIC LIBRARY",
-      "address": "958 MAIN STREET, WALDOBORO, ME",
-      "website": "http://www.waldoborolibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04572"
-      ]
-    },
-    {
-      "name": "WISCASSET PUBLIC LIBRARY",
-      "system": "WISCASSET PUBLIC LIBRARY",
-      "address": "21 HIGH STREET, WISCASSET, ME",
-      "website": "https://wiscasset.lib.me.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04578"
-      ]
-    },
-    {
-      "name": "CUSHING PUBLIC LIBRARY",
-      "system": "CUSHING PUBLIC LIBRARY",
-      "address": "39 CROSS ROAD, CUSHING, ME",
-      "website": "https://cushing.lib.me.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04563"
-      ]
-    },
-    {
-      "name": "GIBBS LIBRARY",
-      "system": "GIBBS LIBRARY",
-      "address": "40 OLD UNION ROAD, WASHINGTON, ME",
-      "website": "https://gibbslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04574"
-      ]
-    },
-    {
-      "name": "BRISTOL AREA LIBRARY",
-      "system": "BRISTOL AREA LIBRARY",
-      "address": "619 OLD COUNTY ROAD, PEMAQUID, ME",
-      "website": "https://libraryhours.org/me/pemaquid/bristol-area-library/2643/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04558"
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04856",
+        "04857",
+        "04859",
+        "048HH"
       ]
     },
     {
@@ -140,7 +88,492 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04551"
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04551",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573"
+      ]
+    },
+    {
+      "name": "CUSHING PUBLIC LIBRARY",
+      "system": "CUSHING PUBLIC LIBRARY",
+      "address": "39 CROSS ROAD, CUSHING, ME",
+      "website": "https://cushing.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04563",
+        "74023",
+        "74032",
+        "74062",
+        "74074",
+        "74075"
+      ]
+    },
+    {
+      "name": "ISAAC F. UMBERHINE PUBLIC LIBRARY",
+      "system": "ISAAC F. UMBERHINE PUBLIC LIBRARY",
+      "address": "86 MAIN STREET, RICHMOND, ME",
+      "website": "https://umberhine.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04287",
+        "04357",
+        "04579"
+      ]
+    },
+    {
+      "name": "BRIDGE ACADEMY PUBLIC LIBRARY",
+      "system": "BRIDGE ACADEMY PUBLIC LIBRARY",
+      "address": "44 MIDDLE ROAD, DRESDEN, ME",
+      "website": "http://www.bapl.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04342",
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573"
+      ]
+    },
+    {
+      "name": "WHITEFIELD LIBRARY",
+      "system": "WHITEFIELD LIBRARY",
+      "address": "1 ARLINGTON LANE, WHITEFIELD, ME",
+      "website": "https://whitefieldlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04353",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573"
+      ]
+    },
+    {
+      "name": "CAMDEN PUBLIC LIBRARY",
+      "system": "CAMDEN PUBLIC LIBRARY",
+      "address": "55 MAIN STREET, CAMDEN, ME",
+      "website": "https://www.librarycamden.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04843",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "048HH"
+      ]
+    },
+    {
+      "name": "ROCKLAND PUBLIC LIBRARY",
+      "system": "ROCKLAND PUBLIC LIBRARY",
+      "address": "80 UNION ST., ROCKLAND, ME",
+      "website": "http://www.rocklandlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04841",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "048HH"
+      ]
+    },
+    {
+      "name": "JACKSON MEMORIAL LIBRARY",
+      "system": "JACKSON MEMORIAL LIBRARY",
+      "address": "71 MAIN STREET, TENANTS HARBOR, ME",
+      "website": "https://www.jacksonmemoriallibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "04860",
+        "048HH"
+      ]
+    },
+    {
+      "name": "VOSE LIBRARY",
+      "system": "VOSE LIBRARY",
+      "address": "392 COMMON ROAD, UNION, ME",
+      "website": "https://visitmaine.com/organization/vose-library/5689/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "04862",
+        "048HH"
+      ]
+    },
+    {
+      "name": "VINALHAVEN PUBLIC LIBRARY",
+      "system": "VINALHAVEN PUBLIC LIBRARY",
+      "address": "6 CARVER STREET, VINALHAVEN, ME",
+      "website": "https://www.vinalhavenpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "04863",
+        "048HH"
+      ]
+    },
+    {
+      "name": "NORTH HAVEN PUBLIC LIBRARY",
+      "system": "NORTH HAVEN PUBLIC LIBRARY",
+      "address": "33 MAIN STREET, NORTH HAVEN, ME",
+      "website": "https://northhavenlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04847",
+        "04851",
+        "04853",
+        "04854",
+        "04857",
+        "04859",
+        "048HH"
+      ]
+    },
+    {
+      "name": "MILDRED STEVENS WILLIAMS MEMORIAL LIBRARY",
+      "system": "MILDRED STEVENS WILLIAMS MEMORIAL LIBRARY",
+      "address": "2916 SENNEBEC ROAD, APPLETON, ME",
+      "website": "https://appletonlibraryme.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "04862",
+        "048HH"
+      ]
+    },
+    {
+      "name": "WARREN FREE PUBLIC LIBRARY",
+      "system": "WARREN FREE PUBLIC LIBRARY",
+      "address": "282 MAIN STREET, WARREN, ME",
+      "website": "https://www.warrenfreepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "04864",
+        "048HH"
+      ]
+    },
+    {
+      "name": "MONHEGAN MEMORIAL LIBRARY",
+      "system": "MONHEGAN MEMORIAL LIBRARY",
+      "address": "1 LIBRARY LANE, MONHEGAN, ME",
+      "website": "https://monheganlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573",
+        "04852"
+      ]
+    },
+    {
+      "name": "SOUTH THOMASTON PUBLIC LIBRARY",
+      "system": "SOUTH THOMASTON PUBLIC LIBRARY",
+      "address": "54 SPRUCE HEAD ROAD, SOUTH THOMASTON, ME",
+      "website": "http://sotholib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04858",
+        "04859",
+        "048HH"
+      ]
+    },
+    {
+      "name": "PATTEN FREE LIBRARY",
+      "system": "PATTEN FREE LIBRARY",
+      "address": "33 SUMMER STREET, BATH, ME",
+      "website": "https://pattenfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04287",
+        "04530",
+        "04579"
+      ]
+    },
+    {
+      "name": "BOOTHBAY HARBOR MEMORIAL LIBRARY",
+      "system": "BOOTHBAY HARBOR MEMORIAL LIBRARY",
+      "address": "4 OAK STREET, BOOTHBAY HARBOR, ME",
+      "website": "https://bbhlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04538",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573"
+      ]
+    },
+    {
+      "name": "SKIDOMPHA PUBLIC LIBRARY",
+      "system": "SKIDOMPHA PUBLIC LIBRARY",
+      "address": "184 MAIN STREET, DAMARISCOTTA, ME",
+      "website": "http://www.skidompha.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04543",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573"
+      ]
+    },
+    {
+      "name": "FRIENDSHIP PUBLIC LIBRARY",
+      "system": "FRIENDSHIP PUBLIC LIBRARY",
+      "address": "3 MAIN STREET, FRIENDSHIP, ME",
+      "website": "https://www.friendshiplibrary.me/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04547",
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "048HH"
+      ]
+    },
+    {
+      "name": "LAURA E. RICHARDS LIBRARY",
+      "system": "LAURA E. RICHARDS LIBRARY",
+      "address": "863 FIVE ISLANDS ROAD, GEORGETOWN, ME",
+      "website": "https://www.maine.gov/msl/mainelibs/displaypub.shtml?id=41022",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04287",
+        "04548",
+        "04579"
+      ]
+    },
+    {
+      "name": "ALBERT F. TOTMAN LIBRARY",
+      "system": "ALBERT F. TOTMAN LIBRARY",
+      "address": "28 PARKER HEAD ROAD, PHIPPSBURG, ME",
+      "website": "https://www.totmanpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04287",
+        "04562",
+        "04579"
+      ]
+    },
+    {
+      "name": "RUTHERFORD LIBRARY",
+      "system": "RUTHERFORD LIBRARY",
+      "address": "2000 STATE ROUTE 129, SOUTH BRISTOL, ME",
+      "website": "https://www.maine.gov/msl/libs/directories/displaypub.shtml?id=41054",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04568",
+        "04573"
+      ]
+    },
+    {
+      "name": "WALDOBORO PUBLIC LIBRARY",
+      "system": "WALDOBORO PUBLIC LIBRARY",
+      "address": "958 MAIN STREET, WALDOBORO, ME",
+      "website": "http://www.waldoborolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04572",
+        "04573"
+      ]
+    },
+    {
+      "name": "WISCASSET PUBLIC LIBRARY",
+      "system": "WISCASSET PUBLIC LIBRARY",
+      "address": "21 HIGH STREET, WISCASSET, ME",
+      "website": "https://wiscasset.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573",
+        "04578"
+      ]
+    },
+    {
+      "name": "GIBBS LIBRARY",
+      "system": "GIBBS LIBRARY",
+      "address": "40 OLD UNION ROAD, WASHINGTON, ME",
+      "website": "https://gibbslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04574",
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "048HH"
+      ]
+    },
+    {
+      "name": "BRISTOL AREA LIBRARY",
+      "system": "BRISTOL AREA LIBRARY",
+      "address": "619 OLD COUNTY ROAD, PEMAQUID, ME",
+      "website": "https://libraryhours.org/me/pemaquid/bristol-area-library/2643/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04558",
+        "04564",
+        "04573"
       ]
     },
     {
@@ -151,6 +584,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573",
         "04576"
       ]
     }

@@ -8,18 +8,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65084"
-      ]
-    },
-    {
-      "name": "CAMDEN COUNTY LIBRARY",
-      "system": "CAMDEN COUNTY LIBRARY",
-      "address": "89 RODEO RD, CAMDENTON, MO",
-      "website": "https://www.camdencountylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "65020"
+        "65084",
+        "84018",
+        "84050"
       ]
     },
     {
@@ -30,7 +21,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65018"
+        "65018",
+        "65025",
+        "65034",
+        "65046",
+        "65050",
+        "65081"
       ]
     },
     {
@@ -41,7 +37,124 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65018"
+        "65018",
+        "65025",
+        "65034",
+        "65046",
+        "65050",
+        "65081"
+      ]
+    },
+    {
+      "name": "MISSOURI RIVER REGIONAL LIBRARY",
+      "system": "MISSOURI RIVER REGIONAL LIBRARY",
+      "address": "308 EAST HIGH, SUITE 205, JEFFERSON CITY, MO",
+      "website": "https://www.mrrl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65023",
+        "65032",
+        "65040",
+        "65053",
+        "65074",
+        "65076",
+        "65101",
+        "65109",
+        "651HH"
+      ]
+    },
+    {
+      "name": "MONTGOMERY CITY PUBLIC LIBRARY",
+      "system": "MONTGOMERY CITY PUBLIC LIBRARY",
+      "address": "224 N ALLEN ST, MONTGOMERY CITY, MO",
+      "website": "https://www.montgomerycitymo.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63333",
+        "63350",
+        "63351",
+        "63359",
+        "63361",
+        "63363",
+        "65069"
+      ]
+    },
+    {
+      "name": "CITY OF WELLSVILLE MUNICIPAL LIBRARY DISTRICT",
+      "system": "CITY OF WELLSVILLE MUNICIPAL LIBRARY DISTRICT",
+      "address": "108 W HUDSON ST, WELLSVILLE, MO",
+      "website": "https://www.wellsvillelibrary.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63333",
+        "63350",
+        "63351",
+        "63359",
+        "63363",
+        "63384",
+        "65069"
+      ]
+    },
+    {
+      "name": "DANIEL BOONE REGIONAL LIBRARY",
+      "system": "DANIEL BOONE REGIONAL LIBRARY",
+      "address": "100 W BROADWAY, COLUMBIA, MO",
+      "website": "https://www.dbrl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65010",
+        "65039",
+        "650HH",
+        "65201",
+        "65202",
+        "65203",
+        "65255",
+        "65256",
+        "65279",
+        "65284",
+        "652HH"
+      ]
+    },
+    {
+      "name": "CENTRALIA PUBLIC LIBRARY",
+      "system": "CENTRALIA PUBLIC LIBRARY",
+      "address": "210 S JEFFERSON ST, CENTRALIA, MO",
+      "website": "https://www.centraliapubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65010",
+        "65039",
+        "650HH",
+        "65201",
+        "65202",
+        "65240",
+        "65255",
+        "65256",
+        "65279",
+        "65284",
+        "652HH"
+      ]
+    },
+    {
+      "name": "HEARTLAND REGIONAL LIBRARY SYSTEM",
+      "system": "HEARTLAND REGIONAL LIBRARY SYSTEM",
+      "address": "315 THIRD ST, VIENNA, MO",
+      "website": "https://www.heartland.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65013",
+        "65058",
+        "65443",
+        "654HH",
+        "65580",
+        "65582",
+        "655HH"
       ]
     }
   ]

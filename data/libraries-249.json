@@ -1,6 +1,103 @@
 {
   "libraries": [
     {
+      "name": "MONROE COUNTY PUBLIC LIBRARY",
+      "system": "MONROE COUNTY PUBLIC LIBRARY",
+      "address": "303 EAST KIRKWOOD AVENUE, BLOOMINGTON, IN",
+      "website": "http://www.mcpl.info",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24918",
+        "24941",
+        "24945",
+        "24951",
+        "24974",
+        "24976",
+        "24983",
+        "24984",
+        "24985",
+        "47408"
+      ]
+    },
+    {
+      "name": "RAINELLE PUBLIC LIBRARY",
+      "system": "RAINELLE PUBLIC LIBRARY",
+      "address": "378 7TH STREET, RAINELLE, WV",
+      "website": "https://www.rainellepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24916",
+        "24925",
+        "24931",
+        "24936",
+        "24938",
+        "24943",
+        "24950",
+        "24957",
+        "24966",
+        "24977",
+        "24991",
+        "249HH",
+        "249XX",
+        "25958",
+        "25962",
+        "25972",
+        "25981",
+        "259XX"
+      ]
+    },
+    {
+      "name": "RUPERT PUBLIC LIBRARY",
+      "system": "RUPERT PUBLIC LIBRARY",
+      "address": "124 GREENBRIER STREET, RUPERT, WV",
+      "website": "https://www.rupertpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24916",
+        "24925",
+        "24931",
+        "24936",
+        "24938",
+        "24943",
+        "24950",
+        "24957",
+        "24966",
+        "24977",
+        "24991",
+        "249HH",
+        "249XX",
+        "25958",
+        "25972",
+        "25981",
+        "25984",
+        "259XX"
+      ]
+    },
+    {
+      "name": "SUMMERS COUNTY PUBLIC LIBRARY",
+      "system": "SUMMERS COUNTY PUBLIC LIBRARY",
+      "address": "201 TEMPLE ST, HINTON, WV",
+      "website": "https://summerscountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24919",
+        "24935",
+        "24962",
+        "24981",
+        "25951",
+        "25966",
+        "25969",
+        "25977",
+        "25978",
+        "25979",
+        "25985"
+      ]
+    },
+    {
       "name": "ALDERSON PUBLIC LIBRARY",
       "system": "ALDERSON PUBLIC LIBRARY",
       "address": "115 WALNUT AVE., ALDERSON, WV",
@@ -8,7 +105,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24910"
+        "24910",
+        "24916",
+        "24925",
+        "24931",
+        "24936",
+        "24938",
+        "24943",
+        "24950",
+        "24957",
+        "24966",
+        "24977",
+        "24991",
+        "249HH",
+        "249XX",
+        "25958",
+        "25972",
+        "25981",
+        "259XX"
       ]
     },
     {
@@ -19,7 +133,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24901"
+        "24901",
+        "24916",
+        "24925",
+        "24931",
+        "24936",
+        "24938",
+        "24943",
+        "24950",
+        "24957",
+        "24966",
+        "24977",
+        "24991",
+        "249HH",
+        "249XX",
+        "25958",
+        "25972",
+        "25981",
+        "259XX"
       ]
     },
     {
@@ -30,7 +161,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24970"
+        "24916",
+        "24925",
+        "24931",
+        "24936",
+        "24938",
+        "24943",
+        "24950",
+        "24957",
+        "24966",
+        "24970",
+        "24977",
+        "24991",
+        "249HH",
+        "249XX",
+        "25958",
+        "25972",
+        "25981",
+        "259XX"
       ]
     },
     {
@@ -41,18 +189,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24986"
-      ]
-    },
-    {
-      "name": "MONROE COUNTY PUBLIC LIBRARY",
-      "system": "MONROE COUNTY PUBLIC LIBRARY",
-      "address": "303 SOUTH MAIN STREET, UNION, WV",
-      "website": "http://www.mcpl.info",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "24983"
+        "24916",
+        "24925",
+        "24931",
+        "24936",
+        "24938",
+        "24943",
+        "24950",
+        "24957",
+        "24966",
+        "24977",
+        "24986",
+        "24991",
+        "249HH",
+        "249XX",
+        "25958",
+        "25972",
+        "25981",
+        "259XX"
       ]
     },
     {
@@ -63,7 +217,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24963"
+        "24918",
+        "24941",
+        "24945",
+        "24951",
+        "24963",
+        "24974",
+        "24976",
+        "24983",
+        "24984",
+        "24985"
       ]
     },
     {
@@ -74,7 +237,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24954"
+        "24915",
+        "24920",
+        "24924",
+        "24927",
+        "24934",
+        "24944",
+        "24946",
+        "24954",
+        "26209",
+        "26264",
+        "26291"
       ]
     }
   ]

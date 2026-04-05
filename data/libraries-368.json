@@ -8,7 +8,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36853"
+        "36256",
+        "36850",
+        "36853",
+        "36861"
       ]
     },
     {
@@ -19,18 +22,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36853"
-      ]
-    },
-    {
-      "name": "AUBURN PUBLIC LIBRARY",
-      "system": "AUBURN PUBLIC LIBRARY",
-      "address": "749 EAST THACH AVENUE, AUBURN, AL",
-      "website": "http://www.auburn.lib.me.us",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36830"
+        "36256",
+        "36850",
+        "36853",
+        "36861"
       ]
     },
     {
@@ -41,7 +36,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36801"
+        "36801",
+        "36804",
+        "36830",
+        "36832",
+        "36849",
+        "36852",
+        "36870",
+        "36874",
+        "36877",
+        "36879"
       ]
     },
     {
@@ -52,7 +56,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36867"
+        "36856",
+        "36858",
+        "36860",
+        "36867",
+        "36869",
+        "36871",
+        "36875"
       ]
     },
     {
@@ -63,7 +73,55 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36854"
+        "36854",
+        "36855",
+        "36862",
+        "36863",
+        "368HH"
+      ]
+    },
+    {
+      "name": "ALEXANDER CITY - ADELIA MCCONNELL RUSSELL LIBRARY",
+      "system": "ALEXANDER CITY - ADELIA MCCONNELL RUSSELL LIBRARY",
+      "address": "318 CHURCH STREET, ALEXANDER CITY, AL",
+      "website": "https://www.alexandercityal.gov/library/page/adelia-m-russell-library-0",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35010",
+        "36256",
+        "36850",
+        "36861"
+      ]
+    },
+    {
+      "name": "TALLASSEE COMMUNITY PUBLIC LIBRARY",
+      "system": "TALLASSEE COMMUNITY PUBLIC LIBRARY",
+      "address": "99 FREEMAN AVENUE, TALLASSEE, AL",
+      "website": "https://www.tallasseeal.gov/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36078",
+        "36256",
+        "36850",
+        "36861"
+      ]
+    },
+    {
+      "name": "MACON COUNTY - TUSKEGEE PUBLIC LIBRARY",
+      "system": "MACON COUNTY - TUSKEGEE PUBLIC LIBRARY",
+      "address": "302 SOUTH MAIN STREET, TUSKEGEE, AL",
+      "website": "http://www.mctpl.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36031",
+        "36039",
+        "36075",
+        "36083",
+        "36088",
+        "36866"
       ]
     }
   ]

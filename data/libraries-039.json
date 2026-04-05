@@ -1,6 +1,405 @@
 {
   "libraries": [
     {
+      "name": "ACTON PUBLIC LIBRARY",
+      "system": "ACTON PUBLIC LIBRARY",
+      "address": "60 OLD BOSTON POST RD., OLD SAYBROOK, CT",
+      "website": "https://actonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04061",
+        "04087",
+        "04090",
+        "04095",
+        "06475"
+      ]
+    },
+    {
+      "name": "PARSONS MEMORIAL LIBRARY",
+      "system": "PARSONS MEMORIAL LIBRARY",
+      "address": "27 SACO ROAD, ALFRED, ME",
+      "website": "https://www.alfredme.gov/board_and_committees/pml/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04002",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "MCARTHUR PUBLIC LIBRARY",
+      "system": "MCARTHUR PUBLIC LIBRARY",
+      "address": "270 MAIN STREET, BIDDEFORD, ME",
+      "website": "https://mcarthurlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04005",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "BERRY MEMORIAL LIBRARY",
+      "system": "BERRY MEMORIAL LIBRARY",
+      "address": "93 MAIN STREET, BAR MILLS, ME",
+      "website": "https://berrylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04004",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "WEST BUXTON PUBLIC LIBRARY ASSOCIATION",
+      "system": "WEST BUXTON PUBLIC LIBRARY ASSOCIATION",
+      "address": "34 RIVER ROAD (S.R.112), BUXTON, ME",
+      "website": "https://westbuxtonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04061",
+        "04087",
+        "04090",
+        "04093",
+        "04095"
+      ]
+    },
+    {
+      "name": "BONNEY MEMORIAL LIBRARY",
+      "system": "BONNEY MEMORIAL LIBRARY",
+      "address": "36 MAIN STREET, CORNISH, ME",
+      "website": "https://www.bonneylib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04020",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "HOLLIS CENTER PUBLIC LIBRARY",
+      "system": "HOLLIS CENTER PUBLIC LIBRARY",
+      "address": "14 LITTLE FALLS ROAD, HOLLIS, ME",
+      "website": "https://www.holliscenterpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04042",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "SALMON FALLS LIBRARY",
+      "system": "SALMON FALLS LIBRARY",
+      "address": "322 OLD ALFRED ROAD, HOLLIS, ME",
+      "website": "https://salmonfallslibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04042",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "KENNEBUNK FREE LIBRARY",
+      "system": "KENNEBUNK FREE LIBRARY",
+      "address": "112 MAIN STREET, KENNEBUNK, ME",
+      "website": "https://kennebunklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04043",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "LOUIS T. GRAVES MEMORIAL LIBRARY",
+      "system": "LOUIS T. GRAVES MEMORIAL LIBRARY",
+      "address": "18 MAINE STREET, KENNEBUNKPORT, ME",
+      "website": "https://graveslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04046",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "DAVIS MEMORIAL LIBRARY",
+      "system": "DAVIS MEMORIAL LIBRARY",
+      "address": "928 CAPE ROAD, LIMINGTON, ME",
+      "website": "https://limingtonmaine.gov/pages/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04049",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "LIBBY MEMORIAL LIBRARY",
+      "system": "LIBBY MEMORIAL LIBRARY",
+      "address": "27 STAPLES STREET, OLD ORCHARD BEACH, ME",
+      "website": "https://librarytechnology.org/library/19307",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04061",
+        "04064",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "KEZAR FALLS CIRCULATING LIBRARY",
+      "system": "KEZAR FALLS CIRCULATING LIBRARY",
+      "address": "2 WADLEIGH STREET, PARSONSFIELD, ME",
+      "website": "https://www.kezarfallslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04047",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "DYER LIBRARY",
+      "system": "DYER LIBRARY",
+      "address": "371 MAIN STREET, SACO, ME",
+      "website": "http://www.dyerlibrarysacomuseum.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04061",
+        "04072",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "GOODALL MEMORIAL LIBRARY",
+      "system": "GOODALL MEMORIAL LIBRARY",
+      "address": "952 MAIN STREET, SANFORD, ME",
+      "website": "https://lbgoodall.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04061",
+        "04073",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "SPRINGVALE PUBLIC LIBRARY",
+      "system": "SPRINGVALE PUBLIC LIBRARY",
+      "address": "443 MAIN STREET, SPRINGVALE, ME",
+      "website": "https://www.springvalelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04061",
+        "04083",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "SHAPLEIGH COMMUNITY LIBRARY",
+      "system": "SHAPLEIGH COMMUNITY LIBRARY",
+      "address": "607 SHAPLEIGH CORNER ROAD, SHAPLEIGH, ME",
+      "website": "https://shapleigh.net/other/library.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04061",
+        "04076",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "WATERBORO PUBLIC LIBRARY",
+      "system": "WATERBORO PUBLIC LIBRARY",
+      "address": "187 MAIN ST., EAST WATERBORO, ME",
+      "website": "https://www.waterboro-me.net/departments/waterboro_public_library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04030",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "LIMERICK PUBLIC LIBRARY",
+      "system": "LIMERICK PUBLIC LIBRARY",
+      "address": "55 WASHINGTON STREET, LIMERICK, ME",
+      "website": "https://www.limericklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04048",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "MARTHA SAWYER COMMUNITY LIBRARY",
+      "system": "MARTHA SAWYER COMMUNITY LIBRARY",
+      "address": "53 UPPER GUINEA ROAD, LEBANON, ME",
+      "website": "https://www.maine.gov/msl/libs/directories/displaypub.shtml?id=41024",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04027",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
+      "name": "CAPE PORPOISE LIBRARY",
+      "system": "CAPE PORPOISE LIBRARY",
+      "address": "173 MAIN STREET, KENNEBUNKPORT, ME",
+      "website": "https://www.kennebunkportme.gov/community/libraries/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04046",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
+      ]
+    },
+    {
       "name": "WILLIAM FOGG PUBLIC LIBRARY",
       "system": "WILLIAM FOGG PUBLIC LIBRARY",
       "address": "116 OLD ROAD, ELIOT, ME",
@@ -8,7 +407,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03903"
+        "03902",
+        "03903",
+        "03905",
+        "039HH",
+        "04001",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
       ]
     },
     {
@@ -19,7 +426,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03904"
+        "03902",
+        "03904",
+        "03905",
+        "039HH",
+        "04001",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
       ]
     },
     {
@@ -30,7 +445,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03906"
+        "03902",
+        "03905",
+        "03906",
+        "039HH",
+        "04001",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
       ]
     },
     {
@@ -41,7 +464,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03908"
+        "03902",
+        "03905",
+        "03908",
+        "039HH",
+        "04001",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
       ]
     },
     {
@@ -52,7 +483,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03909"
+        "03902",
+        "03905",
+        "03909",
+        "039HH",
+        "04001",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
       ]
     },
     {
@@ -63,7 +502,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03901"
+        "03901",
+        "03902",
+        "03905",
+        "039HH",
+        "04001",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
       ]
     },
     {
@@ -74,7 +521,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03907"
+        "03902",
+        "03905",
+        "03907",
+        "039HH",
+        "04001",
+        "04061",
+        "04087",
+        "04090",
+        "04095"
       ]
     }
   ]

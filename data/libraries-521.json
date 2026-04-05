@@ -1,6 +1,132 @@
 {
   "libraries": [
     {
+      "name": "EDGEWOOD PUBLIC LIBRARY",
+      "system": "EDGEWOOD PUBLIC LIBRARY",
+      "address": "203 W UNION ST, EDGEWOOD, IA",
+      "website": "https://www.edgewood.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52042",
+        "52044",
+        "52048",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "ELKADER PUBLIC LIBRARY",
+      "system": "ELKADER PUBLIC LIBRARY",
+      "address": "130 N MAIN ST, ELKADER, IA",
+      "website": "https://www.elkader.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52043",
+        "52044",
+        "52048",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "GARNAVILLO PUBLIC LIBRARY",
+      "system": "GARNAVILLO PUBLIC LIBRARY",
+      "address": "112 S MAIN ST, GARNAVILLO, IA",
+      "website": "https://www.garnavillo.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52044",
+        "52048",
+        "52049",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "GUTTENBERG PUBLIC LIBRARY",
+      "system": "GUTTENBERG PUBLIC LIBRARY",
+      "address": "603 S SECOND ST, GUTTENBERG, IA",
+      "website": "https://www.guttenberg.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52044",
+        "52048",
+        "52052",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "STRAWBERRY POINT PUBLIC LIBRARY",
+      "system": "STRAWBERRY POINT PUBLIC LIBRARY",
+      "address": "401 COMMERCIAL ST, STRAWBERRY POINT, IA",
+      "website": "https://www.strawberrypoint.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52044",
+        "52048",
+        "52066",
+        "52072",
+        "52076",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "VOLGA PUBLIC LIBRARY",
+      "system": "VOLGA PUBLIC LIBRARY",
+      "address": "505 WASHINGTON ST, VOLGA, IA",
+      "website": "https://www.volga.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52044",
+        "52048",
+        "52066",
+        "52072",
+        "52077",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "FARMERSBURG PUBLIC LIBRARY",
+      "system": "FARMERSBURG PUBLIC LIBRARY",
+      "address": "208 S MAIN, FARMERSBURG, IA",
+      "website": "https://www.farmersburg.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52044",
+        "52047",
+        "52048",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
       "name": "LAWLER PUBLIC LIBRARY",
       "system": "LAWLER PUBLIC LIBRARY",
       "address": "412 E GROVE ST, LAWLER, IA",
@@ -19,7 +145,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52157"
+        "52044",
+        "52048",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52157",
+        "52158"
       ]
     },
     {
@@ -30,6 +163,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "52044",
+        "52048",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52158",
         "52159"
       ]
     },
@@ -41,7 +181,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52160"
+        "52140",
+        "52160",
+        "52170",
+        "521HH"
       ]
     },
     {
@@ -52,6 +195,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50606",
+        "52141",
+        "52164",
+        "52166",
         "52171"
       ]
     },
@@ -63,6 +210,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "52133",
+        "52165",
         "52168"
       ]
     },
@@ -74,7 +223,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52162"
+        "52140",
+        "52162",
+        "52170",
+        "521HH"
       ]
     },
     {
@@ -85,7 +237,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52172"
+        "52140",
+        "52170",
+        "52172",
+        "521HH"
       ]
     },
     {
@@ -96,18 +251,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52135"
-      ]
-    },
-    {
-      "name": "ELGIN PUBLIC LIBRARY",
-      "system": "ELGIN PUBLIC LIBRARY",
-      "address": "214 MAIN ST, ELGIN, IA",
-      "website": "https://libraries.ne.gov/elgin/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52141"
+        "50606",
+        "52135",
+        "52141",
+        "52164",
+        "52166"
       ]
     },
     {
@@ -118,7 +266,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52142"
+        "50606",
+        "52141",
+        "52142",
+        "52164",
+        "52166"
       ]
     },
     {
@@ -129,7 +281,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52147"
+        "50606",
+        "52141",
+        "52147",
+        "52164",
+        "52166"
       ]
     },
     {
@@ -140,6 +296,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50606",
+        "52141",
+        "52164",
+        "52166",
         "52169"
       ]
     },
@@ -151,7 +311,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52151"
+        "52140",
+        "52151",
+        "52170",
+        "521HH"
       ]
     },
     {
@@ -162,7 +325,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52136"
+        "52134",
+        "52136",
+        "52163"
       ]
     },
     {
@@ -173,7 +338,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52155"
+        "52134",
+        "52155",
+        "52163"
       ]
     },
     {
@@ -184,7 +351,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52132"
+        "52132",
+        "52133",
+        "52165"
       ]
     },
     {
@@ -195,7 +364,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52101"
+        "52101",
+        "52133",
+        "52165"
       ]
     },
     {
@@ -206,7 +377,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52144"
+        "52133",
+        "52144",
+        "52165"
       ]
     },
     {
@@ -217,7 +390,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52161"
+        "52133",
+        "52161",
+        "52165"
       ]
     },
     {
@@ -228,6 +403,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50606",
+        "52141",
+        "52164",
+        "52166",
         "52175"
       ]
     },
@@ -239,18 +418,55 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52146"
+        "52140",
+        "52146",
+        "52170",
+        "521HH"
       ]
     },
     {
-      "name": "WATERVILLE PUBLIC LIBRARY",
-      "system": "WATERVILLE PUBLIC LIBRARY",
-      "address": "115 MAIN ST, WATERVILLE, IA",
-      "website": "http://www.watervillelibrary.org",
+      "name": "MAYNARD COMMUNITY LIBRARY",
+      "system": "MAYNARD COMMUNITY LIBRARY",
+      "address": "245 MAIN ST W, MAYNARD, IA",
+      "website": "https://www.maynard.lib.ia.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52170"
+        "50606",
+        "50655",
+        "52141",
+        "52164",
+        "52166"
+      ]
+    },
+    {
+      "name": "OELWEIN PUBLIC LIBRARY",
+      "system": "OELWEIN PUBLIC LIBRARY",
+      "address": "201 E CHARLES ST, OELWEIN, IA",
+      "website": "https://www.oelwein.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50606",
+        "50662",
+        "52141",
+        "52164",
+        "52166"
+      ]
+    },
+    {
+      "name": "WESTGATE PUBLIC LIBRARY",
+      "system": "WESTGATE PUBLIC LIBRARY",
+      "address": "180 MAIN ST, WESTGATE, IA",
+      "website": "https://www.westgate.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50606",
+        "50681",
+        "52141",
+        "52164",
+        "52166"
       ]
     }
   ]

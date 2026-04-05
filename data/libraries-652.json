@@ -8,7 +8,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65254"
+        "65230",
+        "65250",
+        "65254",
+        "65274"
       ]
     },
     {
@@ -19,7 +22,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65203"
+        "65010",
+        "65039",
+        "650HH",
+        "65201",
+        "65202",
+        "65203",
+        "65255",
+        "65256",
+        "65279",
+        "65284",
+        "652HH"
       ]
     },
     {
@@ -30,7 +43,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65270"
+        "65239",
+        "65243",
+        "65244",
+        "65257",
+        "65259",
+        "65260",
+        "65270",
+        "65278"
       ]
     },
     {
@@ -41,7 +61,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65248"
+        "65230",
+        "65248",
+        "65250",
+        "65274"
       ]
     },
     {
@@ -52,7 +75,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65265"
+        "63345",
+        "63352",
+        "63382",
+        "65232",
+        "65264",
+        "65265",
+        "65280",
+        "65285"
       ]
     },
     {
@@ -63,7 +93,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65240"
+        "65010",
+        "65039",
+        "650HH",
+        "65201",
+        "65202",
+        "65240",
+        "65255",
+        "65256",
+        "65279",
+        "65284",
+        "652HH"
       ]
     },
     {
@@ -74,7 +114,69 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65281"
+        "635HH",
+        "64660",
+        "64676",
+        "64681",
+        "65236",
+        "65246",
+        "65261",
+        "65281",
+        "65286"
+      ]
+    },
+    {
+      "name": "MACON PUBLIC LIBRARY",
+      "system": "MACON PUBLIC LIBRARY",
+      "address": "210 N RUTHERFORD ST, MACON, MO",
+      "website": "http://www.maconlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63431",
+        "63530",
+        "63532",
+        "63534",
+        "63538",
+        "63539",
+        "63552",
+        "63558",
+        "65247"
+      ]
+    },
+    {
+      "name": "LAPLATA PUBLIC LIBRARY",
+      "system": "LAPLATA PUBLIC LIBRARY",
+      "address": "103 E MOORE ST, LA PLATA, MO",
+      "website": "https://www.laplatapubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63431",
+        "63530",
+        "63532",
+        "63534",
+        "63538",
+        "63539",
+        "63549",
+        "63558",
+        "65247"
+      ]
+    },
+    {
+      "name": "MONROE CITY PUBLIC LIBRARY",
+      "system": "MONROE CITY PUBLIC LIBRARY",
+      "address": "109A SECOND STREET, MONROE CITY, MO",
+      "website": "https://www.monroecity.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63456",
+        "65258",
+        "65263",
+        "65275",
+        "65282",
+        "65283"
       ]
     }
   ]

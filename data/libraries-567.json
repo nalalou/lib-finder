@@ -8,7 +8,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56701"
+        "56701",
+        "57650",
+        "57651",
+        "57720",
+        "57724",
+        "57755"
       ]
     },
     {
@@ -19,7 +24,36 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56721"
+        "56517",
+        "56523",
+        "56535",
+        "56540",
+        "56542",
+        "56556",
+        "56568",
+        "56592",
+        "56646",
+        "56684",
+        "56712",
+        "56716",
+        "56721",
+        "56722",
+        "56723",
+        "56736"
+      ]
+    },
+    {
+      "name": "BAUDETTE PUBLIC LIBRARY",
+      "system": "BAUDETTE PUBLIC LIBRARY",
+      "address": "110 1ST AVENUE SW, BAUDETTE, MN",
+      "website": "https://www.ci.baudette.mn.us/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56623",
+        "56686",
+        "56711",
+        "56741"
       ]
     }
   ]

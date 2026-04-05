@@ -1,6 +1,439 @@
 {
   "libraries": [
     {
+      "name": "MOUNT CARMEL PUBLIC LIBRARY",
+      "system": "MOUNT CARMEL PUBLIC LIBRARY",
+      "address": "727 NORTH MULBERRY STREET, MOUNT CARMEL, IL",
+      "website": "https://mtcarmelpubliclibrary.weebly.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17017",
+        "17730",
+        "17772",
+        "17777",
+        "17823",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17881",
+        "62863"
+      ]
+    },
+    {
+      "name": "PRIESTLEY FORSYTH MEM LIBRARY",
+      "system": "PRIESTLEY FORSYTH MEM LIBRARY",
+      "address": "100 KING ST, NORTHUMBERLAND, PA",
+      "website": "https://priestleyforsyth.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17017",
+        "17730",
+        "17772",
+        "17777",
+        "17823",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17857",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17881"
+      ]
+    },
+    {
+      "name": "RALPHO TOWNSHIP PUBLIC LIBRARY",
+      "system": "RALPHO TOWNSHIP PUBLIC LIBRARY",
+      "address": "206 S. MARKET ST. SUITE 6, ELYSBURG, PA",
+      "website": "https://ralpholibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17017",
+        "17730",
+        "17772",
+        "17777",
+        "17823",
+        "17824",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17881"
+      ]
+    },
+    {
+      "name": "SHAMOKIN & COAL TWP PUB LIB",
+      "system": "SHAMOKIN & COAL TWP PUB LIB",
+      "address": "210 EAST INDEPENDENCE ST, SHAMOKIN, PA",
+      "website": "http://www.shamokincity.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17017",
+        "17730",
+        "17772",
+        "17777",
+        "17823",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17872",
+        "17881"
+      ]
+    },
+    {
+      "name": "DEGENSTEIN COMMUNITY LIBRARY",
+      "system": "DEGENSTEIN COMMUNITY LIBRARY",
+      "address": "40 SOUTH FIFTH STREET, SUNBURY, PA",
+      "website": "https://degensteinlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17017",
+        "17730",
+        "17772",
+        "17777",
+        "17801",
+        "17823",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17881"
+      ]
+    },
+    {
+      "name": "COUDERSPORT PUBLIC LIBRARY",
+      "system": "COUDERSPORT PUBLIC LIBRARY",
+      "address": "502 PARK AVE, COUDERSPORT, PA",
+      "website": "https://coudersportlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16720",
+        "16746",
+        "16915",
+        "16927",
+        "16937",
+        "16941",
+        "17729"
+      ]
+    },
+    {
+      "name": "GALETON PUBLIC LIBRARY",
+      "system": "GALETON PUBLIC LIBRARY",
+      "address": "5 PARK LANE, GALETON, PA",
+      "website": "https://galetonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16720",
+        "16746",
+        "16922",
+        "16927",
+        "16937",
+        "16941",
+        "17729"
+      ]
+    },
+    {
+      "name": "GENESEE AREA LIBRARY",
+      "system": "GENESEE AREA LIBRARY",
+      "address": "301 MAIN STREET, GENESEE, PA",
+      "website": "https://geneseelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16720",
+        "16746",
+        "16923",
+        "16927",
+        "16937",
+        "16941",
+        "17729"
+      ]
+    },
+    {
+      "name": "ULYSSES LIBRARY",
+      "system": "ULYSSES LIBRARY",
+      "address": "401 NORTH MAIN ST, ULYSSES, PA",
+      "website": "https://ulysseslibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16720",
+        "16746",
+        "16927",
+        "16937",
+        "16941",
+        "16948",
+        "17729"
+      ]
+    },
+    {
+      "name": "BLOSSBURG MEMORIAL LIBRARY",
+      "system": "BLOSSBURG MEMORIAL LIBRARY",
+      "address": "307 MAIN ST, BLOSSBURG, PA",
+      "website": "https://blossburgmemoriallibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16911",
+        "16912",
+        "16917",
+        "16918",
+        "16921",
+        "16928",
+        "16929",
+        "16930",
+        "16932",
+        "16935",
+        "16936",
+        "16938",
+        "16939",
+        "16940",
+        "16942",
+        "16943",
+        "16946",
+        "169HH",
+        "17765"
+      ]
+    },
+    {
+      "name": "ELKLAND AREA COMMUNITY LIBRARY",
+      "system": "ELKLAND AREA COMMUNITY LIBRARY",
+      "address": "110 E PARKWAY AVE, ELKLAND, PA",
+      "website": "https://elklandlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16911",
+        "16917",
+        "16918",
+        "16920",
+        "16921",
+        "16928",
+        "16929",
+        "16930",
+        "16932",
+        "16935",
+        "16936",
+        "16938",
+        "16939",
+        "16940",
+        "16942",
+        "16943",
+        "16946",
+        "169HH",
+        "17765"
+      ]
+    },
+    {
+      "name": "KNOXVILLE PUBLIC LIBRARY",
+      "system": "KNOXVILLE PUBLIC LIBRARY",
+      "address": "200 EAST MAIN STREET, KNOXVILLE, IL",
+      "website": "https://www.knoxvillepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16911",
+        "16917",
+        "16918",
+        "16921",
+        "16928",
+        "16929",
+        "16930",
+        "16932",
+        "16935",
+        "16936",
+        "16938",
+        "16939",
+        "16940",
+        "16942",
+        "16943",
+        "16946",
+        "169HH",
+        "17765",
+        "61448"
+      ]
+    },
+    {
+      "name": "MANSFIELD FREE PUBLIC LIBRARY",
+      "system": "MANSFIELD FREE PUBLIC LIBRARY",
+      "address": "71 NORTH MAIN ST, MANSFIELD, PA",
+      "website": "https://mansfieldpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16911",
+        "16917",
+        "16918",
+        "16921",
+        "16928",
+        "16929",
+        "16930",
+        "16932",
+        "16933",
+        "16935",
+        "16936",
+        "16938",
+        "16939",
+        "16940",
+        "16942",
+        "16943",
+        "16946",
+        "169HH",
+        "17765"
+      ]
+    },
+    {
+      "name": "GREEN FREE LIBRARY WELLSBORO",
+      "system": "GREEN FREE LIBRARY WELLSBORO",
+      "address": "134 MAIN ST, WELLSBORO, PA",
+      "website": "https://greenfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16901",
+        "16911",
+        "16917",
+        "16918",
+        "16921",
+        "16928",
+        "16929",
+        "16930",
+        "16932",
+        "16935",
+        "16936",
+        "16938",
+        "16939",
+        "16940",
+        "16942",
+        "16943",
+        "16946",
+        "169HH",
+        "17765"
+      ]
+    },
+    {
+      "name": "WESTFIELD PUBLIC LIBRARY",
+      "system": "WESTFIELD PUBLIC LIBRARY",
+      "address": "147 MAPLE ST, WESTFIELD, PA",
+      "website": "https://www.westfieldpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16911",
+        "16917",
+        "16918",
+        "16921",
+        "16928",
+        "16929",
+        "16930",
+        "16932",
+        "16935",
+        "16936",
+        "16938",
+        "16939",
+        "16940",
+        "16942",
+        "16943",
+        "16946",
+        "16950",
+        "169HH",
+        "17765"
+      ]
+    },
+    {
+      "name": "SULLIVAN COUNTY LIBRARY",
+      "system": "SULLIVAN COUNTY LIBRARY",
+      "address": "206 CENTER STREET, DUSHORE, PA",
+      "website": "https://sullivancountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17731",
+        "17758",
+        "17768",
+        "18614",
+        "18616",
+        "18619",
+        "18626",
+        "18628",
+        "18632"
+      ]
+    },
+    {
+      "name": "OSWAYO VALLEY MEMORIAL LIBRARY",
+      "system": "OSWAYO VALLEY MEMORIAL LIBRARY",
+      "address": "103 NORTH PLEASANT STREET, SHINGLEHOUSE, PA",
+      "website": "https://ovmlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16720",
+        "16746",
+        "16748",
+        "16927",
+        "16937",
+        "16941",
+        "17729"
+      ]
+    },
+    {
       "name": "ANNIE HALENBAKE ROSS LIBRARY",
       "system": "ANNIE HALENBAKE ROSS LIBRARY",
       "address": "232 WEST MAIN ST, LOCK HAVEN, PA",
@@ -8,7 +441,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17745"
+        "16822",
+        "16848",
+        "17721",
+        "17738",
+        "17745",
+        "17747",
+        "17748",
+        "17750",
+        "17751",
+        "17760",
+        "17764",
+        "17767",
+        "17778",
+        "177HH",
+        "177XX"
       ]
     },
     {
@@ -19,7 +466,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17749"
+        "17017",
+        "17730",
+        "17749",
+        "17772",
+        "17777",
+        "17823",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17881"
       ]
     },
     {
@@ -30,7 +497,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17724"
+        "16914",
+        "16926",
+        "17724",
+        "186HH",
+        "18814",
+        "18817",
+        "18829",
+        "18831",
+        "18833",
+        "18837",
+        "18840",
+        "18845",
+        "18846",
+        "18851",
+        "18854",
+        "188HH"
       ]
     },
     {
@@ -41,7 +523,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17737"
+        "169XX",
+        "17702",
+        "17728",
+        "17737",
+        "17739",
+        "17742",
+        "17744",
+        "17762",
+        "17763",
+        "17771",
+        "17774",
+        "17776"
       ]
     },
     {
@@ -52,7 +545,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17740"
+        "169XX",
+        "17702",
+        "17728",
+        "17739",
+        "17740",
+        "17742",
+        "17744",
+        "17762",
+        "17763",
+        "17771",
+        "17774",
+        "17776"
       ]
     },
     {
@@ -63,7 +567,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17701"
+        "169XX",
+        "17701",
+        "17702",
+        "17728",
+        "17739",
+        "17742",
+        "17744",
+        "17762",
+        "17763",
+        "17771",
+        "17774",
+        "17776"
       ]
     },
     {
@@ -74,7 +589,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17752"
+        "169XX",
+        "17702",
+        "17728",
+        "17739",
+        "17742",
+        "17744",
+        "17752",
+        "17762",
+        "17763",
+        "17771",
+        "17774",
+        "17776"
       ]
     },
     {
@@ -85,7 +611,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17756"
+        "169XX",
+        "17702",
+        "17728",
+        "17739",
+        "17742",
+        "17744",
+        "17756",
+        "17762",
+        "17763",
+        "17771",
+        "17774",
+        "17776"
       ]
     },
     {
@@ -96,7 +633,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17754"
+        "169XX",
+        "17702",
+        "17728",
+        "17739",
+        "17742",
+        "17744",
+        "17754",
+        "17762",
+        "17763",
+        "17771",
+        "17774",
+        "17776"
       ]
     }
   ]

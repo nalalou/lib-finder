@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "CARNEGIE PUBLIC LIBRARY",
-      "system": "CARNEGIE PUBLIC LIBRARY",
-      "address": "500 NATIONAL AVENUE, LAS VEGAS, NM",
-      "website": "https://www.shelbinacarnegie.lib.mo.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "87701"
-      ]
-    },
-    {
       "name": "ARTHUR JOHNSON MEMORIAL LIBRARY",
       "system": "ARTHUR JOHNSON MEMORIAL LIBRARY",
       "address": "244 COOK AVENUE, RATON, NM",
@@ -19,6 +8,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "87714",
+        "87728",
+        "87729",
         "87740"
       ]
     },
@@ -30,6 +22,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "87714",
+        "87728",
+        "87729",
         "87747"
       ]
     },
@@ -41,7 +36,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87710"
+        "87710",
+        "87714",
+        "87728",
+        "87729"
       ]
     },
     {
@@ -52,7 +50,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87718"
+        "87714",
+        "87718",
+        "87728",
+        "87729"
       ]
     },
     {
@@ -63,7 +64,51 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87711"
+        "87711",
+        "87724",
+        "88353",
+        "88417",
+        "88431"
+      ]
+    },
+    {
+      "name": "MOISE MEMORIAL LIBRARY",
+      "system": "MOISE MEMORIAL LIBRARY",
+      "address": "208 5TH ST., SANTA ROSA, NM",
+      "website": "https://www.moisememoriallibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87724",
+        "88353",
+        "88417",
+        "88431",
+        "88435"
+      ]
+    },
+    {
+      "name": "DAVID F. CARGO LIBRARY @ VILLANUEVA",
+      "system": "DAVID F. CARGO LIBRARY @ VILLANUEVA",
+      "address": "11 LOS PUEBLOS ROAD, VILLANUEVA, NM",
+      "website": "https://www.chamberofcommerce.com/business-directory/new-mexico/villanueva/public-library/2028957834-david-f-cargo-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87552",
+        "87560",
+        "87562",
+        "87565",
+        "87569",
+        "87573",
+        "87583",
+        "87701",
+        "87731",
+        "87742",
+        "87745",
+        "877XX",
+        "88416",
+        "88421",
+        "884HH"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
   "libraries": [
     {
+      "name": "RICHMOND PUBLIC LIBRARY",
+      "system": "RICHMOND PUBLIC LIBRARY",
+      "address": "101 EAST FRANKLIN STREET, RICHMOND, VA",
+      "website": "https://rvalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22460",
+        "22548",
+        "23219"
+      ]
+    },
+    {
+      "name": "NORTHUMBERLAND PUBLIC LIBRARY",
+      "system": "NORTHUMBERLAND PUBLIC LIBRARY",
+      "address": "7204 NORTHUMBERLAND HIGHWAY, HEATHSVILLE, VA",
+      "website": "https://www.chamberofcommerce.com/united-states/new-hampshire/groveton/public-library/12025245-northumberland-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22432",
+        "22435",
+        "22473",
+        "22511",
+        "22539",
+        "22579"
+      ]
+    },
+    {
       "name": "CENTRAL RAPPAHANNOCK REGIONAL LIBRARY",
       "system": "CENTRAL RAPPAHANNOCK REGIONAL LIBRARY",
       "address": "125 OLDE GREENWICH DRIVE, SUITE 160, FREDERICKSBURG, VA",
@@ -19,7 +48,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "22482"
+        "22480",
+        "22482",
+        "22503",
+        "22507",
+        "22576",
+        "22578"
       ]
     },
     {
@@ -30,18 +64,78 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "22448",
         "22485"
       ]
     },
     {
-      "name": "NORTHUMBERLAND PUBLIC LIBRARY",
-      "system": "NORTHUMBERLAND PUBLIC LIBRARY",
-      "address": "7204 NORTHUMBERLAND HIGHWAY, HEATHSVILLE, VA",
-      "website": "https://www.chamberofcommerce.com/united-states/new-hampshire/groveton/public-library/12025245-northumberland-public-library",
+      "name": "ORANGE COUNTY PUBLIC LIBRARY",
+      "system": "ORANGE COUNTY PUBLIC LIBRARY",
+      "address": "146A MADISON ROAD, ORANGE, VA",
+      "website": "https://www.orangecountync.gov/3009/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "22473"
+        "22433",
+        "22508",
+        "22542",
+        "22567",
+        "22923",
+        "22942",
+        "22957",
+        "22960",
+        "22972"
+      ]
+    },
+    {
+      "name": "CAROLINE COUNTY LIBRARY",
+      "system": "CAROLINE COUNTY LIBRARY",
+      "address": "17202 RICHMOND TURNPIKE, MILFORD, VA",
+      "website": "https://carolinelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22427",
+        "224XX",
+        "22514",
+        "22535",
+        "22538",
+        "22546",
+        "22580",
+        "225HH",
+        "225XX"
+      ]
+    },
+    {
+      "name": "ESSEX PUBLIC LIBRARY",
+      "system": "ESSEX PUBLIC LIBRARY",
+      "address": "117 N. CHURCH LANE, TAPPAHANNOCK, VA",
+      "website": "https://eplva.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22436",
+        "22437",
+        "22438",
+        "22454",
+        "22476",
+        "224HH",
+        "22504",
+        "22509",
+        "22560"
+      ]
+    },
+    {
+      "name": "RICHMOND COUNTY PUBLIC LIBRARY",
+      "system": "RICHMOND COUNTY PUBLIC LIBRARY",
+      "address": "52 CAMPUS DRIVE, WARSAW, VA",
+      "website": "https://rcplva.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22460",
+        "22548",
+        "22572"
       ]
     }
   ]

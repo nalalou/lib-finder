@@ -1,83 +1,6 @@
 {
   "libraries": [
     {
-      "name": "ADAMS FREE LIBRARY",
-      "system": "ADAMS FREE LIBRARY",
-      "address": "92 PARK ST., ADAMS, MA",
-      "website": "https://adamslibraryma.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01220"
-      ]
-    },
-    {
-      "name": "ALFORD FREE PUBLIC LIBRARY",
-      "system": "ALFORD FREE PUBLIC LIBRARY",
-      "address": "5 ALFORD CENTER ROAD, ALFORD, MA",
-      "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=1730",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01230"
-      ]
-    },
-    {
-      "name": "BECKET ATHENAEUM, INC.",
-      "system": "BECKET ATHENAEUM, INC.",
-      "address": "3367 MAIN STREET, ROUTE 8, BECKET, MA",
-      "website": "https://www.becketathenaeum.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01223"
-      ]
-    },
-    {
-      "name": "CHESHIRE PUBLIC LIBRARY",
-      "system": "CHESHIRE PUBLIC LIBRARY",
-      "address": "23 DEPOT STREET, CHESHIRE, MA",
-      "website": "https://www.cheshirelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01225"
-      ]
-    },
-    {
-      "name": "CLARKSBURG TOWN LIBRARY",
-      "system": "CLARKSBURG TOWN LIBRARY",
-      "address": "711 WEST CROSS ROAD, CLARKSBURG, MA",
-      "website": "https://www.clarksburgma.us/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01247"
-      ]
-    },
-    {
-      "name": "DALTON FREE PUBLIC LIBRARY",
-      "system": "DALTON FREE PUBLIC LIBRARY",
-      "address": "462 MAIN STREET, DALTON, MA",
-      "website": "http://www.daltonlibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01226"
-      ]
-    },
-    {
-      "name": "EGREMONT FREE LIBRARY",
-      "system": "EGREMONT FREE LIBRARY",
-      "address": "1 BUTTON BALL LANE, SOUTH EGREMONT, MA",
-      "website": "https://www.egremont-ma.gov/170/Egremont-Free-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01258"
-      ]
-    },
-    {
       "name": "FLORIDA PUBLIC LIBRARY",
       "system": "FLORIDA PUBLIC LIBRARY",
       "address": "56 NORTH COUNTY ROAD, FLORIDA, MA",
@@ -85,29 +8,35 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01247"
-      ]
-    },
-    {
-      "name": "MASON LIBRARY",
-      "system": "MASON LIBRARY",
-      "address": "231 MAIN ST., GREAT BARRINGTON, MA",
-      "website": "https://gbarrington.cwmars.org/Library/307/Branch",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01230"
-      ]
-    },
-    {
-      "name": "TAYLOR MEMORIAL LIBRARY",
-      "system": "TAYLOR MEMORIAL LIBRARY",
-      "address": "155 MAIN STREET, HANCOCK, MA",
-      "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=1000",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01237"
+        "01247",
+        "10916",
+        "10917",
+        "10918",
+        "10919",
+        "10921",
+        "10926",
+        "10930",
+        "10941",
+        "10958",
+        "10963",
+        "10969",
+        "10973",
+        "10975",
+        "10985",
+        "10996",
+        "10998",
+        "109HH",
+        "109XX",
+        "12520",
+        "12543",
+        "12553",
+        "12575",
+        "12577",
+        "125XX",
+        "12729",
+        "12739",
+        "12746",
+        "12780"
       ]
     },
     {
@@ -118,7 +47,153 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01235"
+        "01235",
+        "03451",
+        "03462",
+        "03466",
+        "03609"
+      ]
+    },
+    {
+      "name": "CHESHIRE PUBLIC LIBRARY",
+      "system": "CHESHIRE PUBLIC LIBRARY",
+      "address": "23 DEPOT STREET, CHESHIRE, MA",
+      "website": "https://www.cheshirelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01029",
+        "01222",
+        "01225",
+        "01236",
+        "01242",
+        "01259",
+        "012HH"
+      ]
+    },
+    {
+      "name": "ADAMS FREE LIBRARY",
+      "system": "ADAMS FREE LIBRARY",
+      "address": "92 PARK ST., ADAMS, MA",
+      "website": "https://adamslibraryma.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01220",
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "ALFORD FREE PUBLIC LIBRARY",
+      "system": "ALFORD FREE PUBLIC LIBRARY",
+      "address": "5 ALFORD CENTER ROAD, ALFORD, MA",
+      "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=1730",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01029",
+        "01222",
+        "01230",
+        "01236",
+        "01242",
+        "01259",
+        "012HH"
+      ]
+    },
+    {
+      "name": "BECKET ATHENAEUM, INC.",
+      "system": "BECKET ATHENAEUM, INC.",
+      "address": "3367 MAIN STREET, ROUTE 8, BECKET, MA",
+      "website": "https://www.becketathenaeum.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01029",
+        "01222",
+        "01223",
+        "01236",
+        "01242",
+        "01259",
+        "012HH"
+      ]
+    },
+    {
+      "name": "CLARKSBURG TOWN LIBRARY",
+      "system": "CLARKSBURG TOWN LIBRARY",
+      "address": "711 WEST CROSS ROAD, CLARKSBURG, MA",
+      "website": "https://www.clarksburgma.us/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01247",
+        "01259",
+        "012HH"
+      ]
+    },
+    {
+      "name": "DALTON FREE PUBLIC LIBRARY",
+      "system": "DALTON FREE PUBLIC LIBRARY",
+      "address": "462 MAIN STREET, DALTON, MA",
+      "website": "http://www.daltonlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01029",
+        "01222",
+        "01226",
+        "01236",
+        "01242",
+        "01259",
+        "012HH"
+      ]
+    },
+    {
+      "name": "EGREMONT FREE LIBRARY",
+      "system": "EGREMONT FREE LIBRARY",
+      "address": "1 BUTTON BALL LANE, SOUTH EGREMONT, MA",
+      "website": "https://www.egremont-ma.gov/170/Egremont-Free-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01258",
+        "01259",
+        "012HH"
+      ]
+    },
+    {
+      "name": "MASON LIBRARY",
+      "system": "MASON LIBRARY",
+      "address": "231 MAIN ST., GREAT BARRINGTON, MA",
+      "website": "https://gbarrington.cwmars.org/Library/307/Branch",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01029",
+        "01222",
+        "01230",
+        "01236",
+        "01242",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -129,7 +204,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01237"
+        "01029",
+        "01222",
+        "01236",
+        "01237",
+        "01242",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -140,7 +221,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01238"
+        "01029",
+        "01222",
+        "01236",
+        "01238",
+        "01242",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -151,7 +238,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01240"
+        "01029",
+        "01222",
+        "01236",
+        "01240",
+        "01242",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -162,6 +255,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "01012",
+        "01039",
+        "01050",
+        "01053",
+        "01073",
+        "01084",
+        "01088",
         "01243"
       ]
     },
@@ -173,7 +273,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01245"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01245",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -184,7 +290,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01258"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01258",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -195,7 +307,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01244"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01244",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -206,7 +324,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01247"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01247",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -217,7 +341,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01253"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01253",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -228,7 +358,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01235"
+        "01029",
+        "01222",
+        "01235",
+        "01236",
+        "01242",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -239,7 +375,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01201"
+        "01029",
+        "01201",
+        "01222",
+        "01236",
+        "01242",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -250,7 +392,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01254"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01254",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -261,7 +409,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01255"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01255",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -272,7 +426,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01256"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01256",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -283,7 +443,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01257"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01257",
+        "01259",
+        "012HH"
       ]
     },
     {
@@ -294,7 +460,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01262"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01259",
+        "01262",
+        "012HH"
       ]
     },
     {
@@ -305,7 +477,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01264"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01259",
+        "01264",
+        "012HH"
       ]
     },
     {
@@ -316,7 +494,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01266"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01259",
+        "01266",
+        "012HH"
       ]
     },
     {
@@ -327,7 +511,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01267"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01259",
+        "01267",
+        "012HH"
       ]
     },
     {
@@ -338,7 +528,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01270"
+        "01029",
+        "01222",
+        "01236",
+        "01242",
+        "01259",
+        "01270",
+        "012HH"
       ]
     }
   ]

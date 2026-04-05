@@ -1,6 +1,52 @@
 {
   "libraries": [
     {
+      "name": "SHERIDAN PUBLIC LIBRARY",
+      "system": "SHERIDAN PUBLIC LIBRARY",
+      "address": "109 EAST HAMILTON, SHERIDAN, MT",
+      "website": "https://townofsheridanmt.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59749",
+        "97111",
+        "97115",
+        "97127",
+        "97148",
+        "97378"
+      ]
+    },
+    {
+      "name": "JEFFERSON COUNTY LIBRARY - BOULDER",
+      "system": "JEFFERSON COUNTY LIBRARY - BOULDER",
+      "address": "202 S MAIN, BOULDER, MT",
+      "website": "https://jeffersoncounty-mt.gov/libraries/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59631",
+        "59632",
+        "59638",
+        "59721",
+        "59759"
+      ]
+    },
+    {
+      "name": "NORTH JEFFERSON COUNTY LIBRARY DISTRICT",
+      "system": "NORTH JEFFERSON COUNTY LIBRARY DISTRICT",
+      "address": "3 NORTH MAIN STREET, CLANCY, MT",
+      "website": "https://northjeffersoncountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59631",
+        "59634",
+        "59638",
+        "59721",
+        "59759"
+      ]
+    },
+    {
       "name": "BELGRADE COMMUNITY LIBRARY",
       "system": "BELGRADE COMMUNITY LIBRARY",
       "address": "106 N BROADWAY AVE, BELGRADE, MT",
@@ -8,7 +54,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59714"
+        "59714",
+        "59716",
+        "59718",
+        "59730",
+        "597XX"
       ]
     },
     {
@@ -19,7 +69,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59715"
+        "59715",
+        "59716",
+        "59718",
+        "59730",
+        "597XX"
       ]
     },
     {
@@ -30,7 +84,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59701"
+        "59701",
+        "59727",
+        "59743",
+        "59748",
+        "59750"
       ]
     },
     {
@@ -41,7 +99,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59722"
+        "59713",
+        "59722",
+        "59728",
+        "59731",
+        "59733",
+        "59843",
+        "59854"
       ]
     },
     {
@@ -52,7 +116,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59725"
+        "59725",
+        "59736",
+        "59739",
+        "59746",
+        "59761",
+        "59762",
+        "597HH"
       ]
     },
     {
@@ -63,7 +133,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59729"
+        "59710",
+        "59720",
+        "59729",
+        "59735",
+        "59740",
+        "59745",
+        "59747",
+        "59751"
       ]
     },
     {
@@ -74,18 +151,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59741"
-      ]
-    },
-    {
-      "name": "SHERIDAN PUBLIC LIBRARY",
-      "system": "SHERIDAN PUBLIC LIBRARY",
-      "address": "109 EAST HAMILTON, SHERIDAN, MT",
-      "website": "https://townofsheridanmt.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59749"
+        "59716",
+        "59718",
+        "59730",
+        "59741",
+        "597XX"
       ]
     },
     {
@@ -96,7 +166,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59752"
+        "59716",
+        "59718",
+        "59730",
+        "59752",
+        "597XX"
       ]
     },
     {
@@ -107,6 +181,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59710",
+        "59720",
+        "59735",
+        "59740",
+        "59745",
+        "59747",
+        "59751",
         "59754"
       ]
     },
@@ -118,6 +199,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59710",
+        "59720",
+        "59735",
+        "59740",
+        "59745",
+        "59747",
+        "59751",
         "59755"
       ]
     },
@@ -129,7 +217,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59758"
+        "59716",
+        "59718",
+        "59730",
+        "59758",
+        "597XX"
       ]
     },
     {
@@ -140,7 +232,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59711"
+        "59711",
+        "59756"
       ]
     }
   ]

@@ -8,7 +8,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35501"
+        "35063",
+        "35130",
+        "35501",
+        "35503",
+        "35504",
+        "35550",
+        "35578",
+        "35579",
+        "35580",
+        "35584",
+        "35587"
       ]
     },
     {
@@ -19,7 +29,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35541"
+        "35540",
+        "35541",
+        "35572",
+        "35575"
       ]
     },
     {
@@ -30,7 +43,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35553"
+        "35540",
+        "35553",
+        "35572",
+        "35575"
       ]
     },
     {
@@ -41,29 +57,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35565"
-      ]
-    },
-    {
-      "name": "JASPER PUBLIC LIBRARY",
-      "system": "JASPER PUBLIC LIBRARY",
-      "address": "98 EAST 18TH STREET, JASPER, AL",
-      "website": "https://www.jaspertx.org/page/library_home",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35501"
-      ]
-    },
-    {
-      "name": "NORTHWEST REGIONAL LIBRARY",
-      "system": "NORTHWEST REGIONAL LIBRARY",
-      "address": "185 ASHWOOD DRIVE, WINFIELD, AL",
-      "website": "https://nwregional.yoursdlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35594"
+        "35540",
+        "35565",
+        "35572",
+        "35575"
       ]
     },
     {
@@ -74,7 +71,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35570"
+        "35543",
+        "35548",
+        "35564",
+        "35570",
+        "35594"
       ]
     },
     {
@@ -85,6 +86,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35544",
+        "35552",
         "35574"
       ]
     },
@@ -96,7 +99,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35563"
+        "35543",
+        "35548",
+        "35563",
+        "35564",
+        "35594"
       ]
     },
     {
@@ -107,6 +114,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35544",
+        "35552",
         "35576"
       ]
     },
@@ -118,6 +127,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35544",
+        "35552",
         "35586"
       ]
     },
@@ -129,6 +140,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35544",
+        "35552",
         "35592"
       ]
     },
@@ -140,18 +153,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35582"
-      ]
-    },
-    {
-      "name": "WINFIELD PUBLIC LIBRARY",
-      "system": "WINFIELD PUBLIC LIBRARY",
-      "address": "185 ASHWOOD DRIVE, WINFIELD, AL",
-      "website": "https://wpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35594"
+        "35571",
+        "35581",
+        "35582",
+        "35585",
+        "35593",
+        "355HH",
+        "35654"
       ]
     },
     {
@@ -162,7 +170,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35555"
+        "35542",
+        "35545",
+        "35546",
+        "35554",
+        "35555",
+        "35559"
       ]
     },
     {
@@ -173,7 +186,87 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35549"
+        "35063",
+        "35130",
+        "35503",
+        "35504",
+        "35549",
+        "35550",
+        "35578",
+        "35579",
+        "35580",
+        "35584",
+        "35587"
+      ]
+    },
+    {
+      "name": "SUMITON PUBLIC LIBRARY",
+      "system": "SUMITON PUBLIC LIBRARY",
+      "address": "416 STATE STREET, SUMITON, AL",
+      "website": "https://librarytechnology.org/library/14353",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35063",
+        "35130",
+        "35148",
+        "35503",
+        "35504",
+        "35550",
+        "35578",
+        "35579",
+        "35580",
+        "35584",
+        "35587"
+      ]
+    },
+    {
+      "name": "RUSSELLVILLE PUBLIC LIBRARY",
+      "system": "RUSSELLVILLE PUBLIC LIBRARY",
+      "address": "110 EAST LAWRENCE STREET, RUSSELLVILLE, AL",
+      "website": "https://www.russellvilleal.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35571",
+        "35581",
+        "35585",
+        "35593",
+        "355HH",
+        "35653",
+        "35654"
+      ]
+    },
+    {
+      "name": "COURTLAND PUBLIC LIBRARY",
+      "system": "COURTLAND PUBLIC LIBRARY",
+      "address": "215 COLLEGE STREET, COURTLAND, AL",
+      "website": "https://www.townofcourtland.org/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "355XX",
+        "35618",
+        "35643",
+        "35651",
+        "35673",
+        "356XX"
+      ]
+    },
+    {
+      "name": "TOWN CREEK PUBLIC LIBRARY",
+      "system": "TOWN CREEK PUBLIC LIBRARY",
+      "address": "15971 MAIN STREET, TOWN CREEK, AL",
+      "website": "http://towncreekpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "355XX",
+        "35643",
+        "35651",
+        "35672",
+        "35673",
+        "356XX"
       ]
     }
   ]

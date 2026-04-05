@@ -8,7 +8,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63361"
+        "63333",
+        "63350",
+        "63351",
+        "63359",
+        "63361",
+        "63363",
+        "65069"
       ]
     },
     {
@@ -19,7 +25,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63376"
+        "63301",
+        "63303",
+        "63304",
+        "63332",
+        "63341",
+        "63348",
+        "63366",
+        "63367",
+        "63373",
+        "63376",
+        "63385",
+        "63386"
       ]
     },
     {
@@ -30,7 +47,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63384"
+        "63333",
+        "63350",
+        "63351",
+        "63359",
+        "63363",
+        "63384",
+        "65069"
       ]
     },
     {
@@ -41,7 +64,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63353"
+        "63330",
+        "63336",
+        "63339",
+        "63344",
+        "63353",
+        "63433",
+        "63441"
       ]
     },
     {
@@ -52,7 +81,31 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63334"
+        "63330",
+        "63334",
+        "63336",
+        "63339",
+        "63344",
+        "63433",
+        "63441"
+      ]
+    },
+    {
+      "name": "MEXICO-AUDRAIN COUNTY LIBRARY DISTRICT",
+      "system": "MEXICO-AUDRAIN COUNTY LIBRARY DISTRICT",
+      "address": "305 W JACKSON ST, MEXICO, MO",
+      "website": "https://www.mexico-audrain.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63345",
+        "63352",
+        "63382",
+        "65232",
+        "65264",
+        "65265",
+        "65280",
+        "65285"
       ]
     }
   ]

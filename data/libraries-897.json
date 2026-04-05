@@ -1,6 +1,58 @@
 {
   "libraries": [
     {
+      "name": "DOUGLAS COUNTY PUBLIC LIBRARY",
+      "system": "DOUGLAS COUNTY PUBLIC LIBRARY",
+      "address": "301 W. WEBSTER AVENUE, AVA, MO",
+      "website": "https://wgrls.org/douglas-county-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65608",
+        "89410",
+        "89411",
+        "89413",
+        "89423",
+        "89444",
+        "89448",
+        "89449",
+        "894HH",
+        "89705"
+      ]
+    },
+    {
+      "name": "WASHOE COUNTY LIBRARY SYSTEM",
+      "system": "WASHOE COUNTY LIBRARY SYSTEM",
+      "address": "301 S. CENTER ST., RENO, NV",
+      "website": "https://www.washoecountylibrary.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89405",
+        "89424",
+        "89431",
+        "89433",
+        "89434",
+        "89436",
+        "89439",
+        "89442",
+        "89451",
+        "894XX",
+        "89501",
+        "89502",
+        "89503",
+        "89505",
+        "89506",
+        "89509",
+        "89510",
+        "89511",
+        "89512",
+        "89523",
+        "895XX",
+        "89704"
+      ]
+    },
+    {
       "name": "CARSON CITY LIBRARY",
       "system": "CARSON CITY LIBRARY",
       "address": "900 NORTH ROOP STREET, CARSON CITY, NV",
@@ -8,7 +60,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "89701"
+        "89701",
+        "89703",
+        "89706",
+        "897HH",
+        "897XX"
       ]
     }
   ]

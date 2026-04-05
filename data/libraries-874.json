@@ -1,6 +1,34 @@
 {
   "libraries": [
     {
+      "name": "FARMINGTON PUBLIC LIBRARY",
+      "system": "FARMINGTON PUBLIC LIBRARY",
+      "address": "117 ACADEMY STREET, FARMINGTON, ME",
+      "website": "http://www.infoway.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04938",
+        "87037",
+        "87364",
+        "87401",
+        "87402",
+        "87412",
+        "87413",
+        "87415",
+        "87416",
+        "87417",
+        "87418",
+        "87419",
+        "87420",
+        "87421",
+        "87455",
+        "87461",
+        "874HH",
+        "874XX"
+      ]
+    },
+    {
       "name": "AZTEC PUBLIC LIBRARY",
       "system": "AZTEC PUBLIC LIBRARY",
       "address": "319 S. ASH, AZTEC, NM",
@@ -8,29 +36,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87410"
-      ]
-    },
-    {
-      "name": "FARMINGTON PUBLIC LIBRARY",
-      "system": "FARMINGTON PUBLIC LIBRARY",
-      "address": "2101 FARMINGTON AVE., FARMINGTON, NM",
-      "website": "http://www.infoway.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "87401"
-      ]
-    },
-    {
-      "name": "BLOOMFIELD PUBLIC LIBRARY",
-      "system": "BLOOMFIELD PUBLIC LIBRARY",
-      "address": "333 SOUTH FIRST STREET, BLOOMFIELD, NM",
-      "website": "https://www.bplnj.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "87413"
+        "87037",
+        "87364",
+        "87401",
+        "87402",
+        "87410",
+        "87412",
+        "87413",
+        "87415",
+        "87416",
+        "87417",
+        "87418",
+        "87419",
+        "87420",
+        "87421",
+        "87455",
+        "87461",
+        "874HH",
+        "874XX"
       ]
     }
   ]

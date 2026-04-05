@@ -1,105 +1,6 @@
 {
   "libraries": [
     {
-      "name": "BARRINGTON PUBLIC LIBRARY",
-      "system": "BARRINGTON PUBLIC LIBRARY",
-      "address": "281 COUNTY ROAD, BARRINGTON, RI",
-      "website": "https://www.barrington.nh.gov/barrington-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02806"
-      ]
-    },
-    {
-      "name": "ROGERS FREE LIBRARY",
-      "system": "ROGERS FREE LIBRARY",
-      "address": "525 HOPE STREET, BRISTOL, RI",
-      "website": "https://rogersfreelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02809"
-      ]
-    },
-    {
-      "name": "JESSE M. SMITH MEMORIAL LIBRARY",
-      "system": "JESSE M. SMITH MEMORIAL LIBRARY",
-      "address": "100 TINKHAM LANE, BURRILLVILLE, RI",
-      "website": "https://jmslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02830"
-      ]
-    },
-    {
-      "name": "PASCOAG FREE PUBLIC LIBRARY",
-      "system": "PASCOAG FREE PUBLIC LIBRARY",
-      "address": "57 CHURCH STREET, BURRILLVILLE, RI",
-      "website": "https://olis.ri.gov/directory/libraries/pas?language=en",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02859"
-      ]
-    },
-    {
-      "name": "ADAMS PUBLIC LIBRARY",
-      "system": "ADAMS PUBLIC LIBRARY",
-      "address": "205 CENTRAL STREET, CENTRAL FALLS, RI",
-      "website": "https://adamspubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02863"
-      ]
-    },
-    {
-      "name": "CROSS' MILLS PUBLIC LIBRARY",
-      "system": "CROSS' MILLS PUBLIC LIBRARY",
-      "address": "4417 OLD POST ROAD, CHARLESTOWN, RI",
-      "website": "https://www.crossmills.org/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02813"
-      ]
-    },
-    {
-      "name": "COVENTRY PUBLIC LIBRARY",
-      "system": "COVENTRY PUBLIC LIBRARY",
-      "address": "1672 FLAT RIVER ROAD, COVENTRY, RI",
-      "website": "https://www.coventrylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02816"
-      ]
-    },
-    {
-      "name": "CUMBERLAND PUBLIC LIBRARY",
-      "system": "CUMBERLAND PUBLIC LIBRARY",
-      "address": "1464 DIAMOND HILL ROAD, CUMBERLAND, RI",
-      "website": "https://www.cumberlandlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02864"
-      ]
-    },
-    {
-      "name": "EAST GREENWICH FREE LIBRARY",
-      "system": "EAST GREENWICH FREE LIBRARY",
-      "address": "82 PEIRCE STREET, EAST GREENWICH, RI",
-      "website": "https://eastgreenwichlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02818"
-      ]
-    },
-    {
       "name": "EXETER PUBLIC LIBRARY",
       "system": "EXETER PUBLIC LIBRARY",
       "address": "773 TEN ROD ROAD, EXETER, RI",
@@ -107,128 +8,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02822"
-      ]
-    },
-    {
-      "name": "LIBRARIES OF FOSTER",
-      "system": "LIBRARIES OF FOSTER",
-      "address": "184 HOWARD HILL ROAD, FOSTER, RI",
-      "website": "https://fosterlibraries.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02825"
-      ]
-    },
-    {
-      "name": "HARMONY LIBRARY",
-      "system": "HARMONY LIBRARY",
-      "address": "195 PUTNAM PIKE, GLOCESTER, RI",
-      "website": "https://www.glocesterlibraries.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02829"
-      ]
-    },
-    {
-      "name": "GLOCESTER MANTON FREE PUBLIC LIBRARY",
-      "system": "GLOCESTER MANTON FREE PUBLIC LIBRARY",
-      "address": "1137 PUTNAM PIKE, GLOCESTER, RI",
-      "website": "https://www.glocesterlibraries.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02814"
-      ]
-    },
-    {
-      "name": "ASHAWAY FREE LIBRARY",
-      "system": "ASHAWAY FREE LIBRARY",
-      "address": "15 KNIGHT STREET, HOPKINTON, RI",
-      "website": "https://olis.ri.gov/directory/libraries/ash",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02804"
-      ]
-    },
-    {
-      "name": "LANGWORTHY PUBLIC LIBRARY",
-      "system": "LANGWORTHY PUBLIC LIBRARY",
-      "address": "24 SPRING STREET, HOPKINTON, RI",
-      "website": "https://langworthylibrary.org/lpl/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02832"
-      ]
-    },
-    {
-      "name": "JAMESTOWN PHILOMENIAN LIBRARY",
-      "system": "JAMESTOWN PHILOMENIAN LIBRARY",
-      "address": "26 NORTH ROAD, JAMESTOWN, RI",
-      "website": "https://www.jplri.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02835"
-      ]
-    },
-    {
-      "name": "LINCOLN PUBLIC LIBRARY",
-      "system": "LINCOLN PUBLIC LIBRARY",
-      "address": "145 OLD RIVER ROAD, LINCOLN, RI",
-      "website": "https://www.lincolnpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02865"
-      ]
-    },
-    {
-      "name": "BROWNELL LIBRARY, HOME OF LITTLE COMPTON",
-      "system": "BROWNELL LIBRARY, HOME OF LITTLE COMPTON",
-      "address": "44 COMMONS, LITTLE COMPTON, RI",
-      "website": "https://brownell-libraryri.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02837"
-      ]
-    },
-    {
-      "name": "MIDDLETOWN PUBLIC LIBRARY",
-      "system": "MIDDLETOWN PUBLIC LIBRARY",
-      "address": "700 WEST MAIN ROAD, MIDDLETOWN, RI",
-      "website": "https://middletownpubliclibraryri.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02842"
-      ]
-    },
-    {
-      "name": "MAURY LOONTJENS MEMORIAL LIBRARY (NARRAGANSETT)",
-      "system": "MAURY LOONTJENS MEMORIAL LIBRARY (NARRAGANSETT)",
-      "address": "35 KINGSTOWN ROAD, NARRAGANSETT, RI",
-      "website": "https://narlib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02882"
-      ]
-    },
-    {
-      "name": "ISLAND FREE LIBRARY",
-      "system": "ISLAND FREE LIBRARY",
-      "address": "9 DODGE STREET, NEW SHOREHAM, RI",
-      "website": "https://islandfreelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02807"
+        "02808",
+        "02822",
+        "02833",
+        "02836",
+        "02875",
+        "02881",
+        "02892",
+        "02894",
+        "02898"
       ]
     },
     {
@@ -243,6 +31,662 @@
       ]
     },
     {
+      "name": "CUMBERLAND PUBLIC LIBRARY",
+      "system": "CUMBERLAND PUBLIC LIBRARY",
+      "address": "1464 DIAMOND HILL ROAD, CUMBERLAND, RI",
+      "website": "https://www.cumberlandlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02864",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "LINCOLN PUBLIC LIBRARY",
+      "system": "LINCOLN PUBLIC LIBRARY",
+      "address": "145 OLD RIVER ROAD, LINCOLN, RI",
+      "website": "https://www.lincolnpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02865",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "ADAMS PUBLIC LIBRARY",
+      "system": "ADAMS PUBLIC LIBRARY",
+      "address": "205 CENTRAL STREET, CENTRAL FALLS, RI",
+      "website": "https://adamspubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02863",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "MIDDLETOWN PUBLIC LIBRARY",
+      "system": "MIDDLETOWN PUBLIC LIBRARY",
+      "address": "700 WEST MAIN ROAD, MIDDLETOWN, RI",
+      "website": "https://middletownpubliclibraryri.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02842"
+      ]
+    },
+    {
+      "name": "GREENVILLE PUBLIC LIBRARY",
+      "system": "GREENVILLE PUBLIC LIBRARY",
+      "address": "573 PUTNAM PIKE, SMITHFIELD, RI",
+      "website": "http://www.yourlibrary.ws/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02828",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "BARRINGTON PUBLIC LIBRARY",
+      "system": "BARRINGTON PUBLIC LIBRARY",
+      "address": "281 COUNTY ROAD, BARRINGTON, RI",
+      "website": "https://www.barrington.nh.gov/barrington-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02806",
+        "028HH"
+      ]
+    },
+    {
+      "name": "CRANSTON PUBLIC LIBRARY",
+      "system": "CRANSTON PUBLIC LIBRARY",
+      "address": "140 SOCKANOSSET CROSS ROAD, CRANSTON, RI",
+      "website": "https://www.cranstonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02920",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "EAST PROVIDENCE PUBLIC LIBRARY",
+      "system": "EAST PROVIDENCE PUBLIC LIBRARY",
+      "address": "41 GROVE AVENUE, EAST PROVIDENCE, RI",
+      "website": "https://eastprovidenceri.gov/departments/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02914",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "MARIAN J. MOHR MEMORIAL LIBRARY",
+      "system": "MARIAN J. MOHR MEMORIAL LIBRARY",
+      "address": "1 MEMORIAL AVENUE, JOHNSTON, RI",
+      "website": "http://mohrlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02919",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "MAYOR SALVATORE MANCINI UNION FREE LIBRARY",
+      "system": "MAYOR SALVATORE MANCINI UNION FREE LIBRARY",
+      "address": "1810 MINERAL SPRING AVENUE, NORTH PROVIDENCE, RI",
+      "website": "https://nprovlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02904",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "PROVIDENCE PUBLIC LIBRARY",
+      "system": "PROVIDENCE PUBLIC LIBRARY",
+      "address": "150 EMPIRE STREET, PROVIDENCE, RI",
+      "website": "http://www.provlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02903",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "EAST SMITHFIELD PUBLIC LIBRARY",
+      "system": "EAST SMITHFIELD PUBLIC LIBRARY",
+      "address": "50 ESMOND STREET, SMITHFIELD, RI",
+      "website": "http://www.eastsmithfieldpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02917",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "PROVIDENCE COMMUNITY LIBRARY",
+      "system": "PROVIDENCE COMMUNITY LIBRARY",
+      "address": "441 PRAIRIE AVENUE, PROVIDENCE, RI",
+      "website": "https://clpvd.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02905",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "HOPE LIBRARY",
+      "system": "HOPE LIBRARY",
+      "address": "374 NORTH ROAD, SCITUATE, RI",
+      "website": "https://hopelibrary.me/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02831",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "CLARK MEMORIAL LIBRARY",
+      "system": "CLARK MEMORIAL LIBRARY",
+      "address": "7 PINEHURST DRIVE, RICHMOND, RI",
+      "website": "https://bethanylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02808",
+        "02812",
+        "02833",
+        "02836",
+        "02875",
+        "02881",
+        "02892",
+        "02894",
+        "02898"
+      ]
+    },
+    {
+      "name": "ROGERS FREE LIBRARY",
+      "system": "ROGERS FREE LIBRARY",
+      "address": "525 HOPE STREET, BRISTOL, RI",
+      "website": "https://rogersfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02809",
+        "028HH"
+      ]
+    },
+    {
+      "name": "JESSE M. SMITH MEMORIAL LIBRARY",
+      "system": "JESSE M. SMITH MEMORIAL LIBRARY",
+      "address": "100 TINKHAM LANE, BURRILLVILLE, RI",
+      "website": "https://jmslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02830",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "PASCOAG FREE PUBLIC LIBRARY",
+      "system": "PASCOAG FREE PUBLIC LIBRARY",
+      "address": "57 CHURCH STREET, BURRILLVILLE, RI",
+      "website": "https://olis.ri.gov/directory/libraries/pas?language=en",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02859",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "CROSS' MILLS PUBLIC LIBRARY",
+      "system": "CROSS' MILLS PUBLIC LIBRARY",
+      "address": "4417 OLD POST ROAD, CHARLESTOWN, RI",
+      "website": "https://www.crossmills.org/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02808",
+        "02813",
+        "02833",
+        "02836",
+        "02875",
+        "02881",
+        "02892",
+        "02894",
+        "02898"
+      ]
+    },
+    {
+      "name": "COVENTRY PUBLIC LIBRARY",
+      "system": "COVENTRY PUBLIC LIBRARY",
+      "address": "1672 FLAT RIVER ROAD, COVENTRY, RI",
+      "website": "https://www.coventrylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02816",
+        "02827",
+        "02888"
+      ]
+    },
+    {
+      "name": "EAST GREENWICH FREE LIBRARY",
+      "system": "EAST GREENWICH FREE LIBRARY",
+      "address": "82 PEIRCE STREET, EAST GREENWICH, RI",
+      "website": "https://eastgreenwichlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02818",
+        "02827",
+        "02888"
+      ]
+    },
+    {
+      "name": "LIBRARIES OF FOSTER",
+      "system": "LIBRARIES OF FOSTER",
+      "address": "184 HOWARD HILL ROAD, FOSTER, RI",
+      "website": "https://fosterlibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02825",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "HARMONY LIBRARY",
+      "system": "HARMONY LIBRARY",
+      "address": "195 PUTNAM PIKE, GLOCESTER, RI",
+      "website": "https://www.glocesterlibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02815",
+        "02829",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "GLOCESTER MANTON FREE PUBLIC LIBRARY",
+      "system": "GLOCESTER MANTON FREE PUBLIC LIBRARY",
+      "address": "1137 PUTNAM PIKE, GLOCESTER, RI",
+      "website": "https://www.glocesterlibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02814",
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
+      ]
+    },
+    {
+      "name": "ASHAWAY FREE LIBRARY",
+      "system": "ASHAWAY FREE LIBRARY",
+      "address": "15 KNIGHT STREET, HOPKINTON, RI",
+      "website": "https://olis.ri.gov/directory/libraries/ash",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02804",
+        "02808",
+        "02833",
+        "02836",
+        "02875",
+        "02881",
+        "02892",
+        "02894",
+        "02898"
+      ]
+    },
+    {
+      "name": "LANGWORTHY PUBLIC LIBRARY",
+      "system": "LANGWORTHY PUBLIC LIBRARY",
+      "address": "24 SPRING STREET, HOPKINTON, RI",
+      "website": "https://langworthylibrary.org/lpl/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02808",
+        "02832",
+        "02833",
+        "02836",
+        "02875",
+        "02881",
+        "02892",
+        "02894",
+        "02898"
+      ]
+    },
+    {
+      "name": "JAMESTOWN PHILOMENIAN LIBRARY",
+      "system": "JAMESTOWN PHILOMENIAN LIBRARY",
+      "address": "26 NORTH ROAD, JAMESTOWN, RI",
+      "website": "https://www.jplri.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02835"
+      ]
+    },
+    {
+      "name": "BROWNELL LIBRARY, HOME OF LITTLE COMPTON",
+      "system": "BROWNELL LIBRARY, HOME OF LITTLE COMPTON",
+      "address": "44 COMMONS, LITTLE COMPTON, RI",
+      "website": "https://brownell-libraryri.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02837"
+      ]
+    },
+    {
+      "name": "MAURY LOONTJENS MEMORIAL LIBRARY (NARRAGANSETT)",
+      "system": "MAURY LOONTJENS MEMORIAL LIBRARY (NARRAGANSETT)",
+      "address": "35 KINGSTOWN ROAD, NARRAGANSETT, RI",
+      "website": "https://narlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02808",
+        "02833",
+        "02836",
+        "02875",
+        "02881",
+        "02882",
+        "02892",
+        "02894",
+        "02898"
+      ]
+    },
+    {
+      "name": "ISLAND FREE LIBRARY",
+      "system": "ISLAND FREE LIBRARY",
+      "address": "9 DODGE STREET, NEW SHOREHAM, RI",
+      "website": "https://islandfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02807",
+        "02808",
+        "02833",
+        "02836",
+        "02875",
+        "02881",
+        "02892",
+        "02894",
+        "02898"
+      ]
+    },
+    {
       "name": "NORTH KINGSTOWN FREE LIBRARY",
       "system": "NORTH KINGSTOWN FREE LIBRARY",
       "address": "100 BOONE STREET, NORTH KINGSTOWN, RI",
@@ -250,7 +694,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02852"
+        "02808",
+        "02833",
+        "02836",
+        "02852",
+        "02875",
+        "02881",
+        "02892",
+        "02894",
+        "02898"
       ]
     },
     {
@@ -261,7 +713,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02874"
+        "02808",
+        "02833",
+        "02836",
+        "02874",
+        "02875",
+        "02881",
+        "02892",
+        "02894",
+        "02898"
       ]
     },
     {
@@ -272,7 +732,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02876"
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02876",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
       ]
     },
     {
@@ -283,7 +759,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02860"
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02860",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
       ]
     },
     {
@@ -298,28 +790,6 @@
       ]
     },
     {
-      "name": "CLARK MEMORIAL LIBRARY",
-      "system": "CLARK MEMORIAL LIBRARY",
-      "address": "7 PINEHURST DRIVE, RICHMOND, RI",
-      "website": "https://bethanylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02812"
-      ]
-    },
-    {
-      "name": "HOPE LIBRARY",
-      "system": "HOPE LIBRARY",
-      "address": "374 NORTH ROAD, SCITUATE, RI",
-      "website": "https://hopelibrary.me/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02831"
-      ]
-    },
-    {
       "name": "NORTH SCITUATE PUBLIC LIBRARY",
       "system": "NORTH SCITUATE PUBLIC LIBRARY",
       "address": "606 WEST GREENVILLE ROAD, SCITUATE, RI",
@@ -327,18 +797,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02857"
-      ]
-    },
-    {
-      "name": "GREENVILLE PUBLIC LIBRARY",
-      "system": "GREENVILLE PUBLIC LIBRARY",
-      "address": "573 PUTNAM PIKE, SMITHFIELD, RI",
-      "website": "http://www.yourlibrary.ws/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02828"
+        "02815",
+        "02838",
+        "02839",
+        "02857",
+        "02858",
+        "02861",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
       ]
     },
     {
@@ -349,7 +824,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02879"
+        "02808",
+        "02833",
+        "02836",
+        "02875",
+        "02879",
+        "02881",
+        "02892",
+        "02894",
+        "02898"
       ]
     },
     {
@@ -371,7 +854,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02885"
+        "02885",
+        "028HH"
       ]
     },
     {
@@ -382,6 +866,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "02827",
+        "02888",
         "02889"
       ]
     },
@@ -393,7 +879,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02886"
+        "02827",
+        "02886",
+        "02888"
       ]
     },
     {
@@ -404,7 +892,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02817"
+        "02817",
+        "02827",
+        "02888"
       ]
     },
     {
@@ -415,6 +905,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "02827",
+        "02888",
         "02893"
       ]
     },
@@ -426,7 +918,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02891"
+        "02808",
+        "02833",
+        "02836",
+        "02875",
+        "02881",
+        "02891",
+        "02892",
+        "02894",
+        "02898"
       ]
     },
     {
@@ -437,7 +937,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02895"
+        "02815",
+        "02838",
+        "02839",
+        "02858",
+        "02861",
+        "02895",
+        "02896",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02915",
+        "02916",
+        "02921",
+        "029HH"
       ]
     },
     {
@@ -448,7 +964,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02852"
+        "02808",
+        "02833",
+        "02836",
+        "02852",
+        "02875",
+        "02881",
+        "02892",
+        "02894",
+        "02898"
       ]
     }
   ]

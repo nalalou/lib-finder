@@ -1,6 +1,32 @@
 {
   "libraries": [
     {
+      "name": "CHARLOTTE COUNTY PUBLIC LIBRARY",
+      "system": "CHARLOTTE COUNTY PUBLIC LIBRARY",
+      "address": "2050 FORREST NELSON BOULEVARD, PORT CHARLOTTE, FL",
+      "website": "https://www.charlottecountyfl.gov/locations/port-charlotte-public-library.stml",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "33946",
+        "33947",
+        "33948",
+        "33950",
+        "33952",
+        "33953",
+        "33954",
+        "33955",
+        "33980",
+        "33981",
+        "33982",
+        "33983",
+        "339HH",
+        "339XX",
+        "34224",
+        "342HH"
+      ]
+    },
+    {
       "name": "MANATEE COUNTY PUBLIC LIBRARY SYSTEM",
       "system": "MANATEE COUNTY PUBLIC LIBRARY SYSTEM",
       "address": "1301 BARCARROTA BOULEVARD, WEST, BRADENTON, FL",
@@ -8,7 +34,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "34205"
+        "34201",
+        "34202",
+        "34203",
+        "34205",
+        "34207",
+        "34208",
+        "34209",
+        "34210",
+        "34215",
+        "34216",
+        "34217",
+        "34219",
+        "34221",
+        "34222",
+        "34243",
+        "34250",
+        "34251"
       ]
     },
     {
@@ -19,7 +61,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "34236"
+        "34223",
+        "34228",
+        "34229",
+        "34231",
+        "34232",
+        "34233",
+        "34234",
+        "34235",
+        "34236",
+        "34237",
+        "34238",
+        "34239",
+        "34240",
+        "34241",
+        "34242",
+        "34275",
+        "34285",
+        "34286",
+        "34287",
+        "34292",
+        "34293",
+        "342XX"
       ]
     }
   ]

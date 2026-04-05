@@ -1,25 +1,63 @@
 {
   "libraries": [
     {
-      "name": "JACKSBORO PUBLIC LIBRARY",
-      "system": "JACKSBORO PUBLIC LIBRARY",
-      "address": "585 MAIN STREET, SUITE 201, JACKSBORO, TN",
-      "website": "https://jacksboro.org/library/library.html",
+      "name": "WINFIELD PUBLIC LIBRARY",
+      "system": "WINFIELD PUBLIC LIBRARY",
+      "address": "112 W ASH, WINFIELD, IA",
+      "website": "https://wpl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37757"
+        "37732",
+        "37755",
+        "37847",
+        "37852",
+        "37892",
+        "52659"
       ]
     },
     {
-      "name": "CLINTON PUBLIC LIBRARY",
-      "system": "CLINTON PUBLIC LIBRARY",
-      "address": "118 SOUTH HICKS STREET, CLINTON, TN",
-      "website": "https://www.als.lib.wi.us/CPL/",
+      "name": "KNOX COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "KNOX COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "500 W. CHURCH AVENUE, KNOXVILLE (S), TN",
+      "website": "https://www.knoxcountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37716"
+        "37721",
+        "37806",
+        "37849",
+        "37902",
+        "37909",
+        "37912",
+        "37914",
+        "37915",
+        "37916",
+        "37917",
+        "37918",
+        "37919",
+        "37920",
+        "37921",
+        "37922",
+        "37923",
+        "37924",
+        "37931",
+        "37932",
+        "37938",
+        "379HH"
+      ]
+    },
+    {
+      "name": "HANCOCK COUNTY PUBLIC LIBRARY",
+      "system": "HANCOCK COUNTY PUBLIC LIBRARY",
+      "address": "1210 MADISON STREET, HAWESVILLE, KY",
+      "website": "https://www.hcplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37765",
+        "37869",
+        "42348"
       ]
     },
     {
@@ -30,29 +68,246 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37756"
+        "37756",
+        "77320",
+        "77334",
+        "77340",
+        "77341",
+        "77367",
+        "77876"
       ]
     },
     {
-      "name": "LENOIR CITY PUBLIC LIBRARY",
-      "system": "LENOIR CITY PUBLIC LIBRARY",
-      "address": "100 WEST BROADWAY, LENOIR CITY, TN",
-      "website": "https://www.lenoircitypubliclibrary.com/",
+      "name": "ONEIDA PUBLIC LIBRARY",
+      "system": "ONEIDA PUBLIC LIBRARY",
+      "address": "290 SOUTH MAIN STREET, ONEIDA, TN",
+      "website": "https://oneidapubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37771"
+        "37732",
+        "37755",
+        "37841",
+        "37847",
+        "37852",
+        "37892"
       ]
     },
     {
-      "name": "HARRIMAN PUBLIC LIBRARY",
-      "system": "HARRIMAN PUBLIC LIBRARY",
-      "address": "601 WALDEN STREET, HARRIMAN, TN",
-      "website": "https://harrimanpubliclibrary.org/",
+      "name": "CLAIBORNE COUNTY PUBLIC LIBRARY",
+      "system": "CLAIBORNE COUNTY PUBLIC LIBRARY",
+      "address": "1304 OLD KNOXVILLE ROAD, TAZEWELL, TN",
+      "website": "https://claibornelibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37748"
+        "37715",
+        "37724",
+        "37730",
+        "37752",
+        "377XX",
+        "37825",
+        "37870",
+        "37879",
+        "378XX"
+      ]
+    },
+    {
+      "name": "WARTBURG PUBLIC LIBRARY",
+      "system": "WARTBURG PUBLIC LIBRARY",
+      "address": "514 SPRING ST., WARTBURG, TN",
+      "website": "https://librarytechnology.org/library/6382",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37770",
+        "37887"
+      ]
+    },
+    {
+      "name": "BLOUNT COUNTY PUBLIC LIBRARY",
+      "system": "BLOUNT COUNTY PUBLIC LIBRARY",
+      "address": "508 N. CUSICK STREET, MARYVILLE, TN",
+      "website": "https://www.blounttn.gov/2025/Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37701",
+        "37737",
+        "37777",
+        "37801",
+        "37803",
+        "37804",
+        "37853",
+        "37878",
+        "37882",
+        "37886"
+      ]
+    },
+    {
+      "name": "OAK RIDGE PUBLIC LIBRARY",
+      "system": "OAK RIDGE PUBLIC LIBRARY",
+      "address": "1401 OAK RIDGE TURNPIKE, OAK RIDGE (IN), TN",
+      "website": "https://orpl.oakridgetn.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37705",
+        "37716",
+        "37754",
+        "377HH",
+        "37830",
+        "378HH"
+      ]
+    },
+    {
+      "name": "HAWKINS COUNTY LIBRARY SYSTEM",
+      "system": "HAWKINS COUNTY LIBRARY SYSTEM",
+      "address": "407 EAST MAIN ST SUITE 1, ROGERSVILLE, TN",
+      "website": "https://www.hawkinslibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37711",
+        "37731",
+        "37811",
+        "37857",
+        "37873"
+      ]
+    },
+    {
+      "name": "SEVIER COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "SEVIER COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "408 HIGH STREET, SEVIERVILLE (S), TN",
+      "website": "https://www.sevierlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37764",
+        "37862",
+        "37865",
+        "37876"
+      ]
+    },
+    {
+      "name": "STOKELY MEMORIAL LIBRARY",
+      "system": "STOKELY MEMORIAL LIBRARY",
+      "address": "383 EAST BROADWAY, NEWPORT, TN",
+      "website": "https://digital-release.wate.com/news/cocke-county-news/the-communitys-alive-again-newport-library-reopens-after-hurricane-helene-damage/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37713",
+        "37753",
+        "37821"
+      ]
+    },
+    {
+      "name": "NORRIS COMMUNITY LIBRARY",
+      "system": "NORRIS COMMUNITY LIBRARY",
+      "address": "ONE NORRIS SQUARE, NORRIS, TN",
+      "website": "https://norriscommunitylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37705",
+        "37716",
+        "37754",
+        "377HH",
+        "37828",
+        "378HH"
+      ]
+    },
+    {
+      "name": "PETROS PUBLIC LIBRARY",
+      "system": "PETROS PUBLIC LIBRARY",
+      "address": "208 MAIN STREET, PETROS, TN",
+      "website": "https://librarytechnology.org/library/6346",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37770",
+        "37845"
+      ]
+    },
+    {
+      "name": "SUNBRIGHT PUBLIC LIBRARY",
+      "system": "SUNBRIGHT PUBLIC LIBRARY",
+      "address": "8240 MORGAN CO. HWY., SUNBRIGHT, TN",
+      "website": "https://librarytechnology.org/library/6366",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37770",
+        "37872"
+      ]
+    },
+    {
+      "name": "OAKDALE PUBLIC LIBRARY",
+      "system": "OAKDALE PUBLIC LIBRARY",
+      "address": "212 QUEEN STREET, OAKDALE, TN",
+      "website": "https://librarytechnology.org/library/6336",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37770",
+        "37829"
+      ]
+    },
+    {
+      "name": "PHILADELPHIA PUBLIC LIBRARY",
+      "system": "PHILADELPHIA PUBLIC LIBRARY",
+      "address": "714 THOMPSON ST., PHILADELPHIA, TN",
+      "website": "https://librarytechnology.org/library/6347",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37772",
+        "37846"
+      ]
+    },
+    {
+      "name": "PARROTTSVILLE COMMUNITY LIBRARY",
+      "system": "PARROTTSVILLE COMMUNITY LIBRARY",
+      "address": "2060 CANARY DRIVE, PARROTTSVILLE, TN",
+      "website": "https://www.chamberofcommerce.com/business-directory/tennessee/parrottsville/public-library/2029727009-parrottsville-community-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37713",
+        "37753",
+        "37843"
+      ]
+    },
+    {
+      "name": "MOSHEIM PUBLIC LIBRARY",
+      "system": "MOSHEIM PUBLIC LIBRARY",
+      "address": "730 MAIN STREET, MOSHEIM, TN",
+      "website": "http://www.mosheimlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37616",
+        "37641",
+        "37743",
+        "37744",
+        "37809",
+        "37810",
+        "37818"
+      ]
+    },
+    {
+      "name": "PIGEON FORGE PUBLIC LIBRARY",
+      "system": "PIGEON FORGE PUBLIC LIBRARY",
+      "address": "2449 LIBRARY DRIVE, PIGEON FORGE, TN",
+      "website": "https://www.cityofpigeonforge.com/library.aspx",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37764",
+        "37863",
+        "37865",
+        "37876"
       ]
     },
     {
@@ -67,6 +322,55 @@
       ]
     },
     {
+      "name": "ART CIRCLE PUBLIC LIBRARY",
+      "system": "ART CIRCLE PUBLIC LIBRARY",
+      "address": "3 EAST STREET, CROSSVILLE, TN",
+      "website": "http://www.artcirclelibrary.info",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37723",
+        "38555",
+        "38558"
+      ]
+    },
+    {
+      "name": "JACKSBORO PUBLIC LIBRARY",
+      "system": "JACKSBORO PUBLIC LIBRARY",
+      "address": "585 MAIN STREET, SUITE 201, JACKSBORO, TN",
+      "website": "https://jacksboro.org/library/library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37729",
+        "37757",
+        "37819"
+      ]
+    },
+    {
+      "name": "LENOIR CITY PUBLIC LIBRARY",
+      "system": "LENOIR CITY PUBLIC LIBRARY",
+      "address": "100 WEST BROADWAY, LENOIR CITY, TN",
+      "website": "https://www.lenoircitypubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37771",
+        "37772"
+      ]
+    },
+    {
+      "name": "HARRIMAN PUBLIC LIBRARY",
+      "system": "HARRIMAN PUBLIC LIBRARY",
+      "address": "601 WALDEN STREET, HARRIMAN, TN",
+      "website": "https://harrimanpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37748"
+      ]
+    },
+    {
       "name": "DANDRIDGE MEMORIAL LIBRARY",
       "system": "DANDRIDGE MEMORIAL LIBRARY",
       "address": "1235 CIRCLE DRIVE, DANDRIDGE, TN",
@@ -74,7 +378,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37725"
+        "37725",
+        "37820"
       ]
     },
     {
@@ -85,7 +390,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37760"
+        "37760",
+        "37820"
       ]
     },
     {
@@ -96,7 +402,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37738"
+        "37738",
+        "37764",
+        "37865",
+        "37876"
       ]
     },
     {
@@ -107,7 +416,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37745"
+        "37616",
+        "37641",
+        "37743",
+        "37744",
+        "37745",
+        "37809",
+        "37810"
       ]
     },
     {
@@ -118,7 +433,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37769"
+        "37705",
+        "37716",
+        "37754",
+        "37769",
+        "377HH",
+        "378HH"
       ]
     },
     {
@@ -129,7 +449,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37719"
+        "37719",
+        "37770"
       ]
     },
     {
@@ -140,7 +461,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37714"
+        "37714",
+        "37729",
+        "37819"
       ]
     },
     {
@@ -151,7 +474,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37710"
+        "37705",
+        "37710",
+        "37716",
+        "37754",
+        "377HH",
+        "378HH"
       ]
     },
     {
@@ -162,7 +490,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37726"
+        "37726",
+        "37770"
       ]
     },
     {
@@ -173,7 +502,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37762"
+        "37729",
+        "37762",
+        "37819"
       ]
     },
     {
@@ -184,7 +515,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37766"
+        "37729",
+        "37766",
+        "37819"
       ]
     },
     {
@@ -195,7 +528,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37779"
+        "37779",
+        "37866"
       ]
     },
     {
@@ -206,7 +540,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37742"
+        "37742",
+        "37772"
       ]
     },
     {
@@ -217,6 +552,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37772",
         "37774"
       ]
     },
@@ -228,6 +564,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37772",
         "37774"
       ]
     },
@@ -239,7 +576,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37722"
+        "37713",
+        "37722",
+        "37753"
       ]
     },
     {
@@ -250,7 +589,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37727"
+        "37713",
+        "37727",
+        "37753"
       ]
     },
     {
@@ -261,7 +602,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37708"
+        "37708",
+        "37848",
+        "37881",
+        "37888"
       ]
     },
     {
@@ -272,7 +616,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37709"
+        "37709",
+        "37848",
+        "37881",
+        "37888"
+      ]
+    },
+    {
+      "name": "MT. CARMEL LIBRARY",
+      "system": "MT. CARMEL LIBRARY",
+      "address": "100 1/2 MAIN STREET, MT. CARMEL, TN",
+      "website": "https://www.mountcarmelpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37645",
+        "37711",
+        "37731",
+        "37811",
+        "37873"
       ]
     }
   ]

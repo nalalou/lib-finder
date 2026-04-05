@@ -1,6 +1,310 @@
 {
   "libraries": [
     {
+      "name": "CLARK PUBLIC LIBRARY",
+      "system": "CLARK PUBLIC LIBRARY",
+      "address": "303 WESTFIELD AVENUE, CLARK, NJ",
+      "website": "https://www.ourclark.com/373/Clark-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07062",
+        "07063",
+        "07066",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "CRANFORD PUBLIC LIBRARY",
+      "system": "CRANFORD PUBLIC LIBRARY",
+      "address": "224 WALNUT AVENUE, CRANFORD, NJ",
+      "website": "https://www.cranfordlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07016",
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "FANWOOD MEMORIAL LIBRARY",
+      "system": "FANWOOD MEMORIAL LIBRARY",
+      "address": "14 TILLOTSON ROAD, FANWOOD, NJ",
+      "website": "https://fanwoodlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07023",
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "GARWOOD FREE PUBLIC LIBRARY",
+      "system": "GARWOOD FREE PUBLIC LIBRARY",
+      "address": "411 THIRD AVENUE, GARWOOD, NJ",
+      "website": "https://garwoodpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07027",
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "KENILWORTH PUBLIC LIBRARY",
+      "system": "KENILWORTH PUBLIC LIBRARY",
+      "address": "548 BOULEVARD, KENILWORTH, NJ",
+      "website": "https://kenilworthlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07033",
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "LINDEN FREE PUBLIC LIBRARY",
+      "system": "LINDEN FREE PUBLIC LIBRARY",
+      "address": "31 E. HENRY STREET, LINDEN, NJ",
+      "website": "https://lindenlibrary-nj.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07036",
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "MOUNTAINSIDE FREE PUBLIC LIBRARY",
+      "system": "MOUNTAINSIDE FREE PUBLIC LIBRARY",
+      "address": "1 CONSTITUTION PLAZA, MOUNTAINSIDE, NJ",
+      "website": "https://www.mountainsidelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07092",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "PLAINFIELD FREE PUBLIC LIBRARY",
+      "system": "PLAINFIELD FREE PUBLIC LIBRARY",
+      "address": "800 PARK AVENUE, PLAINFIELD, NJ",
+      "website": "http://www.plainfieldlibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07060",
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "RAHWAY PUBLIC LIBRARY",
+      "system": "RAHWAY PUBLIC LIBRARY",
+      "address": "2 CITY HALL PLAZA, RAHWAY, NJ",
+      "website": "https://www.rahwaylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07062",
+        "07063",
+        "07065",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "SCOTCH PLAINS PUBLIC LIBRARY",
+      "system": "SCOTCH PLAINS PUBLIC LIBRARY",
+      "address": "1927 BARTLE AVENUE, SCOTCH PLAINS, NJ",
+      "website": "https://scotchplainslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07062",
+        "07063",
+        "07076",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "SPRINGFIELD FREE PUBLIC LIBRARY",
+      "system": "SPRINGFIELD FREE PUBLIC LIBRARY",
+      "address": "66 MOUNTAIN AVENUE, SPRINGFIELD, NJ",
+      "website": "https://sfplnj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07062",
+        "07063",
+        "07081",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "UNION FREE PUBLIC LIBRARY",
+      "system": "UNION FREE PUBLIC LIBRARY",
+      "address": "979 BUCKLEY HIGHWAY, UNION, CT",
+      "website": "https://uplnj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06076",
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "WESTFIELD MEMORIAL LIBRARY",
+      "system": "WESTFIELD MEMORIAL LIBRARY",
+      "address": "550 E. BROAD STREET, WESTFIELD, NJ",
+      "website": "http://www.wmlnj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07090",
+        "07201",
+        "07206",
+        "07208",
+        "072HH"
+      ]
+    },
+    {
+      "name": "BERKELEY HEIGHTS FREE PUBLIC LIBRARY",
+      "system": "BERKELEY HEIGHTS FREE PUBLIC LIBRARY",
+      "address": "29 PARK AVENUE, BERKELEY HEIGHTS, NJ",
+      "website": "https://bhplnj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH",
+        "07922"
+      ]
+    },
+    {
+      "name": "NEW PROVIDENCE MEMORIAL LIBRARY",
+      "system": "NEW PROVIDENCE MEMORIAL LIBRARY",
+      "address": "377 ELKWOOD AVENUE, NEW PROVIDENCE, NJ",
+      "website": "https://newprovlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH",
+        "07974"
+      ]
+    },
+    {
+      "name": "SUMMIT FREE PUBLIC LIBRARY",
+      "system": "SUMMIT FREE PUBLIC LIBRARY",
+      "address": "75 MAPLE STREET, SUMMIT, NJ",
+      "website": "http://www.summitlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07206",
+        "07208",
+        "072HH",
+        "07901"
+      ]
+    },
+    {
       "name": "ELIZABETH FREE PUBLIC LIBRARY",
       "system": "ELIZABETH FREE PUBLIC LIBRARY",
       "address": "11 SOUTH BROAD ST., ELIZABETH, NJ",
@@ -8,7 +312,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07202"
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07202",
+        "07206",
+        "07208",
+        "072HH"
       ]
     },
     {
@@ -19,7 +331,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07205"
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07205",
+        "07206",
+        "07208",
+        "072HH"
       ]
     },
     {
@@ -30,7 +350,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07203"
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07203",
+        "07206",
+        "07208",
+        "072HH"
       ]
     },
     {
@@ -41,7 +369,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07204"
+        "07062",
+        "07063",
+        "07083",
+        "07088",
+        "07201",
+        "07204",
+        "07206",
+        "07208",
+        "072HH"
       ]
     }
   ]

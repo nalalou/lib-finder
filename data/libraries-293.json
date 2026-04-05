@@ -8,7 +8,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29340"
+        "29340",
+        "29341",
+        "293HH",
+        "29702",
+        "297HH"
       ]
     },
     {
@@ -19,7 +23,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29360"
+        "29325",
+        "29332",
+        "29351",
+        "29360",
+        "29370",
+        "29384",
+        "29645"
       ]
     },
     {
@@ -30,18 +40,66 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29306"
+        "29301",
+        "29302",
+        "29303",
+        "29306",
+        "29307",
+        "29316",
+        "29320",
+        "29322",
+        "29323",
+        "29330",
+        "29334",
+        "29335",
+        "29338",
+        "29349",
+        "29356",
+        "29365",
+        "29369",
+        "29372",
+        "29373",
+        "29374",
+        "29375",
+        "29376",
+        "29377",
+        "29385",
+        "29388"
       ]
     },
     {
       "name": "UNION COUNTY LIBRARY SYSTEM",
       "system": "UNION COUNTY LIBRARY SYSTEM",
-      "address": "300 EAST SOUTH STREET, UNION, SC",
+      "address": "219 KING STREET, NEW ALBANY, MS",
       "website": "https://unioncountylibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29379"
+        "29031",
+        "29321",
+        "29353",
+        "29364",
+        "29379",
+        "38652"
+      ]
+    },
+    {
+      "name": "NEWBERRY COUNTY LIBRARY SYSTEM",
+      "system": "NEWBERRY COUNTY LIBRARY SYSTEM",
+      "address": "1100 FRIEND STREET, NEWBERRY, SC",
+      "website": "https://librarytechnology.org/library/8894",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29037",
+        "29075",
+        "29108",
+        "29122",
+        "29126",
+        "29127",
+        "29145",
+        "29178",
+        "29355"
       ]
     }
   ]

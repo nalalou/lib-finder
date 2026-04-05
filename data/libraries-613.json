@@ -1,179 +1,69 @@
 {
   "libraries": [
     {
-      "name": "PANKHURST MEMORIAL LIBRARY",
-      "system": "PANKHURST MEMORIAL LIBRARY",
-      "address": "3 SOUTH JEFFERSON AVENUE, AMBOY, IL",
-      "website": "https://amboy.lib.il.us/",
+      "name": "DOMINY MEMORIAL LIBRARY",
+      "system": "DOMINY MEMORIAL LIBRARY",
+      "address": "201 SOUTH THIRD STREET, FAIRBURY, IL",
+      "website": "https://dominymemoriallibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61310"
+        "60920",
+        "60929",
+        "60934",
+        "61311",
+        "61313",
+        "61319",
+        "61333",
+        "61739",
+        "61743",
+        "61764",
+        "61769",
+        "61775"
       ]
     },
     {
-      "name": "MASON MEMORIAL LIBRARY DISTRICT",
-      "system": "MASON MEMORIAL LIBRARY DISTRICT",
-      "address": "104 WEST MAIN STREET, BUDA, IL",
-      "website": "https://librarylearning.org/mason-memorial-district-library",
+      "name": "FORREST PUBLIC LIBRARY DISTRICT",
+      "system": "FORREST PUBLIC LIBRARY DISTRICT",
+      "address": "301 WEST JAMES STREET, FORREST, IL",
+      "website": "https://www.forrestlibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61314"
+        "60920",
+        "60929",
+        "60934",
+        "61311",
+        "61313",
+        "61319",
+        "61333",
+        "61741",
+        "61743",
+        "61764",
+        "61769",
+        "61775"
       ]
     },
     {
-      "name": "LEEPERTOWN TOWNSHIP PUBLIC LIBRARY",
-      "system": "LEEPERTOWN TOWNSHIP PUBLIC LIBRARY",
-      "address": "201 EAST NEBRASKA STREET, BUREAU, IL",
-      "website": "http://leepertown.lib.il.us/",
+      "name": "FLANAGAN PUBLIC LIBRARY DISTRICT",
+      "system": "FLANAGAN PUBLIC LIBRARY DISTRICT",
+      "address": "124 SOUTH MAIN STREET, FLANAGAN, IL",
+      "website": "https://www.flanaganil.org/businesses",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61315"
-      ]
-    },
-    {
-      "name": "LADD PUBLIC LIBRARY DISTRICT",
-      "system": "LADD PUBLIC LIBRARY DISTRICT",
-      "address": "125 NORTH MAIN STREET, LADD, IL",
-      "website": "https://www.villageofladd.com/locations/ladd-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61329"
-      ]
-    },
-    {
-      "name": "LAMOILLE-CLARION PUBLIC LIBRARY DISTRICT",
-      "system": "LAMOILLE-CLARION PUBLIC LIBRARY DISTRICT",
-      "address": "81 MAIN STREET, LA MOILLE, IL",
-      "website": "http://lamoilleclarionlibrary.com/index.html",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61330"
-      ]
-    },
-    {
-      "name": "LASALLE PUBLIC LIBRARY",
-      "system": "LASALLE PUBLIC LIBRARY",
-      "address": "305 MARQUETTE STREET, LA SALLE, IL",
-      "website": "https://www.lasallepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61301"
-      ]
-    },
-    {
-      "name": "LOSTANT COMMUNITY LIBRARY",
-      "system": "LOSTANT COMMUNITY LIBRARY",
-      "address": "102 WEST THIRD STREET, LOSTANT, IL",
-      "website": "https://librarylearning.org/lostant-community-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61334"
-      ]
-    },
-    {
-      "name": "MARSEILLES PUBLIC LIBRARY",
-      "system": "MARSEILLES PUBLIC LIBRARY",
-      "address": "155 EAST BLUFF STREET, MARSEILLES, IL",
-      "website": "https://www.marseilleslibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61341"
-      ]
-    },
-    {
-      "name": "GRAVES-HUME PUBLIC LIBRARY DISTRICT",
-      "system": "GRAVES-HUME PUBLIC LIBRARY DISTRICT",
-      "address": "1401 WEST MAIN STREET, MENDOTA, IL",
-      "website": "https://graveshume.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61342"
-      ]
-    },
-    {
-      "name": "MINERAL-GOLD PUBLIC LIBRARY DISTRICT",
-      "system": "MINERAL-GOLD PUBLIC LIBRARY DISTRICT",
-      "address": "120 EAST MAIN STREET, MINERAL, IL",
-      "website": "https://librarytechnology.org/library/17525",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61344"
-      ]
-    },
-    {
-      "name": "NEPONSET PUBLIC LIBRARY",
-      "system": "NEPONSET PUBLIC LIBRARY",
-      "address": "201 WEST COMMERICAL STREET, NEPONSET, IL",
-      "website": "https://neponsetpubliclibrary.wordpress.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61345"
-      ]
-    },
-    {
-      "name": "OGLESBY PUBLIC LIBRARY DISTRICT",
-      "system": "OGLESBY PUBLIC LIBRARY DISTRICT",
-      "address": "111 SOUTH WOODLAND AVENUE, OGLESBY, IL",
-      "website": "https://www.oglesbylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61348"
-      ]
-    },
-    {
-      "name": "OHIO PUBLIC LIBRARY DISTRICT",
-      "system": "OHIO PUBLIC LIBRARY DISTRICT",
-      "address": "112 NORTH MAIN STREET, OHIO, IL",
-      "website": "https://ohiolibrarybc.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61349"
-      ]
-    },
-    {
-      "name": "REDDICK PUBLIC LIBRARY DISTRICT",
-      "system": "REDDICK PUBLIC LIBRARY DISTRICT",
-      "address": "1010 CANAL STREET, OTTAWA, IL",
-      "website": "https://www.reddicklibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61350"
-      ]
-    },
-    {
-      "name": "PAW PAW PUBLIC LIBRARY DISTRICT",
-      "system": "PAW PAW PUBLIC LIBRARY DISTRICT",
-      "address": "362 CHICAGO ROAD, PAW PAW, IL",
-      "website": "http://www.pawpawlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61353"
-      ]
-    },
-    {
-      "name": "PERU PUBLIC LIBRARY",
-      "system": "PERU PUBLIC LIBRARY",
-      "address": "1409 11TH STREET, PERU, IL",
-      "website": "https://perulibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61354"
+        "60920",
+        "60929",
+        "60934",
+        "61311",
+        "61313",
+        "61319",
+        "61333",
+        "61740",
+        "61743",
+        "61764",
+        "61769",
+        "61775"
       ]
     },
     {
@@ -184,7 +74,523 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "24712",
+        "24714",
+        "24715",
+        "24724",
+        "24731",
+        "24733",
+        "24736",
+        "24737",
+        "24739",
+        "24740",
+        "24747",
+        "25820",
+        "25841",
+        "25922",
+        "25971",
         "61356"
+      ]
+    },
+    {
+      "name": "SHEFFIELD PUBLIC LIBRARY",
+      "system": "SHEFFIELD PUBLIC LIBRARY",
+      "address": "316 NORTH MONTGOMERY AVENUE, SHEFFIELD, AL",
+      "website": "http://sheffieldillinoispubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35660",
+        "61312",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61337",
+        "61338",
+        "61346",
+        "61359",
+        "61361",
+        "61374",
+        "613HH"
+      ]
+    },
+    {
+      "name": "MILLS & PETRIE MEMORIAL LIBRARY AND GYMNASIUM",
+      "system": "MILLS & PETRIE MEMORIAL LIBRARY AND GYMNASIUM",
+      "address": "704 NORTH FIRST STREET, ASHTON, IL",
+      "website": "https://newyorkmillsny.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60530",
+        "60553",
+        "61006",
+        "61042",
+        "61057",
+        "61318",
+        "61324",
+        "61331",
+        "61367",
+        "61378"
+      ]
+    },
+    {
+      "name": "DIXON PUBLIC LIBRARY",
+      "system": "DIXON PUBLIC LIBRARY",
+      "address": "221 SOUTH HENNEPIN AVENUE, DIXON, IL",
+      "website": "https://dixonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60530",
+        "60553",
+        "61021",
+        "61042",
+        "61057",
+        "61318",
+        "61324",
+        "61331",
+        "61367",
+        "61378"
+      ]
+    },
+    {
+      "name": "FRANKLIN GROVE PUBLIC LIBRARY",
+      "system": "FRANKLIN GROVE PUBLIC LIBRARY",
+      "address": "112 SOUTH ELM STREET, FRANKLIN GROVE, IL",
+      "website": "https://www.franklingrovelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60530",
+        "60553",
+        "61031",
+        "61042",
+        "61057",
+        "61318",
+        "61324",
+        "61331",
+        "61367",
+        "61378"
+      ]
+    },
+    {
+      "name": "CHATSWORTH AREA LIBRARY",
+      "system": "CHATSWORTH AREA LIBRARY",
+      "address": "501 EAST SCHOOL STREET, CHATSWORTH, IL",
+      "website": "https://www.chatswortharealibraryil.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60920",
+        "60921",
+        "60929",
+        "60934",
+        "61311",
+        "61313",
+        "61319",
+        "61333",
+        "61743",
+        "61764",
+        "61769",
+        "61775"
+      ]
+    },
+    {
+      "name": "PERU PUBLIC LIBRARY",
+      "system": "PERU PUBLIC LIBRARY",
+      "address": "1409 11TH STREET, PERU, IL",
+      "website": "https://perulibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46911",
+        "46914",
+        "46921",
+        "46926",
+        "46951",
+        "46958",
+        "46959",
+        "46970",
+        "61354"
+      ]
+    },
+    {
+      "name": "EARLVILLE PUBLIC LIBRARY DISTRICT",
+      "system": "EARLVILLE PUBLIC LIBRARY DISTRICT",
+      "address": "205 WEST WINTHROP STREET, EARLVILLE, IL",
+      "website": "https://www.earlvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60470",
+        "60518",
+        "60531",
+        "60549",
+        "60557",
+        "61316",
+        "61321",
+        "61325",
+        "61332",
+        "61358",
+        "61370",
+        "61372"
+      ]
+    },
+    {
+      "name": "ROBERT W. ROWE PUBLIC LIBRARY DISTRICT",
+      "system": "ROBERT W. ROWE PUBLIC LIBRARY DISTRICT",
+      "address": "120 EAST SI JOHNSON AVENUE, SHERIDAN, IL",
+      "website": "https://rwrlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60470",
+        "60531",
+        "60549",
+        "60551",
+        "60557",
+        "61316",
+        "61321",
+        "61325",
+        "61332",
+        "61358",
+        "61370",
+        "61372"
+      ]
+    },
+    {
+      "name": "PANKHURST MEMORIAL LIBRARY",
+      "system": "PANKHURST MEMORIAL LIBRARY",
+      "address": "3 SOUTH JEFFERSON AVENUE, AMBOY, IL",
+      "website": "https://amboy.lib.il.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60530",
+        "60553",
+        "61042",
+        "61057",
+        "61310",
+        "61318",
+        "61324",
+        "61331",
+        "61367",
+        "61378"
+      ]
+    },
+    {
+      "name": "MASON MEMORIAL LIBRARY DISTRICT",
+      "system": "MASON MEMORIAL LIBRARY DISTRICT",
+      "address": "104 WEST MAIN STREET, BUDA, IL",
+      "website": "https://librarylearning.org/mason-memorial-district-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61312",
+        "61314",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61337",
+        "61338",
+        "61346",
+        "61359",
+        "61361",
+        "61374",
+        "613HH"
+      ]
+    },
+    {
+      "name": "LEEPERTOWN TOWNSHIP PUBLIC LIBRARY",
+      "system": "LEEPERTOWN TOWNSHIP PUBLIC LIBRARY",
+      "address": "201 EAST NEBRASKA STREET, BUREAU, IL",
+      "website": "http://leepertown.lib.il.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61312",
+        "61315",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61337",
+        "61338",
+        "61346",
+        "61359",
+        "61361",
+        "61374",
+        "613HH"
+      ]
+    },
+    {
+      "name": "LADD PUBLIC LIBRARY DISTRICT",
+      "system": "LADD PUBLIC LIBRARY DISTRICT",
+      "address": "125 NORTH MAIN STREET, LADD, IL",
+      "website": "https://www.villageofladd.com/locations/ladd-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61312",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61329",
+        "61337",
+        "61338",
+        "61346",
+        "61359",
+        "61361",
+        "61374",
+        "613HH"
+      ]
+    },
+    {
+      "name": "LAMOILLE-CLARION PUBLIC LIBRARY DISTRICT",
+      "system": "LAMOILLE-CLARION PUBLIC LIBRARY DISTRICT",
+      "address": "81 MAIN STREET, LA MOILLE, IL",
+      "website": "http://lamoilleclarionlibrary.com/index.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61312",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61330",
+        "61337",
+        "61338",
+        "61346",
+        "61359",
+        "61361",
+        "61374",
+        "613HH"
+      ]
+    },
+    {
+      "name": "LASALLE PUBLIC LIBRARY",
+      "system": "LASALLE PUBLIC LIBRARY",
+      "address": "305 MARQUETTE STREET, LA SALLE, IL",
+      "website": "https://www.lasallepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60470",
+        "60531",
+        "60549",
+        "60557",
+        "61301",
+        "61316",
+        "61321",
+        "61325",
+        "61332",
+        "61358",
+        "61370",
+        "61372"
+      ]
+    },
+    {
+      "name": "LOSTANT COMMUNITY LIBRARY",
+      "system": "LOSTANT COMMUNITY LIBRARY",
+      "address": "102 WEST THIRD STREET, LOSTANT, IL",
+      "website": "https://librarylearning.org/lostant-community-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60470",
+        "60531",
+        "60549",
+        "60557",
+        "61316",
+        "61321",
+        "61325",
+        "61332",
+        "61334",
+        "61358",
+        "61370",
+        "61372"
+      ]
+    },
+    {
+      "name": "MARSEILLES PUBLIC LIBRARY",
+      "system": "MARSEILLES PUBLIC LIBRARY",
+      "address": "155 EAST BLUFF STREET, MARSEILLES, IL",
+      "website": "https://www.marseilleslibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60470",
+        "60531",
+        "60549",
+        "60557",
+        "61316",
+        "61321",
+        "61325",
+        "61332",
+        "61341",
+        "61358",
+        "61370",
+        "61372"
+      ]
+    },
+    {
+      "name": "GRAVES-HUME PUBLIC LIBRARY DISTRICT",
+      "system": "GRAVES-HUME PUBLIC LIBRARY DISTRICT",
+      "address": "1401 WEST MAIN STREET, MENDOTA, IL",
+      "website": "https://graveshume.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60470",
+        "60531",
+        "60549",
+        "60557",
+        "61316",
+        "61321",
+        "61325",
+        "61332",
+        "61342",
+        "61358",
+        "61370",
+        "61372"
+      ]
+    },
+    {
+      "name": "MINERAL-GOLD PUBLIC LIBRARY DISTRICT",
+      "system": "MINERAL-GOLD PUBLIC LIBRARY DISTRICT",
+      "address": "120 EAST MAIN STREET, MINERAL, IL",
+      "website": "https://librarytechnology.org/library/17525",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61312",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61337",
+        "61338",
+        "61344",
+        "61346",
+        "61359",
+        "61361",
+        "61374",
+        "613HH"
+      ]
+    },
+    {
+      "name": "NEPONSET PUBLIC LIBRARY",
+      "system": "NEPONSET PUBLIC LIBRARY",
+      "address": "201 WEST COMMERICAL STREET, NEPONSET, IL",
+      "website": "https://neponsetpubliclibrary.wordpress.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61312",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61337",
+        "61338",
+        "61345",
+        "61346",
+        "61359",
+        "61361",
+        "61374",
+        "613HH"
+      ]
+    },
+    {
+      "name": "OGLESBY PUBLIC LIBRARY DISTRICT",
+      "system": "OGLESBY PUBLIC LIBRARY DISTRICT",
+      "address": "111 SOUTH WOODLAND AVENUE, OGLESBY, IL",
+      "website": "https://www.oglesbylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60470",
+        "60531",
+        "60549",
+        "60557",
+        "61316",
+        "61321",
+        "61325",
+        "61332",
+        "61348",
+        "61358",
+        "61370",
+        "61372"
+      ]
+    },
+    {
+      "name": "OHIO PUBLIC LIBRARY DISTRICT",
+      "system": "OHIO PUBLIC LIBRARY DISTRICT",
+      "address": "112 NORTH MAIN STREET, OHIO, IL",
+      "website": "https://ohiolibrarybc.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61312",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61337",
+        "61338",
+        "61346",
+        "61349",
+        "61359",
+        "61361",
+        "61374",
+        "613HH"
+      ]
+    },
+    {
+      "name": "REDDICK PUBLIC LIBRARY DISTRICT",
+      "system": "REDDICK PUBLIC LIBRARY DISTRICT",
+      "address": "1010 CANAL STREET, OTTAWA, IL",
+      "website": "https://www.reddicklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60470",
+        "60531",
+        "60549",
+        "60557",
+        "61316",
+        "61321",
+        "61325",
+        "61332",
+        "61350",
+        "61358",
+        "61370",
+        "61372"
+      ]
+    },
+    {
+      "name": "PAW PAW PUBLIC LIBRARY DISTRICT",
+      "system": "PAW PAW PUBLIC LIBRARY DISTRICT",
+      "address": "362 CHICAGO ROAD, PAW PAW, IL",
+      "website": "http://www.pawpawlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60530",
+        "60553",
+        "61042",
+        "61057",
+        "61318",
+        "61324",
+        "61331",
+        "61353",
+        "61367",
+        "61378"
       ]
     },
     {
@@ -195,7 +601,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61327"
+        "61326",
+        "61327",
+        "61335",
+        "61336",
+        "61340",
+        "61363",
+        "61560"
       ]
     },
     {
@@ -206,7 +618,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61322"
+        "61312",
+        "61317",
+        "61320",
+        "61322",
+        "61323",
+        "61328",
+        "61337",
+        "61338",
+        "61346",
+        "61359",
+        "61361",
+        "61374",
+        "613HH"
       ]
     },
     {
@@ -217,18 +641,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61360"
-      ]
-    },
-    {
-      "name": "SHEFFIELD PUBLIC LIBRARY",
-      "system": "SHEFFIELD PUBLIC LIBRARY",
-      "address": "136 EAST COOK STREET, SHEFFIELD, IL",
-      "website": "http://sheffieldillinoispubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61361"
+        "60470",
+        "60531",
+        "60549",
+        "60557",
+        "61316",
+        "61321",
+        "61325",
+        "61332",
+        "61358",
+        "61360",
+        "61370",
+        "61372"
       ]
     },
     {
@@ -239,7 +663,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61362"
+        "61312",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61337",
+        "61338",
+        "61346",
+        "61359",
+        "61361",
+        "61362",
+        "61374",
+        "613HH"
       ]
     },
     {
@@ -250,7 +686,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61364"
+        "60470",
+        "60531",
+        "60549",
+        "60557",
+        "61316",
+        "61321",
+        "61325",
+        "61332",
+        "61358",
+        "61364",
+        "61370",
+        "61372"
       ]
     },
     {
@@ -261,7 +708,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61368"
+        "61312",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61337",
+        "61338",
+        "61346",
+        "61359",
+        "61361",
+        "61368",
+        "61374",
+        "613HH"
       ]
     },
     {
@@ -272,7 +731,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61369"
+        "61369",
+        "61375",
+        "61424",
+        "61541",
+        "61565"
       ]
     },
     {
@@ -283,6 +746,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "60470",
+        "60531",
+        "60549",
+        "60557",
+        "61316",
+        "61321",
+        "61325",
+        "61332",
+        "61358",
+        "61370",
+        "61372",
         "61373"
       ]
     },
@@ -294,7 +768,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61376"
+        "61312",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61337",
+        "61338",
+        "61346",
+        "61359",
+        "61361",
+        "61374",
+        "61376",
+        "613HH"
       ]
     },
     {
@@ -305,7 +791,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61377"
+        "61375",
+        "61377",
+        "61424",
+        "61541",
+        "61565"
       ]
     },
     {
@@ -316,7 +806,93 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61379"
+        "61312",
+        "61317",
+        "61320",
+        "61323",
+        "61328",
+        "61337",
+        "61338",
+        "61346",
+        "61359",
+        "61361",
+        "61374",
+        "61379",
+        "613HH"
+      ]
+    },
+    {
+      "name": "PRAIRIE CREEK PUBLIC LIBRARY DISTRICT",
+      "system": "PRAIRIE CREEK PUBLIC LIBRARY DISTRICT",
+      "address": "501 CARRIAGE HOUSE LANE, DWIGHT, IL",
+      "website": "https://www.prairiecreeklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60420",
+        "60920",
+        "60929",
+        "60934",
+        "61311",
+        "61313",
+        "61319",
+        "61333",
+        "61743",
+        "61764",
+        "61769",
+        "61775"
+      ]
+    },
+    {
+      "name": "ODELL PUBLIC LIBRARY DISTRICT",
+      "system": "ODELL PUBLIC LIBRARY DISTRICT",
+      "address": "301 EAST RICHARD STREET, ODELL, IL",
+      "website": "https://odellpubliclibrary.com/wp/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60460",
+        "60920",
+        "60929",
+        "60934",
+        "61311",
+        "61313",
+        "61319",
+        "61333",
+        "61743",
+        "61764",
+        "61769",
+        "61775"
+      ]
+    },
+    {
+      "name": "HENRY PUBLIC LIBRARY",
+      "system": "HENRY PUBLIC LIBRARY",
+      "address": "702 FRONT STREET, HENRY, IL",
+      "website": "http://www.henry.lib.il.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61375",
+        "61424",
+        "61537",
+        "61541",
+        "61565"
+      ]
+    },
+    {
+      "name": "LACON PUBLIC LIBRARY DISTRICT",
+      "system": "LACON PUBLIC LIBRARY DISTRICT",
+      "address": "205 SIXTH STREET, LACON, IL",
+      "website": "https://librarytechnology.org/library/17461",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61375",
+        "61424",
+        "61540",
+        "61541",
+        "61565"
       ]
     }
   ]

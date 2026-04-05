@@ -1,6 +1,58 @@
 {
   "libraries": [
     {
+      "name": "METCALFE COUNTY PUBLIC LIBRARY",
+      "system": "METCALFE COUNTY PUBLIC LIBRARY",
+      "address": "200 SOUTH MAIN STREET, EDMONTON, KY",
+      "website": "https://www.metcalfelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "42129",
+        "42154",
+        "42166",
+        "42214"
+      ]
+    },
+    {
+      "name": "WARREN COUNTY PUBLIC LIBRARY",
+      "system": "WARREN COUNTY PUBLIC LIBRARY",
+      "address": "1225 STATE STREET, BOWLING GREEN, KY",
+      "website": "https://warrenpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "42101",
+        "42103",
+        "42104",
+        "42122",
+        "42159",
+        "42170",
+        "42171",
+        "42274"
+      ]
+    },
+    {
+      "name": "CLARKSVILLE MONTGOMERY COUNTY PUBLIC LIBRARY",
+      "system": "CLARKSVILLE MONTGOMERY COUNTY PUBLIC LIBRARY",
+      "address": "350 PAGEANT LANE, SUITE 501, CLARKSVILLE, TN",
+      "website": "https://montgomerytn.gov/publiclibrary",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37010",
+        "37040",
+        "37042",
+        "37043",
+        "37052",
+        "37142",
+        "37171",
+        "37191",
+        "42223",
+        "422XX"
+      ]
+    },
+    {
       "name": "BUTLER COUNTY PUBLIC LIBRARY",
       "system": "BUTLER COUNTY PUBLIC LIBRARY",
       "address": "116 WEST OHIO STREET, MORGANTOWN, KY",
@@ -8,7 +60,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42261"
+        "42261",
+        "42273",
+        "42275",
+        "42287",
+        "422HH",
+        "423HH"
       ]
     },
     {
@@ -19,7 +76,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42240"
+        "42215",
+        "42217",
+        "42232",
+        "42236",
+        "42240",
+        "42254",
+        "42262",
+        "42266"
       ]
     },
     {
@@ -30,7 +94,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42210"
+        "42207",
+        "42210",
+        "42259",
+        "42285"
       ]
     },
     {
@@ -41,6 +108,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "42202",
+        "42206",
+        "42256",
+        "42265",
         "42276"
       ]
     },
@@ -52,7 +123,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42220"
+        "42204",
+        "42220",
+        "42234",
+        "42280",
+        "42286"
       ]
     },
     {

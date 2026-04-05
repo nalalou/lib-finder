@@ -1,6 +1,36 @@
 {
   "libraries": [
     {
+      "name": "OLDHAM COUNTY PUBLIC LIBRARY",
+      "system": "OLDHAM COUNTY PUBLIC LIBRARY",
+      "address": "914 MAIN, VEGA, TX",
+      "website": "https://librarytechnology.org/library/10349",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79001",
+        "79010",
+        "79092",
+        "79098",
+        "884XX"
+      ]
+    },
+    {
+      "name": "DAVID F. CARGO EL VALLE DE ANTON CHICO LIBRARY",
+      "system": "DAVID F. CARGO EL VALLE DE ANTON CHICO LIBRARY",
+      "address": "1077 NM SR 386, ANTON CHICO, NM",
+      "website": "https://directory.100nm.org/directory-fam_services/listing/david-f-cargo-el-valle-de-anton-chico-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87711",
+        "87724",
+        "88353",
+        "88417",
+        "88431"
+      ]
+    },
+    {
       "name": "ALBERT W. THOMPSON MEMORIAL LIBRARY",
       "system": "ALBERT W. THOMPSON MEMORIAL LIBRARY",
       "address": "17 CHESTNUT STREET, CLAYTON, NM",
@@ -8,7 +38,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "88415"
+        "88410",
+        "88414",
+        "88415",
+        "88418",
+        "88419",
+        "88422",
+        "88424",
+        "88436",
+        "88437"
       ]
     },
     {
@@ -19,6 +57,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "87724",
+        "88353",
+        "88417",
+        "88431",
         "88435"
       ]
     },
@@ -30,7 +72,38 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "88401"
+        "88121",
+        "88401",
+        "88411",
+        "88426",
+        "88427",
+        "88430",
+        "88434"
+      ]
+    },
+    {
+      "name": "DAVID F. CARGO LIBRARY @ VILLANUEVA",
+      "system": "DAVID F. CARGO LIBRARY @ VILLANUEVA",
+      "address": "11 LOS PUEBLOS ROAD, VILLANUEVA, NM",
+      "website": "https://www.chamberofcommerce.com/business-directory/new-mexico/villanueva/public-library/2028957834-david-f-cargo-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87552",
+        "87560",
+        "87562",
+        "87565",
+        "87569",
+        "87573",
+        "87583",
+        "87701",
+        "87731",
+        "87742",
+        "87745",
+        "877XX",
+        "88416",
+        "88421",
+        "884HH"
       ]
     }
   ]

@@ -8,6 +8,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "28330",
+        "28338",
+        "28345",
+        "28347",
+        "28367",
         "28379"
       ]
     },
@@ -19,18 +24,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28337"
-      ]
-    },
-    {
-      "name": "CUMBERLAND COUNTY PUBLIC LIBRARY",
-      "system": "CUMBERLAND COUNTY PUBLIC LIBRARY",
-      "address": "300 MAIDEN LN, FAYETTEVILLE, NC",
-      "website": "https://cumberlandcountylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "28301"
+        "28320",
+        "28332",
+        "28337",
+        "28392",
+        "28399",
+        "283HH",
+        "28433",
+        "28434",
+        "28448",
+        "284HH"
       ]
     },
     {
@@ -41,7 +44,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28349"
+        "28325",
+        "28349",
+        "28398",
+        "28453",
+        "28458",
+        "28464",
+        "28466",
+        "28508",
+        "28518",
+        "28521",
+        "28572"
       ]
     },
     {
@@ -52,7 +65,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28358"
+        "28340",
+        "28357",
+        "28358",
+        "28360",
+        "28362",
+        "28364",
+        "28369",
+        "28371",
+        "28372",
+        "28377",
+        "28378",
+        "28383",
+        "28384",
+        "28386"
       ]
     },
     {
@@ -63,18 +89,34 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28328"
+        "28318",
+        "28328",
+        "28341",
+        "28344",
+        "28366",
+        "28382",
+        "28385",
+        "28393",
+        "28441",
+        "28444",
+        "28447"
       ]
     },
     {
       "name": "SCOTLAND COUNTY MEMORIAL LIBRARY",
       "system": "SCOTLAND COUNTY MEMORIAL LIBRARY",
-      "address": "312 W CHURCH ST, LAURINBURG, NC",
+      "address": "306 W MADISON ST, MEMPHIS, MO",
       "website": "https://scotland.lib.mo.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28352"
+        "28343",
+        "28351",
+        "28352",
+        "28363",
+        "28396",
+        "283XX",
+        "63555"
       ]
     },
     {
@@ -85,7 +127,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28387"
+        "27242",
+        "27281",
+        "27325",
+        "27376",
+        "28315",
+        "28327",
+        "28350",
+        "28373",
+        "28374",
+        "28387",
+        "28394"
       ]
     },
     {
@@ -96,7 +148,37 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28370"
+        "27242",
+        "27281",
+        "27325",
+        "27376",
+        "28315",
+        "28327",
+        "28350",
+        "28370",
+        "28373",
+        "28374",
+        "28394"
+      ]
+    },
+    {
+      "name": "HARNETT COUNTY PUBLIC LIBRARY",
+      "system": "HARNETT COUNTY PUBLIC LIBRARY",
+      "address": "601 S MAIN ST, LILLINGTON, NC",
+      "website": "https://harnett.libguides.com/hcpl",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27501",
+        "27505",
+        "27506",
+        "27521",
+        "27546",
+        "28323",
+        "28326",
+        "28334",
+        "28339",
+        "28368"
       ]
     }
   ]

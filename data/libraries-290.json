@@ -1,6 +1,119 @@
 {
   "libraries": [
     {
+      "name": "RICHLAND COUNTY PUBLIC LIBRARY",
+      "system": "RICHLAND COUNTY PUBLIC LIBRARY",
+      "address": "1431 ASSEMBLY STREET, COLUMBIA, SC",
+      "website": "http://www.richlandlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29016",
+        "29044",
+        "29052",
+        "29061",
+        "29063",
+        "290XX",
+        "29177",
+        "29201",
+        "29202",
+        "29203",
+        "29204",
+        "29205",
+        "29206",
+        "29207",
+        "29209",
+        "29210",
+        "29223",
+        "29229",
+        "292XX"
+      ]
+    },
+    {
+      "name": "UNION COUNTY LIBRARY SYSTEM",
+      "system": "UNION COUNTY LIBRARY SYSTEM",
+      "address": "219 KING STREET, NEW ALBANY, MS",
+      "website": "https://unioncountylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29031",
+        "29321",
+        "29353",
+        "29364",
+        "29379",
+        "38652"
+      ]
+    },
+    {
+      "name": "COLLETON COUNTY MEMORIAL LIBRARY",
+      "system": "COLLETON COUNTY MEMORIAL LIBRARY",
+      "address": "600 HAMPTON STREET, WALTERBORO, SC",
+      "website": "https://www.colletonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29082",
+        "29435",
+        "29446",
+        "29452",
+        "29474",
+        "29475",
+        "29481",
+        "29488",
+        "29493",
+        "29929",
+        "29945"
+      ]
+    },
+    {
+      "name": "DARLINGTON COUNTY LIBRARY SYSTEM",
+      "system": "DARLINGTON COUNTY LIBRARY SYSTEM",
+      "address": "204 N. MAIN STREET, DARLINGTON, SC",
+      "website": "https://darlington-lib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29069",
+        "29079",
+        "29532",
+        "29540",
+        "29550",
+        "29593"
+      ]
+    },
+    {
+      "name": "WILLIAMSBURG COUNTY LIBRARY SYSTEM",
+      "system": "WILLIAMSBURG COUNTY LIBRARY SYSTEM",
+      "address": "215 NORTH JACKSON STREET, KINGSTREE, SC",
+      "website": "https://www.mywcl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29056",
+        "29518",
+        "29554",
+        "29556",
+        "29564",
+        "29580",
+        "29590",
+        "295XX"
+      ]
+    },
+    {
+      "name": "LANCASTER COUNTY LIBRARY SYSTEM",
+      "system": "LANCASTER COUNTY LIBRARY SYSTEM",
+      "address": "313 S. WHITE ST., LANCASTER, SC",
+      "website": "https://www.lanclib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29058",
+        "29067",
+        "29720"
+      ]
+    },
+    {
       "name": "KERSHAW COUNTY LIBRARY",
       "system": "KERSHAW COUNTY LIBRARY",
       "address": "1304 BROAD STREET, CAMDEN, SC",
@@ -8,7 +121,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29020"
+        "29009",
+        "29020",
+        "29032",
+        "29045",
+        "29074",
+        "29078",
+        "29175"
       ]
     },
     {
@@ -19,7 +138,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29010"
+        "29010",
+        "29046",
+        "29080"
       ]
     },
     {
@@ -30,7 +151,131 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29072"
+        "29006",
+        "29033",
+        "29036",
+        "29053",
+        "29054",
+        "29070",
+        "29072",
+        "29073",
+        "29123",
+        "29160",
+        "29169",
+        "29170",
+        "29172",
+        "29212",
+        "292HH"
+      ]
+    },
+    {
+      "name": "CALHOUN COUNTY LIBRARY SYSTEM",
+      "system": "CALHOUN COUNTY LIBRARY SYSTEM",
+      "address": "900 F.R. HUFF DRIVE, ST. MATTHEWS, SC",
+      "website": "https://www.calhouncountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29030",
+        "290HH",
+        "29135",
+        "291XX"
+      ]
+    },
+    {
+      "name": "CLARENDON COUNTY LIBRARY SYSTEM",
+      "system": "CLARENDON COUNTY LIBRARY SYSTEM",
+      "address": "215 N. BROOKS ST., MANNING, SC",
+      "website": "https://www.clarendoncountylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29001",
+        "29102",
+        "29111",
+        "29148",
+        "29162"
+      ]
+    },
+    {
+      "name": "FAIRFIELD COUNTY LIBRARY",
+      "system": "FAIRFIELD COUNTY LIBRARY",
+      "address": "300 W. WASHINGTON STREET, WINNSBORO, SC",
+      "website": "https://fairfieldcountylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29015",
+        "29065",
+        "29130",
+        "29132",
+        "29180"
+      ]
+    },
+    {
+      "name": "ORANGEBURG COUNTY LIBRARY COMMISSION",
+      "system": "ORANGEBURG COUNTY LIBRARY COMMISSION",
+      "address": "1645 RUSSELL STREET, ORANGEBURG, SC",
+      "website": "https://www.orangeburgcounty.org/161/Library---Old-URL-Do-Not-Delete",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29018",
+        "29038",
+        "29039",
+        "29047",
+        "29048",
+        "29059",
+        "29107",
+        "29112",
+        "29113",
+        "29115",
+        "29118",
+        "29133",
+        "29142",
+        "29146",
+        "29163",
+        "29432"
+      ]
+    },
+    {
+      "name": "SUMTER COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "SUMTER COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "111 N. HARVIN STREET, SUMTER, SC",
+      "website": "https://www.sumtercountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29040",
+        "29051",
+        "29062",
+        "29104",
+        "29125",
+        "29128",
+        "29150",
+        "29152",
+        "29153",
+        "29154",
+        "29168"
+      ]
+    },
+    {
+      "name": "NEWBERRY COUNTY LIBRARY SYSTEM",
+      "system": "NEWBERRY COUNTY LIBRARY SYSTEM",
+      "address": "1100 FRIEND STREET, NEWBERRY, SC",
+      "website": "https://librarytechnology.org/library/8894",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29037",
+        "29075",
+        "29108",
+        "29122",
+        "29126",
+        "29127",
+        "29145",
+        "29178",
+        "29355"
       ]
     }
   ]

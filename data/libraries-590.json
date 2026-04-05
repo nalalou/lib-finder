@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "CARNEGIE PUBLIC LIBRARY",
-      "system": "CARNEGIE PUBLIC LIBRARY",
-      "address": "314 MCLEOD STREET, BIG TIMBER, MT",
-      "website": "https://www.shelbinacarnegie.lib.mo.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59011"
-      ]
-    },
-    {
       "name": "BRIDGER PUBLIC LIBRARY",
       "system": "BRIDGER PUBLIC LIBRARY",
       "address": "119 WEST BROADWAY, BRIDGER, MT",
@@ -19,7 +8,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59014"
+        "59007",
+        "59008",
+        "59013",
+        "59014",
+        "59026",
+        "59029",
+        "59041",
+        "59070",
+        "59071",
+        "590HH"
       ]
     },
     {
@@ -30,7 +28,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59019"
+        "59001",
+        "59019",
+        "59028",
+        "59061",
+        "59063",
+        "59067",
+        "59069"
       ]
     },
     {
@@ -41,7 +45,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59034"
+        "59016",
+        "59022",
+        "59025",
+        "59031",
+        "59034",
+        "59035",
+        "59050",
+        "59066",
+        "59075",
+        "59089"
       ]
     },
     {
@@ -52,18 +65,34 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59036"
+        "59036",
+        "59078",
+        "59085",
+        "59453"
       ]
     },
     {
       "name": "LAUREL PUBLIC LIBRARY",
       "system": "LAUREL PUBLIC LIBRARY",
-      "address": "720 WEST 3RD ST, LAUREL, MT",
+      "address": "101 E. FOURTH ST, LAUREL, DE",
       "website": "https://www.laurelpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59044"
+        "19956",
+        "59002",
+        "59006",
+        "59015",
+        "59024",
+        "59037",
+        "59044",
+        "59057",
+        "59064",
+        "59079",
+        "59088",
+        "59102",
+        "59105",
+        "59106"
       ]
     },
     {
@@ -74,7 +103,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59047"
+        "59018",
+        "59020",
+        "59027",
+        "59030",
+        "59047",
+        "59065",
+        "59081",
+        "59086",
+        "590XX"
       ]
     },
     {
@@ -85,7 +122,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59068"
+        "59007",
+        "59008",
+        "59013",
+        "59026",
+        "59029",
+        "59041",
+        "59068",
+        "59070",
+        "59071",
+        "590HH"
       ]
     },
     {
@@ -96,6 +142,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59054",
+        "59059",
         "59072"
       ]
     },
@@ -113,12 +161,125 @@
     {
       "name": "JOLIET PUBLIC LIBRARY",
       "system": "JOLIET PUBLIC LIBRARY",
-      "address": "211 E FRONT STREET, JOLIET, MT",
+      "address": "150 NORTH OTTAWA STREET, JOLIET, IL",
       "website": "http://www.jolietlibrary.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59041"
+        "59007",
+        "59008",
+        "59013",
+        "59026",
+        "59029",
+        "59041",
+        "59070",
+        "59071",
+        "590HH",
+        "60432"
+      ]
+    },
+    {
+      "name": "BILLINGS PUBLIC LIBRARY",
+      "system": "BILLINGS PUBLIC LIBRARY",
+      "address": "510 NORTH BROADWAY, BILLINGS, MT",
+      "website": "https://billingslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59002",
+        "59006",
+        "59015",
+        "59024",
+        "59037",
+        "59044",
+        "59057",
+        "59064",
+        "59079",
+        "59088",
+        "59101",
+        "59102",
+        "59105",
+        "59106"
+      ]
+    },
+    {
+      "name": "MEAGHER COUNTY/CITY LIBRARY",
+      "system": "MEAGHER COUNTY/CITY LIBRARY",
+      "address": "205 SW GARFIELD, WHITE SULPHUR SPRING, MT",
+      "website": "https://www.meaghercountycitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59053",
+        "59642",
+        "59645",
+        "596XX"
+      ]
+    },
+    {
+      "name": "LEWISTOWN PUBLIC LIBRARY",
+      "system": "LEWISTOWN PUBLIC LIBRARY",
+      "address": "701 WEST MAIN, LEWISTOWN, MT",
+      "website": "https://lewistownlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59032",
+        "59424",
+        "59441",
+        "59451",
+        "59457",
+        "59471"
+      ]
+    },
+    {
+      "name": "DOROTHY ASBJORNSON COMMUNITY LIBRARY",
+      "system": "DOROTHY ASBJORNSON COMMUNITY LIBRARY",
+      "address": "210 MAIN STREET, WINIFRED, MT",
+      "website": "https://www.townofwinifred.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59032",
+        "59424",
+        "59441",
+        "59451",
+        "59471",
+        "59489"
+      ]
+    },
+    {
+      "name": "HENRY A MALLEY MEMORIAL LIBRARY",
+      "system": "HENRY A MALLEY MEMORIAL LIBRARY",
+      "address": "102 SOUTH LINCOLN, BROADUS, MT",
+      "website": "https://www.townofbroadus.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59062",
+        "59314",
+        "59317",
+        "59343",
+        "59348",
+        "593XX"
+      ]
+    },
+    {
+      "name": "ROSEBUD COUNTY LIBRARY",
+      "system": "ROSEBUD COUNTY LIBRARY",
+      "address": "201 NORTH 9TH AVENUE, FORSYTH, MT",
+      "website": "https://rosebudcountymt.gov/departments/library-rosebud-county-library-forsyth/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59003",
+        "59012",
+        "59039",
+        "59043",
+        "59323",
+        "59327",
+        "59333",
+        "59347"
       ]
     }
   ]

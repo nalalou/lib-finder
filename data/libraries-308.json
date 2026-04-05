@@ -8,7 +8,47 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "30809"
+        "30802",
+        "30809",
+        "30813",
+        "30814",
+        "30907",
+        "309HH"
+      ]
+    },
+    {
+      "name": "JEFFERSON COUNTY LIBRARY SYSTEM",
+      "system": "JEFFERSON COUNTY LIBRARY SYSTEM",
+      "address": "306 E. BROAD STREET, LOUISVILLE, GA",
+      "website": "https://www.jeffersoncls.org/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30413",
+        "30434",
+        "30477",
+        "30803",
+        "30818",
+        "30823",
+        "30833"
+      ]
+    },
+    {
+      "name": "AUGUSTA-RICHMOND COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "AUGUSTA-RICHMOND COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "823 TELFAIR STREET, AUGUSTA, GA",
+      "website": "https://arcpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30805",
+        "30815",
+        "308XX",
+        "30901",
+        "30904",
+        "30905",
+        "30906",
+        "30909"
       ]
     }
   ]

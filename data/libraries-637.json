@@ -8,7 +8,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63701"
+        "63701",
+        "63703",
+        "63739",
+        "63743",
+        "63747",
+        "63766",
+        "63769",
+        "63770",
+        "63785",
+        "637HH"
       ]
     },
     {
@@ -19,7 +28,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63764"
+        "63662",
+        "63750",
+        "63751",
+        "63753",
+        "63760",
+        "63764",
+        "63781",
+        "63782",
+        "63787"
       ]
     },
     {
@@ -30,7 +47,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63755"
+        "63703",
+        "63739",
+        "63743",
+        "63747",
+        "63755",
+        "63766",
+        "63769",
+        "63770",
+        "63785",
+        "637HH"
       ]
     },
     {
@@ -41,7 +67,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63740"
+        "63736",
+        "63740",
+        "63742",
+        "63758",
+        "63767",
+        "63771",
+        "63774",
+        "63780",
+        "63784",
+        "63824"
       ]
     },
     {
@@ -52,7 +87,80 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63730"
+        "63730",
+        "63735",
+        "63738",
+        "63846",
+        "63850",
+        "63936"
+      ]
+    },
+    {
+      "name": "PUXICO PUBLIC LIBRARY",
+      "system": "PUXICO PUBLIC LIBRARY",
+      "address": "201 N HICKMAN ST, PUXICO, MO",
+      "website": "https://www.puxico.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63735",
+        "63738",
+        "63846",
+        "63850",
+        "63936",
+        "63960"
+      ]
+    },
+    {
+      "name": "KELLER PUBLIC LIBRARY OF DEXTER",
+      "system": "KELLER PUBLIC LIBRARY OF DEXTER",
+      "address": "402 W GRANT ST, DEXTER, MO",
+      "website": "https://www.kellerpl.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63735",
+        "63738",
+        "63841",
+        "63846",
+        "63850",
+        "63936"
+      ]
+    },
+    {
+      "name": "SIKESTON PUBLIC LIBRARY",
+      "system": "SIKESTON PUBLIC LIBRARY",
+      "address": "121 E NORTH ST, SIKESTON, MO",
+      "website": "http://sikeston.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63736",
+        "63742",
+        "63758",
+        "63767",
+        "63771",
+        "63774",
+        "63780",
+        "63784",
+        "63801",
+        "63824"
+      ]
+    },
+    {
+      "name": "BERNIE PUBLIC LIBRARY",
+      "system": "BERNIE PUBLIC LIBRARY",
+      "address": "111 N ALLEN ST, BERNIE, MO",
+      "website": "https://bernie-public-library.ploud.net/our-locations-and-hours",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63735",
+        "63738",
+        "63822",
+        "63846",
+        "63850",
+        "63936"
       ]
     }
   ]

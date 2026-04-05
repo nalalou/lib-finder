@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "ADAIR COUNTY PUBLIC LIBRARY",
-      "system": "ADAIR COUNTY PUBLIC LIBRARY",
-      "address": "307 GREENSBURG STREET, COLUMBIA, KY",
-      "website": "https://www.adairco.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "42728"
-      ]
-    },
-    {
       "name": "CUMBERLAND COUNTY PUBLIC LIBRARY",
       "system": "CUMBERLAND COUNTY PUBLIC LIBRARY",
       "address": "114 HILL STREET, BURKESVILLE, KY",
@@ -19,7 +8,33 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "23027",
+        "23040",
         "42717"
+      ]
+    },
+    {
+      "name": "BRECKINRIDGE COUNTY PUBLIC LIBRARY",
+      "system": "BRECKINRIDGE COUNTY PUBLIC LIBRARY",
+      "address": "308 OLD HIGHWAY 60, HARDINSBURG, KY",
+      "website": "https://bcplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40111",
+        "40115",
+        "40140",
+        "40143",
+        "40144",
+        "40145",
+        "40146",
+        "40152",
+        "40164",
+        "40170",
+        "40171",
+        "40178",
+        "401HH",
+        "427HH"
       ]
     },
     {
@@ -30,7 +45,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42754"
+        "40119",
+        "42712",
+        "42721",
+        "42726",
+        "42754",
+        "42762"
       ]
     },
     {
@@ -41,7 +61,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42743"
+        "42743",
+        "42782"
       ]
     },
     {
@@ -52,7 +73,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42701"
+        "40121",
+        "40160",
+        "40162",
+        "40175",
+        "40177",
+        "42701",
+        "42724",
+        "42732",
+        "42740",
+        "42776",
+        "42784",
+        "42788"
       ]
     },
     {
@@ -63,6 +95,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "42713",
+        "42722",
+        "42729",
+        "42746",
+        "42749",
         "42765"
       ]
     },
@@ -74,18 +111,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42748"
-      ]
-    },
-    {
-      "name": "TAYLOR COUNTY PUBLIC LIBRARY",
-      "system": "TAYLOR COUNTY PUBLIC LIBRARY",
-      "address": "1316 EAST BROADWAY STREET, CAMPBELLSVILLE, KY",
-      "website": "https://www.tcplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "42718"
+        "42716",
+        "42748",
+        "42757"
       ]
     }
   ]

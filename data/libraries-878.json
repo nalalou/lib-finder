@@ -1,6 +1,40 @@
 {
   "libraries": [
     {
+      "name": "RIO ABAJO COMMUNITY LIBRARY",
+      "system": "RIO ABAJO COMMUNITY LIBRARY",
+      "address": "28 SOUTH CALLE DE CENTRO, LA JOYA, NM",
+      "website": "https://sharenm.org/rio-abajo-community-library/rio-abajo-community-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87006",
+        "87011",
+        "87028",
+        "87062",
+        "87823",
+        "87828",
+        "87831",
+        "87832"
+      ]
+    },
+    {
+      "name": "GLENWOOD COMMUNITY LIBRARY",
+      "system": "GLENWOOD COMMUNITY LIBRARY",
+      "address": "21 MENGES LANE, GLENWOOD, NM",
+      "website": "https://glenwoodlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87820",
+        "87821",
+        "87824",
+        "87827",
+        "87829",
+        "88039"
+      ]
+    },
+    {
       "name": "SOCORRO PUBLIC LIBRARY",
       "system": "SOCORRO PUBLIC LIBRARY",
       "address": "401 PARK STREET, SOCORRO, NM",
@@ -8,7 +42,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87801"
+        "87006",
+        "87011",
+        "87062",
+        "87801",
+        "87823",
+        "87828",
+        "87831",
+        "87832"
       ]
     },
     {
@@ -19,7 +60,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87825"
+        "87006",
+        "87011",
+        "87062",
+        "87823",
+        "87825",
+        "87828",
+        "87831",
+        "87832"
       ]
     },
     {
@@ -30,6 +78,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "87820",
+        "87821",
+        "87824",
+        "87827",
+        "87829",
         "87830"
       ]
     }

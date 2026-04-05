@@ -8,7 +8,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56560"
+        "56513",
+        "56514",
+        "56525",
+        "56529",
+        "56536",
+        "56546",
+        "56547",
+        "56549",
+        "56552",
+        "56560",
+        "56580",
+        "56585"
       ]
     },
     {
@@ -19,7 +30,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56537"
+        "56324",
+        "56361",
+        "56515",
+        "56518",
+        "56524",
+        "56527",
+        "56528",
+        "56533",
+        "56534",
+        "56537",
+        "56551",
+        "56567",
+        "56571",
+        "56576",
+        "56586",
+        "56587",
+        "56588"
       ]
     },
     {
@@ -30,7 +57,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56531"
+        "56248",
+        "56274",
+        "56309",
+        "56311",
+        "56339",
+        "56531",
+        "56590"
       ]
     },
     {
@@ -41,18 +74,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56537"
-      ]
-    },
-    {
-      "name": "NEW YORK MILLS PUBLIC LIBRARY",
-      "system": "NEW YORK MILLS PUBLIC LIBRARY",
-      "address": "30 NORTH MAIN, NEW YORK MILLS, MN",
-      "website": "https://viking.lib.mn.us/places/new-york-mills-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56567"
+        "56324",
+        "56361",
+        "56515",
+        "56518",
+        "56524",
+        "56527",
+        "56528",
+        "56533",
+        "56534",
+        "56537",
+        "56551",
+        "56567",
+        "56571",
+        "56576",
+        "56586",
+        "56587",
+        "56588"
       ]
     },
     {
@@ -63,7 +101,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56572"
+        "56324",
+        "56361",
+        "56515",
+        "56518",
+        "56524",
+        "56527",
+        "56528",
+        "56533",
+        "56534",
+        "56551",
+        "56567",
+        "56571",
+        "56572",
+        "56576",
+        "56586",
+        "56587",
+        "56588"
       ]
     },
     {
@@ -74,7 +128,75 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56573"
+        "56324",
+        "56361",
+        "56515",
+        "56518",
+        "56524",
+        "56527",
+        "56528",
+        "56533",
+        "56534",
+        "56551",
+        "56567",
+        "56571",
+        "56573",
+        "56576",
+        "56586",
+        "56587",
+        "56588"
+      ]
+    },
+    {
+      "name": "BROWNS VALLEY PUBLIC LIBRARY",
+      "system": "BROWNS VALLEY PUBLIC LIBRARY",
+      "address": "15 3RD STREET S, BROWNS VALLEY, MN",
+      "website": "https://www.brownsvalleymnpubliclibrary.org/client/en_US/bv/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56219",
+        "56236",
+        "56583"
+      ]
+    },
+    {
+      "name": "WHEATON COMMUNITY LIBRARY",
+      "system": "WHEATON COMMUNITY LIBRARY",
+      "address": "901 1ST AVENUE N, WHEATON, MN",
+      "website": "https://viking.lib.mn.us/places/wheaton-community-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56236",
+        "56296",
+        "56583"
+      ]
+    },
+    {
+      "name": "EAST GRAND FORKS CAMPBELL LIBRARY",
+      "system": "EAST GRAND FORKS CAMPBELL LIBRARY",
+      "address": "422 4TH STREET NORTHWEST, EAST GRAND FORKS, MN",
+      "website": "http://www.eastgrandforks.gov/185/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56517",
+        "56523",
+        "56535",
+        "56540",
+        "56542",
+        "56556",
+        "56568",
+        "56592",
+        "56646",
+        "56684",
+        "56712",
+        "56716",
+        "56721",
+        "56722",
+        "56723",
+        "56736"
       ]
     }
   ]

@@ -8,18 +8,42 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43713"
+        "43713",
+        "43718",
+        "43719",
+        "43902",
+        "43905",
+        "43909",
+        "43912",
+        "43927",
+        "43928",
+        "43933",
+        "43934",
+        "43940",
+        "43942",
+        "43947",
+        "43951",
+        "43967",
+        "43972",
+        "43977",
+        "43983",
+        "439HH"
       ]
     },
     {
       "name": "CALDWELL PUBLIC LIBRARY",
       "system": "CALDWELL PUBLIC LIBRARY",
-      "address": "517 SPRUCE ST., CALDWELL, OH",
+      "address": "120 S. MAIN ST., CALDWELL, KS",
       "website": "https://caldwell.lib.oh.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43724"
+        "43717",
+        "43724",
+        "43779",
+        "43788",
+        "45727",
+        "67022"
       ]
     },
     {
@@ -30,7 +54,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43725"
+        "43722",
+        "43723",
+        "43725",
+        "43732",
+        "43749",
+        "43755",
+        "43768",
+        "43772",
+        "43773",
+        "43778",
+        "43780",
+        "437HH"
       ]
     },
     {
@@ -41,7 +76,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43756"
+        "43728",
+        "43756",
+        "43758",
+        "43787"
       ]
     },
     {
@@ -52,7 +90,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43764"
+        "43076",
+        "43730",
+        "43731",
+        "43739",
+        "43748",
+        "43760",
+        "43764",
+        "43782",
+        "43783"
       ]
     },
     {
@@ -63,7 +109,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43766"
+        "43076",
+        "43730",
+        "43731",
+        "43739",
+        "43748",
+        "43760",
+        "43766",
+        "43782",
+        "43783"
       ]
     },
     {
@@ -74,7 +128,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43793"
+        "43716",
+        "43747",
+        "43754",
+        "43793",
+        "43914",
+        "43915",
+        "43946",
+        "45734"
       ]
     },
     {
@@ -85,7 +146,219 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43701"
+        "43701",
+        "43720",
+        "43727",
+        "43734",
+        "43735",
+        "43738",
+        "43740",
+        "43746",
+        "43762",
+        "43767",
+        "43771",
+        "43777",
+        "43791",
+        "43802",
+        "43821",
+        "43822",
+        "43830",
+        "43842"
+      ]
+    },
+    {
+      "name": "GRANVILLE PUBLIC LIBRARY",
+      "system": "GRANVILLE PUBLIC LIBRARY",
+      "address": "217 E. BROADWAY, GRANVILLE, OH",
+      "website": "https://www.townofgranville.net/granville-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43008",
+        "43013",
+        "43018",
+        "43023",
+        "43025",
+        "43031",
+        "43033",
+        "43056",
+        "43071",
+        "43080",
+        "43721"
+      ]
+    },
+    {
+      "name": "ALEXANDRIA PUBLIC LIBRARY",
+      "system": "ALEXANDRIA PUBLIC LIBRARY",
+      "address": "10 MAPLE DR., ALEXANDRIA, OH",
+      "website": "https://www.alexandrialibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43001",
+        "43008",
+        "43013",
+        "43018",
+        "43025",
+        "43031",
+        "43033",
+        "43056",
+        "43071",
+        "43080",
+        "43721"
+      ]
+    },
+    {
+      "name": "HOMER PUBLIC LIBRARY",
+      "system": "HOMER PUBLIC LIBRARY",
+      "address": "141 WEST MAIN STREET, HOMER, MI",
+      "website": "https://www.cityofhomer-ak.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43008",
+        "43013",
+        "43018",
+        "43025",
+        "43031",
+        "43033",
+        "43056",
+        "43071",
+        "43080",
+        "43721",
+        "49245"
+      ]
+    },
+    {
+      "name": "LICKING COUNTY LIBRARY",
+      "system": "LICKING COUNTY LIBRARY",
+      "address": "101 W. MAIN ST., NEWARK, OH",
+      "website": "https://www.lickingcountylibrary.org/locations-hours/downtown-newark/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43008",
+        "43013",
+        "43018",
+        "43025",
+        "43031",
+        "43033",
+        "43055",
+        "43056",
+        "43071",
+        "43080",
+        "43721"
+      ]
+    },
+    {
+      "name": "PATASKALA PUBLIC LIBRARY",
+      "system": "PATASKALA PUBLIC LIBRARY",
+      "address": "101 S. VINE ST., PATASKALA, OH",
+      "website": "https://www.pataskalalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43008",
+        "43013",
+        "43018",
+        "43025",
+        "43031",
+        "43033",
+        "43056",
+        "43062",
+        "43071",
+        "43080",
+        "43721"
+      ]
+    },
+    {
+      "name": "BELLAIRE PUBLIC LIBRARY",
+      "system": "BELLAIRE PUBLIC LIBRARY",
+      "address": "330 32ND STREET, BELLAIRE, OH",
+      "website": "https://www.bellairelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43718",
+        "43719",
+        "43902",
+        "43905",
+        "43906",
+        "43909",
+        "43912",
+        "43927",
+        "43928",
+        "43933",
+        "43934",
+        "43940",
+        "43942",
+        "43947",
+        "43951",
+        "43967",
+        "43972",
+        "43977",
+        "43983",
+        "439HH"
+      ]
+    },
+    {
+      "name": "BELMONT COUNTY DISTRICT LIBRARY",
+      "system": "BELMONT COUNTY DISTRICT LIBRARY",
+      "address": "20 JAMES WRIGHT PLACE, MARTINS FERRY, OH",
+      "website": "https://bcdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43718",
+        "43719",
+        "43902",
+        "43905",
+        "43909",
+        "43912",
+        "43927",
+        "43928",
+        "43933",
+        "43934",
+        "43935",
+        "43940",
+        "43942",
+        "43947",
+        "43951",
+        "43967",
+        "43972",
+        "43977",
+        "43983",
+        "439HH"
+      ]
+    },
+    {
+      "name": "ST. CLAIRSVILLE PUBLIC LIBRARY",
+      "system": "ST. CLAIRSVILLE PUBLIC LIBRARY",
+      "address": "108 W. MAIN ST., ST. CLAIRSVILLE, OH",
+      "website": "https://www.stclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43718",
+        "43719",
+        "43902",
+        "43905",
+        "43909",
+        "43912",
+        "43927",
+        "43928",
+        "43933",
+        "43934",
+        "43940",
+        "43942",
+        "43947",
+        "43950",
+        "43951",
+        "43967",
+        "43972",
+        "43977",
+        "43983",
+        "439HH"
       ]
     }
   ]

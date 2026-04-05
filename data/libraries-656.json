@@ -1,6 +1,26 @@
 {
   "libraries": [
     {
+      "name": "DOUGLAS COUNTY PUBLIC LIBRARY",
+      "system": "DOUGLAS COUNTY PUBLIC LIBRARY",
+      "address": "301 W. WEBSTER AVENUE, AVA, MO",
+      "website": "https://wgrls.org/douglas-county-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65608",
+        "89410",
+        "89411",
+        "89413",
+        "89423",
+        "89444",
+        "89448",
+        "89449",
+        "894HH",
+        "89705"
+      ]
+    },
+    {
       "name": "WRIGHT COUNTY LIBRARY",
       "system": "WRIGHT COUNTY LIBRARY",
       "address": "160 E. MARSHFIELD, HARTVILLE, MO",
@@ -8,7 +28,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65667"
+        "65660",
+        "65662",
+        "65667",
+        "65702",
+        "65704",
+        "65711",
+        "65717"
       ]
     },
     {
@@ -19,7 +45,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65682"
+        "65603",
+        "65635",
+        "65646",
+        "65682",
+        "65752"
       ]
     },
     {
@@ -30,7 +60,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65656"
+        "65611",
+        "65624",
+        "65633",
+        "65656",
+        "65675",
+        "65681",
+        "65686",
+        "65728",
+        "65737"
       ]
     },
     {
@@ -41,18 +79,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65622"
-      ]
-    },
-    {
-      "name": "DOUGLAS COUNTY PUBLIC LIBRARY",
-      "system": "DOUGLAS COUNTY PUBLIC LIBRARY",
-      "address": "301 W. WEBSTER AVENUE, AVA, MO",
-      "website": "https://wgrls.org/douglas-county-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "65608"
+        "65590",
+        "65622",
+        "65644",
+        "65685",
+        "65764",
+        "65767",
+        "65783"
       ]
     },
     {
@@ -63,7 +96,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65606"
+        "65606",
+        "65690",
+        "65692",
+        "65778",
+        "65791"
       ]
     },
     {
@@ -74,7 +111,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65661"
+        "65603",
+        "65635",
+        "65646",
+        "65661",
+        "65752"
       ]
     },
     {
@@ -85,7 +126,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65668"
+        "65634",
+        "65650",
+        "65668",
+        "65724",
+        "65732",
+        "65735",
+        "65774",
+        "65779"
       ]
     },
     {
@@ -96,7 +144,204 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65613"
+        "65601",
+        "65613",
+        "65617",
+        "65640",
+        "65649",
+        "65659",
+        "65663",
+        "65674",
+        "65710",
+        "65725",
+        "65727"
+      ]
+    },
+    {
+      "name": "SEYMOUR COMMUNITY LIBRARY",
+      "system": "SEYMOUR COMMUNITY LIBRARY",
+      "address": "320 E CLINTON AVE, SEYMOUR, MO",
+      "website": "https://seymour.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65652",
+        "65713",
+        "65746"
+      ]
+    },
+    {
+      "name": "BARRY-LAWRENCE REGIONAL LIBRARY",
+      "system": "BARRY-LAWRENCE REGIONAL LIBRARY",
+      "address": "213 SIXTH ST, MONETT, MO",
+      "website": "https://www.blrlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "64874",
+        "65623",
+        "65625",
+        "65641",
+        "65647",
+        "65658",
+        "656HH",
+        "65708",
+        "65734",
+        "65745",
+        "65747",
+        "65772",
+        "657HH"
+      ]
+    },
+    {
+      "name": "WILLOW SPRINGS PUBLIC LIBRARY",
+      "system": "WILLOW SPRINGS PUBLIC LIBRARY",
+      "address": "214 N HARRIS ST, WILLOW SPRINGS, MO",
+      "website": "https://www.willowspringslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65626",
+        "65777",
+        "65788",
+        "65789",
+        "65790",
+        "65793"
+      ]
+    },
+    {
+      "name": "WEST PLAINS PUBLIC LIBRARY",
+      "system": "WEST PLAINS PUBLIC LIBRARY",
+      "address": "750 W BROADWAY ST, WEST PLAINS, MO",
+      "website": "https://westplains.gov/departments/community-services/west-plains-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65626",
+        "65775",
+        "65777",
+        "65788",
+        "65789",
+        "65790"
+      ]
+    },
+    {
+      "name": "CHRISTIAN COUNTY LIBRARY",
+      "system": "CHRISTIAN COUNTY LIBRARY",
+      "address": "208 N. MCCROSKEY ST, NIXA, MO",
+      "website": "https://www.christiancountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65610",
+        "65620",
+        "65629",
+        "65630",
+        "65631",
+        "65657",
+        "65669",
+        "65714",
+        "65720",
+        "65721",
+        "65753",
+        "65754"
+      ]
+    },
+    {
+      "name": "WEBSTER COUNTY LIBRARY",
+      "system": "WEBSTER COUNTY LIBRARY",
+      "address": "219 W JACKSON ST, MARSHFIELD, MO",
+      "website": "https://krlibrary.org/?page_id=10",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65652",
+        "65706",
+        "65713"
+      ]
+    },
+    {
+      "name": "MOUNTAIN VIEW PUBLIC LIBRARY",
+      "system": "MOUNTAIN VIEW PUBLIC LIBRARY",
+      "address": "125 S OAK ST, MOUNTAIN VIEW, MO",
+      "website": "https://mtnviewlibmo.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65548",
+        "65626",
+        "65777",
+        "65788",
+        "65789",
+        "65790"
+      ]
+    },
+    {
+      "name": "TEXAS COUNTY LIBRARY",
+      "system": "TEXAS COUNTY LIBRARY",
+      "address": "117 W WALNUT ST, HOUSTON, MO",
+      "website": "http://texascountylibrary.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65444",
+        "65464",
+        "65468",
+        "65479",
+        "65483",
+        "65484",
+        "65542",
+        "65552",
+        "65555",
+        "65557",
+        "65564",
+        "65570",
+        "65571",
+        "65589",
+        "65689"
+      ]
+    },
+    {
+      "name": "SPRINGFIELD-GREENE COUNTY LIBRARY DISTRICT",
+      "system": "SPRINGFIELD-GREENE COUNTY LIBRARY DISTRICT",
+      "address": "4653 S CAMPBELL AVE, SPRINGFIELD, MO",
+      "website": "https://thelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65604",
+        "65612",
+        "65619",
+        "65648",
+        "65738",
+        "65742",
+        "65757",
+        "65770",
+        "65781",
+        "65802",
+        "65803",
+        "65804",
+        "65806",
+        "65807",
+        "65809",
+        "65810",
+        "658HH"
+      ]
+    },
+    {
+      "name": "LEBANON-LACLEDE COUNTY LIBRARY",
+      "system": "LEBANON-LACLEDE COUNTY LIBRARY",
+      "address": "915 S JEFFERSON AVE, LEBANON, MO",
+      "website": "https://www.lebanon-laclede.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65463",
+        "65470",
+        "65536",
+        "65543",
+        "65632",
+        "65722"
       ]
     }
   ]

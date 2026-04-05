@@ -1,6 +1,66 @@
 {
   "libraries": [
     {
+      "name": "CEDAR FALLS PUBLIC LIBRARY",
+      "system": "CEDAR FALLS PUBLIC LIBRARY",
+      "address": "524 MAIN ST, CEDAR FALLS, IA",
+      "website": "https://cedarfallslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50613",
+        "50623",
+        "50634",
+        "50643",
+        "50667",
+        "506HH",
+        "50702",
+        "50703",
+        "50706",
+        "507HH"
+      ]
+    },
+    {
+      "name": "DUNKERTON PUBLIC LIBRARY",
+      "system": "DUNKERTON PUBLIC LIBRARY",
+      "address": "203 E TOWER ST, DUNKERTON, IA",
+      "website": "https://www.dunkerton.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50623",
+        "50626",
+        "50634",
+        "50643",
+        "50667",
+        "506HH",
+        "50702",
+        "50703",
+        "50706",
+        "507HH"
+      ]
+    },
+    {
+      "name": "HAWKINS MEMORIAL LIBRARY",
+      "system": "HAWKINS MEMORIAL LIBRARY",
+      "address": "308 MAIN ST, LA PORTE CITY, IA",
+      "website": "https://www.lpcpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50623",
+        "50634",
+        "50643",
+        "50651",
+        "50667",
+        "506HH",
+        "50702",
+        "50703",
+        "50706",
+        "507HH"
+      ]
+    },
+    {
       "name": "WATERLOO PUBLIC LIBRARY",
       "system": "WATERLOO PUBLIC LIBRARY",
       "address": "415 COMMERCIAL ST, WATERLOO, IA",
@@ -8,7 +68,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50701"
+        "50623",
+        "50634",
+        "50643",
+        "50667",
+        "506HH",
+        "50701",
+        "50702",
+        "50703",
+        "50706",
+        "507HH"
       ]
     },
     {
@@ -19,7 +88,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50707"
+        "50623",
+        "50634",
+        "50643",
+        "50667",
+        "506HH",
+        "50702",
+        "50703",
+        "50706",
+        "50707",
+        "507HH"
       ]
     }
   ]

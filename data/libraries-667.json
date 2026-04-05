@@ -1,36 +1,18 @@
 {
   "libraries": [
     {
-      "name": "SAVONBURG PUBLIC LIBRARY",
-      "system": "SAVONBURG PUBLIC LIBRARY",
-      "address": "101A S. WALNUT ST, SAVONBURG, KS",
-      "website": "https://savonburglibrary.org/",
+      "name": "FREDONIA PUBLIC LIBRARY",
+      "system": "FREDONIA PUBLIC LIBRARY",
+      "address": "807 JEFFERSON ST., FREDONIA, KS",
+      "website": "https://www.fredoniapubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66772"
-      ]
-    },
-    {
-      "name": "HEPLER CITY LIBRARY",
-      "system": "HEPLER CITY LIBRARY",
-      "address": "105 S. PRAIRIE, HEPLER, KS",
-      "website": "https://hepler.mykansaslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66746"
-      ]
-    },
-    {
-      "name": "PRESCOTT CITY LIBRARY",
-      "system": "PRESCOTT CITY LIBRARY",
-      "address": "174 W. 3RD, PRESCOTT, KS",
-      "website": "https://www.loc8nearme.com/kansas/prescott/prescott-city-library/8645364/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66767"
+        "66710",
+        "66714",
+        "66717",
+        "66736",
+        "66759"
       ]
     },
     {
@@ -41,7 +23,59 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66711",
+        "66724",
+        "66734",
+        "66735",
+        "66756",
+        "66760",
+        "66763",
         "66780"
+      ]
+    },
+    {
+      "name": "SAVONBURG PUBLIC LIBRARY",
+      "system": "SAVONBURG PUBLIC LIBRARY",
+      "address": "101A S. WALNUT ST, SAVONBURG, KS",
+      "website": "https://savonburglibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66732",
+        "66748",
+        "66751",
+        "66772",
+        "667HH"
+      ]
+    },
+    {
+      "name": "HEPLER CITY LIBRARY",
+      "system": "HEPLER CITY LIBRARY",
+      "address": "105 S. PRAIRIE, HEPLER, KS",
+      "website": "https://hepler.mykansaslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66711",
+        "66724",
+        "66734",
+        "66735",
+        "66746",
+        "66756",
+        "66760",
+        "66763"
+      ]
+    },
+    {
+      "name": "PRESCOTT CITY LIBRARY",
+      "system": "PRESCOTT CITY LIBRARY",
+      "address": "174 W. 3RD, PRESCOTT, KS",
+      "website": "https://www.loc8nearme.com/kansas/prescott/prescott-city-library/8645364/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66014",
+        "66767"
       ]
     },
     {
@@ -52,7 +86,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66716"
+        "66716",
+        "66738",
+        "66741",
+        "66754",
+        "66769",
+        "66779"
       ]
     },
     {
@@ -63,6 +102,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66758",
+        "66761",
         "66777"
       ]
     },
@@ -74,18 +115,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66753"
-      ]
-    },
-    {
-      "name": "ALTOONA PUBLIC LIBRARY",
-      "system": "ALTOONA PUBLIC LIBRARY",
-      "address": "714 MAIN, ALTOONA, KS",
-      "website": "https://altoonakspubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66710"
+        "66711",
+        "66724",
+        "66734",
+        "66735",
+        "66753",
+        "66756",
+        "66760",
+        "66763"
       ]
     },
     {
@@ -96,6 +133,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66740",
+        "66775",
         "66776"
       ]
     },
@@ -107,7 +146,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66755"
+        "66732",
+        "66748",
+        "66751",
+        "66755",
+        "667HH"
       ]
     },
     {
@@ -118,7 +161,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66781"
+        "66713",
+        "66725",
+        "66770",
+        "66773",
+        "66778",
+        "66781",
+        "66782"
       ]
     },
     {
@@ -129,7 +178,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66771"
+        "66740",
+        "66771",
+        "66775"
       ]
     },
     {
@@ -140,7 +191,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66733"
+        "66733",
+        "66740",
+        "66775"
       ]
     },
     {
@@ -151,29 +204,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66758",
+        "66761",
         "66783"
-      ]
-    },
-    {
-      "name": "HUMBOLDT PUBLIC LIBRARY",
-      "system": "HUMBOLDT PUBLIC LIBRARY",
-      "address": "916 BRIDGE, HUMBOLDT, KS",
-      "website": "https://humboldtpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66748"
-      ]
-    },
-    {
-      "name": "FREDONIA PUBLIC LIBRARY",
-      "system": "FREDONIA PUBLIC LIBRARY",
-      "address": "807 JEFFERSON ST., FREDONIA, KS",
-      "website": "https://www.fredoniapubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66736"
       ]
     },
     {
@@ -184,7 +217,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66743"
+        "66711",
+        "66724",
+        "66734",
+        "66735",
+        "66743",
+        "66756",
+        "66760",
+        "66763"
       ]
     },
     {
@@ -195,18 +235,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66757"
-      ]
-    },
-    {
-      "name": "COLUMBUS PUBLIC LIBRARY",
-      "system": "COLUMBUS PUBLIC LIBRARY",
-      "address": "205 N. KANSAS, COLUMBUS, KS",
-      "website": "https://www.columbusne.us/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66725"
+        "66710",
+        "66714",
+        "66717",
+        "66757",
+        "66759"
       ]
     },
     {
@@ -217,18 +250,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66739"
+        "66713",
+        "66725",
+        "66739",
+        "66770",
+        "66773",
+        "66778",
+        "66782"
       ]
     },
     {
       "name": "JOHNSTON PUBLIC LIBRARY",
       "system": "JOHNSTON PUBLIC LIBRARY",
-      "address": "210 W. 10TH ST., BAXTER SPRINGS, KS",
+      "address": "6700 MERLE HAY RD, JOHNSTON, IA",
       "website": "https://johnstonpubliclibrarybsks.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66713"
+        "50131",
+        "66713",
+        "66725",
+        "66770",
+        "66773",
+        "66778",
+        "66782"
       ]
     },
     {
@@ -239,7 +284,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66749"
+        "66732",
+        "66748",
+        "66749",
+        "66751",
+        "667HH"
       ]
     },
     {
@@ -250,7 +299,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66701"
+        "66701",
+        "66738",
+        "66741",
+        "66754",
+        "66769",
+        "66779"
       ]
     },
     {
@@ -261,7 +315,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66720"
+        "66720",
+        "66740",
+        "66775"
       ]
     },
     {
@@ -272,7 +328,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66762"
+        "66711",
+        "66724",
+        "66734",
+        "66735",
+        "66756",
+        "66760",
+        "66762",
+        "66763"
       ]
     },
     {
@@ -283,7 +346,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66712"
+        "66711",
+        "66712",
+        "66724",
+        "66734",
+        "66735",
+        "66756",
+        "66760",
+        "66763"
       ]
     }
   ]

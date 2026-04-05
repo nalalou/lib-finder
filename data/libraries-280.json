@@ -1,6 +1,86 @@
 {
   "libraries": [
     {
+      "name": "ROWAN PUBLIC LIBRARY",
+      "system": "ROWAN PUBLIC LIBRARY",
+      "address": "201 W FISHER ST, SALISBURY, NC",
+      "website": "https://www.chamberofcommerce.com/united-states/iowa/rowan/public-library/29437114-rowan-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27013",
+        "27054",
+        "28023",
+        "28071",
+        "28072",
+        "28088",
+        "28125",
+        "28138",
+        "28144",
+        "28146",
+        "28147",
+        "28159"
+      ]
+    },
+    {
+      "name": "CHARLOTTE MECKLENBURG LIBRARY",
+      "system": "CHARLOTTE MECKLENBURG LIBRARY",
+      "address": "310 N TRYON ST, CHARLOTTE, NC",
+      "website": "https://www.cmlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28031",
+        "28036",
+        "28078",
+        "28105",
+        "28134",
+        "28202",
+        "28203",
+        "28204",
+        "28205",
+        "28206",
+        "28207",
+        "28208",
+        "28209",
+        "28210",
+        "28211",
+        "28212",
+        "28213",
+        "28214",
+        "28215",
+        "28216",
+        "28217",
+        "28223",
+        "28226",
+        "28227",
+        "28262",
+        "28269",
+        "28270",
+        "28273",
+        "28277",
+        "28278",
+        "282HH"
+      ]
+    },
+    {
+      "name": "UNION COUNTY PUBLIC LIBRARY",
+      "system": "UNION COUNTY PUBLIC LIBRARY",
+      "address": "316 E WINDSOR ST, MONROE, NC",
+      "website": "https://www.mountainregionallibrary.org/union-county-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28079",
+        "28103",
+        "28104",
+        "28110",
+        "28112",
+        "28173",
+        "28174"
+      ]
+    },
+    {
       "name": "CABARRUS COUNTY PUBLIC LIBRARY",
       "system": "CABARRUS COUNTY PUBLIC LIBRARY",
       "address": "27 UNION ST N, CONCORD, NC",
@@ -8,7 +88,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28025"
+        "28025",
+        "28027",
+        "28075",
+        "28081",
+        "28083",
+        "28107",
+        "28124"
       ]
     },
     {
@@ -19,7 +105,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28001"
+        "28001",
+        "28009",
+        "28097",
+        "28109",
+        "28127",
+        "28128",
+        "28129",
+        "28137",
+        "28163"
       ]
     },
     {
@@ -30,7 +124,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28086"
+        "28017",
+        "28020",
+        "28038",
+        "28073",
+        "28086",
+        "28089",
+        "28090",
+        "28152",
+        "28169"
       ]
     },
     {
@@ -41,18 +143,75 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28054"
+        "28006",
+        "28012",
+        "28016",
+        "28021",
+        "28032",
+        "28034",
+        "28052",
+        "28054",
+        "28056",
+        "28077",
+        "28098",
+        "28101",
+        "28120",
+        "28164"
       ]
     },
     {
       "name": "LINCOLN COUNTY PUBLIC LIBRARY",
       "system": "LINCOLN COUNTY PUBLIC LIBRARY",
-      "address": "306 W MAIN ST, LINCOLNTON, NC",
+      "address": "201 LANCASTER STREET, STANFORD, KY",
       "website": "https://lcplinfo.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28092"
+        "28033",
+        "28037",
+        "28080",
+        "28092",
+        "28168",
+        "40484"
+      ]
+    },
+    {
+      "name": "CLEVELAND COUNTY MEMORIAL LIBRARY",
+      "system": "CLEVELAND COUNTY MEMORIAL LIBRARY",
+      "address": "104 HOWIE DR, SHELBY, NC",
+      "website": "https://www.clevelandcounty.com/main/departments/library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28017",
+        "28020",
+        "28038",
+        "28073",
+        "28089",
+        "28090",
+        "28150",
+        "28152",
+        "28169"
+      ]
+    },
+    {
+      "name": "RUTHERFORD COUNTY LIBRARY",
+      "system": "RUTHERFORD COUNTY LIBRARY",
+      "address": "255 CALLAHAN KOON RD, SPINDALE, NC",
+      "website": "https://rutherfordcountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28018",
+        "28019",
+        "28040",
+        "28043",
+        "28076",
+        "28114",
+        "28139",
+        "28160",
+        "28167",
+        "28746"
       ]
     }
   ]

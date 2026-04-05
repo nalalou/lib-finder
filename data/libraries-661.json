@@ -1,6 +1,28 @@
 {
   "libraries": [
     {
+      "name": "BONNER SPRINGS CITY LIBRARY",
+      "system": "BONNER SPRINGS CITY LIBRARY",
+      "address": "201 N. NETTLETON AVE., BONNER SPRINGS, KS",
+      "website": "https://www.bonnerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66012",
+        "66102",
+        "66103",
+        "66104",
+        "66105",
+        "66106",
+        "66109",
+        "66111",
+        "66112",
+        "66115",
+        "66118",
+        "661HH"
+      ]
+    },
+    {
       "name": "KANSAS CITY, KANSAS PUBLIC LIBRARY",
       "system": "KANSAS CITY, KANSAS PUBLIC LIBRARY",
       "address": "625 MINNESOTA AVENUE, KANSAS CITY, KS",
@@ -8,7 +30,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66101"
+        "66101",
+        "66102",
+        "66103",
+        "66104",
+        "66105",
+        "66106",
+        "66109",
+        "66111",
+        "66112",
+        "66115",
+        "66118",
+        "661HH"
       ]
     }
   ]

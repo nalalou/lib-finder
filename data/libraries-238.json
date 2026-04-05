@@ -19,7 +19,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23832"
+        "23112",
+        "23113",
+        "23120",
+        "23234",
+        "23235",
+        "23236",
+        "23237",
+        "23831",
+        "23832",
+        "23836",
+        "23838"
       ]
     },
     {
@@ -41,18 +51,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23868"
-      ]
-    },
-    {
-      "name": "PETERSBURG PUBLIC LIBRARY",
-      "system": "PETERSBURG PUBLIC LIBRARY",
-      "address": "201 W. WASHINGTON ST., PETERSBURG, VA",
-      "website": "https://ci.petersburg.ne.us/our-community/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "23803"
+        "23821",
+        "23843",
+        "23845",
+        "23856",
+        "23857",
+        "23868",
+        "23876",
+        "23887",
+        "23889",
+        "23893",
+        "238HH",
+        "23920",
+        "23938"
       ]
     },
     {
@@ -63,7 +74,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23837"
+        "23827",
+        "23828",
+        "23829",
+        "23837",
+        "23844",
+        "23866",
+        "23874",
+        "23878"
+      ]
+    },
+    {
+      "name": "NOTTOWAY COUNTY LIBRARY SYSTEM",
+      "system": "NOTTOWAY COUNTY LIBRARY SYSTEM",
+      "address": "414 TYLER STREET, CREWE, VA",
+      "website": "https://nottlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23824",
+        "238XX",
+        "23922",
+        "23930"
       ]
     }
   ]

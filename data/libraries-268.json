@@ -1,6 +1,56 @@
 {
   "libraries": [
     {
+      "name": "HAMPSHIRE COUNTY PUBLIC LIBRARY",
+      "system": "HAMPSHIRE COUNTY PUBLIC LIBRARY",
+      "address": "153 WEST MAIN STREET, ROMNEY, WV",
+      "website": "https://hampshirecopubliclib.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25431",
+        "25437",
+        "25444",
+        "26704",
+        "26714",
+        "26722",
+        "26755",
+        "26757",
+        "26761",
+        "26763",
+        "26808",
+        "26817",
+        "26823",
+        "26852",
+        "26865"
+      ]
+    },
+    {
+      "name": "CAPON BRIDGE PUBLIC LIBRARY",
+      "system": "CAPON BRIDGE PUBLIC LIBRARY",
+      "address": "2987 NORTHWESTERN PIKE, CAPON BRIDGE, WV",
+      "website": "https://lib-kmcpl.wvnet.edu/caponbridge/about-us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25431",
+        "25437",
+        "25444",
+        "26704",
+        "26711",
+        "26714",
+        "26722",
+        "26755",
+        "26761",
+        "26763",
+        "26808",
+        "26817",
+        "26823",
+        "26852",
+        "26865"
+      ]
+    },
+    {
       "name": "GRANT COUNTY PUBLIC LIBRARY",
       "system": "GRANT COUNTY PUBLIC LIBRARY",
       "address": "18 MT. VIEW STREET, PETERSBURG, WV",
@@ -8,7 +58,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26847"
+        "26707",
+        "26720",
+        "26731",
+        "26739",
+        "267HH",
+        "267XX",
+        "26833",
+        "26847",
+        "26855",
+        "268HH"
       ]
     },
     {
@@ -19,7 +78,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26807"
+        "26802",
+        "26804",
+        "26807",
+        "26814",
+        "26815",
+        "26866",
+        "26884",
+        "26886",
+        "268XX"
       ]
     },
     {
@@ -30,7 +97,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26836"
+        "26801",
+        "26810",
+        "26812",
+        "26818",
+        "26836",
+        "26838",
+        "26845",
+        "26851"
       ]
     }
   ]

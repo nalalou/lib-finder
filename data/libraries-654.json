@@ -1,6 +1,26 @@
 {
   "libraries": [
     {
+      "name": "OZARK REGIONAL LIBRARY",
+      "system": "OZARK REGIONAL LIBRARY",
+      "address": "402 N MAIN ST, IRONTON, MO",
+      "website": "https://ozarkregional.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63620",
+        "63621",
+        "63623",
+        "63636",
+        "63650",
+        "63656",
+        "63663",
+        "63675",
+        "65439",
+        "65566"
+      ]
+    },
+    {
       "name": "ROLLA PUBLIC LIBRARY",
       "system": "ROLLA PUBLIC LIBRARY",
       "address": "900 PINE ST, ROLLA, MO",
@@ -8,6 +28,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "58310",
+        "58316",
+        "58329",
+        "58353",
+        "58367",
+        "58369",
         "65401"
       ]
     },
@@ -19,7 +45,104 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65483"
+        "65444",
+        "65464",
+        "65468",
+        "65479",
+        "65483",
+        "65484",
+        "65542",
+        "65552",
+        "65555",
+        "65557",
+        "65564",
+        "65570",
+        "65571",
+        "65589",
+        "65689"
+      ]
+    },
+    {
+      "name": "CRAWFORD COUNTY LIBRARY",
+      "system": "CRAWFORD COUNTY LIBRARY",
+      "address": "510 WEST MAIN STREET, STEELVILLE, MO",
+      "website": "https://crawfordcountylibrarydistrict.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65441",
+        "65446",
+        "65449",
+        "65453",
+        "65456",
+        "65535",
+        "65565"
+      ]
+    },
+    {
+      "name": "JAMES MEMORIAL LIBRARY",
+      "system": "JAMES MEMORIAL LIBRARY",
+      "address": "300 W SCIOTO ST, ST. JAMES, MO",
+      "website": "https://www.stjamesmo.org/departments/library.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65436",
+        "65462",
+        "65529",
+        "65550",
+        "65559"
+      ]
+    },
+    {
+      "name": "HEARTLAND REGIONAL LIBRARY SYSTEM",
+      "system": "HEARTLAND REGIONAL LIBRARY SYSTEM",
+      "address": "315 THIRD ST, VIENNA, MO",
+      "website": "https://www.heartland.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65013",
+        "65058",
+        "65443",
+        "654HH",
+        "65580",
+        "65582",
+        "655HH"
+      ]
+    },
+    {
+      "name": "LEBANON-LACLEDE COUNTY LIBRARY",
+      "system": "LEBANON-LACLEDE COUNTY LIBRARY",
+      "address": "915 S JEFFERSON AVE, LEBANON, MO",
+      "website": "https://www.lebanon-laclede.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65463",
+        "65470",
+        "65536",
+        "65543",
+        "65632",
+        "65722"
+      ]
+    },
+    {
+      "name": "PULASKI COUNTY LIBRARY",
+      "system": "PULASKI COUNTY LIBRARY",
+      "address": "310 HISTORIC 66 WEST, WAYNESVILLE, MO",
+      "website": "https://www.pulaskicounty.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65452",
+        "65457",
+        "65459",
+        "65461",
+        "65473",
+        "65534",
+        "65556",
+        "65583"
       ]
     }
   ]

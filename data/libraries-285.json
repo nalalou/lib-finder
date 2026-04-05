@@ -8,7 +8,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28560"
+        "28519",
+        "28523",
+        "28526",
+        "28527",
+        "28532",
+        "28560",
+        "28562",
+        "28586"
       ]
     },
     {
@@ -19,7 +26,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28501"
+        "28501",
+        "28504",
+        "28525",
+        "28551"
       ]
     },
     {
@@ -30,7 +40,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28540"
+        "28445",
+        "28454",
+        "28460",
+        "28539",
+        "28540",
+        "28543",
+        "28544",
+        "28546",
+        "28547",
+        "28555",
+        "28574",
+        "28582"
       ]
     },
     {
@@ -41,7 +62,86 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "28516"
+        "28511",
+        "28512",
+        "28516",
+        "28520",
+        "28524",
+        "28528",
+        "28531",
+        "28553",
+        "28557",
+        "28570",
+        "28575",
+        "28577",
+        "28579",
+        "28581",
+        "28584",
+        "28589",
+        "28594",
+        "285HH",
+        "285XX"
+      ]
+    },
+    {
+      "name": "DUPLIN COUNTY LIBRARY",
+      "system": "DUPLIN COUNTY LIBRARY",
+      "address": "107 BOWDEN DR, KENANSVILLE, NC",
+      "website": "https://www.duplinnc.gov/205/Libraries",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28325",
+        "28349",
+        "28398",
+        "28453",
+        "28458",
+        "28464",
+        "28466",
+        "28508",
+        "28518",
+        "28521",
+        "28572"
+      ]
+    },
+    {
+      "name": "SHEPPARD MEMORIAL LIBRARY",
+      "system": "SHEPPARD MEMORIAL LIBRARY",
+      "address": "530 S EVANS ST, GREENVILLE, NC",
+      "website": "https://www.sheppardlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27812",
+        "27827",
+        "27829",
+        "27834",
+        "27837",
+        "27858",
+        "27884",
+        "28513",
+        "28530",
+        "28590"
+      ]
+    },
+    {
+      "name": "FARMVILLE PUBLIC LIBRARY",
+      "system": "FARMVILLE PUBLIC LIBRARY",
+      "address": "4276 W CHURCH ST, FARMVILLE, NC",
+      "website": "https://www.farmvillenc.gov/departments/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27812",
+        "27827",
+        "27828",
+        "27829",
+        "27834",
+        "27837",
+        "27884",
+        "28513",
+        "28530",
+        "28590"
       ]
     }
   ]

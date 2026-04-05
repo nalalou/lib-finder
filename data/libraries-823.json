@@ -1,6 +1,50 @@
 {
   "libraries": [
     {
+      "name": "SWEETWATER COUNTY LIBRARY SYSTEM",
+      "system": "SWEETWATER COUNTY LIBRARY SYSTEM",
+      "address": "300 N. 1ST EAST, GREEN RIVER, WY",
+      "website": "https://www.sweetwaterlibraries.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82322",
+        "82336",
+        "82901",
+        "82929",
+        "82932",
+        "82934",
+        "82935",
+        "82938",
+        "82942",
+        "82943",
+        "82945"
+      ]
+    },
+    {
+      "name": "FREMONT COUNTY LIBRARY SYSTEM",
+      "system": "FREMONT COUNTY LIBRARY SYSTEM",
+      "address": "451 NORTH 2ND ST, LANDER, WY",
+      "website": "https://www.fclsonline.org/landerlibrary",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82310",
+        "82501",
+        "82510",
+        "82512",
+        "82513",
+        "82514",
+        "82515",
+        "82516",
+        "82520",
+        "82523",
+        "825HH",
+        "82642",
+        "82649"
+      ]
+    },
+    {
       "name": "CARBON COUNTY LIBRARY SYSTEM",
       "system": "CARBON COUNTY LIBRARY SYSTEM",
       "address": "215 WEST BUFFALO ST, RAWLINS, WY",
@@ -8,7 +52,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "82301"
+        "82301",
+        "82321",
+        "82323",
+        "82324",
+        "82325",
+        "82327",
+        "82329",
+        "82331",
+        "82332",
+        "82335",
+        "823HH"
       ]
     }
   ]

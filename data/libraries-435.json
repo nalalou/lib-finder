@@ -1,6 +1,179 @@
 {
   "libraries": [
     {
+      "name": "TOLEDO-LUCAS COUNTY PUBLIC LIBRARY",
+      "system": "TOLEDO-LUCAS COUNTY PUBLIC LIBRARY",
+      "address": "325 MICHIGAN ST., TOLEDO, OH",
+      "website": "http://www.toledolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43412",
+        "43504",
+        "43528",
+        "43537",
+        "43542",
+        "43547",
+        "43560",
+        "43566",
+        "43571",
+        "43602",
+        "43604",
+        "43605",
+        "43606",
+        "43607",
+        "43608",
+        "43609",
+        "43610",
+        "43611",
+        "43612",
+        "43613",
+        "43614",
+        "43615",
+        "43616",
+        "43617",
+        "43618",
+        "43620",
+        "43623",
+        "43624",
+        "436HH"
+      ]
+    },
+    {
+      "name": "WESTON PUBLIC LIBRARY",
+      "system": "WESTON PUBLIC LIBRARY",
+      "address": "13153 MAIN ST., WESTON, OH",
+      "website": "https://www.westonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43569",
+        "97810",
+        "97859",
+        "97886"
+      ]
+    },
+    {
+      "name": "WAYNE PUBLIC LIBRARY",
+      "system": "WAYNE PUBLIC LIBRARY",
+      "address": "3737 SOUTH WAYNE ROAD, WAYNE, MI",
+      "website": "https://www.waynepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817",
+        "48184"
+      ]
+    },
+    {
+      "name": "WOOD COUNTY DISTRICT PUBLIC LIBRARY",
+      "system": "WOOD COUNTY DISTRICT PUBLIC LIBRARY",
+      "address": "251 N. MAIN ST., BOWLING GREEN, OH",
+      "website": "https://wcdpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43402",
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817"
+      ]
+    },
+    {
+      "name": "PEMBERVILLE PUBLIC LIBRARY",
+      "system": "PEMBERVILLE PUBLIC LIBRARY",
+      "address": "375 E. FRONT ST., PEMBERVILLE, OH",
+      "website": "https://www.pembervillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43450",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817"
+      ]
+    },
+    {
+      "name": "ROSSFORD PUBLIC LIBRARY",
+      "system": "ROSSFORD PUBLIC LIBRARY",
+      "address": "720 DIXIE HIGHWAY, ROSSFORD, OH",
+      "website": "https://www.rossfordlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43460",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817"
+      ]
+    },
+    {
       "name": "ARCHBOLD COMMUNITY LIBRARY",
       "system": "ARCHBOLD COMMUNITY LIBRARY",
       "address": "205 STRYKER ST., ARCHBOLD, OH",
@@ -8,7 +181,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43502"
+        "43502",
+        "43533",
+        "43553"
       ]
     },
     {
@@ -19,7 +194,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43506"
+        "43501",
+        "43506",
+        "43517",
+        "43518",
+        "43531",
+        "43554",
+        "43557",
+        "43570"
       ]
     },
     {
@@ -30,7 +212,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43512"
+        "43512",
+        "43526",
+        "43536",
+        "43549",
+        "43556",
+        "435HH"
       ]
     },
     {
@@ -41,7 +228,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43515"
+        "43515",
+        "43533",
+        "43553"
       ]
     },
     {
@@ -52,7 +241,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43516"
+        "43516",
+        "43524",
+        "43534",
+        "43535",
+        "43548",
+        "43555"
       ]
     },
     {
@@ -63,7 +257,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43521"
+        "43521",
+        "43533",
+        "43553"
       ]
     },
     {
@@ -74,7 +270,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43527"
+        "43524",
+        "43527",
+        "43534",
+        "43535",
+        "43548",
+        "43555"
       ]
     },
     {
@@ -85,7 +286,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43532"
+        "43524",
+        "43532",
+        "43534",
+        "43535",
+        "43548",
+        "43555"
       ]
     },
     {
@@ -96,7 +302,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43540"
+        "43533",
+        "43540",
+        "43553"
       ]
     },
     {
@@ -107,7 +315,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43543"
+        "43501",
+        "43517",
+        "43518",
+        "43531",
+        "43543",
+        "43554",
+        "43557",
+        "43570"
       ]
     },
     {
@@ -118,7 +333,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43545"
+        "43524",
+        "43534",
+        "43535",
+        "43545",
+        "43548",
+        "43555"
       ]
     },
     {
@@ -129,7 +349,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43551"
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43551",
+        "43565",
+        "43619",
+        "44817"
       ]
     },
     {
@@ -140,6 +379,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "43533",
+        "43553",
         "43558"
       ]
     },
@@ -151,18 +392,39 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "43533",
+        "43553",
         "43567"
       ]
     },
     {
-      "name": "WESTON PUBLIC LIBRARY",
-      "system": "WESTON PUBLIC LIBRARY",
-      "address": "13153 MAIN ST., WESTON, OH",
-      "website": "https://www.westonpubliclibrary.org/",
+      "name": "NORTH BALTIMORE PUBLIC LIBRARY",
+      "system": "NORTH BALTIMORE PUBLIC LIBRARY",
+      "address": "230 N. MAIN ST., NORTH BALTIMORE, OH",
+      "website": "https://www.nbpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43569"
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817",
+        "45872"
       ]
     }
   ]

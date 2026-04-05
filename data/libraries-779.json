@@ -1,6 +1,42 @@
 {
   "libraries": [
     {
+      "name": "CALHOUN COUNTY PUBLIC LIBRARY",
+      "system": "CALHOUN COUNTY PUBLIC LIBRARY",
+      "address": "200 W MAHAN ST, PORT LAVACA, TX",
+      "website": "https://cclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25234",
+        "25235",
+        "25261",
+        "25268",
+        "26136",
+        "26137",
+        "26141",
+        "26147",
+        "26151",
+        "26152",
+        "77979"
+      ]
+    },
+    {
+      "name": "YORKTOWN PUBLIC LIBRARY",
+      "system": "YORKTOWN PUBLIC LIBRARY",
+      "address": "8920 WEST ADALINE STREET, YORKTOWN, IN",
+      "website": "http://yorktownpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47396",
+        "77974",
+        "77994",
+        "78141",
+        "78164"
+      ]
+    },
+    {
       "name": "JACKSON COUNTY MEMORIAL LIBRARY",
       "system": "JACKSON COUNTY MEMORIAL LIBRARY",
       "address": "411 N WELLS ST STE 121, EDNA, TX",
@@ -8,7 +44,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77957"
+        "77957",
+        "77961",
+        "77962",
+        "77969",
+        "77970",
+        "77971",
+        "77991"
       ]
     },
     {
@@ -19,18 +61,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77964"
-      ]
-    },
-    {
-      "name": "CALHOUN COUNTY PUBLIC LIBRARY",
-      "system": "CALHOUN COUNTY PUBLIC LIBRARY",
-      "address": "200 W MAHAN ST, PORT LAVACA, TX",
-      "website": "https://cclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "77979"
+        "77964",
+        "77975"
       ]
     },
     {
@@ -41,7 +73,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77901"
+        "77901",
+        "77904",
+        "77905",
+        "77951",
+        "77968",
+        "77973",
+        "77977",
+        "77988"
       ]
     },
     {
@@ -52,7 +91,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77995"
+        "77974",
+        "77994",
+        "77995",
+        "78141",
+        "78164"
       ]
     },
     {
@@ -63,7 +106,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77963"
+        "77960",
+        "77963",
+        "78107"
       ]
     },
     {
@@ -74,7 +119,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77954"
+        "77954",
+        "77974",
+        "77994",
+        "78141",
+        "78164"
       ]
     },
     {
@@ -85,7 +134,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "77975",
         "77984"
+      ]
+    },
+    {
+      "name": "DENNIS M O'CONNOR PUBLIC LIBRARY",
+      "system": "DENNIS M O'CONNOR PUBLIC LIBRARY",
+      "address": "815 COMMERCE ST, REFUGIO, TX",
+      "website": "https://librarytechnology.org/library/24512",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77950",
+        "77990",
+        "78340",
+        "78377",
+        "78393"
       ]
     }
   ]

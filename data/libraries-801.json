@@ -1,6 +1,35 @@
 {
   "libraries": [
     {
+      "name": "WESTMINSTER PUBLIC LIBRARY",
+      "system": "WESTMINSTER PUBLIC LIBRARY",
+      "address": "3705 W. 112TH AVE, WESTMINSTER, CO",
+      "website": "https://www.westminsterco.gov/166/Libraries",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80010",
+        "80019",
+        "80022",
+        "80024",
+        "80030",
+        "80031",
+        "800XX",
+        "80102",
+        "80136",
+        "80137",
+        "80221",
+        "80229",
+        "80233",
+        "80234",
+        "80241",
+        "80260",
+        "80601",
+        "80640",
+        "806HH"
+      ]
+    },
+    {
       "name": "ARAPAHOE LIBRARY DISTRICT",
       "system": "ARAPAHOE LIBRARY DISTRICT",
       "address": "12855 E. ADAM AIRCRAFT CIRCLE, ENGLEWOOD, CO",
@@ -8,7 +37,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80112"
+        "80011",
+        "80012",
+        "80013",
+        "80014",
+        "80015",
+        "80016",
+        "80017",
+        "80018",
+        "800HH",
+        "80103",
+        "80105",
+        "80110",
+        "80111",
+        "80112",
+        "80121",
+        "80122",
+        "801XX"
       ]
     },
     {
@@ -19,7 +64,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80104"
+        "80104",
+        "80116",
+        "80118",
+        "80124",
+        "80125",
+        "80126",
+        "80134",
+        "80135",
+        "80138"
       ]
     },
     {
@@ -30,18 +83,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80107"
-      ]
-    },
-    {
-      "name": "ENGLEWOOD PUBLIC LIBRARY",
-      "system": "ENGLEWOOD PUBLIC LIBRARY",
-      "address": "1000 ENGLEWOOD PARKWAY, ENGLEWOOD, CO",
-      "website": "https://www.englewoodco.gov/parks-recreation-library-golf/englewood-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "80110"
+        "80101",
+        "80107",
+        "80117",
+        "80830",
+        "80835"
       ]
     },
     {
@@ -52,7 +98,142 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80120"
+        "80011",
+        "80012",
+        "80013",
+        "80014",
+        "80015",
+        "80016",
+        "80017",
+        "80018",
+        "800HH",
+        "80103",
+        "80105",
+        "80110",
+        "80111",
+        "80120",
+        "80121",
+        "80122",
+        "801XX"
+      ]
+    },
+    {
+      "name": "RANGEVIEW LIBRARY DISTRICT",
+      "system": "RANGEVIEW LIBRARY DISTRICT",
+      "address": "5877 EAST 120TH AVENUE, THORNTON, CO",
+      "website": "https://www.anythinklibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80010",
+        "80019",
+        "80022",
+        "80024",
+        "80030",
+        "800XX",
+        "80102",
+        "80136",
+        "80137",
+        "80221",
+        "80229",
+        "80233",
+        "80234",
+        "80241",
+        "80260",
+        "80601",
+        "80602",
+        "80640",
+        "806HH"
+      ]
+    },
+    {
+      "name": "PIKES PEAK LIBRARY DISTRICT",
+      "system": "PIKES PEAK LIBRARY DISTRICT",
+      "address": "20 N. CASCADE AVENUE, COLORADO SPRINGS, CO",
+      "website": "https://ppld.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80106",
+        "80132",
+        "80133",
+        "80808",
+        "80809",
+        "80817",
+        "80819",
+        "80829",
+        "80831",
+        "80832",
+        "80833",
+        "80840",
+        "80864",
+        "80903",
+        "80904",
+        "80905",
+        "80906",
+        "80907",
+        "80908",
+        "80909",
+        "80910",
+        "80913",
+        "80915",
+        "80916",
+        "80917",
+        "80918",
+        "80919",
+        "80920",
+        "80921",
+        "80922",
+        "80925",
+        "80926",
+        "80928",
+        "80929",
+        "80930"
+      ]
+    },
+    {
+      "name": "SECURITY PUBLIC LIBRARY",
+      "system": "SECURITY PUBLIC LIBRARY",
+      "address": "715 ASPEN DRIVE, SECURITY, CO",
+      "website": "https://www.securitypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80106",
+        "80132",
+        "80133",
+        "80808",
+        "80809",
+        "80817",
+        "80819",
+        "80829",
+        "80831",
+        "80832",
+        "80833",
+        "80840",
+        "80864",
+        "80904",
+        "80905",
+        "80906",
+        "80907",
+        "80908",
+        "80909",
+        "80910",
+        "80911",
+        "80913",
+        "80915",
+        "80916",
+        "80917",
+        "80918",
+        "80919",
+        "80920",
+        "80921",
+        "80922",
+        "80925",
+        "80926",
+        "80928",
+        "80929",
+        "80930"
       ]
     }
   ]

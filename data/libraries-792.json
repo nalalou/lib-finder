@@ -8,7 +8,80 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79235"
+        "79231",
+        "79235",
+        "79241"
+      ]
+    },
+    {
+      "name": "HALE CENTER PUBLIC LIBRARY INC",
+      "system": "HALE CENTER PUBLIC LIBRARY INC",
+      "address": "609 MAIN ST, HALE CENTER, TX",
+      "website": "https://librarytechnology.org/library/24281",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79021",
+        "79032",
+        "79041",
+        "79250",
+        "79311"
+      ]
+    },
+    {
+      "name": "UNGER MEMORIAL LIBRARY",
+      "system": "UNGER MEMORIAL LIBRARY",
+      "address": "825 N AUSTIN ST, PLAINVIEW, TX",
+      "website": "https://www.plainviewtx.org/141/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79021",
+        "79032",
+        "79072",
+        "79250",
+        "79311"
+      ]
+    },
+    {
+      "name": "COLLINGSWORTH PUBLIC LIBRARY",
+      "system": "COLLINGSWORTH PUBLIC LIBRARY",
+      "address": "711 15TH ST, WELLINGTON, TX",
+      "website": "https://www.collingsworthpubliclibrary.info/hours-and-contact-info.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79095",
+        "79230",
+        "79251"
+      ]
+    },
+    {
+      "name": "CARNEGIE CITY-COUNTY LIBRARY",
+      "system": "CARNEGIE CITY-COUNTY LIBRARY",
+      "address": "2810 WILBARGER ST, VERNON, TX",
+      "website": "https://www.vernonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76364",
+        "76373",
+        "76384",
+        "79247"
+      ]
+    },
+    {
+      "name": "DICKENS COUNTY SPUR PUBLIC LIBRARY",
+      "system": "DICKENS COUNTY SPUR PUBLIC LIBRARY",
+      "address": "403 E HILL ST, SPUR, TX",
+      "website": "https://spur.ploud.net/about-us/your-library-card",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79220",
+        "79229",
+        "79243",
+        "79370"
       ]
     },
     {
@@ -19,7 +92,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79244"
+        "79234",
+        "79244",
+        "79256"
       ]
     },
     {
@@ -30,7 +105,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79245"
+        "79233",
+        "79239",
+        "79245",
+        "79261"
       ]
     },
     {
@@ -41,6 +119,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79223",
         "79248"
       ]
     },
@@ -52,6 +131,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79225",
         "79252"
       ]
     },
@@ -74,7 +154,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79236"
+        "79232",
+        "79236",
+        "792XX"
       ]
     },
     {
@@ -85,7 +167,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79201"
+        "79201",
+        "79259"
       ]
     },
     {
@@ -96,7 +179,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79226"
+        "79226",
+        "79237",
+        "79240"
       ]
     },
     {
@@ -107,7 +192,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79255"
+        "79255",
+        "79257",
+        "792HH"
       ]
     }
   ]

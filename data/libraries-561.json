@@ -1,6 +1,22 @@
 {
   "libraries": [
     {
+      "name": "JACKSON COUNTY LIBRARY",
+      "system": "JACKSON COUNTY LIBRARY",
+      "address": "311 THIRD STREET, JACKSON, MN",
+      "website": "https://jacksoncounty.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56143",
+        "57521",
+        "57543",
+        "57547",
+        "57577",
+        "57750"
+      ]
+    },
+    {
       "name": "EDGERTON PUBLIC LIBRARY",
       "system": "EDGERTON PUBLIC LIBRARY",
       "address": "811 1ST AV W, EDGERTON, MN",
@@ -8,7 +24,111 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53505",
+        "53525",
+        "53534",
+        "53537",
+        "53546",
         "56128"
+      ]
+    },
+    {
+      "name": "MARSHALL-LYON COUNTY LIBRARY",
+      "system": "MARSHALL-LYON COUNTY LIBRARY",
+      "address": "201 C STREET, MARSHALL, MN",
+      "website": "https://marshalllyonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56115",
+        "56132",
+        "56157",
+        "56169",
+        "56229",
+        "56239",
+        "56258",
+        "56291"
+      ]
+    },
+    {
+      "name": "MORGAN PUBLIC LIBRARY",
+      "system": "MORGAN PUBLIC LIBRARY",
+      "address": "210 VERNON AVENUE, MORGAN, MN",
+      "website": "https://morganlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56083",
+        "56166",
+        "56180",
+        "56214",
+        "56224",
+        "56255",
+        "56263",
+        "56266",
+        "56287",
+        "56292",
+        "56294"
+      ]
+    },
+    {
+      "name": "REDWOOD FALLS PUBLIC LIBRARY",
+      "system": "REDWOOD FALLS PUBLIC LIBRARY",
+      "address": "509 SOUTH LINCOLN STREET, REDWOOD FALLS, MN",
+      "website": "https://redwoodfallslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56083",
+        "56166",
+        "56180",
+        "56214",
+        "56224",
+        "56255",
+        "56263",
+        "56283",
+        "56287",
+        "56292",
+        "56294"
+      ]
+    },
+    {
+      "name": "WABASSO PUBLIC LIBRARY",
+      "system": "WABASSO PUBLIC LIBRARY",
+      "address": "1248 OAK ST, WABASSO, MN",
+      "website": "https://wabassolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56083",
+        "56166",
+        "56180",
+        "56214",
+        "56224",
+        "56255",
+        "56263",
+        "56287",
+        "56292",
+        "56293",
+        "56294"
+      ]
+    },
+    {
+      "name": "MINNEOTA PUBLIC LIBRARY",
+      "system": "MINNEOTA PUBLIC LIBRARY",
+      "address": "200 N JEFFERSON ST, MINNEOTA, MN",
+      "website": "https://minneotalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56115",
+        "56132",
+        "56157",
+        "56169",
+        "56229",
+        "56239",
+        "56264",
+        "56291"
       ]
     },
     {
@@ -19,7 +139,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56131"
+        "56114",
+        "56122",
+        "56123",
+        "56131",
+        "56141",
+        "56151"
       ]
     },
     {
@@ -30,18 +155,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56142"
-      ]
-    },
-    {
-      "name": "JACKSON COUNTY LIBRARY",
-      "system": "JACKSON COUNTY LIBRARY",
-      "address": "311 THIRD STREET, JACKSON, MN",
-      "website": "https://jacksoncounty.yoursdlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56143"
+        "56113",
+        "56142",
+        "56178"
       ]
     },
     {
@@ -52,7 +168,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56149"
+        "56113",
+        "56149",
+        "56178"
       ]
     },
     {
@@ -63,7 +181,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56159"
+        "56118",
+        "56145",
+        "56159",
+        "56174",
+        "56183",
+        "561HH"
       ]
     },
     {
@@ -74,6 +197,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "56110",
+        "56117",
+        "56119",
+        "56129",
+        "56153",
+        "56155",
+        "56165",
+        "56167",
+        "56168",
+        "56185",
         "56187"
       ]
     },
@@ -85,7 +218,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56156"
+        "56116",
+        "56134",
+        "56138",
+        "56147",
+        "56156",
+        "56158",
+        "56173"
       ]
     },
     {
@@ -96,29 +235,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "56114",
+        "56122",
+        "56123",
+        "56141",
+        "56151",
         "56172"
-      ]
-    },
-    {
-      "name": "TYLER PUBLIC LIBRARY",
-      "system": "TYLER PUBLIC LIBRARY",
-      "address": "230 TYLER STREET N, TYLER, MN",
-      "website": "https://tylerlibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56178"
       ]
     },
     {
       "name": "WESTBROOK PUBLIC LIBRARY",
       "system": "WESTBROOK PUBLIC LIBRARY",
-      "address": "556 1ST AVENUE, WESTBROOK, MN",
+      "address": "61 GOODSPEED DR., WESTBROOK, CT",
       "website": "https://www.westbrookct.us/326/Westbrook-Public-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56183"
+        "06498",
+        "56118",
+        "56145",
+        "56174",
+        "56183",
+        "561HH"
       ]
     },
     {
@@ -129,7 +267,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56101"
+        "56101",
+        "56118",
+        "56145",
+        "56174",
+        "56183",
+        "561HH"
       ]
     },
     {
@@ -140,7 +283,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56152"
+        "56083",
+        "56152",
+        "56166",
+        "56180",
+        "56214",
+        "56224",
+        "56255",
+        "56263",
+        "56287",
+        "56292",
+        "56294"
       ]
     },
     {
@@ -151,7 +304,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56175"
+        "56115",
+        "56132",
+        "56157",
+        "56169",
+        "56175",
+        "56229",
+        "56239",
+        "56291"
       ]
     },
     {
@@ -162,7 +322,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56136"
+        "56113",
+        "56136",
+        "56178"
       ]
     },
     {
@@ -173,7 +335,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56164"
+        "56139",
+        "56140",
+        "56144",
+        "56164",
+        "56170",
+        "56177",
+        "56186"
+      ]
+    },
+    {
+      "name": "WATONWAN COUNTY LIBRARY",
+      "system": "WATONWAN COUNTY LIBRARY",
+      "address": "125 5TH STREET S, ST JAMES, MN",
+      "website": "https://www.watonwancountylibrary.com/st-james-mn-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56022",
+        "56056",
+        "56060",
+        "56062",
+        "56081",
+        "56120",
+        "56160"
       ]
     }
   ]

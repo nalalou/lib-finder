@@ -1,6 +1,42 @@
 {
   "libraries": [
     {
+      "name": "OLDHAM COUNTY PUBLIC LIBRARY",
+      "system": "OLDHAM COUNTY PUBLIC LIBRARY",
+      "address": "914 MAIN, VEGA, TX",
+      "website": "https://librarytechnology.org/library/10349",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79001",
+        "79010",
+        "79092",
+        "79098",
+        "884XX"
+      ]
+    },
+    {
+      "name": "AMARILLO PUBLIC LIBRARY",
+      "system": "AMARILLO PUBLIC LIBRARY",
+      "address": "413 E 4TH AVE, AMARILLO, TX",
+      "website": "https://www.amarillolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79012",
+        "79101",
+        "79102",
+        "79103",
+        "79104",
+        "79106",
+        "79107",
+        "79108",
+        "79111",
+        "79124",
+        "791XX"
+      ]
+    },
+    {
       "name": "RHOADS MEMORIAL LIBRARY",
       "system": "RHOADS MEMORIAL LIBRARY",
       "address": "103 SW 2ND ST, DIMMITT, TX",
@@ -8,7 +44,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79027"
+        "79027",
+        "79043",
+        "79063"
       ]
     },
     {
@@ -19,7 +57,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79029"
+        "79013",
+        "79029",
+        "79086"
       ]
     },
     {
@@ -30,7 +70,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79035"
+        "79009",
+        "79035",
+        "79053",
+        "79325"
       ]
     },
     {
@@ -41,7 +84,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79040"
+        "79040",
+        "79062"
       ]
     },
     {
@@ -52,7 +96,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79041"
+        "79021",
+        "79032",
+        "79041",
+        "79250",
+        "79311"
       ]
     },
     {
@@ -63,6 +111,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79025",
         "79045"
       ]
     },
@@ -74,6 +123,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79002",
+        "79054",
         "79057"
       ]
     },
@@ -85,6 +136,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79002",
+        "79054",
         "79065"
       ]
     },
@@ -96,7 +149,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79068"
+        "79039",
+        "79068",
+        "79080",
+        "79097"
       ]
     },
     {
@@ -107,7 +163,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79070"
+        "79033",
+        "79070",
+        "79093"
       ]
     },
     {
@@ -118,7 +176,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79072"
+        "79021",
+        "79032",
+        "79072",
+        "79250",
+        "79311"
       ]
     },
     {
@@ -129,6 +191,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79003",
+        "79011",
+        "79061",
         "79079"
       ]
     },
@@ -140,6 +205,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79062",
         "79081"
       ]
     },
@@ -162,6 +228,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79042",
+        "79052",
         "79088"
       ]
     },
@@ -173,7 +241,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79095"
+        "79095",
+        "79230",
+        "79251"
       ]
     },
     {
@@ -184,6 +254,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79003",
+        "79011",
+        "79061",
         "79096"
       ]
     },
@@ -195,7 +268,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79007"
+        "79007",
+        "79036",
+        "79078",
+        "79083",
+        "790HH"
       ]
     },
     {
@@ -206,7 +283,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79046"
+        "79024",
+        "79034",
+        "79046",
+        "79056"
       ]
     },
     {
@@ -217,18 +297,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79005"
-      ]
-    },
-    {
-      "name": "OLDHAM COUNTY PUBLIC LIBRARY",
-      "system": "OLDHAM COUNTY PUBLIC LIBRARY",
-      "address": "914 MAIN, VEGA, TX",
-      "website": "https://librarytechnology.org/library/10349",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "79092"
+        "79005",
+        "79024",
+        "79034",
+        "79056"
       ]
     },
     {
@@ -250,7 +322,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79015"
+        "79015",
+        "79091",
+        "79109",
+        "79110",
+        "79118",
+        "79119",
+        "79121",
+        "791HH"
       ]
     },
     {
@@ -261,7 +340,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79022"
+        "79022",
+        "79087"
       ]
     },
     {
@@ -272,7 +352,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79082"
+        "79031",
+        "79082",
+        "790XX",
+        "79312",
+        "79326",
+        "79369",
+        "79371",
+        "793XX"
       ]
     },
     {
@@ -283,7 +370,49 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79064"
+        "79031",
+        "79064",
+        "790XX",
+        "79312",
+        "79326",
+        "79369",
+        "79371",
+        "793XX"
+      ]
+    },
+    {
+      "name": "BOISE CITY - SOUTAR MEMORIAL LIBRARY",
+      "system": "BOISE CITY - SOUTAR MEMORIAL LIBRARY",
+      "address": "4 S. ELLIS AVE, BOISE CITY, OK",
+      "website": "https://soutarlibrary.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73933",
+        "73937",
+        "73946",
+        "73947",
+        "739HH",
+        "739XX",
+        "79051"
+      ]
+    },
+    {
+      "name": "LAMB COUNTY LIBRARY",
+      "system": "LAMB COUNTY LIBRARY",
+      "address": "110 E 6TH ST, LITTLEFIELD, TX",
+      "website": "https://www.littlefieldtexas.net/219/Lamb-County-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79031",
+        "790XX",
+        "79312",
+        "79326",
+        "79339",
+        "79369",
+        "79371",
+        "793XX"
       ]
     }
   ]

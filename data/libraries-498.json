@@ -8,7 +8,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49801"
+        "49801",
+        "49802",
+        "49815",
+        "49831",
+        "49834",
+        "49852",
+        "49870",
+        "49876",
+        "49877",
+        "49881",
+        "49892"
       ]
     },
     {
@@ -19,7 +29,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49829"
+        "49807",
+        "49818",
+        "49829",
+        "49835",
+        "49864",
+        "49872",
+        "49878",
+        "49880",
+        "49894"
       ]
     },
     {
@@ -30,7 +48,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49841"
+        "49808",
+        "49814",
+        "49833",
+        "49841",
+        "49861",
+        "49885"
       ]
     },
     {
@@ -41,7 +64,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49837"
+        "49807",
+        "49818",
+        "49835",
+        "49837",
+        "49864",
+        "49872",
+        "49878",
+        "49880",
+        "49894"
       ]
     },
     {
@@ -52,7 +83,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49849"
+        "49808",
+        "49814",
+        "49833",
+        "49849",
+        "49861",
+        "49885"
       ]
     },
     {
@@ -63,7 +99,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49854"
+        "49817",
+        "49836",
+        "49840",
+        "49854",
+        "49883",
+        "498XX"
       ]
     },
     {
@@ -74,7 +115,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49887"
+        "49812",
+        "49813",
+        "49821",
+        "49847",
+        "49848",
+        "49863",
+        "49873",
+        "49874",
+        "49886",
+        "49887",
+        "49893",
+        "49896"
       ]
     },
     {
@@ -85,7 +137,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49862"
+        "49806",
+        "49816",
+        "49822",
+        "49825",
+        "49826",
+        "49839",
+        "49862",
+        "49884",
+        "49891",
+        "49895",
+        "498HH"
       ]
     },
     {
@@ -96,7 +158,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49866"
+        "49808",
+        "49814",
+        "49833",
+        "49861",
+        "49866",
+        "49885"
       ]
     },
     {
@@ -107,7 +174,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49855"
+        "49808",
+        "49814",
+        "49833",
+        "49855",
+        "49861",
+        "49885"
       ]
     },
     {
@@ -118,7 +190,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49879"
+        "49808",
+        "49814",
+        "49833",
+        "49861",
+        "49879",
+        "49885"
       ]
     },
     {
@@ -129,7 +206,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49871"
+        "49808",
+        "49814",
+        "49833",
+        "49861",
+        "49871",
+        "49885"
       ]
     },
     {
@@ -140,7 +222,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49858"
+        "49812",
+        "49813",
+        "49821",
+        "49847",
+        "49848",
+        "49858",
+        "49863",
+        "49873",
+        "49874",
+        "49886",
+        "49893",
+        "49896"
       ]
     },
     {
@@ -151,7 +244,46 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49853",
         "49868"
+      ]
+    },
+    {
+      "name": "MACKINAC ISLAND PUBLIC LIBRARY",
+      "system": "MACKINAC ISLAND PUBLIC LIBRARY",
+      "address": "7549 MAIN STREET, MACKINAC ISLAND, MI",
+      "website": "https://mackinacislandlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49719",
+        "49745",
+        "49757",
+        "49760",
+        "49762",
+        "49775",
+        "49820",
+        "49827",
+        "49838"
+      ]
+    },
+    {
+      "name": "SAINT IGNACE PUBLIC LIBRARY",
+      "system": "SAINT IGNACE PUBLIC LIBRARY",
+      "address": "110 WEST SPRUCE STREET, ST. IGNACE, MI",
+      "website": "https://stignacelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49719",
+        "49745",
+        "49760",
+        "49762",
+        "49775",
+        "49781",
+        "49820",
+        "49827",
+        "49838"
       ]
     }
   ]

@@ -1,6 +1,105 @@
 {
   "libraries": [
     {
+      "name": "LAKOTA PUBLIC LIBRARY",
+      "system": "LAKOTA PUBLIC LIBRARY",
+      "address": "204 3RD ST, LAKOTA, IA",
+      "website": "https://www.chamberofcommerce.com/business-directory/iowa/lakota/public-library/2031366772-lakota-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50451",
+        "50517",
+        "50559",
+        "50560"
+      ]
+    },
+    {
+      "name": "TITONKA PUBLIC LIBRARY",
+      "system": "TITONKA PUBLIC LIBRARY",
+      "address": "136 MAIN ST N, TITONKA, IA",
+      "website": "https://www.titonka.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50480",
+        "50517",
+        "50559",
+        "50560"
+      ]
+    },
+    {
+      "name": "WESLEY PUBLIC LIBRARY",
+      "system": "WESLEY PUBLIC LIBRARY",
+      "address": "206 MAIN ST, WESLEY, IA",
+      "website": "https://librarytechnology.org/library/16812",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50483",
+        "50517",
+        "50559",
+        "50560"
+      ]
+    },
+    {
+      "name": "BELMOND PUBLIC LIBRARY",
+      "system": "BELMOND PUBLIC LIBRARY",
+      "address": "440 E MAIN ST, BELMOND, IA",
+      "website": "https://belmondiowa.com/city/city-departments/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50101",
+        "50421",
+        "50470",
+        "50542",
+        "50599"
+      ]
+    },
+    {
+      "name": "ESTHERVILLE PUBLIC LIBRARY",
+      "system": "ESTHERVILLE PUBLIC LIBRARY",
+      "address": "613 CENTRAL AVE, ESTHERVILLE, IA",
+      "website": "https://www.cityofestherville.org/departments/library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50531",
+        "51334",
+        "51344",
+        "51365"
+      ]
+    },
+    {
+      "name": "RUTHVEN PUBLIC LIBRARY",
+      "system": "RUTHVEN PUBLIC LIBRARY",
+      "address": "1301 GOWRIE ST, RUTHVEN, IA",
+      "website": "https://www.ruthven.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50515",
+        "50527",
+        "50528",
+        "51358"
+      ]
+    },
+    {
+      "name": "GRAETTINGER PUBLIC LIBRARY",
+      "system": "GRAETTINGER PUBLIC LIBRARY",
+      "address": "115 W ROBINS ST, GRAETTINGER, IA",
+      "website": "https://www.graettinger.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50515",
+        "50527",
+        "50528",
+        "51342"
+      ]
+    },
+    {
       "name": "KENDALL YOUNG LIBRARY",
       "system": "KENDALL YOUNG LIBRARY",
       "address": "1201 WILLSON AVE, WEBSTER CITY, IA",
@@ -8,6 +107,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50034",
+        "50075",
+        "50132",
+        "50231",
+        "50249",
         "50595"
       ]
     },
@@ -19,7 +123,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50578"
+        "50531",
+        "50578",
+        "51344",
+        "51365"
       ]
     },
     {
@@ -30,6 +137,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50515",
+        "50527",
+        "50528",
         "50536"
       ]
     },
@@ -41,18 +151,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50515",
+        "50527",
+        "50528",
         "50562"
-      ]
-    },
-    {
-      "name": "PALMER PUBLIC LIBRARY",
-      "system": "PALMER PUBLIC LIBRARY",
-      "address": "520 HANSON, PALMER, IA",
-      "website": "https://www.palmerlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50571"
       ]
     },
     {
@@ -63,7 +165,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50540"
+        "50540",
+        "50571"
       ]
     },
     {
@@ -74,7 +177,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50541"
+        "50541",
+        "50571"
       ]
     },
     {
@@ -85,7 +189,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50546"
+        "50546",
+        "50571"
       ]
     },
     {
@@ -96,7 +201,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50554"
+        "50554",
+        "50571"
       ]
     },
     {
@@ -107,6 +213,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50571",
         "50574"
       ]
     },
@@ -118,6 +225,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50571",
         "50581"
       ]
     },
@@ -129,18 +237,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50571",
         "50593"
       ]
     },
     {
       "name": "SOMERS PUBLIC LIBRARY",
       "system": "SOMERS PUBLIC LIBRARY",
-      "address": "516 6TH AVE, SOMERS, IA",
+      "address": "2 VISION BOULEVARD, SOMERS, CT",
       "website": "https://www.somerspubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50586"
+        "06071",
+        "50551",
+        "50552",
+        "50586",
+        "51449",
+        "514HH"
       ]
     },
     {
@@ -151,7 +265,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50583"
+        "50567",
+        "50583",
+        "51433"
       ]
     },
     {
@@ -162,7 +278,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50535"
+        "50535",
+        "50567",
+        "51433"
       ]
     },
     {
@@ -173,7 +291,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50556"
+        "50517",
+        "50556",
+        "50559",
+        "50560"
       ]
     },
     {
@@ -184,39 +305,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50519"
-      ]
-    },
-    {
-      "name": "HUMBOLDT PUBLIC LIBRARY",
-      "system": "HUMBOLDT PUBLIC LIBRARY",
-      "address": "30 N 6TH ST, HUMBOLDT, IA",
-      "website": "https://humboldtpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50548"
-      ]
-    },
-    {
-      "name": "LIVERMORE PUBLIC LIBRARY",
-      "system": "LIVERMORE PUBLIC LIBRARY",
-      "address": "402 5TH ST, LIVERMORE, IA",
-      "website": "http://livermore.lib.me.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50558"
+        "50519",
+        "50520",
+        "50529",
+        "50545",
+        "50548",
+        "50558",
+        "50570",
+        "50582",
+        "50591",
+        "505HH"
       ]
     },
     {
       "name": "LUVERNE PUBLIC LIBRARY",
       "system": "LUVERNE PUBLIC LIBRARY",
-      "address": "113 DEWITT ST, LUVERNE, IA",
+      "address": "148 EAST THIRD STREET, LUVERNE, AL",
       "website": "https://www.luvernepubliclibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "36049",
+        "50517",
+        "50559",
         "50560"
       ]
     },
@@ -228,7 +339,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50577"
+        "50520",
+        "50529",
+        "50545",
+        "50548",
+        "50558",
+        "50570",
+        "50577",
+        "50582",
+        "50591",
+        "505HH"
       ]
     },
     {
@@ -239,18 +359,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50511"
-      ]
-    },
-    {
-      "name": "BANCROFT PUBLIC LIBRARY",
-      "system": "BANCROFT PUBLIC LIBRARY",
-      "address": "208 E RAMSEY ST, BANCROFT, IA",
-      "website": "https://www.bancroftnebraska.com/community/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50517"
+        "50511",
+        "50517",
+        "50559",
+        "50560"
       ]
     },
     {
@@ -261,7 +373,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50522"
+        "50517",
+        "50522",
+        "50559",
+        "50560"
       ]
     },
     {
@@ -272,6 +387,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50517",
+        "50559",
+        "50560",
         "50590"
       ]
     },
@@ -283,6 +401,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50515",
+        "50527",
+        "50528",
         "50597"
       ]
     },
@@ -294,6 +415,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50517",
+        "50559",
+        "50560",
         "50598"
       ]
     },
@@ -305,7 +429,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50523"
+        "50518",
+        "50521",
+        "50523",
+        "50566",
+        "50569",
+        "50594"
       ]
     },
     {
@@ -316,7 +445,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50530"
+        "50518",
+        "50521",
+        "50530",
+        "50566",
+        "50569",
+        "50594"
       ]
     },
     {
@@ -327,7 +461,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50501"
+        "50501",
+        "50518",
+        "50521",
+        "50566",
+        "50569",
+        "50594"
       ]
     },
     {
@@ -338,7 +477,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50543"
+        "50518",
+        "50521",
+        "50543",
+        "50566",
+        "50569",
+        "50594"
       ]
     },
     {
@@ -349,7 +493,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50544"
+        "50518",
+        "50521",
+        "50544",
+        "50566",
+        "50569",
+        "50594"
       ]
     },
     {
@@ -360,7 +509,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50557"
+        "50518",
+        "50521",
+        "50557",
+        "50566",
+        "50569",
+        "50594"
       ]
     },
     {
@@ -371,7 +525,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50539"
+        "50517",
+        "50539",
+        "50559",
+        "50560"
       ]
     },
     {
@@ -382,7 +539,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50525"
+        "50101",
+        "50470",
+        "50525",
+        "50542",
+        "50599"
       ]
     },
     {
@@ -393,7 +554,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50533"
+        "50101",
+        "50470",
+        "50533",
+        "50542",
+        "50599"
       ]
     },
     {
@@ -404,7 +569,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50524"
+        "50518",
+        "50521",
+        "50524",
+        "50566",
+        "50569",
+        "50594"
       ]
     },
     {
@@ -415,7 +585,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50576"
+        "50565",
+        "50568",
+        "50576",
+        "50592"
       ]
     },
     {
@@ -426,7 +599,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50563"
+        "50551",
+        "50552",
+        "50563",
+        "50586",
+        "51449",
+        "514HH"
       ]
     },
     {
@@ -437,7 +615,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50579"
+        "50551",
+        "50552",
+        "50579",
+        "50586",
+        "51449",
+        "514HH"
       ]
     },
     {
@@ -448,6 +631,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50571",
         "50573"
       ]
     },
@@ -459,7 +643,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50532"
+        "50518",
+        "50521",
+        "50532",
+        "50566",
+        "50569",
+        "50594"
       ]
     },
     {
@@ -470,7 +659,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50561"
+        "50561",
+        "50567",
+        "51433"
       ]
     },
     {
@@ -481,29 +672,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50510"
-      ]
-    },
-    {
-      "name": "MARATHON PUBLIC LIBRARY",
-      "system": "MARATHON PUBLIC LIBRARY",
-      "address": "306 W ATTICA, MARATHON, IA",
-      "website": "https://www.marathon.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50565"
-      ]
-    },
-    {
-      "name": "NEWELL PUBLIC LIBRARY",
-      "system": "NEWELL PUBLIC LIBRARY",
-      "address": "205 E 2ND ST, NEWELL, IA",
-      "website": "https://newellpublic.yoursdlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50568"
+        "50510",
+        "50565",
+        "50568",
+        "50592"
       ]
     },
     {
@@ -514,7 +686,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50585"
+        "50565",
+        "50568",
+        "50585",
+        "50592"
       ]
     },
     {
@@ -525,7 +700,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50588"
+        "50565",
+        "50568",
+        "50588",
+        "50592"
       ]
     },
     {
@@ -536,7 +714,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50514"
+        "50514",
+        "50531",
+        "51344",
+        "51365"
       ]
     },
     {
@@ -547,7 +728,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50575"
+        "50551",
+        "50552",
+        "50575",
+        "50586",
+        "51449",
+        "514HH"
       ]
     },
     {
@@ -558,7 +744,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50538"
+        "50538",
+        "50551",
+        "50552",
+        "50586",
+        "51449",
+        "514HH"
       ]
     },
     {
@@ -569,7 +760,123 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50516"
+        "50516",
+        "50518",
+        "50521",
+        "50566",
+        "50569",
+        "50594"
+      ]
+    },
+    {
+      "name": "FIELD-CARNEGIE PUBLIC LIBRARY",
+      "system": "FIELD-CARNEGIE PUBLIC LIBRARY",
+      "address": "200 S WALNUT ST, ODEBOLT, IA",
+      "website": "https://www.odebolt.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50567",
+        "51433",
+        "51458"
+      ]
+    },
+    {
+      "name": "LAKE VIEW PUBLIC LIBRARY",
+      "system": "LAKE VIEW PUBLIC LIBRARY",
+      "address": "202 MAIN ST, LAKE VIEW, IA",
+      "website": "https://www.lakeview.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50567",
+        "51433",
+        "51450"
+      ]
+    },
+    {
+      "name": "WALL LAKE PUBLIC LIBRARY",
+      "system": "WALL LAKE PUBLIC LIBRARY",
+      "address": "116 MAIN ST, WALL LAKE, IA",
+      "website": "https://www.walllake.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50567",
+        "51433",
+        "51466"
+      ]
+    },
+    {
+      "name": "J.J. HANDS LIBRARY",
+      "system": "J.J. HANDS LIBRARY",
+      "address": "609 2ND. ST, LOHRVILLE, IA",
+      "website": "https://www.lohrville.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50551",
+        "50552",
+        "50586",
+        "51449",
+        "51453",
+        "514HH"
+      ]
+    },
+    {
+      "name": "DOWS COMMUNITY LIBRARY",
+      "system": "DOWS COMMUNITY LIBRARY",
+      "address": "114 W ELLSWORTH ST, DOWS, IA",
+      "website": "https://www.dows.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50071",
+        "50101",
+        "50470",
+        "50542",
+        "50599"
+      ]
+    },
+    {
+      "name": "ALTA COMMUNITY LIBRARY",
+      "system": "ALTA COMMUNITY LIBRARY",
+      "address": "1009 S MAIN ST, ALTA, IA",
+      "website": "https://www.alta.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50565",
+        "50568",
+        "50592",
+        "51002"
+      ]
+    },
+    {
+      "name": "LINN GROVE PUBLIC LIBRARY",
+      "system": "LINN GROVE PUBLIC LIBRARY",
+      "address": "110 WEAVER ST, LINN GROVE, IA",
+      "website": "https://librarytechnology.org/library/16961",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50565",
+        "50568",
+        "50592",
+        "51033"
+      ]
+    },
+    {
+      "name": "SCHALLER PUBLIC LIBRARY",
+      "system": "SCHALLER PUBLIC LIBRARY",
+      "address": "103 S MAIN, SCHALLER, IA",
+      "website": "https://www.schaller.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50567",
+        "51053",
+        "51433"
       ]
     }
   ]

@@ -1,6 +1,23 @@
 {
   "libraries": [
     {
+      "name": "EUNICE PUBLIC LIBRARY",
+      "system": "EUNICE PUBLIC LIBRARY",
+      "address": "1003 AVENUE N., EUNICE, NM",
+      "website": "https://cityofeunice.org/131/Eunice-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "88114",
+        "88213",
+        "88231",
+        "88242",
+        "88262",
+        "88264",
+        "88265"
+      ]
+    },
+    {
       "name": "ARTESIA PUBLIC LIBRARY",
       "system": "ARTESIA PUBLIC LIBRARY",
       "address": "205 W. QUAY AVE., ARTESIA, NM",
@@ -8,7 +25,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "88210"
+        "88210",
+        "88250",
+        "88253",
+        "88254",
+        "88255",
+        "88256",
+        "88263",
+        "88268"
       ]
     },
     {
@@ -19,18 +43,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "88220"
-      ]
-    },
-    {
-      "name": "EUNICE PUBLIC LIBRARY",
-      "system": "EUNICE PUBLIC LIBRARY",
-      "address": "1003 AVENUE N., EUNICE, NM",
-      "website": "https://cityofeunice.org/131/Eunice-Public-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "88231"
+        "88220",
+        "88250",
+        "88253",
+        "88254",
+        "88255",
+        "88256",
+        "88263",
+        "88268"
       ]
     },
     {
@@ -41,7 +61,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "88240"
+        "88114",
+        "88213",
+        "88240",
+        "88242",
+        "88262",
+        "88264",
+        "88265"
       ]
     },
     {
@@ -52,7 +78,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "88252"
+        "88114",
+        "88213",
+        "88242",
+        "88252",
+        "88262",
+        "88264",
+        "88265"
       ]
     },
     {
@@ -63,7 +95,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "88260"
+        "88114",
+        "88213",
+        "88242",
+        "88260",
+        "88262",
+        "88264",
+        "88265"
       ]
     },
     {
@@ -74,7 +112,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "88201"
+        "88201",
+        "88230",
+        "88232"
       ]
     },
     {
@@ -85,6 +125,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "88114",
+        "88213",
+        "88242",
+        "88262",
+        "88264",
+        "88265",
         "88267"
       ]
     }

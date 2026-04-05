@@ -1,6 +1,131 @@
 {
   "libraries": [
     {
+      "name": "VIKING LIBRARY SYSTEM",
+      "system": "VIKING LIBRARY SYSTEM",
+      "address": "1915 FIR AVENUE WEST, FERGUS FALLS, MN",
+      "website": "https://viking.lib.mn.us/places/fergus-falls-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56324",
+        "56361",
+        "56515",
+        "56518",
+        "56524",
+        "56527",
+        "56528",
+        "56533",
+        "56534",
+        "56537",
+        "56551",
+        "56567",
+        "56571",
+        "56576",
+        "56586",
+        "56587",
+        "56588"
+      ]
+    },
+    {
+      "name": "ELBOW LAKE: THORSON MEM LIBRARY",
+      "system": "ELBOW LAKE: THORSON MEM LIBRARY",
+      "address": "117 CENTRAL AVENUE, ELBOW LAKE, MN",
+      "website": "http://elbowlakepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56248",
+        "56274",
+        "56309",
+        "56311",
+        "56339",
+        "56531",
+        "56590"
+      ]
+    },
+    {
+      "name": "FERGUS FALLS PUBLIC LIBRARY",
+      "system": "FERGUS FALLS PUBLIC LIBRARY",
+      "address": "205 EAST HAMPDEN AVE, FERGUS FALLS, MN",
+      "website": "https://ffpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56324",
+        "56361",
+        "56515",
+        "56518",
+        "56524",
+        "56527",
+        "56528",
+        "56533",
+        "56534",
+        "56537",
+        "56551",
+        "56567",
+        "56571",
+        "56576",
+        "56586",
+        "56587",
+        "56588"
+      ]
+    },
+    {
+      "name": "PELICAN RAPIDS PUBLIC LIBRARY",
+      "system": "PELICAN RAPIDS PUBLIC LIBRARY",
+      "address": "25 WEST MILL AVENUE, PELICAN RAPIDS, MN",
+      "website": "https://viking.lib.mn.us/places/pelican-rapids-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56324",
+        "56361",
+        "56515",
+        "56518",
+        "56524",
+        "56527",
+        "56528",
+        "56533",
+        "56534",
+        "56551",
+        "56567",
+        "56571",
+        "56572",
+        "56576",
+        "56586",
+        "56587",
+        "56588"
+      ]
+    },
+    {
+      "name": "PERHAM AREA PUBLIC LIBRARY",
+      "system": "PERHAM AREA PUBLIC LIBRARY",
+      "address": "225 2ND AV NE, PERHAM, MN",
+      "website": "https://viking.lib.mn.us/places/perham-area-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56324",
+        "56361",
+        "56515",
+        "56518",
+        "56524",
+        "56527",
+        "56528",
+        "56533",
+        "56534",
+        "56551",
+        "56567",
+        "56571",
+        "56573",
+        "56576",
+        "56586",
+        "56587",
+        "56588"
+      ]
+    },
+    {
       "name": "GREAT RIVER REGIONAL LIBRARY",
       "system": "GREAT RIVER REGIONAL LIBRARY",
       "address": "1300 WEST ST. GERMAIN ST., ST CLOUD, MN",
@@ -8,18 +133,48 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56301"
+        "55329",
+        "55353",
+        "55382",
+        "56301",
+        "56303",
+        "56307",
+        "56310",
+        "56312",
+        "56316",
+        "56320",
+        "56325",
+        "56331",
+        "56335",
+        "56340",
+        "56352",
+        "56356",
+        "56362",
+        "56368",
+        "56369",
+        "56371",
+        "56374",
+        "56375",
+        "56376",
+        "56377",
+        "56378",
+        "56387"
       ]
     },
     {
       "name": "GLENWOOD PUBLIC LIBRARY",
       "system": "GLENWOOD PUBLIC LIBRARY",
-      "address": "108 SE FIRST AV, GLENWOOD, MN",
+      "address": "109 N VINE ST, GLENWOOD, IA",
       "website": "https://viking.lib.mn.us/places/glenwood-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56334"
+        "51534",
+        "56323",
+        "56334",
+        "56349",
+        "56381",
+        "56385"
       ]
     },
     {
@@ -30,7 +185,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56308"
+        "56308",
+        "56315",
+        "56319",
+        "56326",
+        "56327",
+        "56332",
+        "56343",
+        "56354",
+        "56355",
+        "56360"
       ]
     }
   ]

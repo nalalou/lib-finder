@@ -1,14 +1,98 @@
 {
   "libraries": [
     {
-      "name": "LEONARDVILLE CITY LIBRARY",
-      "system": "LEONARDVILLE CITY LIBRARY",
-      "address": "117 N. ERPELDING RD, LEONARDVILLE, KS",
-      "website": "https://leonardville.municipalimpact.com/library",
+      "name": "NORTONVILLE PUBLIC LIBRARY",
+      "system": "NORTONVILLE PUBLIC LIBRARY",
+      "address": "407 MAIN, NORTONVILLE, KS",
+      "website": "https://nortonville.nextkansas.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66449"
+        "66060",
+        "66066",
+        "66070",
+        "66073",
+        "66097",
+        "66429"
+      ]
+    },
+    {
+      "name": "OSKALOOSA PUBLIC LIBRARY",
+      "system": "OSKALOOSA PUBLIC LIBRARY",
+      "address": "301 S MARKET, OSKALOOSA, IA",
+      "website": "https://oskielibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52577",
+        "66066",
+        "66070",
+        "66073",
+        "66097",
+        "66429"
+      ]
+    },
+    {
+      "name": "DELAWARE TOWNSHIP LIBRARY",
+      "system": "DELAWARE TOWNSHIP LIBRARY",
+      "address": "421 MARY ST. #A, VALLEY FALLS, KS",
+      "website": "https://www.valleyfalls.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66066",
+        "66070",
+        "66073",
+        "66088",
+        "66097",
+        "66429"
+      ]
+    },
+    {
+      "name": "MCLOUTH PUBLIC LIBRARY",
+      "system": "MCLOUTH PUBLIC LIBRARY",
+      "address": "215 SOUTH UNION, MCLOUTH, KS",
+      "website": "https://mclouth.mykansaslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66054",
+        "66066",
+        "66070",
+        "66073",
+        "66097",
+        "66429"
+      ]
+    },
+    {
+      "name": "TOPEKA AND SHAWNEE COUNTY PUBLIC LIBRARY",
+      "system": "TOPEKA AND SHAWNEE COUNTY PUBLIC LIBRARY",
+      "address": "1515 SW 10TH AVE, TOPEKA, KS",
+      "website": "http://tscpl.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66402",
+        "66409",
+        "66542",
+        "66546",
+        "66603",
+        "66604",
+        "66605",
+        "66606",
+        "66607",
+        "66608",
+        "66609",
+        "66610",
+        "66611",
+        "66612",
+        "66614",
+        "66615",
+        "66616",
+        "66617",
+        "66618",
+        "66619",
+        "666HH"
       ]
     },
     {
@@ -19,7 +103,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66403"
+        "66403",
+        "68924",
+        "68945",
+        "68982"
+      ]
+    },
+    {
+      "name": "LEONARDVILLE CITY LIBRARY",
+      "system": "LEONARDVILLE CITY LIBRARY",
+      "address": "117 N. ERPELDING RD, LEONARDVILLE, KS",
+      "website": "https://leonardville.municipalimpact.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66442",
+        "66449",
+        "664XX",
+        "66503",
+        "66506",
+        "66517",
+        "66554",
+        "665XX"
       ]
     },
     {
@@ -30,7 +135,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66427"
+        "66406",
+        "66412",
+        "66427",
+        "66438",
+        "66518",
+        "66541",
+        "66548"
       ]
     },
     {
@@ -41,7 +152,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66411"
+        "66406",
+        "66411",
+        "66412",
+        "66438",
+        "66518",
+        "66541",
+        "66548"
       ]
     },
     {
@@ -52,7 +169,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66441"
+        "66441",
+        "664HH",
+        "66514"
       ]
     },
     {
@@ -63,7 +182,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66417"
+        "66404",
+        "66417",
+        "66428",
+        "66522"
       ]
     },
     {
@@ -74,7 +196,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66415"
+        "66404",
+        "66415",
+        "66428",
+        "66522"
       ]
     },
     {
@@ -85,7 +210,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66424"
+        "66424",
+        "66425",
+        "66515",
+        "66527",
+        "66532"
       ]
     },
     {
@@ -96,7 +225,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66413"
+        "66413",
+        "66510",
+        "66528",
+        "66537",
+        "66543"
       ]
     },
     {
@@ -107,7 +240,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66414"
+        "66414",
+        "66510",
+        "66528",
+        "66537",
+        "66543"
       ]
     },
     {
@@ -118,7 +255,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66451"
+        "66451",
+        "66510",
+        "66528",
+        "66537",
+        "66543"
       ]
     },
     {
@@ -129,7 +270,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66439"
+        "66425",
+        "66439",
+        "66515",
+        "66527",
+        "66532"
       ]
     },
     {
@@ -140,7 +285,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66434"
+        "66425",
+        "66434",
+        "66515",
+        "66527",
+        "66532"
       ]
     },
     {
@@ -151,7 +300,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66408"
+        "66404",
+        "66408",
+        "66428",
+        "66522"
       ]
     },
     {
@@ -162,7 +314,226 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66436"
+        "66416",
+        "66418",
+        "66419",
+        "66436",
+        "66440",
+        "66509",
+        "66516",
+        "66540",
+        "66552"
+      ]
+    },
+    {
+      "name": "WAMEGO PUBLIC LIBRARY",
+      "system": "WAMEGO PUBLIC LIBRARY",
+      "address": "431 LINCOLN AVENUE, WAMEGO, KS",
+      "website": "https://wamego.lib.nckls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66407",
+        "66422",
+        "66432",
+        "66450",
+        "66520",
+        "66521",
+        "66535",
+        "66547",
+        "66549"
+      ]
+    },
+    {
+      "name": "POTTAWATOMIE WABAUNSEE REGIONAL LIBRARY",
+      "system": "POTTAWATOMIE WABAUNSEE REGIONAL LIBRARY",
+      "address": "306 N. 5TH STREET, ST. MARYS, KS",
+      "website": "https://librarytechnology.org/library/18231",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66407",
+        "66422",
+        "66432",
+        "66450",
+        "66520",
+        "66521",
+        "66535",
+        "66536",
+        "66549"
+      ]
+    },
+    {
+      "name": "MANHATTAN PUBLIC LIBRARY",
+      "system": "MANHATTAN PUBLIC LIBRARY",
+      "address": "629 POYNTZ AVENUE, MANHATTAN, KS",
+      "website": "https://mhklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66442",
+        "664XX",
+        "66502",
+        "66503",
+        "66506",
+        "66517",
+        "66554",
+        "665XX"
+      ]
+    },
+    {
+      "name": "WETMORE PUBLIC LIBRARY",
+      "system": "WETMORE PUBLIC LIBRARY",
+      "address": "328 2ND ST., WETMORE, KS",
+      "website": "https://wetmore.nextkansas.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66404",
+        "66428",
+        "66522",
+        "66550"
+      ]
+    },
+    {
+      "name": "MERIDEN-OZAWKIE PUBLIC LIBRARY",
+      "system": "MERIDEN-OZAWKIE PUBLIC LIBRARY",
+      "address": "7272 K-4 HWY, STE D, MERIDEN, KS",
+      "website": "https://meriden-ozawkie.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66066",
+        "66070",
+        "66073",
+        "66097",
+        "66429",
+        "66512"
+      ]
+    },
+    {
+      "name": "ROSSVILLE COMMUNITY LIBRARY",
+      "system": "ROSSVILLE COMMUNITY LIBRARY",
+      "address": "407 MAIN, ROSSVILLE, KS",
+      "website": "https://www.rossvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66402",
+        "66409",
+        "66533",
+        "66542",
+        "66546",
+        "66603",
+        "66605",
+        "66606",
+        "66607",
+        "66608",
+        "66609",
+        "66610",
+        "66611",
+        "66612",
+        "66614",
+        "66615",
+        "66616",
+        "66617",
+        "66618",
+        "66619",
+        "666HH"
+      ]
+    },
+    {
+      "name": "SILVER LAKE LIBRARY",
+      "system": "SILVER LAKE LIBRARY",
+      "address": "203 RAILROAD, SILVER LAKE, KS",
+      "website": "https://silverlakelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66402",
+        "66409",
+        "66539",
+        "66542",
+        "66546",
+        "66603",
+        "66605",
+        "66606",
+        "66607",
+        "66608",
+        "66609",
+        "66610",
+        "66611",
+        "66612",
+        "66614",
+        "66615",
+        "66616",
+        "66617",
+        "66618",
+        "66619",
+        "666HH"
+      ]
+    },
+    {
+      "name": "MARY COTTON PUBLIC LIBRARY",
+      "system": "MARY COTTON PUBLIC LIBRARY",
+      "address": "915 VIRGINIA, SABETHA, KS",
+      "website": "https://www.sabethalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66404",
+        "66428",
+        "66522",
+        "66534"
+      ]
+    },
+    {
+      "name": "SENECA FREE LIBRARY",
+      "system": "SENECA FREE LIBRARY",
+      "address": "606 MAIN STREET, SENECA, KS",
+      "website": "https://seneca.nextkansas.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66404",
+        "66428",
+        "66522",
+        "66538"
+      ]
+    },
+    {
+      "name": "VERMILLION PUBLIC LIBRARY",
+      "system": "VERMILLION PUBLIC LIBRARY",
+      "address": "102 1/2 MAIN STREET, VERMILLION, KS",
+      "website": "https://vermillionpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66406",
+        "66412",
+        "66438",
+        "66518",
+        "66541",
+        "66544",
+        "66548"
+      ]
+    },
+    {
+      "name": "RILEY CITY LIBRARY",
+      "system": "RILEY CITY LIBRARY",
+      "address": "115 S. BROADWAY ST, RILEY, KS",
+      "website": "https://riley.lib.nckls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66442",
+        "664XX",
+        "66503",
+        "66506",
+        "66517",
+        "66531",
+        "66554",
+        "665XX"
       ]
     }
   ]

@@ -8,7 +8,160 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53910"
+        "53910",
+        "53934",
+        "53936",
+        "539HH",
+        "544HH",
+        "54613",
+        "546HH"
+      ]
+    },
+    {
+      "name": "BERLIN PUBLIC LIBRARY",
+      "system": "BERLIN PUBLIC LIBRARY",
+      "address": "23 CARTER STREET, BERLIN, MA",
+      "website": "https://www.berlinnh.gov/194/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01503",
+        "53926",
+        "53947",
+        "54923",
+        "54968"
+      ]
+    },
+    {
+      "name": "FOND DU LAC PUBLIC LIBRARY",
+      "system": "FOND DU LAC PUBLIC LIBRARY",
+      "address": "32 SHEBOYGAN ST., FOND DU LAC, WI",
+      "website": "https://fdlpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53019",
+        "53049",
+        "53057",
+        "53079",
+        "53931",
+        "54932",
+        "54935",
+        "54974",
+        "54979"
+      ]
+    },
+    {
+      "name": "CAESTECKER PUBLIC LIBRARY",
+      "system": "CAESTECKER PUBLIC LIBRARY",
+      "address": "518 HILL ST., GREEN LAKE, WI",
+      "website": "https://greenlakelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53926",
+        "53947",
+        "54923",
+        "54941",
+        "54968"
+      ]
+    },
+    {
+      "name": "NESHKORO PUBLIC LIBRARY",
+      "system": "NESHKORO PUBLIC LIBRARY",
+      "address": "132 S. MAIN ST., NESHKORO, WI",
+      "website": "https://neshkorolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53920",
+        "53952",
+        "54960"
+      ]
+    },
+    {
+      "name": "SPILLMAN PUBLIC LIBRARY",
+      "system": "SPILLMAN PUBLIC LIBRARY",
+      "address": "719 WISCONSIN AVE., NORTH FOND DU LAC, WI",
+      "website": "https://northfonddulaclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53019",
+        "53049",
+        "53057",
+        "53079",
+        "53931",
+        "54932",
+        "54937",
+        "54974",
+        "54979"
+      ]
+    },
+    {
+      "name": "RIPON PUBLIC LIBRARY",
+      "system": "RIPON PUBLIC LIBRARY",
+      "address": "120 JEFFERSON ST., RIPON, WI",
+      "website": "https://riponlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53019",
+        "53049",
+        "53057",
+        "53079",
+        "53931",
+        "54932",
+        "54971",
+        "54974",
+        "54979"
+      ]
+    },
+    {
+      "name": "OXFORD PUBLIC LIBRARY",
+      "system": "OXFORD PUBLIC LIBRARY",
+      "address": "49 GREAT OAK ROAD, OXFORD, CT",
+      "website": "http://oxford.njlibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06478",
+        "53920",
+        "53952"
+      ]
+    },
+    {
+      "name": "PORTAGE PUBLIC LIBRARY",
+      "system": "PORTAGE PUBLIC LIBRARY",
+      "address": "253 W. EDGEWATER ST., PORTAGE, WI",
+      "website": "https://www.portagelibrary.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "535HH",
+        "53901",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935"
+      ]
+    },
+    {
+      "name": "LESTER PUBLIC LIBRARY OF ROME",
+      "system": "LESTER PUBLIC LIBRARY OF ROME",
+      "address": "1157 ROME CENTER DR., NEKOOSA, WI",
+      "website": "https://www.romepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53934",
+        "53936",
+        "539HH",
+        "54457",
+        "544HH",
+        "54613",
+        "546HH"
       ]
     },
     {
@@ -19,7 +172,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53913"
+        "53561",
+        "53913",
+        "53937",
+        "53940",
+        "53943"
       ]
     },
     {
@@ -30,7 +187,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53916"
+        "53003",
+        "53016",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53916",
+        "53922"
       ]
     },
     {
@@ -41,7 +206,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53919"
+        "53019",
+        "53049",
+        "53057",
+        "53079",
+        "53919",
+        "53931",
+        "54932",
+        "54974",
+        "54979"
       ]
     },
     {
@@ -52,18 +225,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53923"
+        "535HH",
+        "53911",
+        "53923",
+        "53925",
+        "53928",
+        "53932",
+        "53935"
       ]
     },
     {
       "name": "COLUMBUS PUBLIC LIBRARY",
       "system": "COLUMBUS PUBLIC LIBRARY",
-      "address": "223 W. JAMES ST., COLUMBUS, WI",
+      "address": "2500 14TH STREET, SUITE 2, COLUMBUS, NE",
       "website": "https://www.columbusne.us/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53925"
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
+        "68601"
       ]
     },
     {
@@ -74,7 +259,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53929"
+        "53929",
+        "53944",
+        "53948",
+        "53962",
+        "54618",
+        "54637"
       ]
     },
     {
@@ -85,7 +275,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53930"
+        "53920",
+        "53930",
+        "53952"
       ]
     },
     {
@@ -96,6 +288,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53003",
+        "53016",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922",
         "53933"
       ]
     },
@@ -107,7 +307,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53939"
+        "53926",
+        "53939",
+        "53947",
+        "54923",
+        "54968"
       ]
     },
     {
@@ -118,7 +322,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53941"
+        "53561",
+        "53937",
+        "53940",
+        "53941",
+        "53943"
       ]
     },
     {
@@ -129,18 +337,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53946"
+        "53926",
+        "53946",
+        "53947",
+        "54923",
+        "54968"
       ]
     },
     {
       "name": "HATCH PUBLIC LIBRARY",
       "system": "HATCH PUBLIC LIBRARY",
-      "address": "111 W. STATE ST., MAUSTON, WI",
+      "address": "530 E. HALL, HATCH, NM",
       "website": "https://hatchpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53948"
+        "53944",
+        "53948",
+        "53962",
+        "54618",
+        "54637",
+        "87937"
       ]
     },
     {
@@ -151,7 +368,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53949"
+        "53920",
+        "53949",
+        "53952"
       ]
     },
     {
@@ -162,7 +381,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53950"
+        "53944",
+        "53948",
+        "53950",
+        "53962",
+        "54618",
+        "54637"
       ]
     },
     {
@@ -173,18 +397,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53561",
+        "53937",
+        "53940",
+        "53943",
         "53951"
-      ]
-    },
-    {
-      "name": "OXFORD PUBLIC LIBRARY",
-      "system": "OXFORD PUBLIC LIBRARY",
-      "address": "129 S. FRANKLIN AVE., OXFORD, WI",
-      "website": "http://oxford.njlibraries.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53952"
       ]
     },
     {
@@ -195,6 +412,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53920",
+        "53952",
         "53953"
       ]
     },
@@ -206,18 +425,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
         "53954"
-      ]
-    },
-    {
-      "name": "PORTAGE PUBLIC LIBRARY",
-      "system": "PORTAGE PUBLIC LIBRARY",
-      "address": "253 W. EDGEWATER ST., PORTAGE, WI",
-      "website": "https://www.portagelibrary.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53901"
       ]
     },
     {
@@ -228,6 +442,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
         "53955"
       ]
     },
@@ -239,6 +459,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
         "53956"
       ]
     },
@@ -250,6 +476,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53561",
+        "53937",
+        "53940",
+        "53943",
         "53959"
       ]
     },
@@ -261,6 +491,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
         "53960"
       ]
     },
@@ -272,6 +508,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53561",
+        "53937",
+        "53940",
+        "53943",
         "53961"
       ]
     },
@@ -283,6 +523,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53003",
+        "53016",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922",
         "53963"
       ]
     },
@@ -294,6 +542,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53920",
+        "53952",
         "53964"
       ]
     },
@@ -305,6 +555,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
         "53965"
       ]
     },
@@ -316,7 +572,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53968"
+        "53944",
+        "53948",
+        "53962",
+        "53968",
+        "54618",
+        "54637"
       ]
     },
     {
@@ -327,7 +588,360 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935",
         "53969"
+      ]
+    },
+    {
+      "name": "LONE ROCK COMMUNITY LIBRARY",
+      "system": "LONE ROCK COMMUNITY LIBRARY",
+      "address": "234 N. BROADWAY, LONE ROCK, WI",
+      "website": "http://www.villageoflonerock.com/lr_library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53518",
+        "53540",
+        "53556",
+        "53581",
+        "53924"
+      ]
+    },
+    {
+      "name": "KRAEMER LIBRARY & COMMUNITY CENTER",
+      "system": "KRAEMER LIBRARY & COMMUNITY CENTER",
+      "address": "910 MAIN ST., PLAIN, WI",
+      "website": "https://kfl.uccs.edu/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53561",
+        "53577",
+        "53937",
+        "53940",
+        "53943"
+      ]
+    },
+    {
+      "name": "RUTH CULVER COMMUNITY LIBRARY",
+      "system": "RUTH CULVER COMMUNITY LIBRARY",
+      "address": "540 WATER ST., PRAIRIE DU SAC, WI",
+      "website": "https://www.pdslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53561",
+        "53578",
+        "53937",
+        "53940",
+        "53943"
+      ]
+    },
+    {
+      "name": "BREWER PUBLIC LIBRARY",
+      "system": "BREWER PUBLIC LIBRARY",
+      "address": "100 SOUTH MAIN STREET, BREWER, ME",
+      "website": "https://www.brewermaine.gov/171/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04412",
+        "53518",
+        "53540",
+        "53581",
+        "53924"
+      ]
+    },
+    {
+      "name": "GEORGE CULVER COMMUNITY LIBRARY",
+      "system": "GEORGE CULVER COMMUNITY LIBRARY",
+      "address": "615 PHILLIPS BLVD., SAUK CITY, WI",
+      "website": "https://www.saukcitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53561",
+        "53583",
+        "53937",
+        "53940",
+        "53943"
+      ]
+    },
+    {
+      "name": "SPRING GREEN COMMUNITY LIBRARY",
+      "system": "SPRING GREEN COMMUNITY LIBRARY",
+      "address": "230 E. MONROE ST., SPRING GREEN, WI",
+      "website": "https://www.springgreenlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53561",
+        "53588",
+        "53937",
+        "53940",
+        "53943"
+      ]
+    },
+    {
+      "name": "LODI WOMAN'S CLUB PUBLIC LIBRARY",
+      "system": "LODI WOMAN'S CLUB PUBLIC LIBRARY",
+      "address": "130 LODI ST., LODI, WI",
+      "website": "https://www.lodipubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53555",
+        "535HH",
+        "53911",
+        "53925",
+        "53928",
+        "53932",
+        "53935"
+      ]
+    },
+    {
+      "name": "REESEVILLE PUBLIC LIBRARY",
+      "system": "REESEVILLE PUBLIC LIBRARY",
+      "address": "216 S. MAIN ST., REESEVILLE, WI",
+      "website": "https://reeseville.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53579",
+        "53922"
+      ]
+    },
+    {
+      "name": "BROWNSVILLE PUBLIC LIBRARY",
+      "system": "BROWNSVILLE PUBLIC LIBRARY",
+      "address": "379 MAIN ST., BROWNSVILLE, WI",
+      "website": "https://brownsville.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53006",
+        "53016",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "CAMPBELLSPORT PUBLIC LIBRARY",
+      "system": "CAMPBELLSPORT PUBLIC LIBRARY",
+      "address": "220 N. HELENA, CAMPBELLSPORT, WI",
+      "website": "https://campbellsportlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53010",
+        "53019",
+        "53049",
+        "53057",
+        "53079",
+        "53931",
+        "54932",
+        "54974",
+        "54979"
+      ]
+    },
+    {
+      "name": "HORICON PUBLIC LIBRARY",
+      "system": "HORICON PUBLIC LIBRARY",
+      "address": "404 E. LAKE ST., HORICON, WI",
+      "website": "http://www.horicon.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53032",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "JUNEAU PUBLIC LIBRARY",
+      "system": "JUNEAU PUBLIC LIBRARY",
+      "address": "250 N. FAIRFIELD AVE., JUNEAU, WI",
+      "website": "https://juneau.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53039",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "LOMIRA QUADGRAPHICS COMMUNITY LIBRARY",
+      "system": "LOMIRA QUADGRAPHICS COMMUNITY LIBRARY",
+      "address": "427 WATER ST., LOMIRA, WI",
+      "website": "https://lomira.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53047",
+        "53048",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "TED & GRACE BACHHUBER MEMORIAL LIBRARY",
+      "system": "TED & GRACE BACHHUBER MEMORIAL LIBRARY",
+      "address": "234 N. JOHN ST., MAYVILLE, WI",
+      "website": "https://www.mayville.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53047",
+        "53050",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "OAKFIELD PUBLIC LIBRARY",
+      "system": "OAKFIELD PUBLIC LIBRARY",
+      "address": "130 N. MAIN ST., OAKFIELD, WI",
+      "website": "https://oakfieldlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53019",
+        "53049",
+        "53057",
+        "53065",
+        "53079",
+        "53931",
+        "54932",
+        "54974",
+        "54979"
+      ]
+    },
+    {
+      "name": "THERESA PUBLIC LIBRARY",
+      "system": "THERESA PUBLIC LIBRARY",
+      "address": "290 MAYVILLE ST., THERESA, WI",
+      "website": "https://theresa.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53047",
+        "53059",
+        "53078",
+        "53091",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "HUSTISFORD COMMUNITY LIBRARY",
+      "system": "HUSTISFORD COMMUNITY LIBRARY",
+      "address": "609 W. JUNEAU ST., HUSTISFORD, WI",
+      "website": "https://hustisford.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53034",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "IRON RIDGE PUBLIC LIBRARY",
+      "system": "IRON RIDGE PUBLIC LIBRARY",
+      "address": "205 PARK ST., IRON RIDGE, WI",
+      "website": "https://ironridge.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53003",
+        "53016",
+        "53035",
+        "53047",
+        "53059",
+        "53078",
+        "53098",
+        "53557",
+        "53922"
+      ]
+    },
+    {
+      "name": "NECEDAH COMMUNITY-SIEGLER MEMORIAL LIBRARY",
+      "system": "NECEDAH COMMUNITY-SIEGLER MEMORIAL LIBRARY",
+      "address": "217 OAK GROVE DR., NECEDAH, WI",
+      "website": "https://necedahlibrary.wrlsweb.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53944",
+        "53948",
+        "53962",
+        "54618",
+        "54637",
+        "54646"
+      ]
+    },
+    {
+      "name": "VIOLA PUBLIC LIBRARY",
+      "system": "VIOLA PUBLIC LIBRARY",
+      "address": "137 S. MAIN ST., VIOLA, WI",
+      "website": "https://violapubliclibrary.wordpress.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53518",
+        "53540",
+        "53581",
+        "53924",
+        "54664"
       ]
     }
   ]

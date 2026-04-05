@@ -1,6 +1,58 @@
 {
   "libraries": [
     {
+      "name": "HOWARD COUNTY LIBRARY SYSTEM",
+      "system": "HOWARD COUNTY LIBRARY SYSTEM",
+      "address": "9411 FREDERICK ROAD, ELLICOTT CITY, MD",
+      "website": "https://www.hclibrary.org/locations/miller/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "20701",
+        "20723",
+        "20759",
+        "20763",
+        "20777",
+        "21029",
+        "21036",
+        "21042",
+        "21043",
+        "21044",
+        "21045",
+        "21046",
+        "21075",
+        "21723",
+        "21737",
+        "21738",
+        "21794",
+        "21797"
+      ]
+    },
+    {
+      "name": "CALVERT LIBRARY",
+      "system": "CALVERT LIBRARY",
+      "address": "850 COSTLEY WAY, PRINCE FREDERICK, MD",
+      "website": "https://calvertlibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "20615",
+        "20629",
+        "20639",
+        "20657",
+        "20676",
+        "20678",
+        "20685",
+        "20688",
+        "20689",
+        "206HH",
+        "20714",
+        "20732",
+        "20736",
+        "20754"
+      ]
+    },
+    {
       "name": "PRINCE GEORGE`S COUNTY MEMORIAL LIBRARY SYSTE",
       "system": "PRINCE GEORGE`S COUNTY MEMORIAL LIBRARY SYSTE",
       "address": "9601 CAPITAL LANE, LARGO, MD",

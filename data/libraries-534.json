@@ -8,7 +8,96 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53403"
+        "53108",
+        "53126",
+        "53139",
+        "53177",
+        "53402",
+        "53403",
+        "53404",
+        "53405",
+        "53406",
+        "534HH"
+      ]
+    },
+    {
+      "name": "WATERFORD PUBLIC LIBRARY",
+      "system": "WATERFORD PUBLIC LIBRARY",
+      "address": "101 N. RIVER ST., WATERFORD, WI",
+      "website": "https://waterfordlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53108",
+        "53126",
+        "53139",
+        "53177",
+        "53185",
+        "53402",
+        "53404",
+        "53405",
+        "53406",
+        "534HH"
+      ]
+    },
+    {
+      "name": "BURLINGTON PUBLIC LIBRARY",
+      "system": "BURLINGTON PUBLIC LIBRARY",
+      "address": "166 E. JEFFERSON ST., BURLINGTON, WI",
+      "website": "https://burlingtonctlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53105",
+        "53108",
+        "53126",
+        "53139",
+        "53177",
+        "53402",
+        "53404",
+        "53405",
+        "53406",
+        "534HH"
+      ]
+    },
+    {
+      "name": "ROCHESTER PUBLIC LIBRARY",
+      "system": "ROCHESTER PUBLIC LIBRARY",
+      "address": "208 W. SPRING ST., ROCHESTER, WI",
+      "website": "https://www.rpl.lib.nh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53108",
+        "53126",
+        "53139",
+        "53167",
+        "53177",
+        "53402",
+        "53404",
+        "53405",
+        "53406",
+        "534HH"
+      ]
+    },
+    {
+      "name": "GRAHAM PUBLIC LIBRARY",
+      "system": "GRAHAM PUBLIC LIBRARY",
+      "address": "1215 MAIN ST., UNION GROVE, WI",
+      "website": "https://www.uniongrove.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53108",
+        "53126",
+        "53139",
+        "53177",
+        "53182",
+        "53402",
+        "53404",
+        "53405",
+        "53406",
+        "534HH"
       ]
     }
   ]

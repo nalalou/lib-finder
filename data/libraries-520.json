@@ -1,91 +1,41 @@
 {
   "libraries": [
     {
-      "name": "COLESBURG PUBLIC LIBRARY",
-      "system": "COLESBURG PUBLIC LIBRARY",
-      "address": "220 MAIN ST, COLESBURG, IA",
-      "website": "https://www.colesburg.lib.ia.us/",
+      "name": "DELHI PUBLIC LIBRARY",
+      "system": "DELHI PUBLIC LIBRARY",
+      "address": "311 FRANKLIN ST, DELHI, IA",
+      "website": "https://www.delhi.lib.ia.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52035"
+        "50654",
+        "52036",
+        "52038",
+        "52050",
+        "52223",
+        "52237",
+        "52330"
       ]
     },
     {
-      "name": "EDGEWOOD PUBLIC LIBRARY",
-      "system": "EDGEWOOD PUBLIC LIBRARY",
-      "address": "203 W UNION ST, EDGEWOOD, IA",
-      "website": "https://www.edgewood.lib.ia.us/",
+      "name": "LOST NATION PUBLIC LIBRARY",
+      "system": "LOST NATION PUBLIC LIBRARY",
+      "address": "410 MAIN ST, LOST NATION, IA",
+      "website": "https://www.lostnation.lib.ia.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52042"
-      ]
-    },
-    {
-      "name": "ELKADER PUBLIC LIBRARY",
-      "system": "ELKADER PUBLIC LIBRARY",
-      "address": "130 N MAIN ST, ELKADER, IA",
-      "website": "https://www.elkader.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52043"
-      ]
-    },
-    {
-      "name": "GARNAVILLO PUBLIC LIBRARY",
-      "system": "GARNAVILLO PUBLIC LIBRARY",
-      "address": "112 S MAIN ST, GARNAVILLO, IA",
-      "website": "https://www.garnavillo.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52049"
-      ]
-    },
-    {
-      "name": "GUTTENBERG PUBLIC LIBRARY",
-      "system": "GUTTENBERG PUBLIC LIBRARY",
-      "address": "603 S SECOND ST, GUTTENBERG, IA",
-      "website": "https://www.guttenberg.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52052"
-      ]
-    },
-    {
-      "name": "STRAWBERRY POINT PUBLIC LIBRARY",
-      "system": "STRAWBERRY POINT PUBLIC LIBRARY",
-      "address": "401 COMMERCIAL ST, STRAWBERRY POINT, IA",
-      "website": "https://www.strawberrypoint.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52076"
-      ]
-    },
-    {
-      "name": "VOLGA PUBLIC LIBRARY",
-      "system": "VOLGA PUBLIC LIBRARY",
-      "address": "505 WASHINGTON ST, VOLGA, IA",
-      "website": "https://www.volga.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52077"
-      ]
-    },
-    {
-      "name": "RUTH SUCKOW MEMORIAL LIBRARY",
-      "system": "RUTH SUCKOW MEMORIAL LIBRARY",
-      "address": "122 NORTHERN AVE, EARLVILLE, IA",
-      "website": "https://librarytechnology.org/library/16711",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52041"
+        "52037",
+        "52226",
+        "52254",
+        "52701",
+        "52727",
+        "52731",
+        "52732",
+        "52750",
+        "52751",
+        "52757",
+        "52774"
       ]
     },
     {
@@ -96,7 +46,155 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52057"
+        "50654",
+        "52036",
+        "52038",
+        "52050",
+        "52057",
+        "52237",
+        "52330"
+      ]
+    },
+    {
+      "name": "COLESBURG PUBLIC LIBRARY",
+      "system": "COLESBURG PUBLIC LIBRARY",
+      "address": "220 MAIN ST, COLESBURG, IA",
+      "website": "https://www.colesburg.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50654",
+        "52035",
+        "52036",
+        "52038",
+        "52050",
+        "52237",
+        "52330"
+      ]
+    },
+    {
+      "name": "EDGEWOOD PUBLIC LIBRARY",
+      "system": "EDGEWOOD PUBLIC LIBRARY",
+      "address": "203 W UNION ST, EDGEWOOD, IA",
+      "website": "https://www.edgewood.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52042",
+        "52044",
+        "52048",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "ELKADER PUBLIC LIBRARY",
+      "system": "ELKADER PUBLIC LIBRARY",
+      "address": "130 N MAIN ST, ELKADER, IA",
+      "website": "https://www.elkader.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52043",
+        "52044",
+        "52048",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "GARNAVILLO PUBLIC LIBRARY",
+      "system": "GARNAVILLO PUBLIC LIBRARY",
+      "address": "112 S MAIN ST, GARNAVILLO, IA",
+      "website": "https://www.garnavillo.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52044",
+        "52048",
+        "52049",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "GUTTENBERG PUBLIC LIBRARY",
+      "system": "GUTTENBERG PUBLIC LIBRARY",
+      "address": "603 S SECOND ST, GUTTENBERG, IA",
+      "website": "https://www.guttenberg.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52044",
+        "52048",
+        "52052",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "STRAWBERRY POINT PUBLIC LIBRARY",
+      "system": "STRAWBERRY POINT PUBLIC LIBRARY",
+      "address": "401 COMMERCIAL ST, STRAWBERRY POINT, IA",
+      "website": "https://www.strawberrypoint.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52044",
+        "52048",
+        "52066",
+        "52072",
+        "52076",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "VOLGA PUBLIC LIBRARY",
+      "system": "VOLGA PUBLIC LIBRARY",
+      "address": "505 WASHINGTON ST, VOLGA, IA",
+      "website": "https://www.volga.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52044",
+        "52048",
+        "52066",
+        "52072",
+        "52077",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "RUTH SUCKOW MEMORIAL LIBRARY",
+      "system": "RUTH SUCKOW MEMORIAL LIBRARY",
+      "address": "122 NORTHERN AVE, EARLVILLE, IA",
+      "website": "https://librarytechnology.org/library/16711",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50654",
+        "52036",
+        "52038",
+        "52041",
+        "52050",
+        "52237",
+        "52330"
       ]
     },
     {
@@ -107,7 +205,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52001"
+        "52001",
+        "52003",
+        "52032",
+        "52039",
+        "52045",
+        "52046",
+        "52053",
+        "52056",
+        "52065",
+        "52068",
+        "52073",
+        "52078"
       ]
     },
     {
@@ -118,7 +227,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52002"
+        "52002",
+        "52003",
+        "52032",
+        "52039",
+        "52045",
+        "52046",
+        "52053",
+        "52056",
+        "52065",
+        "52068",
+        "52073",
+        "52078"
       ]
     },
     {
@@ -129,18 +249,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52040"
-      ]
-    },
-    {
-      "name": "BELLEVUE PUBLIC LIBRARY",
-      "system": "BELLEVUE PUBLIC LIBRARY",
-      "address": "106 N 3RD ST SUITE 1, BELLEVUE, IA",
-      "website": "https://www.bellevue.net/176/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52031"
+        "52003",
+        "52032",
+        "52039",
+        "52040",
+        "52045",
+        "52046",
+        "52053",
+        "52056",
+        "52065",
+        "52068",
+        "52073",
+        "52078"
       ]
     },
     {
@@ -151,7 +271,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52060"
+        "52030",
+        "52031",
+        "52054",
+        "52060",
+        "52064",
+        "52069",
+        "52071",
+        "52074",
+        "52075",
+        "52079",
+        "52207",
+        "52309"
       ]
     },
     {
@@ -162,18 +293,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52070"
-      ]
-    },
-    {
-      "name": "PRESTON PUBLIC LIBRARY",
-      "system": "PRESTON PUBLIC LIBRARY",
-      "address": "1 W GILLET, PRESTON, IA",
-      "website": "https://prestonpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52069"
+        "52030",
+        "52031",
+        "52054",
+        "52064",
+        "52069",
+        "52070",
+        "52071",
+        "52074",
+        "52075",
+        "52079",
+        "52207",
+        "52309"
       ]
     },
     {
@@ -184,7 +315,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52033"
+        "52003",
+        "52032",
+        "52033",
+        "52039",
+        "52045",
+        "52046",
+        "52053",
+        "52056",
+        "52065",
+        "52068",
+        "52073",
+        "52078"
       ]
     },
     {
@@ -195,7 +337,113 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52047"
+        "52044",
+        "52047",
+        "52048",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52158"
+      ]
+    },
+    {
+      "name": "MCGREGOR PUBLIC LIBRARY",
+      "system": "MCGREGOR PUBLIC LIBRARY",
+      "address": "334 MAIN ST, MCGREGOR, IA",
+      "website": "https://www.mcgregor.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52044",
+        "52048",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52157",
+        "52158"
+      ]
+    },
+    {
+      "name": "MURPHY HELWIG LIBRARY",
+      "system": "MURPHY HELWIG LIBRARY",
+      "address": "111 N PAGE ST, MONONA, IA",
+      "website": "https://www.monona.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52044",
+        "52048",
+        "52066",
+        "52072",
+        "520HH",
+        "52156",
+        "52158",
+        "52159"
+      ]
+    },
+    {
+      "name": "CALAMUS PUBLIC LIBRARY",
+      "system": "CALAMUS PUBLIC LIBRARY",
+      "address": "198 2ND ST, CALAMUS, IA",
+      "website": "http://calamusia.org/library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52037",
+        "52226",
+        "52701",
+        "52727",
+        "52729",
+        "52731",
+        "52732",
+        "52750",
+        "52751",
+        "52757",
+        "52774"
+      ]
+    },
+    {
+      "name": "CAMANCHE PUBLIC LIBRARY",
+      "system": "CAMANCHE PUBLIC LIBRARY",
+      "address": "102 12TH AVE, CAMANCHE, IA",
+      "website": "http://www.camanchepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52037",
+        "52226",
+        "52701",
+        "52727",
+        "52730",
+        "52731",
+        "52732",
+        "52750",
+        "52751",
+        "52757",
+        "52774"
+      ]
+    },
+    {
+      "name": "DEWITT COMMUNITY LIBRARY",
+      "system": "DEWITT COMMUNITY LIBRARY",
+      "address": "917 5TH AVE, DEWITT, IA",
+      "website": "https://www.dewitt.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52037",
+        "52226",
+        "52701",
+        "52727",
+        "52731",
+        "52732",
+        "52742",
+        "52750",
+        "52751",
+        "52757",
+        "52774"
       ]
     }
   ]

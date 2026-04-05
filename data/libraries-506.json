@@ -1,6 +1,492 @@
 {
   "libraries": [
     {
+      "name": "ALEXANDER PUBLIC LIBRARY",
+      "system": "ALEXANDER PUBLIC LIBRARY",
+      "address": "409 HARRIMAN ST, ALEXANDER, IA",
+      "website": "https://www.alexander.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50041",
+        "50227",
+        "50420",
+        "50441",
+        "50452",
+        "50475",
+        "50633"
+      ]
+    },
+    {
+      "name": "COULTER PUBLIC LIBRARY",
+      "system": "COULTER PUBLIC LIBRARY",
+      "address": "111 MAIN ST, COULTER, IA",
+      "website": "https://www.coulter.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50041",
+        "50227",
+        "50431",
+        "50441",
+        "50452",
+        "50475",
+        "50633"
+      ]
+    },
+    {
+      "name": "AURORA PUBLIC LIBRARY",
+      "system": "AURORA PUBLIC LIBRARY",
+      "address": "401 WOODRUFF ST, AURORA, IA",
+      "website": "https://eapld.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50607",
+        "55602",
+        "55702",
+        "55703",
+        "55705",
+        "55708",
+        "55710",
+        "55711",
+        "55717",
+        "55724",
+        "55725",
+        "55732",
+        "55736",
+        "55738",
+        "55751",
+        "55763",
+        "55765",
+        "55771",
+        "55779",
+        "55781",
+        "55782",
+        "55790",
+        "55796",
+        "55803",
+        "55804",
+        "55805",
+        "55806",
+        "55807",
+        "55808",
+        "55810",
+        "55811",
+        "55812",
+        "558HH"
+      ]
+    },
+    {
+      "name": "WINTHROP PUBLIC LIBRARY",
+      "system": "WINTHROP PUBLIC LIBRARY",
+      "address": "354 W MADISON ST, WINTHROP, IA",
+      "website": "https://www.winthropmnlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50682",
+        "55307",
+        "55335",
+        "55338",
+        "55396"
+      ]
+    },
+    {
+      "name": "INDEPENDENCE PUBLIC LIBRARY",
+      "system": "INDEPENDENCE PUBLIC LIBRARY",
+      "address": "805 1ST ST E, INDEPENDENCE, IA",
+      "website": "http://iplks.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50644",
+        "54625",
+        "54747",
+        "54760"
+      ]
+    },
+    {
+      "name": "PLAINFIELD PUBLIC LIBRARY",
+      "system": "PLAINFIELD PUBLIC LIBRARY",
+      "address": "723 MAIN ST, PLAINFIELD, IA",
+      "website": "https://plainfieldlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50666",
+        "54930",
+        "54966",
+        "54976"
+      ]
+    },
+    {
+      "name": "NASHUA PUBLIC LIBRARY",
+      "system": "NASHUA PUBLIC LIBRARY",
+      "address": "220 BRASHER ST, NASHUA, IA",
+      "website": "http://www.nashualibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03033",
+        "03060",
+        "03062",
+        "03063",
+        "03064",
+        "03076",
+        "03084",
+        "030HH",
+        "03101",
+        "03102",
+        "03103",
+        "03109",
+        "03110",
+        "031HH",
+        "034HH",
+        "50658"
+      ]
+    },
+    {
+      "name": "IONIA COMMUNITY LIBRARY",
+      "system": "IONIA COMMUNITY LIBRARY",
+      "address": "101 W IOWA ST, IONIA, IA",
+      "website": "https://www.ionia.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48815",
+        "48845",
+        "48846",
+        "48860",
+        "48865",
+        "48873",
+        "50645"
+      ]
+    },
+    {
+      "name": "DELHI PUBLIC LIBRARY",
+      "system": "DELHI PUBLIC LIBRARY",
+      "address": "311 FRANKLIN ST, DELHI, IA",
+      "website": "https://www.delhi.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50654",
+        "52036",
+        "52038",
+        "52050",
+        "52223",
+        "52237",
+        "52330"
+      ]
+    },
+    {
+      "name": "ELBERON PUBLIC LIBRARY",
+      "system": "ELBERON PUBLIC LIBRARY",
+      "address": "106 MAIN ST, ELBERON, IA",
+      "website": "https://www.elberon.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50173",
+        "50612",
+        "50652",
+        "52215",
+        "52225",
+        "52348"
+      ]
+    },
+    {
+      "name": "NORMA ANDERS PUBLIC LIBRARY",
+      "system": "NORMA ANDERS PUBLIC LIBRARY",
+      "address": "320 MAIN, DYSART, IA",
+      "website": "https://www.dysart.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50173",
+        "50612",
+        "50652",
+        "52215",
+        "52224",
+        "52348"
+      ]
+    },
+    {
+      "name": "CLUTIER PUBLIC LIBRARY",
+      "system": "CLUTIER PUBLIC LIBRARY",
+      "address": "404 MAIN, CLUTIER, IA",
+      "website": "https://www.clutier.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50173",
+        "50612",
+        "50652",
+        "52215",
+        "52217",
+        "52348"
+      ]
+    },
+    {
+      "name": "MANCHESTER PUBLIC LIBRARY",
+      "system": "MANCHESTER PUBLIC LIBRARY",
+      "address": "304 N FRANKLIN ST, MANCHESTER, IA",
+      "website": "https://www.manchesterct.gov/Government/Departments/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50654",
+        "52036",
+        "52038",
+        "52050",
+        "52057",
+        "52237",
+        "52330"
+      ]
+    },
+    {
+      "name": "WAVERLY PUBLIC LIBRARY",
+      "system": "WAVERLY PUBLIC LIBRARY",
+      "address": "1500 W BREMER AVE, WAVERLY, IA",
+      "website": "https://www.waverlyil.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50677",
+        "62601",
+        "62628",
+        "62631",
+        "62638",
+        "62650",
+        "62668",
+        "62692",
+        "62695"
+      ]
+    },
+    {
+      "name": "LOUISE & LUCILE HINK/TAMA PUBLIC LIBRARY",
+      "system": "LOUISE & LUCILE HINK/TAMA PUBLIC LIBRARY",
+      "address": "401 SIEGEL ST, TAMA, IA",
+      "website": "https://www.google.com/search?q=LOUISE+&+LUCILE+HINK/TAMA+PUBLIC+LIBRARY+TAMA+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50173",
+        "50612",
+        "50652",
+        "52215",
+        "52339",
+        "52348"
+      ]
+    },
+    {
+      "name": "COLESBURG PUBLIC LIBRARY",
+      "system": "COLESBURG PUBLIC LIBRARY",
+      "address": "220 MAIN ST, COLESBURG, IA",
+      "website": "https://www.colesburg.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50654",
+        "52035",
+        "52036",
+        "52038",
+        "52050",
+        "52237",
+        "52330"
+      ]
+    },
+    {
+      "name": "RUTH SUCKOW MEMORIAL LIBRARY",
+      "system": "RUTH SUCKOW MEMORIAL LIBRARY",
+      "address": "122 NORTHERN AVE, EARLVILLE, IA",
+      "website": "https://librarytechnology.org/library/16711",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50654",
+        "52036",
+        "52038",
+        "52041",
+        "52050",
+        "52237",
+        "52330"
+      ]
+    },
+    {
+      "name": "CONRAD PUBLIC LIBRARY",
+      "system": "CONRAD PUBLIC LIBRARY",
+      "address": "114 N MAIN ST, CONRAD, IA",
+      "website": "https://www.conradlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50621",
+        "59416",
+        "59425",
+        "59432",
+        "59448"
+      ]
+    },
+    {
+      "name": "WAUCOMA PUBLIC LIBRARY",
+      "system": "WAUCOMA PUBLIC LIBRARY",
+      "address": "103 1ST AVE SW, WAUCOMA, IA",
+      "website": "https://search.ne211.org/search/cccf5551-fa28-5b5c-9edc-5bfe0e90114e",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50606",
+        "52141",
+        "52164",
+        "52166",
+        "52171"
+      ]
+    },
+    {
+      "name": "CLERMONT PUBLIC LIBRARY",
+      "system": "CLERMONT PUBLIC LIBRARY",
+      "address": "503 LARRABEE ST, CLERMONT, IA",
+      "website": "https://www.clermont.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50606",
+        "52135",
+        "52141",
+        "52164",
+        "52166"
+      ]
+    },
+    {
+      "name": "FAYETTE COMMUNITY LIBRARY",
+      "system": "FAYETTE COMMUNITY LIBRARY",
+      "address": "104 W STATE ST, FAYETTE, IA",
+      "website": "https://www.fayettelibrary.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50606",
+        "52141",
+        "52142",
+        "52164",
+        "52166"
+      ]
+    },
+    {
+      "name": "HAWKEYE PUBLIC LIBRARY",
+      "system": "HAWKEYE PUBLIC LIBRARY",
+      "address": "104 S 2ND ST, HAWKEYE, IA",
+      "website": "https://www.hawkeye.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50606",
+        "52141",
+        "52147",
+        "52164",
+        "52166"
+      ]
+    },
+    {
+      "name": "WADENA PUBLIC LIBRARY",
+      "system": "WADENA PUBLIC LIBRARY",
+      "address": "136 S MILL ST, WADENA, IA",
+      "website": "https://www.wadena.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50606",
+        "52141",
+        "52164",
+        "52166",
+        "52169"
+      ]
+    },
+    {
+      "name": "WEST UNION COMMUNITY LIBRARY",
+      "system": "WEST UNION COMMUNITY LIBRARY",
+      "address": "210 N VINE ST, WEST UNION, IA",
+      "website": "https://www.westunion.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50606",
+        "52141",
+        "52164",
+        "52166",
+        "52175"
+      ]
+    },
+    {
+      "name": "ELMA PUBLIC LIBRARY",
+      "system": "ELMA PUBLIC LIBRARY",
+      "address": "319 OAK ST, ELMA, IA",
+      "website": "https://www.elma.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "14026",
+        "14030",
+        "14031",
+        "14032",
+        "14033",
+        "14043",
+        "14047",
+        "14051",
+        "14055",
+        "14059",
+        "14068",
+        "14069",
+        "14075",
+        "14080",
+        "14081",
+        "14085",
+        "14086",
+        "14091",
+        "14134",
+        "14139",
+        "14170",
+        "14201",
+        "14202",
+        "14204",
+        "14206",
+        "14207",
+        "14208",
+        "14209",
+        "14210",
+        "14211",
+        "14212",
+        "14213",
+        "14214",
+        "14215",
+        "14216",
+        "14219",
+        "14220",
+        "14221",
+        "14222",
+        "14223",
+        "14225",
+        "14226",
+        "14228",
+        "142HH",
+        "50628"
+      ]
+    },
+    {
+      "name": "DENVER PUBLIC LIBRARY",
+      "system": "DENVER PUBLIC LIBRARY",
+      "address": "100 WASHINGTON ST, DENVER, IA",
+      "website": "http://denverlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50622",
+        "50631"
+      ]
+    },
+    {
       "name": "ACKLEY PUBLIC LIBRARY",
       "system": "ACKLEY PUBLIC LIBRARY",
       "address": "401 STATE ST, ACKLEY, IA",
@@ -8,6 +494,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50102",
+        "50122",
+        "50206",
+        "50269",
         "50601"
       ]
     },
@@ -19,6 +509,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50102",
+        "50122",
+        "50206",
+        "50269",
         "50627"
       ]
     },
@@ -30,7 +524,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50609"
+        "50609",
+        "50642",
+        "50673"
       ]
     },
     {
@@ -41,6 +537,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50605",
+        "50611",
+        "50649",
         "50670"
       ]
     },
@@ -52,7 +551,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50624"
+        "50624",
+        "50642",
+        "50673"
       ]
     },
     {
@@ -67,17 +568,6 @@
       ]
     },
     {
-      "name": "NASHUA PUBLIC LIBRARY",
-      "system": "NASHUA PUBLIC LIBRARY",
-      "address": "220 BRASHER ST, NASHUA, IA",
-      "website": "http://www.nashualibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50658"
-      ]
-    },
-    {
       "name": "NEW HAMPTON PUBLIC LIBRARY",
       "system": "NEW HAMPTON PUBLIC LIBRARY",
       "address": "20 W SPRING ST, NEW HAMPTON, IA",
@@ -89,17 +579,6 @@
       ]
     },
     {
-      "name": "IONIA COMMUNITY LIBRARY",
-      "system": "IONIA COMMUNITY LIBRARY",
-      "address": "101 W IOWA ST, IONIA, IA",
-      "website": "https://www.ionia.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50645"
-      ]
-    },
-    {
       "name": "STEAMBOAT ROCK PUBLIC LIBRARY",
       "system": "STEAMBOAT ROCK PUBLIC LIBRARY",
       "address": "511 MARKET ST, STEAMBOAT ROCK, IA",
@@ -107,6 +586,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50102",
+        "50122",
+        "50206",
+        "50269",
         "50672"
       ]
     },
@@ -129,6 +612,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50435",
+        "50468",
         "50616"
       ]
     },
@@ -140,18 +625,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50435",
+        "50468",
         "50653"
-      ]
-    },
-    {
-      "name": "PLAINFIELD PUBLIC LIBRARY",
-      "system": "PLAINFIELD PUBLIC LIBRARY",
-      "address": "723 MAIN ST, PLAINFIELD, IA",
-      "website": "https://plainfieldlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50666"
       ]
     },
     {
@@ -162,7 +638,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50613"
+        "50613",
+        "50623",
+        "50634",
+        "50643",
+        "50667",
+        "506HH",
+        "50702",
+        "50703",
+        "50706",
+        "507HH"
       ]
     },
     {
@@ -173,18 +658,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50626"
-      ]
-    },
-    {
-      "name": "HUDSON PUBLIC LIBRARY",
-      "system": "HUDSON PUBLIC LIBRARY",
-      "address": "401 5TH ST, HUDSON, IA",
-      "website": "https://www.townofhudson.org/159/Hudson-Public-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50643"
+        "50623",
+        "50626",
+        "50634",
+        "50643",
+        "50667",
+        "506HH",
+        "50702",
+        "50703",
+        "50706",
+        "507HH"
       ]
     },
     {
@@ -195,6 +678,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50631",
         "50647"
       ]
     },
@@ -206,18 +690,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50651"
-      ]
-    },
-    {
-      "name": "DENVER PUBLIC LIBRARY",
-      "system": "DENVER PUBLIC LIBRARY",
-      "address": "100 WASHINGTON ST, DENVER, IA",
-      "website": "http://denverlibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50622"
+        "50623",
+        "50634",
+        "50643",
+        "50651",
+        "50667",
+        "506HH",
+        "50702",
+        "50703",
+        "50706",
+        "507HH"
       ]
     },
     {
@@ -228,6 +710,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50631",
         "50668"
       ]
     },
@@ -239,6 +722,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50631",
         "50674"
       ]
     },
@@ -250,18 +734,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50631",
         "50676"
-      ]
-    },
-    {
-      "name": "WAVERLY PUBLIC LIBRARY",
-      "system": "WAVERLY PUBLIC LIBRARY",
-      "address": "1500 W BREMER AVE, WAVERLY, IA",
-      "website": "https://www.waverlyil.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50677"
       ]
     },
     {
@@ -272,18 +746,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50629"
-      ]
-    },
-    {
-      "name": "INDEPENDENCE PUBLIC LIBRARY",
-      "system": "INDEPENDENCE PUBLIC LIBRARY",
-      "address": "805 1ST ST E, INDEPENDENCE, IA",
-      "website": "http://iplks.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50644"
+        "50629",
+        "50641",
+        "50671",
+        "52210",
+        "52326",
+        "52329"
       ]
     },
     {
@@ -294,7 +762,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50648"
+        "50641",
+        "50648",
+        "50671",
+        "52210",
+        "52326",
+        "52329"
       ]
     },
     {
@@ -305,18 +778,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50650"
-      ]
-    },
-    {
-      "name": "WINTHROP PUBLIC LIBRARY",
-      "system": "WINTHROP PUBLIC LIBRARY",
-      "address": "354 W MADISON ST, WINTHROP, IA",
-      "website": "https://www.winthropmnlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50682"
+        "50641",
+        "50650",
+        "50671",
+        "52210",
+        "52326",
+        "52329"
       ]
     },
     {
@@ -327,7 +794,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50602"
+        "50602",
+        "50605",
+        "50611",
+        "50649"
       ]
     },
     {
@@ -338,7 +808,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50604"
+        "50604",
+        "50605",
+        "50611",
+        "50649"
       ]
     },
     {
@@ -349,7 +822,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50619"
+        "50605",
+        "50611",
+        "50619",
+        "50649"
       ]
     },
     {
@@ -360,7 +836,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50636"
+        "50605",
+        "50611",
+        "50636",
+        "50649"
       ]
     },
     {
@@ -371,6 +850,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50605",
+        "50611",
+        "50649",
         "50660"
       ]
     },
@@ -382,6 +864,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50605",
+        "50611",
+        "50649",
         "50665"
       ]
     },
@@ -393,7 +878,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50632"
+        "50173",
+        "50612",
+        "50632",
+        "50652",
+        "52215",
+        "52348"
       ]
     },
     {
@@ -404,7 +894,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50635"
+        "50173",
+        "50612",
+        "50635",
+        "50652",
+        "52215",
+        "52348"
       ]
     },
     {
@@ -415,18 +910,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50675"
-      ]
-    },
-    {
-      "name": "ARLINGTON PUBLIC LIBRARY",
-      "system": "ARLINGTON PUBLIC LIBRARY",
-      "address": "711 MAIN ST, ARLINGTON, IA",
-      "website": "http://library.arlingtonva.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50606"
+        "50173",
+        "50612",
+        "50652",
+        "50675",
+        "52215",
+        "52348"
       ]
     },
     {
@@ -437,7 +926,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50655"
+        "50606",
+        "50655",
+        "52141",
+        "52164",
+        "52166"
       ]
     },
     {
@@ -448,7 +941,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50662"
+        "50606",
+        "50662",
+        "52141",
+        "52164",
+        "52166"
       ]
     },
     {
@@ -459,18 +956,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50681"
-      ]
-    },
-    {
-      "name": "CONRAD PUBLIC LIBRARY",
-      "system": "CONRAD PUBLIC LIBRARY",
-      "address": "114 N MAIN ST, CONRAD, IA",
-      "website": "https://www.conradlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50621"
+        "50606",
+        "50681",
+        "52141",
+        "52164",
+        "52166"
       ]
     },
     {
@@ -481,7 +971,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50638"
+        "50638",
+        "50642",
+        "50673"
       ]
     },
     {
@@ -492,7 +984,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50669"
+        "50642",
+        "50669",
+        "50673"
       ]
     },
     {
@@ -503,18 +997,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50642",
+        "50673",
         "50680"
-      ]
-    },
-    {
-      "name": "ELMA PUBLIC LIBRARY",
-      "system": "ELMA PUBLIC LIBRARY",
-      "address": "319 OAK ST, ELMA, IA",
-      "website": "https://www.elma.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50628"
       ]
     },
     {
@@ -525,18 +1010,50 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50625"
+        "50605",
+        "50611",
+        "50625",
+        "50649"
       ]
     },
     {
-      "name": "AURORA PUBLIC LIBRARY",
-      "system": "AURORA PUBLIC LIBRARY",
-      "address": "401 WOODRUFF ST, AURORA, IA",
-      "website": "https://eapld.org",
+      "name": "WATERLOO PUBLIC LIBRARY",
+      "system": "WATERLOO PUBLIC LIBRARY",
+      "address": "415 COMMERCIAL ST, WATERLOO, IA",
+      "website": "https://www.waterloopubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50607"
+        "50623",
+        "50634",
+        "50643",
+        "50667",
+        "506HH",
+        "50701",
+        "50702",
+        "50703",
+        "50706",
+        "507HH"
+      ]
+    },
+    {
+      "name": "EVANSDALE PUBLIC LIBRARY",
+      "system": "EVANSDALE PUBLIC LIBRARY",
+      "address": "123 N EVANS RD, EVANSDALE, IA",
+      "website": "https://www.evansdale.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50623",
+        "50634",
+        "50643",
+        "50667",
+        "506HH",
+        "50702",
+        "50703",
+        "50706",
+        "50707",
+        "507HH"
       ]
     }
   ]

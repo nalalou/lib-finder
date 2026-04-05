@@ -1,6 +1,29 @@
 {
   "libraries": [
     {
+      "name": "BARRY-LAWRENCE REGIONAL LIBRARY",
+      "system": "BARRY-LAWRENCE REGIONAL LIBRARY",
+      "address": "213 SIXTH ST, MONETT, MO",
+      "website": "https://www.blrlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "64874",
+        "65623",
+        "65625",
+        "65641",
+        "65647",
+        "65658",
+        "656HH",
+        "65708",
+        "65734",
+        "65745",
+        "65747",
+        "65772",
+        "657HH"
+      ]
+    },
+    {
       "name": "SARCOXIE PUBLIC LIBRARY",
       "system": "SARCOXIE PUBLIC LIBRARY",
       "address": "506 CENTER ST, SARCOXIE, MO",
@@ -8,6 +31,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "64755",
+        "64801",
+        "64830",
+        "64832",
+        "64833",
+        "64834",
+        "64835",
+        "64841",
+        "64849",
+        "64855",
+        "64857",
+        "64859",
         "64862"
       ]
     },
@@ -19,7 +54,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "64804"
+        "64755",
+        "64801",
+        "64804",
+        "64830",
+        "64832",
+        "64833",
+        "64834",
+        "64835",
+        "64841",
+        "64849",
+        "64855",
+        "64857",
+        "64859"
       ]
     },
     {
@@ -30,7 +77,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "64850"
+        "64840",
+        "64842",
+        "64844",
+        "64850",
+        "64858",
+        "64865",
+        "64866"
       ]
     },
     {
@@ -41,7 +94,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "64856"
+        "64831",
+        "64843",
+        "64847",
+        "64854",
+        "64856",
+        "64861",
+        "64863",
+        "64867",
+        "65730"
       ]
     },
     {
@@ -52,6 +113,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "64755",
+        "64801",
+        "64830",
+        "64832",
+        "64833",
+        "64834",
+        "64835",
+        "64841",
+        "64849",
+        "64855",
+        "64857",
+        "64859",
         "64870"
       ]
     },
@@ -63,7 +136,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "64836"
+        "64755",
+        "64801",
+        "64830",
+        "64832",
+        "64833",
+        "64834",
+        "64835",
+        "64836",
+        "64841",
+        "64849",
+        "64855",
+        "64857",
+        "64859"
       ]
     }
   ]

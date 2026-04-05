@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "AURORA PUBLIC LIBRARY",
-      "system": "AURORA PUBLIC LIBRARY",
-      "address": "14949 E ALAMEDA PARKWAY, AURORA, CO",
-      "website": "https://eapld.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "80012"
-      ]
-    },
-    {
       "name": "BROOMFIELD/EISENHOWER PUBLIC LIBRARY",
       "system": "BROOMFIELD/EISENHOWER PUBLIC LIBRARY",
       "address": "3 COMMUNITY PARK ROAD, BROOMFIELD, CO",
@@ -23,28 +12,6 @@
       ]
     },
     {
-      "name": "LAFAYETTE PUBLIC LIBRARY",
-      "system": "LAFAYETTE PUBLIC LIBRARY",
-      "address": "775 W BASELINE RD, LAFAYETTE, CO",
-      "website": "https://lafayetteco.gov/2570/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "80026"
-      ]
-    },
-    {
-      "name": "LOUISVILLE PUBLIC LIBRARY",
-      "system": "LOUISVILLE PUBLIC LIBRARY",
-      "address": "951 SPRUCE STREET, LOUISVILLE, CO",
-      "website": "http://www.louisvillenelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "80027"
-      ]
-    },
-    {
       "name": "WESTMINSTER PUBLIC LIBRARY",
       "system": "WESTMINSTER PUBLIC LIBRARY",
       "address": "3705 W. 112TH AVE, WESTMINSTER, CO",
@@ -52,7 +19,196 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80031"
+        "80010",
+        "80019",
+        "80022",
+        "80024",
+        "80030",
+        "80031",
+        "800XX",
+        "80102",
+        "80136",
+        "80137",
+        "80221",
+        "80229",
+        "80233",
+        "80234",
+        "80241",
+        "80260",
+        "80601",
+        "80640",
+        "806HH"
+      ]
+    },
+    {
+      "name": "ARAPAHOE LIBRARY DISTRICT",
+      "system": "ARAPAHOE LIBRARY DISTRICT",
+      "address": "12855 E. ADAM AIRCRAFT CIRCLE, ENGLEWOOD, CO",
+      "website": "https://arapahoelibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80011",
+        "80012",
+        "80013",
+        "80014",
+        "80015",
+        "80016",
+        "80017",
+        "80018",
+        "800HH",
+        "80103",
+        "80105",
+        "80110",
+        "80111",
+        "80112",
+        "80121",
+        "80122",
+        "801XX"
+      ]
+    },
+    {
+      "name": "LITTLETON/BEMIS PUBLIC LIBRARY",
+      "system": "LITTLETON/BEMIS PUBLIC LIBRARY",
+      "address": "6014 S. DATURA ST., LITTLETON, CO",
+      "website": "https://www.library.littletonco.gov/Home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80011",
+        "80012",
+        "80013",
+        "80014",
+        "80015",
+        "80016",
+        "80017",
+        "80018",
+        "800HH",
+        "80103",
+        "80105",
+        "80110",
+        "80111",
+        "80120",
+        "80121",
+        "80122",
+        "801XX"
+      ]
+    },
+    {
+      "name": "RANGEVIEW LIBRARY DISTRICT",
+      "system": "RANGEVIEW LIBRARY DISTRICT",
+      "address": "5877 EAST 120TH AVENUE, THORNTON, CO",
+      "website": "https://www.anythinklibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80010",
+        "80019",
+        "80022",
+        "80024",
+        "80030",
+        "800XX",
+        "80102",
+        "80136",
+        "80137",
+        "80221",
+        "80229",
+        "80233",
+        "80234",
+        "80241",
+        "80260",
+        "80601",
+        "80602",
+        "80640",
+        "806HH"
+      ]
+    },
+    {
+      "name": "BOULDER COUNTY NEDERLAND COMMUNITY LIBRARY DISTRICT",
+      "system": "BOULDER COUNTY NEDERLAND COMMUNITY LIBRARY DISTRICT",
+      "address": "200 HIGHWAY 72 NORTH, NEDERLAND, CO",
+      "website": "https://nederland.colibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80303",
+        "80304",
+        "80455",
+        "80466",
+        "80481",
+        "80503",
+        "80510",
+        "80516"
+      ]
+    },
+    {
+      "name": "LONGMONT PUBLIC LIBRARY",
+      "system": "LONGMONT PUBLIC LIBRARY",
+      "address": "409 4TH AVE, LONGMONT, CO",
+      "website": "https://longmontcolorado.gov/Library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80303",
+        "80304",
+        "80455",
+        "80481",
+        "80501",
+        "80503",
+        "80510",
+        "80516"
+      ]
+    },
+    {
+      "name": "LYONS REGIONAL LIBRARY DISTRICT",
+      "system": "LYONS REGIONAL LIBRARY DISTRICT",
+      "address": "451 4TH AVENUE, LYONS, CO",
+      "website": "https://lyons.colibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80303",
+        "80304",
+        "80455",
+        "80481",
+        "80503",
+        "80510",
+        "80516",
+        "80540"
+      ]
+    },
+    {
+      "name": "BOULDER PUBLIC LIBRARY",
+      "system": "BOULDER PUBLIC LIBRARY",
+      "address": "1001 ARAPAHOE AVENUE, BOULDER, CO",
+      "website": "http://boulderlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80302",
+        "80303",
+        "80304",
+        "80455",
+        "80481",
+        "80503",
+        "80510",
+        "80516"
       ]
     }
   ]

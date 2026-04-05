@@ -1,6 +1,52 @@
 {
   "libraries": [
     {
+      "name": "WASHINGTON COUNTY PUBLIC LIBRARY",
+      "system": "WASHINGTON COUNTY PUBLIC LIBRARY",
+      "address": "200 SABIN DRIVE, JONESBOROUGH, TN",
+      "website": "https://www.wcplib.info/marietta-branch",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24202",
+        "24210",
+        "24211",
+        "24236",
+        "24270",
+        "24327",
+        "24340",
+        "24361",
+        "37659"
+      ]
+    },
+    {
+      "name": "TAZEWELL COUNTY PUBLIC LIBRARY",
+      "system": "TAZEWELL COUNTY PUBLIC LIBRARY",
+      "address": "129 MAIN STREET, TAZEWELL, VA",
+      "website": "https://tcplweb.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24316",
+        "24377",
+        "24601",
+        "24602",
+        "24604",
+        "24605",
+        "24606",
+        "24609",
+        "24612",
+        "24613",
+        "24622",
+        "24630",
+        "24635",
+        "24637",
+        "24639",
+        "24641",
+        "24651"
+      ]
+    },
+    {
       "name": "GALAX-CARROLL REGIONAL LIBRARY",
       "system": "GALAX-CARROLL REGIONAL LIBRARY",
       "address": "610 W. STUART DRIVE, GALAX, VA",
@@ -8,7 +54,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24333"
+        "24312",
+        "24317",
+        "24325",
+        "24328",
+        "24333",
+        "24343",
+        "24351",
+        "24352",
+        "24381",
+        "243HH"
       ]
     },
     {
@@ -19,7 +74,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24301"
+        "24058",
+        "24084",
+        "24132",
+        "24301",
+        "24324",
+        "24347"
       ]
     },
     {
@@ -30,7 +90,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24354"
+        "24311",
+        "24319",
+        "24354",
+        "24370",
+        "24375"
       ]
     },
     {
@@ -41,7 +105,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24348"
+        "24292",
+        "24326",
+        "24330",
+        "24348",
+        "24363",
+        "24378"
       ]
     },
     {
@@ -52,7 +121,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24315"
+        "24314",
+        "24315",
+        "24318",
+        "24366"
       ]
     }
   ]

@@ -1,25 +1,30 @@
 {
   "libraries": [
     {
-      "name": "CAMDEN TOWNSHIP LIBRARY",
-      "system": "CAMDEN TOWNSHIP LIBRARY",
-      "address": "119 SOUTH MAIN STREET, CAMDEN, MI",
-      "website": "https://www.camdenlibrary.org/",
+      "name": "EAST LANSING PUBLIC LIBRARY",
+      "system": "EAST LANSING PUBLIC LIBRARY",
+      "address": "950 ABBOT ROAD, EAST LANSING, MI",
+      "website": "https://www.elpl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49232"
-      ]
-    },
-    {
-      "name": "CLINTON TOWNSHIP PUBLIC LIBRARY",
-      "system": "CLINTON TOWNSHIP PUBLIC LIBRARY",
-      "address": "100 BROWN STREET, CLINTON, MI",
-      "website": "https://www.ctplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49236"
+        "48819",
+        "48823",
+        "48824",
+        "48840",
+        "48842",
+        "48854",
+        "48864",
+        "48892",
+        "48895",
+        "48906",
+        "48910",
+        "48911",
+        "48912",
+        "48915",
+        "49251",
+        "49264",
+        "49285"
       ]
     },
     {
@@ -30,7 +35,57 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "43008",
+        "43013",
+        "43018",
+        "43025",
+        "43031",
+        "43033",
+        "43056",
+        "43071",
+        "43080",
+        "43721",
         "49245"
+      ]
+    },
+    {
+      "name": "CAMDEN TOWNSHIP LIBRARY",
+      "system": "CAMDEN TOWNSHIP LIBRARY",
+      "address": "119 SOUTH MAIN STREET, CAMDEN, MI",
+      "website": "https://www.camdenlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49227",
+        "49232",
+        "49249",
+        "49266",
+        "49281"
+      ]
+    },
+    {
+      "name": "CLINTON TOWNSHIP PUBLIC LIBRARY",
+      "system": "CLINTON TOWNSHIP PUBLIC LIBRARY",
+      "address": "110 SOUTH ELM STREET, WATERMAN, IL",
+      "website": "https://www.ctplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49220",
+        "49229",
+        "49233",
+        "49235",
+        "49236",
+        "49238",
+        "49248",
+        "49253",
+        "49265",
+        "49268",
+        "49276",
+        "49279",
+        "49287",
+        "49289",
+        "60556"
       ]
     },
     {
@@ -41,7 +96,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49247"
+        "49220",
+        "49229",
+        "49233",
+        "49235",
+        "49236",
+        "49238",
+        "49247",
+        "49248",
+        "49253",
+        "49265",
+        "49268",
+        "49276",
+        "49279",
+        "49287",
+        "49289"
       ]
     },
     {
@@ -52,7 +121,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49201"
+        "49201",
+        "49202",
+        "49203",
+        "49230",
+        "49234",
+        "49237",
+        "49240",
+        "49241",
+        "49246",
+        "49254",
+        "49259",
+        "49263",
+        "49269",
+        "49272",
+        "49277",
+        "49283",
+        "49284"
       ]
     },
     {
@@ -63,7 +148,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49250"
+        "49227",
+        "49249",
+        "49250",
+        "49266",
+        "49281"
       ]
     },
     {
@@ -74,7 +163,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49221"
+        "49220",
+        "49221",
+        "49229",
+        "49233",
+        "49235",
+        "49236",
+        "49238",
+        "49248",
+        "49253",
+        "49265",
+        "49268",
+        "49276",
+        "49279",
+        "49287",
+        "49289"
       ]
     },
     {
@@ -85,7 +188,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49252"
+        "49227",
+        "49249",
+        "49252",
+        "49266",
+        "49281"
       ]
     },
     {
@@ -96,7 +203,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49242"
+        "49227",
+        "49242",
+        "49249",
+        "49266",
+        "49281"
       ]
     },
     {
@@ -107,7 +218,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49262"
+        "49227",
+        "49249",
+        "49262",
+        "49266",
+        "49281"
       ]
     },
     {
@@ -118,7 +233,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49271"
+        "49227",
+        "49249",
+        "49266",
+        "49271",
+        "49281"
       ]
     },
     {
@@ -129,7 +248,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49274"
+        "49227",
+        "49249",
+        "49266",
+        "49274",
+        "49281"
       ]
     },
     {
@@ -140,6 +263,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49227",
+        "49249",
+        "49266",
+        "49281",
         "49282"
       ]
     },
@@ -151,7 +278,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49256"
+        "49220",
+        "49229",
+        "49233",
+        "49235",
+        "49236",
+        "49238",
+        "49248",
+        "49253",
+        "49256",
+        "49265",
+        "49268",
+        "49276",
+        "49279",
+        "49287",
+        "49289"
       ]
     },
     {
@@ -162,7 +303,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49286"
+        "49220",
+        "49229",
+        "49233",
+        "49235",
+        "49236",
+        "49238",
+        "49248",
+        "49253",
+        "49265",
+        "49268",
+        "49276",
+        "49279",
+        "49286",
+        "49287",
+        "49289"
       ]
     },
     {
@@ -173,6 +328,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49227",
+        "49249",
+        "49266",
+        "49281",
         "49288"
       ]
     },
@@ -184,7 +343,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49221"
+        "49220",
+        "49221",
+        "49229",
+        "49233",
+        "49235",
+        "49236",
+        "49238",
+        "49248",
+        "49253",
+        "49265",
+        "49268",
+        "49276",
+        "49279",
+        "49287",
+        "49289"
       ]
     },
     {
@@ -195,7 +368,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49224"
+        "49014",
+        "49015",
+        "49016",
+        "49033",
+        "49051",
+        "49224",
+        "492HH"
       ]
     },
     {
@@ -206,7 +385,174 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49228"
+        "49220",
+        "49228",
+        "49229",
+        "49233",
+        "49235",
+        "49236",
+        "49238",
+        "49248",
+        "49253",
+        "49265",
+        "49268",
+        "49276",
+        "49279",
+        "49287",
+        "49289"
+      ]
+    },
+    {
+      "name": "CAPITAL AREA DISTRICT LIBRARY",
+      "system": "CAPITAL AREA DISTRICT LIBRARY",
+      "address": "401 SOUTH CAPITOL AVENUE, LANSING, MI",
+      "website": "https://www.cadl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48819",
+        "48824",
+        "48840",
+        "48842",
+        "48854",
+        "48864",
+        "48892",
+        "48895",
+        "48906",
+        "48910",
+        "48911",
+        "48912",
+        "48915",
+        "48933",
+        "49251",
+        "49264",
+        "49285"
+      ]
+    },
+    {
+      "name": "ATHENS COMMUNITY LIBRARY",
+      "system": "ATHENS COMMUNITY LIBRARY",
+      "address": "106 EAST BURR OAK STREET, ATHENS, MI",
+      "website": "https://www.athenscommunitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49011",
+        "49014",
+        "49015",
+        "49016",
+        "49033",
+        "49051",
+        "492HH"
+      ]
+    },
+    {
+      "name": "BRANCH DISTRICT LIBRARY",
+      "system": "BRANCH DISTRICT LIBRARY",
+      "address": "10 EAST CHICAGO STREET, COLDWATER, MI",
+      "website": "https://www.branchdistrictlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49028",
+        "49036",
+        "49082",
+        "49089",
+        "49094",
+        "49255"
+      ]
+    },
+    {
+      "name": "BURLINGTON TOWNSHIP LIBRARY",
+      "system": "BURLINGTON TOWNSHIP LIBRARY",
+      "address": "135 ELM STREET, BURLINGTON, MI",
+      "website": "https://burlingtontownshipcalhouncountymi.com/library-information/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49014",
+        "49015",
+        "49016",
+        "49029",
+        "49033",
+        "49051",
+        "492HH"
+      ]
+    },
+    {
+      "name": "MARSHALL DISTRICT LIBRARY",
+      "system": "MARSHALL DISTRICT LIBRARY",
+      "address": "124 WEST GREEN STREET, MARSHALL, MI",
+      "website": "https://www.yourmdl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49014",
+        "49015",
+        "49016",
+        "49033",
+        "49051",
+        "49068",
+        "492HH"
+      ]
+    },
+    {
+      "name": "TEKONSHA TOWNSHIP PUBLIC LIBRARY",
+      "system": "TEKONSHA TOWNSHIP PUBLIC LIBRARY",
+      "address": "230 SOUTH CHURCH STREET, TEKONSHA, MI",
+      "website": "https://www.tekonlib.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49014",
+        "49015",
+        "49016",
+        "49033",
+        "49051",
+        "49092",
+        "492HH"
+      ]
+    },
+    {
+      "name": "WILLARD PUBLIC LIBRARY",
+      "system": "WILLARD PUBLIC LIBRARY",
+      "address": "7 WEST VAN BUREN STREET, BATTLE CREEK, MI",
+      "website": "https://willardlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49014",
+        "49015",
+        "49016",
+        "49017",
+        "49033",
+        "49051",
+        "492HH"
+      ]
+    },
+    {
+      "name": "MONROE COUNTY LIBRARY SYSTEM",
+      "system": "MONROE COUNTY LIBRARY SYSTEM",
+      "address": "840 SOUTH ROESSLER STREET, MONROE, MI",
+      "website": "https://saturn.monroe.lib.mi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48117",
+        "48131",
+        "48133",
+        "48140",
+        "48144",
+        "48145",
+        "48157",
+        "48159",
+        "48161",
+        "48162",
+        "48166",
+        "48179",
+        "48182",
+        "49267",
+        "49270"
       ]
     }
   ]

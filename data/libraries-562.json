@@ -1,80 +1,77 @@
 {
   "libraries": [
     {
-      "name": "PIONEERLAND LIBRARY SYSTEM",
-      "system": "PIONEERLAND LIBRARY SYSTEM",
-      "address": "410 5TH STREET SW, WILLMAR, MN",
-      "website": "https://www.pioneerland.lib.mn.us/",
+      "name": "ELBOW LAKE: THORSON MEM LIBRARY",
+      "system": "ELBOW LAKE: THORSON MEM LIBRARY",
+      "address": "117 CENTRAL AVENUE, ELBOW LAKE, MN",
+      "website": "http://elbowlakepubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56201"
+        "56248",
+        "56274",
+        "56309",
+        "56311",
+        "56339",
+        "56531",
+        "56590"
       ]
     },
     {
-      "name": "MARSHALL-LYON COUNTY LIBRARY",
-      "system": "MARSHALL-LYON COUNTY LIBRARY",
-      "address": "201 C STREET, MARSHALL, MN",
-      "website": "https://marshalllyonlibrary.org/",
+      "name": "SISSETON MEMORIAL LIBRARY",
+      "system": "SISSETON MEMORIAL LIBRARY",
+      "address": "305 E MAPLE ST, SISSETON, SD",
+      "website": "https://sissetonmemorial.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56258"
+        "562HH",
+        "57224",
+        "57227",
+        "57255",
+        "57257",
+        "57260",
+        "57262",
+        "57266",
+        "57279"
       ]
     },
     {
-      "name": "MORGAN PUBLIC LIBRARY",
-      "system": "MORGAN PUBLIC LIBRARY",
-      "address": "210 VERNON AVENUE, MORGAN, MN",
-      "website": "https://morganlibrary.net/",
+      "name": "WILMOT PUBLIC LIBRARY",
+      "system": "WILMOT PUBLIC LIBRARY",
+      "address": "11 NORTH WILMOT ROAD, WILMOT, NH",
+      "website": "https://www.wilmotnh.org/community/wilmot-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56266"
+        "03287",
+        "562HH",
+        "57224",
+        "57227",
+        "57255",
+        "57257",
+        "57260",
+        "57266",
+        "57279"
       ]
     },
     {
-      "name": "REDWOOD FALLS PUBLIC LIBRARY",
-      "system": "REDWOOD FALLS PUBLIC LIBRARY",
-      "address": "509 SOUTH LINCOLN STREET, REDWOOD FALLS, MN",
-      "website": "https://redwoodfallslibrary.org/",
+      "name": "SISSETON WAHPETON COMMUNITY COLLEGE LIBRARY",
+      "system": "SISSETON WAHPETON COMMUNITY COLLEGE LIBRARY",
+      "address": "BIA ROAD 700, SISSETON, SD",
+      "website": "https://swcpublic.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56283"
-      ]
-    },
-    {
-      "name": "WABASSO PUBLIC LIBRARY",
-      "system": "WABASSO PUBLIC LIBRARY",
-      "address": "1248 OAK ST, WABASSO, MN",
-      "website": "https://wabassolibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56293"
-      ]
-    },
-    {
-      "name": "BROWNS VALLEY PUBLIC LIBRARY",
-      "system": "BROWNS VALLEY PUBLIC LIBRARY",
-      "address": "15 3RD STREET S, BROWNS VALLEY, MN",
-      "website": "https://www.brownsvalleymnpubliclibrary.org/client/en_US/bv/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56219"
-      ]
-    },
-    {
-      "name": "HANCOCK COMMUNITY LIBRARY",
-      "system": "HANCOCK COMMUNITY LIBRARY",
-      "address": "662 6TH STREET, HANCOCK, MN",
-      "website": "https://viking.lib.mn.us/places/hancock-community-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56244"
+        "562HH",
+        "57224",
+        "57227",
+        "57255",
+        "57257",
+        "57260",
+        "57262",
+        "57266",
+        "57279"
       ]
     },
     {
@@ -85,7 +82,140 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "56207",
+        "56221",
+        "56235",
         "56267"
+      ]
+    },
+    {
+      "name": "PIONEERLAND LIBRARY SYSTEM",
+      "system": "PIONEERLAND LIBRARY SYSTEM",
+      "address": "410 5TH STREET SW, WILLMAR, MN",
+      "website": "https://www.pioneerland.lib.mn.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56201",
+        "56209",
+        "56216",
+        "56246",
+        "56251",
+        "56253",
+        "56273",
+        "56279",
+        "56281",
+        "56282",
+        "56288",
+        "56289"
+      ]
+    },
+    {
+      "name": "MARSHALL-LYON COUNTY LIBRARY",
+      "system": "MARSHALL-LYON COUNTY LIBRARY",
+      "address": "201 C STREET, MARSHALL, MN",
+      "website": "https://marshalllyonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56115",
+        "56132",
+        "56157",
+        "56169",
+        "56229",
+        "56239",
+        "56258",
+        "56291"
+      ]
+    },
+    {
+      "name": "MORGAN PUBLIC LIBRARY",
+      "system": "MORGAN PUBLIC LIBRARY",
+      "address": "210 VERNON AVENUE, MORGAN, MN",
+      "website": "https://morganlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56083",
+        "56166",
+        "56180",
+        "56214",
+        "56224",
+        "56255",
+        "56263",
+        "56266",
+        "56287",
+        "56292",
+        "56294"
+      ]
+    },
+    {
+      "name": "REDWOOD FALLS PUBLIC LIBRARY",
+      "system": "REDWOOD FALLS PUBLIC LIBRARY",
+      "address": "509 SOUTH LINCOLN STREET, REDWOOD FALLS, MN",
+      "website": "https://redwoodfallslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56083",
+        "56166",
+        "56180",
+        "56214",
+        "56224",
+        "56255",
+        "56263",
+        "56283",
+        "56287",
+        "56292",
+        "56294"
+      ]
+    },
+    {
+      "name": "WABASSO PUBLIC LIBRARY",
+      "system": "WABASSO PUBLIC LIBRARY",
+      "address": "1248 OAK ST, WABASSO, MN",
+      "website": "https://wabassolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56083",
+        "56166",
+        "56180",
+        "56214",
+        "56224",
+        "56255",
+        "56263",
+        "56287",
+        "56292",
+        "56293",
+        "56294"
+      ]
+    },
+    {
+      "name": "BROWNS VALLEY PUBLIC LIBRARY",
+      "system": "BROWNS VALLEY PUBLIC LIBRARY",
+      "address": "15 3RD STREET S, BROWNS VALLEY, MN",
+      "website": "https://www.brownsvalleymnpubliclibrary.org/client/en_US/bv/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56219",
+        "56236",
+        "56583"
+      ]
+    },
+    {
+      "name": "HANCOCK COMMUNITY LIBRARY",
+      "system": "HANCOCK COMMUNITY LIBRARY",
+      "address": "662 6TH STREET, HANCOCK, MN",
+      "website": "https://viking.lib.mn.us/places/hancock-community-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56207",
+        "56221",
+        "56235",
+        "56244"
       ]
     },
     {
@@ -96,7 +226,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56296"
+        "56236",
+        "56296",
+        "56583"
       ]
     },
     {
@@ -107,7 +239,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56264"
+        "56115",
+        "56132",
+        "56157",
+        "56169",
+        "56229",
+        "56239",
+        "56264",
+        "56291"
       ]
     },
     {
@@ -118,7 +257,52 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56223"
+        "56220",
+        "56223",
+        "56237",
+        "56241",
+        "56245",
+        "56280",
+        "56297"
+      ]
+    },
+    {
+      "name": "LAMBERTON PUBLIC LIBRARY",
+      "system": "LAMBERTON PUBLIC LIBRARY",
+      "address": "101 E 2ND AVENUE, LAMBERTON, MN",
+      "website": "https://lambertonmn.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56083",
+        "56152",
+        "56166",
+        "56180",
+        "56214",
+        "56224",
+        "56255",
+        "56263",
+        "56287",
+        "56292",
+        "56294"
+      ]
+    },
+    {
+      "name": "TRACY PUBLIC LIBRARY",
+      "system": "TRACY PUBLIC LIBRARY",
+      "address": "189 3RD STREET, TRACY, MN",
+      "website": "https://tracymn.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56115",
+        "56132",
+        "56157",
+        "56169",
+        "56175",
+        "56229",
+        "56239",
+        "56291"
       ]
     }
   ]

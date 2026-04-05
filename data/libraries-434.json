@@ -1,14 +1,88 @@
 {
   "libraries": [
     {
-      "name": "WOOD COUNTY DISTRICT PUBLIC LIBRARY",
-      "system": "WOOD COUNTY DISTRICT PUBLIC LIBRARY",
-      "address": "251 N. MAIN ST., BOWLING GREEN, OH",
-      "website": "https://wcdpl.org/",
+      "name": "TOLEDO-LUCAS COUNTY PUBLIC LIBRARY",
+      "system": "TOLEDO-LUCAS COUNTY PUBLIC LIBRARY",
+      "address": "325 MICHIGAN ST., TOLEDO, OH",
+      "website": "http://www.toledolibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43402"
+        "43412",
+        "43504",
+        "43528",
+        "43537",
+        "43542",
+        "43547",
+        "43560",
+        "43566",
+        "43571",
+        "43602",
+        "43604",
+        "43605",
+        "43606",
+        "43607",
+        "43608",
+        "43609",
+        "43610",
+        "43611",
+        "43612",
+        "43613",
+        "43614",
+        "43615",
+        "43616",
+        "43617",
+        "43618",
+        "43620",
+        "43623",
+        "43624",
+        "436HH"
+      ]
+    },
+    {
+      "name": "RITTER PUBLIC LIBRARY",
+      "system": "RITTER PUBLIC LIBRARY",
+      "address": "5680 LIBERTY AVE., VERMILION, OH",
+      "website": "https://www.ritterpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43438",
+        "434HH",
+        "44089",
+        "44814",
+        "44816",
+        "44824"
+      ]
+    },
+    {
+      "name": "WAYNE PUBLIC LIBRARY",
+      "system": "WAYNE PUBLIC LIBRARY",
+      "address": "3737 SOUTH WAYNE ROAD, WAYNE, MI",
+      "website": "https://www.waynepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817",
+        "48184"
       ]
     },
     {
@@ -19,7 +93,72 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43410"
+        "43410",
+        "76469",
+        "79504",
+        "79510"
+      ]
+    },
+    {
+      "name": "MILAN-BERLIN LIBRARY DISTRICT",
+      "system": "MILAN-BERLIN LIBRARY DISTRICT",
+      "address": "19 E. CHURCH ST., MILAN, OH",
+      "website": "https://www.milan-berlin.lib.oh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43438",
+        "434HH",
+        "44814",
+        "44816",
+        "44824",
+        "44846"
+      ]
+    },
+    {
+      "name": "SANDUSKY LIBRARY",
+      "system": "SANDUSKY LIBRARY",
+      "address": "114 W. ADAMS ST., SANDUSKY, OH",
+      "website": "https://www.sanduskylib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43438",
+        "434HH",
+        "44814",
+        "44816",
+        "44824",
+        "44870"
+      ]
+    },
+    {
+      "name": "WOOD COUNTY DISTRICT PUBLIC LIBRARY",
+      "system": "WOOD COUNTY DISTRICT PUBLIC LIBRARY",
+      "address": "251 N. MAIN ST., BOWLING GREEN, OH",
+      "website": "https://wcdpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43402",
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817"
       ]
     },
     {
@@ -30,7 +169,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43416"
+        "43408",
+        "43416",
+        "43430",
+        "43432",
+        "43439",
+        "43440",
+        "43445",
+        "43456",
+        "43458",
+        "43468"
       ]
     },
     {
@@ -41,7 +189,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43420"
+        "43407",
+        "43420",
+        "43431",
+        "43435",
+        "43442",
+        "43464",
+        "43469",
+        "44811"
       ]
     },
     {
@@ -52,7 +207,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43449"
+        "43408",
+        "43430",
+        "43432",
+        "43439",
+        "43440",
+        "43445",
+        "43449",
+        "43456",
+        "43458",
+        "43468"
       ]
     },
     {
@@ -63,7 +227,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43450"
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43450",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817"
       ]
     },
     {
@@ -74,7 +257,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43452"
+        "43408",
+        "43430",
+        "43432",
+        "43439",
+        "43440",
+        "43445",
+        "43452",
+        "43456",
+        "43458",
+        "43468"
       ]
     },
     {
@@ -85,18 +277,86 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43460"
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43460",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817"
       ]
     },
     {
-      "name": "WAYNE PUBLIC LIBRARY",
-      "system": "WAYNE PUBLIC LIBRARY",
-      "address": "137 E. MAIN ST., WAYNE, OH",
-      "website": "https://www.waynepubliclibrary.org/",
+      "name": "WAY PUBLIC LIBRARY",
+      "system": "WAY PUBLIC LIBRARY",
+      "address": "101 E. INDIANA AVE., PERRYSBURG, OH",
+      "website": "https://www.waylibrary.info/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43466"
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43551",
+        "43565",
+        "43619",
+        "44817"
+      ]
+    },
+    {
+      "name": "NORTH BALTIMORE PUBLIC LIBRARY",
+      "system": "NORTH BALTIMORE PUBLIC LIBRARY",
+      "address": "230 N. MAIN ST., NORTH BALTIMORE, OH",
+      "website": "https://www.nbpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43406",
+        "43413",
+        "43437",
+        "43443",
+        "43447",
+        "43451",
+        "43457",
+        "43462",
+        "43465",
+        "43466",
+        "43467",
+        "43511",
+        "43522",
+        "43525",
+        "43529",
+        "43541",
+        "43565",
+        "43619",
+        "44817",
+        "45872"
       ]
     }
   ]

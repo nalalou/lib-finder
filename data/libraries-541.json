@@ -1,6 +1,110 @@
 {
   "libraries": [
     {
+      "name": "CRANDON PUBLIC LIBRARY",
+      "system": "CRANDON PUBLIC LIBRARY",
+      "address": "110 W. POLK ST., CRANDON, WI",
+      "website": "https://www.crandonpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54103",
+        "54511",
+        "54520",
+        "545XX"
+      ]
+    },
+    {
+      "name": "EDITH EVANS COMMUNITY LIBRARY",
+      "system": "EDITH EVANS COMMUNITY LIBRARY",
+      "address": "5216 FOREST AVE., LAONA, WI",
+      "website": "https://laonapubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54103",
+        "54511",
+        "54541",
+        "545XX"
+      ]
+    },
+    {
+      "name": "WABENO PUBLIC LIBRARY",
+      "system": "WABENO PUBLIC LIBRARY",
+      "address": "4556 N. BRANCH ST., WABENO, WI",
+      "website": "https://wabeno.org/public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54103",
+        "54511",
+        "54566",
+        "545XX"
+      ]
+    },
+    {
+      "name": "APPLETON PUBLIC LIBRARY",
+      "system": "APPLETON PUBLIC LIBRARY",
+      "address": "3000 E. COLLEGE AVE, APPLETON, WI",
+      "website": "https://apl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54113",
+        "54152",
+        "54911",
+        "54913",
+        "54914",
+        "54915",
+        "54922",
+        "54942"
+      ]
+    },
+    {
+      "name": "HORTONVILLE PUBLIC LIBRARY",
+      "system": "HORTONVILLE PUBLIC LIBRARY",
+      "address": "531 N. NASH ST., HORTONVILLE, WI",
+      "website": "https://hortonvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54113",
+        "54152",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942",
+        "54944"
+      ]
+    },
+    {
+      "name": "BROWN COUNTY LIBRARY",
+      "system": "BROWN COUNTY LIBRARY",
+      "address": "515 PINE ST., GREEN BAY, WI",
+      "website": "https://www.browncountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54115",
+        "54126",
+        "54162",
+        "54173",
+        "54180",
+        "541HH",
+        "54208",
+        "54229",
+        "542HH",
+        "54301",
+        "54302",
+        "54303",
+        "54304",
+        "54311",
+        "54313",
+        "543HH"
+      ]
+    },
+    {
       "name": "BRILLION PUBLIC LIBRARY",
       "system": "BRILLION PUBLIC LIBRARY",
       "address": "326 N. MAIN ST., BRILLION, WI",
@@ -8,7 +112,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54110"
+        "53088",
+        "530HH",
+        "54110",
+        "54123",
+        "54129",
+        "54160",
+        "54169",
+        "549HH"
       ]
     },
     {
@@ -19,7 +130,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54130"
+        "54113",
+        "54130",
+        "54152",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942"
       ]
     },
     {
@@ -30,7 +148,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54136"
+        "54113",
+        "54136",
+        "54152",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942"
       ]
     },
     {
@@ -41,7 +166,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54139"
+        "54101",
+        "54139",
+        "54141",
+        "54149",
+        "54171",
+        "54175"
       ]
     },
     {
@@ -52,7 +182,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54153"
+        "54101",
+        "54141",
+        "54149",
+        "54153",
+        "54171",
+        "54175"
       ]
     },
     {
@@ -63,7 +198,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54154"
+        "54101",
+        "54141",
+        "54149",
+        "54154",
+        "54171",
+        "54175"
       ]
     },
     {
@@ -74,7 +214,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54165"
+        "54113",
+        "54152",
+        "54165",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942"
       ]
     },
     {
@@ -85,7 +232,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54166"
+        "54107",
+        "54111",
+        "54127",
+        "54128",
+        "54137",
+        "54166",
+        "54414",
+        "54416",
+        "54486",
+        "54499",
+        "54928",
+        "54948",
+        "54978"
       ]
     },
     {
@@ -96,7 +255,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54170"
+        "54113",
+        "54152",
+        "54170",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942"
       ]
     },
     {
@@ -107,7 +273,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54155"
+        "54115",
+        "54126",
+        "54155",
+        "54162",
+        "54173",
+        "54180",
+        "541HH",
+        "54208",
+        "54229",
+        "542HH",
+        "54302",
+        "54303",
+        "54304",
+        "54311",
+        "54313",
+        "543HH"
       ]
     },
     {
@@ -118,7 +299,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54106"
+        "54106",
+        "54113",
+        "54152",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942"
       ]
     },
     {
@@ -129,7 +317,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54121"
+        "54120",
+        "54121",
+        "54542"
       ]
     },
     {
@@ -140,7 +330,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54138"
+        "54101",
+        "54138",
+        "54141",
+        "54149",
+        "54171",
+        "54175"
       ]
     },
     {
@@ -151,7 +346,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54143"
+        "54102",
+        "54104",
+        "54112",
+        "54114",
+        "54119",
+        "54125",
+        "54143",
+        "54151",
+        "54156",
+        "54157",
+        "54159",
+        "54161",
+        "54177"
       ]
     },
     {
@@ -162,7 +369,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54174"
+        "54101",
+        "54141",
+        "54149",
+        "54171",
+        "54174",
+        "54175"
       ]
     },
     {
@@ -173,7 +385,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54124"
+        "54101",
+        "54124",
+        "54141",
+        "54149",
+        "54171",
+        "54175"
       ]
     },
     {
@@ -184,7 +401,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54135"
+        "54135",
+        "54150",
+        "541XX"
       ]
     },
     {
@@ -195,7 +414,50 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54140"
+        "54113",
+        "54140",
+        "54152",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942"
+      ]
+    },
+    {
+      "name": "CHILTON PUBLIC LIBRARY",
+      "system": "CHILTON PUBLIC LIBRARY",
+      "address": "221 PARK ST., CHILTON, WI",
+      "website": "https://www.chiltonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53014",
+        "53088",
+        "530HH",
+        "54123",
+        "54129",
+        "54160",
+        "54169",
+        "549HH"
+      ]
+    },
+    {
+      "name": "NEW HOLSTEIN PUBLIC LIBRARY",
+      "system": "NEW HOLSTEIN PUBLIC LIBRARY",
+      "address": "2115 WASHINGTON ST., NEW HOLSTEIN, WI",
+      "website": "https://www.newholsteinlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53061",
+        "53088",
+        "530HH",
+        "54123",
+        "54129",
+        "54160",
+        "54169",
+        "549HH"
       ]
     }
   ]

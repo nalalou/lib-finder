@@ -8,18 +8,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "07011",
+        "07012",
+        "07013",
+        "07014",
+        "07420",
+        "07421",
+        "07435",
+        "07470",
+        "07502",
+        "07503",
+        "07504",
+        "07505",
+        "07513",
+        "07514",
+        "07522",
+        "07524",
+        "075HH",
         "85533"
-      ]
-    },
-    {
-      "name": "SAFFORD CITY-GRAHAM COUNTY LIBRARY",
-      "system": "SAFFORD CITY-GRAHAM COUNTY LIBRARY",
-      "address": "808 S 7TH AVE, SAFFORD, AZ",
-      "website": "https://www.cityofsafford.us/766/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "85546"
       ]
     },
     {
@@ -30,7 +36,45 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73425",
+        "73442",
+        "73491",
+        "73529",
+        "73533",
+        "73548",
         "85534"
+      ]
+    },
+    {
+      "name": "HAYDEN PUBLIC LIBRARY",
+      "system": "HAYDEN PUBLIC LIBRARY",
+      "address": "219 W 5TH AVE, HAYDEN, AZ",
+      "website": "https://gcldaz.org/hayden-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "85135",
+        "85235",
+        "85545",
+        "855HH"
+      ]
+    },
+    {
+      "name": "SAFFORD CITY-GRAHAM COUNTY LIBRARY",
+      "system": "SAFFORD CITY-GRAHAM COUNTY LIBRARY",
+      "address": "808 S 7TH AVE, SAFFORD, AZ",
+      "website": "https://www.cityofsafford.us/766/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "85530",
+        "85531",
+        "85535",
+        "85536",
+        "85542",
+        "85546",
+        "85552",
+        "855XX"
       ]
     },
     {
@@ -41,7 +85,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85501"
+        "85235",
+        "85501",
+        "85545",
+        "855HH"
       ]
     },
     {
@@ -52,7 +99,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85543"
+        "85530",
+        "85531",
+        "85535",
+        "85536",
+        "85542",
+        "85543",
+        "85552",
+        "855XX"
       ]
     },
     {
@@ -63,7 +117,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85501"
+        "85235",
+        "85501",
+        "85545",
+        "855HH"
       ]
     },
     {
@@ -74,7 +131,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85539"
+        "85235",
+        "85539",
+        "85545",
+        "855HH"
       ]
     },
     {
@@ -85,7 +145,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85541"
+        "85235",
+        "85541",
+        "85545",
+        "855HH"
       ]
     },
     {
@@ -96,7 +159,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85544"
+        "85235",
+        "85544",
+        "85545",
+        "855HH"
       ]
     },
     {
@@ -107,7 +173,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85550"
+        "85235",
+        "85545",
+        "85550",
+        "855HH"
       ]
     },
     {
@@ -118,7 +187,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85553"
+        "85235",
+        "85545",
+        "85553",
+        "855HH"
       ]
     },
     {
@@ -129,7 +201,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85554"
+        "85235",
+        "85545",
+        "85554",
+        "855HH"
       ]
     }
   ]

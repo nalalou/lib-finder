@@ -1,6 +1,51 @@
 {
   "libraries": [
     {
+      "name": "GENESEO PUBLIC LIBRARY",
+      "system": "GENESEO PUBLIC LIBRARY",
+      "address": "725 MAIN STREET, GENESEO, KS",
+      "website": "https://www.findglocal.com/US/Geneseo/357913330742907/Geneseo-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67444",
+        "67512",
+        "67524",
+        "67554",
+        "67573"
+      ]
+    },
+    {
+      "name": "LITTLE RIVER COMMUNITY LIBRARY",
+      "system": "LITTLE RIVER COMMUNITY LIBRARY",
+      "address": "125 MAIN STREET, LITTLE RIVER, KS",
+      "website": "https://directory.sckls.info/library/74",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67457",
+        "67512",
+        "67524",
+        "67554",
+        "67573"
+      ]
+    },
+    {
+      "name": "FARMER TOWNSHIP/CPMS LIBRARY",
+      "system": "FARMER TOWNSHIP/CPMS LIBRARY",
+      "address": "500 S. MAIN ST., BUSHTON, KS",
+      "website": "https://directory.sckls.info/library/53",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67427",
+        "67512",
+        "67524",
+        "67554",
+        "67573"
+      ]
+    },
+    {
       "name": "MCCRACKEN PUBLIC LIBRARY",
       "system": "MCCRACKEN PUBLIC LIBRARY",
       "address": "303 MAIN, MCCRACKEN, KS",
@@ -8,7 +53,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67556"
+        "67513",
+        "67553",
+        "67556",
+        "67559",
+        "67575"
       ]
     },
     {
@@ -19,7 +68,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67520"
+        "67513",
+        "67520",
+        "67553",
+        "67559",
+        "67575"
       ]
     },
     {
@@ -30,7 +83,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67565"
+        "67513",
+        "67553",
+        "67559",
+        "67565",
+        "67575"
       ]
     },
     {
@@ -41,7 +98,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67525"
+        "67511",
+        "67525",
+        "67564",
+        "67567",
+        "675HH"
       ]
     },
     {
@@ -52,7 +113,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67548"
+        "67513",
+        "67548",
+        "67553",
+        "67559",
+        "67575"
       ]
     },
     {
@@ -63,7 +128,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67526"
+        "67511",
+        "67526",
+        "67564",
+        "67567",
+        "675HH"
       ]
     },
     {
@@ -74,7 +143,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67544"
+        "67511",
+        "67544",
+        "67564",
+        "67567",
+        "675HH"
       ]
     },
     {
@@ -85,7 +158,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67550"
+        "67523",
+        "67529",
+        "67550",
+        "67574"
       ]
     },
     {
@@ -96,7 +172,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67530"
+        "67511",
+        "67530",
+        "67564",
+        "67567",
+        "675HH"
       ]
     },
     {
@@ -107,7 +187,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67566"
+        "67502",
+        "67505",
+        "67510",
+        "67566",
+        "67568"
       ]
     },
     {
@@ -118,6 +202,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67502",
+        "67505",
+        "67510",
+        "67568",
         "67581"
       ]
     },
@@ -129,6 +217,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67502",
+        "67505",
+        "67510",
+        "67568",
         "67583"
       ]
     },
@@ -140,7 +232,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67514"
+        "67502",
+        "67505",
+        "67510",
+        "67514",
+        "67568"
       ]
     },
     {
@@ -151,7 +247,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67557"
+        "67545",
+        "67557",
+        "675XX"
       ]
     },
     {
@@ -162,6 +260,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67502",
+        "67505",
+        "67510",
+        "67568",
         "67570"
       ]
     },
@@ -173,6 +275,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67443",
+        "67491",
         "67546"
       ]
     },
@@ -184,7 +288,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67543"
+        "67502",
+        "67505",
+        "67510",
+        "67543",
+        "67568"
       ]
     },
     {
@@ -195,7 +303,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67522"
+        "67502",
+        "67505",
+        "67510",
+        "67522",
+        "67568"
       ]
     },
     {
@@ -206,7 +318,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67561"
+        "67502",
+        "67505",
+        "67510",
+        "67561",
+        "67568"
       ]
     },
     {
@@ -217,7 +333,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67578"
+        "67545",
+        "67578",
+        "675XX"
       ]
     },
     {
@@ -228,7 +346,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67576"
+        "67545",
+        "67576",
+        "675XX"
       ]
     },
     {
@@ -239,18 +359,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67512",
+        "67524",
+        "67554",
+        "67573",
         "67579"
-      ]
-    },
-    {
-      "name": "LYONS PUBLIC LIBRARY",
-      "system": "LYONS PUBLIC LIBRARY",
-      "address": "201 WEST MAIN, LYONS, KS",
-      "website": "https://lyonsne.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67554"
       ]
     },
     {
@@ -261,7 +374,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67501"
+        "67501",
+        "67502",
+        "67505",
+        "67510",
+        "67568"
       ]
     },
     {
@@ -272,7 +389,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67572"
+        "67515",
+        "67516",
+        "67518",
+        "67521",
+        "67572",
+        "67584"
       ]
     },
     {
@@ -283,7 +405,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67552"
+        "67519",
+        "67552",
+        "67563"
       ]
     },
     {
@@ -294,7 +418,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67547"
+        "67519",
+        "67547",
+        "67563"
       ]
     },
     {
@@ -305,7 +431,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67560"
+        "67515",
+        "67516",
+        "67518",
+        "67521",
+        "67560",
+        "67584"
       ]
     }
   ]

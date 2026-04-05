@@ -1,6 +1,24 @@
 {
   "libraries": [
     {
+      "name": "LIVINGSTON - RUBY PICKENS TARTT PUBLIC LIBRARY",
+      "system": "LIVINGSTON - RUBY PICKENS TARTT PUBLIC LIBRARY",
+      "address": "206 MONROE ST., LIVINGSTON, AL",
+      "website": "https://www.rptlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35459",
+        "35460",
+        "35464",
+        "35470",
+        "35477",
+        "354XX",
+        "36901",
+        "36907"
+      ]
+    },
+    {
       "name": "YORK - HIGHTOWER MEMORIAL LIBRARY",
       "system": "YORK - HIGHTOWER MEMORIAL LIBRARY",
       "address": "630 AVENUE A, YORK, AL",
@@ -8,6 +26,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35459",
+        "35460",
+        "35464",
+        "35477",
+        "354XX",
+        "36901",
+        "36907",
         "36925"
       ]
     },
@@ -19,7 +44,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36904"
+        "36904",
+        "36908",
+        "36910",
+        "36912",
+        "36915",
+        "36916",
+        "36919",
+        "36921",
+        "36922",
+        "369HH",
+        "369XX"
       ]
     }
   ]

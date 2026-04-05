@@ -1,6 +1,315 @@
 {
   "libraries": [
     {
+      "name": "FENNVILLE DISTRICT LIBRARY",
+      "system": "FENNVILLE DISTRICT LIBRARY",
+      "address": "400 WEST MAIN STREET, FENNVILLE, MI",
+      "website": "https://www.fennvilledl.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "490HH",
+        "49344",
+        "493HH",
+        "49408",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
+      ]
+    },
+    {
+      "name": "FREMONT AREA DISTRICT LIBRARY",
+      "system": "FREMONT AREA DISTRICT LIBRARY",
+      "address": "104 EAST MAIN STREET, FREMONT, MI",
+      "website": "https://www.fremontlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49309",
+        "49312",
+        "49412"
+      ]
+    },
+    {
+      "name": "HACKLEY PUBLIC LIBRARY",
+      "system": "HACKLEY PUBLIC LIBRARY",
+      "address": "316 WEST WEBSTER AVENUE, MUSKEGON, MI",
+      "website": "https://www.hackleylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49303",
+        "49318",
+        "49425",
+        "49437",
+        "49440",
+        "49441",
+        "49442",
+        "49445",
+        "49451",
+        "49457",
+        "49461"
+      ]
+    },
+    {
+      "name": "HESPERIA COMMUNITY LIBRARY",
+      "system": "HESPERIA COMMUNITY LIBRARY",
+      "address": "80 SOUTH DIVISION STREET, HESPERIA, MI",
+      "website": "https://www.hesperialibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49309",
+        "49312",
+        "49421"
+      ]
+    },
+    {
+      "name": "MUSKEGON AREA DISTRICT LIBRARY",
+      "system": "MUSKEGON AREA DISTRICT LIBRARY",
+      "address": "4845 AIRLINE ROAD UNIT 5, MUSKEGON, MI",
+      "website": "https://madl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49303",
+        "49318",
+        "49425",
+        "49437",
+        "49441",
+        "49442",
+        "49444",
+        "49445",
+        "49451",
+        "49457",
+        "49461"
+      ]
+    },
+    {
+      "name": "SAUGATUCK-DOUGLAS DISTRICT LIBRARY",
+      "system": "SAUGATUCK-DOUGLAS DISTRICT LIBRARY",
+      "address": "174 CENTER ST., DOUGLAS, MI",
+      "website": "https://www.sdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "490HH",
+        "49344",
+        "493HH",
+        "49406",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
+      ]
+    },
+    {
+      "name": "FRUITPORT DISTRICT LIBRARY",
+      "system": "FRUITPORT DISTRICT LIBRARY",
+      "address": "47 PARK STREET, FRUITPORT, MI",
+      "website": "https://www.fruitportlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49303",
+        "49318",
+        "49415",
+        "49425",
+        "49437",
+        "49441",
+        "49442",
+        "49445",
+        "49451",
+        "49457",
+        "49461"
+      ]
+    },
+    {
+      "name": "GRAND RAPIDS PUBLIC LIBRARY",
+      "system": "GRAND RAPIDS PUBLIC LIBRARY",
+      "address": "111 LIBRARY STREET, NE, GRAND RAPIDS, MI",
+      "website": "http://www.grpl.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49301",
+        "49302",
+        "49306",
+        "49315",
+        "49316",
+        "49326",
+        "49330",
+        "49331",
+        "49341",
+        "49343",
+        "49418",
+        "49503",
+        "49504",
+        "49505",
+        "49506",
+        "49507",
+        "49508",
+        "49509",
+        "49512",
+        "49525",
+        "49544",
+        "49546",
+        "49548",
+        "495HH"
+      ]
+    },
+    {
+      "name": "CARSON CITY PUBLIC LIBRARY",
+      "system": "CARSON CITY PUBLIC LIBRARY",
+      "address": "102 WEST MAIN STREET, CARSON CITY, MI",
+      "website": "https://www.carsoncity.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48811",
+        "48818",
+        "48834",
+        "48852",
+        "48884",
+        "48885",
+        "48886",
+        "49322",
+        "49339",
+        "49347"
+      ]
+    },
+    {
+      "name": "FLAT RIVER COMMUNITY LIBRARY",
+      "system": "FLAT RIVER COMMUNITY LIBRARY",
+      "address": "200 WEST JUDD STREET, GREENVILLE, MI",
+      "website": "https://www.flatriverlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48818",
+        "48834",
+        "48838",
+        "48852",
+        "48884",
+        "48885",
+        "48886",
+        "49322",
+        "49339",
+        "49347"
+      ]
+    },
+    {
+      "name": "HOME TOWNSHIP LIBRARY",
+      "system": "HOME TOWNSHIP LIBRARY",
+      "address": "329 EAST MAIN STREET, EDMORE, MI",
+      "website": "https://www.edmore.llcoop.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48818",
+        "48829",
+        "48834",
+        "48852",
+        "48884",
+        "48885",
+        "48886",
+        "49322",
+        "49339",
+        "49347"
+      ]
+    },
+    {
+      "name": "RICHLAND TOWNSHIP LIBRARY",
+      "system": "RICHLAND TOWNSHIP LIBRARY",
+      "address": "8821 THIRD STREET, VESTABURG, MI",
+      "website": "http://www.richlandtownshiplibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48818",
+        "48834",
+        "48852",
+        "48884",
+        "48885",
+        "48886",
+        "48891",
+        "49322",
+        "49339",
+        "49347"
+      ]
+    },
+    {
+      "name": "TAMARACK DISTRICT LIBRARY",
+      "system": "TAMARACK DISTRICT LIBRARY",
+      "address": "832 SOUTH LINCOLN AVENUE, LAKEVIEW, MI",
+      "website": "https://www.tamaracklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48818",
+        "48834",
+        "48850",
+        "48852",
+        "48884",
+        "48885",
+        "48886",
+        "49322",
+        "49339",
+        "49347"
+      ]
+    },
+    {
+      "name": "CHIPPEWA RIVER DISTRICT LIBRARY SYSTEM",
+      "system": "CHIPPEWA RIVER DISTRICT LIBRARY SYSTEM",
+      "address": "301 SOUTH UNIVERSITY, MOUNT PLEASANT, MI",
+      "website": "https://www.crdl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48858",
+        "48878",
+        "48883",
+        "48896",
+        "49310"
+      ]
+    },
+    {
+      "name": "WHITE PINE DISTRICT LIBRARY",
+      "system": "WHITE PINE DISTRICT LIBRARY",
+      "address": "514 N. NEW ST., STANTON, MI",
+      "website": "https://whitepinelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48818",
+        "48834",
+        "48852",
+        "48884",
+        "48885",
+        "48886",
+        "48888",
+        "49322",
+        "49339",
+        "49347"
+      ]
+    },
+    {
+      "name": "SHERMAN TOWNSHIP LIBRARY",
+      "system": "SHERMAN TOWNSHIP LIBRARY",
+      "address": "3453 NORTH SCHOOL ROAD, WEIDMAN, MI",
+      "website": "https://shermantwplib.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48878",
+        "48883",
+        "48893",
+        "48896",
+        "49310"
+      ]
+    },
+    {
       "name": "BARRYTON PUBLIC LIBRARY",
       "system": "BARRYTON PUBLIC LIBRARY",
       "address": "198 NORTHERN AVENUE, BARRYTON, MI",
@@ -8,7 +317,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49305"
+        "49305",
+        "49338",
+        "49342",
+        "49346"
       ]
     },
     {
@@ -19,7 +331,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49307"
+        "49307",
+        "49338",
+        "49342",
+        "49346"
       ]
     },
     {
@@ -30,7 +345,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49319"
+        "49301",
+        "49302",
+        "49306",
+        "49315",
+        "49316",
+        "49319",
+        "49326",
+        "49330",
+        "49331",
+        "49341",
+        "49343",
+        "49418",
+        "49504",
+        "49505",
+        "49506",
+        "49507",
+        "49508",
+        "49509",
+        "49512",
+        "49525",
+        "49544",
+        "49546",
+        "49548",
+        "495HH"
       ]
     },
     {
@@ -41,7 +379,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49323"
+        "490HH",
+        "49323",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
       ]
     },
     {
@@ -52,6 +397,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49309",
+        "49312",
         "49349"
       ]
     },
@@ -63,6 +410,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49050",
+        "49060",
         "49325"
       ]
     },
@@ -74,6 +423,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49309",
+        "49312",
         "49327"
       ]
     },
@@ -85,7 +436,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49348"
+        "490HH",
+        "49344",
+        "49348",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
       ]
     },
     {
@@ -96,7 +454,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49328"
+        "490HH",
+        "49328",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
       ]
     },
     {
@@ -107,7 +472,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49321"
+        "49301",
+        "49302",
+        "49306",
+        "49315",
+        "49316",
+        "49321",
+        "49326",
+        "49330",
+        "49331",
+        "49341",
+        "49343",
+        "49418",
+        "49504",
+        "49505",
+        "49506",
+        "49507",
+        "49508",
+        "49509",
+        "49512",
+        "49525",
+        "49544",
+        "49546",
+        "49548",
+        "495HH"
       ]
     },
     {
@@ -118,7 +506,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49332"
+        "49332",
+        "49338",
+        "49342",
+        "49346"
       ]
     },
     {
@@ -129,6 +520,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49309",
+        "49312",
         "49337"
       ]
     },
@@ -140,7 +533,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49304"
+        "49304",
+        "49642",
+        "49644"
       ]
     },
     {
@@ -151,7 +546,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49329"
+        "48818",
+        "48834",
+        "48852",
+        "48884",
+        "48885",
+        "48886",
+        "49322",
+        "49329",
+        "49339",
+        "49347"
       ]
     },
     {
@@ -162,7 +566,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49345"
+        "49301",
+        "49302",
+        "49306",
+        "49315",
+        "49316",
+        "49326",
+        "49330",
+        "49331",
+        "49341",
+        "49343",
+        "49345",
+        "49418",
+        "49504",
+        "49505",
+        "49506",
+        "49507",
+        "49508",
+        "49509",
+        "49512",
+        "49525",
+        "49544",
+        "49546",
+        "49548",
+        "495HH"
       ]
     },
     {
@@ -173,6 +600,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49050",
+        "49060",
         "49333"
       ]
     },
@@ -184,7 +613,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49336"
+        "49336",
+        "49338",
+        "49342",
+        "49346"
       ]
     },
     {
@@ -195,7 +627,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49340"
+        "49338",
+        "49340",
+        "49342",
+        "49346"
       ]
     },
     {
@@ -206,7 +641,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49335"
+        "490HH",
+        "49335",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
       ]
     },
     {
@@ -217,7 +659,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49314"
+        "490HH",
+        "49314",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
       ]
     },
     {
@@ -228,7 +677,81 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49309",
+        "49312",
         "49337"
+      ]
+    },
+    {
+      "name": "CHARLES A. RANSOM DISTRICT LIBRARY",
+      "system": "CHARLES A. RANSOM DISTRICT LIBRARY",
+      "address": "180 SOUTH SHERWOOD AVENUE, PLAINWELL, MI",
+      "website": "https://www.ransomlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49080",
+        "490HH",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
+      ]
+    },
+    {
+      "name": "J. C. WHEELER PUBLIC LIBRARY",
+      "system": "J. C. WHEELER PUBLIC LIBRARY",
+      "address": "1576 SOUTH MAIN STREET, MARTIN, MI",
+      "website": "https://www.wheelerpl.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49070",
+        "490HH",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
+      ]
+    },
+    {
+      "name": "OTSEGO DISTRICT PUBLIC LIBRARY",
+      "system": "OTSEGO DISTRICT PUBLIC LIBRARY",
+      "address": "401 DIX STREET, OTSEGO, MI",
+      "website": "https://otsegolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49078",
+        "490HH",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
+      ]
+    },
+    {
+      "name": "ALLEGAN DISTRICT LIBRARY",
+      "system": "ALLEGAN DISTRICT LIBRARY",
+      "address": "331 HUBBARD STREET, ALLEGAN, MI",
+      "website": "https://www.alleganlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49010",
+        "490HH",
+        "49344",
+        "493HH",
+        "49419",
+        "49450",
+        "49453",
+        "494HH"
       ]
     }
   ]

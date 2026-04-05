@@ -1,6 +1,160 @@
 {
   "libraries": [
     {
+      "name": "PALMER PUBLIC LIBRARY",
+      "system": "PALMER PUBLIC LIBRARY",
+      "address": "655 SOUTH VALLEY WAY, PALMER, AK",
+      "website": "https://www.palmerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "371XX",
+        "37301",
+        "37339",
+        "37365",
+        "37366",
+        "99645"
+      ]
+    },
+    {
+      "name": "ALTAMONT PUBLIC LIBRARY",
+      "system": "ALTAMONT PUBLIC LIBRARY",
+      "address": "407 HUSTON AVE, ALTAMONT, KS",
+      "website": "https://altamontpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "371XX",
+        "37301",
+        "37339",
+        "37365",
+        "37366",
+        "67330"
+      ]
+    },
+    {
+      "name": "FAYETTEVILLE-LINCOLN COUNTY PUBLIC LIBRARY",
+      "system": "FAYETTEVILLE-LINCOLN COUNTY PUBLIC LIBRARY",
+      "address": "306 ELK AVENUE NORTH, FAYETTEVILLE, TN",
+      "website": "https://www.flcpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37144",
+        "37328",
+        "37334",
+        "37335",
+        "37348",
+        "37359",
+        "38453",
+        "38459",
+        "38488"
+      ]
+    },
+    {
+      "name": "BEERSHEBA SPRINGS PUBLIC LIBRARY",
+      "system": "BEERSHEBA SPRINGS PUBLIC LIBRARY",
+      "address": "19683 STATE ROUTE 56, BEERSHEBA SPRINGS, TN",
+      "website": "https://librarytechnology.org/library/6145",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "371XX",
+        "37301",
+        "37305",
+        "37339",
+        "37365",
+        "37366"
+      ]
+    },
+    {
+      "name": "COALMONT PUBLIC LIBRARY",
+      "system": "COALMONT PUBLIC LIBRARY",
+      "address": "6650 SR 56, COALMONT, TN",
+      "website": "https://librarytechnology.org/library/6209",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "371XX",
+        "37301",
+        "37313",
+        "37339",
+        "37365",
+        "37366"
+      ]
+    },
+    {
+      "name": "MAY JUSTUS MEMORIAL LIBRARY",
+      "system": "MAY JUSTUS MEMORIAL LIBRARY",
+      "address": "24 DIXIE LEE AVENUE, MONTEAGLE, TN",
+      "website": "https://librarytechnology.org/library/6316",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "371XX",
+        "37301",
+        "37339",
+        "37356",
+        "37365",
+        "37366"
+      ]
+    },
+    {
+      "name": "TRACY CITY PUBLIC LIBRARY",
+      "system": "TRACY CITY PUBLIC LIBRARY",
+      "address": "50 MAIN STREET, TRACY CITY, TN",
+      "website": "https://librarytechnology.org/library/6378",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "371XX",
+        "37301",
+        "37339",
+        "37365",
+        "37366",
+        "37387"
+      ]
+    },
+    {
+      "name": "NASHVILLE PUBLIC LIBRARY",
+      "system": "NASHVILLE PUBLIC LIBRARY",
+      "address": "219 EAST ELM STREET, NASHVILLE, IL",
+      "website": "https://library.nashville.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37013",
+        "37076",
+        "37080",
+        "37115",
+        "37138",
+        "37189",
+        "37201",
+        "37203",
+        "37204",
+        "37205",
+        "37206",
+        "37207",
+        "37208",
+        "37209",
+        "37210",
+        "37211",
+        "37212",
+        "37213",
+        "37214",
+        "37215",
+        "37216",
+        "37217",
+        "37218",
+        "37219",
+        "37220",
+        "37221",
+        "37228",
+        "372HH",
+        "62263"
+      ]
+    },
+    {
       "name": "MAGNESS COMMUNITY HOUSE & LIBRARY",
       "system": "MAGNESS COMMUNITY HOUSE & LIBRARY",
       "address": "118 WEST MAIN STREET, MCMINNVILLE, TN",
@@ -8,7 +162,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37110"
+        "37110",
+        "37357",
+        "37394",
+        "38581"
       ]
     },
     {
@@ -19,7 +176,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37160"
+        "37020",
+        "370HH",
+        "37160",
+        "37180",
+        "37183",
+        "371HH"
       ]
     },
     {
@@ -30,6 +192,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37016",
+        "37026",
+        "37149",
         "37190"
       ]
     },
@@ -41,7 +206,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37130"
+        "37037",
+        "37060",
+        "37085",
+        "37118",
+        "37127",
+        "37128",
+        "37129",
+        "37130",
+        "37153",
+        "37167"
       ]
     },
     {
@@ -52,6 +226,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37012",
+        "37059",
+        "37095",
         "37166"
       ]
     },
@@ -63,6 +240,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37078",
+        "37101",
+        "37134",
         "37185"
       ]
     },
@@ -74,6 +254,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37032",
+        "37049",
+        "37073",
+        "37141",
+        "37152",
         "37172"
       ]
     },
@@ -85,6 +270,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37032",
+        "37049",
+        "37073",
+        "37141",
+        "37152",
         "37188"
       ]
     },
@@ -96,17 +286,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37148"
+        "37022",
+        "37031",
+        "37048",
+        "37148",
+        "37186"
       ]
     },
     {
       "name": "WESTMORELAND PUBLIC LIBRARY",
       "system": "WESTMORELAND PUBLIC LIBRARY",
-      "address": "2305 EPPERSON SPRINGS ROAD, WESTMORELAND, TN",
+      "address": "33 SOUTH VILLAGE ROAD, WESTMORELAND, NH",
       "website": "https://www.wplnh.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "03467",
+        "37022",
+        "37031",
+        "37048",
         "37186"
       ]
     },
@@ -118,7 +316,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37122"
+        "37090",
+        "37122",
+        "37184"
       ]
     },
     {
@@ -129,7 +329,254 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37174"
+        "37174",
+        "38451",
+        "38461",
+        "38474",
+        "38482",
+        "38487"
+      ]
+    },
+    {
+      "name": "HOUSTON COUNTY PUBLIC LIBRARY",
+      "system": "HOUSTON COUNTY PUBLIC LIBRARY",
+      "address": "24 S. SPRING STREET, ERIN, TN",
+      "website": "https://houstoncountytnlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37061",
+        "37175",
+        "37178"
+      ]
+    },
+    {
+      "name": "HICKMAN COUNTY PUBLIC LIBRARY",
+      "system": "HICKMAN COUNTY PUBLIC LIBRARY",
+      "address": "120 WEST SWAN STREET, CENTERVILLE (S), TN",
+      "website": "https://hickmancountylibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37025",
+        "37033",
+        "37098",
+        "37137",
+        "37140",
+        "37147",
+        "38454"
+      ]
+    },
+    {
+      "name": "WILLIAMSON COUNTY PUBLIC LIBRARY",
+      "system": "WILLIAMSON COUNTY PUBLIC LIBRARY",
+      "address": "1314 COLUMBIA AVE, FRANKLIN, TN",
+      "website": "https://www.wcpltn.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37014",
+        "37046",
+        "37062",
+        "37064",
+        "37067",
+        "37069",
+        "37135",
+        "37179",
+        "38476"
+      ]
+    },
+    {
+      "name": "THE JOHN P. HOLT BRENTWOOD LIBRARY",
+      "system": "THE JOHN P. HOLT BRENTWOOD LIBRARY",
+      "address": "8109 CONCORD ROAD, BRENTWOOD, TN",
+      "website": "https://library.brentwoodtn.gov/Home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37014",
+        "37027",
+        "37046",
+        "37062",
+        "37067",
+        "37069",
+        "37135",
+        "37179",
+        "38476"
+      ]
+    },
+    {
+      "name": "LEBANON-WILSON COUNTY PUBLIC LIBRARY",
+      "system": "LEBANON-WILSON COUNTY PUBLIC LIBRARY",
+      "address": "108 SOUTH HATTON AVENUE, LEBANON, TN",
+      "website": "https://librarytechnology.org/library/6107",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37087",
+        "37090",
+        "37184"
+      ]
+    },
+    {
+      "name": "MACON COUNTY PUBLIC LIBRARY",
+      "system": "MACON COUNTY PUBLIC LIBRARY",
+      "address": "311 CHURCH STREET, LAFAYETTE, TN",
+      "website": "https://www.maconcountytn.gov/visitors/library.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37057",
+        "37083",
+        "37150"
+      ]
+    },
+    {
+      "name": "SMITH COUNTY PUBLIC LIBRARY",
+      "system": "SMITH COUNTY PUBLIC LIBRARY",
+      "address": "215 NORTH MAIN STREET, CARTHAGE, TN",
+      "website": "https://smithcotn.com/public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37030",
+        "37145",
+        "37151",
+        "38547",
+        "38552",
+        "38560",
+        "38563",
+        "38567",
+        "38569"
+      ]
+    },
+    {
+      "name": "CHEATHAM COUNTY PUBLIC LIBRARY",
+      "system": "CHEATHAM COUNTY PUBLIC LIBRARY",
+      "address": "188 JOHN MAYFIELD DRIVE, SUITE 200, ASHLAND CITY, TN",
+      "website": "https://cheathamcountytn.gov/libraries.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37015",
+        "37035",
+        "37143",
+        "37146"
+      ]
+    },
+    {
+      "name": "DICKSON COUNTY PUBLIC LIBRARY",
+      "system": "DICKSON COUNTY PUBLIC LIBRARY",
+      "address": "303 HENSLEE DRIVE, DICKSON, TN",
+      "website": "https://librarytechnology.org/library/6243",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37029",
+        "37036",
+        "37051",
+        "37055",
+        "37181",
+        "37187"
+      ]
+    },
+    {
+      "name": "CLARKSVILLE MONTGOMERY COUNTY PUBLIC LIBRARY",
+      "system": "CLARKSVILLE MONTGOMERY COUNTY PUBLIC LIBRARY",
+      "address": "350 PAGEANT LANE, SUITE 501, CLARKSVILLE, TN",
+      "website": "https://montgomerytn.gov/publiclibrary",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37010",
+        "37040",
+        "37042",
+        "37043",
+        "37052",
+        "37142",
+        "37171",
+        "37191",
+        "42223",
+        "422XX"
+      ]
+    },
+    {
+      "name": "GALLATIN PUBLIC LIBRARY OF SUMNER COUNTY",
+      "system": "GALLATIN PUBLIC LIBRARY OF SUMNER COUNTY",
+      "address": "123 EAST MAIN STREET, GALLATIN, TN",
+      "website": "https://www.gallatintn.gov/2248/Gallatin-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37022",
+        "37031",
+        "37048",
+        "37066",
+        "37186"
+      ]
+    },
+    {
+      "name": "HENDERSONVILLE PUBLIC LIBRARY OF SUMNER COUNTY",
+      "system": "HENDERSONVILLE PUBLIC LIBRARY OF SUMNER COUNTY",
+      "address": "140 SAUNDERSVILLE ROAD, HENDERSONVILLE, TN",
+      "website": "https://sumnercountytn.gov/departments/libraries/sumner-county-library-branches/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37022",
+        "37031",
+        "37048",
+        "37075",
+        "37186"
+      ]
+    },
+    {
+      "name": "LA VERGNE PUBLIC LIBRARY",
+      "system": "LA VERGNE PUBLIC LIBRARY",
+      "address": "5063 MURFREESBORO ROAD, LA VERGNE, TN",
+      "website": "https://www.lavergnetn.gov/192/La-Vergne-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37037",
+        "37060",
+        "37085",
+        "37086",
+        "37118",
+        "37127",
+        "37128",
+        "37129",
+        "37153",
+        "37167"
+      ]
+    },
+    {
+      "name": "SOUTH CHEATHAM PUBLIC LIBRARY",
+      "system": "SOUTH CHEATHAM PUBLIC LIBRARY",
+      "address": "358 NORTH MAIN STREET, KINGSTON SPRINGS, TN",
+      "website": "https://www.southcheathamlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37035",
+        "37082",
+        "37143",
+        "37146"
+      ]
+    },
+    {
+      "name": "MILLERSVILLE PUBLIC LIBRARY OF SUMNER COUNTY",
+      "system": "MILLERSVILLE PUBLIC LIBRARY OF SUMNER COUNTY",
+      "address": "1174 LOUISVILLE HWY, MILLERSVILLE, TN",
+      "website": "https://millersvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37022",
+        "37031",
+        "37048",
+        "37072",
+        "37186"
       ]
     }
   ]

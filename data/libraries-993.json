@@ -1,6 +1,42 @@
 {
   "libraries": [
     {
+      "name": "RICHLAND PUBLIC LIBRARY",
+      "system": "RICHLAND PUBLIC LIBRARY",
+      "address": "955 NORTHGATE DR, RICHLAND, WA",
+      "website": "https://www.richland.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "989HH",
+        "99320",
+        "99337",
+        "99338",
+        "99345",
+        "99346",
+        "99350",
+        "99352",
+        "99353",
+        "993HH"
+      ]
+    },
+    {
+      "name": "RITZVILLE LIBRARY DISTRICT #2",
+      "system": "RITZVILLE LIBRARY DISTRICT #2",
+      "address": "302 W MAIN AVE, RITZVILLE, WA",
+      "website": "https://www.ritzvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99105",
+        "99169",
+        "99332",
+        "99341",
+        "99344",
+        "99371"
+      ]
+    },
+    {
       "name": "POMEROY (DENNY ASHBY) LIBRARY",
       "system": "POMEROY (DENNY ASHBY) LIBRARY",
       "address": "856 ARLINGTON ST, POMEROY, WA",
@@ -19,7 +55,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99361"
+        "99323",
+        "99324",
+        "99329",
+        "99348",
+        "99360",
+        "99361",
+        "99363"
       ]
     },
     {
@@ -30,18 +72,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99362"
-      ]
-    },
-    {
-      "name": "RICHLAND PUBLIC LIBRARY",
-      "system": "RICHLAND PUBLIC LIBRARY",
-      "address": "955 NORTHGATE DR, RICHLAND, WA",
-      "website": "https://www.richland.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "99352"
+        "99323",
+        "99324",
+        "99329",
+        "99348",
+        "99360",
+        "99362",
+        "99363"
       ]
     },
     {
@@ -52,7 +89,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99362"
+        "99323",
+        "99324",
+        "99329",
+        "99348",
+        "99360",
+        "99362",
+        "99363"
       ]
     },
     {
@@ -63,7 +106,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99336"
+        "989HH",
+        "99320",
+        "99336",
+        "99337",
+        "99338",
+        "99345",
+        "99346",
+        "99350",
+        "99353",
+        "993HH"
       ]
     },
     {
@@ -74,7 +126,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99328"
+        "99328",
+        "99359"
       ]
     }
   ]

@@ -1,6 +1,20 @@
 {
   "libraries": [
     {
+      "name": "WAYNOKA PUBLIC LIBRARY",
+      "system": "WAYNOKA PUBLIC LIBRARY",
+      "address": "1659 CECIL STREET, WAYNOKA, OK",
+      "website": "https://www.waynokaok.org/index.php/local-amenties/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73731",
+        "73746",
+        "73842",
+        "73860"
+      ]
+    },
+    {
       "name": "ALVA PUBLIC LIBRARY",
       "system": "ALVA PUBLIC LIBRARY",
       "address": "504 SEVENTH STREET, ALVA, OK",
@@ -8,7 +22,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73717"
+        "73717",
+        "73731",
+        "73746",
+        "73842"
       ]
     },
     {
@@ -19,7 +36,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73726"
+        "73716",
+        "73719",
+        "73722",
+        "73726",
+        "73739",
+        "73741",
+        "73749"
       ]
     },
     {
@@ -30,7 +53,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73728"
+        "73716",
+        "73719",
+        "73722",
+        "73728",
+        "73739",
+        "73741",
+        "73749"
       ]
     },
     {
@@ -41,7 +70,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73701"
+        "73701",
+        "73703",
+        "73720",
+        "73727",
+        "73730",
+        "73733",
+        "73735",
+        "73736",
+        "73738",
+        "73743",
+        "73753",
+        "73754",
+        "73773",
+        "74640"
       ]
     },
     {
@@ -52,7 +94,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73737"
+        "73718",
+        "73729",
+        "73737",
+        "73747",
+        "73760",
+        "73768",
+        "73838"
       ]
     },
     {
@@ -63,7 +111,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73742"
+        "73016",
+        "73734",
+        "73742",
+        "73756",
+        "73762",
+        "73764"
       ]
     },
     {
@@ -74,7 +127,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73750"
+        "73016",
+        "73734",
+        "73750",
+        "73756",
+        "73762",
+        "73764"
       ]
     },
     {
@@ -85,7 +143,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73759"
+        "73758",
+        "73759",
+        "73761",
+        "73766",
+        "73771",
+        "74636",
+        "74643",
+        "746HH"
       ]
     },
     {
@@ -96,7 +161,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73763"
+        "73043",
+        "73646",
+        "73724",
+        "73744",
+        "73755",
+        "73763",
+        "737HH"
       ]
     },
     {
@@ -107,7 +178,46 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73772"
+        "73043",
+        "73646",
+        "73724",
+        "73744",
+        "73755",
+        "73772",
+        "737HH"
+      ]
+    },
+    {
+      "name": "GEARY PUBLIC LIBRARY",
+      "system": "GEARY PUBLIC LIBRARY",
+      "address": "106 W MAIN ST, GEARY, OK",
+      "website": "https://librarytechnology.org/library/23086",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73040",
+        "73043",
+        "73646",
+        "73724",
+        "73744",
+        "73755",
+        "737HH"
+      ]
+    },
+    {
+      "name": "PERRY CARNEGIE LIBRARY",
+      "system": "PERRY CARNEGIE LIBRARY",
+      "address": "302 N 7TH ST, PERRY, OK",
+      "website": "https://perrypl.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73061",
+        "73077",
+        "73757",
+        "74630",
+        "74644",
+        "74651"
       ]
     }
   ]

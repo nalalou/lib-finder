@@ -1,6 +1,22 @@
 {
   "libraries": [
     {
+      "name": "ALBEMARLE REGIONAL LIBRARY",
+      "system": "ALBEMARLE REGIONAL LIBRARY",
+      "address": "303 W TRYON ST, WINTON, NC",
+      "website": "https://arlnc.libguides.com/home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27818",
+        "27855",
+        "27910",
+        "27922",
+        "27942",
+        "27986"
+      ]
+    },
+    {
       "name": "BEAUFORT-HYDE-MARTIN REGIONAL LIBRARY",
       "system": "BEAUFORT-HYDE-MARTIN REGIONAL LIBRARY",
       "address": "158 N MARKET ST, WASHINGTON, NC",
@@ -8,7 +24,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27889"
+        "27806",
+        "27808",
+        "27810",
+        "27814",
+        "27817",
+        "27821",
+        "27860",
+        "27865",
+        "27889",
+        "278HH",
+        "278XX"
       ]
     },
     {
@@ -19,6 +45,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "27801",
+        "27809",
+        "27819",
+        "27852",
+        "27864",
         "27886"
       ]
     },
@@ -30,7 +61,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27839"
+        "27823",
+        "27839",
+        "27843",
+        "27844",
+        "27850",
+        "27874",
+        "27890"
       ]
     },
     {
@@ -41,7 +78,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27804"
+        "27557",
+        "27803",
+        "27804",
+        "27807",
+        "27816",
+        "27878",
+        "27882",
+        "27891"
       ]
     },
     {
@@ -52,7 +96,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27858"
+        "27812",
+        "27827",
+        "27829",
+        "27834",
+        "27837",
+        "27858",
+        "27884",
+        "28513",
+        "28530",
+        "28590"
       ]
     },
     {
@@ -63,7 +116,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27893"
+        "27813",
+        "27822",
+        "27851",
+        "27873",
+        "27880",
+        "27883",
+        "27893",
+        "27896"
       ]
     },
     {
@@ -74,7 +134,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27828"
+        "27812",
+        "27827",
+        "27828",
+        "27829",
+        "27834",
+        "27837",
+        "27884",
+        "28513",
+        "28530",
+        "28590"
       ]
     },
     {
@@ -85,7 +154,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27870"
+        "27823",
+        "27843",
+        "27844",
+        "27850",
+        "27870",
+        "27874",
+        "27890"
       ]
     },
     {
@@ -96,7 +171,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27889"
+        "27806",
+        "27808",
+        "27810",
+        "27814",
+        "27817",
+        "27821",
+        "27860",
+        "27865",
+        "27889",
+        "278HH",
+        "278XX"
       ]
     },
     {
@@ -107,7 +192,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27856"
+        "27557",
+        "27803",
+        "27807",
+        "27816",
+        "27856",
+        "27878",
+        "27882",
+        "27891"
       ]
     }
   ]

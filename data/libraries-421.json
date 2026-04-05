@@ -3,12 +3,16 @@
     {
       "name": "ALLEN COUNTY PUBLIC LIBRARY",
       "system": "ALLEN COUNTY PUBLIC LIBRARY",
-      "address": "106 WEST PUBLIC SQUARE, SCOTTSVILLE, KY",
+      "address": "900 LIBRARY PLAZA, FORT WAYNE, IN",
       "website": "http://www.acpl.lib.in.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42164"
+        "42120",
+        "42153",
+        "42164",
+        "421HH",
+        "46802"
       ]
     },
     {
@@ -19,7 +23,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42141"
+        "42123",
+        "42127",
+        "42131",
+        "42141",
+        "42160"
       ]
     },
     {
@@ -30,7 +38,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42129"
+        "42129",
+        "42154",
+        "42166",
+        "42214"
       ]
     },
     {
@@ -41,6 +52,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "42133",
+        "42140",
+        "42151",
+        "42157",
         "42167"
       ]
     },
@@ -63,7 +78,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42101"
+        "42101",
+        "42103",
+        "42104",
+        "42122",
+        "42159",
+        "42170",
+        "42171",
+        "42274"
       ]
     }
   ]

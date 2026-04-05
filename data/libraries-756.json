@@ -1,6 +1,25 @@
 {
   "libraries": [
     {
+      "name": "LONGVIEW PUBLIC LIBRARY",
+      "system": "LONGVIEW PUBLIC LIBRARY",
+      "address": "222 W COTTON ST, LONGVIEW, TX",
+      "website": "http://www.longviewlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75601",
+        "98581",
+        "98603",
+        "98616",
+        "98632",
+        "98645",
+        "98649",
+        "98674",
+        "986XX"
+      ]
+    },
+    {
       "name": "UPSHUR COUNTY LIBRARY",
       "system": "UPSHUR COUNTY LIBRARY",
       "address": "702 W TYLER ST, GILMER, TX",
@@ -8,7 +27,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75644"
+        "75640",
+        "75644",
+        "75683",
+        "75755"
       ]
     },
     {
@@ -19,6 +41,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "75602",
+        "75603",
+        "75604",
+        "75605",
+        "75641",
         "75647"
       ]
     },
@@ -30,7 +57,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75652"
+        "75652",
+        "75654",
+        "75667",
+        "75680",
+        "75681",
+        "75684",
+        "75691",
+        "75784"
       ]
     },
     {
@@ -41,29 +75,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "75602",
+        "75603",
+        "75604",
+        "75605",
+        "75641",
         "75662"
-      ]
-    },
-    {
-      "name": "LONGVIEW PUBLIC LIBRARY",
-      "system": "LONGVIEW PUBLIC LIBRARY",
-      "address": "222 W COTTON ST, LONGVIEW, TX",
-      "website": "http://www.longviewlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75601"
       ]
     },
     {
       "name": "MARSHALL PUBLIC LIBRARY",
       "system": "MARSHALL PUBLIC LIBRARY",
-      "address": "300 S ALAMO BLVD, MARSHALL, TX",
+      "address": "612 ARCHER AVENUE, MARSHALL, IL",
       "website": "https://marshallpl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75670"
+        "62441",
+        "75650",
+        "75651",
+        "75661",
+        "75670",
+        "75672"
       ]
     },
     {
@@ -74,7 +107,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75686"
+        "75451",
+        "754HH",
+        "75686",
+        "756HH"
       ]
     },
     {
@@ -85,7 +121,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75633"
+        "75631",
+        "75633",
+        "75639",
+        "75643",
+        "75669"
       ]
     },
     {
@@ -96,7 +136,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75638"
+        "75568",
+        "75571",
+        "75636",
+        "75638",
+        "75668"
       ]
     },
     {
@@ -107,6 +151,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "75564",
+        "75630",
         "75657"
       ]
     },
@@ -118,6 +164,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "75602",
+        "75603",
+        "75604",
+        "75605",
+        "75641",
         "75693"
       ]
     },
@@ -129,6 +180,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "75650",
+        "75651",
+        "75661",
+        "75670",
+        "75672",
         "75692"
       ]
     },
@@ -140,6 +196,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "75555",
+        "75556",
+        "75560",
+        "75562",
+        "75563",
+        "75565",
+        "75566",
+        "75572",
         "75656"
       ]
     }

@@ -1,6 +1,56 @@
 {
   "libraries": [
     {
+      "name": "CLEAR LAKE PUBLIC LIBRARY",
+      "system": "CLEAR LAKE PUBLIC LIBRARY",
+      "address": "350 FOURTH AVE., CLEAR LAKE, WI",
+      "website": "https://clearlakelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54004",
+        "54005",
+        "54006",
+        "54026",
+        "54858"
+      ]
+    },
+    {
+      "name": "LEGION MEMORIAL LIBRARY",
+      "system": "LEGION MEMORIAL LIBRARY",
+      "address": "106 IRON ST., MELLEN, WI",
+      "website": "https://www.legionmemoriallibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54514",
+        "54517",
+        "54527",
+        "54546",
+        "545HH",
+        "54846",
+        "54855",
+        "54861",
+        "548HH"
+      ]
+    },
+    {
+      "name": "HAWKINS AREA LIBRARY",
+      "system": "HAWKINS AREA LIBRARY",
+      "address": "709 MAIN ST., HAWKINS, WI",
+      "website": "https://hawkinspl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54526",
+        "54530",
+        "54563",
+        "54731",
+        "54766",
+        "54895"
+      ]
+    },
+    {
       "name": "VAUGHN PUBLIC LIBRARY",
       "system": "VAUGHN PUBLIC LIBRARY",
       "address": "502 W. MAIN ST., ASHLAND, WI",
@@ -8,7 +58,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54806"
+        "54514",
+        "54517",
+        "54527",
+        "545HH",
+        "54806",
+        "54846",
+        "54855",
+        "54861",
+        "548HH"
       ]
     },
     {
@@ -19,7 +77,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54810"
+        "54004",
+        "54006",
+        "54026",
+        "54810",
+        "54858"
       ]
     },
     {
@@ -30,7 +92,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54812"
+        "54733",
+        "54762",
+        "547HH",
+        "54805",
+        "54812",
+        "54813",
+        "54822",
+        "54826",
+        "54841",
+        "54857",
+        "54889"
       ]
     },
     {
@@ -41,7 +113,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54814"
+        "54814",
+        "54827",
+        "54839",
+        "54844",
+        "54856",
+        "54865",
+        "54891",
+        "548XX"
       ]
     },
     {
@@ -52,18 +131,35 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54821"
+        "54821",
+        "54827",
+        "54839",
+        "54844",
+        "54856",
+        "54865",
+        "54891",
+        "548XX"
       ]
     },
     {
       "name": "CAMERON PUBLIC LIBRARY",
       "system": "CAMERON PUBLIC LIBRARY",
-      "address": "506 MAIN ST., CAMERON, WI",
+      "address": "312 N CHESTNUT ST, CAMERON, MO",
       "website": "https://www.cameronlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54822"
+        "54733",
+        "54762",
+        "547HH",
+        "54805",
+        "54813",
+        "54822",
+        "54826",
+        "54841",
+        "54857",
+        "54889",
+        "64429"
       ]
     },
     {
@@ -74,7 +170,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54824"
+        "54004",
+        "54006",
+        "54026",
+        "54824",
+        "54858"
       ]
     },
     {
@@ -85,7 +185,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54829"
+        "54733",
+        "54762",
+        "547HH",
+        "54805",
+        "54813",
+        "54822",
+        "54826",
+        "54829",
+        "54841",
+        "54857",
+        "54889"
       ]
     },
     {
@@ -96,7 +206,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54832"
+        "54827",
+        "54832",
+        "54839",
+        "54844",
+        "54856",
+        "54865",
+        "54891",
+        "548XX"
       ]
     },
     {
@@ -107,7 +224,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54837"
+        "54004",
+        "54006",
+        "54026",
+        "54837",
+        "54858"
       ]
     },
     {
@@ -118,7 +239,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54840"
+        "54830",
+        "54840",
+        "54845",
+        "54872"
       ]
     },
     {
@@ -129,7 +253,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54843"
+        "54828",
+        "54834",
+        "54835",
+        "54843",
+        "54862",
+        "54867",
+        "54876"
       ]
     },
     {
@@ -140,7 +270,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54850"
+        "54514",
+        "54517",
+        "54527",
+        "545HH",
+        "54846",
+        "54850",
+        "54855",
+        "54861",
+        "548HH"
       ]
     },
     {
@@ -151,7 +289,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54848"
+        "54526",
+        "54563",
+        "54731",
+        "54766",
+        "54848",
+        "54895"
       ]
     },
     {
@@ -162,17 +305,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54853"
+        "54004",
+        "54006",
+        "54026",
+        "54853",
+        "54858"
       ]
     },
     {
       "name": "MILLTOWN PUBLIC LIBRARY",
       "system": "MILLTOWN PUBLIC LIBRARY",
-      "address": "61 W. MAIN ST., MILLTOWN, WI",
+      "address": "20 W. CHURCH STREET, MILLTOWN, NJ",
       "website": "https://www.milltownlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "08850",
+        "54004",
+        "54006",
+        "54026",
         "54858"
       ]
     },
@@ -184,7 +335,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54868"
+        "54733",
+        "54762",
+        "547HH",
+        "54805",
+        "54813",
+        "54822",
+        "54826",
+        "54841",
+        "54857",
+        "54868",
+        "54889"
       ]
     },
     {
@@ -195,7 +356,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54871"
+        "54817",
+        "54859",
+        "54870",
+        "54871",
+        "54875",
+        "54888"
       ]
     },
     {
@@ -206,40 +372,72 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54801"
+        "54801",
+        "54817",
+        "54859",
+        "54870",
+        "54875",
+        "54888"
       ]
     },
     {
       "name": "SUPERIOR PUBLIC LIBRARY",
       "system": "SUPERIOR PUBLIC LIBRARY",
-      "address": "1530 TOWER AVE., SUPERIOR, WI",
+      "address": "99 N KELLNER AVE, SUPERIOR, AZ",
       "website": "http://superiorlibrary.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54880"
+        "54820",
+        "54836",
+        "54838",
+        "54842",
+        "54849",
+        "54854",
+        "54864",
+        "54873",
+        "54874",
+        "54880",
+        "85173"
       ]
     },
     {
       "name": "TURTLE LAKE PUBLIC LIBRARY",
       "system": "TURTLE LAKE PUBLIC LIBRARY",
-      "address": "301 MAPLE ST. S., TURTLE LAKE, WI",
+      "address": "107 EGGERT STREET, TURTLE LAKE, ND",
       "website": "https://public-libraries.com/nd/turtle-lake/turtle-lake-public-library-nd-turtle-lake/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54889"
+        "54733",
+        "54762",
+        "547HH",
+        "54805",
+        "54813",
+        "54822",
+        "54826",
+        "54841",
+        "54857",
+        "54889",
+        "58575"
       ]
     },
     {
       "name": "WASHBURN PUBLIC LIBRARY",
       "system": "WASHBURN PUBLIC LIBRARY",
-      "address": "307 WASHINGTON AVE., WASHBURN, WI",
+      "address": "705 MAIN AVE, WASHBURN, ND",
       "website": "https://washburnndlibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54891"
+        "54827",
+        "54839",
+        "54844",
+        "54856",
+        "54865",
+        "54891",
+        "548XX",
+        "58577"
       ]
     },
     {
@@ -250,6 +448,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54828",
+        "54834",
+        "54835",
+        "54862",
+        "54867",
+        "54876",
         "54896"
       ]
     },
@@ -261,7 +465,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54819"
+        "54526",
+        "54563",
+        "54731",
+        "54766",
+        "54819",
+        "54895"
       ]
     },
     {
@@ -272,7 +481,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54843"
+        "54828",
+        "54834",
+        "54835",
+        "54843",
+        "54862",
+        "54867",
+        "54876"
       ]
     },
     {
@@ -283,6 +498,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54830",
+        "54845",
+        "54872",
         "54893"
       ]
     },
@@ -294,7 +512,95 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54847"
+        "54827",
+        "54839",
+        "54844",
+        "54847",
+        "54856",
+        "54865",
+        "54891",
+        "548XX"
+      ]
+    },
+    {
+      "name": "AMERY PUBLIC LIBRARY",
+      "system": "AMERY PUBLIC LIBRARY",
+      "address": "104 MAPLE ST., AMERY, WI",
+      "website": "https://amerylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54001",
+        "54004",
+        "54006",
+        "54026",
+        "54858"
+      ]
+    },
+    {
+      "name": "WILBERG MEMORIAL PUBLIC LIBRARY",
+      "system": "WILBERG MEMORIAL PUBLIC LIBRARY",
+      "address": "310 CHIEFTAIN ST., OSCEOLA, WI",
+      "website": "https://www.osceolapubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54004",
+        "54006",
+        "54020",
+        "54026",
+        "54858"
+      ]
+    },
+    {
+      "name": "GERALDINE E. ANDERSON VILLAGE LIBRARY",
+      "system": "GERALDINE E. ANDERSON VILLAGE LIBRARY",
+      "address": "117 S. CENTRAL AVE., DRESSER, WI",
+      "website": "https://dresserpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54004",
+        "54006",
+        "54009",
+        "54026",
+        "54858"
+      ]
+    },
+    {
+      "name": "ST. CROIX FALLS PUBLIC LIBRARY",
+      "system": "ST. CROIX FALLS PUBLIC LIBRARY",
+      "address": "230 S. WASHINGTON ST., ST. CROIX FALLS, WI",
+      "website": "https://stcroixfallslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54004",
+        "54006",
+        "54024",
+        "54026",
+        "54858"
+      ]
+    },
+    {
+      "name": "CALHOUN MEMORIAL LIBRARY",
+      "system": "CALHOUN MEMORIAL LIBRARY",
+      "address": "321 MOORE ST., CHETEK, WI",
+      "website": "https://calhounmemoriallibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54728",
+        "54733",
+        "54762",
+        "547HH",
+        "54805",
+        "54813",
+        "54822",
+        "54826",
+        "54841",
+        "54857",
+        "54889"
       ]
     }
   ]

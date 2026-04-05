@@ -1,6 +1,203 @@
 {
   "libraries": [
     {
+      "name": "MARION COUNTY PUBLIC LIBRARY",
+      "system": "MARION COUNTY PUBLIC LIBRARY",
+      "address": "321 MONROE ST., FAIRMONT, WV",
+      "website": "https://www.marioncopublic.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26554",
+        "26559",
+        "26563",
+        "26570",
+        "26571",
+        "26572",
+        "26574",
+        "26576",
+        "26582",
+        "26585",
+        "26586",
+        "26587",
+        "26588",
+        "26591",
+        "265HH"
+      ]
+    },
+    {
+      "name": "BRIDGEPORT PUBLIC LIBRARY",
+      "system": "BRIDGEPORT PUBLIC LIBRARY",
+      "address": "3399 WILLIAMSON ROAD, SAGINAW, MI",
+      "website": "https://bportlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26302",
+        "26323",
+        "26330",
+        "26332",
+        "26361",
+        "26366",
+        "26369",
+        "26386",
+        "26404",
+        "26408",
+        "26422",
+        "26426",
+        "26438",
+        "26448",
+        "26451",
+        "26463",
+        "26568",
+        "48601"
+      ]
+    },
+    {
+      "name": "TERRA ALTA PUBLIC LIBRARY",
+      "system": "TERRA ALTA PUBLIC LIBRARY",
+      "address": "701B EAST STATE AVENUE, TERRA ALTA, WV",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Terra Alta Public Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26374",
+        "26410",
+        "26425",
+        "26444",
+        "26519",
+        "26520",
+        "26525",
+        "26542",
+        "26547",
+        "26705",
+        "26716",
+        "26764"
+      ]
+    },
+    {
+      "name": "NEW MARTINSVILLE PUBLIC LIBRARY",
+      "system": "NEW MARTINSVILLE PUBLIC LIBRARY",
+      "address": "160 WASHINGTON STREET, NEW MARTINSVILLE, WV",
+      "website": "https://newmartinsville.lib.wv.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26155",
+        "26162",
+        "26167",
+        "26186",
+        "26348",
+        "26377",
+        "26437",
+        "26562",
+        "26581"
+      ]
+    },
+    {
+      "name": "PADEN CITY PUBLIC LIBRARY",
+      "system": "PADEN CITY PUBLIC LIBRARY",
+      "address": "114 S. 4TH AVENUE, PADEN CITY, WV",
+      "website": "https://www.padencitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26159",
+        "26162",
+        "26167",
+        "26186",
+        "26348",
+        "26377",
+        "26437",
+        "26562",
+        "26581"
+      ]
+    },
+    {
+      "name": "CLARKSBURG-HARRISON PUBLIC LIBRARY",
+      "system": "CLARKSBURG-HARRISON PUBLIC LIBRARY",
+      "address": "404 W. PIKE STREET, CLARKSBURG, WV",
+      "website": "http://clarksburglibrary.info/home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26301",
+        "26302",
+        "26323",
+        "26330",
+        "26332",
+        "26361",
+        "26366",
+        "26369",
+        "26386",
+        "26404",
+        "26408",
+        "26422",
+        "26426",
+        "26438",
+        "26448",
+        "26451",
+        "26463",
+        "26568"
+      ]
+    },
+    {
+      "name": "SOUTHERN AREA PUBLIC LIBRARY",
+      "system": "SOUTHERN AREA PUBLIC LIBRARY",
+      "address": "120 EAST MAIN STREET, LOST CREEK, WV",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Southern Area Public Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26302",
+        "26323",
+        "26330",
+        "26332",
+        "26361",
+        "26366",
+        "26369",
+        "26385",
+        "26386",
+        "26404",
+        "26408",
+        "26422",
+        "26426",
+        "26438",
+        "26448",
+        "26451",
+        "26463",
+        "26568"
+      ]
+    },
+    {
+      "name": "NUTTER FORT PUBLIC LIBRARY",
+      "system": "NUTTER FORT PUBLIC LIBRARY",
+      "address": "1300 BUCKHANNON PIKE, NUTTER FORT, WV",
+      "website": "https://townofnutterfort.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26301",
+        "26302",
+        "26323",
+        "26330",
+        "26332",
+        "26361",
+        "26366",
+        "26369",
+        "26386",
+        "26404",
+        "26408",
+        "26422",
+        "26426",
+        "26438",
+        "26448",
+        "26451",
+        "26463",
+        "26568"
+      ]
+    },
+    {
       "name": "MORGANTOWN PUBLIC LIBRARY",
       "system": "MORGANTOWN PUBLIC LIBRARY",
       "address": "373 SPRUCE STREET, MORGANTOWN, WV",
@@ -8,7 +205,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26505"
+        "26501",
+        "26505",
+        "26508",
+        "26521",
+        "26529",
+        "26531",
+        "26534",
+        "26541",
+        "26543",
+        "26544",
+        "26589",
+        "26590"
       ]
     },
     {
@@ -19,7 +227,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26537"
+        "26374",
+        "26410",
+        "26425",
+        "26444",
+        "26519",
+        "26520",
+        "26525",
+        "26537",
+        "26542",
+        "26547",
+        "26705",
+        "26716"
       ]
     },
     {
@@ -30,18 +249,62 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26575"
+        "26162",
+        "26167",
+        "26186",
+        "26348",
+        "26377",
+        "26437",
+        "26562",
+        "26575",
+        "26581"
       ]
     },
     {
-      "name": "MARION COUNTY PUBLIC LIBRARY",
-      "system": "MARION COUNTY PUBLIC LIBRARY",
-      "address": "321 MONROE ST., FAIRMONT, WV",
-      "website": "https://www.marioncopublic.org/",
+      "name": "LOWE PUBLIC LIBRARY",
+      "system": "LOWE PUBLIC LIBRARY",
+      "address": "40 BRIDGE ST., SHINNSTON, WV",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Lowe Public Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26554"
+        "26302",
+        "26323",
+        "26330",
+        "26332",
+        "26361",
+        "26366",
+        "26369",
+        "26386",
+        "26404",
+        "26408",
+        "26422",
+        "26426",
+        "26431",
+        "26438",
+        "26448",
+        "26451",
+        "26463",
+        "26568"
+      ]
+    },
+    {
+      "name": "PINE GROVE PUBLIC LIBRARY",
+      "system": "PINE GROVE PUBLIC LIBRARY",
+      "address": "756 ALLEY ADDITION, PINE GROVE, WV",
+      "website": "https://citylibrary.com/public-libraries/pine-grove-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26162",
+        "26167",
+        "26186",
+        "26348",
+        "26377",
+        "26419",
+        "26437",
+        "26562",
+        "26581"
       ]
     }
   ]

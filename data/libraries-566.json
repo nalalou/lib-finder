@@ -1,6 +1,216 @@
 {
   "libraries": [
     {
+      "name": "KITCHIGAMI REGIONAL LIBRARY",
+      "system": "KITCHIGAMI REGIONAL LIBRARY",
+      "address": "310 2ND STREET, PINE RIVER, MN",
+      "website": "https://krls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56435",
+        "56452",
+        "56473",
+        "56474",
+        "56484",
+        "564HH",
+        "56626",
+        "56633",
+        "56641",
+        "56655",
+        "56662",
+        "56672"
+      ]
+    },
+    {
+      "name": "BOVEY PUBLIC LIBRARY",
+      "system": "BOVEY PUBLIC LIBRARY",
+      "address": "402 2ND STREET, BOVEY, MN",
+      "website": "https://boveymn.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55709",
+        "55721",
+        "55742",
+        "55769",
+        "55775",
+        "55784",
+        "55786",
+        "55793",
+        "56628",
+        "56636",
+        "56637",
+        "56639",
+        "56657",
+        "56659",
+        "56680",
+        "56681",
+        "56688"
+      ]
+    },
+    {
+      "name": "CALUMET PUBLIC LIBRARY",
+      "system": "CALUMET PUBLIC LIBRARY",
+      "address": "GARY STREET AND THIRD AVENUE, CALUMET, MN",
+      "website": "https://www.clkschools.org/library.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55716",
+        "55721",
+        "55742",
+        "55769",
+        "55775",
+        "55784",
+        "55786",
+        "55793",
+        "56628",
+        "56636",
+        "56637",
+        "56639",
+        "56657",
+        "56659",
+        "56680",
+        "56681",
+        "56688"
+      ]
+    },
+    {
+      "name": "COLERAINE PUBLIC LIBRARY",
+      "system": "COLERAINE PUBLIC LIBRARY",
+      "address": "203 COLE STREET, COLERAINE, MN",
+      "website": "https://www.alslib.info/coleraine-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55721",
+        "55722",
+        "55742",
+        "55769",
+        "55775",
+        "55784",
+        "55786",
+        "55793",
+        "56628",
+        "56636",
+        "56637",
+        "56639",
+        "56657",
+        "56659",
+        "56680",
+        "56681",
+        "56688"
+      ]
+    },
+    {
+      "name": "GRAND RAPIDS AREA LIBRARY",
+      "system": "GRAND RAPIDS AREA LIBRARY",
+      "address": "140 NE 2ND STREET, GRAND RAPIDS, MN",
+      "website": "https://cityofgrandrapidsmn.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55721",
+        "55742",
+        "55744",
+        "55769",
+        "55775",
+        "55784",
+        "55786",
+        "55793",
+        "56628",
+        "56636",
+        "56637",
+        "56639",
+        "56657",
+        "56659",
+        "56680",
+        "56681",
+        "56688"
+      ]
+    },
+    {
+      "name": "KEEWATIN PUBLIC LIBRARY",
+      "system": "KEEWATIN PUBLIC LIBRARY",
+      "address": "125 W 3RD AVENUE, KEEWATIN, MN",
+      "website": "https://keewatinmn.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55721",
+        "55742",
+        "55753",
+        "55769",
+        "55775",
+        "55784",
+        "55786",
+        "55793",
+        "56628",
+        "56636",
+        "56637",
+        "56639",
+        "56657",
+        "56659",
+        "56680",
+        "56681",
+        "56688"
+      ]
+    },
+    {
+      "name": "MARBLE PUBLIC LIBRARY",
+      "system": "MARBLE PUBLIC LIBRARY",
+      "address": "302 ALICE AVENUE, MARBLE, MN",
+      "website": "https://librarytechnology.org/library/8589",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55721",
+        "55742",
+        "55764",
+        "55769",
+        "55775",
+        "55784",
+        "55786",
+        "55793",
+        "56628",
+        "56636",
+        "56637",
+        "56639",
+        "56657",
+        "56659",
+        "56680",
+        "56681",
+        "56688"
+      ]
+    },
+    {
+      "name": "EAST GRAND FORKS CAMPBELL LIBRARY",
+      "system": "EAST GRAND FORKS CAMPBELL LIBRARY",
+      "address": "422 4TH STREET NORTHWEST, EAST GRAND FORKS, MN",
+      "website": "http://www.eastgrandforks.gov/185/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56517",
+        "56523",
+        "56535",
+        "56540",
+        "56542",
+        "56556",
+        "56568",
+        "56592",
+        "56646",
+        "56684",
+        "56712",
+        "56716",
+        "56721",
+        "56722",
+        "56723",
+        "56736"
+      ]
+    },
+    {
       "name": "BAUDETTE PUBLIC LIBRARY",
       "system": "BAUDETTE PUBLIC LIBRARY",
       "address": "110 1ST AVENUE SW, BAUDETTE, MN",
@@ -8,7 +218,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56623"
+        "56623",
+        "56686",
+        "56711",
+        "56741"
       ]
     },
     {
@@ -19,7 +232,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56649"
+        "56627",
+        "56629",
+        "56649",
+        "56653",
+        "56654",
+        "56660",
+        "56661",
+        "56669"
       ]
     }
   ]

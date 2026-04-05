@@ -1,6 +1,82 @@
 {
   "libraries": [
     {
+      "name": "MONTEREY-TIPPECANOE TOWNSHIP PUBLIC LIBRARY",
+      "system": "MONTEREY-TIPPECANOE TOWNSHIP PUBLIC LIBRARY",
+      "address": "6260 EAST MAIN STREET, MONTEREY, IN",
+      "website": "https://www.in.gov/montereytippecanoetownshiplibrary/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46960",
+        "46985",
+        "46996",
+        "47957"
+      ]
+    },
+    {
+      "name": "DELPHI PUBLIC LIBRARY",
+      "system": "DELPHI PUBLIC LIBRARY",
+      "address": "222 EAST MAIN STREET, DELPHI, IN",
+      "website": "http://www.delphilibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46913",
+        "46920",
+        "46923",
+        "469HH",
+        "47997",
+        "479HH"
+      ]
+    },
+    {
+      "name": "CAMDEN-JACKSON TOWNSHIP PUBLIC LIBRARY",
+      "system": "CAMDEN-JACKSON TOWNSHIP PUBLIC LIBRARY",
+      "address": "183 WEST MAIN, CAMDEN, IN",
+      "website": "http://camden.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46913",
+        "46917",
+        "46920",
+        "469HH",
+        "47997",
+        "479HH"
+      ]
+    },
+    {
+      "name": "FLORA-MONROE TOWNSHIP PUBLIC LIBRARY",
+      "system": "FLORA-MONROE TOWNSHIP PUBLIC LIBRARY",
+      "address": "109 NORTH CENTER STREET, FLORA, IN",
+      "website": "https://www.flora.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46913",
+        "46920",
+        "46929",
+        "469HH",
+        "47997",
+        "479HH"
+      ]
+    },
+    {
+      "name": "YORK TOWNSHIP PUBLIC LIBRARY",
+      "system": "YORK TOWNSHIP PUBLIC LIBRARY",
+      "address": "8908 WEST 845 NORTH, EARL PARK, IN",
+      "website": "https://www.thomsonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47917",
+        "47942",
+        "47971",
+        "47986"
+      ]
+    },
+    {
       "name": "REMINGTON-CARPENTER TOWNSHIP PUBLIC LIBRARY",
       "system": "REMINGTON-CARPENTER TOWNSHIP PUBLIC LIBRARY",
       "address": "105 NORTH OHIO STREET, REMINGTON, IN",
@@ -8,6 +84,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46310",
+        "46392",
+        "47943",
         "47977"
       ]
     },
@@ -19,6 +98,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46310",
+        "46392",
+        "47943",
         "47978"
       ]
     },
@@ -30,7 +112,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47922"
+        "46379",
+        "46381",
+        "47922",
+        "47963",
+        "47964"
       ]
     },
     {
@@ -41,7 +127,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47951"
+        "46379",
+        "46381",
+        "47951",
+        "47963",
+        "47964"
       ]
     },
     {
@@ -52,7 +142,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47948"
+        "46379",
+        "46381",
+        "47948",
+        "47963",
+        "47964"
       ]
     },
     {
@@ -63,18 +157,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47946"
-      ]
-    },
-    {
-      "name": "YORK TOWNSHIP PUBLIC LIBRARY",
-      "system": "YORK TOWNSHIP PUBLIC LIBRARY",
-      "address": "8908 WEST 845 NORTH, EARL PARK, IN",
-      "website": "https://www.thomsonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47942"
+        "46985",
+        "46996",
+        "47946",
+        "47957"
       ]
     },
     {
@@ -85,7 +171,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47942"
+        "47917",
+        "47942",
+        "47971",
+        "47986"
       ]
     },
     {
@@ -96,7 +185,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47921"
+        "47917",
+        "47921",
+        "47971",
+        "47986"
       ]
     },
     {
@@ -107,18 +199,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47944"
-      ]
-    },
-    {
-      "name": "OXFORD PUBLIC LIBRARY",
-      "system": "OXFORD PUBLIC LIBRARY",
-      "address": "201 EAST SMITH STREET, OXFORD, IN",
-      "website": "http://oxford.njlibraries.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47971"
+        "47917",
+        "47944",
+        "47971",
+        "47986"
       ]
     },
     {
@@ -129,7 +213,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47970"
+        "47917",
+        "47970",
+        "47971",
+        "47986"
       ]
     },
     {
@@ -140,7 +227,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47918"
+        "47918",
+        "47949",
+        "47958",
+        "47969",
+        "47987"
       ]
     },
     {
@@ -151,7 +242,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47932"
+        "47932",
+        "47949",
+        "47958",
+        "47969",
+        "47987"
       ]
     },
     {
@@ -162,7 +257,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47952"
+        "47949",
+        "47952",
+        "47958",
+        "47969",
+        "47987"
       ]
     },
     {
@@ -173,7 +272,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47933"
+        "47916",
+        "47933",
+        "47965",
+        "47967",
+        "47968",
+        "47990",
+        "47994"
       ]
     },
     {
@@ -184,7 +289,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47989"
+        "47916",
+        "47965",
+        "47967",
+        "47968",
+        "47989",
+        "47990",
+        "47994"
       ]
     },
     {
@@ -195,7 +306,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47955"
+        "47916",
+        "47955",
+        "47965",
+        "47967",
+        "47968",
+        "47990",
+        "47994"
       ]
     },
     {
@@ -206,7 +323,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47940"
+        "47916",
+        "47940",
+        "47965",
+        "47967",
+        "47968",
+        "47990",
+        "47994"
       ]
     },
     {
@@ -217,7 +340,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47954"
+        "47916",
+        "47954",
+        "47965",
+        "47967",
+        "47968",
+        "47990",
+        "47994"
       ]
     },
     {
@@ -228,7 +357,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47906"
+        "47904",
+        "47905",
+        "47906",
+        "47909",
+        "47920",
+        "47924",
+        "47930",
+        "47941",
+        "47981",
+        "47983",
+        "47992"
       ]
     },
     {
@@ -239,7 +378,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47901"
+        "47901",
+        "47904",
+        "47905",
+        "47909",
+        "47920",
+        "47924",
+        "47930",
+        "47941",
+        "47981",
+        "47983",
+        "47992"
       ]
     },
     {
@@ -250,6 +399,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "47975",
+        "47982",
         "47991"
       ]
     },
@@ -261,6 +412,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "47975",
+        "47982",
         "47993"
       ]
     },
@@ -272,6 +425,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "47925",
+        "47926",
+        "47929",
+        "47950",
+        "47980",
         "47995"
       ]
     },
@@ -283,7 +441,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47923"
+        "47923",
+        "47925",
+        "47926",
+        "47929",
+        "47950",
+        "47980"
       ]
     },
     {
@@ -294,7 +457,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47959"
+        "47925",
+        "47926",
+        "47929",
+        "47950",
+        "47959",
+        "47980"
       ]
     },
     {
@@ -305,7 +473,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47960"
+        "47925",
+        "47926",
+        "47929",
+        "47950",
+        "47960",
+        "47980"
       ]
     },
     {
@@ -316,7 +489,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47966"
+        "47847",
+        "47854",
+        "47884",
+        "47928",
+        "47966",
+        "47974"
       ]
     }
   ]

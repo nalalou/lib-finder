@@ -1,14 +1,36 @@
 {
   "libraries": [
     {
-      "name": "PIEDMONT PUBLIC LIBRARY",
-      "system": "PIEDMONT PUBLIC LIBRARY",
-      "address": "118 W GREEN ST, PIEDMONT, MO",
-      "website": "https://www.cityofpiedmont.com/community-profile/page/public-library",
+      "name": "ADVANCE COMMUNITY LIBRARY",
+      "system": "ADVANCE COMMUNITY LIBRARY",
+      "address": "305 POPLAR ST, ADVANCE, MO",
+      "website": "http://www.advancecommunitylibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63957"
+        "63730",
+        "63735",
+        "63738",
+        "63846",
+        "63850",
+        "63936"
+      ]
+    },
+    {
+      "name": "REYNOLDS COUNTY LIBRARY DISTRICT",
+      "system": "REYNOLDS COUNTY LIBRARY DISTRICT",
+      "address": "2306 PINE ST, CENTERVILLE, MO",
+      "website": "https://www.reynoldscountylibrary.missouri.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63625",
+        "63629",
+        "63633",
+        "63638",
+        "63654",
+        "63665",
+        "639HH"
       ]
     },
     {
@@ -19,7 +41,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63901"
+        "63901",
+        "63932",
+        "63938",
+        "63940",
+        "63945",
+        "63954",
+        "63961"
       ]
     },
     {
@@ -30,7 +58,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63935"
+        "63935",
+        "63939",
+        "63942",
+        "63953",
+        "63955"
       ]
     },
     {
@@ -41,6 +73,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "63937",
+        "63941",
+        "63943",
         "63965"
       ]
     },
@@ -52,7 +87,66 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "63735",
+        "63738",
+        "63846",
+        "63850",
+        "63936",
         "63960"
+      ]
+    },
+    {
+      "name": "KELLER PUBLIC LIBRARY OF DEXTER",
+      "system": "KELLER PUBLIC LIBRARY OF DEXTER",
+      "address": "402 W GRANT ST, DEXTER, MO",
+      "website": "https://www.kellerpl.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63735",
+        "63738",
+        "63841",
+        "63846",
+        "63850",
+        "63936"
+      ]
+    },
+    {
+      "name": "DUNKLIN COUNTY LIBRARY",
+      "system": "DUNKLIN COUNTY LIBRARY",
+      "address": "209 N MAIN ST, KENNETT, MO",
+      "website": "https://www.dunklin-co.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63821",
+        "63829",
+        "63837",
+        "63847",
+        "63849",
+        "63852",
+        "63855",
+        "63857",
+        "63863",
+        "63876",
+        "63880",
+        "63933"
+      ]
+    },
+    {
+      "name": "BERNIE PUBLIC LIBRARY",
+      "system": "BERNIE PUBLIC LIBRARY",
+      "address": "111 N ALLEN ST, BERNIE, MO",
+      "website": "https://bernie-public-library.ploud.net/our-locations-and-hours",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63735",
+        "63738",
+        "63822",
+        "63846",
+        "63850",
+        "63936"
       ]
     }
   ]

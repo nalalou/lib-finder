@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "ADAMS COUNTY LIBRARY",
-      "system": "ADAMS COUNTY LIBRARY",
-      "address": "103 N 6TH STREET, HETTINGER, ND",
-      "website": "https://adamscountyndlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58639"
-      ]
-    },
-    {
       "name": "BOWMAN REGIONAL PUBLIC LIBRARY",
       "system": "BOWMAN REGIONAL PUBLIC LIBRARY",
       "address": "18 DIVIDE STREET EAST, BOWMAN, ND",
@@ -19,7 +8,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58623"
+        "58623",
+        "58651",
+        "58653"
       ]
     },
     {
@@ -30,7 +21,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58601"
+        "58601",
+        "58622",
+        "58630",
+        "58641",
+        "58652",
+        "58655",
+        "58656"
       ]
     },
     {
@@ -41,18 +38,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58621"
-      ]
-    },
-    {
-      "name": "HEBRON PUBLIC LIBRARY",
-      "system": "HEBRON PUBLIC LIBRARY",
-      "address": "811 MAIN AVENUE, HEBRON, ND",
-      "website": "https://www.hebronnhlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58638"
+        "58621",
+        "58632",
+        "58654"
       ]
     },
     {
@@ -63,7 +51,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58640"
+        "58625",
+        "58626",
+        "58636",
+        "58640",
+        "58642"
       ]
     },
     {
@@ -74,7 +66,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58646"
+        "58646",
+        "58650"
       ]
     },
     {
@@ -85,7 +78,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58647"
+        "58647",
+        "58650"
       ]
     },
     {
@@ -96,7 +90,50 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58631"
+        "58520",
+        "58535",
+        "58563",
+        "58566",
+        "58570",
+        "58631",
+        "58638"
+      ]
+    },
+    {
+      "name": "MCKENZIE COUNTY PUBLIC LIBRARY",
+      "system": "MCKENZIE COUNTY PUBLIC LIBRARY",
+      "address": "112 SECOND AVENUE NE, WATFORD CITY, ND",
+      "website": "https://mckenziecountynd.gov/locations/mckenzie-county-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58634",
+        "58757",
+        "58831",
+        "58835",
+        "58838",
+        "58847",
+        "58854",
+        "588HH",
+        "59221",
+        "592HH"
+      ]
+    },
+    {
+      "name": "MORTON MANDAN PUBLIC LIBRARY",
+      "system": "MORTON MANDAN PUBLIC LIBRARY",
+      "address": "609 W. MAIN ST., MANDAN, ND",
+      "website": "https://www.cityofmandan.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58520",
+        "58535",
+        "58554",
+        "58563",
+        "58566",
+        "58570",
+        "58638"
       ]
     }
   ]

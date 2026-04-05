@@ -1,14 +1,61 @@
 {
   "libraries": [
     {
-      "name": "DENVER PUBLIC LIBRARY",
-      "system": "DENVER PUBLIC LIBRARY",
-      "address": "10 W 14TH AVENUE PARKWAY, DENVER, CO",
-      "website": "http://denverlibrary.org",
+      "name": "WESTMINSTER PUBLIC LIBRARY",
+      "system": "WESTMINSTER PUBLIC LIBRARY",
+      "address": "3705 W. 112TH AVE, WESTMINSTER, CO",
+      "website": "https://www.westminsterco.gov/166/Libraries",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80204"
+        "80010",
+        "80019",
+        "80022",
+        "80024",
+        "80030",
+        "80031",
+        "800XX",
+        "80102",
+        "80136",
+        "80137",
+        "80221",
+        "80229",
+        "80233",
+        "80234",
+        "80241",
+        "80260",
+        "80601",
+        "80640",
+        "806HH"
+      ]
+    },
+    {
+      "name": "RANGEVIEW LIBRARY DISTRICT",
+      "system": "RANGEVIEW LIBRARY DISTRICT",
+      "address": "5877 EAST 120TH AVENUE, THORNTON, CO",
+      "website": "https://www.anythinklibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80010",
+        "80019",
+        "80022",
+        "80024",
+        "80030",
+        "800XX",
+        "80102",
+        "80136",
+        "80137",
+        "80221",
+        "80229",
+        "80233",
+        "80234",
+        "80241",
+        "80260",
+        "80601",
+        "80602",
+        "80640",
+        "806HH"
       ]
     },
     {
@@ -19,6 +66,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "47230",
+        "47231",
+        "47243",
+        "47250",
         "80215"
       ]
     }

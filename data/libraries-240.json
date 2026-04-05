@@ -1,6 +1,64 @@
 {
   "libraries": [
     {
+      "name": "FRANKLIN COUNTY PUBLIC LIBRARY",
+      "system": "FRANKLIN COUNTY PUBLIC LIBRARY",
+      "address": "355 FRANKLIN ST., ROCKY MOUNT, VA",
+      "website": "https://www.franklincountylibrary.org/index.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24065",
+        "24067",
+        "24088",
+        "24092",
+        "24101",
+        "24102",
+        "24137",
+        "24151",
+        "24176",
+        "24184"
+      ]
+    },
+    {
+      "name": "IRIS BRAMMER LIBRARY",
+      "system": "IRIS BRAMMER LIBRARY",
+      "address": "109 MARY STREET, NARROWS, VA",
+      "website": "https://irisbrammerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24086",
+        "24093",
+        "24094",
+        "24124",
+        "24128",
+        "24136",
+        "24147",
+        "24150",
+        "24167"
+      ]
+    },
+    {
+      "name": "PEARISBURG PUBLIC LIBRARY",
+      "system": "PEARISBURG PUBLIC LIBRARY",
+      "address": "209 FORT BRANCH ROAD, PEARISBURG, VA",
+      "website": "https://pearisburglibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24086",
+        "24093",
+        "24094",
+        "24128",
+        "24134",
+        "24136",
+        "24147",
+        "24150",
+        "24167"
+      ]
+    },
+    {
       "name": "BOTETOURT COUNTY LIBRARY",
       "system": "BOTETOURT COUNTY LIBRARY",
       "address": "28 AVERY ROW, ROANOKE, VA",
@@ -8,7 +66,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24012"
+        "24012",
+        "24064",
+        "24066",
+        "24077",
+        "24083",
+        "24085",
+        "24090",
+        "24175"
       ]
     },
     {
@@ -19,7 +84,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24073"
+        "24060",
+        "24073",
+        "24087",
+        "24138",
+        "24149",
+        "24162"
       ]
     },
     {
@@ -30,7 +100,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24016"
+        "24016",
+        "24019",
+        "24020",
+        "24059",
+        "24070",
+        "24179"
       ]
     },
     {
@@ -41,7 +116,74 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24018"
+        "24018",
+        "24019",
+        "24020",
+        "24059",
+        "24070",
+        "24179"
+      ]
+    },
+    {
+      "name": "PULASKI COUNTY LIBRARY SYSTEM",
+      "system": "PULASKI COUNTY LIBRARY SYSTEM",
+      "address": "60 WEST THIRD STREET, PULASKI, VA",
+      "website": "https://pclibs.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24058",
+        "24084",
+        "24132",
+        "24301",
+        "24324",
+        "24347"
+      ]
+    },
+    {
+      "name": "BEDFORD PUBLIC LIBRARY SYSTEM",
+      "system": "BEDFORD PUBLIC LIBRARY SYSTEM",
+      "address": "321 NORTH BRIDGE STREET, BEDFORD, VA",
+      "website": "https://www.bplsonline.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24095",
+        "240HH",
+        "24104",
+        "24121",
+        "24122",
+        "24174",
+        "241HH",
+        "24523",
+        "24526",
+        "24536",
+        "24551",
+        "24556"
+      ]
+    },
+    {
+      "name": "PITTSYLVANIA COUNTY PUBLIC LIBRARY",
+      "system": "PITTSYLVANIA COUNTY PUBLIC LIBRARY",
+      "address": "24 MILITARY DRIVE, CHATHAM, VA",
+      "website": "https://pcplib.org/locations/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24069",
+        "24139",
+        "24161",
+        "24527",
+        "24530",
+        "24531",
+        "24549",
+        "24557",
+        "24563",
+        "24565",
+        "24566",
+        "24569",
+        "24586",
+        "24594"
       ]
     }
   ]

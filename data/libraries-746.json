@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "BLACKWELL PUBLIC LIBRARY",
-      "system": "BLACKWELL PUBLIC LIBRARY",
-      "address": "123 WEST PADON, BLACKWELL, OK",
-      "website": "https://blackwell.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74631"
-      ]
-    },
-    {
       "name": "FAIRFAX PUBLIC LIBRARY",
       "system": "FAIRFAX PUBLIC LIBRARY",
       "address": "158 EAST ELM, FAIRFAX, OK",
@@ -19,7 +8,156 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74637"
+        "74001",
+        "74054",
+        "74060",
+        "74070",
+        "74084",
+        "74633",
+        "74637",
+        "74652"
+      ]
+    },
+    {
+      "name": "ENID-PUBLIC LIBRARY OF ENID AND GARFIELD CO",
+      "system": "ENID-PUBLIC LIBRARY OF ENID AND GARFIELD CO",
+      "address": "120 W. MAINE, ENID, OK",
+      "website": "https://enid.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73701",
+        "73703",
+        "73720",
+        "73727",
+        "73730",
+        "73733",
+        "73735",
+        "73736",
+        "73738",
+        "73743",
+        "73753",
+        "73754",
+        "73773",
+        "74640"
+      ]
+    },
+    {
+      "name": "MEDFORD PUBLIC LIBRARY",
+      "system": "MEDFORD PUBLIC LIBRARY",
+      "address": "123 S MAIN, MEDFORD, OK",
+      "website": "https://medfordoklahoma.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73758",
+        "73759",
+        "73761",
+        "73766",
+        "73771",
+        "74636",
+        "74643",
+        "746HH"
+      ]
+    },
+    {
+      "name": "PAWNEE PUBLIC LIBRARY",
+      "system": "PAWNEE PUBLIC LIBRARY",
+      "address": "653 ILLINOIS, PAWNEE, OK",
+      "website": "https://www.pawneepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74034",
+        "74038",
+        "74045",
+        "74058",
+        "74081",
+        "74650"
+      ]
+    },
+    {
+      "name": "BARNSDALL - ETHEL BRIGGS MEMORIAL LIBRARY",
+      "system": "BARNSDALL - ETHEL BRIGGS MEMORIAL LIBRARY",
+      "address": "410 S FIFTH, BARNSDALL, OK",
+      "website": "https://librarytechnology.org/library/23052",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74001",
+        "74002",
+        "74054",
+        "74060",
+        "74070",
+        "74084",
+        "74633",
+        "74652"
+      ]
+    },
+    {
+      "name": "CLEVELAND - JAY C BYERS MEMORIAL LIBRARY",
+      "system": "CLEVELAND - JAY C BYERS MEMORIAL LIBRARY",
+      "address": "215 E. WICHITA, CLEVELAND, OK",
+      "website": "https://www.jcbyerslibrary.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74020",
+        "74034",
+        "74038",
+        "74045",
+        "74081",
+        "74650"
+      ]
+    },
+    {
+      "name": "HOMINY PUBLIC LIBRARY",
+      "system": "HOMINY PUBLIC LIBRARY",
+      "address": "121 WEST MAIN, HOMINY, OK",
+      "website": "http://www.hominy.lib.ok.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74001",
+        "74035",
+        "74054",
+        "74060",
+        "74070",
+        "74084",
+        "74633",
+        "74652"
+      ]
+    },
+    {
+      "name": "PAWHUSKA PUBLIC LIBRARY",
+      "system": "PAWHUSKA PUBLIC LIBRARY",
+      "address": "1801 LYNN AVENUE, PAWHUSKA, OK",
+      "website": "https://pawhuska.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74001",
+        "74054",
+        "74056",
+        "74060",
+        "74070",
+        "74084",
+        "74633",
+        "74652"
+      ]
+    },
+    {
+      "name": "BLACKWELL PUBLIC LIBRARY",
+      "system": "BLACKWELL PUBLIC LIBRARY",
+      "address": "123 WEST PADON, BLACKWELL, OK",
+      "website": "https://blackwell.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74604",
+        "74631",
+        "74632",
+        "74646"
       ]
     },
     {
@@ -30,6 +168,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "74604",
+        "74632",
+        "74646",
         "74647"
       ]
     },
@@ -41,7 +182,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74601"
+        "74601",
+        "74604",
+        "74632",
+        "74646"
       ]
     },
     {
@@ -52,6 +196,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "74604",
+        "74632",
+        "74646",
         "74653"
       ]
     },
@@ -63,7 +210,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74641"
+        "74604",
+        "74632",
+        "74641",
+        "74646"
+      ]
+    },
+    {
+      "name": "PERRY CARNEGIE LIBRARY",
+      "system": "PERRY CARNEGIE LIBRARY",
+      "address": "302 N 7TH ST, PERRY, OK",
+      "website": "https://perrypl.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73061",
+        "73077",
+        "73757",
+        "74630",
+        "74644",
+        "74651"
       ]
     }
   ]

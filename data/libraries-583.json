@@ -1,6 +1,44 @@
 {
   "libraries": [
     {
+      "name": "CAVALIER COUNTY LIBRARY",
+      "system": "CAVALIER COUNTY LIBRARY",
+      "address": "600 FIFTH AVENUE, LANGDON, ND",
+      "website": "https://cavaliercountyndlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58239",
+        "58249",
+        "58255",
+        "58260",
+        "58269",
+        "58281",
+        "58311",
+        "58323",
+        "58352",
+        "58355",
+        "58372"
+      ]
+    },
+    {
+      "name": "MCVILLE COMMUNITY LIBRARY",
+      "system": "MCVILLE COMMUNITY LIBRARY",
+      "address": "101 MAIN STREET, MCVILLE, ND",
+      "website": "https://www.mcvillendlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58212",
+        "58224",
+        "58254",
+        "58259",
+        "58272",
+        "58361",
+        "58380"
+      ]
+    },
+    {
       "name": "BOTTINEAU COUNTY PUBLIC LIBRARY",
       "system": "BOTTINEAU COUNTY PUBLIC LIBRARY",
       "address": "314 WEST 5TH STREET, BOTTINEAU, ND",
@@ -8,7 +46,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58318"
+        "58318",
+        "58384",
+        "58711",
+        "58748",
+        "58750",
+        "58760",
+        "58762",
+        "58783",
+        "58793"
       ]
     },
     {
@@ -19,7 +65,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58324"
+        "58317",
+        "58324",
+        "58331",
+        "58363",
+        "58365"
       ]
     },
     {
@@ -30,7 +80,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58301"
+        "58301",
+        "58321",
+        "58325",
+        "58327",
+        "58330",
+        "58338",
+        "58345",
+        "58362",
+        "58377",
+        "58382"
       ]
     },
     {
@@ -41,7 +100,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58341"
+        "58341",
+        "58418",
+        "58422",
+        "58423",
+        "58438",
+        "58451",
+        "58486"
       ]
     },
     {
@@ -52,7 +117,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58368"
+        "58313",
+        "58359",
+        "58368",
+        "58385"
       ]
     },
     {
@@ -63,7 +131,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58344"
+        "58212",
+        "58224",
+        "58259",
+        "58272",
+        "58344",
+        "58361",
+        "58380"
       ]
     },
     {
@@ -74,7 +148,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58346"
+        "58332",
+        "58335",
+        "58343",
+        "58346",
+        "58351",
+        "58357",
+        "58370",
+        "58379",
+        "58381",
+        "58386",
+        "583HH"
       ]
     },
     {
@@ -85,7 +169,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58348"
+        "58332",
+        "58335",
+        "58343",
+        "58348",
+        "58351",
+        "58357",
+        "58370",
+        "58379",
+        "58381",
+        "58386",
+        "583HH"
       ]
     },
     {
@@ -96,18 +190,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58356"
+        "58356",
+        "58374"
       ]
     },
     {
       "name": "ROLLA PUBLIC LIBRARY",
       "system": "ROLLA PUBLIC LIBRARY",
-      "address": "14 FIRST STREET SE, ROLLA, ND",
+      "address": "900 PINE ST, ROLLA, MO",
       "website": "https://rollapubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58367"
+        "58310",
+        "58316",
+        "58329",
+        "58353",
+        "58367",
+        "58369",
+        "65401"
       ]
     },
     {
@@ -118,7 +219,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58366"
+        "58310",
+        "58316",
+        "58329",
+        "58353",
+        "58366",
+        "58367",
+        "58369"
       ]
     }
   ]

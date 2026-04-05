@@ -1,6 +1,46 @@
 {
   "libraries": [
     {
+      "name": "VALLEY CITY BARNES COUNTY PUBLIC LIBRARY",
+      "system": "VALLEY CITY BARNES COUNTY PUBLIC LIBRARY",
+      "address": "410 NORTH CENTRAL AVENUE, VALLEY CITY, ND",
+      "website": "https://www.vcbclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58031",
+        "58049",
+        "58062",
+        "58063",
+        "58072",
+        "580HH",
+        "58429",
+        "58461",
+        "58479",
+        "58480",
+        "58481",
+        "58492",
+        "584HH"
+      ]
+    },
+    {
+      "name": "HARVEY PUBLIC LIBRARY",
+      "system": "HARVEY PUBLIC LIBRARY",
+      "address": "119 EAST TENTH STREET, HARVEY, ND",
+      "website": "https://www.harveylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58341",
+        "58418",
+        "58422",
+        "58423",
+        "58438",
+        "58451",
+        "58486"
+      ]
+    },
+    {
       "name": "JAMES RIVER VALLEY LIBRARY SYSTEM",
       "system": "JAMES RIVER VALLEY LIBRARY SYSTEM",
       "address": "105 THIRD STREET SE, JAMESTOWN, ND",
@@ -8,7 +48,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58401"
+        "58401",
+        "58420",
+        "58424",
+        "58426",
+        "58455",
+        "58467",
+        "58472",
+        "58476",
+        "58483",
+        "58496",
+        "58497"
       ]
     },
     {
@@ -19,7 +69,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58413"
+        "58413",
+        "58489",
+        "58581"
       ]
     },
     {
@@ -30,7 +82,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58421"
+        "58421",
+        "58443",
+        "58445",
+        "58464"
       ]
     },
     {
@@ -41,7 +96,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58433"
+        "58415",
+        "58431",
+        "58433",
+        "58454",
+        "58456",
+        "58466",
+        "58490"
       ]
     },
     {
@@ -52,7 +113,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58436"
+        "58436",
+        "58439",
+        "58441"
       ]
     },
     {
@@ -63,7 +126,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58425"
+        "58416",
+        "58425",
+        "58448",
+        "58484"
       ]
     },
     {
@@ -74,7 +140,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58482"
+        "58428",
+        "58475",
+        "58478",
+        "58482",
+        "58487",
+        "58488"
       ]
     },
     {
@@ -85,7 +156,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58458"
+        "58415",
+        "58431",
+        "58454",
+        "58456",
+        "58458",
+        "58466",
+        "58490"
       ]
     },
     {
@@ -96,6 +173,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "58439",
+        "58441",
         "58474"
       ]
     },
@@ -107,7 +186,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58495"
+        "58489",
+        "58495",
+        "58581"
+      ]
+    },
+    {
+      "name": "BISMARCK VETERANS MEMORIAL PUBLIC LIBRARY",
+      "system": "BISMARCK VETERANS MEMORIAL PUBLIC LIBRARY",
+      "address": "515 N 5TH STREET, BISMARCK, ND",
+      "website": "https://www.bismarcklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58477",
+        "58494",
+        "58501",
+        "58504",
+        "58505",
+        "58521",
+        "58532",
+        "58553",
+        "58558",
+        "58560",
+        "58572"
       ]
     }
   ]

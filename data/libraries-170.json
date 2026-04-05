@@ -1,6 +1,228 @@
 {
   "libraries": [
     {
+      "name": "MOUNT CARMEL PUBLIC LIBRARY",
+      "system": "MOUNT CARMEL PUBLIC LIBRARY",
+      "address": "727 NORTH MULBERRY STREET, MOUNT CARMEL, IL",
+      "website": "https://mtcarmelpubliclibrary.weebly.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17017",
+        "17730",
+        "17772",
+        "17777",
+        "17823",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17881",
+        "62863"
+      ]
+    },
+    {
+      "name": "PRIESTLEY FORSYTH MEM LIBRARY",
+      "system": "PRIESTLEY FORSYTH MEM LIBRARY",
+      "address": "100 KING ST, NORTHUMBERLAND, PA",
+      "website": "https://priestleyforsyth.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17017",
+        "17730",
+        "17772",
+        "17777",
+        "17823",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17857",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17881"
+      ]
+    },
+    {
+      "name": "RALPHO TOWNSHIP PUBLIC LIBRARY",
+      "system": "RALPHO TOWNSHIP PUBLIC LIBRARY",
+      "address": "206 S. MARKET ST. SUITE 6, ELYSBURG, PA",
+      "website": "https://ralpholibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17017",
+        "17730",
+        "17772",
+        "17777",
+        "17823",
+        "17824",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17881"
+      ]
+    },
+    {
+      "name": "SHAMOKIN & COAL TWP PUB LIB",
+      "system": "SHAMOKIN & COAL TWP PUB LIB",
+      "address": "210 EAST INDEPENDENCE ST, SHAMOKIN, PA",
+      "website": "http://www.shamokincity.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17017",
+        "17730",
+        "17772",
+        "17777",
+        "17823",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17872",
+        "17881"
+      ]
+    },
+    {
+      "name": "DEGENSTEIN COMMUNITY LIBRARY",
+      "system": "DEGENSTEIN COMMUNITY LIBRARY",
+      "address": "40 SOUTH FIFTH STREET, SUNBURY, PA",
+      "website": "https://degensteinlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17017",
+        "17730",
+        "17772",
+        "17777",
+        "17801",
+        "17823",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17881"
+      ]
+    },
+    {
+      "name": "BLOOMFIELD PUBLIC LIBRARY",
+      "system": "BLOOMFIELD PUBLIC LIBRARY",
+      "address": "200 SENECA ST, BLOOMFIELD, MO",
+      "website": "https://www.bplnj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17020",
+        "17024",
+        "17037",
+        "17040",
+        "17045",
+        "17047",
+        "17062",
+        "17068",
+        "17069",
+        "17074",
+        "17090",
+        "170XX",
+        "63825"
+      ]
+    },
+    {
+      "name": "JOHN GRAHAM PUBLIC LIBRARY",
+      "system": "JOHN GRAHAM PUBLIC LIBRARY",
+      "address": "9 PARSONAGE ST, NEWVILLE, PA",
+      "website": "https://www.cumberlandcountylibraries.org/JGR",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17007",
+        "17025",
+        "17027",
+        "17043",
+        "17072",
+        "17081",
+        "17093",
+        "170HH",
+        "17240",
+        "17241",
+        "17266",
+        "17324"
+      ]
+    },
+    {
+      "name": "SHIPPENSBURG PUBLIC LIBRARY",
+      "system": "SHIPPENSBURG PUBLIC LIBRARY",
+      "address": "73 W KING ST, SHIPPENSBURG, PA",
+      "website": "https://www.cumberlandcountylibraries.org/SHP_About",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17007",
+        "17025",
+        "17027",
+        "17043",
+        "17072",
+        "17081",
+        "17093",
+        "170HH",
+        "17240",
+        "17257",
+        "17266",
+        "17324"
+      ]
+    },
+    {
       "name": "JUNIATA COUNTY LIBRARY",
       "system": "JUNIATA COUNTY LIBRARY",
       "address": "498 JEFFERSON ST, MIFFLINTOWN, PA",
@@ -8,7 +230,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17059"
+        "17021",
+        "17035",
+        "17049",
+        "17058",
+        "17059",
+        "17076",
+        "17082",
+        "17086",
+        "17094"
       ]
     },
     {
@@ -19,7 +249,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17044"
+        "17002",
+        "17004",
+        "17009",
+        "17029",
+        "17044",
+        "17051",
+        "17063",
+        "17075",
+        "17084",
+        "17099",
+        "17841"
       ]
     },
     {
@@ -30,7 +270,40 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17019"
+        "17019",
+        "17302",
+        "17309",
+        "17311",
+        "17313",
+        "17314",
+        "17315",
+        "17317",
+        "17318",
+        "17319",
+        "17321",
+        "17322",
+        "17327",
+        "17329",
+        "17339",
+        "17345",
+        "17347",
+        "17349",
+        "17352",
+        "17355",
+        "17360",
+        "17362",
+        "17364",
+        "17365",
+        "17366",
+        "17368",
+        "17370",
+        "173HH",
+        "17402",
+        "17403",
+        "17404",
+        "17406",
+        "17407",
+        "174HH"
       ]
     },
     {
@@ -41,7 +314,43 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17022"
+        "17022",
+        "17501",
+        "17502",
+        "17505",
+        "17508",
+        "17512",
+        "17516",
+        "17517",
+        "17518",
+        "17519",
+        "17520",
+        "17527",
+        "17529",
+        "17532",
+        "17535",
+        "17536",
+        "17538",
+        "17540",
+        "17547",
+        "17551",
+        "17554",
+        "17555",
+        "17560",
+        "17562",
+        "17563",
+        "17565",
+        "17569",
+        "17570",
+        "17572",
+        "17576",
+        "17578",
+        "17581",
+        "17582",
+        "17584",
+        "175HH",
+        "17602",
+        "176HH"
       ]
     },
     {
@@ -52,7 +361,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17003"
+        "17003",
+        "17010",
+        "17016",
+        "17026",
+        "17038",
+        "17041",
+        "17042",
+        "17064",
+        "17073",
+        "17077",
+        "17078",
+        "17083",
+        "17087",
+        "17088"
       ]
     },
     {
@@ -63,7 +385,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17067"
+        "17010",
+        "17016",
+        "17026",
+        "17038",
+        "17041",
+        "17042",
+        "17064",
+        "17067",
+        "17073",
+        "17077",
+        "17078",
+        "17083",
+        "17087",
+        "17088"
       ]
     },
     {
@@ -74,18 +409,44 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17003"
+        "17003",
+        "17010",
+        "17016",
+        "17026",
+        "17038",
+        "17041",
+        "17042",
+        "17064",
+        "17073",
+        "17077",
+        "17078",
+        "17083",
+        "17087",
+        "17088"
       ]
     },
     {
       "name": "RICHLAND COMMUNITY LIBRARY",
       "system": "RICHLAND COMMUNITY LIBRARY",
-      "address": "111 EAST MAIN STREET, RICHLAND, PA",
+      "address": "8951 PARK STREET, RICHLAND, MI",
       "website": "https://www.richlandlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17087"
+        "17010",
+        "17016",
+        "17026",
+        "17038",
+        "17041",
+        "17042",
+        "17064",
+        "17073",
+        "17077",
+        "17078",
+        "17083",
+        "17087",
+        "17088",
+        "49083"
       ]
     },
     {
@@ -96,7 +457,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17011"
+        "17007",
+        "17011",
+        "17025",
+        "17027",
+        "17043",
+        "17072",
+        "17081",
+        "17093",
+        "170HH",
+        "17240",
+        "17266",
+        "17324"
       ]
     },
     {
@@ -107,7 +479,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17013"
+        "17007",
+        "17013",
+        "17025",
+        "17027",
+        "17043",
+        "17072",
+        "17081",
+        "17093",
+        "170HH",
+        "17240",
+        "17266",
+        "17324"
       ]
     },
     {
@@ -118,7 +501,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17055"
+        "17007",
+        "17025",
+        "17027",
+        "17043",
+        "17055",
+        "17072",
+        "17081",
+        "17093",
+        "170HH",
+        "17240",
+        "17266",
+        "17324"
       ]
     },
     {
@@ -129,7 +523,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17065"
+        "17007",
+        "17025",
+        "17027",
+        "17043",
+        "17065",
+        "17072",
+        "17081",
+        "17093",
+        "170HH",
+        "17240",
+        "17266",
+        "17324"
       ]
     },
     {
@@ -140,7 +545,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17070"
+        "17007",
+        "17025",
+        "17027",
+        "17043",
+        "17070",
+        "17072",
+        "17081",
+        "17093",
+        "170HH",
+        "17240",
+        "17266",
+        "17324"
       ]
     },
     {
@@ -151,18 +567,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17033"
-      ]
-    },
-    {
-      "name": "MIDDLETOWN PUBLIC LIBRARY",
-      "system": "MIDDLETOWN PUBLIC LIBRARY",
-      "address": "20 NORTH CATHERINE ST, MIDDLETOWN, PA",
-      "website": "https://middletownpubliclibraryri.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "17057"
+        "17005",
+        "17018",
+        "17023",
+        "17028",
+        "17032",
+        "17033",
+        "17034",
+        "17036",
+        "17048",
+        "17057",
+        "17061",
+        "17080",
+        "17097",
+        "17098",
+        "17102",
+        "17103",
+        "17104",
+        "17109",
+        "17110",
+        "17111",
+        "17112",
+        "17113",
+        "171HH"
       ]
     },
     {
@@ -173,29 +600,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17053"
-      ]
-    },
-    {
-      "name": "BLOOMFIELD PUBLIC LIBRARY",
-      "system": "BLOOMFIELD PUBLIC LIBRARY",
-      "address": "BOROUGH BLDG, 23 E MCCLURE ST, NEW BLOOMFIELD, PA",
-      "website": "https://www.bplnj.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "17068"
-      ]
-    },
-    {
-      "name": "NEWPORT PUBLIC LIBRARY",
-      "system": "NEWPORT PUBLIC LIBRARY",
-      "address": "316 NORTH FOURTH ST, NEWPORT, PA",
-      "website": "http://www.newportlibraryri.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "17074"
+        "17020",
+        "17024",
+        "17037",
+        "17040",
+        "17045",
+        "17047",
+        "17053",
+        "17062",
+        "17068",
+        "17069",
+        "17074",
+        "17090",
+        "170XX"
       ]
     },
     {
@@ -206,7 +623,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17006"
+        "17006",
+        "17020",
+        "17024",
+        "17037",
+        "17040",
+        "17045",
+        "17047",
+        "17062",
+        "17068",
+        "17069",
+        "17074",
+        "17090",
+        "170XX"
       ]
     },
     {
@@ -217,18 +646,145 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17046"
+        "17010",
+        "17016",
+        "17026",
+        "17038",
+        "17041",
+        "17042",
+        "17046",
+        "17064",
+        "17073",
+        "17077",
+        "17078",
+        "17083",
+        "17087",
+        "17088"
       ]
     },
     {
       "name": "MATTHEWS PUBLIC LIBRARY",
       "system": "MATTHEWS PUBLIC LIBRARY",
-      "address": "102 WEST MAIN STREET, FREDERICKSBURG, PA",
+      "address": "816 WEST EIGHTH STREET, MATTHEWS, IN",
       "website": "https://townofmatthews.com/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17026"
+        "17010",
+        "17016",
+        "17026",
+        "17038",
+        "17041",
+        "17042",
+        "17064",
+        "17073",
+        "17077",
+        "17078",
+        "17083",
+        "17087",
+        "17088",
+        "46957"
+      ]
+    },
+    {
+      "name": "HUNTINGDON COUNTY LIBRARY",
+      "system": "HUNTINGDON COUNTY LIBRARY",
+      "address": "330 PENN ST, HUNTINGDON, PA",
+      "website": "https://www.huntingdonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16611",
+        "16621",
+        "16622",
+        "16623",
+        "16634",
+        "16638",
+        "16647",
+        "16652",
+        "16657",
+        "16669",
+        "16674",
+        "16683",
+        "16685",
+        "16694",
+        "166XX",
+        "16877",
+        "17052",
+        "17060",
+        "17066",
+        "17213",
+        "17239",
+        "17243",
+        "17249",
+        "17253",
+        "17255",
+        "17260",
+        "17264"
+      ]
+    },
+    {
+      "name": "DAUPHIN COUNTY LIBRARY SYSTEM",
+      "system": "DAUPHIN COUNTY LIBRARY SYSTEM",
+      "address": "101 WALNUT ST., HARRISBURG, PA",
+      "website": "https://www.dcls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17005",
+        "17018",
+        "17023",
+        "17028",
+        "17032",
+        "17034",
+        "17036",
+        "17048",
+        "17057",
+        "17061",
+        "17080",
+        "17097",
+        "17098",
+        "17101",
+        "17102",
+        "17103",
+        "17104",
+        "17109",
+        "17110",
+        "17111",
+        "17112",
+        "17113",
+        "171HH"
+      ]
+    },
+    {
+      "name": "MONTGOMERY HOUSE WARRIOR RUN AREA PUBLIC LIBR",
+      "system": "MONTGOMERY HOUSE WARRIOR RUN AREA PUBLIC LIBR",
+      "address": "20 CHURCH ST, MCEWENSVILLE, PA",
+      "website": "https://mghlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17017",
+        "17730",
+        "17749",
+        "17772",
+        "17777",
+        "17823",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17881"
       ]
     }
   ]

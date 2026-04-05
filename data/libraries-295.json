@@ -1,6 +1,19 @@
 {
   "libraries": [
     {
+      "name": "GEORGETOWN COUNTY LIBRARY",
+      "system": "GEORGETOWN COUNTY LIBRARY",
+      "address": "405 CLELAND STREET, GEORGETOWN, SC",
+      "website": "https://gtcounty.org/187/Georgetown-County-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29440",
+        "29510",
+        "29585"
+      ]
+    },
+    {
       "name": "CHAPIN MEMORIAL LIBRARY",
       "system": "CHAPIN MEMORIAL LIBRARY",
       "address": "400 14TH AVE. N., MYRTLE BEACH, SC",
@@ -8,7 +21,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29577"
+        "29511",
+        "29527",
+        "29544",
+        "29545",
+        "29566",
+        "29568",
+        "29569",
+        "29572",
+        "29575",
+        "29576",
+        "29577",
+        "29579",
+        "29581",
+        "29582"
       ]
     },
     {
@@ -19,7 +45,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29532"
+        "29069",
+        "29079",
+        "29532",
+        "29540",
+        "29550",
+        "29593"
       ]
     },
     {
@@ -30,7 +61,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29536"
+        "29536",
+        "29543",
+        "29547",
+        "29563",
+        "29565",
+        "29567",
+        "29592"
       ]
     },
     {
@@ -41,7 +78,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29506"
+        "29114",
+        "29161",
+        "29501",
+        "29505",
+        "29506",
+        "29530",
+        "29541",
+        "29555",
+        "29560",
+        "29583",
+        "29591"
       ]
     },
     {
@@ -52,7 +99,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29526"
+        "29511",
+        "29526",
+        "29527",
+        "29544",
+        "29545",
+        "29566",
+        "29568",
+        "29569",
+        "29572",
+        "29575",
+        "29576",
+        "29579",
+        "29581",
+        "29582"
       ]
     },
     {
@@ -63,7 +123,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29571"
+        "29519",
+        "29546",
+        "29571",
+        "29574",
+        "29589"
       ]
     },
     {
@@ -74,7 +138,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29512"
+        "29512",
+        "29516",
+        "29525",
+        "29570",
+        "29594",
+        "29596"
       ]
     },
     {
@@ -85,7 +154,34 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29556"
+        "29056",
+        "29518",
+        "29554",
+        "29556",
+        "29564",
+        "29580",
+        "29590",
+        "295XX"
+      ]
+    },
+    {
+      "name": "CHESTERFIELD COUNTY LIBRARY SYSTEM",
+      "system": "CHESTERFIELD COUNTY LIBRARY SYSTEM",
+      "address": "119 W. MAIN STREET, CHESTERFIELD, SC",
+      "website": "https://www.cclssc.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29101",
+        "291HH",
+        "29520",
+        "29584",
+        "295HH",
+        "29709",
+        "29718",
+        "29727",
+        "29728",
+        "29741"
       ]
     }
   ]

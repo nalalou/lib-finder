@@ -1,6 +1,30 @@
 {
   "libraries": [
     {
+      "name": "LAUREL PUBLIC LIBRARY",
+      "system": "LAUREL PUBLIC LIBRARY",
+      "address": "101 E. FOURTH ST, LAUREL, DE",
+      "website": "https://www.laurelpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "19956",
+        "59002",
+        "59006",
+        "59015",
+        "59024",
+        "59037",
+        "59044",
+        "59057",
+        "59064",
+        "59079",
+        "59088",
+        "59102",
+        "59105",
+        "59106"
+      ]
+    },
+    {
       "name": "BILLINGS PUBLIC LIBRARY",
       "system": "BILLINGS PUBLIC LIBRARY",
       "address": "510 NORTH BROADWAY, BILLINGS, MT",
@@ -8,7 +32,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59101"
+        "59002",
+        "59006",
+        "59015",
+        "59024",
+        "59037",
+        "59044",
+        "59057",
+        "59064",
+        "59079",
+        "59088",
+        "59101",
+        "59102",
+        "59105",
+        "59106"
       ]
     }
   ]

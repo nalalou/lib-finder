@@ -1,14 +1,17 @@
 {
   "libraries": [
     {
-      "name": "FLOYD COUNTY LIBRARY",
-      "system": "FLOYD COUNTY LIBRARY",
-      "address": "161 NORTH ARNOLD AVENUE, PRESTONSBURG, KY",
-      "website": "https://librarytechnology.org/library/24250",
+      "name": "MAGOFFIN COUNTY PUBLIC LIBRARY",
+      "system": "MAGOFFIN COUNTY PUBLIC LIBRARY",
+      "address": "172 SOUTH CHURCH STREET, SALYERSVILLE, KY",
+      "website": "https://www.cityofsalyersville.org/public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41653"
+        "41426",
+        "41464",
+        "41465",
+        "41632"
       ]
     }
   ]

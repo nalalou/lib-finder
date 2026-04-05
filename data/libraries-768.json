@@ -8,7 +8,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76849"
+        "76849",
+        "76854",
+        "76874"
       ]
     },
     {
@@ -19,7 +21,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76821"
+        "76821",
+        "76861",
+        "76865",
+        "76875",
+        "79566"
       ]
     },
     {
@@ -30,7 +36,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76856"
+        "76842",
+        "76856",
+        "76869"
       ]
     },
     {
@@ -41,6 +49,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "76841",
+        "76848",
         "76859"
       ]
     },
@@ -52,6 +62,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "76832",
+        "76871",
         "76877"
       ]
     },
@@ -63,7 +75,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76825"
+        "76825",
+        "76852",
+        "76858",
+        "76872",
+        "76887",
+        "768XX"
       ]
     },
     {
@@ -74,7 +91,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76801"
+        "76432",
+        "76801",
+        "76802",
+        "76823",
+        "76827",
+        "76857",
+        "76890",
+        "768HH"
       ]
     },
     {
@@ -85,7 +109,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76834"
+        "76828",
+        "76834",
+        "76845",
+        "76873",
+        "76878",
+        "76882",
+        "76884",
+        "76888",
+        "79519",
+        "79538"
       ]
     },
     {
@@ -96,7 +129,56 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76844"
+        "76844",
+        "76864",
+        "76870"
+      ]
+    },
+    {
+      "name": "LAMPASAS PUBLIC LIBRARY",
+      "system": "LAMPASAS PUBLIC LIBRARY",
+      "address": "201 S MAIN ST, LAMPASAS, TX",
+      "website": "https://www.lampasas.org/252/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76539",
+        "76550",
+        "76824",
+        "76853"
+      ]
+    },
+    {
+      "name": "LLANO COUNTY LIBRARY SYSTEM",
+      "system": "LLANO COUNTY LIBRARY SYSTEM",
+      "address": "102 E HAYNIE ST, LLANO, TX",
+      "website": "https://www.llanocounty.gov/page/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76831",
+        "76885",
+        "78607",
+        "78609",
+        "78639",
+        "78643",
+        "78657",
+        "78672"
+      ]
+    },
+    {
+      "name": "WINTERS PUBLIC LIBRARY",
+      "system": "WINTERS PUBLIC LIBRARY",
+      "address": "120 N MAIN ST, WINTERS, TX",
+      "website": "https://www.chamberofcommerce.com/united-states/texas/winters/public-library/2004829456-winters-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76861",
+        "76865",
+        "76875",
+        "79566",
+        "79567"
       ]
     }
   ]

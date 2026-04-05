@@ -1,6 +1,103 @@
 {
   "libraries": [
     {
+      "name": "EAST RIDGE CITY LIBRARY",
+      "system": "EAST RIDGE CITY LIBRARY",
+      "address": "1517 TOMBRAS AVENUE, EAST RIDGE (IN), TN",
+      "website": "https://www.eastridgetn.gov/library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37302",
+        "37308",
+        "37341",
+        "37343",
+        "37350",
+        "37351",
+        "37363",
+        "37373",
+        "37379",
+        "37403",
+        "37404",
+        "37405",
+        "37406",
+        "37407",
+        "37408",
+        "37409",
+        "37410",
+        "37411",
+        "37412",
+        "37415",
+        "37416",
+        "37419",
+        "37421",
+        "374HH"
+      ]
+    },
+    {
+      "name": "CHATTANOOGA PUBLIC LIBRARY",
+      "system": "CHATTANOOGA PUBLIC LIBRARY",
+      "address": "1001 BROAD STREET, CHATTANOOGA (S), TN",
+      "website": "http://chattlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37302",
+        "37308",
+        "37341",
+        "37343",
+        "37350",
+        "37351",
+        "37363",
+        "37373",
+        "37379",
+        "37402",
+        "37403",
+        "37404",
+        "37405",
+        "37406",
+        "37407",
+        "37408",
+        "37409",
+        "37410",
+        "37411",
+        "37415",
+        "37416",
+        "37419",
+        "37421",
+        "374HH"
+      ]
+    },
+    {
+      "name": "ENGLEWOOD PUBLIC LIBRARY",
+      "system": "ENGLEWOOD PUBLIC LIBRARY",
+      "address": "35 CARROLL STREET, ENGLEWOOD, TN",
+      "website": "https://www.englewoodco.gov/parks-recreation-library-golf/englewood-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37329",
+        "37370",
+        "37826"
+      ]
+    },
+    {
+      "name": "PALMER PUBLIC LIBRARY",
+      "system": "PALMER PUBLIC LIBRARY",
+      "address": "655 SOUTH VALLEY WAY, PALMER, AK",
+      "website": "https://www.palmerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "371XX",
+        "37301",
+        "37339",
+        "37365",
+        "37366",
+        "99645"
+      ]
+    },
+    {
       "name": "BEENE-PEARSON PUBLIC LIBRARY",
       "system": "BEENE-PEARSON PUBLIC LIBRARY",
       "address": "208 ELM AVENUE, SOUTH PITTSBURG, TN",
@@ -8,7 +105,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37380"
+        "37340",
+        "37374",
+        "37380",
+        "37396"
       ]
     },
     {
@@ -19,7 +119,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37347"
+        "37340",
+        "37347",
+        "37374",
+        "37396"
       ]
     },
     {
@@ -30,6 +133,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37340",
+        "37374",
+        "37396",
         "37397"
       ]
     },
@@ -52,18 +158,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37367"
+        "37367",
+        "373XX"
       ]
     },
     {
       "name": "ALTAMONT PUBLIC LIBRARY",
       "system": "ALTAMONT PUBLIC LIBRARY",
-      "address": "1433 MAIN STREET, ALTAMONT, TN",
+      "address": "407 HUSTON AVE, ALTAMONT, KS",
       "website": "https://altamontpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37301"
+        "371XX",
+        "37301",
+        "37339",
+        "37365",
+        "37366",
+        "67330"
       ]
     },
     {
@@ -74,7 +186,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37322"
+        "37322",
+        "37880"
       ]
     },
     {
@@ -96,7 +209,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37311"
+        "37310",
+        "37311",
+        "37312",
+        "37323",
+        "37336",
+        "37353",
+        "373HH"
       ]
     },
     {
@@ -107,7 +226,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37321"
+        "37321",
+        "37332",
+        "37337",
+        "37338"
       ]
     },
     {
@@ -118,6 +240,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37332",
+        "37337",
+        "37338",
         "37381"
       ]
     },
@@ -129,7 +254,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37303"
+        "37303",
+        "37370",
+        "37826"
       ]
     },
     {
@@ -140,6 +267,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37018",
+        "37342",
+        "37360",
         "37388"
       ]
     },
@@ -151,18 +281,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37355"
-      ]
-    },
-    {
-      "name": "FRANKLIN COUNTY PUBLIC LIBRARY",
-      "system": "FRANKLIN COUNTY PUBLIC LIBRARY",
-      "address": "105 SOUTH PORTER STREET, WINCHESTER, TN",
-      "website": "https://www.franklincountylibrary.org/index.html",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37398"
+        "37018",
+        "37342",
+        "37355",
+        "37360"
       ]
     },
     {
@@ -173,7 +295,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37334"
+        "37144",
+        "37328",
+        "37334",
+        "37335",
+        "37348",
+        "37359",
+        "38453",
+        "38459",
+        "38488"
       ]
     },
     {
@@ -195,7 +325,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37377"
+        "37302",
+        "37308",
+        "37341",
+        "37343",
+        "37350",
+        "37351",
+        "37363",
+        "37373",
+        "37377",
+        "37379",
+        "37403",
+        "37404",
+        "37405",
+        "37406",
+        "37407",
+        "37408",
+        "37409",
+        "37410",
+        "37411",
+        "37415",
+        "37416",
+        "37419",
+        "37421",
+        "374HH"
       ]
     },
     {
@@ -206,7 +359,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37326"
+        "37316",
+        "37317",
+        "37325",
+        "37326",
+        "37333",
+        "37361",
+        "37362",
+        "37369",
+        "37391"
       ]
     },
     {
@@ -217,7 +378,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37315"
+        "37302",
+        "37308",
+        "37315",
+        "37341",
+        "37343",
+        "37350",
+        "37351",
+        "37363",
+        "37373",
+        "37379",
+        "37403",
+        "37404",
+        "37405",
+        "37406",
+        "37407",
+        "37408",
+        "37409",
+        "37410",
+        "37411",
+        "37415",
+        "37416",
+        "37419",
+        "37421",
+        "374HH"
       ]
     },
     {
@@ -228,7 +412,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37305"
+        "371XX",
+        "37301",
+        "37305",
+        "37339",
+        "37365",
+        "37366"
       ]
     },
     {
@@ -239,7 +428,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37313"
+        "371XX",
+        "37301",
+        "37313",
+        "37339",
+        "37365",
+        "37366"
       ]
     },
     {
@@ -250,18 +444,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37356"
-      ]
-    },
-    {
-      "name": "PALMER PUBLIC LIBRARY",
-      "system": "PALMER PUBLIC LIBRARY",
-      "address": "HIGHWAY 108, PALMER, TN",
-      "website": "https://www.palmerlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37365"
+        "371XX",
+        "37301",
+        "37339",
+        "37356",
+        "37365",
+        "37366"
       ]
     },
     {
@@ -272,6 +460,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "371XX",
+        "37301",
+        "37339",
+        "37365",
+        "37366",
         "37387"
       ]
     },
@@ -283,18 +476,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37309"
-      ]
-    },
-    {
-      "name": "ENGLEWOOD PUBLIC LIBRARY",
-      "system": "ENGLEWOOD PUBLIC LIBRARY",
-      "address": "35 CARROLL STREET, ENGLEWOOD, TN",
-      "website": "https://www.englewoodco.gov/parks-recreation-library-golf/englewood-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37329"
+        "37309",
+        "37370",
+        "37826"
       ]
     },
     {
@@ -305,7 +489,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37331"
+        "37331",
+        "37370",
+        "37826"
       ]
     },
     {
@@ -327,18 +513,43 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37307"
+        "37307",
+        "37316",
+        "37317",
+        "37325",
+        "37333",
+        "37361",
+        "37362",
+        "37369",
+        "37391"
       ]
     },
     {
       "name": "GRAYSVILLE PUBLIC LIBRARY",
       "system": "GRAYSVILLE PUBLIC LIBRARY",
-      "address": "136 HARRISON AVENUE, GRAYSVILLE, TN",
+      "address": "315 SOUTH MAIN STREET, GRAYSVILLE, AL",
       "website": "https://graysvilletn.gov/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35073",
+        "37332",
+        "37337",
         "37338"
+      ]
+    },
+    {
+      "name": "MAGNESS COMMUNITY HOUSE & LIBRARY",
+      "system": "MAGNESS COMMUNITY HOUSE & LIBRARY",
+      "address": "118 WEST MAIN STREET, MCMINNVILLE, TN",
+      "website": "https://librarytechnology.org/library/6109",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37110",
+        "37357",
+        "37394",
+        "38581"
       ]
     }
   ]

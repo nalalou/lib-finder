@@ -1,6 +1,77 @@
 {
   "libraries": [
     {
+      "name": "HUNTSVILLE PUBLIC LIBRARY",
+      "system": "HUNTSVILLE PUBLIC LIBRARY",
+      "address": "314 COURT HOUSE SQUARE, HUNTSVILLE, TN",
+      "website": "https://www.huntsvilletx.gov/171/Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37756",
+        "77320",
+        "77334",
+        "77340",
+        "77341",
+        "77367",
+        "77876"
+      ]
+    },
+    {
+      "name": "NEW WAVERLY PUBLIC LIBRARY",
+      "system": "NEW WAVERLY PUBLIC LIBRARY",
+      "address": "9372 STATE HWY 75 S, NEW WAVERLY, TX",
+      "website": "https://newwaverlypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77320",
+        "77334",
+        "77340",
+        "77341",
+        "77358",
+        "77367",
+        "77876"
+      ]
+    },
+    {
+      "name": "LUCY HILL PATTERSON MEMORIAL LIBRARY",
+      "system": "LUCY HILL PATTERSON MEMORIAL LIBRARY",
+      "address": "201 ACKERMAN ST, ROCKDALE, TX",
+      "website": "https://www.rockdaletx.gov/115/Lucy-Hill-Patterson-Memorial-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76518",
+        "76519",
+        "76520",
+        "76523",
+        "76556",
+        "76567",
+        "76577",
+        "77857"
+      ]
+    },
+    {
+      "name": "BUFFALO PUBLIC LIBRARY",
+      "system": "BUFFALO PUBLIC LIBRARY",
+      "address": "11 E TURNER, BUFFALO, OK",
+      "website": "https://buffalotex.com/departments/buffalo_public_library.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73834",
+        "75831",
+        "75833",
+        "75846",
+        "75850",
+        "75855",
+        "77855",
+        "77865",
+        "77871"
+      ]
+    },
+    {
       "name": "MADISON COUNTY LIBRARY",
       "system": "MADISON COUNTY LIBRARY",
       "address": "605 S MAY ST, MADISONVILLE, TX",
@@ -8,7 +79,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77864"
+        "75852",
+        "77864",
+        "77872"
       ]
     },
     {
@@ -19,7 +92,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77868"
+        "77363",
+        "77830",
+        "77861",
+        "77868",
+        "77873"
       ]
     },
     {
@@ -30,7 +107,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77833"
+        "77426",
+        "77833",
+        "77835",
+        "77880"
       ]
     },
     {
@@ -41,7 +121,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77803"
+        "77801",
+        "77802",
+        "77803",
+        "77807",
+        "77808",
+        "77840",
+        "77845",
+        "77866",
+        "778HH"
       ]
     },
     {
@@ -52,7 +140,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77836"
+        "77836",
+        "77878",
+        "77879"
       ]
     },
     {
@@ -63,7 +153,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77859"
+        "77837",
+        "77859",
+        "77867",
+        "77870",
+        "77882"
       ]
     },
     {
@@ -74,7 +168,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77856"
+        "77837",
+        "77856",
+        "77867",
+        "77870",
+        "77882"
       ]
     },
     {
@@ -85,7 +183,41 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77831"
+        "77363",
+        "77830",
+        "77831",
+        "77861",
+        "77873"
+      ]
+    },
+    {
+      "name": "BREMOND PUBLIC LIBRARY",
+      "system": "BREMOND PUBLIC LIBRARY",
+      "address": "115 S MAIN ST, BREMOND, TX",
+      "website": "https://txcountyoffices.org/libraries/robertson/bremond-public-library-tx/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76629",
+        "77837",
+        "77867",
+        "77870",
+        "77882"
+      ]
+    },
+    {
+      "name": "GIDDINGS PUBLIC LIBRARY",
+      "system": "GIDDINGS PUBLIC LIBRARY",
+      "address": "276 N ORANGE ST, GIDDINGS, TX",
+      "website": "https://www.giddingspubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77853",
+        "78942",
+        "78946",
+        "78947",
+        "78948"
       ]
     }
   ]

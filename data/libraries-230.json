@@ -3,12 +3,14 @@
     {
       "name": "CUMBERLAND COUNTY PUBLIC LIBRARY",
       "system": "CUMBERLAND COUNTY PUBLIC LIBRARY",
-      "address": "1539 ANDERSON HIGHWAY, CUMBERLAND, VA",
+      "address": "114 HILL STREET, BURKESVILLE, KY",
       "website": "https://cumberlandcountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23040"
+        "23027",
+        "23040",
+        "42717"
       ]
     },
     {
@@ -19,7 +21,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23061"
+        "23001",
+        "23061",
+        "23062",
+        "23072",
+        "23178",
+        "23184"
       ]
     },
     {
@@ -30,7 +37,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23002"
+        "23002",
+        "23083"
       ]
     },
     {
@@ -41,7 +49,114 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23069"
+        "23005",
+        "23015",
+        "23047",
+        "23069",
+        "23111",
+        "23116",
+        "23146",
+        "23192"
+      ]
+    },
+    {
+      "name": "HERITAGE PUBLIC LIBRARY",
+      "system": "HERITAGE PUBLIC LIBRARY",
+      "address": "52 FOURTH ST, MCDONALD, PA",
+      "website": "https://heritagepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "15057",
+        "23011",
+        "23089",
+        "23124",
+        "23141"
+      ]
+    },
+    {
+      "name": "MATHEWS MEMORIAL LIBRARY",
+      "system": "MATHEWS MEMORIAL LIBRARY",
+      "address": "251 MAIN STREET, MATHEWS, VA",
+      "website": "https://mathewslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23021",
+        "23025",
+        "23035",
+        "23045",
+        "23050",
+        "23056",
+        "23064",
+        "23066",
+        "23068",
+        "23076",
+        "23109",
+        "23119",
+        "23125",
+        "23128",
+        "23130",
+        "23138",
+        "23163"
+      ]
+    },
+    {
+      "name": "MIDDLESEX COUNTY PUBLIC LIBRARY",
+      "system": "MIDDLESEX COUNTY PUBLIC LIBRARY",
+      "address": "150 GRACE STREET, URBANNA, VA",
+      "website": "https://yourmiddlesexlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23032",
+        "23043",
+        "23070",
+        "23071",
+        "23079",
+        "23092",
+        "23149",
+        "23169",
+        "23175",
+        "23176",
+        "23180"
+      ]
+    },
+    {
+      "name": "HENRICO COUNTY PUBLIC LIBRARY",
+      "system": "HENRICO COUNTY PUBLIC LIBRARY",
+      "address": "1700 NORTH PARHAM ROAD, HENRICO, VA",
+      "website": "https://henricolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23059",
+        "23060",
+        "23075",
+        "23150",
+        "23227",
+        "23228",
+        "23229",
+        "23230",
+        "23231",
+        "23233",
+        "23294",
+        "232HH"
+      ]
+    },
+    {
+      "name": "FLUVANNA COUNTY PUBLIC LIBRARY",
+      "system": "FLUVANNA COUNTY PUBLIC LIBRARY",
+      "address": "214 COMMONS BLVD., PALMYRA, VA",
+      "website": "https://www.fluvannacounty.org/library/page/fluvanna-county-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22963",
+        "22974",
+        "23022",
+        "23055",
+        "23084"
       ]
     }
   ]

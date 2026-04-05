@@ -1,6 +1,48 @@
 {
   "libraries": [
     {
+      "name": "CRESTON-DEMENT PUBLIC LIBRARY DISTRICT",
+      "system": "CRESTON-DEMENT PUBLIC LIBRARY DISTRICT",
+      "address": "107 SOUTH MAIN STREET, CRESTON, IL",
+      "website": "https://www.crestonlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60113",
+        "61007",
+        "61015",
+        "61020",
+        "61049",
+        "61052",
+        "61091",
+        "611HH"
+      ]
+    },
+    {
+      "name": "ROCKFORD PUBLIC LIBRARY",
+      "system": "ROCKFORD PUBLIC LIBRARY",
+      "address": "9688 US HWY 231, ROCKFORD, AL",
+      "website": "https://www.rockfordpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35136",
+        "61024",
+        "61073",
+        "61077",
+        "61101",
+        "61102",
+        "61103",
+        "61104",
+        "61107",
+        "61108",
+        "61109",
+        "61112",
+        "61114",
+        "61115"
+      ]
+    },
+    {
       "name": "NORTH SUBURBAN PUBLIC LIBRARY DISTRICT",
       "system": "NORTH SUBURBAN PUBLIC LIBRARY DISTRICT",
       "address": "6340 NORTH SECOND STREET, LOVES PARK, IL",
@@ -8,18 +50,284 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61111"
+        "61024",
+        "61073",
+        "61077",
+        "61101",
+        "61102",
+        "61103",
+        "61104",
+        "61107",
+        "61108",
+        "61109",
+        "61111",
+        "61112",
+        "61114",
+        "61115"
       ]
     },
     {
-      "name": "ROCKFORD PUBLIC LIBRARY",
-      "system": "ROCKFORD PUBLIC LIBRARY",
-      "address": "214 NORTH CHURCH STREET, ROCKFORD, IL",
-      "website": "https://www.rockfordpubliclibrary.org/",
+      "name": "BERTOLET MEMORIAL LIBRARY DISTRICT",
+      "system": "BERTOLET MEMORIAL LIBRARY DISTRICT",
+      "address": "705 MAIN STREET, LEAF RIVER, IL",
+      "website": "https://bertoletmemoriallibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61101"
+        "61007",
+        "61015",
+        "61020",
+        "61047",
+        "61049",
+        "61052",
+        "61091",
+        "611HH"
+      ]
+    },
+    {
+      "name": "BYRON PUBLIC LIBRARY DISTRICT",
+      "system": "BYRON PUBLIC LIBRARY DISTRICT",
+      "address": "100 SOUTH WASHINGTON STREET, BYRON, IL",
+      "website": "https://www.byronlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61007",
+        "61010",
+        "61015",
+        "61020",
+        "61049",
+        "61052",
+        "61091",
+        "611HH"
+      ]
+    },
+    {
+      "name": "CHERRY VALLEY PUBLIC LIBRARY DISTRICT",
+      "system": "CHERRY VALLEY PUBLIC LIBRARY DISTRICT",
+      "address": "755 EAST STATE STREET, CHERRY VALLEY, IL",
+      "website": "https://cherryvalleylib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61016",
+        "61024",
+        "61073",
+        "61077",
+        "61101",
+        "61102",
+        "61103",
+        "61104",
+        "61107",
+        "61108",
+        "61109",
+        "61112",
+        "61114",
+        "61115"
+      ]
+    },
+    {
+      "name": "FORRESTON PUBLIC LIBRARY",
+      "system": "FORRESTON PUBLIC LIBRARY",
+      "address": "204 FIRST AVENUE, FORRESTON, IL",
+      "website": "https://www.forrestonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61007",
+        "61015",
+        "61020",
+        "61030",
+        "61049",
+        "61052",
+        "61091",
+        "611HH"
+      ]
+    },
+    {
+      "name": "MOUNT MORRIS PUBLIC LIBRARY",
+      "system": "MOUNT MORRIS PUBLIC LIBRARY",
+      "address": "105 SOUTH MCKENDRIE AVENUE, MOUNT MORRIS, IL",
+      "website": "https://www.mtmorris-il.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61007",
+        "61015",
+        "61020",
+        "61049",
+        "61052",
+        "61054",
+        "61091",
+        "611HH"
+      ]
+    },
+    {
+      "name": "OREGON PUBLIC LIBRARY DISTRICT",
+      "system": "OREGON PUBLIC LIBRARY DISTRICT",
+      "address": "300 JEFFERSON STREET, OREGON, IL",
+      "website": "https://oregonpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61007",
+        "61015",
+        "61020",
+        "61049",
+        "61052",
+        "61061",
+        "61091",
+        "611HH"
+      ]
+    },
+    {
+      "name": "PECATONICA PUBLIC LIBRARY DISTRICT",
+      "system": "PECATONICA PUBLIC LIBRARY DISTRICT",
+      "address": "400 WEST 11TH STREET, PECATONICA, IL",
+      "website": "https://pecatonicalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61024",
+        "61063",
+        "61073",
+        "61077",
+        "61101",
+        "61102",
+        "61103",
+        "61104",
+        "61107",
+        "61108",
+        "61109",
+        "61112",
+        "61114",
+        "61115"
+      ]
+    },
+    {
+      "name": "POLO PUBLIC LIBRARY DISTRICT",
+      "system": "POLO PUBLIC LIBRARY DISTRICT",
+      "address": "302 WEST MASON STREET, POLO, IL",
+      "website": "https://pololibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61007",
+        "61015",
+        "61020",
+        "61049",
+        "61052",
+        "61064",
+        "61091",
+        "611HH"
+      ]
+    },
+    {
+      "name": "FLAGG-ROCHELLE PUBLIC LIBRARY DISTRICT",
+      "system": "FLAGG-ROCHELLE PUBLIC LIBRARY DISTRICT",
+      "address": "619 FOURTH AVENUE, ROCHELLE, IL",
+      "website": "https://rochellepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61007",
+        "61015",
+        "61020",
+        "61049",
+        "61052",
+        "61068",
+        "61091",
+        "611HH"
+      ]
+    },
+    {
+      "name": "SOUTH BELOIT PUBLIC LIBRARY",
+      "system": "SOUTH BELOIT PUBLIC LIBRARY",
+      "address": "630 BLACKHAWK BOULEVARD, SOUTH BELOIT, IL",
+      "website": "https://www.southbeloitlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61024",
+        "61073",
+        "61077",
+        "61080",
+        "61101",
+        "61102",
+        "61103",
+        "61104",
+        "61107",
+        "61108",
+        "61109",
+        "61112",
+        "61114",
+        "61115"
+      ]
+    },
+    {
+      "name": "JULIA HULL DISTRICT LIBRARY",
+      "system": "JULIA HULL DISTRICT LIBRARY",
+      "address": "100 LIBRARY LANE, STILLMAN VALLEY, IL",
+      "website": "https://www.juliahull.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61007",
+        "61015",
+        "61020",
+        "61049",
+        "61052",
+        "61084",
+        "61091",
+        "611HH"
+      ]
+    },
+    {
+      "name": "TALCOTT FREE LIBRARY DISTRICT",
+      "system": "TALCOTT FREE LIBRARY DISTRICT",
+      "address": "101 EAST MAIN STREET, ROCKTON, IL",
+      "website": "https://www.loc8nearme.com/illinois/rockton/talcott-free-library-district/6448933/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61024",
+        "61072",
+        "61073",
+        "61077",
+        "61101",
+        "61102",
+        "61103",
+        "61104",
+        "61107",
+        "61108",
+        "61109",
+        "61112",
+        "61114",
+        "61115"
+      ]
+    },
+    {
+      "name": "WINNEBAGO PUBLIC LIBRARY DISTRICT",
+      "system": "WINNEBAGO PUBLIC LIBRARY DISTRICT",
+      "address": "210 NORTH ELIDA STREET, WINNEBAGO, IL",
+      "website": "https://www.winnebagopubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61024",
+        "61073",
+        "61077",
+        "61088",
+        "61101",
+        "61102",
+        "61103",
+        "61104",
+        "61107",
+        "61108",
+        "61109",
+        "61112",
+        "61114",
+        "61115"
       ]
     }
   ]

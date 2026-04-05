@@ -1,6 +1,20 @@
 {
   "libraries": [
     {
+      "name": "CONVERSE COUNTY LIBRARY SYSTEM",
+      "system": "CONVERSE COUNTY LIBRARY SYSTEM",
+      "address": "300 WALNUT ST., DOUGLAS, WY",
+      "website": "http://www.yourccl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82224",
+        "82633",
+        "82637",
+        "826HH"
+      ]
+    },
+    {
       "name": "PLATTE COUNTY LIBRARY SYSTEM",
       "system": "PLATTE COUNTY LIBRARY SYSTEM",
       "address": "904 9TH ST, WHEATLAND, WY",
@@ -8,7 +22,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "82201"
+        "82201",
+        "82210",
+        "82213",
+        "82214",
+        "82215",
+        "822HH"
       ]
     },
     {
@@ -19,7 +38,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "82240"
+        "82212",
+        "82217",
+        "82218",
+        "82219",
+        "82221",
+        "82223",
+        "82240",
+        "82243",
+        "82244"
       ]
     },
     {
@@ -30,7 +57,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "82225"
+        "82222",
+        "82225",
+        "82227",
+        "82242"
       ]
     }
   ]

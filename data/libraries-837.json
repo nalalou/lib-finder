@@ -1,6 +1,75 @@
 {
   "libraries": [
     {
+      "name": "EAGLE PUBLIC",
+      "system": "EAGLE PUBLIC",
+      "address": "100 N STIERMAN WY, EAGLE, ID",
+      "website": "https://eaglepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "83616",
+        "83669",
+        "836HH",
+        "83703",
+        "83704",
+        "83705",
+        "83706",
+        "83712",
+        "83713",
+        "83716",
+        "83788",
+        "837HH",
+        "837XX"
+      ]
+    },
+    {
+      "name": "KUNA DISTRICT",
+      "system": "KUNA DISTRICT",
+      "address": "457 N LOCUST, KUNA, ID",
+      "website": "https://kunalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "83634",
+        "83669",
+        "836HH",
+        "83703",
+        "83704",
+        "83705",
+        "83706",
+        "83712",
+        "83713",
+        "83716",
+        "83788",
+        "837HH",
+        "837XX"
+      ]
+    },
+    {
+      "name": "MERIDIAN DISTRICT",
+      "system": "MERIDIAN DISTRICT",
+      "address": "1326 W CHERRY LN, MERIDIAN, ID",
+      "website": "https://www.mld.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "83642",
+        "83669",
+        "836HH",
+        "83703",
+        "83704",
+        "83705",
+        "83706",
+        "83712",
+        "83713",
+        "83716",
+        "83788",
+        "837HH",
+        "837XX"
+      ]
+    },
+    {
       "name": "BOISE PUBLIC",
       "system": "BOISE PUBLIC",
       "address": "715 S CAPITOL BLVD, BOISE, ID",
@@ -8,7 +77,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83702"
+        "83669",
+        "836HH",
+        "83702",
+        "83703",
+        "83704",
+        "83705",
+        "83706",
+        "83712",
+        "83713",
+        "83716",
+        "83788",
+        "837HH",
+        "837XX"
       ]
     },
     {
@@ -19,7 +100,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83709"
+        "83669",
+        "836HH",
+        "83703",
+        "83704",
+        "83705",
+        "83706",
+        "83709",
+        "83712",
+        "83713",
+        "83716",
+        "83788",
+        "837HH",
+        "837XX"
       ]
     },
     {
@@ -30,7 +123,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83714"
+        "83669",
+        "836HH",
+        "83703",
+        "83704",
+        "83705",
+        "83706",
+        "83712",
+        "83713",
+        "83714",
+        "83716",
+        "83788",
+        "837HH",
+        "837XX"
       ]
     }
   ]

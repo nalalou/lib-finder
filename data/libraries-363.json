@@ -8,7 +8,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36310"
+        "36310",
+        "36317",
+        "36353",
+        "36373"
       ]
     },
     {
@@ -19,7 +22,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36345"
+        "36317",
+        "36345",
+        "36353",
+        "36373"
       ]
     },
     {
@@ -30,7 +36,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36360"
+        "36311",
+        "36360",
+        "36362",
+        "36371",
+        "36374"
       ]
     },
     {
@@ -41,18 +51,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36350"
-      ]
-    },
-    {
-      "name": "NEWTON PUBLIC LIBRARY",
-      "system": "NEWTON PUBLIC LIBRARY",
-      "address": "209 OATES DRIVE, NEWTON, AL",
-      "website": "https://www.newtonplks.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36352"
+        "36311",
+        "36350",
+        "36362",
+        "36371",
+        "36374"
       ]
     },
     {
@@ -63,7 +66,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36323"
+        "36323",
+        "36330",
+        "36346",
+        "36351",
+        "36453"
       ]
     },
     {
@@ -74,18 +81,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36340"
-      ]
-    },
-    {
-      "name": "ENTERPRISE PUBLIC LIBRARY",
-      "system": "ENTERPRISE PUBLIC LIBRARY",
-      "address": "101 EAST GRUBBS STREET, ENTERPRISE, AL",
-      "website": "https://enterprise.lib.nckls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36330"
+        "36313",
+        "36314",
+        "36316",
+        "36318",
+        "36340",
+        "363HH"
       ]
     },
     {
@@ -96,7 +97,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36344"
+        "36313",
+        "36314",
+        "36316",
+        "36318",
+        "36344",
+        "363HH"
       ]
     },
     {
@@ -107,7 +113,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36375"
+        "36313",
+        "36314",
+        "36316",
+        "36318",
+        "36375",
+        "363HH"
       ]
     },
     {
@@ -118,7 +129,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36303"
+        "36301",
+        "36303",
+        "36305",
+        "36312",
+        "36319",
+        "36320",
+        "36343",
+        "36352",
+        "36370",
+        "36376"
       ]
     },
     {
@@ -129,7 +149,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36322"
+        "36311",
+        "36322",
+        "36362",
+        "36371",
+        "36374"
+      ]
+    },
+    {
+      "name": "SAMSON PUBLIC LIBRARY",
+      "system": "SAMSON PUBLIC LIBRARY",
+      "address": "200 NORTH JOHNSON STREET, SAMSON, AL",
+      "website": "https://librarytechnology.org/library/14382",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36313",
+        "36314",
+        "36316",
+        "36318",
+        "363HH",
+        "36477"
       ]
     }
   ]

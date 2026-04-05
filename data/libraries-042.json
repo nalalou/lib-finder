@@ -1,14 +1,237 @@
 {
   "libraries": [
     {
-      "name": "ANDOVER PUBLIC LIBRARY",
-      "system": "ANDOVER PUBLIC LIBRARY",
-      "address": "46 CHURCH STREET, ANDOVER, ME",
-      "website": "https://www.andoverconnecticut.org/library",
+      "name": "LIVERMORE PUBLIC LIBRARY",
+      "system": "LIVERMORE PUBLIC LIBRARY",
+      "address": "22 CHURCH STREET, LIVERMORE, ME",
+      "website": "http://livermore.lib.me.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04216"
+        "04222",
+        "04228",
+        "04240",
+        "04250",
+        "04253",
+        "04258",
+        "04263",
+        "04280",
+        "042HH"
+      ]
+    },
+    {
+      "name": "WINSLOW PUBLIC LIBRARY",
+      "system": "WINSLOW PUBLIC LIBRARY",
+      "address": "136 HALIFAX STREET, WINSLOW, ME",
+      "website": "https://winslow-me.gov/departments/winslow_public_library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04901",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "PARIS PUBLIC LIBRARY",
+      "system": "PARIS PUBLIC LIBRARY",
+      "address": "37 MARKET SQUARE, SOUTH PARIS, ME",
+      "website": "https://www.parispublib.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04281",
+        "75411",
+        "75416",
+        "75421",
+        "75434",
+        "75435",
+        "75460",
+        "75462",
+        "75468",
+        "75470",
+        "75473",
+        "75477",
+        "75486"
+      ]
+    },
+    {
+      "name": "BOWDOINHAM PUBLIC LIBRARY",
+      "system": "BOWDOINHAM PUBLIC LIBRARY",
+      "address": "13A SCHOOL STREET, BOWDOINHAM, ME",
+      "website": "https://bowdoinhamlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04008",
+        "04287",
+        "04579"
+      ]
+    },
+    {
+      "name": "BROWNFIELD PUBLIC LIBRARY",
+      "system": "BROWNFIELD PUBLIC LIBRARY",
+      "address": "216 MAIN STREET, BROWNFIELD, ME",
+      "website": "https://www.brownfieldpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04010",
+        "04068",
+        "04216",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
+      ]
+    },
+    {
+      "name": "DENMARK PUBLIC LIBRARY",
+      "system": "DENMARK PUBLIC LIBRARY",
+      "address": "121 EAST MAIN STREET, DENMARK, ME",
+      "website": "http://www.denmark.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04022",
+        "04068",
+        "04216",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
+      ]
+    },
+    {
+      "name": "FRYEBURG PUBLIC LIBRARY",
+      "system": "FRYEBURG PUBLIC LIBRARY",
+      "address": "515 MAIN STREET, FRYEBURG, ME",
+      "website": "https://fryeburgpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04037",
+        "04068",
+        "04216",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
+      ]
+    },
+    {
+      "name": "SOLDIERS MEMORIAL LIBRARY",
+      "system": "SOLDIERS MEMORIAL LIBRARY",
+      "address": "85 MAIN STREET, HIRAM, ME",
+      "website": "https://thehiramculturalcenter.squarespace.com/soldiers-memorial-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04041",
+        "04068",
+        "04216",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
+      ]
+    },
+    {
+      "name": "CHARLOTTE HOBBS MEMORIAL LIBRARY",
+      "system": "CHARLOTTE HOBBS MEMORIAL LIBRARY",
+      "address": "227 MAIN STREET, LOVELL, ME",
+      "website": "https://www.hobbslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04051",
+        "04068",
+        "04216",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
+      ]
+    },
+    {
+      "name": "TOPSHAM PUBLIC LIBRARY",
+      "system": "TOPSHAM PUBLIC LIBRARY",
+      "address": "25 FORESIDE ROAD, TOPSHAM, ME",
+      "website": "https://topshamlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04086",
+        "04287",
+        "04579"
+      ]
+    },
+    {
+      "name": "WATERFORD LIBRARY ASSOCIATION",
+      "system": "WATERFORD LIBRARY ASSOCIATION",
+      "address": "663 WATERFORD ROAD, WATERFORD, ME",
+      "website": "https://waterfordmainelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04068",
+        "04088",
+        "04216",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
       ]
     },
     {
@@ -19,7 +242,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04210"
+        "04210",
+        "04222",
+        "04228",
+        "04240",
+        "04250",
+        "04258",
+        "04263",
+        "04280",
+        "042HH"
       ]
     },
     {
@@ -30,7 +261,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04217"
+        "04068",
+        "04216",
+        "04217",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
       ]
     },
     {
@@ -41,7 +285,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04220"
+        "04068",
+        "04216",
+        "04220",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
       ]
     },
     {
@@ -52,7 +309,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04224"
+        "04068",
+        "04216",
+        "04221",
+        "04224",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
       ]
     },
     {
@@ -63,18 +333,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04239"
-      ]
-    },
-    {
-      "name": "LEWISTON PUBLIC LIBRARY",
-      "system": "LEWISTON PUBLIC LIBRARY",
-      "address": "200 LISBON STREET, LEWISTON, ME",
-      "website": "http://lplonline.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04240"
+        "04239",
+        "04936",
+        "04964",
+        "04984",
+        "049HH"
       ]
     },
     {
@@ -85,18 +348,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04252"
-      ]
-    },
-    {
-      "name": "LIVERMORE PUBLIC LIBRARY",
-      "system": "LIVERMORE PUBLIC LIBRARY",
-      "address": "22 CHURCH STREET, LIVERMORE, ME",
-      "website": "http://livermore.lib.me.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04253"
+        "04222",
+        "04228",
+        "04240",
+        "04250",
+        "04252",
+        "04258",
+        "04263",
+        "04280",
+        "042HH"
       ]
     },
     {
@@ -107,7 +367,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04254"
+        "04222",
+        "04228",
+        "04240",
+        "04250",
+        "04254",
+        "04258",
+        "04263",
+        "04280",
+        "042HH"
       ]
     },
     {
@@ -118,7 +386,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04256"
+        "04222",
+        "04228",
+        "04240",
+        "04250",
+        "04256",
+        "04258",
+        "04263",
+        "04280",
+        "042HH"
       ]
     },
     {
@@ -129,7 +405,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04259"
+        "04259",
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
       ]
     },
     {
@@ -140,6 +427,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "04003",
+        "04011",
+        "04062",
+        "04069",
+        "04091",
+        "04097",
+        "040HH",
+        "04101",
+        "04102",
+        "04103",
+        "04108",
+        "04110",
+        "041HH",
         "04260"
       ]
     },
@@ -151,7 +451,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04268"
+        "04068",
+        "04216",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04268",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
       ]
     },
     {
@@ -162,29 +475,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04270"
-      ]
-    },
-    {
-      "name": "PARIS PUBLIC LIBRARY",
-      "system": "PARIS PUBLIC LIBRARY",
-      "address": "37 MARKET SQUARE, SOUTH PARIS, ME",
-      "website": "https://www.parispublib.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04281"
-      ]
-    },
-    {
-      "name": "HAMLIN MEMORIAL LIBRARY",
-      "system": "HAMLIN MEMORIAL LIBRARY",
-      "address": "16 HANNIBAL HAMLIN DRIVE, SOUTH PARIS, ME",
-      "website": "http://www.hamlin.lib.me.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04281"
+        "04068",
+        "04216",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04270",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
       ]
     },
     {
@@ -195,7 +499,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04274"
+        "04222",
+        "04228",
+        "04240",
+        "04250",
+        "04258",
+        "04263",
+        "04274",
+        "04280",
+        "042HH"
       ]
     },
     {
@@ -206,7 +518,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04276"
+        "04068",
+        "04216",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04275",
+        "04276",
+        "04290",
+        "04292",
+        "042XX"
       ]
     },
     {
@@ -217,7 +542,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04282"
+        "04222",
+        "04228",
+        "04240",
+        "04250",
+        "04258",
+        "04263",
+        "04280",
+        "04282",
+        "042HH"
       ]
     },
     {
@@ -228,7 +561,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04284"
+        "04265",
+        "04284",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
       ]
     },
     {
@@ -239,7 +583,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04289"
+        "04068",
+        "04216",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04275",
+        "04289",
+        "04290",
+        "04292",
+        "042XX"
       ]
     },
     {
@@ -250,7 +607,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04294"
+        "04294",
+        "04936",
+        "04964",
+        "04984",
+        "049HH"
       ]
     },
     {
@@ -261,7 +622,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04219"
+        "04068",
+        "04216",
+        "04219",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04261",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
       ]
     },
     {
@@ -272,7 +646,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04257"
+        "04068",
+        "04216",
+        "04221",
+        "04226",
+        "04231",
+        "04237",
+        "04238",
+        "04255",
+        "04257",
+        "04261",
+        "04275",
+        "04290",
+        "04292",
+        "042XX"
       ]
     },
     {
@@ -283,7 +670,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04285"
+        "04285",
+        "04936",
+        "04964",
+        "04984",
+        "049HH"
       ]
     },
     {
@@ -294,7 +685,331 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04236"
+        "04222",
+        "04228",
+        "04236",
+        "04240",
+        "04250",
+        "04258",
+        "04263",
+        "04280",
+        "042HH"
+      ]
+    },
+    {
+      "name": "LITHGOW PUBLIC LIBRARY",
+      "system": "LITHGOW PUBLIC LIBRARY",
+      "address": "45 WINTHROP STREET, AUGUSTA, ME",
+      "website": "http://www.lithgow.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04330",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "SOUTH CHINA PUBLIC LIBRARY",
+      "system": "SOUTH CHINA PUBLIC LIBRARY",
+      "address": "27 JONES ROAD, SOUTH CHINA, ME",
+      "website": "http://www.southchinalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04358",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "GARDINER PUBLIC LIBRARY",
+      "system": "GARDINER PUBLIC LIBRARY",
+      "address": "152 WATER STREET, GARDINER, ME",
+      "website": "https://gardinerpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04345",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "HUBBARD FREE LIBRARY",
+      "system": "HUBBARD FREE LIBRARY",
+      "address": "115 SECOND STREET, HALLOWELL, ME",
+      "website": "http://www.hubbardfree.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04347",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "DR. SHAW MEMORIAL LIBRARY",
+      "system": "DR. SHAW MEMORIAL LIBRARY",
+      "address": "344 POND ROAD, MOUNT VERNON, ME",
+      "website": "https://drshawlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04352",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "READFIELD COMMUNITY LIBRARY",
+      "system": "READFIELD COMMUNITY LIBRARY",
+      "address": "1151 MAIN STREET, READFIELD, ME",
+      "website": "https://www.readfieldmaine.gov/readfield-community-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04355",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "CHARLES M. BAILEY PUBLIC LIBRARY",
+      "system": "CHARLES M. BAILEY PUBLIC LIBRARY",
+      "address": "39 BOWDOIN STREET, WINTHROP, ME",
+      "website": "http://www.baileylibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "04364",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "ALBERT CHURCH BROWN MEMORIAL LIBRARY",
+      "system": "ALBERT CHURCH BROWN MEMORIAL LIBRARY",
+      "address": "37 MAIN STREET, CHINA, ME",
+      "website": "https://www.chinalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04358",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "UNDERWOOD MEMORIAL LIBRARY",
+      "system": "UNDERWOOD MEMORIAL LIBRARY",
+      "address": "2006 MAIN STREET, FAYETTE, ME",
+      "website": "https://fayettemaine.org/pages/marsing-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04349",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "ISAAC F. UMBERHINE PUBLIC LIBRARY",
+      "system": "ISAAC F. UMBERHINE PUBLIC LIBRARY",
+      "address": "86 MAIN STREET, RICHMOND, ME",
+      "website": "https://umberhine.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04287",
+        "04357",
+        "04579"
+      ]
+    },
+    {
+      "name": "VASSALBORO PUBLIC LIBRARY",
+      "system": "VASSALBORO PUBLIC LIBRARY",
+      "address": "930 BOG ROAD, EAST VASSALBORO, ME",
+      "website": "https://vassalboro.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04935",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "BROWN MEMORIAL LIBRARY - CLINTON",
+      "system": "BROWN MEMORIAL LIBRARY - CLINTON",
+      "address": "53 RAILROAD STREET, CLINTON, ME",
+      "website": "https://www.clinton-me.us/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04927",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "BELGRADE PUBLIC LIBRARY",
+      "system": "BELGRADE PUBLIC LIBRARY",
+      "address": "124 DEPOT ROAD, BELGRADE, ME",
+      "website": "https://www.belgrademaine.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04917",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "PATTEN FREE LIBRARY",
+      "system": "PATTEN FREE LIBRARY",
+      "address": "33 SUMMER STREET, BATH, ME",
+      "website": "https://pattenfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04287",
+        "04530",
+        "04579"
+      ]
+    },
+    {
+      "name": "LAURA E. RICHARDS LIBRARY",
+      "system": "LAURA E. RICHARDS LIBRARY",
+      "address": "863 FIVE ISLANDS ROAD, GEORGETOWN, ME",
+      "website": "https://www.maine.gov/msl/mainelibs/displaypub.shtml?id=41022",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04287",
+        "04548",
+        "04579"
+      ]
+    },
+    {
+      "name": "ALBERT F. TOTMAN LIBRARY",
+      "system": "ALBERT F. TOTMAN LIBRARY",
+      "address": "28 PARKER HEAD ROAD, PHIPPSBURG, ME",
+      "website": "https://www.totmanpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04287",
+        "04562",
+        "04579"
       ]
     }
   ]

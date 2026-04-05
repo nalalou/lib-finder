@@ -1,80 +1,79 @@
 {
   "libraries": [
     {
-      "name": "GILPIN COUNTY LIBRARY DISTRICT",
-      "system": "GILPIN COUNTY LIBRARY DISTRICT",
-      "address": "15131 HIGHWAY 119, BLACK HAWK, CO",
-      "website": "https://www.gilpinlibrary.org/",
+      "name": "BASALT REGIONAL LIBRARY DISTRICT",
+      "system": "BASALT REGIONAL LIBRARY DISTRICT",
+      "address": "14 MIDLAND AVE, BASALT, CO",
+      "website": "https://basaltlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80422"
+        "80423",
+        "80426",
+        "80463",
+        "81620",
+        "81621",
+        "81632",
+        "81637",
+        "81645",
+        "81649",
+        "81655"
       ]
     },
     {
-      "name": "GRAND COUNTY LIBRARY DISTRICT",
-      "system": "GRAND COUNTY LIBRARY DISTRICT",
-      "address": "225 E JASPER AVE, GRANBY, CO",
-      "website": "https://gcld.org/",
+      "name": "EAGLE VALLEY LIBRARY DISTRICT",
+      "system": "EAGLE VALLEY LIBRARY DISTRICT",
+      "address": "600 BROADWAY, EAGLE, CO",
+      "website": "https://evld.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80446"
+        "80423",
+        "80426",
+        "80463",
+        "81620",
+        "81631",
+        "81632",
+        "81637",
+        "81645",
+        "81649",
+        "81655"
       ]
     },
     {
-      "name": "JACKSON COUNTY PUBLIC LIBRARY",
-      "system": "JACKSON COUNTY PUBLIC LIBRARY",
-      "address": "412 4TH STREET, WALDEN, CO",
-      "website": "https://www.myjclibrary.org/",
+      "name": "WEST ROUTT LIBRARY DISTRICT/HAYDEN",
+      "system": "WEST ROUTT LIBRARY DISTRICT/HAYDEN",
+      "address": "201 EAST JEFFERSON AVENUE, HAYDEN, CO",
+      "website": "https://haydenpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80480"
+        "80428",
+        "80469",
+        "80479",
+        "80483",
+        "81639",
+        "81653"
       ]
     },
     {
-      "name": "LAKE COUNTY PUBLIC LIBRARY",
-      "system": "LAKE COUNTY PUBLIC LIBRARY",
-      "address": "1115 HARRISON AVE, LEADVILLE, CO",
-      "website": "https://www.lakecountypubliclibrary.org/",
+      "name": "VAIL PUBLIC LIBRARY",
+      "system": "VAIL PUBLIC LIBRARY",
+      "address": "292 W MEADOW DR, VAIL, CO",
+      "website": "https://www.vail.gov/community/vail-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80461"
-      ]
-    },
-    {
-      "name": "PARK COUNTY PUBLIC LIBRARY",
-      "system": "PARK COUNTY PUBLIC LIBRARY",
-      "address": "400 FRONT STREET, FAIRPLAY, CO",
-      "website": "https://parkcounty.colibraries.org/fairplay/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "80440"
-      ]
-    },
-    {
-      "name": "SOUTH ROUTT LIBRARY DISTRICT",
-      "system": "SOUTH ROUTT LIBRARY DISTRICT",
-      "address": "227 DODGE AVENUE, OAK CREEK, CO",
-      "website": "https://southroutt.colibraries.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "80467"
-      ]
-    },
-    {
-      "name": "EAST ROUTT LIBRARY DISTRICT",
-      "system": "EAST ROUTT LIBRARY DISTRICT",
-      "address": "1289 LINCOLN AVE., STEAMBOAT SPRINGS, CO",
-      "website": "https://steamboatlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "80487"
+        "80423",
+        "80426",
+        "80463",
+        "81620",
+        "81632",
+        "81637",
+        "81645",
+        "81649",
+        "81655",
+        "81657"
       ]
     },
     {
@@ -85,7 +84,99 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80443"
+        "80443",
+        "84017",
+        "84024",
+        "84033",
+        "84036",
+        "84055",
+        "84061",
+        "84098",
+        "840XX"
+      ]
+    },
+    {
+      "name": "GILPIN COUNTY LIBRARY DISTRICT",
+      "system": "GILPIN COUNTY LIBRARY DISTRICT",
+      "address": "15131 HIGHWAY 119, BLACK HAWK, CO",
+      "website": "https://www.gilpinlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80422",
+        "80427",
+        "80474"
+      ]
+    },
+    {
+      "name": "GRAND COUNTY LIBRARY DISTRICT",
+      "system": "GRAND COUNTY LIBRARY DISTRICT",
+      "address": "225 E JASPER AVE, GRANBY, CO",
+      "website": "https://gcld.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80442",
+        "80446",
+        "80447",
+        "80451",
+        "80459",
+        "80468",
+        "80478",
+        "80482",
+        "804HH",
+        "804XX"
+      ]
+    },
+    {
+      "name": "PARK COUNTY PUBLIC LIBRARY",
+      "system": "PARK COUNTY PUBLIC LIBRARY",
+      "address": "400 FRONT STREET, FAIRPLAY, CO",
+      "website": "https://parkcounty.colibraries.org/fairplay/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80420",
+        "80421",
+        "80432",
+        "80440",
+        "80448",
+        "80449",
+        "80456",
+        "80820",
+        "80827"
+      ]
+    },
+    {
+      "name": "SOUTH ROUTT LIBRARY DISTRICT",
+      "system": "SOUTH ROUTT LIBRARY DISTRICT",
+      "address": "227 DODGE AVENUE, OAK CREEK, CO",
+      "website": "https://southroutt.colibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80428",
+        "80467",
+        "80469",
+        "80479",
+        "80483",
+        "81653"
+      ]
+    },
+    {
+      "name": "EAST ROUTT LIBRARY DISTRICT",
+      "system": "EAST ROUTT LIBRARY DISTRICT",
+      "address": "1289 LINCOLN AVE., STEAMBOAT SPRINGS, CO",
+      "website": "https://steamboatlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80428",
+        "80469",
+        "80479",
+        "80483",
+        "80487",
+        "81653"
       ]
     },
     {
@@ -96,7 +187,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80444"
+        "80436",
+        "80438",
+        "80444",
+        "80452",
+        "80476"
       ]
     },
     {
@@ -107,7 +202,84 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80466"
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80303",
+        "80304",
+        "80455",
+        "80466",
+        "80481",
+        "80503",
+        "80510",
+        "80516"
+      ]
+    },
+    {
+      "name": "LONGMONT PUBLIC LIBRARY",
+      "system": "LONGMONT PUBLIC LIBRARY",
+      "address": "409 4TH AVE, LONGMONT, CO",
+      "website": "https://longmontcolorado.gov/Library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80303",
+        "80304",
+        "80455",
+        "80481",
+        "80501",
+        "80503",
+        "80510",
+        "80516"
+      ]
+    },
+    {
+      "name": "LYONS REGIONAL LIBRARY DISTRICT",
+      "system": "LYONS REGIONAL LIBRARY DISTRICT",
+      "address": "451 4TH AVENUE, LYONS, CO",
+      "website": "https://lyons.colibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80303",
+        "80304",
+        "80455",
+        "80481",
+        "80503",
+        "80510",
+        "80516",
+        "80540"
+      ]
+    },
+    {
+      "name": "BOULDER PUBLIC LIBRARY",
+      "system": "BOULDER PUBLIC LIBRARY",
+      "address": "1001 ARAPAHOE AVENUE, BOULDER, CO",
+      "website": "http://boulderlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80302",
+        "80303",
+        "80304",
+        "80455",
+        "80481",
+        "80503",
+        "80510",
+        "80516"
       ]
     }
   ]

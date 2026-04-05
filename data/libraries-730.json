@@ -1,212 +1,38 @@
 {
   "libraries": [
     {
-      "name": "ANADARKO COMMUNITY LIBRARY",
-      "system": "ANADARKO COMMUNITY LIBRARY",
-      "address": "215 W BROADWAY, ANADARKO, OK",
-      "website": "https://anadarkopl.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73005"
-      ]
-    },
-    {
       "name": "CARNEGIE PUBLIC LIBRARY",
       "system": "CARNEGIE PUBLIC LIBRARY",
-      "address": "6 E MAIN, CARNEGIE, OK",
+      "address": "219 E. FOURTH ST., EAST LIVERPOOL, OH",
       "website": "https://www.shelbinacarnegie.lib.mo.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73015"
+        "43920",
+        "73009",
+        "73015",
+        "73017",
+        "73029",
+        "73033",
+        "73038",
+        "73042",
+        "73053",
+        "730HH"
       ]
     },
     {
-      "name": "CHICKASHA PUBLIC LIBRARY",
-      "system": "CHICKASHA PUBLIC LIBRARY",
-      "address": "527 IOWA AVENUE, CHICKASHA, OK",
-      "website": "https://chickashapl.okpls.org/",
+      "name": "STRATFORD - CHANDLER-WATTS LIBRARY",
+      "system": "STRATFORD - CHANDLER-WATTS LIBRARY",
+      "address": "340 N OAK, STRATFORD, OK",
+      "website": "https://cwlibrary.okpls.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73018"
-      ]
-    },
-    {
-      "name": "CRESCENT COMMUNITY LIBRARY",
-      "system": "CRESCENT COMMUNITY LIBRARY",
-      "address": "403 EAST MONROE STREET, CRESCENT, OK",
-      "website": "https://librarytechnology.org/library/23074",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73028"
-      ]
-    },
-    {
-      "name": "EL RENO CARNEGIE LIBRARY",
-      "system": "EL RENO CARNEGIE LIBRARY",
-      "address": "215 E WADE, EL RENO, OK",
-      "website": "https://elrenolibrary.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73036"
-      ]
-    },
-    {
-      "name": "GEARY PUBLIC LIBRARY",
-      "system": "GEARY PUBLIC LIBRARY",
-      "address": "106 W MAIN ST, GEARY, OK",
-      "website": "https://librarytechnology.org/library/23086",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73040"
-      ]
-    },
-    {
-      "name": "GUTHRIE PUBLIC LIBRARY",
-      "system": "GUTHRIE PUBLIC LIBRARY",
-      "address": "201 N DIVISION, GUTHRIE, OK",
-      "website": "https://guthrie.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73044"
-      ]
-    },
-    {
-      "name": "HINTON - NORMAN SMITH MEMORIAL LIBRARY",
-      "system": "HINTON - NORMAN SMITH MEMORIAL LIBRARY",
-      "address": "406 N. BROADWAY ST., HINTON, OK",
-      "website": "https://oklahoma.educationbug.org/public-library/12917-hinton-norman-smith-memorial-library.html",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73047"
-      ]
-    },
-    {
-      "name": "LINDSAY COMMUNITY LIBRARY",
-      "system": "LINDSAY COMMUNITY LIBRARY",
-      "address": "112 W CHOCTAW, LINDSAY, OK",
-      "website": "https://www.cityoflindsay.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73052"
-      ]
-    },
-    {
-      "name": "MARLOW - GARLAND SMITH PUBLIC LIBRARY",
-      "system": "MARLOW - GARLAND SMITH PUBLIC LIBRARY",
-      "address": "702 W. MAIN, MARLOW, OK",
-      "website": "https://www.garlandsmithpubliclibrary.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73055"
-      ]
-    },
-    {
-      "name": "MAYSVILLE PUBLIC LIBRARY",
-      "system": "MAYSVILLE PUBLIC LIBRARY",
-      "address": "506 WILLIAMS, MAYSVILLE, OK",
-      "website": "https://maysvillelibrary.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73057"
-      ]
-    },
-    {
-      "name": "MT VIEW - ADDIE DAVIS MEMORIAL LIBRARY",
-      "system": "MT VIEW - ADDIE DAVIS MEMORIAL LIBRARY",
-      "address": "301 N. 4TH, MTN. VIEW, OK",
-      "website": "https://mountainviewok.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73062"
-      ]
-    },
-    {
-      "name": "MUSTANG PUBLIC LIBRARY",
-      "system": "MUSTANG PUBLIC LIBRARY",
-      "address": "1201 N. MUSTANG RD., MUSTANG, OK",
-      "website": "https://www.cityofmustang.org/o/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73064"
-      ]
-    },
-    {
-      "name": "PIONEER LIBRARY SYSTEM",
-      "system": "PIONEER LIBRARY SYSTEM",
-      "address": "300 NORMAN CENTER COURT, NORMAN, OK",
-      "website": "https://pioneerlibrarysystem.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73072"
-      ]
-    },
-    {
-      "name": "PAULS VALLEY-NORA SPARKS WARREN MEM LIBRARY",
-      "system": "PAULS VALLEY-NORA SPARKS WARREN MEM LIBRARY",
-      "address": "210 N WILLOW ST., PAULS VALLEY, OK",
-      "website": "https://paulsvalley.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73075"
-      ]
-    },
-    {
-      "name": "PERRY CARNEGIE LIBRARY",
-      "system": "PERRY CARNEGIE LIBRARY",
-      "address": "302 N 7TH ST, PERRY, OK",
-      "website": "https://perrypl.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73077"
-      ]
-    },
-    {
-      "name": "RUSH SPRINGS-GLOVER SPENCER MEMORIAL LIBRARY",
-      "system": "RUSH SPRINGS-GLOVER SPENCER MEMORIAL LIBRARY",
-      "address": "100 S 6TH ST, RUSH SPRINGS, OK",
-      "website": "http://www.glover.lib.ok.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73082"
-      ]
-    },
-    {
-      "name": "WYNNEWOOD PUBLIC LIBRARY",
-      "system": "WYNNEWOOD PUBLIC LIBRARY",
-      "address": "108 N. DEAN A MCGEE, WYNNEWOOD, OK",
-      "website": "https://wynnewood.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73098"
-      ]
-    },
-    {
-      "name": "YUKON - MABEL C. FRY PUBLIC LIBRARY",
-      "system": "YUKON - MABEL C. FRY PUBLIC LIBRARY",
-      "address": "1200 LAKESHORE DRIVE, YUKON, OK",
-      "website": "https://www.mabelcfrypubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73099"
+        "73074",
+        "73433",
+        "73434",
+        "73444",
+        "74872"
       ]
     },
     {
@@ -217,7 +43,475 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "26710",
+        "26717",
+        "26719",
+        "26743",
+        "26750",
+        "26753",
+        "26767",
         "73078"
+      ]
+    },
+    {
+      "name": "HENNESSEY PUBLIC LIBRARY",
+      "system": "HENNESSEY PUBLIC LIBRARY",
+      "address": "525 S. MAIN, HENNESSEY, OK",
+      "website": "https://hennesseypl.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73016",
+        "73734",
+        "73742",
+        "73756",
+        "73762",
+        "73764"
+      ]
+    },
+    {
+      "name": "KINGFISHER MEMORIAL LIBRARY",
+      "system": "KINGFISHER MEMORIAL LIBRARY",
+      "address": "505 WEST WILL ROGERS DR., KINGFISHER, OK",
+      "website": "https://www.kingfisherlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73016",
+        "73734",
+        "73750",
+        "73756",
+        "73762",
+        "73764"
+      ]
+    },
+    {
+      "name": "OKEENE PUBLIC LIBRARY",
+      "system": "OKEENE PUBLIC LIBRARY",
+      "address": "215 N MAIN, OKEENE, OK",
+      "website": "https://okeene.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73043",
+        "73646",
+        "73724",
+        "73744",
+        "73755",
+        "73763",
+        "737HH"
+      ]
+    },
+    {
+      "name": "WATONGA PUBLIC LIBRARY",
+      "system": "WATONGA PUBLIC LIBRARY",
+      "address": "301 N PROUTY, WATONGA, OK",
+      "website": "https://www.watongapl.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73043",
+        "73646",
+        "73724",
+        "73744",
+        "73755",
+        "73772",
+        "737HH"
+      ]
+    },
+    {
+      "name": "WESTERN PLAINS LIBRARY SYSTEM",
+      "system": "WESTERN PLAINS LIBRARY SYSTEM",
+      "address": "501 S. 28TH STREET, CLINTON, OK",
+      "website": "https://wplibs.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73096",
+        "73601",
+        "73620",
+        "73625",
+        "73639",
+        "73669"
+      ]
+    },
+    {
+      "name": "HOBART PUBLIC LIBRARY",
+      "system": "HOBART PUBLIC LIBRARY",
+      "address": "200 S MAIN, HOBART, OK",
+      "website": "https://www.hobartlibrary.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73041",
+        "730XX",
+        "73559",
+        "73564",
+        "73566",
+        "73651",
+        "73655"
+      ]
+    },
+    {
+      "name": "METROPOLITAN LIBRARY SYSTEM",
+      "system": "METROPOLITAN LIBRARY SYSTEM",
+      "address": "300 PARK AVENUE, OKLAHOMA CITY, OK",
+      "website": "https://www.metrolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73003",
+        "73007",
+        "73008",
+        "73013",
+        "73020",
+        "73034",
+        "73045",
+        "73049",
+        "73054",
+        "73066",
+        "73084",
+        "73097",
+        "73102",
+        "73103",
+        "73104",
+        "73105",
+        "73106",
+        "73107",
+        "73108",
+        "73109",
+        "73110",
+        "73111",
+        "73112",
+        "73114",
+        "73115",
+        "73116",
+        "73117",
+        "73118",
+        "73119",
+        "73120",
+        "73121",
+        "73122",
+        "73127",
+        "73128",
+        "73129",
+        "73130",
+        "73131",
+        "73132",
+        "73134",
+        "73135",
+        "73139",
+        "73141",
+        "73142",
+        "73145",
+        "73149",
+        "73150",
+        "73151",
+        "73159",
+        "73162",
+        "73169",
+        "73179"
+      ]
+    },
+    {
+      "name": "ANADARKO COMMUNITY LIBRARY",
+      "system": "ANADARKO COMMUNITY LIBRARY",
+      "address": "215 W BROADWAY, ANADARKO, OK",
+      "website": "https://anadarkopl.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73005",
+        "73009",
+        "73015",
+        "73017",
+        "73029",
+        "73033",
+        "73038",
+        "73042",
+        "73053",
+        "730HH"
+      ]
+    },
+    {
+      "name": "CHICKASHA PUBLIC LIBRARY",
+      "system": "CHICKASHA PUBLIC LIBRARY",
+      "address": "527 IOWA AVENUE, CHICKASHA, OK",
+      "website": "https://chickashapl.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73002",
+        "73004",
+        "73011",
+        "73018",
+        "73059",
+        "73067",
+        "73079",
+        "73092"
+      ]
+    },
+    {
+      "name": "CRESCENT COMMUNITY LIBRARY",
+      "system": "CRESCENT COMMUNITY LIBRARY",
+      "address": "403 EAST MONROE STREET, CRESCENT, OK",
+      "website": "https://librarytechnology.org/library/23074",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73027",
+        "73028",
+        "73050",
+        "73056",
+        "73058",
+        "73063",
+        "73073"
+      ]
+    },
+    {
+      "name": "EL RENO CARNEGIE LIBRARY",
+      "system": "EL RENO CARNEGIE LIBRARY",
+      "address": "215 E WADE, EL RENO, OK",
+      "website": "https://elrenolibrary.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73014",
+        "73022",
+        "73036",
+        "73090"
+      ]
+    },
+    {
+      "name": "GEARY PUBLIC LIBRARY",
+      "system": "GEARY PUBLIC LIBRARY",
+      "address": "106 W MAIN ST, GEARY, OK",
+      "website": "https://librarytechnology.org/library/23086",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73040",
+        "73043",
+        "73646",
+        "73724",
+        "73744",
+        "73755",
+        "737HH"
+      ]
+    },
+    {
+      "name": "GUTHRIE PUBLIC LIBRARY",
+      "system": "GUTHRIE PUBLIC LIBRARY",
+      "address": "201 N DIVISION, GUTHRIE, OK",
+      "website": "https://guthrie.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73027",
+        "73044",
+        "73050",
+        "73056",
+        "73058",
+        "73063",
+        "73073"
+      ]
+    },
+    {
+      "name": "HINTON - NORMAN SMITH MEMORIAL LIBRARY",
+      "system": "HINTON - NORMAN SMITH MEMORIAL LIBRARY",
+      "address": "406 N. BROADWAY ST., HINTON, OK",
+      "website": "https://oklahoma.educationbug.org/public-library/12917-hinton-norman-smith-memorial-library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73009",
+        "73015",
+        "73017",
+        "73029",
+        "73033",
+        "73038",
+        "73042",
+        "73047",
+        "73053",
+        "730HH"
+      ]
+    },
+    {
+      "name": "LINDSAY COMMUNITY LIBRARY",
+      "system": "LINDSAY COMMUNITY LIBRARY",
+      "address": "112 W CHOCTAW, LINDSAY, OK",
+      "website": "https://www.cityoflindsay.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73052",
+        "73074",
+        "73433",
+        "73434",
+        "73444"
+      ]
+    },
+    {
+      "name": "MARLOW - GARLAND SMITH PUBLIC LIBRARY",
+      "system": "MARLOW - GARLAND SMITH PUBLIC LIBRARY",
+      "address": "702 W. MAIN, MARLOW, OK",
+      "website": "https://www.garlandsmithpubliclibrary.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73055",
+        "73425",
+        "73442",
+        "73491",
+        "73529",
+        "73533",
+        "73548"
+      ]
+    },
+    {
+      "name": "MAYSVILLE PUBLIC LIBRARY",
+      "system": "MAYSVILLE PUBLIC LIBRARY",
+      "address": "506 WILLIAMS, MAYSVILLE, OK",
+      "website": "https://maysvillelibrary.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73057",
+        "73074",
+        "73433",
+        "73434",
+        "73444"
+      ]
+    },
+    {
+      "name": "MT VIEW - ADDIE DAVIS MEMORIAL LIBRARY",
+      "system": "MT VIEW - ADDIE DAVIS MEMORIAL LIBRARY",
+      "address": "301 N. 4TH, MTN. VIEW, OK",
+      "website": "https://mountainviewok.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73041",
+        "73062",
+        "730XX",
+        "73559",
+        "73564",
+        "73566",
+        "73655"
+      ]
+    },
+    {
+      "name": "MUSTANG PUBLIC LIBRARY",
+      "system": "MUSTANG PUBLIC LIBRARY",
+      "address": "1201 N. MUSTANG RD., MUSTANG, OK",
+      "website": "https://www.cityofmustang.org/o/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73014",
+        "73022",
+        "73064",
+        "73090"
+      ]
+    },
+    {
+      "name": "PIONEER LIBRARY SYSTEM",
+      "system": "PIONEER LIBRARY SYSTEM",
+      "address": "300 NORMAN CENTER COURT, NORMAN, OK",
+      "website": "https://pioneerlibrarysystem.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73026",
+        "73051",
+        "73068",
+        "73069",
+        "73071",
+        "73072",
+        "73160",
+        "73165",
+        "73170",
+        "73173",
+        "731HH",
+        "74857"
+      ]
+    },
+    {
+      "name": "PAULS VALLEY-NORA SPARKS WARREN MEM LIBRARY",
+      "system": "PAULS VALLEY-NORA SPARKS WARREN MEM LIBRARY",
+      "address": "210 N WILLOW ST., PAULS VALLEY, OK",
+      "website": "https://paulsvalley.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73074",
+        "73075",
+        "73433",
+        "73434",
+        "73444"
+      ]
+    },
+    {
+      "name": "PERRY CARNEGIE LIBRARY",
+      "system": "PERRY CARNEGIE LIBRARY",
+      "address": "302 N 7TH ST, PERRY, OK",
+      "website": "https://perrypl.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73061",
+        "73077",
+        "73757",
+        "74630",
+        "74644",
+        "74651"
+      ]
+    },
+    {
+      "name": "RUSH SPRINGS-GLOVER SPENCER MEMORIAL LIBRARY",
+      "system": "RUSH SPRINGS-GLOVER SPENCER MEMORIAL LIBRARY",
+      "address": "100 S 6TH ST, RUSH SPRINGS, OK",
+      "website": "http://www.glover.lib.ok.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73002",
+        "73004",
+        "73011",
+        "73059",
+        "73067",
+        "73079",
+        "73082",
+        "73092"
+      ]
+    },
+    {
+      "name": "WYNNEWOOD PUBLIC LIBRARY",
+      "system": "WYNNEWOOD PUBLIC LIBRARY",
+      "address": "108 N. DEAN A MCGEE, WYNNEWOOD, OK",
+      "website": "https://wynnewood.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73074",
+        "73098",
+        "73433",
+        "73434",
+        "73444"
+      ]
+    },
+    {
+      "name": "YUKON - MABEL C. FRY PUBLIC LIBRARY",
+      "system": "YUKON - MABEL C. FRY PUBLIC LIBRARY",
+      "address": "1200 LAKESHORE DRIVE, YUKON, OK",
+      "website": "https://www.mabelcfrypubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73014",
+        "73022",
+        "73090",
+        "73099"
       ]
     },
     {
@@ -228,7 +522,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73048"
+        "73009",
+        "73015",
+        "73017",
+        "73029",
+        "73033",
+        "73038",
+        "73042",
+        "73048",
+        "73053",
+        "730HH"
       ]
     },
     {
@@ -239,7 +542,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73006"
+        "73006",
+        "73009",
+        "73015",
+        "73017",
+        "73029",
+        "73033",
+        "73038",
+        "73042",
+        "73053",
+        "730HH"
       ]
     },
     {
@@ -250,7 +562,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73089"
+        "73002",
+        "73004",
+        "73011",
+        "73059",
+        "73067",
+        "73079",
+        "73089",
+        "73092"
       ]
     }
   ]

@@ -1,14 +1,49 @@
 {
   "libraries": [
     {
+      "name": "NEW CARLISLE PUBLIC LIBRARY",
+      "system": "NEW CARLISLE PUBLIC LIBRARY",
+      "address": "111 E. LAKE AVE, NEW CARLISLE, OH",
+      "website": "https://www.newcarlislelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43010",
+        "45323",
+        "45341",
+        "45344",
+        "45349",
+        "45368",
+        "45369",
+        "45502",
+        "45503",
+        "45504",
+        "45505",
+        "45506",
+        "455HH"
+      ]
+    },
+    {
       "name": "CLARK COUNTY PUBLIC LIBRARY",
       "system": "CLARK COUNTY PUBLIC LIBRARY",
-      "address": "201 S. FOUNTAIN AVE., SPRINGFIELD, OH",
+      "address": "370 SOUTH BURNS AVENUE, WINCHESTER, KY",
       "website": "https://www.ccplohio.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45506"
+        "40391",
+        "43010",
+        "45323",
+        "45341",
+        "45349",
+        "45368",
+        "45369",
+        "45502",
+        "45503",
+        "45504",
+        "45505",
+        "45506",
+        "455HH"
       ]
     }
   ]

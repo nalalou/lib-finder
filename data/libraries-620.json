@@ -8,7 +8,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62010"
+        "62001",
+        "62010",
+        "62018",
+        "62021",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62281"
       ]
     },
     {
@@ -19,18 +31,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62014"
-      ]
-    },
-    {
-      "name": "CARROLLTON PUBLIC LIBRARY",
-      "system": "CARROLLTON PUBLIC LIBRARY",
-      "address": "509 SOUTH MAIN STREET, CARROLLTON, IL",
-      "website": "https://www.pickenslibrary.com/carrollton.html",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62016"
+        "62014",
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
       ]
     },
     {
@@ -41,7 +57,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62024"
+        "62001",
+        "62018",
+        "62021",
+        "62024",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62281"
       ]
     },
     {
@@ -52,7 +80,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62025"
+        "62001",
+        "62018",
+        "62021",
+        "62025",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62281"
       ]
     },
     {
@@ -63,7 +103,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62033"
+        "62023",
+        "62033",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
       ]
     },
     {
@@ -74,18 +129,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62040"
-      ]
-    },
-    {
-      "name": "GREENFIELD PUBLIC LIBRARY",
-      "system": "GREENFIELD PUBLIC LIBRARY",
-      "address": "515 CHESTNUT STREET, GREENFIELD, IL",
-      "website": "https://www.greenfieldpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62044"
+        "62001",
+        "62018",
+        "62021",
+        "62035",
+        "62040",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62281"
       ]
     },
     {
@@ -96,7 +152,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62048"
+        "62001",
+        "62018",
+        "62021",
+        "62035",
+        "62046",
+        "62048",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62281"
       ]
     },
     {
@@ -107,7 +175,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62002"
+        "62001",
+        "62002",
+        "62018",
+        "62021",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62281"
       ]
     },
     {
@@ -118,7 +198,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62049"
+        "62015",
+        "62017",
+        "62019",
+        "62032",
+        "62049",
+        "62051",
+        "62077",
+        "62089",
+        "62091",
+        "62538",
+        "62572"
       ]
     },
     {
@@ -129,6 +219,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "62022",
+        "62028",
+        "62030",
+        "62031",
+        "62037",
         "62052"
       ]
     },
@@ -140,29 +235,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62056"
-      ]
-    },
-    {
-      "name": "MADISON PUBLIC LIBRARY",
-      "system": "MADISON PUBLIC LIBRARY",
-      "address": "1700 FIFTH STREET, MADISON, IL",
-      "website": "http://www.madisonpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62060"
-      ]
-    },
-    {
-      "name": "MOUNT OLIVE PUBLIC LIBRARY",
-      "system": "MOUNT OLIVE PUBLIC LIBRARY",
-      "address": "100 NORTH PLUM STREET, MOUNT OLIVE, IL",
-      "website": "https://mopl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62069"
+        "62015",
+        "62017",
+        "62019",
+        "62032",
+        "62051",
+        "62056",
+        "62077",
+        "62089",
+        "62091",
+        "62538",
+        "62572"
       ]
     },
     {
@@ -173,7 +256,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62075"
+        "62015",
+        "62017",
+        "62019",
+        "62032",
+        "62051",
+        "62075",
+        "62077",
+        "62089",
+        "62091",
+        "62538",
+        "62572"
       ]
     },
     {
@@ -184,6 +277,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "62016",
+        "62027",
+        "62044",
+        "62050",
+        "62054",
+        "62078",
+        "62081",
         "62082"
       ]
     },
@@ -195,7 +295,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62084"
+        "62001",
+        "62018",
+        "62021",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62084",
+        "62087",
+        "62281"
       ]
     },
     {
@@ -206,18 +318,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62013"
-      ]
-    },
-    {
-      "name": "STAUNTON PUBLIC LIBRARY",
-      "system": "STAUNTON PUBLIC LIBRARY",
-      "address": "306 WEST MAIN STREET, STAUNTON, IL",
-      "website": "https://www.cityofstauntonil.com/our-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62088"
+        "62006",
+        "62013",
+        "62036",
+        "62045",
+        "62047",
+        "62053",
+        "62065",
+        "62070",
+        "620HH"
       ]
     },
     {
@@ -228,7 +337,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62090"
+        "62001",
+        "62018",
+        "62021",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62090",
+        "62281"
       ]
     },
     {
@@ -239,6 +360,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "62016",
+        "62027",
+        "62044",
+        "62050",
+        "62054",
+        "62078",
+        "62081",
         "62092"
       ]
     },
@@ -250,7 +378,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62094"
+        "62015",
+        "62017",
+        "62019",
+        "62032",
+        "62051",
+        "62077",
+        "62089",
+        "62091",
+        "62094",
+        "62538",
+        "62572"
       ]
     },
     {
@@ -261,7 +399,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62095"
+        "62001",
+        "62018",
+        "62021",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62095",
+        "62281"
       ]
     },
     {
@@ -272,7 +422,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62097"
+        "62001",
+        "62018",
+        "62021",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62097",
+        "62281"
       ]
     },
     {
@@ -283,7 +445,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62012"
+        "62012",
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
       ]
     },
     {
@@ -294,7 +471,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62080"
+        "62011",
+        "62080",
+        "62418",
+        "62838",
+        "62857",
+        "62880",
+        "62885",
+        "628HH"
       ]
     },
     {
@@ -305,7 +489,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62034"
+        "62001",
+        "62018",
+        "62021",
+        "62034",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62281"
       ]
     },
     {
@@ -316,7 +512,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62062"
+        "62001",
+        "62018",
+        "62021",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62062",
+        "62067",
+        "62074",
+        "62087",
+        "62281"
       ]
     },
     {
@@ -327,7 +535,618 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62009"
+        "62009",
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "CARLINVILLE PUBLIC LIBRARY",
+      "system": "CARLINVILLE PUBLIC LIBRARY",
+      "address": "510 NORTH BROAD STREET, CARLINVILLE, IL",
+      "website": "https://www.carlinvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62626",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "GIRARD TOWNSHIP LIBRARY",
+      "system": "GIRARD TOWNSHIP LIBRARY",
+      "address": "201 WEST MADISON STREET, GIRARD, IL",
+      "website": "https://www.girardtownshiplibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62640",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "GRAND PRAIRIE OF THE WEST PUBLIC LIBRARY DISTRICT",
+      "system": "GRAND PRAIRIE OF THE WEST PUBLIC LIBRARY DISTRICT",
+      "address": "142 WEST JACKSON STREET, VIRDEN, IL",
+      "website": "https://virden.municipalimpact.com/library-grand-prairie-of-the-west",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686",
+        "62690"
+      ]
+    },
+    {
+      "name": "ASSUMPTION PUBLIC LIBRARY DISTRICT",
+      "system": "ASSUMPTION PUBLIC LIBRARY DISTRICT",
+      "address": "205 NORTH OAK STREET, ASSUMPTION, IL",
+      "website": "https://cityofassumption.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62083",
+        "62510",
+        "62517",
+        "62531",
+        "62540",
+        "62547",
+        "62555",
+        "62556",
+        "62570"
+      ]
+    },
+    {
+      "name": "KITCHELL MEMORIAL LIBRARY",
+      "system": "KITCHELL MEMORIAL LIBRARY",
+      "address": "300 SE 5TH STREET, MORRISONVILLE, IL",
+      "website": "https://www.morrisonvillekml.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62083",
+        "62517",
+        "62531",
+        "62540",
+        "62546",
+        "62547",
+        "62555",
+        "62556",
+        "62570"
+      ]
+    },
+    {
+      "name": "CARNEGIE-SCHUYLER LIBRARY",
+      "system": "CARNEGIE-SCHUYLER LIBRARY",
+      "address": "303 EAST SECOND STREET, PANA, IL",
+      "website": "https://panalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62083",
+        "62517",
+        "62531",
+        "62540",
+        "62547",
+        "62555",
+        "62556",
+        "62557",
+        "62570"
+      ]
+    },
+    {
+      "name": "STONINGTON TOWNSHIP PUBLIC LIBRARY",
+      "system": "STONINGTON TOWNSHIP PUBLIC LIBRARY",
+      "address": "500 EAST NORTH STREET, STONINGTON, IL",
+      "website": "https://librarylearning.org/stonington-township-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62083",
+        "62517",
+        "62531",
+        "62540",
+        "62547",
+        "62555",
+        "62556",
+        "62567",
+        "62570"
+      ]
+    },
+    {
+      "name": "TAYLORVILLE PUBLIC LIBRARY",
+      "system": "TAYLORVILLE PUBLIC LIBRARY",
+      "address": "121 WEST VINE STREET, TAYLORVILLE, IL",
+      "website": "https://www.taylorvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62083",
+        "62517",
+        "62531",
+        "62540",
+        "62547",
+        "62555",
+        "62556",
+        "62568",
+        "62570"
+      ]
+    },
+    {
+      "name": "FARMERSVILLE-WAGGONER PUBLIC LIBRARY DISTRICT",
+      "system": "FARMERSVILLE-WAGGONER PUBLIC LIBRARY DISTRICT",
+      "address": "210 SOUTH CLEVELAND STREET, FARMERSVILLE, IL",
+      "website": "https://librarylearning.org/farmersville-waggoner-public-library-district",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62015",
+        "62017",
+        "62019",
+        "62032",
+        "62051",
+        "62077",
+        "62089",
+        "62091",
+        "62533",
+        "62538",
+        "62572"
+      ]
+    },
+    {
+      "name": "DOYLE PUBLIC LIBRARY DISTRICT",
+      "system": "DOYLE PUBLIC LIBRARY DISTRICT",
+      "address": "109 SOUTH O`BANNON STREET, RAYMOND, IL",
+      "website": "https://www.doylepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62015",
+        "62017",
+        "62019",
+        "62032",
+        "62051",
+        "62077",
+        "62089",
+        "62091",
+        "62538",
+        "62560",
+        "62572"
+      ]
+    },
+    {
+      "name": "SAINT ELMO PUBLIC LIBRARY DISTRICT",
+      "system": "SAINT ELMO PUBLIC LIBRARY DISTRICT",
+      "address": "311 WEST CUMBERLAND ROAD, SAINT ELMO, IL",
+      "website": "https://stelmo.lib.il.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62011",
+        "62418",
+        "62458",
+        "62838",
+        "62857",
+        "62880",
+        "62885",
+        "628HH"
+      ]
+    },
+    {
+      "name": "EVANS PUBLIC LIBRARY DISTRICT",
+      "system": "EVANS PUBLIC LIBRARY DISTRICT",
+      "address": "215 SOUTH FIFTH STREET, VANDALIA, IL",
+      "website": "https://evanspubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62011",
+        "62418",
+        "62471",
+        "62838",
+        "62857",
+        "62880",
+        "62885",
+        "628HH"
+      ]
+    },
+    {
+      "name": "CAHOKIA PUBLIC LIBRARY DISTRICT",
+      "system": "CAHOKIA PUBLIC LIBRARY DISTRICT",
+      "address": "140 CAHOKIA PARK DRIVE, CAHOKIA HEIGHTS, IL",
+      "website": "https://www.cahokialibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62059",
+        "62201",
+        "62204",
+        "62205",
+        "62206",
+        "62207",
+        "62221",
+        "62223",
+        "62225",
+        "62226",
+        "62240",
+        "62255",
+        "62289"
+      ]
+    },
+    {
+      "name": "CASEYVILLE PUBLIC LIBRARY DISTRICT",
+      "system": "CASEYVILLE PUBLIC LIBRARY DISTRICT",
+      "address": "419 SOUTH SECOND STREET, CASEYVILLE, IL",
+      "website": "https://www.caseyvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62059",
+        "62201",
+        "62204",
+        "62205",
+        "62207",
+        "62221",
+        "62223",
+        "62225",
+        "62226",
+        "62232",
+        "62240",
+        "62255",
+        "62289"
+      ]
+    },
+    {
+      "name": "MISSISSIPPI VALLEY LIBRARY DISTRICT",
+      "system": "MISSISSIPPI VALLEY LIBRARY DISTRICT",
+      "address": "408 WEST MAIN STREET, COLLINSVILLE, IL",
+      "website": "https://mvld.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62001",
+        "62018",
+        "62021",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62234",
+        "62281"
+      ]
+    },
+    {
+      "name": "DAUGHERTY PUBLIC LIBRARY DISTRICT",
+      "system": "DAUGHERTY PUBLIC LIBRARY DISTRICT",
+      "address": "220 SOUTH FIFTH STREET, DUPO, IL",
+      "website": "https://www.dupolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62059",
+        "62201",
+        "62204",
+        "62205",
+        "62207",
+        "62221",
+        "62223",
+        "62225",
+        "62226",
+        "62239",
+        "62240",
+        "62255",
+        "62289"
+      ]
+    },
+    {
+      "name": "EAST SAINT LOUIS PUBLIC LIBRARY",
+      "system": "EAST SAINT LOUIS PUBLIC LIBRARY",
+      "address": "5300 STATE STREET, EAST SAINT LOUIS, IL",
+      "website": "https://eslpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62059",
+        "62201",
+        "62203",
+        "62204",
+        "62205",
+        "62207",
+        "62221",
+        "62223",
+        "62225",
+        "62226",
+        "62240",
+        "62255",
+        "62289"
+      ]
+    },
+    {
+      "name": "FAIRVIEW HEIGHTS PUBLIC LIBRARY",
+      "system": "FAIRVIEW HEIGHTS PUBLIC LIBRARY",
+      "address": "10017 BUNKUM ROAD, FAIRVIEW HEIGHTS, IL",
+      "website": "https://fairviewheightslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62059",
+        "62201",
+        "62204",
+        "62205",
+        "62207",
+        "62208",
+        "62221",
+        "62223",
+        "62225",
+        "62226",
+        "62240",
+        "62255",
+        "62289"
+      ]
+    },
+    {
+      "name": "LOUIS LATZER MEMORIAL PUBLIC LIBRARY",
+      "system": "LOUIS LATZER MEMORIAL PUBLIC LIBRARY",
+      "address": "1001 NINTH STREET, HIGHLAND, IL",
+      "website": "https://highlandillibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62001",
+        "62018",
+        "62021",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62249",
+        "62281"
+      ]
+    },
+    {
+      "name": "MARISSA AREA PUBLIC LIBRARY DISTRICT",
+      "system": "MARISSA AREA PUBLIC LIBRARY DISTRICT",
+      "address": "212 NORTH MAIN STREET, MARISSA, IL",
+      "website": "https://www.marissalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62059",
+        "62201",
+        "62204",
+        "62205",
+        "62207",
+        "62221",
+        "62223",
+        "62225",
+        "62226",
+        "62240",
+        "62255",
+        "62257",
+        "62289"
+      ]
+    },
+    {
+      "name": "MASCOUTAH PUBLIC LIBRARY",
+      "system": "MASCOUTAH PUBLIC LIBRARY",
+      "address": "3 WEST CHURCH STREET, MASCOUTAH, IL",
+      "website": "https://www.mascoutahlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62059",
+        "62201",
+        "62204",
+        "62205",
+        "62207",
+        "62221",
+        "62223",
+        "62225",
+        "62226",
+        "62240",
+        "62255",
+        "62258",
+        "62289"
+      ]
+    },
+    {
+      "name": "MILLSTADT LIBRARY DISTRICT",
+      "system": "MILLSTADT LIBRARY DISTRICT",
+      "address": "115 WEST LAUREL STREET, MILLSTADT, IL",
+      "website": "https://www.millstadt-library.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62059",
+        "62201",
+        "62204",
+        "62205",
+        "62207",
+        "62221",
+        "62223",
+        "62225",
+        "62226",
+        "62240",
+        "62255",
+        "62260",
+        "62289"
+      ]
+    },
+    {
+      "name": "NEW ATHENS DISTRICT LIBRARY",
+      "system": "NEW ATHENS DISTRICT LIBRARY",
+      "address": "201 NORTH VAN BUREN STREET, NEW ATHENS, IL",
+      "website": "https://newathenslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62059",
+        "62201",
+        "62204",
+        "62205",
+        "62207",
+        "62221",
+        "62223",
+        "62225",
+        "62226",
+        "62240",
+        "62255",
+        "62264",
+        "62289"
+      ]
+    },
+    {
+      "name": "O'FALLON PUBLIC LIBRARY",
+      "system": "O'FALLON PUBLIC LIBRARY",
+      "address": "120 CIVIC PLAZA, O'FALLON, IL",
+      "website": "https://public-libraries.com/illinois/ofallon/ofallon-public-library-illinois-ofallon/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62059",
+        "62201",
+        "62204",
+        "62205",
+        "62207",
+        "62221",
+        "62223",
+        "62225",
+        "62226",
+        "62240",
+        "62255",
+        "62269",
+        "62289"
+      ]
+    },
+    {
+      "name": "TRI-TOWNSHIP PUBLIC LIBRARY DISTRICT",
+      "system": "TRI-TOWNSHIP PUBLIC LIBRARY DISTRICT",
+      "address": "209 SOUTH MAIN STREET, TROY, IL",
+      "website": "https://troylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62001",
+        "62018",
+        "62021",
+        "62035",
+        "62046",
+        "62058",
+        "62060",
+        "62061",
+        "62067",
+        "62074",
+        "62087",
+        "62281",
+        "62294"
+      ]
+    },
+    {
+      "name": "SMITHTON PUBLIC LIBRARY DISTRICT",
+      "system": "SMITHTON PUBLIC LIBRARY DISTRICT",
+      "address": "109 SOUTH MAIN STREET, SMITHTON, IL",
+      "website": "https://www.smithtonpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62059",
+        "62201",
+        "62204",
+        "62205",
+        "62207",
+        "62221",
+        "62223",
+        "62225",
+        "62226",
+        "62240",
+        "62255",
+        "62285",
+        "62289"
+      ]
+    },
+    {
+      "name": "FREEBURG AREA LIBRARY DISTRICT",
+      "system": "FREEBURG AREA LIBRARY DISTRICT",
+      "address": "407 SOUTH BELLEVILLE STREET, FREEBURG, IL",
+      "website": "https://www.freeburglibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62059",
+        "62201",
+        "62204",
+        "62205",
+        "62207",
+        "62221",
+        "62223",
+        "62225",
+        "62226",
+        "62240",
+        "62243",
+        "62255",
+        "62289"
       ]
     }
   ]

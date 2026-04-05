@@ -1,14 +1,20 @@
 {
   "libraries": [
     {
-      "name": "MOUNTAIN VIEW PUBLIC LIBRARY",
-      "system": "MOUNTAIN VIEW PUBLIC LIBRARY",
-      "address": "125 S OAK ST, MOUNTAIN VIEW, MO",
-      "website": "https://mtnviewlibmo.com/",
+      "name": "DALLAS COUNTY LIBRARY",
+      "system": "DALLAS COUNTY LIBRARY",
+      "address": "219 WEST MAIN STREET, BUFFALO, MO",
+      "website": "http://www.dallascountylibrary.missouri.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65548"
+        "65590",
+        "65622",
+        "65644",
+        "65685",
+        "65764",
+        "65767",
+        "65783"
       ]
     },
     {
@@ -23,6 +29,84 @@
       ]
     },
     {
+      "name": "OZARK REGIONAL LIBRARY",
+      "system": "OZARK REGIONAL LIBRARY",
+      "address": "402 N MAIN ST, IRONTON, MO",
+      "website": "https://ozarkregional.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63620",
+        "63621",
+        "63623",
+        "63636",
+        "63650",
+        "63656",
+        "63663",
+        "63675",
+        "65439",
+        "65566"
+      ]
+    },
+    {
+      "name": "MOUNTAIN VIEW PUBLIC LIBRARY",
+      "system": "MOUNTAIN VIEW PUBLIC LIBRARY",
+      "address": "125 S OAK ST, MOUNTAIN VIEW, MO",
+      "website": "https://mtnviewlibmo.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65548",
+        "65626",
+        "65777",
+        "65788",
+        "65789",
+        "65790"
+      ]
+    },
+    {
+      "name": "TEXAS COUNTY LIBRARY",
+      "system": "TEXAS COUNTY LIBRARY",
+      "address": "117 W WALNUT ST, HOUSTON, MO",
+      "website": "http://texascountylibrary.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65444",
+        "65464",
+        "65468",
+        "65479",
+        "65483",
+        "65484",
+        "65542",
+        "65552",
+        "65555",
+        "65557",
+        "65564",
+        "65570",
+        "65571",
+        "65589",
+        "65689"
+      ]
+    },
+    {
+      "name": "CRAWFORD COUNTY LIBRARY",
+      "system": "CRAWFORD COUNTY LIBRARY",
+      "address": "510 WEST MAIN STREET, STEELVILLE, MO",
+      "website": "https://crawfordcountylibrarydistrict.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65441",
+        "65446",
+        "65449",
+        "65453",
+        "65456",
+        "65535",
+        "65565"
+      ]
+    },
+    {
       "name": "JAMES MEMORIAL LIBRARY",
       "system": "JAMES MEMORIAL LIBRARY",
       "address": "300 W SCIOTO ST, ST. JAMES, MO",
@@ -30,6 +114,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "65436",
+        "65462",
+        "65529",
+        "65550",
         "65559"
       ]
     },
@@ -41,7 +129,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65582"
+        "65013",
+        "65058",
+        "65443",
+        "654HH",
+        "65580",
+        "65582",
+        "655HH"
       ]
     },
     {
@@ -52,7 +146,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65536"
+        "65463",
+        "65470",
+        "65536",
+        "65543",
+        "65632",
+        "65722"
       ]
     },
     {
@@ -63,18 +162,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "65452",
+        "65457",
+        "65459",
+        "65461",
+        "65473",
+        "65534",
+        "65556",
         "65583"
-      ]
-    },
-    {
-      "name": "CRAWFORD COUNTY LIBRARY",
-      "system": "CRAWFORD COUNTY LIBRARY",
-      "address": "510 WEST MAIN STREET, STEELVILLE, MO",
-      "website": "https://crawfordcountylibrarydistrict.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "65565"
       ]
     }
   ]

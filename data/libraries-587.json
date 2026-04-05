@@ -8,7 +8,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58730"
+        "58730",
+        "58765",
+        "58833",
+        "58844",
+        "588XX"
       ]
     },
     {
@@ -19,7 +23,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58784"
+        "58769",
+        "58771",
+        "58776",
+        "58784",
+        "58794"
       ]
     },
     {
@@ -30,7 +38,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58759"
+        "58531",
+        "58559",
+        "58579",
+        "58716",
+        "58723",
+        "58759",
+        "58775",
+        "58778"
       ]
     },
     {
@@ -41,7 +56,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58701"
+        "58701",
+        "58703",
+        "58704",
+        "58718",
+        "58722",
+        "58725",
+        "58733",
+        "58734",
+        "58735",
+        "58746",
+        "58756",
+        "58779",
+        "58781",
+        "58785"
       ]
     },
     {
@@ -52,7 +80,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58761"
+        "58740",
+        "58761",
+        "58782",
+        "58787"
       ]
     },
     {
@@ -63,7 +94,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58763"
+        "58763",
+        "58769",
+        "58771",
+        "58776",
+        "58794"
       ]
     },
     {
@@ -74,7 +109,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58770"
+        "58769",
+        "58770",
+        "58771",
+        "58776",
+        "58794"
       ]
     },
     {
@@ -85,7 +124,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58790"
+        "58710",
+        "58712",
+        "58713",
+        "58731",
+        "58736",
+        "58741",
+        "58744",
+        "58768",
+        "58788",
+        "58789",
+        "58790",
+        "58792",
+        "587HH"
       ]
     },
     {
@@ -96,7 +147,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58701"
+        "58701",
+        "58703",
+        "58704",
+        "58718",
+        "58722",
+        "58725",
+        "58733",
+        "58734",
+        "58735",
+        "58746",
+        "58756",
+        "58779",
+        "58781",
+        "58785"
       ]
     },
     {
@@ -107,18 +171,143 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58721"
+        "58721",
+        "58727",
+        "58737",
+        "58752",
+        "58772",
+        "58773"
       ]
     },
     {
-      "name": "SHERWOOD PUBLIC LIBRARY",
-      "system": "SHERWOOD PUBLIC LIBRARY",
-      "address": "204 MAIN STREET, SHERWOOD, ND",
-      "website": "http://www.sherwoodoregon.gov/library",
+      "name": "GARRISON PUBLIC LIBRARY",
+      "system": "GARRISON PUBLIC LIBRARY",
+      "address": "32 SOUTH MAIN STREET, GARRISON, ND",
+      "website": "https://garrisonndlibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58782"
+        "58531",
+        "58540",
+        "58559",
+        "58579",
+        "58716",
+        "58723",
+        "58775",
+        "58778"
+      ]
+    },
+    {
+      "name": "BOTTINEAU COUNTY PUBLIC LIBRARY",
+      "system": "BOTTINEAU COUNTY PUBLIC LIBRARY",
+      "address": "314 WEST 5TH STREET, BOTTINEAU, ND",
+      "website": "https://bottineaucountyndlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58318",
+        "58384",
+        "58711",
+        "58748",
+        "58750",
+        "58760",
+        "58762",
+        "58783",
+        "58793"
+      ]
+    },
+    {
+      "name": "MCKENZIE COUNTY PUBLIC LIBRARY",
+      "system": "MCKENZIE COUNTY PUBLIC LIBRARY",
+      "address": "112 SECOND AVENUE NE, WATFORD CITY, ND",
+      "website": "https://mckenziecountynd.gov/locations/mckenzie-county-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58634",
+        "58757",
+        "58831",
+        "58835",
+        "58838",
+        "58847",
+        "58854",
+        "588HH",
+        "59221",
+        "592HH"
+      ]
+    },
+    {
+      "name": "WILLISTON COMMUNITY LIBRARY",
+      "system": "WILLISTON COMMUNITY LIBRARY",
+      "address": "1302 DAVIDSON DRIVE, WILLISTON, ND",
+      "website": "https://www.willistonndlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58755",
+        "58795",
+        "58801",
+        "58830",
+        "58843",
+        "58845",
+        "58849",
+        "58853",
+        "58856"
+      ]
+    },
+    {
+      "name": "TIOGA COMMUNITY LIBRARY",
+      "system": "TIOGA COMMUNITY LIBRARY",
+      "address": "510 NE 6TH ST, TIOGA, ND",
+      "website": "https://tiogandlibrary.org/welcome/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58755",
+        "58795",
+        "58830",
+        "58843",
+        "58845",
+        "58849",
+        "58852",
+        "58853",
+        "58856"
+      ]
+    },
+    {
+      "name": "MCLEAN-MERCER REGIONAL LIBRARY",
+      "system": "MCLEAN-MERCER REGIONAL LIBRARY",
+      "address": "216 SECOND ST., RIVERDALE, ND",
+      "website": "https://riverdalendlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58531",
+        "58559",
+        "58565",
+        "58579",
+        "58716",
+        "58723",
+        "58775",
+        "58778"
+      ]
+    },
+    {
+      "name": "UNDERWOOD PUBLIC LIBRARY",
+      "system": "UNDERWOOD PUBLIC LIBRARY",
+      "address": "88 LINCOLN AVE, UNDERWOOD, ND",
+      "website": "http://www.underwoodnd.org/city",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58531",
+        "58559",
+        "58576",
+        "58579",
+        "58716",
+        "58723",
+        "58775",
+        "58778"
       ]
     }
   ]

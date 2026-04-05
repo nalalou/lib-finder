@@ -1,6 +1,35 @@
 {
   "libraries": [
     {
+      "name": "CLARK COUNTY LIBRARY",
+      "system": "CLARK COUNTY LIBRARY",
+      "address": "609 CADDO STREET, ARKADELPHIA, AR",
+      "website": "https://thelibrarydistrict.org/locations/CC/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71743",
+        "71921",
+        "71923",
+        "71962",
+        "719HH"
+      ]
+    },
+    {
+      "name": "SOUTHWEST ARKANSAS REGIONAL LIBRARY",
+      "system": "SOUTHWEST ARKANSAS REGIONAL LIBRARY",
+      "address": "121 WEST MAIN, PRESCOTT, AR",
+      "website": "https://www.homefacts.com/libraries/Arkansas/Nevada-County/Prescott/Southwest-Arkansas-Regional-Library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71722",
+        "71835",
+        "71857",
+        "71858"
+      ]
+    },
+    {
       "name": "COLUMBIA COUNTY LIBRARY",
       "system": "COLUMBIA COUNTY LIBRARY",
       "address": "2057 NORTH JACKSON, MAGNOLIA, AR",
@@ -8,7 +37,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71753"
+        "71740",
+        "71752",
+        "71753",
+        "71770",
+        "71861"
       ]
     },
     {
@@ -19,7 +52,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71730"
+        "71724",
+        "71730",
+        "71747",
+        "71758",
+        "71759",
+        "71762",
+        "71765"
       ]
     },
     {
@@ -30,7 +69,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71701"
+        "71701",
+        "71720",
+        "71726",
+        "71751",
+        "71764"
       ]
     },
     {
@@ -41,7 +84,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71744"
+        "71744",
+        "71745",
+        "71766",
+        "717HH",
+        "717XX"
       ]
     }
   ]

@@ -1,14 +1,175 @@
 {
   "libraries": [
     {
-      "name": "PULASKI COUNTY PUBLIC LIBRARY",
-      "system": "PULASKI COUNTY PUBLIC LIBRARY",
-      "address": "121 SOUTH RIVERSIDE DRIVE, WINAMAC, IN",
-      "website": "https://www.pulaskicounty.lib.in.us/",
+      "name": "FULTON COUNTY PUBLIC LIBRARY",
+      "system": "FULTON COUNTY PUBLIC LIBRARY",
+      "address": "320 WEST 7TH STREET, ROCHESTER, IN",
+      "website": "https://www.fulco.lib.in.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46996"
+        "42041",
+        "42050",
+        "46975"
+      ]
+    },
+    {
+      "name": "STARKE COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "STARKE COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "152 WEST CULVER ROAD, KNOX, IN",
+      "website": "https://scpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46374",
+        "46531",
+        "46532",
+        "46534",
+        "46968"
+      ]
+    },
+    {
+      "name": "BELL MEMORIAL PUBLIC LIBRARY",
+      "system": "BELL MEMORIAL PUBLIC LIBRARY",
+      "address": "101 WEST MAIN STREET, MENTONE, IN",
+      "website": "https://www.bell.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46502",
+        "46508",
+        "46510",
+        "46524",
+        "46538",
+        "46539",
+        "46542",
+        "46566",
+        "46582",
+        "46590",
+        "46982"
+      ]
+    },
+    {
+      "name": "WARSAW COMMUNITY PUBLIC LIBRARY",
+      "system": "WARSAW COMMUNITY PUBLIC LIBRARY",
+      "address": "310 EAST MAIN STREET, WARSAW, IN",
+      "website": "https://www.warsawlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46502",
+        "46508",
+        "46510",
+        "46524",
+        "46538",
+        "46542",
+        "46566",
+        "46580",
+        "46582",
+        "46590",
+        "46982"
+      ]
+    },
+    {
+      "name": "SYRACUSE-TURKEY CREEK TOWNSHIP PUBLIC LIBRARY",
+      "system": "SYRACUSE-TURKEY CREEK TOWNSHIP PUBLIC LIBRARY",
+      "address": "115 EAST MAIN STREET, SYRACUSE, IN",
+      "website": "https://www.syracuse.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46502",
+        "46508",
+        "46510",
+        "46524",
+        "46538",
+        "46542",
+        "46566",
+        "46567",
+        "46582",
+        "46590",
+        "46982"
+      ]
+    },
+    {
+      "name": "PIERCETON & WASHINGTON TOWNSHIP PUBLIC LIBRARY",
+      "system": "PIERCETON & WASHINGTON TOWNSHIP PUBLIC LIBRARY",
+      "address": "101 CATHOLIC STREET, PIERCETON, IN",
+      "website": "https://www.in.gov/towns/pierceton/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46502",
+        "46508",
+        "46510",
+        "46524",
+        "46538",
+        "46542",
+        "46562",
+        "46566",
+        "46582",
+        "46590",
+        "46982"
+      ]
+    },
+    {
+      "name": "NORTH WEBSTER COMMUNITY PUBLIC LIBRARY",
+      "system": "NORTH WEBSTER COMMUNITY PUBLIC LIBRARY",
+      "address": "110 E NORTH STREET, NORTH WEBSTER, IN",
+      "website": "https://nwcpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46502",
+        "46508",
+        "46510",
+        "46524",
+        "46538",
+        "46542",
+        "46555",
+        "46566",
+        "46582",
+        "46590",
+        "46982"
+      ]
+    },
+    {
+      "name": "MATTHEWS PUBLIC LIBRARY",
+      "system": "MATTHEWS PUBLIC LIBRARY",
+      "address": "816 WEST EIGHTH STREET, MATTHEWS, IN",
+      "website": "https://townofmatthews.com/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17010",
+        "17016",
+        "17026",
+        "17038",
+        "17041",
+        "17042",
+        "17064",
+        "17073",
+        "17077",
+        "17078",
+        "17083",
+        "17087",
+        "17088",
+        "46957"
+      ]
+    },
+    {
+      "name": "JONESBORO PUBLIC LIBRARY",
+      "system": "JONESBORO PUBLIC LIBRARY",
+      "address": "124 EAST 4TH STREET, JONESBORO, IN",
+      "website": "https://librarylearning.org/jonesboro-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46930",
+        "46938",
+        "46952",
+        "46953",
+        "46987"
       ]
     },
     {
@@ -19,7 +180,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46960"
+        "46960",
+        "46985",
+        "46996",
+        "47957"
       ]
     },
     {
@@ -30,7 +194,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46923"
+        "46913",
+        "46920",
+        "46923",
+        "469HH",
+        "47997",
+        "479HH"
       ]
     },
     {
@@ -41,7 +210,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46917"
+        "46913",
+        "46917",
+        "46920",
+        "469HH",
+        "47997",
+        "479HH"
       ]
     },
     {
@@ -52,7 +226,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46929"
+        "46913",
+        "46920",
+        "46929",
+        "469HH",
+        "47997",
+        "479HH"
       ]
     },
     {
@@ -63,7 +242,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46978"
+        "46932",
+        "46950",
+        "46961",
+        "46978",
+        "46988",
+        "46998"
       ]
     },
     {
@@ -74,7 +258,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46947"
+        "46932",
+        "46947",
+        "46950",
+        "46961",
+        "46988",
+        "46998"
       ]
     },
     {
@@ -85,7 +274,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46994"
+        "46932",
+        "46950",
+        "46961",
+        "46988",
+        "46994",
+        "46998"
       ]
     },
     {
@@ -96,18 +290,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46931",
         "46939"
-      ]
-    },
-    {
-      "name": "FULTON COUNTY PUBLIC LIBRARY",
-      "system": "FULTON COUNTY PUBLIC LIBRARY",
-      "address": "320 WEST 7TH STREET, ROCHESTER, IN",
-      "website": "https://www.fulco.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46975"
       ]
     },
     {
@@ -118,7 +302,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46910"
+        "46910",
+        "46931"
       ]
     },
     {
@@ -129,7 +314,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46901"
+        "46901",
+        "46902",
+        "46979"
       ]
     },
     {
@@ -140,18 +327,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46936"
+        "46902",
+        "46936",
+        "46979"
       ]
     },
     {
       "name": "PERU PUBLIC LIBRARY",
       "system": "PERU PUBLIC LIBRARY",
-      "address": "102 EAST MAIN STREET, PERU, IN",
+      "address": "1409 11TH STREET, PERU, IL",
       "website": "https://perulibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46970"
+        "46911",
+        "46914",
+        "46921",
+        "46926",
+        "46951",
+        "46958",
+        "46959",
+        "46970",
+        "61354"
       ]
     },
     {
@@ -162,7 +359,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46919"
+        "46911",
+        "46914",
+        "46919",
+        "46921",
+        "46926",
+        "46951",
+        "46958",
+        "46959",
+        "46970"
       ]
     },
     {
@@ -173,7 +378,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46974"
+        "46940",
+        "46941",
+        "46943",
+        "46946",
+        "46974",
+        "46990"
       ]
     },
     {
@@ -184,7 +394,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46962"
+        "46940",
+        "46941",
+        "46943",
+        "46946",
+        "46962",
+        "46990"
       ]
     },
     {
@@ -195,6 +410,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46940",
+        "46941",
+        "46943",
+        "46946",
+        "46990",
         "46992"
       ]
     },
@@ -206,18 +426,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46986"
-      ]
-    },
-    {
-      "name": "MARION PUBLIC LIBRARY",
-      "system": "MARION PUBLIC LIBRARY",
-      "address": "600 SOUTH WASHINGTON STREET, MARION, IN",
-      "website": "https://marionpubliclibrary.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46953"
+        "46930",
+        "46952",
+        "46953",
+        "46986",
+        "46987"
       ]
     },
     {
@@ -228,18 +441,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46933"
-      ]
-    },
-    {
-      "name": "JONESBORO PUBLIC LIBRARY",
-      "system": "JONESBORO PUBLIC LIBRARY",
-      "address": "124 EAST 4TH STREET, JONESBORO, IN",
-      "website": "https://librarylearning.org/jonesboro-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46938"
+        "46930",
+        "46933",
+        "46952",
+        "46953",
+        "46987"
       ]
     },
     {
@@ -250,7 +456,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46928"
+        "46928",
+        "46930",
+        "46952",
+        "46953",
+        "46987"
       ]
     },
     {
@@ -261,6 +471,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46930",
+        "46952",
+        "46953",
+        "46987",
         "46991"
       ]
     },
@@ -272,18 +486,40 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46930",
+        "46952",
+        "46953",
+        "46987",
         "46989"
       ]
     },
     {
-      "name": "MATTHEWS PUBLIC LIBRARY",
-      "system": "MATTHEWS PUBLIC LIBRARY",
-      "address": "816 WEST EIGHTH STREET, MATTHEWS, IN",
-      "website": "https://townofmatthews.com/library/",
+      "name": "FRANCESVILLE-SALEM TOWNSHIP PUBLIC LIBRARY",
+      "system": "FRANCESVILLE-SALEM TOWNSHIP PUBLIC LIBRARY",
+      "address": "201 WEST MONTGOMERY STREET, FRANCESVILLE, IN",
+      "website": "https://fran-salem.lib.in.us/contact/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46957"
+        "46985",
+        "46996",
+        "47946",
+        "47957"
+      ]
+    },
+    {
+      "name": "NORTH JUDSON-WAYNE TOWNSHIP PUBLIC LIBRARY",
+      "system": "NORTH JUDSON-WAYNE TOWNSHIP PUBLIC LIBRARY",
+      "address": "208 KELLER AVENUE, NORTH JUDSON, IN",
+      "website": "https://www.njwtpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46366",
+        "46374",
+        "46531",
+        "46532",
+        "46968"
       ]
     }
   ]

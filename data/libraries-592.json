@@ -1,6 +1,22 @@
 {
   "libraries": [
     {
+      "name": "PHILLIPS COUNTY LIBRARY",
+      "system": "PHILLIPS COUNTY LIBRARY",
+      "address": "10 SOUTH 4TH ST EAST, MALTA, MT",
+      "website": "https://www.chamberofcommerce.com/business-directory/montana/malta/public-library/2029229089-phillips-county-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59261",
+        "59524",
+        "59537",
+        "59538",
+        "59544",
+        "59546"
+      ]
+    },
+    {
       "name": "GEORGE MCCONE MEMORIAL COUNTY LIBRARY",
       "system": "GEORGE MCCONE MEMORIAL COUNTY LIBRARY",
       "address": "1101 C AVENUE, CIRCLE, MT",
@@ -8,7 +24,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59215"
+        "59214",
+        "59215",
+        "59274"
       ]
     },
     {
@@ -19,7 +37,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59230"
+        "59223",
+        "59225",
+        "59230",
+        "59231",
+        "59241",
+        "59244",
+        "59248",
+        "59250",
+        "59260"
       ]
     },
     {
@@ -30,7 +56,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59254"
+        "59211",
+        "59219",
+        "59247",
+        "59252",
+        "59254",
+        "59257",
+        "59258",
+        "59275"
       ]
     },
     {
@@ -41,7 +74,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59263"
+        "59222",
+        "59253",
+        "59263",
+        "59276"
       ]
     },
     {
@@ -52,6 +88,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59217",
+        "59243",
+        "59262",
         "59270"
       ]
     },
@@ -63,7 +102,47 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59201"
+        "59201",
+        "59212",
+        "59213",
+        "59218",
+        "59226",
+        "59242",
+        "59255"
+      ]
+    },
+    {
+      "name": "MCKENZIE COUNTY PUBLIC LIBRARY",
+      "system": "MCKENZIE COUNTY PUBLIC LIBRARY",
+      "address": "112 SECOND AVENUE NE, WATFORD CITY, ND",
+      "website": "https://mckenziecountynd.gov/locations/mckenzie-county-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58634",
+        "58757",
+        "58831",
+        "58835",
+        "58838",
+        "58847",
+        "58854",
+        "588HH",
+        "59221",
+        "592HH"
+      ]
+    },
+    {
+      "name": "GLENDIVE PUBLIC LIBRARY",
+      "system": "GLENDIVE PUBLIC LIBRARY",
+      "address": "200 SOUTH KENDRICK, GLENDIVE, MT",
+      "website": "https://www.glendivelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59259",
+        "59315",
+        "59330",
+        "59339"
       ]
     }
   ]

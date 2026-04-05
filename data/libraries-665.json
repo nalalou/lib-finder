@@ -1,25 +1,37 @@
 {
   "libraries": [
     {
-      "name": "WATERVILLE PUBLIC LIBRARY",
-      "system": "WATERVILLE PUBLIC LIBRARY",
-      "address": "129 E COMMERCIAL, WATERVILLE, KS",
-      "website": "http://www.watervillelibrary.org",
+      "name": "BALDWIN CITY LIBRARY",
+      "system": "BALDWIN CITY LIBRARY",
+      "address": "800 7TH ST., BALDWIN CITY, KS",
+      "website": "https://baldwin.mykansaslibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66548"
+        "66006",
+        "66044",
+        "66046",
+        "66047",
+        "66049",
+        "66050",
+        "665HH"
       ]
     },
     {
-      "name": "WAMEGO PUBLIC LIBRARY",
-      "system": "WAMEGO PUBLIC LIBRARY",
-      "address": "431 LINCOLN AVENUE, WAMEGO, KS",
-      "website": "https://wamego.lib.nckls.org/",
+      "name": "EUDORA COMMUNITY LIBRARY",
+      "system": "EUDORA COMMUNITY LIBRARY",
+      "address": "14 E 9TH ST., EUDORA, KS",
+      "website": "https://www.eudoralibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66547"
+        "66025",
+        "66044",
+        "66046",
+        "66047",
+        "66049",
+        "66050",
+        "665HH"
       ]
     },
     {
@@ -30,7 +42,278 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "43036",
+        "43040",
+        "43045",
+        "43067",
+        "43077",
         "66508"
+      ]
+    },
+    {
+      "name": "TOPEKA AND SHAWNEE COUNTY PUBLIC LIBRARY",
+      "system": "TOPEKA AND SHAWNEE COUNTY PUBLIC LIBRARY",
+      "address": "1515 SW 10TH AVE, TOPEKA, KS",
+      "website": "http://tscpl.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66402",
+        "66409",
+        "66542",
+        "66546",
+        "66603",
+        "66604",
+        "66605",
+        "66606",
+        "66607",
+        "66608",
+        "66609",
+        "66610",
+        "66611",
+        "66612",
+        "66614",
+        "66615",
+        "66616",
+        "66617",
+        "66618",
+        "66619",
+        "666HH"
+      ]
+    },
+    {
+      "name": "LEONARDVILLE CITY LIBRARY",
+      "system": "LEONARDVILLE CITY LIBRARY",
+      "address": "117 N. ERPELDING RD, LEONARDVILLE, KS",
+      "website": "https://leonardville.municipalimpact.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66442",
+        "66449",
+        "664XX",
+        "66503",
+        "66506",
+        "66517",
+        "66554",
+        "665XX"
+      ]
+    },
+    {
+      "name": "FRANKFORT CITY LIBRARY",
+      "system": "FRANKFORT CITY LIBRARY",
+      "address": "104 E. SECOND ST, FRANKFORT, KS",
+      "website": "https://www.loc8nearme.com/kansas/frankfort/frankfort-city-library/8180192/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66406",
+        "66412",
+        "66427",
+        "66438",
+        "66518",
+        "66541",
+        "66548"
+      ]
+    },
+    {
+      "name": "BLUE RAPIDS PUBLIC LIBRARY",
+      "system": "BLUE RAPIDS PUBLIC LIBRARY",
+      "address": "14 PUBLIC SQUARE, BLUE RAPIDS, KS",
+      "website": "https://librarytechnology.org/library/18218",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66406",
+        "66411",
+        "66412",
+        "66438",
+        "66518",
+        "66541",
+        "66548"
+      ]
+    },
+    {
+      "name": "DOROTHY BRAMLAGE PUBLIC LIBRARY",
+      "system": "DOROTHY BRAMLAGE PUBLIC LIBRARY",
+      "address": "230 WEST SEVENTH STREET, JUNCTION CITY, KS",
+      "website": "https://jclib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66441",
+        "664HH",
+        "66514"
+      ]
+    },
+    {
+      "name": "CORNING CITY LIBRARY",
+      "system": "CORNING CITY LIBRARY",
+      "address": "6221 5TH ST., CORNING, KS",
+      "website": "https://corning.nextkansas.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66404",
+        "66417",
+        "66428",
+        "66522"
+      ]
+    },
+    {
+      "name": "CENTRALIA COMMUNITY LIBRARY",
+      "system": "CENTRALIA COMMUNITY LIBRARY",
+      "address": "520 4TH STREET, CENTRALIA, KS",
+      "website": "https://centralialibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66404",
+        "66415",
+        "66428",
+        "66522"
+      ]
+    },
+    {
+      "name": "BARNES READING ROOM",
+      "system": "BARNES READING ROOM",
+      "address": "640 MAIN STREET, EVEREST, KS",
+      "website": "https://everest.mykansaslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66424",
+        "66425",
+        "66515",
+        "66527",
+        "66532"
+      ]
+    },
+    {
+      "name": "BURLINGAME COMMUNITY LIBRARY",
+      "system": "BURLINGAME COMMUNITY LIBRARY",
+      "address": "122 W. SANTA FE AVE, BURLINGAME, KS",
+      "website": "https://burlingame.mykansaslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66413",
+        "66510",
+        "66528",
+        "66537",
+        "66543"
+      ]
+    },
+    {
+      "name": "CARBONDALE CITY LIBRARY",
+      "system": "CARBONDALE CITY LIBRARY",
+      "address": "302 MAIN STREET, CARBONDALE, KS",
+      "website": "https://carbondale.nextkansas.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66414",
+        "66510",
+        "66528",
+        "66537",
+        "66543"
+      ]
+    },
+    {
+      "name": "LYNDON CARNEGIE LIBRARY",
+      "system": "LYNDON CARNEGIE LIBRARY",
+      "address": "127 E 6TH ST, LYNDON, KS",
+      "website": "https://lyndonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66451",
+        "66510",
+        "66528",
+        "66537",
+        "66543"
+      ]
+    },
+    {
+      "name": "HORTON PUBLIC LIBRARY",
+      "system": "HORTON PUBLIC LIBRARY",
+      "address": "809 1ST AVE. EAST, HORTON, KS",
+      "website": "https://www.hortonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66425",
+        "66439",
+        "66515",
+        "66527",
+        "66532"
+      ]
+    },
+    {
+      "name": "HIAWATHA/MORRILL PUBLIC LIBRARY",
+      "system": "HIAWATHA/MORRILL PUBLIC LIBRARY",
+      "address": "431 OREGON, HIAWATHA, KS",
+      "website": "https://hiawathalibrary.nextkansas.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66425",
+        "66434",
+        "66515",
+        "66527",
+        "66532"
+      ]
+    },
+    {
+      "name": "BERN COMMUNITY LIBRARY",
+      "system": "BERN COMMUNITY LIBRARY",
+      "address": "405 MAIN ST, WASHINGTON TOWNSH, KS",
+      "website": "https://bern.mykansaslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66404",
+        "66408",
+        "66428",
+        "66522"
+      ]
+    },
+    {
+      "name": "BECK-BOOKMAN LIBRARY",
+      "system": "BECK-BOOKMAN LIBRARY",
+      "address": "420 WEST 4TH, HOLTON, KS",
+      "website": "https://holton.nextkansas.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66416",
+        "66418",
+        "66419",
+        "66436",
+        "66440",
+        "66509",
+        "66516",
+        "66540",
+        "66552"
+      ]
+    },
+    {
+      "name": "WAMEGO PUBLIC LIBRARY",
+      "system": "WAMEGO PUBLIC LIBRARY",
+      "address": "431 LINCOLN AVENUE, WAMEGO, KS",
+      "website": "https://wamego.lib.nckls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66407",
+        "66422",
+        "66432",
+        "66450",
+        "66520",
+        "66521",
+        "66535",
+        "66547",
+        "66549"
       ]
     },
     {
@@ -41,7 +324,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66536"
+        "66407",
+        "66422",
+        "66432",
+        "66450",
+        "66520",
+        "66521",
+        "66535",
+        "66536",
+        "66549"
       ]
     },
     {
@@ -52,7 +343,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66502"
+        "66442",
+        "664XX",
+        "66502",
+        "66503",
+        "66506",
+        "66517",
+        "66554",
+        "665XX"
       ]
     },
     {
@@ -63,6 +361,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66404",
+        "66428",
+        "66522",
         "66550"
       ]
     },
@@ -74,6 +375,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66066",
+        "66070",
+        "66073",
+        "66097",
+        "66429",
         "66512"
       ]
     },
@@ -85,7 +391,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66524"
+        "66510",
+        "66524",
+        "66528",
+        "66537",
+        "66543"
       ]
     },
     {
@@ -96,7 +406,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66533"
+        "66402",
+        "66409",
+        "66533",
+        "66542",
+        "66546",
+        "66603",
+        "66605",
+        "66606",
+        "66607",
+        "66608",
+        "66609",
+        "66610",
+        "66611",
+        "66612",
+        "66614",
+        "66615",
+        "66616",
+        "66617",
+        "66618",
+        "66619",
+        "666HH"
       ]
     },
     {
@@ -107,7 +437,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66539"
+        "66402",
+        "66409",
+        "66539",
+        "66542",
+        "66546",
+        "66603",
+        "66605",
+        "66606",
+        "66607",
+        "66608",
+        "66609",
+        "66610",
+        "66611",
+        "66612",
+        "66614",
+        "66615",
+        "66616",
+        "66617",
+        "66618",
+        "66619",
+        "666HH"
       ]
     },
     {
@@ -118,6 +468,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66404",
+        "66428",
+        "66522",
         "66534"
       ]
     },
@@ -129,6 +482,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66404",
+        "66428",
+        "66522",
         "66538"
       ]
     },
@@ -140,7 +496,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66523"
+        "66510",
+        "66523",
+        "66528",
+        "66537",
+        "66543"
       ]
     },
     {
@@ -151,7 +511,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66544"
+        "66406",
+        "66412",
+        "66438",
+        "66518",
+        "66541",
+        "66544",
+        "66548"
       ]
     },
     {
@@ -162,7 +528,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66531"
+        "66442",
+        "664XX",
+        "66503",
+        "66506",
+        "66517",
+        "66531",
+        "66554",
+        "665XX"
       ]
     }
   ]

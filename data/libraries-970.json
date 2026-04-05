@@ -1,6 +1,368 @@
 {
   "libraries": [
     {
+      "name": "MT. ANGEL PUBLIC LIBRARY",
+      "system": "MT. ANGEL PUBLIC LIBRARY",
+      "address": "290 E CHARLES ST, MOUNT ANGEL, OR",
+      "website": "https://mtangelpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97002",
+        "97020",
+        "97026",
+        "97032",
+        "97137",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306",
+        "97325",
+        "97342",
+        "97346",
+        "97352",
+        "97362",
+        "97375",
+        "97385",
+        "97392"
+      ]
+    },
+    {
+      "name": "SILVER FALLS LIBRARY DISTRICT",
+      "system": "SILVER FALLS LIBRARY DISTRICT",
+      "address": "410 S WATER ST, SILVERTON, OR",
+      "website": "https://www.silverfallslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97002",
+        "97020",
+        "97026",
+        "97032",
+        "97137",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306",
+        "97325",
+        "97342",
+        "97346",
+        "97352",
+        "97375",
+        "97381",
+        "97385",
+        "97392"
+      ]
+    },
+    {
+      "name": "STAYTON PUBLIC LIBRARY",
+      "system": "STAYTON PUBLIC LIBRARY",
+      "address": "515 N FIRST AVE, STAYTON, OR",
+      "website": "https://www.staytonoregon.gov/page/library_home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97002",
+        "97020",
+        "97026",
+        "97032",
+        "97137",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306",
+        "97325",
+        "97342",
+        "97346",
+        "97352",
+        "97375",
+        "97383",
+        "97385",
+        "97392"
+      ]
+    },
+    {
+      "name": "LEDDING LIBRARY",
+      "system": "LEDDING LIBRARY",
+      "address": "10660 SE 21ST AVE, MILWAUKIE, OR",
+      "website": "http://www.milwaukieoregon.gov/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97004",
+        "97009",
+        "97011",
+        "97017",
+        "97022",
+        "97028",
+        "97035",
+        "97042",
+        "97049",
+        "97067",
+        "970HH",
+        "970XX",
+        "97222",
+        "972HH"
+      ]
+    },
+    {
+      "name": "MULTNOMAH COUNTY LIBRARY",
+      "system": "MULTNOMAH COUNTY LIBRARY",
+      "address": "919 NE 19TH AVE, PORTLAND, OR",
+      "website": "http://www.multcolib.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97019",
+        "97024",
+        "97030",
+        "97060",
+        "97080",
+        "97201",
+        "97202",
+        "97203",
+        "97204",
+        "97205",
+        "97206",
+        "97209",
+        "97210",
+        "97211",
+        "97212",
+        "97213",
+        "97214",
+        "97215",
+        "97216",
+        "97217",
+        "97218",
+        "97219",
+        "97220",
+        "97221",
+        "97227",
+        "97230",
+        "97231",
+        "97232",
+        "97233",
+        "97236",
+        "97266"
+      ]
+    },
+    {
+      "name": "TIGARD PUBLIC LIBRARY",
+      "system": "TIGARD PUBLIC LIBRARY",
+      "address": "13500 SW HALL BLVD, TIGARD, OR",
+      "website": "https://www.tigard-or.gov/your-government/departments/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97223",
+        "97224"
+      ]
+    },
+    {
+      "name": "CEDAR MILL COMMUNITY LIBRARY",
+      "system": "CEDAR MILL COMMUNITY LIBRARY",
+      "address": "1080 NW SALTZMAN RD, PORTLAND, OR",
+      "website": "https://library.cedarmill.org/location/cedar-mill-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224",
+        "97229"
+      ]
+    },
+    {
+      "name": "CLACKAMAS COUNTY - OAK LODGE PUBLIC LIBRARY",
+      "system": "CLACKAMAS COUNTY - OAK LODGE PUBLIC LIBRARY",
+      "address": "16201 SE MCLOUGHLIN BLVD, OAK GROVE, OR",
+      "website": "https://www.clackamas.us/lib",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97004",
+        "97009",
+        "97011",
+        "97017",
+        "97022",
+        "97028",
+        "97035",
+        "97042",
+        "97049",
+        "97067",
+        "970HH",
+        "970XX",
+        "97267",
+        "972HH"
+      ]
+    },
+    {
+      "name": "GARDEN HOME COMMUNITY LIBRARY",
+      "system": "GARDEN HOME COMMUNITY LIBRARY",
+      "address": "7475 SW OLESON RD, PORTLAND, OR",
+      "website": "https://www.gardenhomelibrary.org/ghl",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97223",
+        "97224"
+      ]
+    },
+    {
+      "name": "WEST SLOPE COMMUNITY LIBRARY",
+      "system": "WEST SLOPE COMMUNITY LIBRARY",
+      "address": "3678 SW 78TH AVE, PORTLAND, OR",
+      "website": "https://westslopelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224",
+        "97225"
+      ]
+    },
+    {
+      "name": "SHERWOOD PUBLIC LIBRARY",
+      "system": "SHERWOOD PUBLIC LIBRARY",
+      "address": "22560 SW PINE ST, SHERWOOD, OR",
+      "website": "http://www.sherwoodoregon.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97140",
+        "97144",
+        "97224"
+      ]
+    },
+    {
+      "name": "FOREST GROVE CITY LIBRARY",
+      "system": "FOREST GROVE CITY LIBRARY",
+      "address": "2114 PACIFIC AVE, FOREST GROVE, OR",
+      "website": "https://www.wccls.org/using-library/member-libraries/forest-grove-city-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97008",
+        "97109",
+        "97116",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224"
+      ]
+    },
+    {
+      "name": "CORNELIUS PUBLIC LIBRARY",
+      "system": "CORNELIUS PUBLIC LIBRARY",
+      "address": "1370 N ADAIR ST, CORNELIUS, OR",
+      "website": "http://www.ci.cornelius.or.us/LIBRARY",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97008",
+        "97109",
+        "97113",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224"
+      ]
+    },
+    {
+      "name": "BANKS PUBLIC LIBRARY",
+      "system": "BANKS PUBLIC LIBRARY",
+      "address": "42461 NW MARKET ST, BANKS, OR",
+      "website": "https://www.cityofbanks.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97008",
+        "97106",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224"
+      ]
+    },
+    {
+      "name": "NORTH PLAINS PUBLIC LIBRARY",
+      "system": "NORTH PLAINS PUBLIC LIBRARY",
+      "address": "31334 NW COMMERCIAL ST, NORTH PLAINS, OR",
+      "website": "https://www.wccls.org/using-library/member-libraries/north-plains-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97133",
+        "97144",
+        "97224"
+      ]
+    },
+    {
       "name": "ESTACADA PUBLIC LIBRARY",
       "system": "ESTACADA PUBLIC LIBRARY",
       "address": "825 NW WADE ST, ESTACADA, OR",
@@ -8,7 +370,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97023"
+        "97004",
+        "97009",
+        "97011",
+        "97017",
+        "97022",
+        "97023",
+        "97028",
+        "97035",
+        "97042",
+        "97049",
+        "97067",
+        "970HH",
+        "970XX",
+        "972HH"
       ]
     },
     {
@@ -19,7 +394,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97027"
+        "97004",
+        "97009",
+        "97011",
+        "97017",
+        "97022",
+        "97027",
+        "97028",
+        "97035",
+        "97042",
+        "97049",
+        "97067",
+        "970HH",
+        "970XX",
+        "972HH"
       ]
     },
     {
@@ -30,7 +418,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97034"
+        "97004",
+        "97009",
+        "97011",
+        "97017",
+        "97022",
+        "97028",
+        "97034",
+        "97035",
+        "97042",
+        "97049",
+        "97067",
+        "970HH",
+        "970XX",
+        "972HH"
       ]
     },
     {
@@ -41,7 +442,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97037"
+        "97001",
+        "97037",
+        "97040",
+        "97063"
       ]
     },
     {
@@ -52,7 +456,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97038"
+        "97004",
+        "97009",
+        "97011",
+        "97017",
+        "97022",
+        "97028",
+        "97035",
+        "97038",
+        "97042",
+        "97049",
+        "97067",
+        "970HH",
+        "970XX",
+        "972HH"
       ]
     },
     {
@@ -63,7 +480,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97045"
+        "97004",
+        "97009",
+        "97011",
+        "97017",
+        "97022",
+        "97028",
+        "97035",
+        "97042",
+        "97045",
+        "97049",
+        "97067",
+        "970HH",
+        "970XX",
+        "972HH"
       ]
     },
     {
@@ -74,7 +504,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97048"
+        "97018",
+        "97048",
+        "97053",
+        "97054"
       ]
     },
     {
@@ -85,7 +518,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97055"
+        "97004",
+        "97009",
+        "97011",
+        "97017",
+        "97022",
+        "97028",
+        "97035",
+        "97042",
+        "97049",
+        "97055",
+        "97067",
+        "970HH",
+        "970XX",
+        "972HH"
       ]
     },
     {
@@ -96,6 +542,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "97018",
+        "97053",
+        "97054",
         "97056"
       ]
     },
@@ -107,7 +556,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97005"
+        "97005",
+        "97006",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224"
       ]
     },
     {
@@ -118,7 +577,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97051"
+        "97018",
+        "97051",
+        "97053",
+        "97054"
       ]
     },
     {
@@ -129,7 +591,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97058"
+        "97001",
+        "97040",
+        "97058",
+        "97063"
       ]
     },
     {
@@ -140,7 +605,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97062"
+        "97006",
+        "97008",
+        "97062",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224"
       ]
     },
     {
@@ -151,6 +626,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "97018",
+        "97053",
+        "97054",
         "97064"
       ]
     },
@@ -162,7 +640,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97068"
+        "97004",
+        "97009",
+        "97011",
+        "97017",
+        "97022",
+        "97028",
+        "97035",
+        "97042",
+        "97049",
+        "97067",
+        "97068",
+        "970HH",
+        "970XX",
+        "972HH"
       ]
     },
     {
@@ -173,7 +664,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97070"
+        "97004",
+        "97009",
+        "97011",
+        "97017",
+        "97022",
+        "97028",
+        "97035",
+        "97042",
+        "97049",
+        "97067",
+        "97070",
+        "970HH",
+        "970XX",
+        "972HH"
       ]
     },
     {
@@ -184,7 +688,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97071"
+        "97002",
+        "97020",
+        "97026",
+        "97032",
+        "97071",
+        "97137",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306",
+        "97325",
+        "97342",
+        "97346",
+        "97352",
+        "97375",
+        "97385",
+        "97392"
       ]
     },
     {
@@ -195,7 +716,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97013"
+        "97004",
+        "97009",
+        "97011",
+        "97013",
+        "97017",
+        "97022",
+        "97028",
+        "97035",
+        "97042",
+        "97049",
+        "97067",
+        "970HH",
+        "970XX",
+        "972HH"
       ]
     },
     {
@@ -206,7 +740,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97016"
+        "97016",
+        "97018",
+        "97053",
+        "97054"
       ]
     },
     {
@@ -217,7 +754,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97021"
+        "97001",
+        "97021",
+        "97040",
+        "97063"
       ]
     },
     {
@@ -228,7 +768,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97031"
+        "97014",
+        "97031",
+        "97041"
       ]
     },
     {
@@ -239,7 +781,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97039"
+        "97029",
+        "97033",
+        "97039",
+        "97050",
+        "97065"
       ]
     },
     {
@@ -250,7 +796,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97015"
+        "97004",
+        "97009",
+        "97011",
+        "97015",
+        "97017",
+        "97022",
+        "97028",
+        "97035",
+        "97042",
+        "97049",
+        "97067",
+        "970HH",
+        "970XX",
+        "972HH"
       ]
     },
     {
@@ -261,7 +820,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97007"
+        "97006",
+        "97007",
+        "97008",
+        "97109",
+        "97117",
+        "97119",
+        "97123",
+        "97124",
+        "97125",
+        "97144",
+        "97224"
       ]
     }
   ]

@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "BENTON PUBLIC LIBRARY",
-      "system": "BENTON PUBLIC LIBRARY",
-      "address": "48 W. MAIN ST., BENTON, WI",
-      "website": "https://bentonpubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53803"
-      ]
-    },
-    {
       "name": "BLOOMINGTON PUBLIC LIBRARY",
       "system": "BLOOMINGTON PUBLIC LIBRARY",
       "address": "453 CANAL ST., BLOOMINGTON, WI",
@@ -19,7 +8,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53804"
+        "53801",
+        "53804",
+        "53810",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
+      ]
+    },
+    {
+      "name": "BENTON PUBLIC LIBRARY",
+      "system": "BENTON PUBLIC LIBRARY",
+      "address": "48 W. MAIN ST., BENTON, WI",
+      "website": "https://bentonpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53541",
+        "53587",
+        "53803"
       ]
     },
     {
@@ -30,7 +39,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53805"
+        "53801",
+        "53805",
+        "53810",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
       ]
     },
     {
@@ -41,7 +57,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53806"
+        "53801",
+        "53806",
+        "53810",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
       ]
     },
     {
@@ -52,7 +75,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53807"
+        "53801",
+        "53807",
+        "53810",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
       ]
     },
     {
@@ -63,7 +93,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53809"
+        "53801",
+        "53809",
+        "53810",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
       ]
     },
     {
@@ -74,7 +111,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53811"
+        "53801",
+        "53810",
+        "53811",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
       ]
     },
     {
@@ -85,7 +129,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53813"
+        "53801",
+        "53810",
+        "53813",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
       ]
     },
     {
@@ -96,7 +147,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53818"
+        "53801",
+        "53810",
+        "53816",
+        "53817",
+        "53818",
+        "53820",
+        "53825",
+        "53827"
       ]
     },
     {
@@ -107,7 +165,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53821"
+        "53821",
+        "53826",
+        "538HH",
+        "54626",
+        "54628",
+        "54640",
+        "54645",
+        "54654",
+        "54657"
       ]
     },
     {
@@ -118,7 +184,106 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53808"
+        "53801",
+        "53808",
+        "53810",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
+      ]
+    },
+    {
+      "name": "ALLEN-DIETZMAN PUBLIC LIBRARY",
+      "system": "ALLEN-DIETZMAN PUBLIC LIBRARY",
+      "address": "220 W. BARBER AVE., LIVINGSTON, WI",
+      "website": "https://villageoflivingston.com/public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53554",
+        "53801",
+        "53810",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
+      ]
+    },
+    {
+      "name": "MONTFORT PUBLIC LIBRARY",
+      "system": "MONTFORT PUBLIC LIBRARY",
+      "address": "102 E. PARK ST., MONTFORT, WI",
+      "website": "https://www.montfortpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53569",
+        "53801",
+        "53810",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
+      ]
+    },
+    {
+      "name": "MUSCODA PUBLIC LIBRARY",
+      "system": "MUSCODA PUBLIC LIBRARY",
+      "address": "400 N. WISCONSIN AVE., MUSCODA, WI",
+      "website": "https://muscodalibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53573",
+        "53801",
+        "53810",
+        "53816",
+        "53817",
+        "53820",
+        "53825",
+        "53827"
+      ]
+    },
+    {
+      "name": "GAYS MILLS PUBLIC LIBRARY",
+      "system": "GAYS MILLS PUBLIC LIBRARY",
+      "address": "16381 STATE HWY. 131, STE. 2, GAYS MILLS, WI",
+      "website": "https://gaysmillslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53826",
+        "538HH",
+        "54626",
+        "54628",
+        "54631",
+        "54640",
+        "54645",
+        "54654",
+        "54657"
+      ]
+    },
+    {
+      "name": "SOLDIERS GROVE PUBLIC LIBRARY",
+      "system": "SOLDIERS GROVE PUBLIC LIBRARY",
+      "address": "102 PASSIVE SUN DR., SOLAR TOWN CEN, SOLDIERS GROVE, WI",
+      "website": "https://www.soldiersgrovelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53826",
+        "538HH",
+        "54626",
+        "54628",
+        "54640",
+        "54645",
+        "54654",
+        "54655",
+        "54657"
       ]
     }
   ]

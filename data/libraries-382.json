@@ -1,6 +1,51 @@
 {
   "libraries": [
     {
+      "name": "HUMBOLDT PUBLIC LIBRARY",
+      "system": "HUMBOLDT PUBLIC LIBRARY",
+      "address": "115 S. 16TH AVE., HUMBOLDT, TN",
+      "website": "https://humboldtpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38233",
+        "38316",
+        "38330",
+        "38343",
+        "38355",
+        "38369"
+      ]
+    },
+    {
+      "name": "BENTON COUNTY LIBRARY",
+      "system": "BENTON COUNTY LIBRARY",
+      "address": "121 SOUTH FORREST AVENUE, CAMDEN, TN",
+      "website": "https://www.benton.lib.ms.us/bond-memorial-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38221",
+        "382HH",
+        "38320",
+        "38333",
+        "38341",
+        "383HH"
+      ]
+    },
+    {
+      "name": "SHARON PUBLIC LIBRARY",
+      "system": "SHARON PUBLIC LIBRARY",
+      "address": "133 MAIN ST., SHARON, TN",
+      "website": "https://sharonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38226",
+        "38241",
+        "38255"
+      ]
+    },
+    {
       "name": "W. G. RHEA PUBLIC LIBRARY",
       "system": "W. G. RHEA PUBLIC LIBRARY",
       "address": "400 WEST WASHINGTON STREET, PARIS, TN",
@@ -8,7 +53,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38242"
+        "38222",
+        "38224",
+        "38231",
+        "38236",
+        "38242",
+        "38251",
+        "38256"
       ]
     },
     {
@@ -19,6 +70,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "38232",
+        "38240",
+        "38253",
+        "38257",
+        "38260",
         "38261"
       ]
     },
@@ -30,7 +86,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38225"
+        "38225",
+        "38226",
+        "38241"
       ]
     },
     {
@@ -41,7 +99,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38237"
+        "38226",
+        "38237",
+        "38241"
       ]
     },
     {
@@ -52,6 +112,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "38030",
+        "38047",
+        "380HH",
         "38259"
       ]
     },
@@ -63,7 +126,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38201"
+        "38201",
+        "38220",
+        "38235",
+        "38258",
+        "38317",
+        "38318",
+        "38321",
+        "38342",
+        "38348",
+        "38387",
+        "38390"
       ]
     },
     {
@@ -74,7 +147,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38229"
+        "38226",
+        "38229",
+        "38241"
       ]
     },
     {
@@ -85,18 +160,62 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38230"
+        "38226",
+        "38230",
+        "38241"
       ]
     },
     {
-      "name": "SHARON PUBLIC LIBRARY",
-      "system": "SHARON PUBLIC LIBRARY",
-      "address": "133 MAIN ST., SHARON, TN",
-      "website": "https://sharonpubliclibrary.org/",
+      "name": "CARROLL COUNTY LIBRARY",
+      "system": "CARROLL COUNTY LIBRARY",
+      "address": "625 HIGH STREET, SUITE 102, HUNTINGDON, TN",
+      "website": "https://www.carrollcountylibrary.net/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38255"
+        "38220",
+        "38235",
+        "38258",
+        "38317",
+        "38318",
+        "38321",
+        "38342",
+        "38344",
+        "38348",
+        "38387",
+        "38390"
+      ]
+    },
+    {
+      "name": "GIBSON COUNTY MEMORIAL LIBRARY",
+      "system": "GIBSON COUNTY MEMORIAL LIBRARY",
+      "address": "303 HIGH STREET, TRENTON, TN",
+      "website": "https://gibsontn.org/library-gc",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38233",
+        "38316",
+        "38330",
+        "38355",
+        "38369",
+        "38382"
+      ]
+    },
+    {
+      "name": "MILDRED G. FIELDS MEMORIAL LIBRARY",
+      "system": "MILDRED G. FIELDS MEMORIAL LIBRARY",
+      "address": "1075A E. VAN HOOK STREET, MILAN, TN",
+      "website": "https://cityofmilantn.com/city-departments/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38233",
+        "38316",
+        "38330",
+        "38355",
+        "38358",
+        "38369"
       ]
     }
   ]

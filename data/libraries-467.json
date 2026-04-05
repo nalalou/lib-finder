@@ -1,14 +1,19 @@
 {
   "libraries": [
     {
-      "name": "BERNE PUBLIC LIBRARY",
-      "system": "BERNE PUBLIC LIBRARY",
-      "address": "166 NORTH SPRUNGER STREET, BERNE, IN",
-      "website": "https://www.bernepubliclibrary.org/",
+      "name": "FREMONT PUBLIC LIBRARY",
+      "system": "FREMONT PUBLIC LIBRARY",
+      "address": "1004 WEST TOLEDO STREET, FREMONT, IN",
+      "website": "https://www.fremont.nh.gov/fremont-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46711"
+        "03036",
+        "03044",
+        "03291",
+        "03826",
+        "03854",
+        "46737"
       ]
     },
     {
@@ -45,17 +50,6 @@
       ]
     },
     {
-      "name": "BUTLER PUBLIC LIBRARY",
-      "system": "BUTLER PUBLIC LIBRARY",
-      "address": "340 SOUTH BROADWAY, BUTLER, IN",
-      "website": "https://www.butlerlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46721"
-      ]
-    },
-    {
       "name": "ANDREWS-DALLAS TOWNSHIP PUBLIC LIBRARY",
       "system": "ANDREWS-DALLAS TOWNSHIP PUBLIC LIBRARY",
       "address": "30 EAST MADISON STREET, ANDREWS, IN",
@@ -63,18 +57,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46702"
-      ]
-    },
-    {
-      "name": "ROANOKE PUBLIC LIBRARY",
-      "system": "ROANOKE PUBLIC LIBRARY",
-      "address": "314 NORTH MAIN STREET, ROANOKE, IN",
-      "website": "http://www.roanoketexas.gov/166/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46783"
+        "46702",
+        "46783",
+        "46792"
       ]
     },
     {
@@ -85,17 +70,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46750"
-      ]
-    },
-    {
-      "name": "WARREN PUBLIC LIBRARY",
-      "system": "WARREN PUBLIC LIBRARY",
-      "address": "123 EAST THIRD STREET, WARREN, IN",
-      "website": "https://www.warrenctlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
+        "46750",
+        "46783",
         "46792"
       ]
     },
@@ -107,7 +83,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46761"
+        "46565",
+        "46571",
+        "46746",
+        "46761",
+        "46795"
       ]
     },
     {
@@ -118,7 +98,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46767"
+        "46710",
+        "46732",
+        "46760",
+        "46763",
+        "46767",
+        "46784",
+        "46794"
       ]
     },
     {
@@ -129,7 +115,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46701"
+        "46701",
+        "46710",
+        "46732",
+        "46760",
+        "46763",
+        "46784",
+        "46794"
       ]
     },
     {
@@ -140,7 +132,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46755"
+        "46710",
+        "46732",
+        "46755",
+        "46760",
+        "46763",
+        "46784",
+        "46794"
       ]
     },
     {
@@ -151,18 +149,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46703"
-      ]
-    },
-    {
-      "name": "FREMONT PUBLIC LIBRARY",
-      "system": "FREMONT PUBLIC LIBRARY",
-      "address": "1004 WEST TOLEDO STREET, FREMONT, IN",
-      "website": "https://www.fremont.nh.gov/fremont-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46737"
+        "46703",
+        "46742",
+        "46747",
+        "46779"
       ]
     },
     {
@@ -173,7 +163,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46714"
+        "46714",
+        "46731",
+        "46759",
+        "46766",
+        "46770",
+        "46777",
+        "46781",
+        "46791",
+        "46799"
       ]
     },
     {
@@ -184,6 +182,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46764",
         "46787"
       ]
     },
@@ -195,7 +194,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46725"
+        "46725",
+        "46764"
       ]
     },
     {
@@ -206,7 +206,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46723"
+        "46723",
+        "46764"
       ]
     },
     {
@@ -217,7 +218,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46776"
+        "46742",
+        "46747",
+        "46776",
+        "46779"
       ]
     },
     {
@@ -228,7 +232,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46733"
+        "46711",
+        "46733",
+        "46740",
+        "46772"
       ]
     }
   ]

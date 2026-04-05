@@ -1,6 +1,653 @@
 {
   "libraries": [
     {
+      "name": "NORWICH PUBLIC",
+      "system": "NORWICH PUBLIC",
+      "address": "209 SOUTH PARKWAY, NORWICH, KS",
+      "website": "https://www.norwichlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05001",
+        "05034",
+        "05035",
+        "05052",
+        "05053",
+        "05055",
+        "05056",
+        "05071",
+        "05073",
+        "05084",
+        "05088",
+        "050HH",
+        "05142",
+        "05150",
+        "05151",
+        "05772",
+        "67118"
+      ]
+    },
+    {
+      "name": "NEWTON PUBLIC LIBRARY",
+      "system": "NEWTON PUBLIC LIBRARY",
+      "address": "720 N OAK, NEWTON, KS",
+      "website": "https://www.newtonplks.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67114",
+        "67117"
+      ]
+    },
+    {
+      "name": "LINCOLN LIBRARY",
+      "system": "LINCOLN LIBRARY",
+      "address": "201 N. MAIN, MEDICINE LODGE, KS",
+      "website": "https://directory.sckls.info/library/?show=78",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67061",
+        "67065",
+        "67071",
+        "67104",
+        "67138",
+        "67143"
+      ]
+    },
+    {
+      "name": "HARDTNER PUBLIC LIBRARY",
+      "system": "HARDTNER PUBLIC LIBRARY",
+      "address": "102 E CENTRAL, HARDTNER, KS",
+      "website": "https://cityofhardtner.com/Departments/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67057",
+        "67061",
+        "67065",
+        "67071",
+        "67138",
+        "67143"
+      ]
+    },
+    {
+      "name": "CUNNINGHAM PUBLIC LIBRARY",
+      "system": "CUNNINGHAM PUBLIC LIBRARY",
+      "address": "105 NORTH MAIN, CUNNINGHAM, KS",
+      "website": "https://directory.sckls.info/library/60",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67035",
+        "67111",
+        "67112",
+        "67128",
+        "67142"
+      ]
+    },
+    {
+      "name": "LEON PUBLIC LIBRARY",
+      "system": "LEON PUBLIC LIBRARY",
+      "address": "200 W 1ST ST, LEON, IA",
+      "website": "https://cityofleon.org/library-2",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50144",
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67144"
+      ]
+    },
+    {
+      "name": "ATTICA CITY LIBRARY",
+      "system": "ATTICA CITY LIBRARY",
+      "address": "125 NORTH MAIN, ATTICA, KS",
+      "website": "https://librarytechnology.org/library/18329",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67003",
+        "67009",
+        "67018",
+        "67036",
+        "67049",
+        "67150"
+      ]
+    },
+    {
+      "name": "DIXON TOWNSHIP LIBRARY",
+      "system": "DIXON TOWNSHIP LIBRARY",
+      "address": "120 W WALNUT, ARGONIA, KS",
+      "website": "https://directory.sckls.info/library/45",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67004",
+        "67051",
+        "67103",
+        "67105",
+        "67106",
+        "67119",
+        "67120"
+      ]
+    },
+    {
+      "name": "RUTH DOLE MEMORIAL LIBRARY",
+      "system": "RUTH DOLE MEMORIAL LIBRARY",
+      "address": "121 N BURRTON, BURRTON, KS",
+      "website": "https://directory.sckls.info/library/52",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67020",
+        "67117"
+      ]
+    },
+    {
+      "name": "KIOWA PUBLIC LIBRARY",
+      "system": "KIOWA PUBLIC LIBRARY",
+      "address": "123 N 7TH, KIOWA, KS",
+      "website": "https://www.kiowaks.org/pview.aspx?id=21208&catid=578",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67061",
+        "67065",
+        "67070",
+        "67071",
+        "67138",
+        "67143"
+      ]
+    },
+    {
+      "name": "CONWAY SPRINGS CITY LIBRARY",
+      "system": "CONWAY SPRINGS CITY LIBRARY",
+      "address": "210 W. SPRINGS AVE, CONWAY SPRINGS, KS",
+      "website": "https://www.conwayspringsks.com/nav/new_page/library.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67031",
+        "67051",
+        "67103",
+        "67105",
+        "67106",
+        "67119",
+        "67120"
+      ]
+    },
+    {
+      "name": "CHENEY PUBLIC LIBRARY",
+      "system": "CHENEY PUBLIC LIBRARY",
+      "address": "203 N. MAIN, CHENEY, KS",
+      "website": "https://cheneyks.org/services/library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67016",
+        "67025",
+        "67026",
+        "67037",
+        "67067",
+        "67101",
+        "67202",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
+      ]
+    },
+    {
+      "name": "HARPER PUBLIC LIBRARY",
+      "system": "HARPER PUBLIC LIBRARY",
+      "address": "708 WEST 14TH, HARPER, KS",
+      "website": "https://directory.sckls.info/library/68",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67003",
+        "67018",
+        "67036",
+        "67049",
+        "67058",
+        "67150"
+      ]
+    },
+    {
+      "name": "COLWICH COMMUNITY LIBRARY",
+      "system": "COLWICH COMMUNITY LIBRARY",
+      "address": "432 W COLWICH, COLWICH, KS",
+      "website": "https://www.colwichks.org/residents/library.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67016",
+        "67026",
+        "67030",
+        "67037",
+        "67067",
+        "67101",
+        "67202",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
+      ]
+    },
+    {
+      "name": "BELLE PLAINE PUBLIC LIBRARY",
+      "system": "BELLE PLAINE PUBLIC LIBRARY",
+      "address": "222 W. 5TH, BELLE PLAINE, KS",
+      "website": "https://directory.sckls.info/library/50",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67013",
+        "67051",
+        "67103",
+        "67105",
+        "67106",
+        "67119",
+        "67120"
+      ]
+    },
+    {
+      "name": "GODDARD PUBLIC LIBRARY",
+      "system": "GODDARD PUBLIC LIBRARY",
+      "address": "201 N. MAIN, GODDARD, KS",
+      "website": "https://www.goddardlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67016",
+        "67026",
+        "67037",
+        "67052",
+        "67067",
+        "67101",
+        "67202",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
+      ]
+    },
+    {
+      "name": "HALSTEAD PUBLIC LIBRARY",
+      "system": "HALSTEAD PUBLIC LIBRARY",
+      "address": "264 MAIN, HALSTEAD, KS",
+      "website": "https://www.halsteadks.gov/page/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67056",
+        "67117"
+      ]
+    },
+    {
+      "name": "DOUGLASS PUBLIC LIBRARY",
+      "system": "DOUGLASS PUBLIC LIBRARY",
+      "address": "319 S. FOREST, DOUGLASS, KS",
+      "website": "https://douglass.scklslibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67039",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67144"
+      ]
+    },
+    {
+      "name": "HESSTON PUBLIC LIBRARY",
+      "system": "HESSTON PUBLIC LIBRARY",
+      "address": "300 N. MAIN ST., HESSTON, KS",
+      "website": "https://www.hesstonks.gov/community/library.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67062",
+        "67117"
+      ]
+    },
+    {
+      "name": "KINGMAN CARNEGIE LIBRARY",
+      "system": "KINGMAN CARNEGIE LIBRARY",
+      "address": "455 NORTH MAIN, KINGMAN, KS",
+      "website": "https://citylibrary.com/public-libraries/kingman-carnegie-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67068",
+        "67111",
+        "67112",
+        "67128",
+        "67142"
+      ]
+    },
+    {
+      "name": "KIOWA COUNTY LIBRARY",
+      "system": "KIOWA COUNTY LIBRARY",
+      "address": "320 S. MAIN, SUITE 120, GREENSBURG, KS",
+      "website": "https://librarytechnology.org/library/18366",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67054",
+        "67059",
+        "67109"
+      ]
+    },
+    {
+      "name": "AUGUSTA PUBLIC LIBRARY",
+      "system": "AUGUSTA PUBLIC LIBRARY",
+      "address": "1609 STATE ST., AUGUSTA, KS",
+      "website": "https://www.augustapubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66842",
+        "67002",
+        "67010",
+        "67012",
+        "67017",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67144"
+      ]
+    },
+    {
+      "name": "HAYSVILLE COMMUNITY LIBRARY",
+      "system": "HAYSVILLE COMMUNITY LIBRARY",
+      "address": "210 S. HAYS AVENUE, HAYSVILLE, KS",
+      "website": "https://www.haysvillecommunitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67016",
+        "67026",
+        "67037",
+        "67060",
+        "67067",
+        "67101",
+        "67202",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
+      ]
+    },
+    {
+      "name": "BRADFORD MEMORIAL LIBRARY",
+      "system": "BRADFORD MEMORIAL LIBRARY",
+      "address": "611 S. WASHINGTON, EL DORADO, KS",
+      "website": "https://bradford.scklslibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67041",
+        "67042",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67144"
+      ]
+    },
+    {
+      "name": "DERBY PUBLIC LIBRARY",
+      "system": "DERBY PUBLIC LIBRARY",
+      "address": "313 ELIZABETH ST., DERBY, CT",
+      "website": "https://derbypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06418",
+        "67016",
+        "67026",
+        "67037",
+        "67067",
+        "67101",
+        "67202",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
+      ]
+    },
+    {
+      "name": "ARKANSAS CITY PUBLIC LIBRARY",
+      "system": "ARKANSAS CITY PUBLIC LIBRARY",
+      "address": "120 E. 5TH AVENUE, ARKANSAS CITY, KS",
+      "website": "https://arkcity.scklslibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67005",
+        "67008",
+        "67019",
+        "67023",
+        "67038",
+        "670XX",
+        "67102",
+        "67131",
+        "67156"
+      ]
+    },
+    {
+      "name": "EUREKA PUBLIC LIBRARY",
+      "system": "EUREKA PUBLIC LIBRARY",
+      "address": "606 NORTH MAIN, EUREKA, KS",
+      "website": "http://eurekapubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66860",
+        "66863",
+        "66870",
+        "67045",
+        "67122",
+        "67137"
+      ]
+    },
+    {
+      "name": "COLDWATER-WILMORE REGIONAL LIBRARY",
+      "system": "COLDWATER-WILMORE REGIONAL LIBRARY",
+      "address": "221 E.MAIN, COLDWATER, KS",
+      "website": "https://www.coldwaterks.org/library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67029",
+        "67155",
+        "671HH"
+      ]
+    },
+    {
+      "name": "GARDEN PLAIN COMMUNITY LIBRARY",
+      "system": "GARDEN PLAIN COMMUNITY LIBRARY",
+      "address": "421 AVE B, GARDEN PLAIN, KS",
+      "website": "https://gardenplain.com/__version-1/government/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67016",
+        "67026",
+        "67037",
+        "67050",
+        "67067",
+        "67101",
+        "67202",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
+      ]
+    },
+    {
+      "name": "ANDALE DISTRICT LIBRARY",
+      "system": "ANDALE DISTRICT LIBRARY",
+      "address": "328 MAIN ST, ANDALE, KS",
+      "website": "http://www.andalelibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67001",
+        "67016",
+        "67026",
+        "67037",
+        "67067",
+        "67101",
+        "67202",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
+      ]
+    },
+    {
       "name": "ZENDA PUBLIC LIBRARY",
       "system": "ZENDA PUBLIC LIBRARY",
       "address": "215 N. MAIN, ZENDA, KS",
@@ -8,6 +655,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67111",
+        "67112",
+        "67128",
+        "67142",
         "67159"
       ]
     },
@@ -19,6 +670,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67117",
         "67151"
       ]
     },
@@ -30,18 +682,34 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67149"
-      ]
-    },
-    {
-      "name": "NORWICH PUBLIC",
-      "system": "NORWICH PUBLIC",
-      "address": "209 SOUTH PARKWAY, NORWICH, KS",
-      "website": "https://www.norwichlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67118"
+        "67016",
+        "67026",
+        "67037",
+        "67067",
+        "67101",
+        "67149",
+        "67202",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
       ]
     },
     {
@@ -52,7 +720,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67123"
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67123",
+        "67132",
+        "67144"
       ]
     },
     {
@@ -63,6 +741,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67144",
         "67154"
       ]
     },
@@ -74,6 +762,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67051",
+        "67103",
+        "67105",
+        "67106",
+        "67119",
+        "67120",
         "67140"
       ]
     },
@@ -85,7 +779,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67146"
+        "67008",
+        "67019",
+        "67023",
+        "67038",
+        "670XX",
+        "67102",
+        "67131",
+        "67146",
+        "67156"
       ]
     },
     {
@@ -96,29 +798,34 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67108"
-      ]
-    },
-    {
-      "name": "OXFORD PUBLIC LIBRARY",
-      "system": "OXFORD PUBLIC LIBRARY",
-      "address": "115 SOUTH SUMNER, OXFORD, KS",
-      "website": "http://oxford.njlibraries.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67119"
-      ]
-    },
-    {
-      "name": "TOWANDA PUBLIC LIBRARY",
-      "system": "TOWANDA PUBLIC LIBRARY",
-      "address": "620 HIGHLAND, TOWANDA, KS",
-      "website": "https://towandapubliclibrary.org/services-programs/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67144"
+        "67016",
+        "67026",
+        "67037",
+        "67067",
+        "67101",
+        "67108",
+        "67202",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
       ]
     },
     {
@@ -129,7 +836,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67107"
+        "67107",
+        "67443",
+        "67491"
       ]
     },
     {
@@ -140,18 +849,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67117",
         "67135"
-      ]
-    },
-    {
-      "name": "LINCOLN LIBRARY",
-      "system": "LINCOLN LIBRARY",
-      "address": "201 N. MAIN, MEDICINE LODGE, KS",
-      "website": "https://directory.sckls.info/library/?show=78",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67104"
       ]
     },
     {
@@ -162,7 +861,34 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67147"
+        "67016",
+        "67026",
+        "67037",
+        "67067",
+        "67101",
+        "67147",
+        "67202",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
       ]
     },
     {
@@ -173,7 +899,34 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67110"
+        "67016",
+        "67026",
+        "67037",
+        "67067",
+        "67101",
+        "67110",
+        "67202",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
       ]
     },
     {
@@ -184,6 +937,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67051",
+        "67103",
+        "67105",
+        "67106",
+        "67119",
+        "67120",
         "67152"
       ]
     },
@@ -195,29 +954,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67124"
-      ]
-    },
-    {
-      "name": "WINFIELD PUBLIC LIBRARY",
-      "system": "WINFIELD PUBLIC LIBRARY",
-      "address": "605 COLLEGE, WINFIELD, KS",
-      "website": "https://wpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67156"
-      ]
-    },
-    {
-      "name": "NEWTON PUBLIC LIBRARY",
-      "system": "NEWTON PUBLIC LIBRARY",
-      "address": "720 N OAK, NEWTON, KS",
-      "website": "https://www.newtonplks.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67114"
+        "67021",
+        "67028",
+        "67066",
+        "67124",
+        "67134"
       ]
     },
     {
@@ -228,7 +969,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67127"
+        "67127",
+        "67155",
+        "671HH"
       ]
     },
     {
@@ -239,7 +982,109 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67133"
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67133",
+        "67144"
+      ]
+    },
+    {
+      "name": "WICHITA PUBLIC LIBRARY",
+      "system": "WICHITA PUBLIC LIBRARY",
+      "address": "711 W 2ND ST. N, WICHITA, KS",
+      "website": "http://www.wichitalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67016",
+        "67026",
+        "67037",
+        "67067",
+        "67101",
+        "67202",
+        "67203",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
+      ]
+    },
+    {
+      "name": "PARK CITY PUBLIC LIBRARY",
+      "system": "PARK CITY PUBLIC LIBRARY",
+      "address": "2107 E. 61ST ST. N., PARK CITY, KS",
+      "website": "https://parkcitypubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67016",
+        "67026",
+        "67037",
+        "67067",
+        "67101",
+        "67202",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67210",
+        "67211",
+        "67212",
+        "67213",
+        "67214",
+        "67215",
+        "67216",
+        "67217",
+        "67218",
+        "67219",
+        "67220",
+        "67226",
+        "67230",
+        "67233",
+        "67235",
+        "672HH"
+      ]
+    },
+    {
+      "name": "HAMILTON CITY LIBRARY",
+      "system": "HAMILTON CITY LIBRARY",
+      "address": "21 E. MAIN, HAMILTON, KS",
+      "website": "https://hamiltoncitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66853",
+        "66860",
+        "66863",
+        "66870",
+        "67122",
+        "67137"
       ]
     }
   ]

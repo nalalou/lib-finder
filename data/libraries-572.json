@@ -8,7 +8,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57201"
+        "57201",
+        "57235",
+        "57243",
+        "57245",
+        "57263",
+        "57272"
       ]
     },
     {
@@ -19,7 +24,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57201"
+        "57201",
+        "57235",
+        "57243",
+        "57245",
+        "57263",
+        "57272"
       ]
     },
     {
@@ -30,7 +40,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57225"
+        "57217",
+        "57225",
+        "57236",
+        "57258",
+        "57271",
+        "57278",
+        "57322"
       ]
     },
     {
@@ -41,7 +57,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57231"
+        "57051",
+        "57212",
+        "57214",
+        "57231",
+        "57233",
+        "57244",
+        "57353"
       ]
     },
     {
@@ -52,18 +74,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57249"
-      ]
-    },
-    {
-      "name": "GRANT COUNTY PUBLIC LIBRARY",
-      "system": "GRANT COUNTY PUBLIC LIBRARY",
-      "address": "207 EAST PARK AVE, MILBANK, SD",
-      "website": "http://grantlib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57252"
+        "57051",
+        "57212",
+        "57214",
+        "57233",
+        "57244",
+        "57249",
+        "57353"
       ]
     },
     {
@@ -74,7 +91,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57262"
+        "562HH",
+        "57224",
+        "57227",
+        "57255",
+        "57257",
+        "57260",
+        "57262",
+        "57266",
+        "57279"
       ]
     },
     {
@@ -85,18 +110,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57273"
+        "57219",
+        "57239",
+        "57261",
+        "57273",
+        "57274",
+        "57422",
+        "57468"
       ]
     },
     {
       "name": "WEBSTER PUBLIC LIBRARY",
       "system": "WEBSTER PUBLIC LIBRARY",
-      "address": "800 MAIN STREET, WEBSTER, SD",
+      "address": "WEBSTER PLAZA, 980 RIDGE ROAD, WEBSTER, NY",
       "website": "https://webster.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57274"
+        "14580",
+        "57219",
+        "57239",
+        "57261",
+        "57274",
+        "57422",
+        "57468"
       ]
     },
     {
@@ -107,17 +144,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57226"
+        "57213",
+        "57218",
+        "57226",
+        "57237",
+        "57238",
+        "57268"
       ]
     },
     {
       "name": "WILMOT PUBLIC LIBRARY",
       "system": "WILMOT PUBLIC LIBRARY",
-      "address": "602 MAIN STREET, WILMOT, SD",
+      "address": "11 NORTH WILMOT ROAD, WILMOT, NH",
       "website": "https://www.wilmotnh.org/community/wilmot-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "03287",
+        "562HH",
+        "57224",
+        "57227",
+        "57255",
+        "57257",
+        "57260",
+        "57266",
         "57279"
       ]
     },
@@ -129,7 +179,79 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57262"
+        "562HH",
+        "57224",
+        "57227",
+        "57255",
+        "57257",
+        "57260",
+        "57262",
+        "57266",
+        "57279"
+      ]
+    },
+    {
+      "name": "BRITTON PUBLIC LIBRARY",
+      "system": "BRITTON PUBLIC LIBRARY",
+      "address": "759 7TH ST, BRITTON, SD",
+      "website": "https://brittonpublic.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57232",
+        "57247",
+        "57270",
+        "57421",
+        "57430"
+      ]
+    },
+    {
+      "name": "LANGFORD PUBLIC LIBRARY",
+      "system": "LANGFORD PUBLIC LIBRARY",
+      "address": "306 MAIN ST, LANGFORD, SD",
+      "website": "https://dakotaathome.sd.gov/search/00f71083-acf5-5936-9cc5-4578348e6305",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57232",
+        "57247",
+        "57270",
+        "57421",
+        "57454"
+      ]
+    },
+    {
+      "name": "BROOKINGS PUBLIC LIBRARY",
+      "system": "BROOKINGS PUBLIC LIBRARY",
+      "address": "515 THIRD STREET, BROOKINGS, SD",
+      "website": "https://www.brookingslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57002",
+        "57006",
+        "57061",
+        "57071",
+        "57220",
+        "57276",
+        "572HH"
+      ]
+    },
+    {
+      "name": "ELKTON SCHOOL/COMMUNITY LIBRARY",
+      "system": "ELKTON SCHOOL/COMMUNITY LIBRARY",
+      "address": "508 BUFFALO ST, ELKTON, SD",
+      "website": "https://elktonsd.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57002",
+        "57026",
+        "57061",
+        "57071",
+        "57220",
+        "57276",
+        "572HH"
       ]
     }
   ]

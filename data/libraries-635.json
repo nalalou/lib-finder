@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "ADAIR COUNTY PUBLIC LIBRARY",
-      "system": "ADAIR COUNTY PUBLIC LIBRARY",
-      "address": "ONE LIBRARY LANE, KIRKSVILLE, MO",
-      "website": "https://www.adairco.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63501"
-      ]
-    },
-    {
       "name": "PUTNAM COUNTY PUBLIC LIBRARY",
       "system": "PUTNAM COUNTY PUBLIC LIBRARY",
       "address": "115 S 16TH ST, UNIONVILLE, MO",
@@ -19,7 +8,31 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63565"
+        "63551",
+        "63565",
+        "63567",
+        "64655",
+        "64672"
+      ]
+    },
+    {
+      "name": "MARCELINE CARNEGIE LIBRARY",
+      "system": "MARCELINE CARNEGIE LIBRARY",
+      "address": "119 E CALIFORNIA AVE, MARCELINE, MO",
+      "website": "https://www.marcelinelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63557",
+        "63566",
+        "64628",
+        "64630",
+        "64631",
+        "64651",
+        "64653",
+        "64658",
+        "64659",
+        "64674"
       ]
     },
     {
@@ -30,18 +43,47 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "28343",
+        "28351",
+        "28352",
+        "28363",
+        "28396",
+        "283XX",
         "63555"
       ]
     },
     {
-      "name": "SULLIVAN COUNTY PUBLIC LIBRARY",
-      "system": "SULLIVAN COUNTY PUBLIC LIBRARY",
-      "address": "109 E SECOND ST, MILAN, MO",
-      "website": "http://www.sullivan.lib.in.us/",
+      "name": "ADAIR COUNTY PUBLIC LIBRARY",
+      "system": "ADAIR COUNTY PUBLIC LIBRARY",
+      "address": "ONE LIBRARY LANE, KIRKSVILLE, MO",
+      "website": "https://www.adairco.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63556"
+        "63501",
+        "63533",
+        "63540",
+        "63546",
+        "63559"
+      ]
+    },
+    {
+      "name": "DULANY MEMORIAL LIBRARY",
+      "system": "DULANY MEMORIAL LIBRARY",
+      "address": "501 S BROADWAY, SALISBURY, MO",
+      "website": "https://www.dulanylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "635HH",
+        "64660",
+        "64676",
+        "64681",
+        "65236",
+        "65246",
+        "65261",
+        "65281",
+        "65286"
       ]
     },
     {
@@ -52,7 +94,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63552"
+        "63431",
+        "63530",
+        "63532",
+        "63534",
+        "63538",
+        "63539",
+        "63552",
+        "63558",
+        "65247"
       ]
     },
     {
@@ -63,7 +113,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63549"
+        "63431",
+        "63530",
+        "63532",
+        "63534",
+        "63538",
+        "63539",
+        "63549",
+        "63558",
+        "65247"
       ]
     },
     {
@@ -74,7 +132,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63548"
+        "63535",
+        "63536",
+        "63541",
+        "63548",
+        "63561"
       ]
     }
   ]

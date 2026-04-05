@@ -1,14 +1,43 @@
 {
   "libraries": [
     {
-      "name": "FRANKLIN PUBLIC LIBRARY",
-      "system": "FRANKLIN PUBLIC LIBRARY",
-      "address": "44 E. 4TH ST, FRANKLIN, OH",
-      "website": "https://www.fspl.org/",
+      "name": "MASON PUBLIC LIBRARY",
+      "system": "MASON PUBLIC LIBRARY",
+      "address": "200 READING RD., MASON, OH",
+      "website": "https://masonpl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45005"
+        "45005",
+        "45032",
+        "45034",
+        "45036",
+        "45039",
+        "45040",
+        "45054",
+        "45065",
+        "45066",
+        "45162"
+      ]
+    },
+    {
+      "name": "SALEM TOWNSHIP PUBLIC LIBRARY",
+      "system": "SALEM TOWNSHIP PUBLIC LIBRARY",
+      "address": "535 W. PIKE ST., MORROW, OH",
+      "website": "http://www.salem-township.lib.oh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45005",
+        "45032",
+        "45034",
+        "45036",
+        "45039",
+        "45054",
+        "45065",
+        "45066",
+        "45152",
+        "45162"
       ]
     },
     {
@@ -19,29 +48,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45011"
-      ]
-    },
-    {
-      "name": "LEBANON PUBLIC LIBRARY",
-      "system": "LEBANON PUBLIC LIBRARY",
-      "address": "101 S. BROADWAY, LEBANON, OH",
-      "website": "https://lebanonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "45036"
-      ]
-    },
-    {
-      "name": "MASON PUBLIC LIBRARY",
-      "system": "MASON PUBLIC LIBRARY",
-      "address": "200 READING RD., MASON, OH",
-      "website": "https://masonpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "45040"
+        "45011",
+        "45013",
+        "45014",
+        "45015",
+        "45042",
+        "45050",
+        "45053",
+        "45056",
+        "45062",
+        "45064",
+        "45067",
+        "45069",
+        "450HH"
       ]
     },
     {
@@ -52,7 +71,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45044"
+        "45013",
+        "45014",
+        "45015",
+        "45042",
+        "45044",
+        "45050",
+        "45053",
+        "45056",
+        "45062",
+        "45064",
+        "45067",
+        "45069",
+        "450HH"
       ]
     },
     {
@@ -63,7 +94,140 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45068"
+        "45005",
+        "45032",
+        "45034",
+        "45036",
+        "45039",
+        "45054",
+        "45065",
+        "45066",
+        "45068",
+        "45162"
+      ]
+    },
+    {
+      "name": "PREBLE COUNTY DISTRICT LIBRARY",
+      "system": "PREBLE COUNTY DISTRICT LIBRARY",
+      "address": "450 S. BARRON ST., EATON, OH",
+      "website": "https://preblelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45003",
+        "45070",
+        "45311",
+        "45320",
+        "45321",
+        "45338",
+        "45347",
+        "45378",
+        "45381",
+        "45382"
+      ]
+    },
+    {
+      "name": "MARION LAWRENCE MEMORIAL LIBRARY",
+      "system": "MARION LAWRENCE MEMORIAL LIBRARY",
+      "address": "15 E. FRANKLIN STREET, GRATIS, OH",
+      "website": "https://gratispubliclibrary.org/about/location-hours/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45003",
+        "45070",
+        "45311",
+        "45321",
+        "45330",
+        "45338",
+        "45347",
+        "45378",
+        "45381",
+        "45382"
+      ]
+    },
+    {
+      "name": "BROWN MEMORIAL LIBRARY",
+      "system": "BROWN MEMORIAL LIBRARY",
+      "address": "78 WEST MAIN STREET, BRADFORD, NH",
+      "website": "http://www.clinton-me.us/index.asp?SEC=3990C4D7-E89A-4722-B926-831200BB08B2&Type=B_BASIC",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03221",
+        "45003",
+        "45070",
+        "45311",
+        "45321",
+        "45338",
+        "45347",
+        "45378",
+        "45381",
+        "45382"
+      ]
+    },
+    {
+      "name": "CINCINNATI AND HAMILTON COUNTY PUBLIC LIBRARY",
+      "system": "CINCINNATI AND HAMILTON COUNTY PUBLIC LIBRARY",
+      "address": "800 VINE ST., CINCINNATI, OH",
+      "website": "https://chpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45001",
+        "45002",
+        "45030",
+        "45033",
+        "45041",
+        "45052",
+        "45111",
+        "45174",
+        "45202",
+        "45203",
+        "45204",
+        "45205",
+        "45206",
+        "45207",
+        "45208",
+        "45209",
+        "45210",
+        "45211",
+        "45212",
+        "45213",
+        "45214",
+        "45215",
+        "45216",
+        "45217",
+        "45218",
+        "45219",
+        "45220",
+        "45223",
+        "45224",
+        "45225",
+        "45226",
+        "45227",
+        "45229",
+        "45230",
+        "45231",
+        "45232",
+        "45233",
+        "45236",
+        "45237",
+        "45238",
+        "45239",
+        "45240",
+        "45241",
+        "45242",
+        "45243",
+        "45244",
+        "45246",
+        "45247",
+        "45248",
+        "45249",
+        "45251",
+        "45252",
+        "45255",
+        "452HH"
       ]
     }
   ]

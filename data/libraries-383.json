@@ -1,36 +1,87 @@
 {
   "libraries": [
     {
-      "name": "BENTON COUNTY LIBRARY",
-      "system": "BENTON COUNTY LIBRARY",
-      "address": "121 SOUTH FORREST AVENUE, CAMDEN, TN",
-      "website": "https://www.benton.lib.ms.us/bond-memorial-library",
+      "name": "CROCKETT MEMORIAL LIBRARY",
+      "system": "CROCKETT MEMORIAL LIBRARY",
+      "address": "261 EAST CHURCH STREET, ALAMO, TN",
+      "website": "https://librarytechnology.org/library/6238",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38320"
+        "38001",
+        "38006",
+        "38021",
+        "38034",
+        "38050",
+        "38337"
       ]
     },
     {
-      "name": "CARROLL COUNTY LIBRARY",
-      "system": "CARROLL COUNTY LIBRARY",
-      "address": "625 HIGH STREET, SUITE 102, HUNTINGDON, TN",
-      "website": "https://www.carrollcountylibrary.net/",
+      "name": "BOLIVAR HARDEMAN COUNTY LIBRARY",
+      "system": "BOLIVAR HARDEMAN COUNTY LIBRARY",
+      "address": "213 NORTH WASINGTON ST., BOLIVAR, TN",
+      "website": "https://www.bolivarhardemancountylibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38344"
+        "38008",
+        "38039",
+        "38042",
+        "38044",
+        "38061",
+        "38067",
+        "38381"
       ]
     },
     {
-      "name": "GIBSON COUNTY MEMORIAL LIBRARY",
-      "system": "GIBSON COUNTY MEMORIAL LIBRARY",
-      "address": "303 HIGH STREET, TRENTON, TN",
-      "website": "https://gibsontn.org/library-gc",
+      "name": "LEE OLA ROBERTS LIBRARY",
+      "system": "LEE OLA ROBERTS LIBRARY",
+      "address": "140 W. MAIN ST., WHITEVILLE, TN",
+      "website": "https://www.chamberofcommerce.com/united-states/tennessee/whiteville/public-library/2006055546-lee-ola-roberts-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38382"
+        "38039",
+        "38042",
+        "38044",
+        "38061",
+        "38067",
+        "38075",
+        "38381"
+      ]
+    },
+    {
+      "name": "MIDDLETON COMMUNITY LIBRARY",
+      "system": "MIDDLETON COMMUNITY LIBRARY",
+      "address": "110 BOLTON AVENUE, MIDDLETON, TN",
+      "website": "https://www.middletonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38039",
+        "38042",
+        "38044",
+        "38052",
+        "38061",
+        "38067",
+        "38381"
+      ]
+    },
+    {
+      "name": "GRAND JUNCTION PUBLIC LIBRARY",
+      "system": "GRAND JUNCTION PUBLIC LIBRARY",
+      "address": "106 E MAIN ST, GRAND JUNCTION, IA",
+      "website": "https://www.grandjunction.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38039",
+        "38042",
+        "38044",
+        "38061",
+        "38067",
+        "38381",
+        "50107"
       ]
     },
     {
@@ -41,18 +92,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38343"
+        "38233",
+        "38316",
+        "38330",
+        "38343",
+        "38355",
+        "38369"
       ]
     },
     {
-      "name": "MILDRED G. FIELDS MEMORIAL LIBRARY",
-      "system": "MILDRED G. FIELDS MEMORIAL LIBRARY",
-      "address": "1075A E. VAN HOOK STREET, MILAN, TN",
-      "website": "https://cityofmilantn.com/city-departments/library",
+      "name": "BENTON COUNTY LIBRARY",
+      "system": "BENTON COUNTY LIBRARY",
+      "address": "121 SOUTH FORREST AVENUE, CAMDEN, TN",
+      "website": "https://www.benton.lib.ms.us/bond-memorial-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38358"
+        "38221",
+        "382HH",
+        "38320",
+        "38333",
+        "38341",
+        "383HH"
       ]
     },
     {
@@ -63,18 +124,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38340"
-      ]
-    },
-    {
-      "name": "DECATUR COUNTY PUBLIC LIBRARY",
-      "system": "DECATUR COUNTY PUBLIC LIBRARY",
-      "address": "20 WEST MARKET STREET, DECATURVILLE, TN",
-      "website": "https://decaturcountytn.gov/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "38329"
+        "38332",
+        "38340",
+        "38347",
+        "38352"
       ]
     },
     {
@@ -85,7 +138,96 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38363"
+        "38311",
+        "38363",
+        "38380"
+      ]
+    },
+    {
+      "name": "MCKENZIE MEMORIAL LIBRARY",
+      "system": "MCKENZIE MEMORIAL LIBRARY",
+      "address": "15 N. BROADWAY, MCKENZIE, TN",
+      "website": "https://www.mckenzietn.org/mckenzie-101/community/mckenzie-memorial-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38201",
+        "38220",
+        "38235",
+        "38258",
+        "38317",
+        "38318",
+        "38321",
+        "38342",
+        "38348",
+        "38387",
+        "38390"
+      ]
+    },
+    {
+      "name": "CARROLL COUNTY LIBRARY",
+      "system": "CARROLL COUNTY LIBRARY",
+      "address": "625 HIGH STREET, SUITE 102, HUNTINGDON, TN",
+      "website": "https://www.carrollcountylibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38220",
+        "38235",
+        "38258",
+        "38317",
+        "38318",
+        "38321",
+        "38342",
+        "38344",
+        "38348",
+        "38387",
+        "38390"
+      ]
+    },
+    {
+      "name": "GIBSON COUNTY MEMORIAL LIBRARY",
+      "system": "GIBSON COUNTY MEMORIAL LIBRARY",
+      "address": "303 HIGH STREET, TRENTON, TN",
+      "website": "https://gibsontn.org/library-gc",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38233",
+        "38316",
+        "38330",
+        "38355",
+        "38369",
+        "38382"
+      ]
+    },
+    {
+      "name": "MILDRED G. FIELDS MEMORIAL LIBRARY",
+      "system": "MILDRED G. FIELDS MEMORIAL LIBRARY",
+      "address": "1075A E. VAN HOOK STREET, MILAN, TN",
+      "website": "https://cityofmilantn.com/city-departments/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38233",
+        "38316",
+        "38330",
+        "38355",
+        "38358",
+        "38369"
+      ]
+    },
+    {
+      "name": "DECATUR COUNTY PUBLIC LIBRARY",
+      "system": "DECATUR COUNTY PUBLIC LIBRARY",
+      "address": "20 WEST MARKET STREET, DECATURVILLE, TN",
+      "website": "https://decaturcountytn.gov/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38311",
+        "38329",
+        "38380"
       ]
     },
     {
@@ -96,7 +238,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38372"
+        "38326",
+        "38327",
+        "38361",
+        "38370",
+        "38372",
+        "38376",
+        "38475",
+        "384HH"
       ]
     },
     {
@@ -107,7 +256,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38351"
+        "38328",
+        "38345",
+        "38351",
+        "38368",
+        "38371",
+        "38374",
+        "38388"
       ]
     },
     {
@@ -118,7 +273,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38375"
+        "38315",
+        "38334",
+        "38339",
+        "38357",
+        "38359",
+        "38367",
+        "38375",
+        "38379"
       ]
     },
     {
@@ -129,7 +291,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38310"
+        "38310",
+        "38315",
+        "38334",
+        "38339",
+        "38357",
+        "38359",
+        "38367",
+        "38379"
       ]
     },
     {
@@ -140,7 +309,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38301"
+        "38301",
+        "38305",
+        "38313",
+        "38356",
+        "38362",
+        "38366",
+        "38378",
+        "38391",
+        "38392"
       ]
     }
   ]

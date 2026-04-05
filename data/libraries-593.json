@@ -1,61 +1,6 @@
 {
   "libraries": [
     {
-      "name": "FALLON COUNTY LIBRARY",
-      "system": "FALLON COUNTY LIBRARY",
-      "address": "6 WEST FALLON AVE, BAKER, MT",
-      "website": "https://falloncountylibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59313"
-      ]
-    },
-    {
-      "name": "HENRY A MALLEY MEMORIAL LIBRARY",
-      "system": "HENRY A MALLEY MEMORIAL LIBRARY",
-      "address": "102 SOUTH LINCOLN, BROADUS, MT",
-      "website": "https://www.townofbroadus.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59317"
-      ]
-    },
-    {
-      "name": "EKALAKA PUBLIC LIBRARY",
-      "system": "EKALAKA PUBLIC LIBRARY",
-      "address": "105 N MAIN ST, EKALAKA, MT",
-      "website": "https://ekalaka.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59324"
-      ]
-    },
-    {
-      "name": "ROSEBUD COUNTY LIBRARY",
-      "system": "ROSEBUD COUNTY LIBRARY",
-      "address": "201 NORTH 9TH AVENUE, FORSYTH, MT",
-      "website": "https://rosebudcountymt.gov/departments/library-rosebud-county-library-forsyth/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59327"
-      ]
-    },
-    {
-      "name": "GLENDIVE PUBLIC LIBRARY",
-      "system": "GLENDIVE PUBLIC LIBRARY",
-      "address": "200 SOUTH KENDRICK, GLENDIVE, MT",
-      "website": "https://www.glendivelibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59330"
-      ]
-    },
-    {
       "name": "GARFIELD COUNTY LIBRARY",
       "system": "GARFIELD COUNTY LIBRARY",
       "address": "202 MAIN ST, JORDAN, MT",
@@ -63,18 +8,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59337"
-      ]
-    },
-    {
-      "name": "MILES CITY PUBLIC LIBRARY",
-      "system": "MILES CITY PUBLIC LIBRARY",
-      "address": "ONE SOUTH TENTH STREET, MILES CITY, MT",
-      "website": "https://www.milescitypubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59301"
+        "59337",
+        "68823"
       ]
     },
     {
@@ -85,7 +20,96 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59326",
         "59349"
+      ]
+    },
+    {
+      "name": "FALLON COUNTY LIBRARY",
+      "system": "FALLON COUNTY LIBRARY",
+      "address": "6 WEST FALLON AVE, BAKER, MT",
+      "website": "https://falloncountylibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59313",
+        "59344",
+        "59354"
+      ]
+    },
+    {
+      "name": "HENRY A MALLEY MEMORIAL LIBRARY",
+      "system": "HENRY A MALLEY MEMORIAL LIBRARY",
+      "address": "102 SOUTH LINCOLN, BROADUS, MT",
+      "website": "https://www.townofbroadus.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59062",
+        "59314",
+        "59317",
+        "59343",
+        "59348",
+        "593XX"
+      ]
+    },
+    {
+      "name": "EKALAKA PUBLIC LIBRARY",
+      "system": "EKALAKA PUBLIC LIBRARY",
+      "address": "105 N MAIN ST, EKALAKA, MT",
+      "website": "https://ekalaka.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59311",
+        "59324",
+        "59332"
+      ]
+    },
+    {
+      "name": "ROSEBUD COUNTY LIBRARY",
+      "system": "ROSEBUD COUNTY LIBRARY",
+      "address": "201 NORTH 9TH AVENUE, FORSYTH, MT",
+      "website": "https://rosebudcountymt.gov/departments/library-rosebud-county-library-forsyth/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59003",
+        "59012",
+        "59039",
+        "59043",
+        "59323",
+        "59327",
+        "59333",
+        "59347"
+      ]
+    },
+    {
+      "name": "GLENDIVE PUBLIC LIBRARY",
+      "system": "GLENDIVE PUBLIC LIBRARY",
+      "address": "200 SOUTH KENDRICK, GLENDIVE, MT",
+      "website": "https://www.glendivelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59259",
+        "59315",
+        "59330",
+        "59339"
+      ]
+    },
+    {
+      "name": "MILES CITY PUBLIC LIBRARY",
+      "system": "MILES CITY PUBLIC LIBRARY",
+      "address": "ONE SOUTH TENTH STREET, MILES CITY, MT",
+      "website": "https://www.milescitypubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59301",
+        "59336",
+        "59338",
+        "59351"
       ]
     },
     {

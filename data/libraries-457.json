@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "WASHINGTON COUNTY PUBLIC LIBRARY",
-      "system": "WASHINGTON COUNTY PUBLIC LIBRARY",
-      "address": "615 FIFTH ST., MARIETTA, OH",
-      "website": "https://www.wcplib.info/marietta-branch",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "45750"
-      ]
-    },
-    {
       "name": "ATHENS COUNTY PUBLIC LIBRARIES",
       "system": "ATHENS COUNTY PUBLIC LIBRARIES",
       "address": "95 W. WASHINGTON, NELSONVILLE, OH",
@@ -19,7 +8,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45764"
+        "45701",
+        "45710",
+        "45711",
+        "45716",
+        "45719",
+        "45723",
+        "45732",
+        "45735",
+        "45740",
+        "45761",
+        "45764",
+        "45766",
+        "45778",
+        "45780",
+        "45782",
+        "457HH"
       ]
     },
     {
@@ -30,7 +34,50 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45769"
+        "45741",
+        "45743",
+        "45760",
+        "45769",
+        "45770",
+        "45771",
+        "45772",
+        "45775",
+        "45776",
+        "45779"
+      ]
+    },
+    {
+      "name": "CALDWELL PUBLIC LIBRARY",
+      "system": "CALDWELL PUBLIC LIBRARY",
+      "address": "120 S. MAIN ST., CALDWELL, KS",
+      "website": "https://caldwell.lib.oh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43717",
+        "43724",
+        "43779",
+        "43788",
+        "45727",
+        "67022"
+      ]
+    },
+    {
+      "name": "MONROE COUNTY DISTRICT LIBRARY",
+      "system": "MONROE COUNTY DISTRICT LIBRARY",
+      "address": "96 HOME AVE., WOODSFIELD, OH",
+      "website": "https://www.monroecounty.lib.oh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43716",
+        "43747",
+        "43754",
+        "43793",
+        "43914",
+        "43915",
+        "43946",
+        "45734"
       ]
     }
   ]

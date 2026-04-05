@@ -8,7 +8,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "39701"
+        "39701",
+        "39702",
+        "39704",
+        "39705",
+        "39736",
+        "39740",
+        "39743",
+        "39766",
+        "397HH"
       ]
     },
     {
@@ -19,7 +27,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "39759"
+        "39759",
+        "39762",
+        "39769"
       ]
     },
     {
@@ -30,6 +40,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "39741",
+        "39755",
+        "39756",
         "39773"
       ]
     },
@@ -41,7 +54,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "39735"
+        "39735",
+        "39745",
+        "39772"
+      ]
+    },
+    {
+      "name": "NOXUBEE COUNTY LIBRARY",
+      "system": "NOXUBEE COUNTY LIBRARY",
+      "address": "145 DR. MARTIN LUTHER KING JR. DRIV, MACON, MS",
+      "website": "https://www.noxubee.lib.ms.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "39341",
+        "39361",
+        "39739"
       ]
     }
   ]

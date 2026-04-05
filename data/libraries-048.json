@@ -1,58 +1,21 @@
 {
   "libraries": [
     {
-      "name": "CAMDEN PUBLIC LIBRARY",
-      "system": "CAMDEN PUBLIC LIBRARY",
-      "address": "55 MAIN STREET, CAMDEN, ME",
-      "website": "https://www.librarycamden.org/",
+      "name": "REVERE MEMORIAL LIBRARY",
+      "system": "REVERE MEMORIAL LIBRARY",
+      "address": "416 MAIN STREET, ISLE-AU-HAUT, ME",
+      "website": "http://www.revere.lib.me.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04843"
-      ]
-    },
-    {
-      "name": "ALICE L. PENDLETON LIBRARY",
-      "system": "ALICE L. PENDLETON LIBRARY",
-      "address": "309 MAIN ROAD, ISLESBORO, ME",
-      "website": "https://www.alplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04848"
-      ]
-    },
-    {
-      "name": "ROCKLAND PUBLIC LIBRARY",
-      "system": "ROCKLAND PUBLIC LIBRARY",
-      "address": "80 UNION ST., ROCKLAND, ME",
-      "website": "http://www.rocklandlibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04841"
-      ]
-    },
-    {
-      "name": "ROCKPORT PUBLIC LIBRARY",
-      "system": "ROCKPORT PUBLIC LIBRARY",
-      "address": "1 LIMEROCK STREET, ROCKPORT, ME",
-      "website": "https://www.rockportlibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04856"
-      ]
-    },
-    {
-      "name": "JACKSON MEMORIAL LIBRARY",
-      "system": "JACKSON MEMORIAL LIBRARY",
-      "address": "71 MAIN STREET, TENANTS HARBOR, ME",
-      "website": "https://www.jacksonmemoriallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04860"
+        "045HH",
+        "04645",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "048HH"
       ]
     },
     {
@@ -63,7 +26,103 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04861"
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "04861",
+        "048HH"
+      ]
+    },
+    {
+      "name": "ROCKPORT PUBLIC LIBRARY",
+      "system": "ROCKPORT PUBLIC LIBRARY",
+      "address": "1 LIMEROCK STREET, ROCKPORT, ME",
+      "website": "https://www.rockportlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04856",
+        "04857",
+        "04859",
+        "048HH"
+      ]
+    },
+    {
+      "name": "CAMDEN PUBLIC LIBRARY",
+      "system": "CAMDEN PUBLIC LIBRARY",
+      "address": "55 MAIN STREET, CAMDEN, ME",
+      "website": "https://www.librarycamden.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04843",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "048HH"
+      ]
+    },
+    {
+      "name": "ALICE L. PENDLETON LIBRARY",
+      "system": "ALICE L. PENDLETON LIBRARY",
+      "address": "309 MAIN ROAD, ISLESBORO, ME",
+      "website": "https://www.alplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04848",
+        "04921",
+        "04922",
+        "04941",
+        "04952",
+        "04986",
+        "04987"
+      ]
+    },
+    {
+      "name": "ROCKLAND PUBLIC LIBRARY",
+      "system": "ROCKLAND PUBLIC LIBRARY",
+      "address": "80 UNION ST., ROCKLAND, ME",
+      "website": "http://www.rocklandlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04841",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "048HH"
+      ]
+    },
+    {
+      "name": "JACKSON MEMORIAL LIBRARY",
+      "system": "JACKSON MEMORIAL LIBRARY",
+      "address": "71 MAIN STREET, TENANTS HARBOR, ME",
+      "website": "https://www.jacksonmemoriallibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "04860",
+        "048HH"
       ]
     },
     {
@@ -74,7 +133,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04862"
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "04862",
+        "048HH"
       ]
     },
     {
@@ -85,7 +151,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04863"
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "04863",
+        "048HH"
       ]
     },
     {
@@ -96,7 +169,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04853"
+        "045HH",
+        "04847",
+        "04851",
+        "04853",
+        "04854",
+        "04857",
+        "04859",
+        "048HH"
       ]
     },
     {
@@ -107,7 +187,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04862"
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "04862",
+        "048HH"
       ]
     },
     {
@@ -118,18 +205,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04864"
-      ]
-    },
-    {
-      "name": "HOPE LIBRARY",
-      "system": "HOPE LIBRARY",
-      "address": "443 CAMDEN ROAD, HOPE, ME",
-      "website": "https://hopelibrary.me/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04847"
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "04864",
+        "048HH"
       ]
     },
     {
@@ -140,6 +223,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573",
         "04852"
       ]
     },
@@ -151,7 +246,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04858"
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04858",
+        "04859",
+        "048HH"
       ]
     },
     {
@@ -162,7 +264,49 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04849"
+        "04849",
+        "04921",
+        "04922",
+        "04941",
+        "04952",
+        "04986",
+        "04987"
+      ]
+    },
+    {
+      "name": "FRIENDSHIP PUBLIC LIBRARY",
+      "system": "FRIENDSHIP PUBLIC LIBRARY",
+      "address": "3 MAIN STREET, FRIENDSHIP, ME",
+      "website": "https://www.friendshiplibrary.me/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04547",
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "048HH"
+      ]
+    },
+    {
+      "name": "GIBBS LIBRARY",
+      "system": "GIBBS LIBRARY",
+      "address": "40 OLD UNION ROAD, WASHINGTON, ME",
+      "website": "https://gibbslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04574",
+        "045HH",
+        "04847",
+        "04851",
+        "04854",
+        "04857",
+        "04859",
+        "048HH"
       ]
     }
   ]

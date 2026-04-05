@@ -1,6 +1,24 @@
 {
   "libraries": [
     {
+      "name": "CHOUTEAU COUNTY LIBRARY",
+      "system": "CHOUTEAU COUNTY LIBRARY",
+      "address": "1518 MAIN, FORT BENTON, MT",
+      "website": "https://www.chouteaucountylibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59420",
+        "59440",
+        "59442",
+        "59446",
+        "59450",
+        "59460",
+        "59520",
+        "595HH"
+      ]
+    },
+    {
       "name": "LIBERTY COUNTY LIBRARY",
       "system": "LIBERTY COUNTY LIBRARY",
       "address": "110 EAST 1ST STREET, CHESTER, MT",
@@ -8,7 +26,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59522"
+        "59444",
+        "59522",
+        "59531",
+        "59545"
       ]
     },
     {
@@ -19,7 +40,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59523"
+        "59523",
+        "59527",
+        "59529",
+        "59535",
+        "59542",
+        "59547"
       ]
     },
     {
@@ -30,7 +56,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59526"
+        "59526",
+        "59527",
+        "59529",
+        "59535",
+        "59542",
+        "59547"
       ]
     },
     {
@@ -41,7 +72,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59501"
+        "59501",
+        "59521",
+        "59525",
+        "59528",
+        "59530",
+        "59532",
+        "59540"
       ]
     },
     {
@@ -52,7 +89,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59538"
+        "59261",
+        "59524",
+        "59537",
+        "59538",
+        "59544",
+        "59546"
       ]
     }
   ]

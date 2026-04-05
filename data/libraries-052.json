@@ -1,6 +1,23 @@
 {
   "libraries": [
     {
+      "name": "R.K. KITTAY PUBLIC",
+      "system": "R.K. KITTAY PUBLIC",
+      "address": "2827 RTE. 153, W. RUPERT, VT",
+      "website": "https://www.rupertkittaylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05152",
+        "05252",
+        "05253",
+        "05254",
+        "05260",
+        "05262",
+        "05776"
+      ]
+    },
+    {
       "name": "MARTHA CANFIELD MEMORIAL",
       "system": "MARTHA CANFIELD MEMORIAL",
       "address": "528 E. ARLINGTON RD., ARLINGTON, VT",
@@ -8,7 +25,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05250"
+        "05152",
+        "05250",
+        "05252",
+        "05253",
+        "05254",
+        "05260",
+        "05262"
       ]
     },
     {
@@ -19,7 +42,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05201"
+        "05152",
+        "05201",
+        "05252",
+        "05253",
+        "05254",
+        "05260",
+        "05262"
       ]
     },
     {
@@ -30,7 +59,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05257"
+        "05152",
+        "05252",
+        "05253",
+        "05254",
+        "05257",
+        "05260",
+        "05262"
       ]
     },
     {
@@ -41,7 +76,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05251"
+        "05152",
+        "05251",
+        "05252",
+        "05253",
+        "05254",
+        "05260",
+        "05262"
       ]
     },
     {
@@ -52,7 +93,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05255"
+        "05152",
+        "05252",
+        "05253",
+        "05254",
+        "05255",
+        "05260",
+        "05262"
       ]
     },
     {
@@ -63,7 +110,64 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05261"
+        "05152",
+        "05252",
+        "05253",
+        "05254",
+        "05260",
+        "05261",
+        "05262"
+      ]
+    },
+    {
+      "name": "READSBORO COMMUNITY",
+      "system": "READSBORO COMMUNITY",
+      "address": "301 PHELPS LA., READSBORO, VT",
+      "website": "https://readsborocommunitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05152",
+        "05252",
+        "05253",
+        "05254",
+        "05260",
+        "05262",
+        "05350"
+      ]
+    },
+    {
+      "name": "STAMFORD COMMUNITY",
+      "system": "STAMFORD COMMUNITY",
+      "address": "986 MAIN RD., STAMFORD, VT",
+      "website": "https://www.stamfordlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05152",
+        "05252",
+        "05253",
+        "05254",
+        "05260",
+        "05262",
+        "05352"
+      ]
+    },
+    {
+      "name": "WINHALL MEMORIAL",
+      "system": "WINHALL MEMORIAL",
+      "address": "2 LOWER TAYLOR HILL RD., BONDVILLE, VT",
+      "website": "https://winhallmemoriallibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05152",
+        "05252",
+        "05253",
+        "05254",
+        "05260",
+        "05262",
+        "05340"
       ]
     }
   ]

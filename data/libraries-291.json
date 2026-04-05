@@ -1,6 +1,150 @@
 {
   "libraries": [
     {
+      "name": "RICHLAND COUNTY PUBLIC LIBRARY",
+      "system": "RICHLAND COUNTY PUBLIC LIBRARY",
+      "address": "1431 ASSEMBLY STREET, COLUMBIA, SC",
+      "website": "http://www.richlandlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29016",
+        "29044",
+        "29052",
+        "29061",
+        "29063",
+        "290XX",
+        "29177",
+        "29201",
+        "29202",
+        "29203",
+        "29204",
+        "29205",
+        "29206",
+        "29207",
+        "29209",
+        "29210",
+        "29223",
+        "29229",
+        "292XX"
+      ]
+    },
+    {
+      "name": "ABBE REGIONAL LIBRARY SYSTEM",
+      "system": "ABBE REGIONAL LIBRARY SYSTEM",
+      "address": "314 CHESTERFIELD STREET SW, AIKEN, SC",
+      "website": "https://www.abbe-lib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29105",
+        "29124",
+        "29129",
+        "29137",
+        "29164",
+        "29801",
+        "29803",
+        "29805",
+        "29809",
+        "29816",
+        "29822",
+        "29828",
+        "29829",
+        "29831",
+        "29834",
+        "29841",
+        "29842",
+        "29850",
+        "29851",
+        "29856",
+        "298HH",
+        "298XX"
+      ]
+    },
+    {
+      "name": "FLORENCE COUNTY LIBRARY SYSTEM",
+      "system": "FLORENCE COUNTY LIBRARY SYSTEM",
+      "address": "509 SOUTH DARGAN STREET, FLORENCE, SC",
+      "website": "https://www.florencelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29114",
+        "29161",
+        "29501",
+        "29505",
+        "29506",
+        "29530",
+        "29541",
+        "29555",
+        "29560",
+        "29583",
+        "29591"
+      ]
+    },
+    {
+      "name": "CHESTERFIELD COUNTY LIBRARY SYSTEM",
+      "system": "CHESTERFIELD COUNTY LIBRARY SYSTEM",
+      "address": "119 W. MAIN STREET, CHESTERFIELD, SC",
+      "website": "https://www.cclssc.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29101",
+        "291HH",
+        "29520",
+        "29584",
+        "295HH",
+        "29709",
+        "29718",
+        "29727",
+        "29728",
+        "29741"
+      ]
+    },
+    {
+      "name": "KERSHAW COUNTY LIBRARY",
+      "system": "KERSHAW COUNTY LIBRARY",
+      "address": "1304 BROAD STREET, CAMDEN, SC",
+      "website": "https://www.kershawcountylibrary.org/about/locations/camden-branch/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29009",
+        "29020",
+        "29032",
+        "29045",
+        "29074",
+        "29078",
+        "29175"
+      ]
+    },
+    {
+      "name": "LEXINGTON COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "LEXINGTON COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "5440 AUGUSTA ROAD, LEXINGTON, SC",
+      "website": "https://lexcolibrary.com/using-the-library/hours-and-locations/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29006",
+        "29033",
+        "29036",
+        "29053",
+        "29054",
+        "29070",
+        "29072",
+        "29073",
+        "29123",
+        "29160",
+        "29169",
+        "29170",
+        "29172",
+        "29212",
+        "292HH"
+      ]
+    },
+    {
       "name": "CALHOUN COUNTY LIBRARY SYSTEM",
       "system": "CALHOUN COUNTY LIBRARY SYSTEM",
       "address": "900 F.R. HUFF DRIVE, ST. MATTHEWS, SC",
@@ -8,7 +152,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29135"
+        "29030",
+        "290HH",
+        "29135",
+        "291XX"
       ]
     },
     {
@@ -19,7 +166,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29102"
+        "29001",
+        "29102",
+        "29111",
+        "29148",
+        "29162"
       ]
     },
     {
@@ -30,6 +181,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "29015",
+        "29065",
+        "29130",
+        "29132",
         "29180"
       ]
     },
@@ -41,7 +196,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29115"
+        "29018",
+        "29038",
+        "29039",
+        "29047",
+        "29048",
+        "29059",
+        "29107",
+        "29112",
+        "29113",
+        "29115",
+        "29118",
+        "29133",
+        "29142",
+        "29146",
+        "29163",
+        "29432"
       ]
     },
     {
@@ -52,7 +222,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29150"
+        "29040",
+        "29051",
+        "29062",
+        "29104",
+        "29125",
+        "29128",
+        "29150",
+        "29152",
+        "29153",
+        "29154",
+        "29168"
       ]
     },
     {
@@ -63,7 +243,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29108"
+        "29037",
+        "29075",
+        "29108",
+        "29122",
+        "29126",
+        "29127",
+        "29145",
+        "29178",
+        "29355"
       ]
     },
     {
@@ -74,7 +262,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "29138"
+        "29138",
+        "29166"
       ]
     }
   ]

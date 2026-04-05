@@ -1,6 +1,238 @@
 {
   "libraries": [
     {
+      "name": "UNION CITY PUBLIC LIBRARY",
+      "system": "UNION CITY PUBLIC LIBRARY",
+      "address": "408 NORTH COLUMBIA STREET, UNION CITY, IN",
+      "website": "https://uclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16410",
+        "16411",
+        "16412",
+        "16415",
+        "16421",
+        "16423",
+        "16426",
+        "16427",
+        "16438",
+        "16441",
+        "16442",
+        "16443",
+        "16501",
+        "16502",
+        "16503",
+        "16504",
+        "16505",
+        "16506",
+        "16508",
+        "16509",
+        "16510",
+        "16511",
+        "165HH",
+        "47390"
+      ]
+    },
+    {
+      "name": "MARGARET SHONTZ MEM LIBRARY",
+      "system": "MARGARET SHONTZ MEM LIBRARY",
+      "address": "145 SECOND ST, CONNEAUT LAKE, PA",
+      "website": "https://shontz.ccfls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16316",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "BENSON MEMORIAL LIBRARY, INC.",
+      "system": "BENSON MEMORIAL LIBRARY, INC.",
+      "address": "213 NORTH FRANKLIN ST, TITUSVILLE, PA",
+      "website": "https://bensonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16354",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "SHEFFIELD TOWNSHIP LIBRARY",
+      "system": "SHEFFIELD TOWNSHIP LIBRARY",
+      "address": "20 LEATHER ST, SHEFFIELD, PA",
+      "website": "https://www.sheffieldlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16313",
+        "16329",
+        "16340",
+        "16345",
+        "16347",
+        "16352",
+        "163XX",
+        "16402",
+        "16405",
+        "16416",
+        "16420",
+        "16436"
+      ]
+    },
+    {
+      "name": "SUGAR GROVE FREE LIBRARY",
+      "system": "SUGAR GROVE FREE LIBRARY",
+      "address": "22 HARMON ST, SUGAR GROVE, PA",
+      "website": "https://www.sgfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16313",
+        "16329",
+        "16340",
+        "16345",
+        "16350",
+        "16352",
+        "163XX",
+        "16402",
+        "16405",
+        "16416",
+        "16420",
+        "16436"
+      ]
+    },
+    {
+      "name": "TIDIOUTE LIBRARY ASSOCIATION, INC.",
+      "system": "TIDIOUTE LIBRARY ASSOCIATION, INC.",
+      "address": "197 MAIN STREET, TIDIOUTE, PA",
+      "website": "https://www.tidioutelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16313",
+        "16329",
+        "16340",
+        "16345",
+        "16351",
+        "16352",
+        "163XX",
+        "16402",
+        "16405",
+        "16416",
+        "16420",
+        "16436"
+      ]
+    },
+    {
+      "name": "WARREN LIBRARY ASSOCIATION",
+      "system": "WARREN LIBRARY ASSOCIATION",
+      "address": "205 MARKET ST, WARREN, PA",
+      "website": "https://warrenlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16313",
+        "16329",
+        "16340",
+        "16345",
+        "16352",
+        "16365",
+        "163XX",
+        "16402",
+        "16405",
+        "16416",
+        "16420",
+        "16436"
+      ]
+    },
+    {
+      "name": "YOUNGSVILLE PUBLIC LIBRARY",
+      "system": "YOUNGSVILLE PUBLIC LIBRARY",
+      "address": "100 BROAD STREET, YOUNGSVILLE, PA",
+      "website": "http://www.youngsvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16313",
+        "16329",
+        "16340",
+        "16345",
+        "16352",
+        "16371",
+        "163XX",
+        "16402",
+        "16405",
+        "16416",
+        "16420",
+        "16436"
+      ]
+    },
+    {
+      "name": "COCHRANTON AREA PUBLIC LIBRARY",
+      "system": "COCHRANTON AREA PUBLIC LIBRARY",
+      "address": "107 W PINE ST, COCHRANTON, PA",
+      "website": "https://cochranton.ccfls.org/AJAX/JSON?method=getHoursAndLocations",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16314",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "MEADVILLE PUBLIC LIBRARY",
+      "system": "MEADVILLE PUBLIC LIBRARY",
+      "address": "848 NORTH MAIN STREET, MEADVILLE, PA",
+      "website": "https://meadvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16335",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
       "name": "CAMBRIDGE SPRINGS PUB LIBRARY ASSOCIATION",
       "system": "CAMBRIDGE SPRINGS PUB LIBRARY ASSOCIATION",
       "address": "158 MCCLELLAN ST, CAMBRIDGE SPRINGS, PA",
@@ -8,7 +240,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16403"
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16403",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
       ]
     },
     {
@@ -19,7 +262,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16406"
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16404",
+        "16406",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
       ]
     },
     {
@@ -30,7 +284,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16424"
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16424",
+        "16434",
+        "16440",
+        "164HH"
       ]
     },
     {
@@ -41,7 +306,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16433"
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16433",
+        "16434",
+        "16440",
+        "164HH"
       ]
     },
     {
@@ -52,7 +328,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16401"
+        "16401",
+        "16410",
+        "16411",
+        "16412",
+        "16415",
+        "16421",
+        "16423",
+        "16426",
+        "16427",
+        "16438",
+        "16441",
+        "16442",
+        "16443",
+        "16501",
+        "16502",
+        "16503",
+        "16504",
+        "16505",
+        "16506",
+        "16508",
+        "16509",
+        "16510",
+        "16511",
+        "165HH"
       ]
     },
     {
@@ -63,7 +362,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16407"
+        "16407",
+        "16410",
+        "16411",
+        "16412",
+        "16415",
+        "16421",
+        "16423",
+        "16426",
+        "16427",
+        "16438",
+        "16441",
+        "16442",
+        "16443",
+        "16501",
+        "16502",
+        "16503",
+        "16504",
+        "16505",
+        "16506",
+        "16508",
+        "16509",
+        "16510",
+        "16511",
+        "165HH"
       ]
     },
     {
@@ -74,29 +396,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16428"
-      ]
-    },
-    {
-      "name": "UNION CITY PUBLIC LIBRARY",
-      "system": "UNION CITY PUBLIC LIBRARY",
-      "address": "2 STRANAHAN ST., UNION CITY, PA",
-      "website": "https://uclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "16438"
-      ]
-    },
-    {
-      "name": "WATERFORD PUBLIC LIBRARY",
-      "system": "WATERFORD PUBLIC LIBRARY",
-      "address": "24 SOUTH PARK ROW, WATERFORD, PA",
-      "website": "https://waterfordlibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "16441"
+        "16410",
+        "16411",
+        "16412",
+        "16415",
+        "16421",
+        "16423",
+        "16426",
+        "16427",
+        "16428",
+        "16438",
+        "16441",
+        "16442",
+        "16443",
+        "16501",
+        "16502",
+        "16503",
+        "16504",
+        "16505",
+        "16506",
+        "16508",
+        "16509",
+        "16510",
+        "16511",
+        "165HH"
       ]
     },
     {
@@ -107,7 +430,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16435"
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16435",
+        "16440",
+        "164HH"
       ]
     },
     {
@@ -118,7 +452,64 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16417"
+        "16410",
+        "16411",
+        "16412",
+        "16415",
+        "16417",
+        "16421",
+        "16423",
+        "16426",
+        "16427",
+        "16438",
+        "16441",
+        "16442",
+        "16443",
+        "16501",
+        "16502",
+        "16503",
+        "16504",
+        "16505",
+        "16506",
+        "16508",
+        "16509",
+        "16510",
+        "16511",
+        "165HH"
+      ]
+    },
+    {
+      "name": "ERIE COUNTY PUBLIC LIBRARY",
+      "system": "ERIE COUNTY PUBLIC LIBRARY",
+      "address": "160 EAST FRONT STREET, ERIE, PA",
+      "website": "https://erielibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16410",
+        "16411",
+        "16412",
+        "16415",
+        "16421",
+        "16423",
+        "16426",
+        "16427",
+        "16438",
+        "16441",
+        "16442",
+        "16443",
+        "16501",
+        "16502",
+        "16503",
+        "16504",
+        "16505",
+        "16506",
+        "16507",
+        "16508",
+        "16509",
+        "16510",
+        "16511",
+        "165HH"
       ]
     }
   ]

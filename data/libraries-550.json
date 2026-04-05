@@ -1,69 +1,69 @@
 {
   "libraries": [
     {
-      "name": "EAST CENTRAL REGIONAL LIBRARY",
-      "system": "EAST CENTRAL REGIONAL LIBRARY",
-      "address": "111 DELLWOOD ST N, CAMBRIDGE, MN",
-      "website": "https://ecrlib.org/",
+      "name": "SCOTT COUNTY LIBRARY",
+      "system": "SCOTT COUNTY LIBRARY",
+      "address": "110 W. 8TH ST., SCOTT CITY, KS",
+      "website": "https://www.sclibrary.info/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55008"
+        "55020",
+        "55352",
+        "55372",
+        "55378",
+        "55379",
+        "56011",
+        "56071",
+        "67871"
       ]
     },
     {
-      "name": "SOUTH SAINT PAUL PUBLIC LIBRARY",
-      "system": "SOUTH SAINT PAUL PUBLIC LIBRARY",
-      "address": "106 3RD AVENUE N, SOUTH ST PAUL, MN",
-      "website": "https://libraryhours.org/mn/south-st-paul/south-saint-paul-public-library/3016/",
+      "name": "KENYON PUBLIC LIBRARY",
+      "system": "KENYON PUBLIC LIBRARY",
+      "address": "709 2ND STREET, KENYON, MN",
+      "website": "http://www.kenyon.lib.mn.us",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55075"
+        "55018",
+        "55026",
+        "55027",
+        "55089",
+        "55946",
+        "55983"
       ]
     },
     {
-      "name": "BAYPORT PUBLIC LIBRARY",
-      "system": "BAYPORT PUBLIC LIBRARY",
-      "address": "582 N 4TH STREET, BAYPORT, MN",
-      "website": "https://www.bayportlibrary.org/",
+      "name": "PINE ISLAND: VAN HORN PUBLIC LIBRARY",
+      "system": "PINE ISLAND: VAN HORN PUBLIC LIBRARY",
+      "address": "115 SE 3RD STREET, PINE ISLAND, MN",
+      "website": "http://pineisland.lib.mn.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55003"
+        "55018",
+        "55026",
+        "55027",
+        "55089",
+        "55963",
+        "55983"
       ]
     },
     {
-      "name": "STILLWATER PUBLIC LIBRARY",
-      "system": "STILLWATER PUBLIC LIBRARY",
-      "address": "224 THIRD STREET NORTH, STILLWATER, MN",
-      "website": "https://stillwater.sals.edu/",
+      "name": "ZUMBROTA PUBLIC LIBRARY",
+      "system": "ZUMBROTA PUBLIC LIBRARY",
+      "address": "100 WEST AVE, ZUMBROTA, MN",
+      "website": "https://www.zumbrota.info/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55082"
-      ]
-    },
-    {
-      "name": "CANNON FALLS LIBRARY",
-      "system": "CANNON FALLS LIBRARY",
-      "address": "306 W. MILL ST., CANNON FALLS, MN",
-      "website": "https://cannonfalls.lib.mn.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "55009"
-      ]
-    },
-    {
-      "name": "FARIBAULT: BUCKHAM MEMORIAL LIBRARY",
-      "system": "FARIBAULT: BUCKHAM MEMORIAL LIBRARY",
-      "address": "11 DIVISION STREET EAST, FARIBAULT, MN",
-      "website": "https://ci.faribault.mn.us/248/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "55021"
+        "55018",
+        "55026",
+        "55027",
+        "55089",
+        "55983",
+        "55992"
       ]
     },
     {
@@ -74,7 +74,211 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55041"
+        "55041",
+        "55932",
+        "55945",
+        "55956",
+        "55957",
+        "55964",
+        "55991"
+      ]
+    },
+    {
+      "name": "ANOKA COUNTY LIBRARY",
+      "system": "ANOKA COUNTY LIBRARY",
+      "address": "707 COUNTY RD 10 NE, BLAINE, MN",
+      "website": "https://catalog.anokacountylibrary.org/Library/11/Branch",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55005",
+        "55011",
+        "55014",
+        "55070",
+        "55079",
+        "550HH",
+        "55303",
+        "55304",
+        "553HH",
+        "55432",
+        "55433",
+        "55434",
+        "55448",
+        "55449",
+        "554HH"
+      ]
+    },
+    {
+      "name": "COLUMBIA HEIGHTS PUBLIC LIBRARY",
+      "system": "COLUMBIA HEIGHTS PUBLIC LIBRARY",
+      "address": "3939 CENTRAL AVENUE NE, COLUMBIA HEIGHTS, MN",
+      "website": "https://www.columbiaheightsmn.gov/departments/library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55005",
+        "55011",
+        "55014",
+        "55070",
+        "55079",
+        "550HH",
+        "55303",
+        "55304",
+        "553HH",
+        "55421",
+        "55432",
+        "55433",
+        "55448",
+        "55449",
+        "554HH"
+      ]
+    },
+    {
+      "name": "STILLWATER PUBLIC LIBRARY",
+      "system": "STILLWATER PUBLIC LIBRARY",
+      "address": "224 THIRD STREET NORTH, STILLWATER, MN",
+      "website": "https://stillwater.sals.edu/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55082",
+        "74023",
+        "74032",
+        "74062",
+        "74074",
+        "74075"
+      ]
+    },
+    {
+      "name": "DAKOTA COUNTY LIBRARY",
+      "system": "DAKOTA COUNTY LIBRARY",
+      "address": "1340 WESCOTT ROAD, EAGAN, MN",
+      "website": "https://www.co.dakota.mn.us/libraries/HoursLocations/Wescott/Pages/default.aspx",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55010",
+        "55024",
+        "55031",
+        "55033",
+        "55044",
+        "55065",
+        "55068",
+        "55076",
+        "55077",
+        "55085",
+        "55118",
+        "55120",
+        "55121",
+        "55122",
+        "55123",
+        "55124",
+        "55150",
+        "551HH",
+        "55306",
+        "55337"
+      ]
+    },
+    {
+      "name": "EAST CENTRAL REGIONAL LIBRARY",
+      "system": "EAST CENTRAL REGIONAL LIBRARY",
+      "address": "111 DELLWOOD ST N, CAMBRIDGE, MN",
+      "website": "https://ecrlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55006",
+        "55008",
+        "55017",
+        "55040",
+        "55080"
+      ]
+    },
+    {
+      "name": "SOUTH SAINT PAUL PUBLIC LIBRARY",
+      "system": "SOUTH SAINT PAUL PUBLIC LIBRARY",
+      "address": "106 3RD AVENUE N, SOUTH ST PAUL, MN",
+      "website": "https://libraryhours.org/mn/south-st-paul/south-saint-paul-public-library/3016/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55010",
+        "55024",
+        "55031",
+        "55033",
+        "55044",
+        "55065",
+        "55068",
+        "55075",
+        "55076",
+        "55077",
+        "55085",
+        "55118",
+        "55120",
+        "55121",
+        "55122",
+        "55124",
+        "55150",
+        "551HH",
+        "55306",
+        "55337"
+      ]
+    },
+    {
+      "name": "BAYPORT PUBLIC LIBRARY",
+      "system": "BAYPORT PUBLIC LIBRARY",
+      "address": "582 N 4TH STREET, BAYPORT, MN",
+      "website": "https://www.bayportlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55001",
+        "55003",
+        "55016",
+        "55025",
+        "55038",
+        "55042",
+        "55043",
+        "55047",
+        "55055",
+        "55071",
+        "55073",
+        "55090",
+        "55115",
+        "55128",
+        "55129"
+      ]
+    },
+    {
+      "name": "CANNON FALLS LIBRARY",
+      "system": "CANNON FALLS LIBRARY",
+      "address": "306 W. MILL ST., CANNON FALLS, MN",
+      "website": "https://cannonfalls.lib.mn.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55009",
+        "55018",
+        "55026",
+        "55027",
+        "55089",
+        "55983"
+      ]
+    },
+    {
+      "name": "FARIBAULT: BUCKHAM MEMORIAL LIBRARY",
+      "system": "FARIBAULT: BUCKHAM MEMORIAL LIBRARY",
+      "address": "11 DIVISION STREET EAST, FARIBAULT, MN",
+      "website": "https://ci.faribault.mn.us/248/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55019",
+        "55021",
+        "55052",
+        "55053",
+        "55087",
+        "55088"
       ]
     },
     {
@@ -85,7 +289,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55057"
+        "55019",
+        "55052",
+        "55053",
+        "55057",
+        "55087",
+        "55088"
       ]
     },
     {
@@ -96,7 +305,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55060"
+        "55049",
+        "55060",
+        "55917",
+        "56026"
       ]
     },
     {
@@ -107,7 +319,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55066"
+        "55018",
+        "55026",
+        "55027",
+        "55066",
+        "55089",
+        "55983"
       ]
     },
     {
@@ -118,7 +335,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55084"
+        "55012",
+        "55013",
+        "55032",
+        "55045",
+        "55056",
+        "55069",
+        "55074",
+        "55084",
+        "55092"
       ]
     },
     {
@@ -129,7 +354,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55046"
+        "55019",
+        "55046",
+        "55052",
+        "55053",
+        "55087",
+        "55088"
       ]
     }
   ]

@@ -1,6 +1,104 @@
 {
   "libraries": [
     {
+      "name": "MARATHON PUBLIC LIBRARY",
+      "system": "MARATHON PUBLIC LIBRARY",
+      "address": "106 N 3RD ST, MARATHON, TX",
+      "website": "https://www.marathon.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79831",
+        "79834",
+        "79842",
+        "79852"
+      ]
+    },
+    {
+      "name": "JEFF DAVIS COUNTY LIBRARY",
+      "system": "JEFF DAVIS COUNTY LIBRARY",
+      "address": "100 MEMORIAL SQUARE, FORT DAVIS, TX",
+      "website": "https://jeffdaviscountylibrary.ploud.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79734",
+        "79854"
+      ]
+    },
+    {
+      "name": "EL PASO PUBLIC LIBRARY",
+      "system": "EL PASO PUBLIC LIBRARY",
+      "address": "501 N OREGON ST, EL PASO, TX",
+      "website": "https://www.elpasolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79821",
+        "79835",
+        "79838",
+        "79849",
+        "79853",
+        "798XX",
+        "79901",
+        "79902",
+        "79903",
+        "79904",
+        "79905",
+        "79906",
+        "79907",
+        "79908",
+        "79912",
+        "79915",
+        "79922",
+        "79924",
+        "79925",
+        "79927",
+        "79930",
+        "79932",
+        "79934",
+        "79935",
+        "79936",
+        "79938"
+      ]
+    },
+    {
+      "name": "ILUMINA PUBLIC LIBRARY",
+      "system": "ILUMINA PUBLIC LIBRARY",
+      "address": "15371 KENTWOOD AVE, EL PASO, TX",
+      "website": "https://iluminalibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79821",
+        "79835",
+        "79838",
+        "79849",
+        "79853",
+        "798XX",
+        "79902",
+        "79903",
+        "79904",
+        "79905",
+        "79906",
+        "79907",
+        "79908",
+        "79912",
+        "79915",
+        "79922",
+        "79924",
+        "79925",
+        "79927",
+        "79928",
+        "79930",
+        "79932",
+        "79934",
+        "79935",
+        "79936",
+        "79938"
+      ]
+    },
+    {
       "name": "MARFA PUBLIC LIBRARY",
       "system": "MARFA PUBLIC LIBRARY",
       "address": "115 E OAK ST, MARFA, TX",
@@ -8,7 +106,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79843"
+        "79843",
+        "79846"
       ]
     },
     {
@@ -19,6 +118,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "78851",
         "79848"
       ]
     },
@@ -41,7 +141,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79830"
+        "79830",
+        "79831",
+        "79834",
+        "79852"
       ]
     },
     {
@@ -52,7 +155,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79845"
+        "79845",
+        "79846"
       ]
     },
     {
@@ -63,18 +167,32 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79836"
-      ]
-    },
-    {
-      "name": "MARATHON PUBLIC LIBRARY",
-      "system": "MARATHON PUBLIC LIBRARY",
-      "address": "106 N 3RD ST, MARATHON, TX",
-      "website": "https://www.marathon.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "79842"
+        "79821",
+        "79835",
+        "79836",
+        "79838",
+        "79849",
+        "79853",
+        "798XX",
+        "79902",
+        "79903",
+        "79904",
+        "79905",
+        "79906",
+        "79907",
+        "79908",
+        "79912",
+        "79915",
+        "79922",
+        "79924",
+        "79925",
+        "79927",
+        "79930",
+        "79932",
+        "79934",
+        "79935",
+        "79936",
+        "79938"
       ]
     }
   ]

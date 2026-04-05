@@ -1,6 +1,44 @@
 {
   "libraries": [
     {
+      "name": "REARDAN MEMORIAL LIBRARY",
+      "system": "REARDAN MEMORIAL LIBRARY",
+      "address": "120 S OAK, REARDAN, WA",
+      "website": "https://reardan.lib.wa.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99008",
+        "99029",
+        "99032",
+        "990HH",
+        "990XX",
+        "99103",
+        "99117",
+        "99134",
+        "99154"
+      ]
+    },
+    {
+      "name": "SPRAGUE PUBLIC LIBRARY",
+      "system": "SPRAGUE PUBLIC LIBRARY",
+      "address": "76 MAIN ST., BALTIC, CT",
+      "website": "https://sprague.biblio.org/eg/opac/home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06330",
+        "99008",
+        "99032",
+        "990HH",
+        "990XX",
+        "99103",
+        "99117",
+        "99134",
+        "99154"
+      ]
+    },
+    {
       "name": "DAVENPORT PUBLIC LIBRARY",
       "system": "DAVENPORT PUBLIC LIBRARY",
       "address": "505 7TH ST, DAVENPORT, WA",
@@ -8,18 +46,34 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99122"
+        "99008",
+        "99032",
+        "990HH",
+        "990XX",
+        "99103",
+        "99117",
+        "99122",
+        "99134",
+        "99154"
       ]
     },
     {
       "name": "HARRINGTON PUBLIC LIBRARY",
       "system": "HARRINGTON PUBLIC LIBRARY",
-      "address": "S 11 3RD STREET, HARRINGTON, WA",
+      "address": "110 CENTER STREET, HARRINGTON, DE",
       "website": "https://www.harrington.lib.wa.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99134"
+        "19952",
+        "99008",
+        "99032",
+        "990HH",
+        "990XX",
+        "99103",
+        "99117",
+        "99134",
+        "99154"
       ]
     },
     {
@@ -30,6 +84,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "99008",
+        "99032",
+        "990HH",
+        "990XX",
+        "99103",
+        "99117",
+        "99134",
+        "99154",
         "99159"
       ]
     },
@@ -41,7 +103,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99169"
+        "99105",
+        "99169",
+        "99332",
+        "99341",
+        "99344",
+        "99371"
       ]
     },
     {
@@ -52,6 +119,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "99008",
+        "99032",
+        "990HH",
+        "990XX",
+        "99103",
+        "99117",
+        "99134",
+        "99154",
         "99185"
       ]
     },
@@ -63,7 +138,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99156"
+        "99119",
+        "99139",
+        "99152",
+        "99153",
+        "99156",
+        "99180",
+        "991XX"
       ]
     },
     {
@@ -74,7 +155,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99163"
+        "99017",
+        "99033",
+        "99102",
+        "99113",
+        "99125",
+        "99128",
+        "99130",
+        "99136",
+        "99143",
+        "99149",
+        "99158",
+        "99161",
+        "99163",
+        "99170",
+        "99171",
+        "99176",
+        "99179"
       ]
     },
     {
@@ -85,7 +182,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99111"
+        "99017",
+        "99033",
+        "99102",
+        "99111",
+        "99113",
+        "99125",
+        "99128",
+        "99130",
+        "99136",
+        "99143",
+        "99149",
+        "99158",
+        "99161",
+        "99170",
+        "99171",
+        "99176",
+        "99179"
       ]
     },
     {
@@ -96,7 +209,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99148"
+        "99013",
+        "99026",
+        "99034",
+        "99040",
+        "99101",
+        "99109",
+        "99110",
+        "99114",
+        "99126",
+        "99129",
+        "99131",
+        "99137",
+        "99141",
+        "99148",
+        "99151",
+        "99157",
+        "99167",
+        "99173",
+        "99181"
       ]
     }
   ]

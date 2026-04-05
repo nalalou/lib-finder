@@ -1,6 +1,33 @@
 {
   "libraries": [
     {
+      "name": "SUMMERSVILLE PUBLIC LIBRARY",
+      "system": "SUMMERSVILLE PUBLIC LIBRARY",
+      "address": "6201 WEBSTER ROAD, SUMMERSVILLE, WV",
+      "website": "https://summersvillepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25059",
+        "26202",
+        "26610",
+        "26651",
+        "26656",
+        "26660",
+        "26662",
+        "26667",
+        "26671",
+        "26676",
+        "26678",
+        "26679",
+        "26681",
+        "26684",
+        "26690",
+        "26691",
+        "266XX"
+      ]
+    },
+    {
       "name": "UPSHUR COUNTY PUBLIC LIBRARY",
       "system": "UPSHUR COUNTY PUBLIC LIBRARY",
       "address": "1150 ROUTE 20 SOUTH ROAD, BUCKHANNON, WV",
@@ -8,7 +35,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26201"
+        "26201",
+        "26210",
+        "26218",
+        "26228",
+        "26234",
+        "26236",
+        "26237"
       ]
     },
     {
@@ -19,7 +52,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26250"
+        "26238",
+        "26250",
+        "26275",
+        "262HH",
+        "26334",
+        "26349",
+        "26405",
+        "264HH"
       ]
     },
     {
@@ -30,7 +70,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26201"
+        "26201",
+        "26210",
+        "26218",
+        "26228",
+        "26234",
+        "26236",
+        "26237"
       ]
     },
     {
@@ -41,7 +87,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26241"
+        "26230",
+        "26241",
+        "26253",
+        "26254",
+        "26257",
+        "26259",
+        "26267",
+        "26268",
+        "26273",
+        "26276",
+        "26278",
+        "26282",
+        "26283",
+        "26285",
+        "26293",
+        "26296"
       ]
     },
     {
@@ -52,7 +113,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26224"
+        "26224",
+        "26230",
+        "26253",
+        "26254",
+        "26257",
+        "26259",
+        "26267",
+        "26268",
+        "26273",
+        "26276",
+        "26278",
+        "26282",
+        "26283",
+        "26285",
+        "26293",
+        "26296"
       ]
     },
     {
@@ -63,7 +139,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26294"
+        "26230",
+        "26253",
+        "26254",
+        "26257",
+        "26259",
+        "26267",
+        "26268",
+        "26273",
+        "26276",
+        "26278",
+        "26282",
+        "26283",
+        "26285",
+        "26293",
+        "26294",
+        "26296"
       ]
     },
     {
@@ -74,7 +165,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26280"
+        "26230",
+        "26253",
+        "26254",
+        "26257",
+        "26259",
+        "26267",
+        "26268",
+        "26273",
+        "26276",
+        "26278",
+        "26280",
+        "26282",
+        "26283",
+        "26285",
+        "26293",
+        "26296"
       ]
     },
     {
@@ -85,7 +191,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26270"
+        "26230",
+        "26253",
+        "26254",
+        "26257",
+        "26259",
+        "26267",
+        "26268",
+        "26270",
+        "26273",
+        "26276",
+        "26278",
+        "26282",
+        "26283",
+        "26285",
+        "26293",
+        "26296"
       ]
     },
     {
@@ -96,7 +217,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26287"
+        "26260",
+        "26263",
+        "26269",
+        "26271",
+        "26287",
+        "26289",
+        "262XX"
       ]
     },
     {
@@ -107,7 +234,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26292"
+        "26260",
+        "26263",
+        "26269",
+        "26271",
+        "26289",
+        "26292",
+        "262XX"
       ]
     },
     {
@@ -118,7 +251,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26205"
+        "25059",
+        "26202",
+        "26205",
+        "26610",
+        "26656",
+        "26660",
+        "26662",
+        "26667",
+        "26671",
+        "26676",
+        "26678",
+        "26679",
+        "26681",
+        "26684",
+        "26690",
+        "26691",
+        "266XX"
       ]
     },
     {
@@ -129,7 +278,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26261"
+        "25059",
+        "26202",
+        "26261",
+        "26610",
+        "26656",
+        "26660",
+        "26662",
+        "26667",
+        "26671",
+        "26676",
+        "26678",
+        "26679",
+        "26681",
+        "26684",
+        "26690",
+        "26691",
+        "266XX"
       ]
     },
     {
@@ -140,7 +305,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26288"
+        "26203",
+        "26208",
+        "26215",
+        "26217",
+        "26222",
+        "26266",
+        "26288",
+        "26298"
       ]
     },
     {
@@ -151,7 +323,53 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26206"
+        "26203",
+        "26206",
+        "26208",
+        "26215",
+        "26217",
+        "26222",
+        "26266",
+        "26298"
+      ]
+    },
+    {
+      "name": "POCAHONTAS COUNTY LIBRARIES & VISITOR INFORMA",
+      "system": "POCAHONTAS COUNTY LIBRARIES & VISITOR INFORMA",
+      "address": "500 8TH STREET, MARLINTON, WV",
+      "website": "https://www.pocahontaslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24915",
+        "24920",
+        "24924",
+        "24927",
+        "24934",
+        "24944",
+        "24946",
+        "24954",
+        "26209",
+        "26264",
+        "26291"
+      ]
+    },
+    {
+      "name": "PHILIPPI PUBLIC LIBRARY",
+      "system": "PHILIPPI PUBLIC LIBRARY",
+      "address": "91 S. MAIN ST., PHILIPPI, WV",
+      "website": "https://philippi.wvlibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26238",
+        "26275",
+        "262HH",
+        "26334",
+        "26349",
+        "26405",
+        "26416",
+        "264HH"
       ]
     }
   ]

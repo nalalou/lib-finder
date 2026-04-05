@@ -8,7 +8,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75840"
+        "75838",
+        "75840",
+        "75848",
+        "75859",
+        "758HH",
+        "76693"
       ]
     },
     {
@@ -19,7 +24,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75845"
+        "75845",
+        "75856",
+        "75862",
+        "75926"
       ]
     },
     {
@@ -30,7 +38,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75801"
+        "75801",
+        "75839",
+        "75853",
+        "75861"
       ]
     },
     {
@@ -41,18 +52,31 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75860"
+        "75838",
+        "75848",
+        "75859",
+        "75860",
+        "758HH",
+        "76693"
       ]
     },
     {
       "name": "BUFFALO PUBLIC LIBRARY",
       "system": "BUFFALO PUBLIC LIBRARY",
-      "address": "1005 HILL ST, BUFFALO, TX",
+      "address": "11 E TURNER, BUFFALO, OK",
       "website": "https://buffalotex.com/departments/buffalo_public_library.php",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75831"
+        "73834",
+        "75831",
+        "75833",
+        "75846",
+        "75850",
+        "75855",
+        "77855",
+        "77865",
+        "77871"
       ]
     },
     {
@@ -63,7 +87,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75835"
+        "75835",
+        "75847",
+        "75849",
+        "75851",
+        "75858"
       ]
     },
     {
@@ -74,7 +102,38 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75844"
+        "75844",
+        "75847",
+        "75849",
+        "75851",
+        "75858"
+      ]
+    },
+    {
+      "name": "MADISON COUNTY LIBRARY",
+      "system": "MADISON COUNTY LIBRARY",
+      "address": "605 S MAY ST, MADISONVILLE, TX",
+      "website": "http://www.athenslibrary.org/madison",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75852",
+        "77864",
+        "77872"
+      ]
+    },
+    {
+      "name": "FRANKSTON DEPOT LIBRARY",
+      "system": "FRANKSTON DEPOT LIBRARY",
+      "address": "159 W RAILROAD AVE, FRANKSTON, TX",
+      "website": "https://www.frankstondepotlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75763",
+        "75839",
+        "75853",
+        "75861"
       ]
     }
   ]

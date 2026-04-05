@@ -8,18 +8,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54915"
+        "54113",
+        "54152",
+        "54911",
+        "54913",
+        "54914",
+        "54915",
+        "54922",
+        "54942"
       ]
     },
     {
       "name": "BERLIN PUBLIC LIBRARY",
       "system": "BERLIN PUBLIC LIBRARY",
-      "address": "121 W. PARK AVE., BERLIN, WI",
+      "address": "23 CARTER STREET, BERLIN, MA",
       "website": "https://www.berlinnh.gov/194/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54923"
+        "01503",
+        "53926",
+        "53947",
+        "54923",
+        "54968"
       ]
     },
     {
@@ -30,7 +41,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54929"
+        "54929",
+        "54933",
+        "54950",
+        "54961",
+        "54962"
       ]
     },
     {
@@ -41,7 +56,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54935"
+        "53019",
+        "53049",
+        "53057",
+        "53079",
+        "53931",
+        "54932",
+        "54935",
+        "54974",
+        "54979"
       ]
     },
     {
@@ -52,7 +75,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54940"
+        "54933",
+        "54940",
+        "54950",
+        "54961",
+        "54962"
       ]
     },
     {
@@ -63,7 +90,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54941"
+        "53926",
+        "53947",
+        "54923",
+        "54941",
+        "54968"
       ]
     },
     {
@@ -74,7 +105,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54943"
+        "54930",
+        "54943",
+        "54966",
+        "54976"
       ]
     },
     {
@@ -85,6 +119,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54113",
+        "54152",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942",
         "54944"
       ]
     },
@@ -96,7 +137,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54945"
+        "54933",
+        "54945",
+        "54950",
+        "54961",
+        "54962"
       ]
     },
     {
@@ -107,18 +152,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54949"
+        "54933",
+        "54949",
+        "54950",
+        "54961",
+        "54962"
       ]
     },
     {
       "name": "MARION PUBLIC LIBRARY",
       "system": "MARION PUBLIC LIBRARY",
-      "address": "120 N. MAIN ST., MARION, WI",
+      "address": "445 E. CHURCH ST., MARION, OH",
       "website": "https://marionpubliclibrary.info/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54950"
+        "43302",
+        "54933",
+        "54950",
+        "54961",
+        "54962"
       ]
     },
     {
@@ -129,7 +182,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54952"
+        "54901",
+        "54902",
+        "54904",
+        "54927",
+        "54934",
+        "54947",
+        "54952",
+        "54956",
+        "54964",
+        "54980",
+        "54985"
       ]
     },
     {
@@ -140,7 +203,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54957"
+        "54901",
+        "54902",
+        "54904",
+        "54927",
+        "54934",
+        "54947",
+        "54956",
+        "54957",
+        "54964",
+        "54980",
+        "54985"
       ]
     },
     {
@@ -151,18 +224,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53920",
+        "53952",
         "54960"
       ]
     },
     {
       "name": "NEW LONDON PUBLIC LIBRARY",
       "system": "NEW LONDON PUBLIC LIBRARY",
-      "address": "406 S. PEARL ST., NEW LONDON, WI",
+      "address": "67 S. MAIN ST., NEW LONDON, OH",
       "website": "https://newlondonlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54961"
+        "44851",
+        "54933",
+        "54950",
+        "54961",
+        "54962"
       ]
     },
     {
@@ -173,7 +252,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54937"
+        "53019",
+        "53049",
+        "53057",
+        "53079",
+        "53931",
+        "54932",
+        "54937",
+        "54974",
+        "54979"
       ]
     },
     {
@@ -184,18 +271,38 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54963"
+        "54901",
+        "54902",
+        "54904",
+        "54927",
+        "54934",
+        "54947",
+        "54956",
+        "54963",
+        "54964",
+        "54980",
+        "54985"
       ]
     },
     {
       "name": "OSHKOSH PUBLIC LIBRARY",
       "system": "OSHKOSH PUBLIC LIBRARY",
-      "address": "106 WASHINGTON AVE., OSHKOSH, WI",
+      "address": "307 WEST 1ST STREET, OSHKOSH, NE",
       "website": "https://www.oshkoshlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54901"
+        "54901",
+        "54902",
+        "54904",
+        "54927",
+        "54934",
+        "54947",
+        "54956",
+        "54964",
+        "54980",
+        "54985",
+        "69154"
       ]
     },
     {
@@ -206,18 +313,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54965"
+        "54930",
+        "54965",
+        "54966",
+        "54976"
       ]
     },
     {
       "name": "PLAINFIELD PUBLIC LIBRARY",
       "system": "PLAINFIELD PUBLIC LIBRARY",
-      "address": "126 S. MAIN ST., PLAINFIELD, WI",
+      "address": "723 MAIN ST, PLAINFIELD, IA",
       "website": "https://plainfieldlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54966"
+        "50666",
+        "54930",
+        "54966",
+        "54976"
       ]
     },
     {
@@ -228,18 +341,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54967"
-      ]
-    },
-    {
-      "name": "PRINCETON PUBLIC LIBRARY",
-      "system": "PRINCETON PUBLIC LIBRARY",
-      "address": "424 W. WATER ST., PRINCETON, WI",
-      "website": "http://www.princetonpl.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54968"
+        "54930",
+        "54966",
+        "54967",
+        "54976"
       ]
     },
     {
@@ -250,7 +355,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54970"
+        "54930",
+        "54966",
+        "54970",
+        "54976"
       ]
     },
     {
@@ -261,7 +369,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54971"
+        "53019",
+        "53049",
+        "53057",
+        "53079",
+        "53931",
+        "54932",
+        "54971",
+        "54974",
+        "54979"
       ]
     },
     {
@@ -272,6 +388,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54933",
+        "54950",
+        "54961",
+        "54962",
         "54981"
       ]
     },
@@ -283,6 +403,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54930",
+        "54966",
+        "54976",
         "54982"
       ]
     },
@@ -294,6 +417,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54933",
+        "54950",
+        "54961",
+        "54962",
         "54983"
       ]
     },
@@ -305,6 +432,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54930",
+        "54966",
+        "54976",
         "54984"
       ]
     },
@@ -316,18 +446,31 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54901",
+        "54902",
+        "54904",
+        "54927",
+        "54934",
+        "54947",
+        "54956",
+        "54964",
+        "54980",
+        "54985",
         "54986"
       ]
     },
     {
       "name": "COLOMA PUBLIC LIBRARY",
       "system": "COLOMA PUBLIC LIBRARY",
-      "address": "155 S. FRONT ST., COLOMA, WI",
+      "address": "151 WEST CENTER STREET, COLOMA, MI",
       "website": "https://colomapubliclibrary.net/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54930"
+        "49038",
+        "54930",
+        "54966",
+        "54976"
       ]
     },
     {
@@ -338,7 +481,319 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "54933",
+        "54950",
+        "54961",
+        "54962",
         "54977"
+      ]
+    },
+    {
+      "name": "LETTIE W. JENSEN PUBLIC LIBRARY",
+      "system": "LETTIE W. JENSEN PUBLIC LIBRARY",
+      "address": "278 N. MAIN ST., AMHERST, WI",
+      "website": "https://www.lwjlibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54406",
+        "54407",
+        "54423",
+        "54443",
+        "54467",
+        "54473",
+        "54909",
+        "54921"
+      ]
+    },
+    {
+      "name": "PORTAGE COUNTY PUBLIC LIBRARY",
+      "system": "PORTAGE COUNTY PUBLIC LIBRARY",
+      "address": "1001 MAIN ST., STEVENS POINT, WI",
+      "website": "https://www.pocolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54407",
+        "54423",
+        "54443",
+        "54467",
+        "54473",
+        "54481",
+        "54909",
+        "54921"
+      ]
+    },
+    {
+      "name": "BRANDON PUBLIC LIBRARY",
+      "system": "BRANDON PUBLIC LIBRARY",
+      "address": "117 E. MAIN ST., BRANDON, WI",
+      "website": "https://brandonlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53019",
+        "53049",
+        "53057",
+        "53079",
+        "53919",
+        "53931",
+        "54932",
+        "54974",
+        "54979"
+      ]
+    },
+    {
+      "name": "MILL POND PUBLIC LIBRARY",
+      "system": "MILL POND PUBLIC LIBRARY",
+      "address": "140 N. SOUTH ST., KINGSTON, WI",
+      "website": "https://millpondlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53926",
+        "53939",
+        "53947",
+        "54923",
+        "54968"
+      ]
+    },
+    {
+      "name": "MARKESAN PUBLIC LIBRARY",
+      "system": "MARKESAN PUBLIC LIBRARY",
+      "address": "75 N. BRIDGE ST., MARKESAN, WI",
+      "website": "https://markesanlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53926",
+        "53946",
+        "53947",
+        "54923",
+        "54968"
+      ]
+    },
+    {
+      "name": "BRILLION PUBLIC LIBRARY",
+      "system": "BRILLION PUBLIC LIBRARY",
+      "address": "326 N. MAIN ST., BRILLION, WI",
+      "website": "https://www.brillionwi.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53088",
+        "530HH",
+        "54110",
+        "54123",
+        "54129",
+        "54160",
+        "54169",
+        "549HH"
+      ]
+    },
+    {
+      "name": "KAUKAUNA PUBLIC LIBRARY",
+      "system": "KAUKAUNA PUBLIC LIBRARY",
+      "address": "207 THILMANY RD., SUITE 200, KAUKAUNA, WI",
+      "website": "https://kaukaunalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54113",
+        "54130",
+        "54152",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942"
+      ]
+    },
+    {
+      "name": "KIMBERLY PUBLIC LIBRARY",
+      "system": "KIMBERLY PUBLIC LIBRARY",
+      "address": "515 W. KIMBERLY AVE., KIMBERLY, WI",
+      "website": "https://kimberlypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54113",
+        "54136",
+        "54152",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942"
+      ]
+    },
+    {
+      "name": "MUEHL PUBLIC LIBRARY",
+      "system": "MUEHL PUBLIC LIBRARY",
+      "address": "436 N. MAIN ST., SEYMOUR, WI",
+      "website": "https://muehlpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54113",
+        "54152",
+        "54165",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942"
+      ]
+    },
+    {
+      "name": "SHAWANO COUNTY LIBRARY",
+      "system": "SHAWANO COUNTY LIBRARY",
+      "address": "128 S. SAWYER ST., SHAWANO, WI",
+      "website": "https://shawanolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54107",
+        "54111",
+        "54127",
+        "54128",
+        "54137",
+        "54166",
+        "54414",
+        "54416",
+        "54486",
+        "54499",
+        "54928",
+        "54948",
+        "54978"
+      ]
+    },
+    {
+      "name": "SHIOCTON PUBLIC LIBRARY",
+      "system": "SHIOCTON PUBLIC LIBRARY",
+      "address": "W7740 PINE ST., SHIOCTON, WI",
+      "website": "https://shioctonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54113",
+        "54152",
+        "54170",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942"
+      ]
+    },
+    {
+      "name": "BLACK CREEK VILLAGE LIBRARY",
+      "system": "BLACK CREEK VILLAGE LIBRARY",
+      "address": "507 S. MAPLE ST., BLACK CREEK, WI",
+      "website": "https://blackcreeklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54106",
+        "54113",
+        "54152",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942"
+      ]
+    },
+    {
+      "name": "LITTLE CHUTE PUBLIC LIBRARY",
+      "system": "LITTLE CHUTE PUBLIC LIBRARY",
+      "address": "625 GRAND AVE., LITTLE CHUTE, WI",
+      "website": "https://littlechutelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54113",
+        "54140",
+        "54152",
+        "54911",
+        "54913",
+        "54914",
+        "54922",
+        "54942"
+      ]
+    },
+    {
+      "name": "CAMPBELLSPORT PUBLIC LIBRARY",
+      "system": "CAMPBELLSPORT PUBLIC LIBRARY",
+      "address": "220 N. HELENA, CAMPBELLSPORT, WI",
+      "website": "https://campbellsportlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53010",
+        "53019",
+        "53049",
+        "53057",
+        "53079",
+        "53931",
+        "54932",
+        "54974",
+        "54979"
+      ]
+    },
+    {
+      "name": "CHILTON PUBLIC LIBRARY",
+      "system": "CHILTON PUBLIC LIBRARY",
+      "address": "221 PARK ST., CHILTON, WI",
+      "website": "https://www.chiltonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53014",
+        "53088",
+        "530HH",
+        "54123",
+        "54129",
+        "54160",
+        "54169",
+        "549HH"
+      ]
+    },
+    {
+      "name": "NEW HOLSTEIN PUBLIC LIBRARY",
+      "system": "NEW HOLSTEIN PUBLIC LIBRARY",
+      "address": "2115 WASHINGTON ST., NEW HOLSTEIN, WI",
+      "website": "https://www.newholsteinlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53061",
+        "53088",
+        "530HH",
+        "54123",
+        "54129",
+        "54160",
+        "54169",
+        "549HH"
+      ]
+    },
+    {
+      "name": "OAKFIELD PUBLIC LIBRARY",
+      "system": "OAKFIELD PUBLIC LIBRARY",
+      "address": "130 N. MAIN ST., OAKFIELD, WI",
+      "website": "https://oakfieldlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53019",
+        "53049",
+        "53057",
+        "53065",
+        "53079",
+        "53931",
+        "54932",
+        "54974",
+        "54979"
       ]
     }
   ]

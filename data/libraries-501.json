@@ -1,256 +1,18 @@
 {
   "libraries": [
     {
-      "name": "GARDEN GROVE PUBLIC LIBRARY",
-      "system": "GARDEN GROVE PUBLIC LIBRARY",
-      "address": "103 W MAIN ST, GARDEN GROVE, IA",
-      "website": "https://librarytechnology.org/library/16594",
+      "name": "BELMOND PUBLIC LIBRARY",
+      "system": "BELMOND PUBLIC LIBRARY",
+      "address": "440 E MAIN ST, BELMOND, IA",
+      "website": "https://belmondiowa.com/city/city-departments/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50103"
-      ]
-    },
-    {
-      "name": "HUMESTON PUBLIC LIBRARY",
-      "system": "HUMESTON PUBLIC LIBRARY",
-      "address": "302 BROAD ST, HUMESTON, IA",
-      "website": "https://www.humeston.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50123"
-      ]
-    },
-    {
-      "name": "LAMONI PUBLIC LIBRARY",
-      "system": "LAMONI PUBLIC LIBRARY",
-      "address": "301 W MAIN, LAMONI, IA",
-      "website": "https://www.lamonilibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50140"
-      ]
-    },
-    {
-      "name": "LEON PUBLIC LIBRARY",
-      "system": "LEON PUBLIC LIBRARY",
-      "address": "200 W 1ST ST, LEON, IA",
-      "website": "https://cityofleon.org/library-2",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50144"
-      ]
-    },
-    {
-      "name": "GRANGER PUBLIC LIBRARY",
-      "system": "GRANGER PUBLIC LIBRARY",
-      "address": "2200 WALNUT ST, GRANGER, IA",
-      "website": "https://www.grangeriowa.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50109"
-      ]
-    },
-    {
-      "name": "LINDEN PUBLIC LIBRARY",
-      "system": "LINDEN PUBLIC LIBRARY",
-      "address": "131 S MAIN ST, LINDEN, IA",
-      "website": "http://www.lindenpl.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50146"
-      ]
-    },
-    {
-      "name": "MINBURN PUBLIC LIBRARY",
-      "system": "MINBURN PUBLIC LIBRARY",
-      "address": "618 5TH ST, MINBURN, IA",
-      "website": "https://www.minburn.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50167"
-      ]
-    },
-    {
-      "name": "MAXWELL PUBLIC LIBRARY",
-      "system": "MAXWELL PUBLIC LIBRARY",
-      "address": "109 MAIN ST, MAXWELL, IA",
-      "website": "https://www.maxwell.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50161"
-      ]
-    },
-    {
-      "name": "DRAKE COMMUNITY LIBRARY",
-      "system": "DRAKE COMMUNITY LIBRARY",
-      "address": "930 PARK ST, GRINNELL, IA",
-      "website": "https://www.drakelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50112"
-      ]
-    },
-    {
-      "name": "MONTEZUMA PUBLIC LIBRARY",
-      "system": "MONTEZUMA PUBLIC LIBRARY",
-      "address": "500 E MAIN ST, MONTEZUMA, IA",
-      "website": "http://www.montezuma.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50171"
-      ]
-    },
-    {
-      "name": "MONTGOMERY MEMORIAL LIBRARY",
-      "system": "MONTGOMERY MEMORIAL LIBRARY",
-      "address": "711 MAIN ST, JEWELL, IA",
-      "website": "https://www.jewell.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50130"
-      ]
-    },
-    {
-      "name": "HUBBARD PUBLIC LIBRARY",
-      "system": "HUBBARD PUBLIC LIBRARY",
-      "address": "218 E MAPLE, HUBBARD, IA",
-      "website": "https://hubbardiowa.com/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50122"
-      ]
-    },
-    {
-      "name": "MITCHELLVILLE PUBLIC LIBRARY",
-      "system": "MITCHELLVILLE PUBLIC LIBRARY",
-      "address": "205 CENTER AVE N, MITCHELLVILLE, IA",
-      "website": "https://www.mitchellville.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50169"
-      ]
-    },
-    {
-      "name": "GRIMES PUBLIC LIBRARY",
-      "system": "GRIMES PUBLIC LIBRARY",
-      "address": "200 N JAMES ST, GRIMES, IA",
-      "website": "https://www.grimeslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50111"
-      ]
-    },
-    {
-      "name": "HUXLEY PUBLIC LIBRARY",
-      "system": "HUXLEY PUBLIC LIBRARY",
-      "address": "515 N MAIN AVE, HUXLEY, IA",
-      "website": "https://huxleyiowa.org/departments/huxley_public_library/index.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50124"
-      ]
-    },
-    {
-      "name": "MARSHALLTOWN PUBLIC LIBRARY",
-      "system": "MARSHALLTOWN PUBLIC LIBRARY",
-      "address": "105 W BOONE ST, MARSHALLTOWN, IA",
-      "website": "https://www.marshalltownlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50158"
-      ]
-    },
-    {
-      "name": "MELBOURNE PUBLIC LIBRARY",
-      "system": "MELBOURNE PUBLIC LIBRARY",
-      "address": "603 MAIN ST, MELBOURNE, IA",
-      "website": "https://www.melbourne.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50162"
-      ]
-    },
-    {
-      "name": "GILMAN PUBLIC LIBRARY",
-      "system": "GILMAN PUBLIC LIBRARY",
-      "address": "106 N MAIN, GILMAN, IA",
-      "website": "https://www.gilman.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50106"
-      ]
-    },
-    {
-      "name": "KNOXVILLE PUBLIC LIBRARY",
-      "system": "KNOXVILLE PUBLIC LIBRARY",
-      "address": "213 E MONTGOMERY ST, KNOXVILLE, IA",
-      "website": "https://www.knoxvillepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50138"
-      ]
-    },
-    {
-      "name": "MADRID PUBLIC LIBRARY",
-      "system": "MADRID PUBLIC LIBRARY",
-      "address": "100 W 3RD ST, MADRID, IA",
-      "website": "https://madridiowa.org/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50156"
-      ]
-    },
-    {
-      "name": "PIONEER HERITAGE LIBRARY",
-      "system": "PIONEER HERITAGE LIBRARY",
-      "address": "204 N VINE ST, LE GRAND, IA",
-      "website": "https://www.legrand.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50142"
-      ]
-    },
-    {
-      "name": "ROBERT W. BARLOW MEMORIAL LIBRARY",
-      "system": "ROBERT W. BARLOW MEMORIAL LIBRARY",
-      "address": "921 WASHINGTON AVE, IOWA FALLS, IA",
-      "website": "https://www.iowafallslib.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50126"
-      ]
-    },
-    {
-      "name": "JEFFERSON PUBLIC LIBRARY",
-      "system": "JEFFERSON PUBLIC LIBRARY",
-      "address": "200 W LINCOLNWAY, JEFFERSON, IA",
-      "website": "https://jeffersonwilibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50129"
+        "50101",
+        "50421",
+        "50470",
+        "50542",
+        "50599"
       ]
     },
     {
@@ -261,95 +23,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "38039",
+        "38042",
+        "38044",
+        "38061",
+        "38067",
+        "38381",
         "50107"
-      ]
-    },
-    {
-      "name": "MARY J. BARNETT MEMORIAL LIBRARY",
-      "system": "MARY J. BARNETT MEMORIAL LIBRARY",
-      "address": "400 GRAND, GUTHRIE CENTER, IA",
-      "website": "https://www.guthriecenter.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50115"
-      ]
-    },
-    {
-      "name": "JAMAICA PUBLIC LIBRARY",
-      "system": "JAMAICA PUBLIC LIBRARY",
-      "address": "316 MAIN ST, JAMAICA, IA",
-      "website": "https://www.jamaica.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50128"
-      ]
-    },
-    {
-      "name": "MENLO PUBLIC LIBRARY",
-      "system": "MENLO PUBLIC LIBRARY",
-      "address": "504 5TH ST, MENLO, IA",
-      "website": "https://www.menlo.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50164"
-      ]
-    },
-    {
-      "name": "INDIANOLA PUBLIC LIBRARY",
-      "system": "INDIANOLA PUBLIC LIBRARY",
-      "address": "207 N B ST, INDIANOLA, IA",
-      "website": "https://libraries.ne.gov/indianola/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50125"
-      ]
-    },
-    {
-      "name": "MILO PUBLIC LIBRARY",
-      "system": "MILO PUBLIC LIBRARY",
-      "address": "123 MAIN ST, MILO, IA",
-      "website": "https://www.milolibrary50166.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50166"
-      ]
-    },
-    {
-      "name": "LAUREL COMMUNITY LIBRARY",
-      "system": "LAUREL COMMUNITY LIBRARY",
-      "address": "102 N MAIN ST, LAUREL, IA",
-      "website": "https://librarytechnology.org/library/17050",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50141"
-      ]
-    },
-    {
-      "name": "LACONA PUBLIC LIBRARY",
-      "system": "LACONA PUBLIC LIBRARY",
-      "address": "107 E MAIN, LACONA, IA",
-      "website": "https://www.lacona.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50139"
-      ]
-    },
-    {
-      "name": "MONROE PUBLIC LIBRARY",
-      "system": "MONROE PUBLIC LIBRARY",
-      "address": "416 S BUCHANAN ST, MONROE, IA",
-      "website": "https://monroenh.org/monroe-town-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50170"
       ]
     },
     {
@@ -360,7 +40,607 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50174"
+        "50174",
+        "84006",
+        "84020",
+        "84044",
+        "84047",
+        "84065",
+        "84070",
+        "84084",
+        "84092",
+        "84093",
+        "84094",
+        "84095",
+        "84101",
+        "84102",
+        "84103",
+        "84104",
+        "84105",
+        "84106",
+        "84107",
+        "84108",
+        "84109",
+        "84112",
+        "84113",
+        "84115",
+        "84116",
+        "84117",
+        "84118",
+        "84119",
+        "84120",
+        "84121",
+        "84123",
+        "84124",
+        "84128",
+        "84180",
+        "841HH",
+        "841XX"
+      ]
+    },
+    {
+      "name": "JEFFERSON PUBLIC LIBRARY",
+      "system": "JEFFERSON PUBLIC LIBRARY",
+      "address": "200 W LINCOLNWAY, JEFFERSON, IA",
+      "website": "https://jeffersonwilibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50129",
+        "53036",
+        "53137",
+        "53178",
+        "531HH",
+        "53549"
+      ]
+    },
+    {
+      "name": "MATILDA J. GIBSON MEMORIAL LIBRARY",
+      "system": "MATILDA J. GIBSON MEMORIAL LIBRARY",
+      "address": "200 W HOWARD ST, CRESTON, IA",
+      "website": "https://www.creston.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50149",
+        "50254",
+        "50801",
+        "50830",
+        "50861"
+      ]
+    },
+    {
+      "name": "MOUNT AYR PUBLIC LIBRARY",
+      "system": "MOUNT AYR PUBLIC LIBRARY",
+      "address": "121 W MONROE, MOUNT AYR, IA",
+      "website": "https://www.chamberofcommerce.com/united-states/iowa/mount-ayr/public-library/2001320784-mt-ayr-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50074",
+        "50133",
+        "50835",
+        "50845",
+        "50854",
+        "50860",
+        "50863"
+      ]
+    },
+    {
+      "name": "CARNEGIE-EVANS PUBLIC LIBRARY",
+      "system": "CARNEGIE-EVANS PUBLIC LIBRARY",
+      "address": "203 E BENTON AVE, ALBIA, IA",
+      "website": "https://www.albia.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50150",
+        "52531",
+        "52569"
+      ]
+    },
+    {
+      "name": "HEDRICK PUBLIC LIBRARY",
+      "system": "HEDRICK PUBLIC LIBRARY",
+      "address": "109 N MAIN ST, HEDRICK, IA",
+      "website": "https://www.hedrick.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50104",
+        "50136",
+        "52231",
+        "52355",
+        "52550",
+        "52562",
+        "52563",
+        "52568",
+        "52576",
+        "52585"
+      ]
+    },
+    {
+      "name": "SIGOURNEY PUBLIC LIBRARY",
+      "system": "SIGOURNEY PUBLIC LIBRARY",
+      "address": "720 E JACKSON, SIGOURNEY, IA",
+      "website": "https://www.sigourney.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50104",
+        "50136",
+        "52231",
+        "52355",
+        "52550",
+        "52562",
+        "52568",
+        "52576",
+        "52585",
+        "52591"
+      ]
+    },
+    {
+      "name": "WILLIAMS PUBLIC LIBRARY",
+      "system": "WILLIAMS PUBLIC LIBRARY",
+      "address": "216 MAIN ST, WILLIAMS, IA",
+      "website": "https://www.williams.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50034",
+        "50075",
+        "50132",
+        "50231",
+        "50249",
+        "50271"
+      ]
+    },
+    {
+      "name": "KENDALL YOUNG LIBRARY",
+      "system": "KENDALL YOUNG LIBRARY",
+      "address": "1201 WILLSON AVE, WEBSTER CITY, IA",
+      "website": "https://www.kylib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50034",
+        "50075",
+        "50132",
+        "50231",
+        "50249",
+        "50595"
+      ]
+    },
+    {
+      "name": "CLARION PUBLIC LIBRARY",
+      "system": "CLARION PUBLIC LIBRARY",
+      "address": "302 N MAIN, CLARION, IA",
+      "website": "https://www.clarion.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50101",
+        "50470",
+        "50525",
+        "50542",
+        "50599"
+      ]
+    },
+    {
+      "name": "EAGLE GROVE MEMORIAL LIBRARY",
+      "system": "EAGLE GROVE MEMORIAL LIBRARY",
+      "address": "101 S CADWELL, EAGLE GROVE, IA",
+      "website": "https://search.ne211.org/search/6de6b73c-d870-59c2-8393-5fe11f4d1bb4",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50101",
+        "50470",
+        "50533",
+        "50542",
+        "50599"
+      ]
+    },
+    {
+      "name": "WILSON MEMORIAL LIBRARY",
+      "system": "WILSON MEMORIAL LIBRARY",
+      "address": "109 E WASHINGTON AVE, KEOTA, IA",
+      "website": "https://www.keota.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50104",
+        "50136",
+        "52231",
+        "52248",
+        "52355",
+        "52550",
+        "52562",
+        "52568",
+        "52576",
+        "52585"
+      ]
+    },
+    {
+      "name": "ELBERON PUBLIC LIBRARY",
+      "system": "ELBERON PUBLIC LIBRARY",
+      "address": "106 MAIN ST, ELBERON, IA",
+      "website": "https://www.elberon.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50173",
+        "50612",
+        "50652",
+        "52215",
+        "52225",
+        "52348"
+      ]
+    },
+    {
+      "name": "NORMA ANDERS PUBLIC LIBRARY",
+      "system": "NORMA ANDERS PUBLIC LIBRARY",
+      "address": "320 MAIN, DYSART, IA",
+      "website": "https://www.dysart.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50173",
+        "50612",
+        "50652",
+        "52215",
+        "52224",
+        "52348"
+      ]
+    },
+    {
+      "name": "CLUTIER PUBLIC LIBRARY",
+      "system": "CLUTIER PUBLIC LIBRARY",
+      "address": "404 MAIN, CLUTIER, IA",
+      "website": "https://www.clutier.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50173",
+        "50612",
+        "50652",
+        "52215",
+        "52217",
+        "52348"
+      ]
+    },
+    {
+      "name": "LEON PUBLIC LIBRARY",
+      "system": "LEON PUBLIC LIBRARY",
+      "address": "200 W 1ST ST, LEON, IA",
+      "website": "https://cityofleon.org/library-2",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50144",
+        "66842",
+        "67002",
+        "67012",
+        "67017",
+        "67041",
+        "67072",
+        "67074",
+        "670HH",
+        "67132",
+        "67144"
+      ]
+    },
+    {
+      "name": "WINTERSET PUBLIC LIBRARY",
+      "system": "WINTERSET PUBLIC LIBRARY",
+      "address": "123 N 2ND ST, WINTERSET, IA",
+      "website": "https://www.wintersetlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50033",
+        "50155",
+        "50218",
+        "50222",
+        "50273"
+      ]
+    },
+    {
+      "name": "BERTHA BARTLETT PUBLIC LIBRARY",
+      "system": "BERTHA BARTLETT PUBLIC LIBRARY",
+      "address": "503 BROAD ST, STORY CITY, IA",
+      "website": "https://www.storycity.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50014",
+        "50105",
+        "50134",
+        "50154",
+        "50201",
+        "50244",
+        "50248"
+      ]
+    },
+    {
+      "name": "ROLAND PUBLIC LIBRARY",
+      "system": "ROLAND PUBLIC LIBRARY",
+      "address": "221 N MAIN ST, ROLAND, IA",
+      "website": "https://www.roland.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50014",
+        "50105",
+        "50134",
+        "50154",
+        "50201",
+        "50236",
+        "50244"
+      ]
+    },
+    {
+      "name": "ZEARING PUBLIC LIBRARY",
+      "system": "ZEARING PUBLIC LIBRARY",
+      "address": "101 E MAIN ST, ZEARING, IA",
+      "website": "https://www.zearing.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50014",
+        "50105",
+        "50134",
+        "50154",
+        "50201",
+        "50244",
+        "50278"
+      ]
+    },
+    {
+      "name": "STANHOPE PUBLIC LIBRARY",
+      "system": "STANHOPE PUBLIC LIBRARY",
+      "address": "600 MAIN ST, STANHOPE, IA",
+      "website": "https://www.stanhope.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50034",
+        "50075",
+        "50132",
+        "50231",
+        "50246",
+        "50249"
+      ]
+    },
+    {
+      "name": "GUTEKUNST PUBLIC LIBRARY",
+      "system": "GUTEKUNST PUBLIC LIBRARY",
+      "address": "309 2ND ST SE, STATE CENTER, IA",
+      "website": "https://www.statecenter.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50051",
+        "50078",
+        "50120",
+        "50148",
+        "50234",
+        "50239",
+        "50247"
+      ]
+    },
+    {
+      "name": "PELLA PUBLIC LIBRARY",
+      "system": "PELLA PUBLIC LIBRARY",
+      "address": "603 MAIN ST, PELLA, IA",
+      "website": "https://www.cityofpella.com/190/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50057",
+        "50062",
+        "50116",
+        "50119",
+        "50138",
+        "50214",
+        "50219",
+        "50252",
+        "50256"
+      ]
+    },
+    {
+      "name": "NEW VIRGINIA PUBLIC LIBRARY",
+      "system": "NEW VIRGINIA PUBLIC LIBRARY",
+      "address": "504 BOOK ALLEY, NEW VIRGINIA, IA",
+      "website": "https://www.newvirginia.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50001",
+        "50061",
+        "50118",
+        "50125",
+        "50145",
+        "50160",
+        "50210",
+        "50229",
+        "50241"
+      ]
+    },
+    {
+      "name": "LEONARD A. GOOD COMMUNITY LIBRARY",
+      "system": "LEONARD A. GOOD COMMUNITY LIBRARY",
+      "address": "208 W MULBERRY ST, OGDEN, IA",
+      "website": "https://www.ogden.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50040",
+        "500HH",
+        "50152",
+        "501HH",
+        "50212",
+        "50223",
+        "502HH"
+      ]
+    },
+    {
+      "name": "RADCLIFFE PUBLIC LIBRARY",
+      "system": "RADCLIFFE PUBLIC LIBRARY",
+      "address": "210 ISABELLA, RADCLIFFE, IA",
+      "website": "https://cityofradcliffe.municipalimpact.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50102",
+        "50122",
+        "50206",
+        "50230",
+        "50269"
+      ]
+    },
+    {
+      "name": "UNION PUBLIC LIBRARY",
+      "system": "UNION PUBLIC LIBRARY",
+      "address": "406 COMMERCIAL ST, UNION, IA",
+      "website": "https://www.union.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50102",
+        "50122",
+        "50206",
+        "50258",
+        "50269"
+      ]
+    },
+    {
+      "name": "WHAT CHEER PUBLIC LIBRARY",
+      "system": "WHAT CHEER PUBLIC LIBRARY",
+      "address": "308 S BARNES ST, WHAT CHEER, IA",
+      "website": "https://www.whatcheer.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50104",
+        "50136",
+        "50268",
+        "52231",
+        "52355",
+        "52550",
+        "52562",
+        "52568",
+        "52576",
+        "52585"
+      ]
+    },
+    {
+      "name": "STILWELL PUBLIC LIBRARY",
+      "system": "STILWELL PUBLIC LIBRARY",
+      "address": "107 W MAPLE, NEW SHARON, IA",
+      "website": "https://www.newsharon.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50027",
+        "50143",
+        "50207",
+        "52534",
+        "52543",
+        "52561",
+        "52586",
+        "52595"
+      ]
+    },
+    {
+      "name": "WEBB SHADLE PUBLIC LIBRARY",
+      "system": "WEBB SHADLE PUBLIC LIBRARY",
+      "address": "301 W DALLAS, PLEASANTVILLE, IA",
+      "website": "https://www.webbshadle.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50057",
+        "50062",
+        "50116",
+        "50119",
+        "50138",
+        "50214",
+        "50225",
+        "50252",
+        "50256"
+      ]
+    },
+    {
+      "name": "NORWALK EASTER PUBLIC LIBRARY",
+      "system": "NORWALK EASTER PUBLIC LIBRARY",
+      "address": "1051 NORTH AVE, NORWALK, IA",
+      "website": "https://norwalklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50001",
+        "50061",
+        "50118",
+        "50125",
+        "50145",
+        "50160",
+        "50211",
+        "50229",
+        "50241"
+      ]
+    },
+    {
+      "name": "PRAIRIE CITY PUBLIC LIBRARY",
+      "system": "PRAIRIE CITY PUBLIC LIBRARY",
+      "address": "100 E FIFTH, PRAIRIE CITY, IA",
+      "website": "https://www.prairiecity.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50054",
+        "50135",
+        "50137",
+        "50170",
+        "50208",
+        "50228",
+        "50232"
+      ]
+    },
+    {
+      "name": "SULLY COMMUNITY LIBRARY",
+      "system": "SULLY COMMUNITY LIBRARY",
+      "address": "318 6TH AVE, SULLY, IA",
+      "website": "https://www.sully.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50054",
+        "50135",
+        "50137",
+        "50170",
+        "50208",
+        "50232",
+        "50251"
+      ]
+    },
+    {
+      "name": "LINDEN PUBLIC LIBRARY",
+      "system": "LINDEN PUBLIC LIBRARY",
+      "address": "131 S MAIN ST, LINDEN, IA",
+      "website": "http://www.lindenpl.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50146",
+        "75555",
+        "75556",
+        "75560",
+        "75562",
+        "75563",
+        "75565",
+        "75566",
+        "75572"
       ]
     },
     {
@@ -371,7 +651,732 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50131"
+        "50131",
+        "66713",
+        "66725",
+        "66770",
+        "66773",
+        "66778",
+        "66782"
+      ]
+    },
+    {
+      "name": "SOUTH ENGLISH PUBLIC LIBRARY",
+      "system": "SOUTH ENGLISH PUBLIC LIBRARY",
+      "address": "407 IVES ST, SOUTH ENGLISH, IA",
+      "website": "https://www.southenglish.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50104",
+        "50136",
+        "52231",
+        "52335",
+        "52355",
+        "52550",
+        "52562",
+        "52568",
+        "52576",
+        "52585"
+      ]
+    },
+    {
+      "name": "LOUISE & LUCILE HINK/TAMA PUBLIC LIBRARY",
+      "system": "LOUISE & LUCILE HINK/TAMA PUBLIC LIBRARY",
+      "address": "401 SIEGEL ST, TAMA, IA",
+      "website": "https://www.google.com/search?q=LOUISE+&+LUCILE+HINK/TAMA+PUBLIC+LIBRARY+TAMA+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50173",
+        "50612",
+        "50652",
+        "52215",
+        "52339",
+        "52348"
+      ]
+    },
+    {
+      "name": "ALLERTON PUBLIC LIBRARY",
+      "system": "ALLERTON PUBLIC LIBRARY",
+      "address": "103 S CENTRAL, ALLERTON, IA",
+      "website": "https://www.allertonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50008",
+        "50052",
+        "50147",
+        "50165",
+        "52583",
+        "52590"
+      ]
+    },
+    {
+      "name": "CHARITON FREE PUBLIC LIBRARY",
+      "system": "CHARITON FREE PUBLIC LIBRARY",
+      "address": "803 BRADEN AVE, CHARITON, IA",
+      "website": "https://www.chariton.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50049",
+        "50068",
+        "50151",
+        "50238",
+        "50272"
+      ]
+    },
+    {
+      "name": "KARL MILES LECOMPTE MEMORIAL LIBRARY",
+      "system": "KARL MILES LECOMPTE MEMORIAL LIBRARY",
+      "address": "110 S FRANKLIN ST, CORYDON, IA",
+      "website": "https://www.corydon.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50052",
+        "50060",
+        "50147",
+        "50165",
+        "52583",
+        "52590"
+      ]
+    },
+    {
+      "name": "EARLHAM PUBLIC LIBRARY",
+      "system": "EARLHAM PUBLIC LIBRARY",
+      "address": "120 S CHESTNUT, EARLHAM, IA",
+      "website": "https://www.earlham.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50033",
+        "50072",
+        "50155",
+        "50218",
+        "50222"
+      ]
+    },
+    {
+      "name": "AMES PUBLIC LIBRARY",
+      "system": "AMES PUBLIC LIBRARY",
+      "address": "515 DOUGLAS AVE, AMES, IA",
+      "website": "https://www.amespubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50010",
+        "50014",
+        "50105",
+        "50134",
+        "50154",
+        "50201",
+        "50244"
+      ]
+    },
+    {
+      "name": "CAMBRIDGE MEMORIAL LIBRARY",
+      "system": "CAMBRIDGE MEMORIAL LIBRARY",
+      "address": "225 WATER ST, CAMBRIDGE, IA",
+      "website": "https://www.cambridge.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50014",
+        "50046",
+        "50105",
+        "50134",
+        "50154",
+        "50201",
+        "50244"
+      ]
+    },
+    {
+      "name": "COLLINS PUBLIC LIBRARY",
+      "system": "COLLINS PUBLIC LIBRARY",
+      "address": "212 MAIN ST, COLLINS, IA",
+      "website": "https://www.collins.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50014",
+        "50055",
+        "50105",
+        "50134",
+        "50154",
+        "50201",
+        "50244"
+      ]
+    },
+    {
+      "name": "COLO PUBLIC LIBRARY",
+      "system": "COLO PUBLIC LIBRARY",
+      "address": "309 MAIN ST, COLO, IA",
+      "website": "https://www.colo.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50014",
+        "50056",
+        "50105",
+        "50134",
+        "50154",
+        "50201",
+        "50244"
+      ]
+    },
+    {
+      "name": "DOWS COMMUNITY LIBRARY",
+      "system": "DOWS COMMUNITY LIBRARY",
+      "address": "114 W ELLSWORTH ST, DOWS, IA",
+      "website": "https://www.dows.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50071",
+        "50101",
+        "50470",
+        "50542",
+        "50599"
+      ]
+    },
+    {
+      "name": "DR. GRACE O. DOANE ALDEN PUBLIC LIBRARY",
+      "system": "DR. GRACE O. DOANE ALDEN PUBLIC LIBRARY",
+      "address": "1012 WATER ST, ALDEN, IA",
+      "website": "https://www.alden.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50006",
+        "50102",
+        "50122",
+        "50206",
+        "50269"
+      ]
+    },
+    {
+      "name": "ERICSON PUBLIC LIBRARY",
+      "system": "ERICSON PUBLIC LIBRARY",
+      "address": "702 GREENE ST, BOONE, IA",
+      "website": "https://www.boone.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50036",
+        "50040",
+        "500HH",
+        "50152",
+        "501HH",
+        "50223",
+        "502HH"
+      ]
+    },
+    {
+      "name": "ALBION MUNICIPAL LIBRARY",
+      "system": "ALBION MUNICIPAL LIBRARY",
+      "address": "400 N MAIN ST, ALBION, IA",
+      "website": "https://www.albion.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50005",
+        "50051",
+        "50078",
+        "50120",
+        "50148",
+        "50234",
+        "50239"
+      ]
+    },
+    {
+      "name": "BUSSEY COMMUNITY LIBRARY",
+      "system": "BUSSEY COMMUNITY LIBRARY",
+      "address": "401 MERRILL ST, BUSSEY, IA",
+      "website": "https://www.bussey.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50044",
+        "50057",
+        "50062",
+        "50116",
+        "50119",
+        "50138",
+        "50214",
+        "50252",
+        "50256"
+      ]
+    },
+    {
+      "name": "AUDUBON PUBLIC LIBRARY",
+      "system": "AUDUBON PUBLIC LIBRARY",
+      "address": "401 N PARK PLACE, AUDUBON, IA",
+      "website": "https://www.audubon.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50025",
+        "50042",
+        "50110",
+        "50117",
+        "51543"
+      ]
+    },
+    {
+      "name": "EXIRA PUBLIC LIBRARY",
+      "system": "EXIRA PUBLIC LIBRARY",
+      "address": "114 W WASHINGTON, EXIRA, IA",
+      "website": "https://www.exira.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50042",
+        "50076",
+        "50110",
+        "50117",
+        "51543"
+      ]
+    },
+    {
+      "name": "CARLISLE PUBLIC LIBRARY",
+      "system": "CARLISLE PUBLIC LIBRARY",
+      "address": "135 SCHOOL ST, CARLISLE, IA",
+      "website": "https://carlislepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50001",
+        "50047",
+        "50061",
+        "50118",
+        "50125",
+        "50145",
+        "50160",
+        "50229",
+        "50241"
+      ]
+    },
+    {
+      "name": "BAXTER PUBLIC LIBRARY",
+      "system": "BAXTER PUBLIC LIBRARY",
+      "address": "202 E STATE ST, BAXTER, IA",
+      "website": "https://www.baxter.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50028",
+        "50054",
+        "50135",
+        "50137",
+        "50170",
+        "50208",
+        "50232"
+      ]
+    },
+    {
+      "name": "GARDEN GROVE PUBLIC LIBRARY",
+      "system": "GARDEN GROVE PUBLIC LIBRARY",
+      "address": "103 W MAIN ST, GARDEN GROVE, IA",
+      "website": "https://librarytechnology.org/library/16594",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50065",
+        "50067",
+        "50103",
+        "50108",
+        "50262",
+        "50264"
+      ]
+    },
+    {
+      "name": "HUMESTON PUBLIC LIBRARY",
+      "system": "HUMESTON PUBLIC LIBRARY",
+      "address": "302 BROAD ST, HUMESTON, IA",
+      "website": "https://www.humeston.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50052",
+        "50123",
+        "50147",
+        "50165",
+        "52583",
+        "52590"
+      ]
+    },
+    {
+      "name": "LAMONI PUBLIC LIBRARY",
+      "system": "LAMONI PUBLIC LIBRARY",
+      "address": "301 W MAIN, LAMONI, IA",
+      "website": "https://www.lamonilibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50065",
+        "50067",
+        "50108",
+        "50140",
+        "50262",
+        "50264"
+      ]
+    },
+    {
+      "name": "GRANGER PUBLIC LIBRARY",
+      "system": "GRANGER PUBLIC LIBRARY",
+      "address": "2200 WALNUT ST, GRANGER, IA",
+      "website": "https://www.grangeriowa.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50038",
+        "50039",
+        "50066",
+        "50069",
+        "50109",
+        "50220",
+        "50276"
+      ]
+    },
+    {
+      "name": "MINBURN PUBLIC LIBRARY",
+      "system": "MINBURN PUBLIC LIBRARY",
+      "address": "618 5TH ST, MINBURN, IA",
+      "website": "https://www.minburn.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50038",
+        "50039",
+        "50066",
+        "50069",
+        "50167",
+        "50220",
+        "50276"
+      ]
+    },
+    {
+      "name": "MAXWELL PUBLIC LIBRARY",
+      "system": "MAXWELL PUBLIC LIBRARY",
+      "address": "109 MAIN ST, MAXWELL, IA",
+      "website": "https://www.maxwell.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50014",
+        "50105",
+        "50134",
+        "50154",
+        "50161",
+        "50201",
+        "50244"
+      ]
+    },
+    {
+      "name": "DRAKE COMMUNITY LIBRARY",
+      "system": "DRAKE COMMUNITY LIBRARY",
+      "address": "930 PARK ST, GRINNELL, IA",
+      "website": "https://www.drakelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50112",
+        "50157",
+        "50171",
+        "50242",
+        "52211",
+        "52221",
+        "52222",
+        "52232"
+      ]
+    },
+    {
+      "name": "MONTGOMERY MEMORIAL LIBRARY",
+      "system": "MONTGOMERY MEMORIAL LIBRARY",
+      "address": "711 MAIN ST, JEWELL, IA",
+      "website": "https://www.jewell.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50034",
+        "50075",
+        "50130",
+        "50132",
+        "50231",
+        "50249"
+      ]
+    },
+    {
+      "name": "MITCHELLVILLE PUBLIC LIBRARY",
+      "system": "MITCHELLVILLE PUBLIC LIBRARY",
+      "address": "205 CENTER AVE N, MITCHELLVILLE, IA",
+      "website": "https://www.mitchellville.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50007",
+        "50009",
+        "50021",
+        "50032",
+        "50073",
+        "50169",
+        "50243",
+        "50266",
+        "50310",
+        "50311",
+        "50312",
+        "50313",
+        "50314",
+        "50315",
+        "50316",
+        "50317",
+        "50320",
+        "50321",
+        "50323",
+        "503HH"
+      ]
+    },
+    {
+      "name": "GRIMES PUBLIC LIBRARY",
+      "system": "GRIMES PUBLIC LIBRARY",
+      "address": "200 N JAMES ST, GRIMES, IA",
+      "website": "https://www.grimeslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50007",
+        "50009",
+        "50021",
+        "50032",
+        "50073",
+        "50111",
+        "50243",
+        "50266",
+        "50310",
+        "50311",
+        "50312",
+        "50313",
+        "50314",
+        "50315",
+        "50316",
+        "50317",
+        "50320",
+        "50321",
+        "50323",
+        "503HH"
+      ]
+    },
+    {
+      "name": "HUXLEY PUBLIC LIBRARY",
+      "system": "HUXLEY PUBLIC LIBRARY",
+      "address": "515 N MAIN AVE, HUXLEY, IA",
+      "website": "https://huxleyiowa.org/departments/huxley_public_library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50014",
+        "50105",
+        "50124",
+        "50134",
+        "50154",
+        "50201",
+        "50244"
+      ]
+    },
+    {
+      "name": "MARSHALLTOWN PUBLIC LIBRARY",
+      "system": "MARSHALLTOWN PUBLIC LIBRARY",
+      "address": "105 W BOONE ST, MARSHALLTOWN, IA",
+      "website": "https://www.marshalltownlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50051",
+        "50078",
+        "50120",
+        "50148",
+        "50158",
+        "50234",
+        "50239"
+      ]
+    },
+    {
+      "name": "MELBOURNE PUBLIC LIBRARY",
+      "system": "MELBOURNE PUBLIC LIBRARY",
+      "address": "603 MAIN ST, MELBOURNE, IA",
+      "website": "https://www.melbourne.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50051",
+        "50078",
+        "50120",
+        "50148",
+        "50162",
+        "50234",
+        "50239"
+      ]
+    },
+    {
+      "name": "GILMAN PUBLIC LIBRARY",
+      "system": "GILMAN PUBLIC LIBRARY",
+      "address": "106 N MAIN, GILMAN, IA",
+      "website": "https://www.gilman.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50051",
+        "50078",
+        "50106",
+        "50120",
+        "50148",
+        "50234",
+        "50239"
+      ]
+    },
+    {
+      "name": "MADRID PUBLIC LIBRARY",
+      "system": "MADRID PUBLIC LIBRARY",
+      "address": "100 W 3RD ST, MADRID, IA",
+      "website": "https://madridiowa.org/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50040",
+        "500HH",
+        "50152",
+        "50156",
+        "501HH",
+        "50223",
+        "502HH"
+      ]
+    },
+    {
+      "name": "PIONEER HERITAGE LIBRARY",
+      "system": "PIONEER HERITAGE LIBRARY",
+      "address": "204 N VINE ST, LE GRAND, IA",
+      "website": "https://www.legrand.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50051",
+        "50078",
+        "50120",
+        "50142",
+        "50148",
+        "50234",
+        "50239"
+      ]
+    },
+    {
+      "name": "ROBERT W. BARLOW MEMORIAL LIBRARY",
+      "system": "ROBERT W. BARLOW MEMORIAL LIBRARY",
+      "address": "921 WASHINGTON AVE, IOWA FALLS, IA",
+      "website": "https://www.iowafallslib.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50102",
+        "50122",
+        "50126",
+        "50206",
+        "50269"
+      ]
+    },
+    {
+      "name": "MARY J. BARNETT MEMORIAL LIBRARY",
+      "system": "MARY J. BARNETT MEMORIAL LIBRARY",
+      "address": "400 GRAND, GUTHRIE CENTER, IA",
+      "website": "https://www.guthriecenter.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50029",
+        "50115",
+        "50277"
+      ]
+    },
+    {
+      "name": "JAMAICA PUBLIC LIBRARY",
+      "system": "JAMAICA PUBLIC LIBRARY",
+      "address": "316 MAIN ST, JAMAICA, IA",
+      "website": "https://www.jamaica.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50029",
+        "50128",
+        "50277"
+      ]
+    },
+    {
+      "name": "MENLO PUBLIC LIBRARY",
+      "system": "MENLO PUBLIC LIBRARY",
+      "address": "504 5TH ST, MENLO, IA",
+      "website": "https://www.menlo.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50029",
+        "50164",
+        "50277"
+      ]
+    },
+    {
+      "name": "MILO PUBLIC LIBRARY",
+      "system": "MILO PUBLIC LIBRARY",
+      "address": "123 MAIN ST, MILO, IA",
+      "website": "https://www.milolibrary50166.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50001",
+        "50061",
+        "50118",
+        "50125",
+        "50145",
+        "50160",
+        "50166",
+        "50229",
+        "50241"
+      ]
+    },
+    {
+      "name": "LAUREL COMMUNITY LIBRARY",
+      "system": "LAUREL COMMUNITY LIBRARY",
+      "address": "102 N MAIN ST, LAUREL, IA",
+      "website": "https://librarytechnology.org/library/17050",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50051",
+        "50078",
+        "50120",
+        "50141",
+        "50148",
+        "50234",
+        "50239"
+      ]
+    },
+    {
+      "name": "LACONA PUBLIC LIBRARY",
+      "system": "LACONA PUBLIC LIBRARY",
+      "address": "107 E MAIN, LACONA, IA",
+      "website": "https://www.lacona.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50001",
+        "50061",
+        "50118",
+        "50125",
+        "50139",
+        "50145",
+        "50160",
+        "50229",
+        "50241"
       ]
     },
     {
@@ -382,7 +1387,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50153"
+        "50054",
+        "50135",
+        "50137",
+        "50153",
+        "50170",
+        "50208",
+        "50232"
       ]
     },
     {
@@ -393,7 +1404,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50163"
+        "50057",
+        "50062",
+        "50116",
+        "50119",
+        "50138",
+        "50163",
+        "50214",
+        "50252",
+        "50256"
       ]
     },
     {
@@ -404,7 +1423,106 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50168"
+        "50054",
+        "50135",
+        "50137",
+        "50168",
+        "50170",
+        "50208",
+        "50232"
+      ]
+    },
+    {
+      "name": "ACKLEY PUBLIC LIBRARY",
+      "system": "ACKLEY PUBLIC LIBRARY",
+      "address": "401 STATE ST, ACKLEY, IA",
+      "website": "https://www.ackley.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50102",
+        "50122",
+        "50206",
+        "50269",
+        "50601"
+      ]
+    },
+    {
+      "name": "ELDORA PUBLIC LIBRARY",
+      "system": "ELDORA PUBLIC LIBRARY",
+      "address": "1202 10TH ST, ELDORA, IA",
+      "website": "https://www.eldora.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50102",
+        "50122",
+        "50206",
+        "50269",
+        "50627"
+      ]
+    },
+    {
+      "name": "STEAMBOAT ROCK PUBLIC LIBRARY",
+      "system": "STEAMBOAT ROCK PUBLIC LIBRARY",
+      "address": "511 MARKET ST, STEAMBOAT ROCK, IA",
+      "website": "https://librarytechnology.org/library/16798",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50102",
+        "50122",
+        "50206",
+        "50269",
+        "50672"
+      ]
+    },
+    {
+      "name": "GARWIN PUBLIC LIBRARY",
+      "system": "GARWIN PUBLIC LIBRARY",
+      "address": "308 4TH ST, GARWIN, IA",
+      "website": "https://www.garwin.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50173",
+        "50612",
+        "50632",
+        "50652",
+        "52215",
+        "52348"
+      ]
+    },
+    {
+      "name": "GLADBROOK PUBLIC LIBRARY",
+      "system": "GLADBROOK PUBLIC LIBRARY",
+      "address": "301 2ND ST, GLADBROOK, IA",
+      "website": "https://www.gladbrook.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50173",
+        "50612",
+        "50635",
+        "50652",
+        "52215",
+        "52348"
+      ]
+    },
+    {
+      "name": "TRAER PUBLIC LIBRARY",
+      "system": "TRAER PUBLIC LIBRARY",
+      "address": "531 2ND ST, TRAER, IA",
+      "website": "https://www.traer.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50173",
+        "50612",
+        "50652",
+        "50675",
+        "52215",
+        "52348"
       ]
     }
   ]

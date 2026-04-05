@@ -8,7 +8,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71857"
+        "71722",
+        "71835",
+        "71857",
+        "71858"
       ]
     },
     {
@@ -19,7 +22,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71845"
+        "71826",
+        "71827",
+        "71845",
+        "71860"
       ]
     },
     {
@@ -30,7 +36,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71801"
+        "71801",
+        "71825",
+        "71838",
+        "71847",
+        "71855",
+        "71862",
+        "718HH"
       ]
     },
     {
@@ -41,7 +53,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71832"
+        "71823",
+        "71832",
+        "71841",
+        "71842",
+        "71846"
+      ]
+    },
+    {
+      "name": "COLUMBIA COUNTY LIBRARY",
+      "system": "COLUMBIA COUNTY LIBRARY",
+      "address": "2057 NORTH JACKSON, MAGNOLIA, AR",
+      "website": "https://library.arkansas.gov/facilities/columbia-county-library-hq/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71740",
+        "71752",
+        "71753",
+        "71770",
+        "71861"
       ]
     }
   ]

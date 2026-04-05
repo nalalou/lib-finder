@@ -8,7 +8,82 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "89301"
+        "89301",
+        "89311",
+        "89317",
+        "89318",
+        "893HH",
+        "893XX"
+      ]
+    },
+    {
+      "name": "AMARGOSA VALLEY LIBRARY DISTRICT",
+      "system": "AMARGOSA VALLEY LIBRARY DISTRICT",
+      "address": "1660 EAST AMARGOSA FARM ROAD, AMARGOSA VALLEY, NV",
+      "website": "https://www.amargosalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89020",
+        "89022",
+        "89314",
+        "89409"
+      ]
+    },
+    {
+      "name": "BEATTY LIBRARY DISTRICT",
+      "system": "BEATTY LIBRARY DISTRICT",
+      "address": "400 NORTH 4TH STREET, BEATTY, NV",
+      "website": "https://www.beattynvlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89003",
+        "89022",
+        "89314",
+        "89409"
+      ]
+    },
+    {
+      "name": "PAHRUMP COMMUNITY LIBRARY",
+      "system": "PAHRUMP COMMUNITY LIBRARY",
+      "address": "701 EAST STREET, PAHRUMP, NV",
+      "website": "https://www.pahrumplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89022",
+        "89048",
+        "89314",
+        "89409"
+      ]
+    },
+    {
+      "name": "TONOPAH LIBRARY DISTRICT",
+      "system": "TONOPAH LIBRARY DISTRICT",
+      "address": "167 S CENTRAL ST, TONOPAH, NV",
+      "website": "https://www.tonopahnevada.com/tonopahlibrary/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89022",
+        "89049",
+        "89314",
+        "89409"
+      ]
+    },
+    {
+      "name": "SMOKY VALLEY LIBRARY DISTRICT",
+      "system": "SMOKY VALLEY LIBRARY DISTRICT",
+      "address": "73 HADLEY CIRCLE, ROUND MOUNTAIN, NV",
+      "website": "https://librarytechnology.org/library/9050",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89022",
+        "89045",
+        "89314",
+        "89409"
       ]
     }
   ]

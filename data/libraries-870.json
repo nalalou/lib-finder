@@ -1,6 +1,114 @@
 {
   "libraries": [
     {
+      "name": "FARMINGTON PUBLIC LIBRARY",
+      "system": "FARMINGTON PUBLIC LIBRARY",
+      "address": "117 ACADEMY STREET, FARMINGTON, ME",
+      "website": "http://www.infoway.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04938",
+        "87037",
+        "87364",
+        "87401",
+        "87402",
+        "87412",
+        "87413",
+        "87415",
+        "87416",
+        "87417",
+        "87418",
+        "87419",
+        "87420",
+        "87421",
+        "87455",
+        "87461",
+        "874HH",
+        "874XX"
+      ]
+    },
+    {
+      "name": "ALBUQUERQUE/BERNALILLO COUNTY LIBRARY SYSTEM",
+      "system": "ALBUQUERQUE/BERNALILLO COUNTY LIBRARY SYSTEM",
+      "address": "501 COPPER AVE. NW, ALBUQUERQUE, NM",
+      "website": "https://abqlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87008",
+        "87022",
+        "87047",
+        "87059",
+        "870HH",
+        "87102",
+        "87104",
+        "87106",
+        "87107",
+        "87108",
+        "87109",
+        "87110",
+        "87111",
+        "87112",
+        "87113",
+        "87114",
+        "87116",
+        "87118",
+        "87120",
+        "87121",
+        "87122",
+        "87123"
+      ]
+    },
+    {
+      "name": "RIO RANCHO PUBLIC LIBRARY",
+      "system": "RIO RANCHO PUBLIC LIBRARY",
+      "address": "755 LOMA COLORADO BLVD., NE, RIO RANCHO, NM",
+      "website": "http://riopl.ci.rio-rancho.nm.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "87124",
+        "871XX"
+      ]
+    },
+    {
+      "name": "PUEBLO OF ISLETA PUBLIC LIBRARY",
+      "system": "PUEBLO OF ISLETA PUBLIC LIBRARY",
+      "address": "950 MOONLIGHT DR., ALBUQUERQUE, NM",
+      "website": "https://www.isletapueblo.com/tribal-programs/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87008",
+        "87022",
+        "87047",
+        "87059",
+        "870HH",
+        "87104",
+        "87105",
+        "87106",
+        "87107",
+        "87108",
+        "87109",
+        "87110",
+        "87111",
+        "87112",
+        "87113",
+        "87114",
+        "87116",
+        "87118",
+        "87120",
+        "87121",
+        "87122",
+        "87123"
+      ]
+    },
+    {
       "name": "BELEN PUBLIC LIBRARY",
       "system": "BELEN PUBLIC LIBRARY",
       "address": "333 BECKER AVENUE, BELEN, NM",
@@ -8,7 +116,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87002"
+        "87002",
+        "87023",
+        "87042",
+        "87060"
       ]
     },
     {
@@ -19,7 +130,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87004"
+        "87004",
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
       ]
     },
     {
@@ -30,7 +146,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87020"
+        "87005",
+        "87007",
+        "87014",
+        "87020",
+        "87038",
+        "87040",
+        "87049",
+        "870XX",
+        "87315",
+        "87321",
+        "87357",
+        "873XX"
       ]
     },
     {
@@ -41,7 +168,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87026"
+        "87005",
+        "87007",
+        "87014",
+        "87026",
+        "87038",
+        "87040",
+        "87049",
+        "870XX",
+        "87315",
+        "87321",
+        "87357",
+        "873XX"
       ]
     },
     {
@@ -52,7 +190,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87031"
+        "87023",
+        "87031",
+        "87042",
+        "87060"
       ]
     },
     {
@@ -63,6 +204,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "87023",
+        "87042",
+        "87060",
         "87068"
       ]
     },
@@ -74,7 +218,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87072"
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "87072",
+        "871XX"
       ]
     },
     {
@@ -85,7 +234,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87048"
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "87048",
+        "871XX"
       ]
     },
     {
@@ -96,7 +250,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87013"
+        "87013",
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
       ]
     },
     {
@@ -107,7 +266,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87016"
+        "87016",
+        "87032",
+        "87061",
+        "87063",
+        "87070",
+        "88321"
       ]
     },
     {
@@ -118,7 +282,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87025"
+        "87018",
+        "87025",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
       ]
     },
     {
@@ -129,7 +298,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87035"
+        "87032",
+        "87035",
+        "87061",
+        "87063",
+        "87070",
+        "88321"
       ]
     },
     {
@@ -140,7 +314,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87036"
+        "87032",
+        "87036",
+        "87061",
+        "87063",
+        "87070",
+        "88321"
       ]
     },
     {
@@ -151,7 +330,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87053"
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "87053",
+        "871XX"
       ]
     },
     {
@@ -162,7 +346,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87015"
+        "87010",
+        "87015",
+        "87056",
+        "87505",
+        "87535",
+        "87540",
+        "87567"
       ]
     },
     {
@@ -173,7 +363,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87004"
+        "87004",
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
       ]
     },
     {
@@ -184,7 +379,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87024"
+        "87018",
+        "87024",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
       ]
     },
     {
@@ -195,7 +395,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87083"
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "87083",
+        "871XX"
       ]
     },
     {
@@ -206,7 +411,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87034"
+        "87005",
+        "87007",
+        "87014",
+        "87034",
+        "87038",
+        "87040",
+        "87049",
+        "870XX",
+        "87315",
+        "87321",
+        "87357",
+        "873XX"
       ]
     },
     {
@@ -217,7 +433,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87004"
+        "87004",
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
       ]
     },
     {
@@ -228,7 +449,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87001"
+        "87001",
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
       ]
     },
     {
@@ -239,7 +465,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87028"
+        "87006",
+        "87011",
+        "87028",
+        "87062",
+        "87823",
+        "87828",
+        "87831",
+        "87832"
       ]
     },
     {
@@ -250,7 +483,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87052"
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "87052",
+        "871XX"
       ]
     },
     {
@@ -261,7 +499,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87043"
+        "87018",
+        "87027",
+        "87041",
+        "87043",
+        "87044",
+        "871XX"
       ]
     },
     {
@@ -272,7 +515,521 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87013"
+        "87013",
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
+      ]
+    },
+    {
+      "name": "OCTAVIA FELLIN PUBLIC LIBRARY",
+      "system": "OCTAVIA FELLIN PUBLIC LIBRARY",
+      "address": "115 WEST HILL AVENUE, GALLUP, NM",
+      "website": "https://www.gallupnm.gov/718/Home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "86504",
+        "86508",
+        "87045",
+        "87301",
+        "87305",
+        "87310",
+        "87311",
+        "87312",
+        "87313",
+        "87316",
+        "87317",
+        "87319",
+        "87320",
+        "87322",
+        "87323",
+        "87325",
+        "87326",
+        "87328",
+        "87347",
+        "87375"
+      ]
+    },
+    {
+      "name": "ZUNI PUBLIC LIBRARY",
+      "system": "ZUNI PUBLIC LIBRARY",
+      "address": "19 SAINT ANTHONY DRIVE, ZUNI, NM",
+      "website": "https://zuni.libraries.wsu.edu/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "86504",
+        "86508",
+        "87045",
+        "87305",
+        "87310",
+        "87311",
+        "87312",
+        "87313",
+        "87316",
+        "87317",
+        "87319",
+        "87320",
+        "87322",
+        "87323",
+        "87325",
+        "87326",
+        "87327",
+        "87328",
+        "87347",
+        "87375"
+      ]
+    },
+    {
+      "name": "ELEANOR DAGGETT MEMORIAL LIBRARY",
+      "system": "ELEANOR DAGGETT MEMORIAL LIBRARY",
+      "address": "1512B STATE HWY 17, CHAMA, NM",
+      "website": "https://www.villageofchama.com/eleanor-daggett-memorial-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87012",
+        "87017",
+        "87029",
+        "87064",
+        "87511",
+        "87515",
+        "87516",
+        "87518",
+        "87520",
+        "87522",
+        "87531",
+        "87533",
+        "87537",
+        "87539",
+        "87548",
+        "87549",
+        "87551",
+        "87575",
+        "87582",
+        "875HH"
+      ]
+    },
+    {
+      "name": "ESPANOLA PUBLIC LIBRARY",
+      "system": "ESPANOLA PUBLIC LIBRARY",
+      "address": "313 NORTH PASEO DE ONATE, ESPANOLA, NM",
+      "website": "http://cityofespanola.org/165/Espaola-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87012",
+        "87017",
+        "87029",
+        "87064",
+        "87511",
+        "87515",
+        "87516",
+        "87518",
+        "87522",
+        "87531",
+        "87532",
+        "87533",
+        "87537",
+        "87539",
+        "87548",
+        "87549",
+        "87551",
+        "87575",
+        "87582",
+        "875HH"
+      ]
+    },
+    {
+      "name": "SANTA FE PUBLIC LIBRARY",
+      "system": "SANTA FE PUBLIC LIBRARY",
+      "address": "145 WASHINGTON AVENUE, SANTA FE, NM",
+      "website": "https://www.santafelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87010",
+        "87056",
+        "87501",
+        "87505",
+        "87535",
+        "87540",
+        "87567"
+      ]
+    },
+    {
+      "name": "EL RITO PUBLIC LIBRARY",
+      "system": "EL RITO PUBLIC LIBRARY",
+      "address": "182 PLACITAS ROAD, EL RITO, NM",
+      "website": "http://elritolibrary.org/index.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87012",
+        "87017",
+        "87029",
+        "87064",
+        "87511",
+        "87515",
+        "87516",
+        "87518",
+        "87522",
+        "87530",
+        "87531",
+        "87533",
+        "87537",
+        "87539",
+        "87548",
+        "87549",
+        "87551",
+        "87575",
+        "87582",
+        "875HH"
+      ]
+    },
+    {
+      "name": "JICARILLA PUBLIC LIBRARY",
+      "system": "JICARILLA PUBLIC LIBRARY",
+      "address": "165 HAWKS DRIVE, DULCE, NM",
+      "website": "https://librarytechnology.org/library/21980",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87012",
+        "87017",
+        "87029",
+        "87064",
+        "87511",
+        "87515",
+        "87516",
+        "87518",
+        "87522",
+        "87528",
+        "87531",
+        "87533",
+        "87537",
+        "87539",
+        "87548",
+        "87549",
+        "87551",
+        "87575",
+        "87582",
+        "875HH"
+      ]
+    },
+    {
+      "name": "PUEBLO OF POJOAQUE PUBLIC LIBRARY",
+      "system": "PUEBLO OF POJOAQUE PUBLIC LIBRARY",
+      "address": "101 B LIGHTNING LOOP, POJOAQUE, NM",
+      "website": "http://puebloofpojoaquepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87010",
+        "87056",
+        "87505",
+        "87506",
+        "87535",
+        "87540",
+        "87567"
+      ]
+    },
+    {
+      "name": "SANTA CLARA PUEBLO COMMUNITY LIBRARY",
+      "system": "SANTA CLARA PUEBLO COMMUNITY LIBRARY",
+      "address": "578 KEE ST., ESPANOLA, NM",
+      "website": "https://santaclarapueblocommunitylibrary.specialdistrict.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87012",
+        "87017",
+        "87029",
+        "87064",
+        "87511",
+        "87515",
+        "87516",
+        "87518",
+        "87522",
+        "87531",
+        "87532",
+        "87533",
+        "87537",
+        "87539",
+        "87548",
+        "87549",
+        "87551",
+        "87575",
+        "87582",
+        "875HH"
+      ]
+    },
+    {
+      "name": "EMBUDO VALLEY LIBRARY & COMMUNITY CENTER",
+      "system": "EMBUDO VALLEY LIBRARY & COMMUNITY CENTER",
+      "address": "217A HWY 75 DIXON, DIXON, NM",
+      "website": "https://www.embudovalleylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87012",
+        "87017",
+        "87029",
+        "87064",
+        "87511",
+        "87515",
+        "87516",
+        "87518",
+        "87522",
+        "87527",
+        "87531",
+        "87533",
+        "87537",
+        "87539",
+        "87548",
+        "87549",
+        "87551",
+        "87575",
+        "87582",
+        "875HH"
+      ]
+    },
+    {
+      "name": "PUEBLO DE SAN ILDEFONSO LIBRARY",
+      "system": "PUEBLO DE SAN ILDEFONSO LIBRARY",
+      "address": "1B TUNYO PO, SAN ILDEFONSO, NM",
+      "website": "https://www.sanipueblolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87010",
+        "87056",
+        "87505",
+        "87506",
+        "87535",
+        "87540",
+        "87567"
+      ]
+    },
+    {
+      "name": "PUEBLO DE ABIQUIU LIBRARY & CULTURAL CENTER",
+      "system": "PUEBLO DE ABIQUIU LIBRARY & CULTURAL CENTER",
+      "address": "COUNTY RD. #187 BUILDING #29, ABIQUIU, NM",
+      "website": "https://www.abiquiulibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87012",
+        "87017",
+        "87029",
+        "87064",
+        "87510",
+        "87511",
+        "87515",
+        "87516",
+        "87518",
+        "87522",
+        "87531",
+        "87533",
+        "87537",
+        "87539",
+        "87548",
+        "87549",
+        "87551",
+        "87575",
+        "87582",
+        "875HH"
+      ]
+    },
+    {
+      "name": "TRUCHAS COMMUNITY LIBRARY",
+      "system": "TRUCHAS COMMUNITY LIBRARY",
+      "address": "60 COUNTY ROAD 75, TRUCHAS, NM",
+      "website": "https://www.nmrurallibraryinitiative.org/nm-rural-libraries/truchas-community-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87012",
+        "87017",
+        "87029",
+        "87064",
+        "87511",
+        "87515",
+        "87516",
+        "87518",
+        "87522",
+        "87531",
+        "87533",
+        "87537",
+        "87539",
+        "87548",
+        "87549",
+        "87551",
+        "87575",
+        "87578",
+        "87582",
+        "875HH"
+      ]
+    },
+    {
+      "name": "VISTA GRANDE PUBLIC LIBRARY",
+      "system": "VISTA GRANDE PUBLIC LIBRARY",
+      "address": "14 AVENIDA TORREON, SANTA FE, NM",
+      "website": "https://vglibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87010",
+        "87056",
+        "87505",
+        "87508",
+        "87535",
+        "87540",
+        "87567"
+      ]
+    },
+    {
+      "name": "TAYTSUGEH OWEENGEH LIBRARY",
+      "system": "TAYTSUGEH OWEENGEH LIBRARY",
+      "address": "INTERGENERATIONAL CENTER, SANTA FE, NM",
+      "website": "http://www.pueblooftesuquelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87010",
+        "87056",
+        "87505",
+        "87506",
+        "87535",
+        "87540",
+        "87567"
+      ]
+    },
+    {
+      "name": "P'OE TSAWA COMMUNITY LIBRARY",
+      "system": "P'OE TSAWA COMMUNITY LIBRARY",
+      "address": "232 POPAY AVENUE, OHKAY OWINGEH, NM",
+      "website": "http://ohkay.org/poe-tsawa-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87012",
+        "87017",
+        "87029",
+        "87064",
+        "87511",
+        "87515",
+        "87516",
+        "87518",
+        "87522",
+        "87531",
+        "87533",
+        "87537",
+        "87539",
+        "87548",
+        "87549",
+        "87551",
+        "87566",
+        "87575",
+        "87582",
+        "875HH"
+      ]
+    },
+    {
+      "name": "VALLECITOS COMMUNITY CENTER AND LIBRARY",
+      "system": "VALLECITOS COMMUNITY CENTER AND LIBRARY",
+      "address": "13 COUNTY RD. 251, VALLECITOS, NM",
+      "website": "https://www.nmrurallibraryinitiative.org/nm-rural-libraries/vallecitos-community-center-and-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87012",
+        "87017",
+        "87029",
+        "87064",
+        "87511",
+        "87515",
+        "87516",
+        "87518",
+        "87522",
+        "87531",
+        "87533",
+        "87537",
+        "87539",
+        "87548",
+        "87549",
+        "87551",
+        "87575",
+        "87581",
+        "87582",
+        "875HH"
+      ]
+    },
+    {
+      "name": "AZTEC PUBLIC LIBRARY",
+      "system": "AZTEC PUBLIC LIBRARY",
+      "address": "319 S. ASH, AZTEC, NM",
+      "website": "http://www.azteclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87037",
+        "87364",
+        "87401",
+        "87402",
+        "87410",
+        "87412",
+        "87413",
+        "87415",
+        "87416",
+        "87417",
+        "87418",
+        "87419",
+        "87420",
+        "87421",
+        "87455",
+        "87461",
+        "874HH",
+        "874XX"
+      ]
+    },
+    {
+      "name": "SOCORRO PUBLIC LIBRARY",
+      "system": "SOCORRO PUBLIC LIBRARY",
+      "address": "401 PARK STREET, SOCORRO, NM",
+      "website": "https://socorropubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87006",
+        "87011",
+        "87062",
+        "87801",
+        "87823",
+        "87828",
+        "87831",
+        "87832"
+      ]
+    },
+    {
+      "name": "MAGDALENA PUBLIC LIBRARY",
+      "system": "MAGDALENA PUBLIC LIBRARY",
+      "address": "108 N. MAIN STREET, MAGDALENA, NM",
+      "website": "https://www.magdalenapubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87006",
+        "87011",
+        "87062",
+        "87823",
+        "87825",
+        "87828",
+        "87831",
+        "87832"
       ]
     }
   ]

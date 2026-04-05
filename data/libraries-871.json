@@ -8,7 +8,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87102"
+        "87008",
+        "87022",
+        "87047",
+        "87059",
+        "870HH",
+        "87102",
+        "87104",
+        "87106",
+        "87107",
+        "87108",
+        "87109",
+        "87110",
+        "87111",
+        "87112",
+        "87113",
+        "87114",
+        "87116",
+        "87118",
+        "87120",
+        "87121",
+        "87122",
+        "87123"
       ]
     },
     {
@@ -19,7 +40,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87124"
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "87124",
+        "871XX"
       ]
     },
     {
@@ -30,7 +56,252 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87105"
+        "87008",
+        "87022",
+        "87047",
+        "87059",
+        "870HH",
+        "87104",
+        "87105",
+        "87106",
+        "87107",
+        "87108",
+        "87109",
+        "87110",
+        "87111",
+        "87112",
+        "87113",
+        "87114",
+        "87116",
+        "87118",
+        "87120",
+        "87121",
+        "87122",
+        "87123"
+      ]
+    },
+    {
+      "name": "TOWN OF BERNALILLO PUBLIC LIBRARY",
+      "system": "TOWN OF BERNALILLO PUBLIC LIBRARY",
+      "address": "124 CALLE MALINCHE, BERNALILLO, NM",
+      "website": "https://bernalillolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87004",
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
+      ]
+    },
+    {
+      "name": "PUEBLO DE COCHITI LIBRARY",
+      "system": "PUEBLO DE COCHITI LIBRARY",
+      "address": "255 COCHITI ST., COCHITI PUEBLO, NM",
+      "website": "https://librarytechnology.org/library/21972",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "87072",
+        "871XX"
+      ]
+    },
+    {
+      "name": "CORRALES COMMUNITY LIBRARY",
+      "system": "CORRALES COMMUNITY LIBRARY",
+      "address": "84 WEST LA ENTRADA ROAD, CORRALES, NM",
+      "website": "https://www.corrales-nm.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "87048",
+        "871XX"
+      ]
+    },
+    {
+      "name": "CUBA PUBLIC LIBRARY",
+      "system": "CUBA PUBLIC LIBRARY",
+      "address": "13 EAST CORDOVA AVE., CUBA, NM",
+      "website": "https://www.cubanmlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87013",
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
+      ]
+    },
+    {
+      "name": "JEMEZ SPRINGS PUBLIC LIBRARY",
+      "system": "JEMEZ SPRINGS PUBLIC LIBRARY",
+      "address": "030 JEMEZ PLAZA, HWY. 4, JEMEZ SPRINGS, NM",
+      "website": "https://jsplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87018",
+        "87025",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
+      ]
+    },
+    {
+      "name": "ZIA ENRICHMENT LIBRARY",
+      "system": "ZIA ENRICHMENT LIBRARY",
+      "address": "135 CAPITOL SQUARE DRIVE, ZIA PUEBLO, NM",
+      "website": "https://www.ziapueblo.org/zia-enrichment-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "87053",
+        "871XX"
+      ]
+    },
+    {
+      "name": "SANTA ANA PUEBLO COMMUNITY LIBRARY",
+      "system": "SANTA ANA PUEBLO COMMUNITY LIBRARY",
+      "address": "2 DOVE ROAD, SANTA ANA, NM",
+      "website": "https://www.psaedu.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87004",
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
+      ]
+    },
+    {
+      "name": "JEMEZ PUEBLO COMMUNITY LIBRARY",
+      "system": "JEMEZ PUEBLO COMMUNITY LIBRARY",
+      "address": "020 MISSION RD, JEMEZ PUEBLO, NM",
+      "website": "https://www.jemezpueblo.org/government/education/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87018",
+        "87024",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
+      ]
+    },
+    {
+      "name": "IRENE S. SWEETKIND PUBLIC LIBRARY",
+      "system": "IRENE S. SWEETKIND PUBLIC LIBRARY",
+      "address": "6515 HOOCHANEETSA BLVD., COCHITI LAKE, NM",
+      "website": "https://www.cochitilake.org/cv",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "87083",
+        "871XX"
+      ]
+    },
+    {
+      "name": "PUEBLO OF SANDIA LEARNING RESOURCE CENTER",
+      "system": "PUEBLO OF SANDIA LEARNING RESOURCE CENTER",
+      "address": "236 SANDIA DAY SCHOOL ROAD, SANDIA PUEBLO, NM",
+      "website": "http://sandiapueblolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87004",
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
+      ]
+    },
+    {
+      "name": "PUEBLO OF SAN FELIPE COMMUNITY LIBRARY",
+      "system": "PUEBLO OF SAN FELIPE COMMUNITY LIBRARY",
+      "address": "24 BLACK MESA RD, SAN FELIPE PUEBLO, NM",
+      "website": "https://librarytechnology.org/library/22006",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87001",
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
+      ]
+    },
+    {
+      "name": "SANTO DOMINGO PUEBLO LIBRARY",
+      "system": "SANTO DOMINGO PUEBLO LIBRARY",
+      "address": "TESUQUE STREET, SANTO DOMINGO PUEBLO, NM",
+      "website": "https://santodomingopueblo.com/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "87052",
+        "871XX"
+      ]
+    },
+    {
+      "name": "PLACITAS COMMUNITY LIBRARY",
+      "system": "PLACITAS COMMUNITY LIBRARY",
+      "address": "453 HWY 165, PLACITAS, NM",
+      "website": "https://placitaslibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87018",
+        "87027",
+        "87041",
+        "87043",
+        "87044",
+        "871XX"
+      ]
+    },
+    {
+      "name": "TORREON COMMUNITY LIBRARY",
+      "system": "TORREON COMMUNITY LIBRARY",
+      "address": "HWY 197 MM 26, CUBA, NM",
+      "website": "https://library.navajo-nsn.gov/Branches/Torreon-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87013",
+        "87018",
+        "87027",
+        "87041",
+        "87044",
+        "871XX"
       ]
     }
   ]

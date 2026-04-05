@@ -1,6 +1,72 @@
 {
   "libraries": [
     {
+      "name": "BOULDER COUNTY NEDERLAND COMMUNITY LIBRARY DISTRICT",
+      "system": "BOULDER COUNTY NEDERLAND COMMUNITY LIBRARY DISTRICT",
+      "address": "200 HIGHWAY 72 NORTH, NEDERLAND, CO",
+      "website": "https://nederland.colibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80303",
+        "80304",
+        "80455",
+        "80466",
+        "80481",
+        "80503",
+        "80510",
+        "80516"
+      ]
+    },
+    {
+      "name": "LONGMONT PUBLIC LIBRARY",
+      "system": "LONGMONT PUBLIC LIBRARY",
+      "address": "409 4TH AVE, LONGMONT, CO",
+      "website": "https://longmontcolorado.gov/Library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80303",
+        "80304",
+        "80455",
+        "80481",
+        "80501",
+        "80503",
+        "80510",
+        "80516"
+      ]
+    },
+    {
+      "name": "LYONS REGIONAL LIBRARY DISTRICT",
+      "system": "LYONS REGIONAL LIBRARY DISTRICT",
+      "address": "451 4TH AVENUE, LYONS, CO",
+      "website": "https://lyons.colibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80303",
+        "80304",
+        "80455",
+        "80481",
+        "80503",
+        "80510",
+        "80516",
+        "80540"
+      ]
+    },
+    {
       "name": "BOULDER PUBLIC LIBRARY",
       "system": "BOULDER PUBLIC LIBRARY",
       "address": "1001 ARAPAHOE AVENUE, BOULDER, CO",
@@ -8,7 +74,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80302"
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80302",
+        "80303",
+        "80304",
+        "80455",
+        "80481",
+        "80503",
+        "80510",
+        "80516"
       ]
     }
   ]

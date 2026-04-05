@@ -19,7 +19,77 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "22630"
+        "22610",
+        "22630",
+        "22642"
+      ]
+    },
+    {
+      "name": "RAPPAHANNOCK COUNTY LIBRARY",
+      "system": "RAPPAHANNOCK COUNTY LIBRARY",
+      "address": "4 LIBRARY ROAD, WASHINGTON, VA",
+      "website": "https://rappahannocklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22627",
+        "22640",
+        "22716",
+        "22740",
+        "22747",
+        "22749"
+      ]
+    },
+    {
+      "name": "FAUQUIER COUNTY PUBLIC LIBRARY",
+      "system": "FAUQUIER COUNTY PUBLIC LIBRARY",
+      "address": "11 WINCHESTER STREET, WARRENTON, VA",
+      "website": "https://www.fauquierlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "20115",
+        "20119",
+        "20130",
+        "20137",
+        "20138",
+        "20139",
+        "20140",
+        "20144",
+        "20184",
+        "20186",
+        "20187",
+        "20198",
+        "22639",
+        "22643",
+        "22712",
+        "22720",
+        "22728",
+        "22734",
+        "22742"
+      ]
+    },
+    {
+      "name": "SHENANDOAH COUNTY LIBRARY",
+      "system": "SHENANDOAH COUNTY LIBRARY",
+      "address": "514 STONEY CREEK BLVD., EDINBURG, VA",
+      "website": "https://countylib.org/county-library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22626",
+        "22641",
+        "22644",
+        "22652",
+        "22657",
+        "22660",
+        "22664",
+        "22810",
+        "22824",
+        "22842",
+        "22844",
+        "22845",
+        "22847"
       ]
     }
   ]

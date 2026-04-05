@@ -8,7 +8,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41101"
+        "41101",
+        "41102",
+        "41129",
+        "41168",
+        "411HH"
       ]
     },
     {
@@ -19,6 +23,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "41149",
         "41171"
       ]
     },
@@ -30,18 +35,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41144"
-      ]
-    },
-    {
-      "name": "LEWIS COUNTY PUBLIC LIBRARY",
-      "system": "LEWIS COUNTY PUBLIC LIBRARY",
-      "address": "27 THIRD STREET, VANCEBURG, KY",
-      "website": "https://librarytechnology.org/library/18570",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "41179"
+        "41121",
+        "41139",
+        "41144",
+        "41169",
+        "41174",
+        "41175",
+        "41183"
       ]
     },
     {
@@ -52,6 +52,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "41132",
+        "41142",
+        "41143",
+        "41146",
         "41164"
       ]
     }

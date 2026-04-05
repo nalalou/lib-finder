@@ -1,6 +1,128 @@
 {
   "libraries": [
     {
+      "name": "UNION CITY PUBLIC LIBRARY",
+      "system": "UNION CITY PUBLIC LIBRARY",
+      "address": "408 NORTH COLUMBIA STREET, UNION CITY, IN",
+      "website": "https://uclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16410",
+        "16411",
+        "16412",
+        "16415",
+        "16421",
+        "16423",
+        "16426",
+        "16427",
+        "16438",
+        "16441",
+        "16442",
+        "16443",
+        "16501",
+        "16502",
+        "16503",
+        "16504",
+        "16505",
+        "16506",
+        "16508",
+        "16509",
+        "16510",
+        "16511",
+        "165HH",
+        "47390"
+      ]
+    },
+    {
+      "name": "KNIGHTSTOWN PUBLIC LIBRARY",
+      "system": "KNIGHTSTOWN PUBLIC LIBRARY",
+      "address": "5 EAST MAIN STREET, KNIGHTSTOWN, IN",
+      "website": "https://knightstown.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46148",
+        "47337",
+        "47344",
+        "47351",
+        "47352",
+        "47360",
+        "47361",
+        "47384",
+        "47386",
+        "47387"
+      ]
+    },
+    {
+      "name": "YORKTOWN PUBLIC LIBRARY",
+      "system": "YORKTOWN PUBLIC LIBRARY",
+      "address": "8920 WEST ADALINE STREET, YORKTOWN, IN",
+      "website": "http://yorktownpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "47396",
+        "77974",
+        "77994",
+        "78141",
+        "78164"
+      ]
+    },
+    {
+      "name": "FAYETTE COUNTY PUBLIC LIBRARY",
+      "system": "FAYETTE COUNTY PUBLIC LIBRARY",
+      "address": "828 GRAND AVENUE, CONNERSVILLE, IN",
+      "website": "https://www.fayettelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25002",
+        "25031",
+        "25036",
+        "25040",
+        "25057",
+        "25085",
+        "25090",
+        "25115",
+        "25118",
+        "25119",
+        "25136",
+        "25139",
+        "25152",
+        "25161",
+        "25173",
+        "25186",
+        "25812",
+        "25831",
+        "25837",
+        "25840",
+        "25846",
+        "25854",
+        "25855",
+        "25862",
+        "25864",
+        "25866",
+        "25868",
+        "25879",
+        "258HH",
+        "25901",
+        "25904",
+        "25907",
+        "25917",
+        "25936",
+        "25938",
+        "25942",
+        "25976",
+        "25986",
+        "259HH",
+        "26674",
+        "26680",
+        "266HH",
+        "47331"
+      ]
+    },
+    {
       "name": "HARTFORD CITY PUBLIC LIBRARY",
       "system": "HARTFORD CITY PUBLIC LIBRARY",
       "address": "314 NORTH HIGH STREET, HARTFORD CITY, IN",
@@ -30,18 +152,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47302"
-      ]
-    },
-    {
-      "name": "FAYETTE COUNTY PUBLIC LIBRARY",
-      "system": "FAYETTE COUNTY PUBLIC LIBRARY",
-      "address": "828 GRAND AVENUE, CONNERSVILLE, IN",
-      "website": "https://www.fayettelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47331"
+        "47302",
+        "47303",
+        "47304",
+        "47305",
+        "47320",
+        "47334",
+        "47338",
+        "47342",
+        "47383",
+        "473HH"
       ]
     },
     {
@@ -52,7 +172,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47356"
+        "47337",
+        "47344",
+        "47351",
+        "47352",
+        "47356",
+        "47360",
+        "47361",
+        "47384",
+        "47386",
+        "47387"
       ]
     },
     {
@@ -63,7 +192,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47362"
+        "47337",
+        "47344",
+        "47351",
+        "47352",
+        "47360",
+        "47361",
+        "47362",
+        "47384",
+        "47386",
+        "47387"
       ]
     },
     {
@@ -74,18 +212,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47385"
-      ]
-    },
-    {
-      "name": "DUNKIRK PUBLIC LIBRARY",
-      "system": "DUNKIRK PUBLIC LIBRARY",
-      "address": "127 WEST WASHINGTON STREET, DUNKIRK, IN",
-      "website": "https://dunkirklibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47336"
+        "47337",
+        "47344",
+        "47351",
+        "47352",
+        "47360",
+        "47361",
+        "47384",
+        "47385",
+        "47386",
+        "47387"
       ]
     },
     {
@@ -96,7 +232,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47369"
+        "47326",
+        "47336",
+        "47369",
+        "47373",
+        "47381"
       ]
     },
     {
@@ -107,7 +247,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47371"
+        "47326",
+        "47336",
+        "47371",
+        "47373",
+        "47381"
       ]
     },
     {
@@ -118,7 +262,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47340"
+        "47340",
+        "47354",
+        "47358",
+        "47368",
+        "47382"
       ]
     },
     {
@@ -129,6 +277,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "47354",
+        "47358",
+        "47368",
+        "47382",
         "47394"
       ]
     },
@@ -140,7 +292,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47355"
+        "47354",
+        "47355",
+        "47358",
+        "47368",
+        "47382"
       ]
     },
     {
@@ -151,29 +307,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47380"
-      ]
-    },
-    {
-      "name": "UNION CITY PUBLIC LIBRARY",
-      "system": "UNION CITY PUBLIC LIBRARY",
-      "address": "408 NORTH COLUMBIA STREET, UNION CITY, IN",
-      "website": "https://uclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47390"
-      ]
-    },
-    {
-      "name": "UNION COUNTY PUBLIC LIBRARY",
-      "system": "UNION COUNTY PUBLIC LIBRARY",
-      "address": "2 EAST SEMINARY STREET, LIBERTY, IN",
-      "website": "https://www.mountainregionallibrary.org/union-county-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47353"
+        "47354",
+        "47358",
+        "47368",
+        "47380",
+        "47382"
       ]
     },
     {
@@ -184,18 +322,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47346"
-      ]
-    },
-    {
-      "name": "DUBLIN PUBLIC LIBRARY",
-      "system": "DUBLIN PUBLIC LIBRARY",
-      "address": "2249 EAST CUMBERLAND STREET, DUBLIN, IN",
-      "website": "https://www.dplnh.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47335"
+        "47339",
+        "47341",
+        "47345",
+        "47346",
+        "47357",
+        "47392",
+        "47393"
       ]
     },
     {
@@ -206,7 +339,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47327"
+        "47327",
+        "47339",
+        "47341",
+        "47345",
+        "47357",
+        "47392",
+        "47393"
       ]
     },
     {
@@ -217,7 +356,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47374"
+        "47339",
+        "47341",
+        "47345",
+        "47357",
+        "47374",
+        "47392",
+        "47393"
       ]
     },
     {
@@ -228,18 +373,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47330"
-      ]
-    },
-    {
-      "name": "YORKTOWN PUBLIC LIBRARY",
-      "system": "YORKTOWN PUBLIC LIBRARY",
-      "address": "8920 WEST ADALINE STREET, YORKTOWN, IN",
-      "website": "http://yorktownpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47396"
+        "47330",
+        "47339",
+        "47341",
+        "47345",
+        "47357",
+        "47392",
+        "47393"
       ]
     }
   ]

@@ -1,6 +1,23 @@
 {
   "libraries": [
     {
+      "name": "MARKS-QUITMAN COUNTY LIBRARY",
+      "system": "MARKS-QUITMAN COUNTY LIBRARY",
+      "address": "315 EAST MAIN STREET, MARKS, MS",
+      "website": "https://www.marksquitmancountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38609",
+        "38622",
+        "38623",
+        "38643",
+        "38646",
+        "38670",
+        "38964"
+      ]
+    },
+    {
       "name": "YALOBUSHA COUNTY LIBRARY",
       "system": "YALOBUSHA COUNTY LIBRARY",
       "address": "14432 MAIN STREET, COFFEEVILLE, MS",
@@ -8,7 +25,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38922"
+        "38922",
+        "38948",
+        "38961"
       ]
     },
     {
@@ -19,7 +38,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38917"
+        "38917",
+        "38923",
+        "38943",
+        "38947",
+        "39176"
       ]
     },
     {
@@ -30,7 +53,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38901"
+        "38901",
+        "38929",
+        "38940",
+        "389HH"
       ]
     },
     {
@@ -41,7 +67,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38930"
+        "38736",
+        "38930",
+        "38941",
+        "38944",
+        "38946",
+        "38952",
+        "38954",
+        "38959",
+        "389XX"
       ]
     },
     {
@@ -52,7 +86,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38921"
+        "38920",
+        "38921",
+        "38927",
+        "38928",
+        "38950",
+        "38953",
+        "38957",
+        "38962",
+        "38963",
+        "38966"
       ]
     },
     {
@@ -63,6 +106,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "38948",
+        "38961",
         "38965"
       ]
     }

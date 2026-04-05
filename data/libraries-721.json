@@ -1,6 +1,64 @@
 {
   "libraries": [
     {
+      "name": "INDEPENDENCE COUNTY LIBRARY",
+      "system": "INDEPENDENCE COUNTY LIBRARY",
+      "address": "368 EAST MAIN STREET, BATESVILLE, AR",
+      "website": "https://indcolib.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72165",
+        "72501",
+        "72522",
+        "72524",
+        "72526",
+        "72527",
+        "72534",
+        "72550",
+        "72553",
+        "72562",
+        "72564",
+        "72568",
+        "72571",
+        "72579"
+      ]
+    },
+    {
+      "name": "CENTRAL ARKANSAS LIBRARY SYSTEM",
+      "system": "CENTRAL ARKANSAS LIBRARY SYSTEM",
+      "address": "100 ROCK STREET, LITTLE ROCK, AR",
+      "website": "https://cals.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72053",
+        "72076",
+        "72099",
+        "72113",
+        "72116",
+        "72117",
+        "72118",
+        "72120",
+        "72135",
+        "72180",
+        "72183",
+        "72201",
+        "72202",
+        "72204",
+        "72205",
+        "72206",
+        "72207",
+        "72209",
+        "72210",
+        "72211",
+        "72212",
+        "72223",
+        "72227",
+        "722HH"
+      ]
+    },
+    {
       "name": "MID ARKANSAS REGIONAL LIBRARY SYSTEM",
       "system": "MID ARKANSAS REGIONAL LIBRARY SYSTEM",
       "address": "202 EAST THIRD STREET, MALVERN, AR",
@@ -8,7 +66,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72104"
+        "71929",
+        "71933",
+        "71941",
+        "72104",
+        "72105"
       ]
     },
     {
@@ -19,7 +81,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72114"
+        "72053",
+        "72076",
+        "72099",
+        "72113",
+        "72114",
+        "72116",
+        "72117",
+        "72118",
+        "72120",
+        "72135",
+        "72180",
+        "72183",
+        "72202",
+        "72204",
+        "72205",
+        "72206",
+        "72207",
+        "72209",
+        "72210",
+        "72211",
+        "72212",
+        "72223",
+        "72227",
+        "722HH"
       ]
     },
     {
@@ -30,6 +115,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "72010",
+        "72012",
+        "72020",
+        "72045",
+        "72060",
+        "72068",
+        "72081",
+        "72082",
+        "72085",
+        "72102",
+        "72121",
+        "72136",
+        "72137",
+        "72139",
         "72143"
       ]
     },
@@ -41,7 +140,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72112"
+        "72005",
+        "72014",
+        "72043",
+        "72075",
+        "72112",
+        "72169",
+        "72431",
+        "72471",
+        "72473"
       ]
     },
     {
@@ -52,7 +159,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72110"
+        "72027",
+        "72030",
+        "72063",
+        "72107",
+        "72110",
+        "72125",
+        "72127",
+        "72156",
+        "72157"
       ]
     },
     {
@@ -63,7 +178,94 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72160"
+        "72003",
+        "72026",
+        "72038",
+        "72042",
+        "72048",
+        "72055",
+        "72073",
+        "720HH",
+        "72140",
+        "72160",
+        "72166",
+        "721HH"
+      ]
+    },
+    {
+      "name": "PINE BLUFF/JEFFERSON COUNTY LIBRARY SYSTEM",
+      "system": "PINE BLUFF/JEFFERSON COUNTY LIBRARY SYSTEM",
+      "address": "200 E. 8TH AVENUE, PINE BLUFF, AR",
+      "website": "https://www.pineblufflibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71601",
+        "71602",
+        "71603",
+        "71659",
+        "72004",
+        "72079",
+        "72132",
+        "72133",
+        "72152",
+        "72168",
+        "72175"
+      ]
+    },
+    {
+      "name": "FAULKNER-VAN BUREN REGIONAL LIBRARY SYSTEM",
+      "system": "FAULKNER-VAN BUREN REGIONAL LIBRARY SYSTEM",
+      "address": "1900 TYLER STREET, CONWAY, AR",
+      "website": "https://fcl.org/conway/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72032",
+        "72039",
+        "72047",
+        "72058",
+        "72061",
+        "72106",
+        "72111",
+        "72173",
+        "72181"
+      ]
+    },
+    {
+      "name": "LONOKE COUNTY LIBRARY SYSTEM",
+      "system": "LONOKE COUNTY LIBRARY SYSTEM",
+      "address": "204 E. SECOND ST., LONOKE, AR",
+      "website": "https://www.lclibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72007",
+        "72023",
+        "72024",
+        "72046",
+        "72072",
+        "72083",
+        "72086",
+        "72142",
+        "72176"
+      ]
+    },
+    {
+      "name": "FAIRFIELD BAY LIBRARY, INCORPORATED",
+      "system": "FAIRFIELD BAY LIBRARY, INCORPORATED",
+      "address": "369 DAVE CREEK PARKWAY, FAIRFIELD BAY, AR",
+      "website": "https://www.fairfieldbaylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72013",
+        "72031",
+        "72080",
+        "72088",
+        "72141",
+        "72153",
+        "72629"
       ]
     }
   ]

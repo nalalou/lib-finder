@@ -1,6 +1,34 @@
 {
   "libraries": [
     {
+      "name": "LIBRARY OF GRAHAM",
+      "system": "LIBRARY OF GRAHAM",
+      "address": "910 CHERRY ST, GRAHAM, TX",
+      "website": "https://libraryofgrahamtx.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76372",
+        "76450",
+        "76460",
+        "76481"
+      ]
+    },
+    {
+      "name": "EDWARDS PUBLIC LIBRARY",
+      "system": "EDWARDS PUBLIC LIBRARY",
+      "address": "210 W GILBERT ST, HENRIETTA, TX",
+      "website": "https://southamptonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76228",
+        "76357",
+        "76365",
+        "76377"
+      ]
+    },
+    {
       "name": "ELECTRA PUBLIC LIBRARY",
       "system": "ELECTRA PUBLIC LIBRARY",
       "address": "401 N WAGGONER ST, ELECTRA, TX",
@@ -8,6 +36,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "76302",
+        "76305",
+        "76306",
+        "76308",
+        "76309",
+        "76310",
+        "76311",
         "76360"
       ]
     },
@@ -19,18 +54,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76351"
-      ]
-    },
-    {
-      "name": "EDWARDS PUBLIC LIBRARY",
-      "system": "EDWARDS PUBLIC LIBRARY",
-      "address": "210 W GILBERT ST, HENRIETTA, TX",
-      "website": "https://southamptonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76365"
+        "76351",
+        "76366",
+        "76370",
+        "76379",
+        "76389",
+        "763HH",
+        "763XX"
       ]
     },
     {
@@ -41,6 +71,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "76302",
+        "76305",
+        "76306",
+        "76308",
+        "76309",
+        "76310",
+        "76311",
         "76367"
       ]
     },
@@ -52,7 +89,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76371"
+        "76363",
+        "76371",
+        "79505",
+        "79529"
       ]
     },
     {
@@ -63,7 +103,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76374"
+        "76372",
+        "76374",
+        "76460",
+        "76481"
       ]
     },
     {
@@ -85,7 +128,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76384"
+        "76364",
+        "76373",
+        "76384",
+        "79247"
       ]
     },
     {
@@ -96,7 +142,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76301"
+        "76301",
+        "76302",
+        "76305",
+        "76306",
+        "76308",
+        "76309",
+        "76310",
+        "76311"
       ]
     },
     {
@@ -107,7 +160,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "76302",
+        "76305",
+        "76306",
+        "76308",
+        "76309",
+        "76310",
+        "76311",
         "76354"
+      ]
+    },
+    {
+      "name": "HASKELL COUNTY LIBRARY",
+      "system": "HASKELL COUNTY LIBRARY",
+      "address": "300 N AVE E, HASKELL, TX",
+      "website": "https://www.haskellcountytx.gov/page/haskell.County.Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76388",
+        "79521",
+        "79539",
+        "79544",
+        "79547",
+        "79548"
       ]
     }
   ]

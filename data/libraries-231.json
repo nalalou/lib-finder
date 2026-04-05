@@ -1,14 +1,52 @@
 {
   "libraries": [
     {
+      "name": "GLOUCESTER COUNTY PUBLIC LIBRARY",
+      "system": "GLOUCESTER COUNTY PUBLIC LIBRARY",
+      "address": "6920 MAIN STREET, GLOUCESTER, VA",
+      "website": "https://gloucesterva.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23001",
+        "23061",
+        "23062",
+        "23072",
+        "23178",
+        "23184"
+      ]
+    },
+    {
+      "name": "PAMUNKEY REGIONAL LIBRARY",
+      "system": "PAMUNKEY REGIONAL LIBRARY",
+      "address": "7527 LIBRARY DRIVE, HANOVER, VA",
+      "website": "http://www.pamunkeylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23005",
+        "23015",
+        "23047",
+        "23069",
+        "23111",
+        "23116",
+        "23146",
+        "23192"
+      ]
+    },
+    {
       "name": "HERITAGE PUBLIC LIBRARY",
       "system": "HERITAGE PUBLIC LIBRARY",
-      "address": "7791 INVICTA LANE, NEW KENT, VA",
+      "address": "52 FOURTH ST, MCDONALD, PA",
       "website": "https://heritagepubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23124"
+        "15057",
+        "23011",
+        "23089",
+        "23124",
+        "23141"
       ]
     },
     {
@@ -19,7 +57,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23109"
+        "23021",
+        "23025",
+        "23035",
+        "23045",
+        "23050",
+        "23056",
+        "23064",
+        "23066",
+        "23068",
+        "23076",
+        "23109",
+        "23119",
+        "23125",
+        "23128",
+        "23130",
+        "23138",
+        "23163"
       ]
     },
     {
@@ -30,7 +84,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23175"
+        "23032",
+        "23043",
+        "23070",
+        "23071",
+        "23079",
+        "23092",
+        "23149",
+        "23169",
+        "23175",
+        "23176",
+        "23180"
       ]
     },
     {
@@ -53,6 +117,49 @@
       "formStatus": "unknown",
       "zipcodes": [
         "23188"
+      ]
+    },
+    {
+      "name": "CHESTERFIELD COUNTY PUBLIC LIBRARY",
+      "system": "CHESTERFIELD COUNTY PUBLIC LIBRARY",
+      "address": "9501 LORI ROAD, CHESTERFIELD, VA",
+      "website": "https://www.chesterfield.gov/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23112",
+        "23113",
+        "23120",
+        "23234",
+        "23235",
+        "23236",
+        "23237",
+        "23831",
+        "23832",
+        "23836",
+        "23838"
+      ]
+    },
+    {
+      "name": "HENRICO COUNTY PUBLIC LIBRARY",
+      "system": "HENRICO COUNTY PUBLIC LIBRARY",
+      "address": "1700 NORTH PARHAM ROAD, HENRICO, VA",
+      "website": "https://henricolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23059",
+        "23060",
+        "23075",
+        "23150",
+        "23227",
+        "23228",
+        "23229",
+        "23230",
+        "23231",
+        "23233",
+        "23294",
+        "232HH"
       ]
     }
   ]

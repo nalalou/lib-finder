@@ -1,14 +1,87 @@
 {
   "libraries": [
     {
-      "name": "LEBANON PUBLIC LIBRARY",
-      "system": "LEBANON PUBLIC LIBRARY",
-      "address": "9 EAST PARK STREET, LEBANON, NH",
-      "website": "https://lebanonlibrary.org/",
+      "name": "HEBRON PUBLIC LIBRARY",
+      "system": "HEBRON PUBLIC LIBRARY",
+      "address": "8 CHURCH LANE, HEBRON, NH",
+      "website": "https://www.hebronnhlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03766"
+        "03215",
+        "03241",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "THORNTON PUBLIC LIBRARY",
+      "system": "THORNTON PUBLIC LIBRARY",
+      "address": "1884 NH RTE 175, THORNTON, NH",
+      "website": "https://thorntonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03251",
+        "03285",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "GRAFTON PUBLIC LIBRARY",
+      "system": "GRAFTON PUBLIC LIBRARY",
+      "address": "47 LIBRARY ROAD, GRAFTON, NH",
+      "website": "http://www.graftonlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03240",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "LISBON PUBLIC LIBRARY",
+      "system": "LISBON PUBLIC LIBRARY",
+      "address": "45 SCHOOL STREET, LISBON, NH",
+      "website": "http://lisbonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03585",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
       ]
     },
     {
@@ -19,18 +92,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03768"
-      ]
-    },
-    {
-      "name": "MONROE PUBLIC LIBRARY",
-      "system": "MONROE PUBLIC LIBRARY",
-      "address": "19 PLAINS ROAD, MONROE, NH",
-      "website": "https://monroenh.org/monroe-town-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03771"
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03768",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
       ]
     },
     {
@@ -41,6 +113,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "03607",
+        "036HH",
+        "03745",
+        "03751",
         "03773"
       ]
     },
@@ -52,7 +128,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03740"
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03740",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
       ]
     },
     {
@@ -63,7 +149,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03777"
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03777",
+        "03780",
+        "03784",
+        "037HH"
       ]
     },
     {
@@ -74,7 +170,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03779"
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03779",
+        "03780",
+        "03784",
+        "037HH"
       ]
     },
     {
@@ -85,6 +191,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "03607",
+        "036HH",
+        "03745",
+        "03751",
         "03781"
       ]
     },
@@ -96,6 +206,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "03607",
+        "036HH",
+        "03745",
+        "03751",
         "03770"
       ]
     },
@@ -107,6 +221,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "03607",
+        "036HH",
+        "03745",
+        "03751",
         "03782"
       ]
     },
@@ -118,7 +236,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03741"
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03741",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
       ]
     },
     {
@@ -129,7 +257,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03743"
+        "03607",
+        "036HH",
+        "03743",
+        "03745",
+        "03751"
       ]
     },
     {
@@ -140,18 +272,32 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03746"
+        "03607",
+        "036HH",
+        "03745",
+        "03746",
+        "03751"
       ]
     },
     {
       "name": "ENFIELD PUBLIC LIBRARY",
       "system": "ENFIELD PUBLIC LIBRARY",
-      "address": "23 MAIN STREET, ENFIELD, NH",
+      "address": "104 MIDDLE ROAD, ENFIELD, CT",
       "website": "https://www.enfieldpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03748"
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH",
+        "06082"
       ]
     },
     {
@@ -162,6 +308,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "03607",
+        "036HH",
+        "03745",
+        "03751",
         "03752"
       ]
     },
@@ -173,6 +323,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "03607",
+        "036HH",
+        "03745",
+        "03751",
         "03753"
       ]
     },
@@ -184,7 +338,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03755"
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03755",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
       ]
     },
     {
@@ -195,7 +359,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03785"
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "03785",
+        "037HH"
       ]
     },
     {
@@ -206,7 +380,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03774"
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03774",
+        "03780",
+        "03784",
+        "037HH"
       ]
     },
     {
@@ -217,7 +401,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03765"
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03765",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
       ]
     },
     {
@@ -228,7 +422,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03750"
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03750",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
       ]
     },
     {
@@ -239,7 +443,359 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03777"
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03777",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "MINER MEMORIAL LIBRARY",
+      "system": "MINER MEMORIAL LIBRARY",
+      "address": "3 2ND NEW HAMPSHIRE TURNPIKE, LEMPSTER, NH",
+      "website": "https://lempsternh.org/departments/miner-memorial-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03605",
+        "03607",
+        "036HH",
+        "03745",
+        "03751"
+      ]
+    },
+    {
+      "name": "UNITY FREE PUBLIC LIBRARY",
+      "system": "UNITY FREE PUBLIC LIBRARY",
+      "address": "13 CENTER ROAD, UNIT 4, UNITY, NH",
+      "website": "https://librarytechnology.org/library/21487",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03603",
+        "03607",
+        "036HH",
+        "03745",
+        "03751"
+      ]
+    },
+    {
+      "name": "SILSBY FREE PUBLIC LIBRARY",
+      "system": "SILSBY FREE PUBLIC LIBRARY",
+      "address": "226 MAIN STREET, CHARLESTOWN, NH",
+      "website": "https://www.silsbyfpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03603",
+        "03607",
+        "036HH",
+        "03745",
+        "03751"
+      ]
+    },
+    {
+      "name": "ACWORTH SILSBY PUBLIC LIBRARY",
+      "system": "ACWORTH SILSBY PUBLIC LIBRARY",
+      "address": "5 LYNN HILL ROAD, ACWORTH, NH",
+      "website": "http://www.acworthlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03601",
+        "03607",
+        "036HH",
+        "03745",
+        "03751"
+      ]
+    },
+    {
+      "name": "LITTLETON PUBLIC LIBRARY",
+      "system": "LITTLETON PUBLIC LIBRARY",
+      "address": "92 MAIN STREET, LITTLETON, NH",
+      "website": "https://littletonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03251",
+        "032XX",
+        "03561",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "RICHARDSON MEMORIAL LIBRARY",
+      "system": "RICHARDSON MEMORIAL LIBRARY",
+      "address": "1411 ROUTE 117, SUGAR HILL, NH",
+      "website": "https://www.richardson-memorial-library.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03586",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "ABBIE GREENLEAF LIBRARY",
+      "system": "ABBIE GREENLEAF LIBRARY",
+      "address": "439 MAIN STREET, FRANCONIA, NH",
+      "website": "https://www.abbielibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03251",
+        "032XX",
+        "03574",
+        "03580",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "HOLDERNESS LIBRARY",
+      "system": "HOLDERNESS LIBRARY",
+      "address": "866 US ROUTE 3, HOLDERNESS, NH",
+      "website": "https://www.holdernessfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03245",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "PEASE PUBLIC LIBRARY",
+      "system": "PEASE PUBLIC LIBRARY",
+      "address": "1 RUSSELL STREET, PLYMOUTH, NH",
+      "website": "https://peasepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03251",
+        "03264",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "BYRON G. MERRILL LIBRARY",
+      "system": "BYRON G. MERRILL LIBRARY",
+      "address": "10 BUFFALO ROAD, RUMNEY, NH",
+      "website": "https://www.rumneylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03251",
+        "03266",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "LIBBIE A. CASS MEMORIAL LIBRARY",
+      "system": "LIBBIE A. CASS MEMORIAL LIBRARY",
+      "address": "2748 MAIN STREET, SPRINGFIELD, NH",
+      "website": "http://libbiecass.weebly.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03284",
+        "03607",
+        "036HH",
+        "03745",
+        "03751"
+      ]
+    },
+    {
+      "name": "JOSEPH PATCH LIBRARY",
+      "system": "JOSEPH PATCH LIBRARY",
+      "address": "320 NH ROUTE 25, WARREN, NH",
+      "website": "https://www.warren-nh.com/departments/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03251",
+        "03279",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "SHEDD FREE LIBRARY",
+      "system": "SHEDD FREE LIBRARY",
+      "address": "46 NORTH MAIN STREET, WASHINGTON, NH",
+      "website": "https://www.sheddfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03280",
+        "03607",
+        "036HH",
+        "03745",
+        "03751"
+      ]
+    },
+    {
+      "name": "WEBSTER MEMORIAL LIBRARY",
+      "system": "WEBSTER MEMORIAL LIBRARY",
+      "address": "20 WENTWORTH VILLAGE ROAD, WENTWORTH, NH",
+      "website": "https://www.wentworth-nh.org/departments/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03251",
+        "03282",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "MOOSILAUKE PUBLIC LIBRARY",
+      "system": "MOOSILAUKE PUBLIC LIBRARY",
+      "address": "165 LOST RIVER ROAD, WOODSTOCK, NH",
+      "website": "https://www.woodstocknh.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03251",
+        "03262",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "MINOT-SLEEPER LIBRARY",
+      "system": "MINOT-SLEEPER LIBRARY",
+      "address": "35 PLEASANT STREET, BRISTOL, NH",
+      "website": "https://www.minotsleeperlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03222",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "CAMPTON PUBLIC LIBRARY",
+      "system": "CAMPTON PUBLIC LIBRARY",
+      "address": "1110 NH ROUTE 175, CAMPTON, NH",
+      "website": "https://camptonnhlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03223",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
+      ]
+    },
+    {
+      "name": "ASHLAND TOWN LIBRARY",
+      "system": "ASHLAND TOWN LIBRARY",
+      "address": "41 MAIN STREET, ASHLAND, NH",
+      "website": "https://www.ashlandtownlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03215",
+        "03217",
+        "03251",
+        "032XX",
+        "03574",
+        "03748",
+        "03766",
+        "03771",
+        "03780",
+        "03784",
+        "037HH"
       ]
     }
   ]

@@ -1,14 +1,63 @@
 {
   "libraries": [
     {
+      "name": "SHACKELFORD COUNTY LIBRARY",
+      "system": "SHACKELFORD COUNTY LIBRARY",
+      "address": "402 N 2ND ST, ALBANY, TX",
+      "website": "https://librarytechnology.org/library/24787",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76430",
+        "76464",
+        "764XX",
+        "796XX"
+      ]
+    },
+    {
       "name": "ABILENE PUBLIC LIBRARY",
       "system": "ABILENE PUBLIC LIBRARY",
-      "address": "202 CEDAR ST, ABILENE, TX",
+      "address": "209 NW 4TH, ABILENE, KS",
       "website": "http://abilene.lib.nckls.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79601"
+        "67410",
+        "79508",
+        "79530",
+        "79541",
+        "79561",
+        "79562",
+        "79563",
+        "79601",
+        "79602",
+        "79603",
+        "79605",
+        "79606",
+        "79607"
+      ]
+    },
+    {
+      "name": "MERKEL PUBLIC LIBRARY",
+      "system": "MERKEL PUBLIC LIBRARY",
+      "address": "100 KENT, MERKEL, TX",
+      "website": "https://merkeltexas.com/public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79508",
+        "79530",
+        "79536",
+        "79541",
+        "79561",
+        "79562",
+        "79563",
+        "79601",
+        "79602",
+        "79603",
+        "79605",
+        "79606",
+        "79607"
       ]
     }
   ]

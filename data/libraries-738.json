@@ -8,7 +8,48 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73834"
+        "73834",
+        "75831",
+        "75833",
+        "75846",
+        "75850",
+        "75855",
+        "77855",
+        "77865",
+        "77871"
+      ]
+    },
+    {
+      "name": "WOODWARD PUBLIC LIBRARY",
+      "system": "WOODWARD PUBLIC LIBRARY",
+      "address": "1500 MAIN, WOODWARD, OK",
+      "website": "https://www.woodward.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73801",
+        "73802",
+        "73841",
+        "73853",
+        "73857"
+      ]
+    },
+    {
+      "name": "BEAVER COUNTY PIONEER LIBRARY",
+      "system": "BEAVER COUNTY PIONEER LIBRARY",
+      "address": "201 DOUGLAS AVE, BEAVER, OK",
+      "website": "https://www.beaverpl.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73844",
+        "73847",
+        "738HH",
+        "738XX",
+        "73931",
+        "73932",
+        "73938",
+        "73950"
       ]
     },
     {
@@ -19,6 +60,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73832",
+        "73840",
+        "73843",
         "73858"
       ]
     },
@@ -30,18 +74,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73731",
+        "73746",
+        "73842",
         "73860"
-      ]
-    },
-    {
-      "name": "WOODWARD PUBLIC LIBRARY",
-      "system": "WOODWARD PUBLIC LIBRARY",
-      "address": "1500 MAIN, WOODWARD, OK",
-      "website": "https://www.woodward.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73801"
       ]
     },
     {
@@ -52,7 +88,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73848"
+        "73848",
+        "73851",
+        "73855"
       ]
     },
     {
@@ -63,7 +101,42 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73852"
+        "73802",
+        "73841",
+        "73852",
+        "73853",
+        "73857"
+      ]
+    },
+    {
+      "name": "ALVA PUBLIC LIBRARY",
+      "system": "ALVA PUBLIC LIBRARY",
+      "address": "504 SEVENTH STREET, ALVA, OK",
+      "website": "https://alva.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73717",
+        "73731",
+        "73746",
+        "73842"
+      ]
+    },
+    {
+      "name": "FAIRVIEW CITY LIBRARY",
+      "system": "FAIRVIEW CITY LIBRARY",
+      "address": "115 S. 6TH, FAIRVIEW, OK",
+      "website": "http://www.fairviewoklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73718",
+        "73729",
+        "73737",
+        "73747",
+        "73760",
+        "73768",
+        "73838"
       ]
     }
   ]

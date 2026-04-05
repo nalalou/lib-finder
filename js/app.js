@@ -116,6 +116,11 @@
       var data = await response.json();
       var libraries = findLibraries(data, zip);
 
+      // Fallback: if exact zip not found, show all libraries in same prefix area
+      if (libraries.length === 0 && data.libraries && data.libraries.length > 0) {
+        libraries = data.libraries;
+      }
+
       if (libraries.length === 0) {
         showError("No libraries found for this zipcode.");
         return;

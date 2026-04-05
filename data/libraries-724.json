@@ -8,7 +8,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72401"
+        "72401",
+        "72404",
+        "72411",
+        "72414",
+        "72416",
+        "72417",
+        "72419",
+        "72421",
+        "72427",
+        "72437",
+        "72447",
+        "72467"
       ]
     },
     {
@@ -19,6 +30,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "72412",
+        "72425",
+        "72436",
+        "72443",
         "72450"
       ]
     },
@@ -30,7 +45,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72476"
+        "72410",
+        "72415",
+        "72433",
+        "72434",
+        "72440",
+        "72445",
+        "72457",
+        "72458",
+        "72459",
+        "72466",
+        "72469",
+        "72476",
+        "724HH",
+        "72572"
       ]
     },
     {
@@ -41,7 +69,58 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72472"
+        "72354",
+        "72365",
+        "72377",
+        "72386",
+        "72429",
+        "72432",
+        "72472",
+        "72475",
+        "72479"
+      ]
+    },
+    {
+      "name": "MISSISSIPPI/CRITTENDEN REGIONAL LIBRARY",
+      "system": "MISSISSIPPI/CRITTENDEN REGIONAL LIBRARY",
+      "address": "200 NORTH 5TH STREET, BLYTHEVILLE, AR",
+      "website": "https://www.mclibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72315",
+        "72321",
+        "72329",
+        "72330",
+        "72338",
+        "72350",
+        "72351",
+        "72358",
+        "72370",
+        "72395",
+        "72426",
+        "72428",
+        "72438",
+        "72442"
+      ]
+    },
+    {
+      "name": "W.A. BILLINGSLEY/JACKSON COUNTY LIBRARY",
+      "system": "W.A. BILLINGSLEY/JACKSON COUNTY LIBRARY",
+      "address": "213 WALNUT STREET, NEWPORT, AR",
+      "website": "https://library.arkansas.gov/facilities/jackson-county-library-hq-w-a-billingsley-memorial-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72005",
+        "72014",
+        "72043",
+        "72075",
+        "72112",
+        "72169",
+        "72431",
+        "72471",
+        "72473"
       ]
     }
   ]

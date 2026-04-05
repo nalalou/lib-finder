@@ -1,146 +1,245 @@
 {
   "libraries": [
     {
-      "name": "HUNTERDON COUNTY LIBRARY",
-      "system": "HUNTERDON COUNTY LIBRARY",
-      "address": "314 STATE HIGHWAY 12, BLDG. #3, FLEMINGTON, NJ",
-      "website": "https://hclibrary.us/",
+      "name": "LAMBERTVILLE FREE PUBLIC LIBRARY",
+      "system": "LAMBERTVILLE FREE PUBLIC LIBRARY",
+      "address": "6 LILLY STREET, LAMBERTVILLE, NJ",
+      "website": "https://lambertvillelibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08822"
+        "07830",
+        "07979",
+        "08530",
+        "08551",
+        "08559",
+        "08801",
+        "08802",
+        "08804",
+        "08809",
+        "08826",
+        "08827",
+        "08833",
+        "08867",
+        "08887",
+        "08889",
+        "088HH"
       ]
     },
     {
-      "name": "FLEMINGTON FREE PUBLIC LIBRARY",
-      "system": "FLEMINGTON FREE PUBLIC LIBRARY",
-      "address": "118 MAIN STREET, FLEMINGTON, NJ",
-      "website": "https://www.flemingtonlibrary.org/",
+      "name": "CRANBURY PUBLIC LIBRARY",
+      "system": "CRANBURY PUBLIC LIBRARY",
+      "address": "30 NORTH MAIN STREET, CRANBURY, NJ",
+      "website": "https://cranburypubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08822"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08512",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
       ]
     },
     {
-      "name": "FRENCHTOWN PUBLIC LIBRARY",
-      "system": "FRENCHTOWN PUBLIC LIBRARY",
-      "address": "29 SECOND STREET, FRENCHTOWN, NJ",
-      "website": "https://www.mainlib.org/libraries/frenchtown-public-library/",
+      "name": "PLAINSBORO FREE PUBLIC LIBRARY",
+      "system": "PLAINSBORO FREE PUBLIC LIBRARY",
+      "address": "9 VAN DOREN DRIVE, PLAINSBORO, NJ",
+      "website": "https://plainsborolibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08825"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08536",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
       ]
     },
     {
-      "name": "HIGH BRIDGE PUBLIC LIBRARY",
-      "system": "HIGH BRIDGE PUBLIC LIBRARY",
-      "address": "71 MAIN STREET, HIGH BRIDGE, NJ",
-      "website": "https://highbridge.org/community-organizations/library/",
+      "name": "CARTERET FREE PUBLIC LIBRARY",
+      "system": "CARTERET FREE PUBLIC LIBRARY",
+      "address": "100 COOKE AVENUE, CARTERET, NJ",
+      "website": "https://www.carteretlibrary.net/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08829"
+        "07001",
+        "07008",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
       ]
     },
     {
-      "name": "HOLLAND TOWNSHIP FREE PUBLIC LIBRARY",
-      "system": "HOLLAND TOWNSHIP FREE PUBLIC LIBRARY",
-      "address": "129 SPRING MILLS ROAD, MILFORD, NJ",
-      "website": "https://www.hollandlibrary.org/",
+      "name": "SOUTH PLAINFIELD FREE PUBLIC LIBRARY",
+      "system": "SOUTH PLAINFIELD FREE PUBLIC LIBRARY",
+      "address": "2484 PLAINFIELD AVENUE, SOUTH PLAINFIELD, NJ",
+      "website": "http://southplainfield.lib.nj.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08848"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "07080",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
       ]
     },
     {
-      "name": "MILFORD PUBLIC LIBRARY",
-      "system": "MILFORD PUBLIC LIBRARY",
-      "address": "40 FRENCHTOWN ROAD, MILFORD, NJ",
-      "website": "http://www.milfordnjlibrary.org/",
+      "name": "WOODBRIDGE PUBLIC LIBRARY",
+      "system": "WOODBRIDGE PUBLIC LIBRARY",
+      "address": "GEORGE FREDERICK PLAZA, WOODBRIDGE, NJ",
+      "website": "https://woodbridgelibrary.org/1026/Public-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08848"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "07095",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
       ]
     },
     {
-      "name": "TEWKSBURY TOWNSHIP PUBLIC LIBRARY",
-      "system": "TEWKSBURY TOWNSHIP PUBLIC LIBRARY",
-      "address": "31 OLD TURNPIKE ROAD, OLDWICK, NJ",
-      "website": "https://www.tewksburylibrarynj.org/",
+      "name": "HIGHLAND PARK PUBLIC LIBRARY",
+      "system": "HIGHLAND PARK PUBLIC LIBRARY",
+      "address": "494 LAUREL AVENUE, HIGHLAND PARK, IL",
+      "website": "https://www.hpplnj.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08858"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08904",
+        "089HH",
+        "60035"
       ]
     },
     {
-      "name": "DUNELLEN FREE PUBLIC LIBRARY",
-      "system": "DUNELLEN FREE PUBLIC LIBRARY",
-      "address": "NEW MARKET ROAD, DUNELLEN, NJ",
-      "website": "https://dunellenlibrary.net/",
+      "name": "NEW BRUNSWICK FREE PUBLIC LIBRARY",
+      "system": "NEW BRUNSWICK FREE PUBLIC LIBRARY",
+      "address": "60 LIVINGSTON AVENUE, NEW BRUNSWICK, NJ",
+      "website": "http://www.nbfpl.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08812"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08901",
+        "08904",
+        "089HH"
       ]
     },
     {
-      "name": "EAST BRUNSWICK PUBLIC LIBRARY",
-      "system": "EAST BRUNSWICK PUBLIC LIBRARY",
-      "address": "2 JEAN WALLING CIVIC CENTER, EAST BRUNSWICK, NJ",
-      "website": "https://www.ebpl.org/",
+      "name": "NORTH BRUNSWICK FREE PUBLIC LIBRARY",
+      "system": "NORTH BRUNSWICK FREE PUBLIC LIBRARY",
+      "address": "880 HERMANN ROAD, NORTH BRUNSWICK, NJ",
+      "website": "https://northbrunswicklibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08816"
-      ]
-    },
-    {
-      "name": "EDISON TOWNSHIP FREE PUBLIC LIBRARY",
-      "system": "EDISON TOWNSHIP FREE PUBLIC LIBRARY",
-      "address": "340 PLAINFIELD AVENUE, EDISON, NJ",
-      "website": "https://edisonpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "08817"
-      ]
-    },
-    {
-      "name": "JAMESBURG PUBLIC LIBRARY",
-      "system": "JAMESBURG PUBLIC LIBRARY",
-      "address": "229 GATZMER AVENUE, JAMESBURG, NJ",
-      "website": "https://jamesburglibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "08831"
-      ]
-    },
-    {
-      "name": "METUCHEN PUBLIC LIBRARY",
-      "system": "METUCHEN PUBLIC LIBRARY",
-      "address": "480 MIDDLESEX AVENUE, METUCHEN, NJ",
-      "website": "https://www.metuchenlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "08840"
-      ]
-    },
-    {
-      "name": "MIDDLESEX PUBLIC LIBRARY",
-      "system": "MIDDLESEX PUBLIC LIBRARY",
-      "address": "1300 MOUNTAIN AVENUE, MIDDLESEX, NJ",
-      "website": "http://www.middlesexlibrarynj.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "08846"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08902",
+        "08904",
+        "089HH"
       ]
     },
     {
@@ -151,7 +250,329 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08850"
+        "08850",
+        "54004",
+        "54006",
+        "54026",
+        "54858"
+      ]
+    },
+    {
+      "name": "HUNTERDON COUNTY LIBRARY",
+      "system": "HUNTERDON COUNTY LIBRARY",
+      "address": "314 STATE HIGHWAY 12, BLDG. #3, FLEMINGTON, NJ",
+      "website": "https://hclibrary.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07830",
+        "07979",
+        "08551",
+        "08559",
+        "08801",
+        "08802",
+        "08804",
+        "08809",
+        "08822",
+        "08826",
+        "08827",
+        "08833",
+        "08867",
+        "08887",
+        "08889",
+        "088HH"
+      ]
+    },
+    {
+      "name": "FLEMINGTON FREE PUBLIC LIBRARY",
+      "system": "FLEMINGTON FREE PUBLIC LIBRARY",
+      "address": "118 MAIN STREET, FLEMINGTON, NJ",
+      "website": "https://www.flemingtonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07830",
+        "07979",
+        "08551",
+        "08559",
+        "08801",
+        "08802",
+        "08804",
+        "08809",
+        "08822",
+        "08826",
+        "08827",
+        "08833",
+        "08867",
+        "08887",
+        "08889",
+        "088HH"
+      ]
+    },
+    {
+      "name": "FRENCHTOWN PUBLIC LIBRARY",
+      "system": "FRENCHTOWN PUBLIC LIBRARY",
+      "address": "29 SECOND STREET, FRENCHTOWN, NJ",
+      "website": "https://www.mainlib.org/libraries/frenchtown-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07830",
+        "07979",
+        "08551",
+        "08559",
+        "08801",
+        "08802",
+        "08804",
+        "08809",
+        "08825",
+        "08826",
+        "08827",
+        "08833",
+        "08867",
+        "08887",
+        "08889",
+        "088HH"
+      ]
+    },
+    {
+      "name": "HIGH BRIDGE PUBLIC LIBRARY",
+      "system": "HIGH BRIDGE PUBLIC LIBRARY",
+      "address": "71 MAIN STREET, HIGH BRIDGE, NJ",
+      "website": "https://highbridge.org/community-organizations/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07830",
+        "07979",
+        "08551",
+        "08559",
+        "08801",
+        "08802",
+        "08804",
+        "08809",
+        "08826",
+        "08827",
+        "08829",
+        "08833",
+        "08867",
+        "08887",
+        "08889",
+        "088HH"
+      ]
+    },
+    {
+      "name": "HOLLAND TOWNSHIP FREE PUBLIC LIBRARY",
+      "system": "HOLLAND TOWNSHIP FREE PUBLIC LIBRARY",
+      "address": "129 SPRING MILLS ROAD, MILFORD, NJ",
+      "website": "https://www.hollandlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07830",
+        "07979",
+        "08551",
+        "08559",
+        "08801",
+        "08802",
+        "08804",
+        "08809",
+        "08826",
+        "08827",
+        "08833",
+        "08848",
+        "08867",
+        "08887",
+        "08889",
+        "088HH"
+      ]
+    },
+    {
+      "name": "TEWKSBURY TOWNSHIP PUBLIC LIBRARY",
+      "system": "TEWKSBURY TOWNSHIP PUBLIC LIBRARY",
+      "address": "31 OLD TURNPIKE ROAD, OLDWICK, NJ",
+      "website": "https://www.tewksburylibrarynj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07830",
+        "07979",
+        "08551",
+        "08559",
+        "08801",
+        "08802",
+        "08804",
+        "08809",
+        "08826",
+        "08827",
+        "08833",
+        "08858",
+        "08867",
+        "08887",
+        "08889",
+        "088HH"
+      ]
+    },
+    {
+      "name": "DUNELLEN FREE PUBLIC LIBRARY",
+      "system": "DUNELLEN FREE PUBLIC LIBRARY",
+      "address": "NEW MARKET ROAD, DUNELLEN, NJ",
+      "website": "https://dunellenlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08812",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
+      ]
+    },
+    {
+      "name": "EAST BRUNSWICK PUBLIC LIBRARY",
+      "system": "EAST BRUNSWICK PUBLIC LIBRARY",
+      "address": "2 JEAN WALLING CIVIC CENTER, EAST BRUNSWICK, NJ",
+      "website": "https://www.ebpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08816",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
+      ]
+    },
+    {
+      "name": "EDISON TOWNSHIP FREE PUBLIC LIBRARY",
+      "system": "EDISON TOWNSHIP FREE PUBLIC LIBRARY",
+      "address": "340 PLAINFIELD AVENUE, EDISON, NJ",
+      "website": "https://edisonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08817",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
+      ]
+    },
+    {
+      "name": "JAMESBURG PUBLIC LIBRARY",
+      "system": "JAMESBURG PUBLIC LIBRARY",
+      "address": "229 GATZMER AVENUE, JAMESBURG, NJ",
+      "website": "https://jamesburglibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08831",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
+      ]
+    },
+    {
+      "name": "METUCHEN PUBLIC LIBRARY",
+      "system": "METUCHEN PUBLIC LIBRARY",
+      "address": "480 MIDDLESEX AVENUE, METUCHEN, NJ",
+      "website": "https://www.metuchenlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08840",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
+      ]
+    },
+    {
+      "name": "MIDDLESEX PUBLIC LIBRARY",
+      "system": "MIDDLESEX PUBLIC LIBRARY",
+      "address": "1300 MOUNTAIN AVENUE, MIDDLESEX, NJ",
+      "website": "http://www.middlesexlibrarynj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08846",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
       ]
     },
     {
@@ -162,7 +583,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08831"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08831",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
       ]
     },
     {
@@ -173,7 +610,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08857"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08857",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
       ]
     },
     {
@@ -184,7 +637,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08861"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08861",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
       ]
     },
     {
@@ -195,7 +664,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08854"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08854",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
       ]
     },
     {
@@ -206,7 +691,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08859"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08859",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
       ]
     },
     {
@@ -217,7 +718,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08879"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08879",
+        "08904",
+        "089HH"
       ]
     },
     {
@@ -228,7 +745,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08852"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08852",
+        "08863",
+        "08872",
+        "08904",
+        "089HH"
       ]
     },
     {
@@ -239,7 +772,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08882"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08882",
+        "08904",
+        "089HH"
       ]
     },
     {
@@ -250,18 +799,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08884"
-      ]
-    },
-    {
-      "name": "SOMERSET COUNTY LIBRARY",
-      "system": "SOMERSET COUNTY LIBRARY",
-      "address": "1 VOGT DRIVE, BRIDGEWATER, NJ",
-      "website": "https://sclsnj.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "08807"
+        "07001",
+        "07064",
+        "07067",
+        "07077",
+        "077HH",
+        "08810",
+        "08820",
+        "08824",
+        "08828",
+        "08830",
+        "08832",
+        "08837",
+        "08863",
+        "08872",
+        "08884",
+        "08904",
+        "089HH"
       ]
     },
     {
@@ -272,7 +826,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08873"
+        "07059",
+        "07931",
+        "07934",
+        "07977",
+        "08502",
+        "08528",
+        "08553",
+        "08558",
+        "08805",
+        "08807",
+        "08821",
+        "08823",
+        "08835",
+        "08836",
+        "08853",
+        "08873",
+        "08876",
+        "08880"
       ]
     },
     {
@@ -283,7 +854,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08869"
+        "07059",
+        "07931",
+        "07934",
+        "07977",
+        "08502",
+        "08528",
+        "08553",
+        "08558",
+        "08805",
+        "08807",
+        "08821",
+        "08823",
+        "08835",
+        "08836",
+        "08853",
+        "08869",
+        "08876",
+        "08880"
       ]
     },
     {
@@ -294,7 +882,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08865"
+        "07825",
+        "07832",
+        "07833",
+        "07838",
+        "07846",
+        "07863",
+        "07865",
+        "07882",
+        "08865",
+        "08886"
       ]
     },
     {
@@ -305,7 +902,160 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "08865"
+        "07825",
+        "07832",
+        "07833",
+        "07838",
+        "07846",
+        "07863",
+        "07865",
+        "07882",
+        "08865",
+        "08886"
+      ]
+    },
+    {
+      "name": "WASHINGTON PUBLIC LIBRARY",
+      "system": "WASHINGTON PUBLIC LIBRARY",
+      "address": "116 E. 2ND, WASHINGTON, KS",
+      "website": "https://washboropl.org/contact-us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07825",
+        "07832",
+        "07833",
+        "07838",
+        "07846",
+        "07863",
+        "07865",
+        "07882",
+        "08886",
+        "66968"
+      ]
+    },
+    {
+      "name": "WARREN COUNTY LIBRARY",
+      "system": "WARREN COUNTY LIBRARY",
+      "address": "2 SHOTWELL DRIVE, BELVIDERE, NJ",
+      "website": "https://www.warrenlib.org/headquarters",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07823",
+        "07825",
+        "07832",
+        "07833",
+        "07838",
+        "07846",
+        "07863",
+        "07865",
+        "07882",
+        "08886"
+      ]
+    },
+    {
+      "name": "HACKETTSTOWN FREE PUBLIC LIBRARY",
+      "system": "HACKETTSTOWN FREE PUBLIC LIBRARY",
+      "address": "110 CHURCH STREET, HACKETTSTOWN, NJ",
+      "website": "https://hackettstownlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07825",
+        "07832",
+        "07833",
+        "07838",
+        "07840",
+        "07846",
+        "07863",
+        "07865",
+        "07882",
+        "08886"
+      ]
+    },
+    {
+      "name": "BEDMINSTER-FAR HILLS",
+      "system": "BEDMINSTER-FAR HILLS",
+      "address": "2336 LAMINGTON ROAD, BEDMINSTER, NJ",
+      "website": "https://www.dillonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07059",
+        "07921",
+        "07931",
+        "07934",
+        "07977",
+        "08502",
+        "08528",
+        "08553",
+        "08558",
+        "08805",
+        "08807",
+        "08821",
+        "08823",
+        "08835",
+        "08836",
+        "08853",
+        "08876",
+        "08880"
+      ]
+    },
+    {
+      "name": "BERNARDS TOWNSHIP LIBRARY",
+      "system": "BERNARDS TOWNSHIP LIBRARY",
+      "address": "32 SOUTH MAPLE AVENUE, BASKING RIDGE, NJ",
+      "website": "https://bernardslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07059",
+        "07920",
+        "07931",
+        "07934",
+        "07977",
+        "08502",
+        "08528",
+        "08553",
+        "08558",
+        "08805",
+        "08807",
+        "08821",
+        "08823",
+        "08835",
+        "08836",
+        "08853",
+        "08876",
+        "08880"
+      ]
+    },
+    {
+      "name": "BERNARDSVILLE PUBLIC LIBRARY",
+      "system": "BERNARDSVILLE PUBLIC LIBRARY",
+      "address": "1 ANDERSON HILL ROAD, BERNARDSVILLE, NJ",
+      "website": "https://bernardsvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07059",
+        "07924",
+        "07931",
+        "07934",
+        "07977",
+        "08502",
+        "08528",
+        "08553",
+        "08558",
+        "08805",
+        "08807",
+        "08821",
+        "08823",
+        "08835",
+        "08836",
+        "08853",
+        "08876",
+        "08880"
       ]
     }
   ]

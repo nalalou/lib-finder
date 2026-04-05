@@ -1,6 +1,21 @@
 {
   "libraries": [
     {
+      "name": "DIVIDE COUNTY PUBLIC LIBRARY",
+      "system": "DIVIDE COUNTY PUBLIC LIBRARY",
+      "address": "204 FIRST STREET NE, CROSBY, ND",
+      "website": "https://dividecountyndlibrary.com/about/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58730",
+        "58765",
+        "58833",
+        "58844",
+        "588XX"
+      ]
+    },
+    {
       "name": "MCKENZIE COUNTY PUBLIC LIBRARY",
       "system": "MCKENZIE COUNTY PUBLIC LIBRARY",
       "address": "112 SECOND AVENUE NE, WATFORD CITY, ND",
@@ -8,7 +23,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58854"
+        "58634",
+        "58757",
+        "58831",
+        "58835",
+        "58838",
+        "58847",
+        "58854",
+        "588HH",
+        "59221",
+        "592HH"
       ]
     },
     {
@@ -19,7 +43,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58801"
+        "58755",
+        "58795",
+        "58801",
+        "58830",
+        "58843",
+        "58845",
+        "58849",
+        "58853",
+        "58856"
       ]
     },
     {
@@ -30,7 +62,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58852"
+        "58755",
+        "58795",
+        "58830",
+        "58843",
+        "58845",
+        "58849",
+        "58852",
+        "58853",
+        "58856"
       ]
     }
   ]

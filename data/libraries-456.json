@@ -8,7 +8,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45601"
+        "43101",
+        "43115",
+        "45601",
+        "45612",
+        "45628",
+        "45644",
+        "45647",
+        "45673",
+        "45681",
+        "456XX"
       ]
     },
     {
@@ -19,7 +28,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45631"
+        "45614",
+        "45620",
+        "45623",
+        "45631",
+        "45658",
+        "45674",
+        "45685",
+        "45686"
       ]
     },
     {
@@ -30,7 +46,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45638"
+        "45619",
+        "45638",
+        "45645",
+        "45659",
+        "45669",
+        "45678",
+        "45680",
+        "45688",
+        "45696"
       ]
     },
     {
@@ -41,7 +65,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45640"
+        "45621",
+        "45640",
+        "45672"
       ]
     },
     {
@@ -52,7 +78,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45660"
+        "45144",
+        "451HH",
+        "45616",
+        "45650",
+        "45660",
+        "45679",
+        "45693",
+        "45697",
+        "456HH"
       ]
     },
     {
@@ -63,7 +97,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45651"
+        "45622",
+        "45634",
+        "45651",
+        "45695",
+        "45698"
       ]
     },
     {
@@ -74,7 +112,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45656"
+        "45621",
+        "45656",
+        "45672"
       ]
     },
     {
@@ -85,7 +125,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45662"
+        "45629",
+        "45648",
+        "45652",
+        "45653",
+        "45657",
+        "45662",
+        "45663",
+        "45671",
+        "45682",
+        "45684",
+        "45694"
       ]
     },
     {
@@ -96,6 +146,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "45613",
+        "45624",
+        "45642",
+        "45646",
+        "45661",
         "45690"
       ]
     },
@@ -107,7 +162,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "45621",
+        "45672",
         "45692"
+      ]
+    },
+    {
+      "name": "LOGAN-HOCKING COUNTY DISTRICT LIBRARY",
+      "system": "LOGAN-HOCKING COUNTY DISTRICT LIBRARY",
+      "address": "230 EAST MAIN ST., LOGAN, OH",
+      "website": "https://www.loganhockinglibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43111",
+        "43127",
+        "43135",
+        "43138",
+        "43144",
+        "43149",
+        "43152",
+        "43158",
+        "45654"
       ]
     }
   ]

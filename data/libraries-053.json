@@ -1,6 +1,94 @@
 {
   "libraries": [
     {
+      "name": "GRAFTON PUBLIC",
+      "system": "GRAFTON PUBLIC",
+      "address": "204 MAIN ST., GRAFTON, VT",
+      "website": "http://graftonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05146",
+        "05148",
+        "05154",
+        "05344",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
+      ]
+    },
+    {
+      "name": "SOUTH LONDONDERRY FREE",
+      "system": "SOUTH LONDONDERRY FREE",
+      "address": "15 OLD SCHOOL ST., S. LONDONDERRY, VT",
+      "website": "https://www.slflibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05148",
+        "05154",
+        "05155",
+        "05344",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
+      ]
+    },
+    {
+      "name": "ROCKINGHAM FREE PUBLIC",
+      "system": "ROCKINGHAM FREE PUBLIC",
+      "address": "65 WESTMINSTER ST., BELLOWS FALLS, VT",
+      "website": "https://rockinghamlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05101",
+        "05148",
+        "05154",
+        "05344",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
+      ]
+    },
+    {
+      "name": "BUTTERFIELD",
+      "system": "BUTTERFIELD",
+      "address": "3534 US RTE. 5, WESTMINSTER, VT",
+      "website": "https://www.westminstervt.org/services/libraries/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05148",
+        "05154",
+        "05158",
+        "05344",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
+      ]
+    },
+    {
       "name": "BROOKS MEMORIAL",
       "system": "BROOKS MEMORIAL",
       "address": "224 MAIN ST., BRATTLEBORO, VT",
@@ -8,7 +96,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05301"
+        "05148",
+        "05154",
+        "05301",
+        "05344",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -19,7 +118,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05341"
+        "05148",
+        "05154",
+        "05341",
+        "05344",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -30,7 +140,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05301"
+        "05148",
+        "05154",
+        "05301",
+        "05344",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -41,7 +162,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05343"
+        "05148",
+        "05154",
+        "05343",
+        "05344",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -52,7 +184,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05345"
+        "05148",
+        "05154",
+        "05344",
+        "05345",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -63,7 +206,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05346"
+        "05148",
+        "05154",
+        "05344",
+        "05346",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -74,6 +228,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "05152",
+        "05252",
+        "05253",
+        "05254",
+        "05260",
+        "05262",
         "05350"
       ]
     },
@@ -85,6 +245,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "05152",
+        "05252",
+        "05253",
+        "05254",
+        "05260",
+        "05262",
         "05352"
       ]
     },
@@ -96,7 +262,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05353"
+        "05148",
+        "05154",
+        "05344",
+        "05351",
+        "05353",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -107,7 +284,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05354"
+        "05148",
+        "05154",
+        "05344",
+        "05351",
+        "05354",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -118,7 +306,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05355"
+        "05148",
+        "05154",
+        "05344",
+        "05351",
+        "05355",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -129,7 +328,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05346"
+        "05148",
+        "05154",
+        "05344",
+        "05346",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -140,7 +350,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05342"
+        "05148",
+        "05154",
+        "05342",
+        "05344",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -151,7 +372,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05363"
+        "05148",
+        "05154",
+        "05344",
+        "05351",
+        "05356",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "05363",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -162,7 +394,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05359"
+        "05148",
+        "05154",
+        "05344",
+        "05351",
+        "05356",
+        "05358",
+        "05359",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     },
     {
@@ -173,6 +416,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "05152",
+        "05252",
+        "05253",
+        "05254",
+        "05260",
+        "05262",
         "05340"
       ]
     },
@@ -184,7 +433,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05357"
+        "05148",
+        "05154",
+        "05344",
+        "05351",
+        "05356",
+        "05357",
+        "05358",
+        "05360",
+        "05361",
+        "05362",
+        "053HH",
+        "053XX"
       ]
     }
   ]

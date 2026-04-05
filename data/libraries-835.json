@@ -1,6 +1,42 @@
 {
   "libraries": [
     {
+      "name": "ELK RIVER DISTRICT",
+      "system": "ELK RIVER DISTRICT",
+      "address": "203 MAIN ST, ELK RIVER, ID",
+      "website": "https://elkriver.lili.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "83520",
+        "83541",
+        "83544",
+        "835HH",
+        "83827"
+      ]
+    },
+    {
+      "name": "LATAH COUNTY DISTRICT",
+      "system": "LATAH COUNTY DISTRICT",
+      "address": "110 S JEFFERSON ST, MOSCOW, ID",
+      "website": "https://www.latahlibrary.org/moscow/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "83535",
+        "83537",
+        "83806",
+        "83823",
+        "83832",
+        "83834",
+        "83843",
+        "83855",
+        "83857",
+        "83871",
+        "83872"
+      ]
+    },
+    {
       "name": "GRANGEVILLE CENTENNIAL",
       "system": "GRANGEVILLE CENTENNIAL",
       "address": "215 W NORTH ST, GRANGEVILLE, ID",
@@ -8,7 +44,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83530"
+        "83522",
+        "83525",
+        "83526",
+        "83530",
+        "83533",
+        "83536",
+        "83539",
+        "83542",
+        "83547",
+        "83552",
+        "83554",
+        "835XX",
+        "83671"
       ]
     },
     {
@@ -19,7 +67,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83501"
+        "83501",
+        "83524",
+        "83545"
       ]
     },
     {
@@ -30,7 +80,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83540"
+        "83524",
+        "83540",
+        "83545"
       ]
     },
     {
@@ -41,7 +93,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83553"
+        "83520",
+        "83541",
+        "83544",
+        "83553",
+        "835HH"
       ]
     },
     {
@@ -52,7 +108,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83546"
+        "83520",
+        "83541",
+        "83544",
+        "83546",
+        "835HH"
       ]
     },
     {
@@ -63,7 +123,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "83549"
+        "83522",
+        "83525",
+        "83526",
+        "83533",
+        "83536",
+        "83539",
+        "83542",
+        "83547",
+        "83549",
+        "83552",
+        "83554",
+        "835XX",
+        "83671"
       ]
     }
   ]

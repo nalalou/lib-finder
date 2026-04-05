@@ -1,6 +1,17 @@
 {
   "libraries": [
     {
+      "name": "STAUNTON PUBLIC LIBRARY",
+      "system": "STAUNTON PUBLIC LIBRARY",
+      "address": "1 CHURCHVILLE AVENUE, STAUNTON, VA",
+      "website": "https://www.cityofstauntonil.com/our-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24401"
+      ]
+    },
+    {
       "name": "ALLEGHANY HIGHLANDS REGIONAL LIBRARY",
       "system": "ALLEGHANY HIGHLANDS REGIONAL LIBRARY",
       "address": "406 W. RIVERSIDE STREET, COVINGTON, VA",
@@ -19,7 +30,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24422"
+        "24422",
+        "24448",
+        "24457",
+        "24474",
+        "244HH"
       ]
     },
     {
@@ -30,6 +45,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "24413",
+        "24433",
+        "24442",
+        "24458",
         "24465"
       ]
     },
@@ -45,14 +64,31 @@
       ]
     },
     {
-      "name": "STAUNTON PUBLIC LIBRARY",
-      "system": "STAUNTON PUBLIC LIBRARY",
-      "address": "1 CHURCHVILLE AVENUE, STAUNTON, VA",
-      "website": "https://www.cityofstauntonil.com/our-library",
+      "name": "AUGUSTA COUNTY LIBRARY",
+      "system": "AUGUSTA COUNTY LIBRARY",
+      "address": "1759 JEFFERSON HWY., FISHERSVILLE, VA",
+      "website": "https://augustacountylibrary.org/fishersville-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24401"
+        "22843",
+        "22939",
+        "22952",
+        "24421",
+        "24430",
+        "24431",
+        "24432",
+        "24437",
+        "24440",
+        "24459",
+        "24463",
+        "24467",
+        "24475",
+        "24477",
+        "24479",
+        "24482",
+        "24485",
+        "24486"
       ]
     }
   ]

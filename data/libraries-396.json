@@ -8,7 +8,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "39601"
+        "39601",
+        "39629",
+        "39662"
       ]
     },
     {
@@ -19,7 +21,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "39648"
+        "39632",
+        "39635",
+        "39648",
+        "39652",
+        "39657",
+        "39666"
       ]
     },
     {
@@ -30,7 +37,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "39669"
+        "39631",
+        "39633",
+        "39669",
+        "396XX"
+      ]
+    },
+    {
+      "name": "SOUTH MISSISSIPPI REGIONAL LIBRARY",
+      "system": "SOUTH MISSISSIPPI REGIONAL LIBRARY",
+      "address": "900 BROAD STREET, COLUMBIA, MS",
+      "website": "https://www.smrl.lib.ms.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "39429",
+        "39483",
+        "39643"
       ]
     }
   ]

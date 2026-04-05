@@ -1,6 +1,28 @@
 {
   "libraries": [
     {
+      "name": "ANTLERS PUBLIC LIBRARY",
+      "system": "ANTLERS PUBLIC LIBRARY",
+      "address": "104 SE 2ND STREET, ANTLERS, OK",
+      "website": "https://www.antlerslibrary.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74521",
+        "74523",
+        "74536",
+        "74543",
+        "74549",
+        "74557",
+        "74558",
+        "74562",
+        "74567",
+        "74574",
+        "745XX",
+        "747XX"
+      ]
+    },
+    {
       "name": "DURANT-DONALD REYNOLDS COMMUNITY CT & LIBRARY",
       "system": "DURANT-DONALD REYNOLDS COMMUNITY CT & LIBRARY",
       "address": "1515 WEST MAIN, DURANT, OK",
@@ -8,7 +30,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74701"
+        "73449",
+        "734HH",
+        "74701",
+        "74720",
+        "74721",
+        "74723",
+        "74726",
+        "74729",
+        "74730",
+        "74731",
+        "74733",
+        "74741",
+        "74747",
+        "74753",
+        "747HH"
       ]
     }
   ]

@@ -1,6 +1,93 @@
 {
   "libraries": [
     {
+      "name": "MARION COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "MARION COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "2720 EAST SILVER SPRINGS BOULEVARD, OCALA, FL",
+      "website": "https://library.marionfl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "32113",
+        "32134",
+        "32179",
+        "32182",
+        "32183",
+        "32195",
+        "32617",
+        "32664",
+        "32681",
+        "32686",
+        "34420",
+        "34431",
+        "34432",
+        "34470",
+        "34471",
+        "34472",
+        "34473",
+        "34474",
+        "34475",
+        "34476",
+        "34479",
+        "34480",
+        "34481",
+        "34482",
+        "34488",
+        "34491"
+      ]
+    },
+    {
+      "name": "LAKE COUNTY LIBRARY SYSTEM",
+      "system": "LAKE COUNTY LIBRARY SYSTEM",
+      "address": "2401 WOODLEA ROAD, TAVARES, FL",
+      "website": "https://www.mylakelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "32102",
+        "32159",
+        "32702",
+        "32726",
+        "32735",
+        "32736",
+        "32757",
+        "32767",
+        "32776",
+        "32778",
+        "32784",
+        "34705",
+        "34711",
+        "34731",
+        "34736",
+        "34737",
+        "34748",
+        "34753",
+        "34756",
+        "34762",
+        "34788",
+        "34797",
+        "347HH"
+      ]
+    },
+    {
+      "name": "ST. JOHNS COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "ST. JOHNS COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "6670 US 1 SOUTH, ST. AUGUSTINE, FL",
+      "website": "https://sjcpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "32033",
+        "32082",
+        "32084",
+        "32086",
+        "32092",
+        "32095",
+        "32145",
+        "32259"
+      ]
+    },
+    {
       "name": "FLAGLER BEACH PUBLIC LIBRARY",
       "system": "FLAGLER BEACH PUBLIC LIBRARY",
       "address": "315 SOUTH SEVENTH STREET, FLAGLER BEACH, FL",
@@ -8,7 +95,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "32136"
+        "32110",
+        "32136",
+        "32164",
+        "321HH",
+        "321XX"
       ]
     },
     {
@@ -19,7 +110,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "32137"
+        "32110",
+        "32137",
+        "32164",
+        "321HH",
+        "321XX"
       ]
     },
     {
@@ -30,7 +125,31 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "32124"
+        "32114",
+        "32117",
+        "32118",
+        "32119",
+        "32124",
+        "32127",
+        "32130",
+        "32132",
+        "32141",
+        "32168",
+        "32169",
+        "32174",
+        "32176",
+        "32180",
+        "32190",
+        "32706",
+        "32713",
+        "32720",
+        "32724",
+        "32725",
+        "32738",
+        "32744",
+        "32759",
+        "32763",
+        "32764"
       ]
     }
   ]

@@ -1,6 +1,22 @@
 {
   "libraries": [
     {
+      "name": "LINCOLN COUNTY PUBLIC LIBRARY",
+      "system": "LINCOLN COUNTY PUBLIC LIBRARY",
+      "address": "201 LANCASTER STREET, STANFORD, KY",
+      "website": "https://lcplinfo.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28033",
+        "28037",
+        "28080",
+        "28092",
+        "28168",
+        "40484"
+      ]
+    },
+    {
       "name": "BOYLE COUNTY PUBLIC LIBRARY",
       "system": "BOYLE COUNTY PUBLIC LIBRARY",
       "address": "307 WEST BROADWAY, DANVILLE, KY",
@@ -8,7 +24,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40422"
+        "40422",
+        "40440",
+        "40464",
+        "40468",
+        "404HH"
       ]
     },
     {
@@ -19,40 +39,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40444"
-      ]
-    },
-    {
-      "name": "JACKSON COUNTY PUBLIC LIBRARY",
-      "system": "JACKSON COUNTY PUBLIC LIBRARY",
-      "address": "338 NORTH MAIN STREET, MCKEE, KY",
-      "website": "https://www.myjclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "40447"
-      ]
-    },
-    {
-      "name": "LINCOLN COUNTY PUBLIC LIBRARY",
-      "system": "LINCOLN COUNTY PUBLIC LIBRARY",
-      "address": "201 LANCASTER STREET, STANFORD, KY",
-      "website": "https://lcplinfo.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "40484"
-      ]
-    },
-    {
-      "name": "MADISON COUNTY PUBLIC LIBRARY",
-      "system": "MADISON COUNTY PUBLIC LIBRARY",
-      "address": "507 WEST MAIN STREET, RICHMOND, KY",
-      "website": "https://www.madisonlibrary.org/locations/richmond",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "40475"
+        "40444",
+        "40461"
       ]
     },
     {
@@ -63,7 +51,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40456"
+        "40409",
+        "40445",
+        "40456",
+        "40460"
+      ]
+    },
+    {
+      "name": "ESTILL COUNTY PUBLIC LIBRARY",
+      "system": "ESTILL COUNTY PUBLIC LIBRARY",
+      "address": "184 BROADWAY STREET, IRVINE, KY",
+      "website": "https://estillpublib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40336",
+        "40472"
       ]
     }
   ]

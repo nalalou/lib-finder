@@ -1,6 +1,219 @@
 {
   "libraries": [
     {
+      "name": "AMERICAN FORK CITY LIBRARY",
+      "system": "AMERICAN FORK CITY LIBRARY",
+      "address": "64 SOUTH 100 EAST, AMERICAN FORK, UT",
+      "website": "http://americanfork.gov/203/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84003",
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
+      ]
+    },
+    {
+      "name": "LEHI CITY PUBLIC LIBRARY",
+      "system": "LEHI CITY PUBLIC LIBRARY",
+      "address": "120 NORTH CENTER STREET, LEHI, UT",
+      "website": "https://www.lehi-ut.gov/recreation-community/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84004",
+        "84013",
+        "84042",
+        "84043",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
+      ]
+    },
+    {
+      "name": "OREM PUBLIC LIBRARY",
+      "system": "OREM PUBLIC LIBRARY",
+      "address": "58 NORTH STATE STREET, OREM, UT",
+      "website": "https://oremlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84004",
+        "84013",
+        "84042",
+        "84057",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
+      ]
+    },
+    {
+      "name": "PLEASANT GROVE PUBLIC LIBRARY",
+      "system": "PLEASANT GROVE PUBLIC LIBRARY",
+      "address": "501 PARK ROAD, PLEASANT GROVE, AL",
+      "website": "https://www.pgcityutah.gov/departments/library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35127",
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
+      ]
+    },
+    {
+      "name": "HIGHLAND CITY LIBRARY",
+      "system": "HIGHLAND CITY LIBRARY",
+      "address": "5400 W CIVIC CENTER DR, SUITE 2, HIGHLAND, UT",
+      "website": "https://www.highlandut.gov/1160/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84003",
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
+      ]
+    },
+    {
+      "name": "SARATOGA SPRINGS PUBLIC LIBRARY",
+      "system": "SARATOGA SPRINGS PUBLIC LIBRARY",
+      "address": "49 HENRY STREET, SARATOGA SPRINGS, NY",
+      "website": "http://www.sspl.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12866",
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
+      ]
+    },
+    {
+      "name": "EAGLE MOUNTAIN PUBLIC LIBRARY",
+      "system": "EAGLE MOUNTAIN PUBLIC LIBRARY",
+      "address": "1650 E STAGECOACH RUN, EAGLE MOUNTAIN, UT",
+      "website": "https://eaglemountain.gov/eagle-mountain-city-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84004",
+        "84005",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
+      ]
+    },
+    {
+      "name": "JUAB COUNTY BOOKMOBILE LIBRARY",
+      "system": "JUAB COUNTY BOOKMOBILE LIBRARY",
+      "address": "79 NORTH 100 WEST, BICKNELL, UT",
+      "website": "https://utah.educationbug.org/library-outlets/15584-juab-county-bookmobile-library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84628",
+        "84639",
+        "84645",
+        "846XX",
+        "84715"
+      ]
+    },
+    {
+      "name": "SEVIER COUNTY BOOKMOBILE LIBRARY",
+      "system": "SEVIER COUNTY BOOKMOBILE LIBRARY",
+      "address": "79 NORTH 100 WEST, BICKNELL, UT",
+      "website": "https://bookmobiles.utah.gov/tri/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84620",
+        "84652",
+        "84654",
+        "84657",
+        "84711",
+        "84715",
+        "84724",
+        "84730",
+        "84739",
+        "84744",
+        "84754",
+        "84766"
+      ]
+    },
+    {
+      "name": "RICHFIELD PUBLIC LIBRARY",
+      "system": "RICHFIELD PUBLIC LIBRARY",
+      "address": "83 EAST CENTER STREET, RICHFIELD, UT",
+      "website": "https://richfieldlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84620",
+        "84652",
+        "84654",
+        "84657",
+        "84701",
+        "84711",
+        "84724",
+        "84730",
+        "84739",
+        "84744",
+        "84754",
+        "84766"
+      ]
+    },
+    {
       "name": "NEPHI PUBLIC LIBRARY",
       "system": "NEPHI PUBLIC LIBRARY",
       "address": "21 EAST 100 NORTH, NEPHI, UT",
@@ -8,7 +221,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84648"
+        "84628",
+        "84639",
+        "84645",
+        "84648",
+        "846XX"
       ]
     },
     {
@@ -19,7 +236,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84624"
+        "84624",
+        "84635",
+        "84636",
+        "84637",
+        "84638",
+        "84640",
+        "84649",
+        "84650",
+        "84656",
+        "846HH",
+        "84728"
       ]
     },
     {
@@ -30,7 +257,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84624"
+        "84624",
+        "84635",
+        "84636",
+        "84637",
+        "84638",
+        "84640",
+        "84649",
+        "84650",
+        "84656",
+        "846HH",
+        "84728"
       ]
     },
     {
@@ -41,7 +278,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84631"
+        "84631",
+        "84635",
+        "84636",
+        "84637",
+        "84638",
+        "84640",
+        "84649",
+        "84650",
+        "84656",
+        "846HH",
+        "84728"
       ]
     },
     {
@@ -52,7 +299,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84629"
+        "84621",
+        "84622",
+        "84623",
+        "84629",
+        "84630",
+        "84632",
+        "84643",
+        "84646",
+        "84662",
+        "84667"
       ]
     },
     {
@@ -63,7 +319,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84627"
+        "84621",
+        "84622",
+        "84623",
+        "84627",
+        "84630",
+        "84632",
+        "84643",
+        "84646",
+        "84662",
+        "84667"
       ]
     },
     {
@@ -74,7 +339,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84634"
+        "84621",
+        "84622",
+        "84623",
+        "84630",
+        "84632",
+        "84634",
+        "84643",
+        "84646",
+        "84662",
+        "84667"
       ]
     },
     {
@@ -85,7 +359,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84642"
+        "84621",
+        "84622",
+        "84623",
+        "84630",
+        "84632",
+        "84642",
+        "84643",
+        "84646",
+        "84662",
+        "84667"
       ]
     },
     {
@@ -96,18 +379,38 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84647"
+        "84621",
+        "84622",
+        "84623",
+        "84630",
+        "84632",
+        "84643",
+        "84646",
+        "84647",
+        "84662",
+        "84667"
       ]
     },
     {
       "name": "SALINA PUBLIC LIBRARY",
       "system": "SALINA PUBLIC LIBRARY",
-      "address": "90 WEST MAIN STREET, SALINA, UT",
+      "address": "301 W. ELM STREET, SALINA, KS",
       "website": "https://salinapubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84654"
+        "67401",
+        "84620",
+        "84652",
+        "84654",
+        "84657",
+        "84711",
+        "84724",
+        "84730",
+        "84739",
+        "84744",
+        "84754",
+        "84766"
       ]
     },
     {
@@ -118,6 +421,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663",
         "84664"
       ]
     },
@@ -129,7 +443,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84651"
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84651",
+        "84663"
       ]
     },
     {
@@ -140,7 +465,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84601"
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84601",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84663"
       ]
     },
     {
@@ -151,7 +487,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84655"
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84655",
+        "84663"
       ]
     },
     {
@@ -162,17 +509,39 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84660"
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84660",
+        "84663"
       ]
     },
     {
       "name": "SPRINGVILLE PUBLIC LIBRARY",
       "system": "SPRINGVILLE PUBLIC LIBRARY",
-      "address": "45 SOUTH MAIN STREET, SPRINGVILLE, UT",
+      "address": "6315 U.S. HIGHWAY 11, SPRINGVILLE, AL",
       "website": "https://library.utah.gov/directory/listing/springville-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35146",
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
         "84663"
       ]
     },
@@ -184,7 +553,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84653"
+        "84004",
+        "84013",
+        "84042",
+        "84058",
+        "84062",
+        "84097",
+        "84604",
+        "84606",
+        "84626",
+        "84633",
+        "84653",
+        "84663"
       ]
     }
   ]

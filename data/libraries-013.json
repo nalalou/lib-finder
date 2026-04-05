@@ -1,113 +1,26 @@
 {
   "libraries": [
     {
-      "name": "BELDING MEMORIAL LIBRARY",
-      "system": "BELDING MEMORIAL LIBRARY",
-      "address": "344 MAIN ST., ASHFIELD, MA",
-      "website": "http://beldingmemoriallibrary.org",
+      "name": "ROBERTSON MEMORIAL LIBRARY",
+      "system": "ROBERTSON MEMORIAL LIBRARY",
+      "address": "849 GREENFIELD ROAD, LEYDEN, MA",
+      "website": "https://townofleyden.com/p/11/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01330"
-      ]
-    },
-    {
-      "name": "ATHOL PUBLIC LIBRARY",
-      "system": "ATHOL PUBLIC LIBRARY",
-      "address": "568 MAIN STREET, ATHOL, MA",
-      "website": "https://www.athollibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01331"
-      ]
-    },
-    {
-      "name": "CUSHMAN LIBRARY",
-      "system": "CUSHMAN LIBRARY",
-      "address": "28 CHURCH STREET, BERNARDSTON, MA",
-      "website": "http://www.townofbernardston.org/cushman-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01337"
-      ]
-    },
-    {
-      "name": "BUCKLAND PUBLIC LIBRARY",
-      "system": "BUCKLAND PUBLIC LIBRARY",
-      "address": "30 UPPER ST., BUCKLAND, MA",
-      "website": "https://bucklandpubliclibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01338"
-      ]
-    },
-    {
-      "name": "TYLER MEMORIAL LIBRARY",
-      "system": "TYLER MEMORIAL LIBRARY",
-      "address": "157 MAIN ST., CHARLEMONT, MA",
-      "website": "https://charlemont-ma.us/p/25/Tyler-Memorial-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01339"
-      ]
-    },
-    {
-      "name": "GRISWOLD MEMORIAL LIBRARY",
-      "system": "GRISWOLD MEMORIAL LIBRARY",
-      "address": "12 MAIN RD., COLRAIN, MA",
-      "website": "https://colrain-ma.gov/p/27/Public-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01340"
-      ]
-    },
-    {
-      "name": "FIELD MEMORIAL LIBRARY",
-      "system": "FIELD MEMORIAL LIBRARY",
-      "address": "1 ELM STREET, CONWAY, MA",
-      "website": "https://fieldmemoriallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01341"
-      ]
-    },
-    {
-      "name": "TILTON LIBRARY",
-      "system": "TILTON LIBRARY",
-      "address": "75 NORTH MAIN STREET, DEERFIELD, MA",
-      "website": "https://www.tiltonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01373"
-      ]
-    },
-    {
-      "name": "ERVING PUBLIC LIBRARY",
-      "system": "ERVING PUBLIC LIBRARY",
-      "address": "2 CARE DRIVE, ERVING, MA",
-      "website": "https://www.erving-ma.gov/erving-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01344"
-      ]
-    },
-    {
-      "name": "SLATE MEMORIAL LIBRARY",
-      "system": "SLATE MEMORIAL LIBRARY",
-      "address": "332 MAIN ROAD, GILL, MA",
-      "website": "https://gillmass.org/p/31/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01354"
+        "01301",
+        "64001",
+        "64011",
+        "64020",
+        "64021",
+        "64022",
+        "64037",
+        "64067",
+        "64071",
+        "64074",
+        "64076",
+        "64096",
+        "64097"
       ]
     },
     {
@@ -118,29 +31,86 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01301"
+        "01301",
+        "53132",
+        "53202",
+        "53203",
+        "53204",
+        "53205",
+        "53206",
+        "53207",
+        "53208",
+        "53209",
+        "53210",
+        "53212",
+        "53215",
+        "53216",
+        "53218",
+        "53219",
+        "53220",
+        "53221",
+        "53222",
+        "53224",
+        "53225",
+        "53226",
+        "53227",
+        "53228",
+        "53235",
+        "532HH"
       ]
     },
     {
-      "name": "HEATH FREE PUBLIC LIBRARY",
-      "system": "HEATH FREE PUBLIC LIBRARY",
-      "address": "18 JACOBS RD., HEATH, MA",
-      "website": "http://www.heathlibrary.org",
+      "name": "LEVERETT LIBRARY",
+      "system": "LEVERETT LIBRARY",
+      "address": "75 MONTAGUE ROAD, LEVERETT, MA",
+      "website": "https://www.leverettlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01339"
+        "01054",
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01380",
+        "013HH"
       ]
     },
     {
-      "name": "ROBERTSON MEMORIAL LIBRARY",
-      "system": "ROBERTSON MEMORIAL LIBRARY",
-      "address": "849 GREENFIELD ROAD, LEYDEN, MA",
-      "website": "https://townofleyden.com/p/11/Library",
+      "name": "M. N. SPEAR MEMORIAL LIBRARY",
+      "system": "M. N. SPEAR MEMORIAL LIBRARY",
+      "address": "10 COOLEYVILLE ROAD, SHUTESBURY, MA",
+      "website": "https://www.shutesbury.org/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01301"
+        "01072",
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01380",
+        "013HH"
+      ]
+    },
+    {
+      "name": "S. WHITE DICKINSON MEMORIAL LIBRARY",
+      "system": "S. WHITE DICKINSON MEMORIAL LIBRARY",
+      "address": "202 CHESTNUT PLAIN ROAD, WHATELY, MA",
+      "website": "https://www.whately.org/departments/library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01093",
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01380",
+        "013HH"
       ]
     },
     {
@@ -151,7 +121,230 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01350"
+        "01350",
+        "53522",
+        "53550",
+        "53566"
+      ]
+    },
+    {
+      "name": "BELDING MEMORIAL LIBRARY",
+      "system": "BELDING MEMORIAL LIBRARY",
+      "address": "344 MAIN ST., ASHFIELD, MA",
+      "website": "http://beldingmemoriallibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "010HH",
+        "01330",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01380",
+        "013HH"
+      ]
+    },
+    {
+      "name": "ATHOL PUBLIC LIBRARY",
+      "system": "ATHOL PUBLIC LIBRARY",
+      "address": "568 MAIN STREET, ATHOL, MA",
+      "website": "https://www.athollibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01083",
+        "01331",
+        "01420",
+        "01430",
+        "01436",
+        "01438",
+        "01467",
+        "014HH",
+        "01518",
+        "01519",
+        "01522",
+        "01534",
+        "01536",
+        "01537",
+        "01541",
+        "01542",
+        "01560",
+        "015HH",
+        "01602",
+        "01603",
+        "01604",
+        "01605",
+        "01606",
+        "01607",
+        "01609",
+        "01610",
+        "01611",
+        "016HH",
+        "01745",
+        "01756"
+      ]
+    },
+    {
+      "name": "CUSHMAN LIBRARY",
+      "system": "CUSHMAN LIBRARY",
+      "address": "28 CHURCH STREET, BERNARDSTON, MA",
+      "website": "http://www.townofbernardston.org/cushman-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "010HH",
+        "01337",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01380",
+        "013HH"
+      ]
+    },
+    {
+      "name": "BUCKLAND PUBLIC LIBRARY",
+      "system": "BUCKLAND PUBLIC LIBRARY",
+      "address": "30 UPPER ST., BUCKLAND, MA",
+      "website": "https://bucklandpubliclibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "010HH",
+        "01338",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01380",
+        "013HH"
+      ]
+    },
+    {
+      "name": "TYLER MEMORIAL LIBRARY",
+      "system": "TYLER MEMORIAL LIBRARY",
+      "address": "157 MAIN ST., CHARLEMONT, MA",
+      "website": "https://charlemont-ma.us/p/25/Tyler-Memorial-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "010HH",
+        "01339",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01380",
+        "013HH"
+      ]
+    },
+    {
+      "name": "GRISWOLD MEMORIAL LIBRARY",
+      "system": "GRISWOLD MEMORIAL LIBRARY",
+      "address": "12 MAIN RD., COLRAIN, MA",
+      "website": "https://colrain-ma.gov/p/27/Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "010HH",
+        "01340",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01380",
+        "013HH"
+      ]
+    },
+    {
+      "name": "FIELD MEMORIAL LIBRARY",
+      "system": "FIELD MEMORIAL LIBRARY",
+      "address": "1 ELM STREET, CONWAY, MA",
+      "website": "https://fieldmemoriallibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "010HH",
+        "01341",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01380",
+        "013HH"
+      ]
+    },
+    {
+      "name": "TILTON LIBRARY",
+      "system": "TILTON LIBRARY",
+      "address": "75 NORTH MAIN STREET, DEERFIELD, MA",
+      "website": "https://www.tiltonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01373",
+        "01380",
+        "013HH"
+      ]
+    },
+    {
+      "name": "ERVING PUBLIC LIBRARY",
+      "system": "ERVING PUBLIC LIBRARY",
+      "address": "2 CARE DRIVE, ERVING, MA",
+      "website": "https://www.erving-ma.gov/erving-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "010HH",
+        "01342",
+        "01344",
+        "01346",
+        "01349",
+        "01351",
+        "01380",
+        "013HH"
+      ]
+    },
+    {
+      "name": "SLATE MEMORIAL LIBRARY",
+      "system": "SLATE MEMORIAL LIBRARY",
+      "address": "332 MAIN ROAD, GILL, MA",
+      "website": "https://gillmass.org/p/31/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01354",
+        "01380",
+        "013HH"
+      ]
+    },
+    {
+      "name": "HEATH FREE PUBLIC LIBRARY",
+      "system": "HEATH FREE PUBLIC LIBRARY",
+      "address": "18 JACOBS RD., HEATH, MA",
+      "website": "http://www.heathlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "010HH",
+        "01339",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01380",
+        "013HH"
       ]
     },
     {
@@ -162,7 +355,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01376"
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01376",
+        "01380",
+        "013HH"
       ]
     },
     {
@@ -173,7 +373,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01355"
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01355",
+        "01380",
+        "013HH"
       ]
     },
     {
@@ -184,7 +391,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01360"
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01360",
+        "01380",
+        "013HH"
       ]
     },
     {
@@ -195,7 +409,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01364"
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01364",
+        "01380",
+        "013HH"
       ]
     },
     {
@@ -206,7 +427,36 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01366"
+        "01083",
+        "01366",
+        "01420",
+        "01430",
+        "01436",
+        "01438",
+        "01467",
+        "014HH",
+        "01518",
+        "01519",
+        "01522",
+        "01534",
+        "01536",
+        "01537",
+        "01541",
+        "01542",
+        "01560",
+        "015HH",
+        "01602",
+        "01603",
+        "01604",
+        "01605",
+        "01606",
+        "01607",
+        "01609",
+        "01610",
+        "01611",
+        "016HH",
+        "01745",
+        "01756"
       ]
     },
     {
@@ -217,7 +467,36 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01331"
+        "01083",
+        "01331",
+        "01420",
+        "01430",
+        "01436",
+        "01438",
+        "01467",
+        "014HH",
+        "01518",
+        "01519",
+        "01522",
+        "01534",
+        "01536",
+        "01537",
+        "01541",
+        "01542",
+        "01560",
+        "015HH",
+        "01602",
+        "01603",
+        "01604",
+        "01605",
+        "01606",
+        "01607",
+        "01609",
+        "01610",
+        "01611",
+        "016HH",
+        "01745",
+        "01756"
       ]
     },
     {
@@ -228,7 +507,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01367"
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01367",
+        "01380",
+        "013HH"
       ]
     },
     {
@@ -239,7 +525,36 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01368"
+        "01083",
+        "01368",
+        "01420",
+        "01430",
+        "01436",
+        "01438",
+        "01467",
+        "014HH",
+        "01518",
+        "01519",
+        "01522",
+        "01534",
+        "01536",
+        "01537",
+        "01541",
+        "01542",
+        "01560",
+        "015HH",
+        "01602",
+        "01603",
+        "01604",
+        "01605",
+        "01606",
+        "01607",
+        "01609",
+        "01610",
+        "01611",
+        "016HH",
+        "01745",
+        "01756"
       ]
     },
     {
@@ -250,7 +565,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01370"
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01370",
+        "01380",
+        "013HH"
       ]
     },
     {
@@ -261,7 +583,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01375"
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01375",
+        "01380",
+        "013HH"
       ]
     },
     {
@@ -272,7 +601,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01378"
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01378",
+        "01380",
+        "013HH"
       ]
     },
     {
@@ -283,7 +619,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01379"
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01379",
+        "01380",
+        "013HH"
       ]
     },
     {
@@ -294,7 +637,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01370"
+        "010HH",
+        "01342",
+        "01346",
+        "01349",
+        "01351",
+        "01370",
+        "01380",
+        "013HH"
       ]
     }
   ]

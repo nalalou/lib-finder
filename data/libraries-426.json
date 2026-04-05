@@ -8,29 +8,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42602"
-      ]
-    },
-    {
-      "name": "RUSSELL COUNTY PUBLIC LIBRARY",
-      "system": "RUSSELL COUNTY PUBLIC LIBRARY",
-      "address": "535 NORTH MAIN STREET, JAMESTOWN, KY",
-      "website": "https://russellcountylibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "42629"
-      ]
-    },
-    {
-      "name": "WAYNE COUNTY PUBLIC LIBRARY",
-      "system": "WAYNE COUNTY PUBLIC LIBRARY",
-      "address": "157 ROLLING HILLS BLVD, MONTICELLO, KY",
-      "website": "https://www.visitwaynecountyohio.com/listing/wayne-county-public-library/93/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "42633"
+        "42602",
+        "426HH"
       ]
     },
     {
@@ -41,7 +20,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42653"
+        "42631",
+        "42634",
+        "42635",
+        "42638",
+        "42647",
+        "42649",
+        "42653",
+        "426XX"
       ]
     }
   ]

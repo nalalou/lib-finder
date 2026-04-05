@@ -1,6 +1,34 @@
 {
   "libraries": [
     {
+      "name": "HOWARD COUNTY LIBRARY SYSTEM",
+      "system": "HOWARD COUNTY LIBRARY SYSTEM",
+      "address": "9411 FREDERICK ROAD, ELLICOTT CITY, MD",
+      "website": "https://www.hclibrary.org/locations/miller/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "20701",
+        "20723",
+        "20759",
+        "20763",
+        "20777",
+        "21029",
+        "21036",
+        "21042",
+        "21043",
+        "21044",
+        "21045",
+        "21046",
+        "21075",
+        "21723",
+        "21737",
+        "21738",
+        "21794",
+        "21797"
+      ]
+    },
+    {
       "name": "CARROLL COUNTY PUBLIC LIBRARY",
       "system": "CARROLL COUNTY PUBLIC LIBRARY",
       "address": "1100 GREEN VALLEY ROAD, NEW WINDSOR, MD",
@@ -8,7 +36,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "21776"
+        "21048",
+        "21074",
+        "21102",
+        "21104",
+        "21157",
+        "21158",
+        "21776",
+        "21784",
+        "21787",
+        "21791"
       ]
     },
     {
@@ -19,7 +56,33 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "21701"
+        "208HH",
+        "21701",
+        "21702",
+        "21703",
+        "21704",
+        "21710",
+        "21716",
+        "21717",
+        "21718",
+        "21727",
+        "21754",
+        "21755",
+        "21757",
+        "21758",
+        "21762",
+        "21769",
+        "21770",
+        "21771",
+        "21773",
+        "21774",
+        "21777",
+        "21778",
+        "21780",
+        "21788",
+        "21790",
+        "21793",
+        "21798"
       ]
     },
     {
@@ -30,7 +93,50 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "21740"
+        "21711",
+        "21713",
+        "21719",
+        "21722",
+        "21733",
+        "21734",
+        "21740",
+        "21742",
+        "21750",
+        "21756",
+        "21767",
+        "21779",
+        "21782",
+        "21783",
+        "21795"
+      ]
+    },
+    {
+      "name": "ALLEGANY COUNTY LIBRARY SYSTEM",
+      "system": "ALLEGANY COUNTY LIBRARY SYSTEM",
+      "address": "31 WASHINGTON ST, CUMBERLAND, MD",
+      "website": "https://www.alleganycountylibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "21502",
+        "21521",
+        "21524",
+        "21528",
+        "21529",
+        "21530",
+        "21532",
+        "21539",
+        "21540",
+        "21542",
+        "21543",
+        "21545",
+        "21555",
+        "21557",
+        "21560",
+        "21562",
+        "215HH",
+        "21766",
+        "217HH"
       ]
     }
   ]

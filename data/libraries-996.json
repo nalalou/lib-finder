@@ -1,6 +1,22 @@
 {
   "libraries": [
     {
+      "name": "PALMER PUBLIC LIBRARY",
+      "system": "PALMER PUBLIC LIBRARY",
+      "address": "655 SOUTH VALLEY WAY, PALMER, AK",
+      "website": "https://www.palmerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "371XX",
+        "37301",
+        "37339",
+        "37365",
+        "37366",
+        "99645"
+      ]
+    },
+    {
       "name": "BIG LAKE PUBLIC LIBRARY",
       "system": "BIG LAKE PUBLIC LIBRARY",
       "address": "3140 SOUTH BIG LAKE ROAD, WASILLA, AK",
@@ -20,17 +36,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99615"
-      ]
-    },
-    {
-      "name": "HOMER PUBLIC LIBRARY",
-      "system": "HOMER PUBLIC LIBRARY",
-      "address": "500 HAZEL AVENUE, HOMER, AK",
-      "website": "https://www.cityofhomer-ak.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "99603"
       ]
     },
     {
@@ -108,17 +113,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99639"
-      ]
-    },
-    {
-      "name": "PALMER PUBLIC LIBRARY",
-      "system": "PALMER PUBLIC LIBRARY",
-      "address": "655 SOUTH VALLEY WAY, PALMER, AK",
-      "website": "https://www.palmerlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "99645"
       ]
     },
     {

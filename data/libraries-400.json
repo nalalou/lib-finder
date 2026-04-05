@@ -8,18 +8,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40019"
-      ]
-    },
-    {
-      "name": "MARION COUNTY PUBLIC LIBRARY",
-      "system": "MARION COUNTY PUBLIC LIBRARY",
-      "address": "201 EAST MAIN STREET, LEBANON, KY",
-      "website": "https://www.marioncopublic.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "40033"
+        "40007",
+        "40011",
+        "40019",
+        "40036",
+        "40050",
+        "40057",
+        "40058",
+        "40068",
+        "40070",
+        "400HH"
       ]
     },
     {
@@ -30,18 +28,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40004"
-      ]
-    },
-    {
-      "name": "OLDHAM COUNTY PUBLIC LIBRARY",
-      "system": "OLDHAM COUNTY PUBLIC LIBRARY",
-      "address": "308 YAGER AVENUE, LAGRANGE, KY",
-      "website": "https://librarytechnology.org/library/10349",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "40031"
+        "40004",
+        "40008",
+        "40012",
+        "40013",
+        "40020",
+        "40051",
+        "40052",
+        "40107"
       ]
     },
     {
@@ -52,18 +46,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40065"
+        "40003",
+        "40022",
+        "40065",
+        "40067",
+        "40076"
       ]
     },
     {
       "name": "SPENCER COUNTY PUBLIC LIBRARY",
       "system": "SPENCER COUNTY PUBLIC LIBRARY",
-      "address": "168 TAYLORSVILLE ROAD, TAYLORSVILLE, KY",
+      "address": "210 WALNUT STREET, ROCKPORT, IN",
       "website": "https://spencercountypubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40071"
+        "40046",
+        "40071",
+        "47635"
       ]
     },
     {
@@ -74,18 +74,68 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40006"
+        "40006",
+        "40045"
       ]
     },
     {
-      "name": "WASHINGTON COUNTY PUBLIC LIBRARY",
-      "system": "WASHINGTON COUNTY PUBLIC LIBRARY",
-      "address": "333 WEST MAIN STREET, SPRINGFIELD, KY",
-      "website": "https://www.wcplib.info/marietta-branch",
+      "name": "BULLITT COUNTY LIBRARY DISTRICT",
+      "system": "BULLITT COUNTY LIBRARY DISTRICT",
+      "address": "740 CONESTOGA PARKWAY, SHEPHERDSVILLE, KY",
+      "website": "https://bcplib.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40069"
+        "40047",
+        "40109",
+        "40150",
+        "40165",
+        "401XX"
+      ]
+    },
+    {
+      "name": "LOUISVILLE FREE PUBLIC LIBRARY",
+      "system": "LOUISVILLE FREE PUBLIC LIBRARY",
+      "address": "301 YORK STREET, LOUISVILLE, KY",
+      "website": "https://www.lfpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40023",
+        "40059",
+        "40118",
+        "40202",
+        "40203",
+        "40204",
+        "40205",
+        "40206",
+        "40207",
+        "40208",
+        "40209",
+        "40210",
+        "40211",
+        "40212",
+        "40213",
+        "40214",
+        "40215",
+        "40216",
+        "40217",
+        "40218",
+        "40219",
+        "40220",
+        "40222",
+        "40223",
+        "40228",
+        "40229",
+        "40241",
+        "40242",
+        "40243",
+        "40245",
+        "40258",
+        "40272",
+        "40291",
+        "40299",
+        "402HH"
       ]
     }
   ]

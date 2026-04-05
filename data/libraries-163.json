@@ -1,6 +1,138 @@
 {
   "libraries": [
     {
+      "name": "CLARION FREE LIBRARY",
+      "system": "CLARION FREE LIBRARY",
+      "address": "644 MAIN ST., CLARION, PA",
+      "website": "https://clarionfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16049",
+        "16054",
+        "16213",
+        "16214",
+        "16224",
+        "16230",
+        "16233",
+        "16234",
+        "16235",
+        "16254",
+        "16255",
+        "16258",
+        "16260",
+        "16326",
+        "16331",
+        "16332",
+        "16334",
+        "16361",
+        "163HH"
+      ]
+    },
+    {
+      "name": "KNOX PUBLIC LIBRARY",
+      "system": "KNOX PUBLIC LIBRARY",
+      "address": "305 NORTH MAIN ST, KNOX, PA",
+      "website": "https://knoxpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16049",
+        "16054",
+        "16213",
+        "16224",
+        "16230",
+        "16232",
+        "16233",
+        "16234",
+        "16235",
+        "16254",
+        "16255",
+        "16258",
+        "16260",
+        "16326",
+        "16331",
+        "16332",
+        "16334",
+        "16361",
+        "163HH"
+      ]
+    },
+    {
+      "name": "REDBANK VALLEY PUBLIC LIBRARY",
+      "system": "REDBANK VALLEY PUBLIC LIBRARY",
+      "address": "720 BROAD ST, NEW BETHLEHEM, PA",
+      "website": "https://rvlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16049",
+        "16054",
+        "16213",
+        "16224",
+        "16230",
+        "16233",
+        "16234",
+        "16235",
+        "16242",
+        "16254",
+        "16255",
+        "16258",
+        "16260",
+        "16326",
+        "16331",
+        "16332",
+        "16334",
+        "16361",
+        "163HH"
+      ]
+    },
+    {
+      "name": "ECCLES LESHER MEMORIAL LIBRARY",
+      "system": "ECCLES LESHER MEMORIAL LIBRARY",
+      "address": "673 MAIN ST., RIMERSBURG, PA",
+      "website": "https://eccles-lesher.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16049",
+        "16054",
+        "16213",
+        "16224",
+        "16230",
+        "16233",
+        "16234",
+        "16235",
+        "16248",
+        "16254",
+        "16255",
+        "16258",
+        "16260",
+        "16326",
+        "16331",
+        "16332",
+        "16334",
+        "16361",
+        "163HH"
+      ]
+    },
+    {
+      "name": "MARIENVILLE AREA LIBRARY",
+      "system": "MARIENVILLE AREA LIBRARY",
+      "address": "106 PINE ST., MARIENVILLE, PA",
+      "website": "https://www.marienvillelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16217",
+        "16239",
+        "162XX",
+        "16321",
+        "16322",
+        "16370"
+      ]
+    },
+    {
       "name": "MARGARET SHONTZ MEM LIBRARY",
       "system": "MARGARET SHONTZ MEM LIBRARY",
       "address": "145 SECOND ST, CONNEAUT LAKE, PA",
@@ -8,7 +140,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16316"
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16316",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
       ]
     },
     {
@@ -19,7 +162,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16354"
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16354",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
       ]
     },
     {
@@ -30,7 +184,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16347"
+        "16313",
+        "16329",
+        "16340",
+        "16345",
+        "16347",
+        "16352",
+        "163XX",
+        "16402",
+        "16405",
+        "16416",
+        "16420",
+        "16436"
       ]
     },
     {
@@ -41,7 +206,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16350"
+        "16313",
+        "16329",
+        "16340",
+        "16345",
+        "16350",
+        "16352",
+        "163XX",
+        "16402",
+        "16405",
+        "16416",
+        "16420",
+        "16436"
       ]
     },
     {
@@ -52,7 +228,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16351"
+        "16313",
+        "16329",
+        "16340",
+        "16345",
+        "16351",
+        "16352",
+        "163XX",
+        "16402",
+        "16405",
+        "16416",
+        "16420",
+        "16436"
       ]
     },
     {
@@ -63,7 +250,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16365"
+        "16313",
+        "16329",
+        "16340",
+        "16345",
+        "16352",
+        "16365",
+        "163XX",
+        "16402",
+        "16405",
+        "16416",
+        "16420",
+        "16436"
       ]
     },
     {
@@ -74,7 +272,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16371"
+        "16313",
+        "16329",
+        "16340",
+        "16345",
+        "16352",
+        "16371",
+        "163XX",
+        "16402",
+        "16405",
+        "16416",
+        "16420",
+        "16436"
       ]
     },
     {
@@ -85,7 +294,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16301"
+        "16301",
+        "16317",
+        "16319",
+        "16323",
+        "16341",
+        "16342",
+        "16343",
+        "16344",
+        "16346",
+        "16362",
+        "16364",
+        "16372",
+        "16373",
+        "16374"
       ]
     },
     {
@@ -96,7 +318,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16314"
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16314",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
       ]
     },
     {
@@ -107,7 +340,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16335"
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16335",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
       ]
     },
     {
@@ -118,7 +362,255 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16353"
+        "16217",
+        "162XX",
+        "16321",
+        "16322",
+        "16353",
+        "16370"
+      ]
+    },
+    {
+      "name": "CAMBRIDGE SPRINGS PUB LIBRARY ASSOCIATION",
+      "system": "CAMBRIDGE SPRINGS PUB LIBRARY ASSOCIATION",
+      "address": "158 MCCLELLAN ST, CAMBRIDGE SPRINGS, PA",
+      "website": "https://cambridge.ccfls.org/Library/3/Branch",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16403",
+        "16404",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "JAMES A STONE MEMORIAL LIBRARY",
+      "system": "JAMES A STONE MEMORIAL LIBRARY",
+      "address": "1101 MAIN STREET, CONNEAUTVILLE, PA",
+      "website": "https://stone.ccfls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16404",
+        "16406",
+        "16422",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "LINESVILLE COMMUNITY PUBLIC LIBRARY",
+      "system": "LINESVILLE COMMUNITY PUBLIC LIBRARY",
+      "address": "111 PENN STREET, LINESVILLE, PA",
+      "website": "https://linesville.ccfls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16424",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "SAEGERTOWN AREA LIBRARY",
+      "system": "SAEGERTOWN AREA LIBRARY",
+      "address": "325 BROAD ST, SAEGERTOWN, PA",
+      "website": "https://saegertown.ccfls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16433",
+        "16434",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "SPRINGBORO PUBLIC LIBRARY",
+      "system": "SPRINGBORO PUBLIC LIBRARY",
+      "address": "110 S MAIN ST, SPRINGBORO, PA",
+      "website": "https://springboro.ccfls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16110",
+        "16111",
+        "16131",
+        "16134",
+        "16327",
+        "16360",
+        "16404",
+        "16422",
+        "16434",
+        "16435",
+        "16440",
+        "164HH"
+      ]
+    },
+    {
+      "name": "FOXBURG FREE LIBRARY ASSOC",
+      "system": "FOXBURG FREE LIBRARY ASSOC",
+      "address": "31 MAIN STREET, FOXBURG, PA",
+      "website": "https://foxburglibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16036",
+        "16049",
+        "16054",
+        "16213",
+        "16224",
+        "16230",
+        "16233",
+        "16234",
+        "16235",
+        "16254",
+        "16255",
+        "16258",
+        "16260",
+        "16326",
+        "16331",
+        "16332",
+        "16334",
+        "16361",
+        "163HH"
+      ]
+    },
+    {
+      "name": "GREENVILLE AREA PUBLIC LIBRARY",
+      "system": "GREENVILLE AREA PUBLIC LIBRARY",
+      "address": "330 MAIN ST, GREENVILLE, PA",
+      "website": "https://www.greenvillelibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16113",
+        "16114",
+        "16121",
+        "16124",
+        "16125",
+        "16130",
+        "16133",
+        "16145",
+        "16148",
+        "16150",
+        "16151",
+        "16153",
+        "16154",
+        "16159",
+        "16161",
+        "16311"
+      ]
+    },
+    {
+      "name": "GROVE CITY COMMUNITY LIBRARY",
+      "system": "GROVE CITY COMMUNITY LIBRARY",
+      "address": "125 WEST MAIN ST, GROVE CITY, PA",
+      "website": "https://www.grovecitypalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16113",
+        "16114",
+        "16121",
+        "16124",
+        "16127",
+        "16130",
+        "16133",
+        "16145",
+        "16148",
+        "16150",
+        "16151",
+        "16153",
+        "16154",
+        "16159",
+        "16161",
+        "16311"
+      ]
+    },
+    {
+      "name": "MERCER AREA LIBRARY",
+      "system": "MERCER AREA LIBRARY",
+      "address": "110 E. VENANGO ST., MERCER, PA",
+      "website": "https://www.mercerarealibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16113",
+        "16114",
+        "16121",
+        "16124",
+        "16130",
+        "16133",
+        "16137",
+        "16145",
+        "16148",
+        "16150",
+        "16151",
+        "16153",
+        "16154",
+        "16159",
+        "16161",
+        "16311"
+      ]
+    },
+    {
+      "name": "COMMUNITY LIBRARY OF THE SHENANGO VALLEY",
+      "system": "COMMUNITY LIBRARY OF THE SHENANGO VALLEY",
+      "address": "11 N SHARPSVILLE AVE, SHARON, PA",
+      "website": "https://www.cityofsharon.net/maps/location/CommunityLibraryoftheShenangoValley",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16113",
+        "16114",
+        "16121",
+        "16124",
+        "16130",
+        "16133",
+        "16145",
+        "16146",
+        "16148",
+        "16150",
+        "16151",
+        "16153",
+        "16154",
+        "16159",
+        "16161",
+        "16311"
       ]
     }
   ]

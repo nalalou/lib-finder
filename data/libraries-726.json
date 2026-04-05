@@ -1,6 +1,58 @@
 {
   "libraries": [
     {
+      "name": "WHITE RIVER REGIONAL LIBRARY",
+      "system": "WHITE RIVER REGIONAL LIBRARY",
+      "address": "503 WEST MAIN STREET, SUITE 3, MOUNTAIN VIEW, AR",
+      "website": "https://librarytechnology.org/library/33925",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72051",
+        "72533",
+        "72555",
+        "72560",
+        "72567",
+        "72663",
+        "72680"
+      ]
+    },
+    {
+      "name": "POPE COUNTY LIBRARY SYSTEM",
+      "system": "POPE COUNTY LIBRARY SYSTEM",
+      "address": "116 EAST 3RD STREET, RUSSELLVILLE, AR",
+      "website": "https://popelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72679",
+        "72801",
+        "72802",
+        "72823",
+        "72837",
+        "72843",
+        "72847",
+        "72858"
+      ]
+    },
+    {
+      "name": "FAIRFIELD BAY LIBRARY, INCORPORATED",
+      "system": "FAIRFIELD BAY LIBRARY, INCORPORATED",
+      "address": "369 DAVE CREEK PARKWAY, FAIRFIELD BAY, AR",
+      "website": "https://www.fairfieldbaylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72013",
+        "72031",
+        "72080",
+        "72088",
+        "72141",
+        "72153",
+        "72629"
+      ]
+    },
+    {
       "name": "MARION COUNTY LIBRARY",
       "system": "MARION COUNTY LIBRARY",
       "address": "308 OLD MAIN, YELLVILLE, AR",
@@ -8,6 +60,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "72619",
+        "72634",
+        "72661",
+        "72668",
+        "72672",
+        "72677",
+        "72682",
         "72687"
       ]
     },
@@ -19,7 +78,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72653"
+        "72537",
+        "72544",
+        "725HH",
+        "72617",
+        "72623",
+        "72626",
+        "72635",
+        "72642",
+        "72651",
+        "72653",
+        "72658",
+        "726HH"
       ]
     },
     {
@@ -30,7 +100,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72616"
+        "72611",
+        "72616",
+        "72631",
+        "72632",
+        "72638",
+        "72660"
       ]
     },
     {
@@ -41,7 +116,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72601"
+        "72601",
+        "72630",
+        "72633",
+        "72662"
       ]
     },
     {
@@ -52,7 +130,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72641"
+        "72624",
+        "72628",
+        "72640",
+        "72641",
+        "72648",
+        "72655",
+        "72666",
+        "72683",
+        "72685",
+        "72856"
       ]
     },
     {
@@ -63,7 +150,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72650"
+        "72610",
+        "72639",
+        "72645",
+        "72650",
+        "72669",
+        "72675",
+        "72686"
       ]
     }
   ]

@@ -1,58 +1,83 @@
 {
   "libraries": [
     {
-      "name": "BEMENT PUBLIC LIBRARY DISTRICT",
-      "system": "BEMENT PUBLIC LIBRARY DISTRICT",
-      "address": "349 SOUTH MACON STREET, BEMENT, IL",
-      "website": "https://bementpubliclibrary.specialdistrict.org/",
+      "name": "WAYNESVILLE TOWNSHIP LIBRARY",
+      "system": "WAYNESVILLE TOWNSHIP LIBRARY",
+      "address": "303 EAST SECOND STREET, WAYNESVILLE, IL",
+      "website": "https://waynesvillevillage.com/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61813"
+        "61735",
+        "61749",
+        "61750",
+        "61777",
+        "61778",
+        "617HH",
+        "618HH"
       ]
     },
     {
-      "name": "CATLIN PUBLIC LIBRARY DISTRICT",
-      "system": "CATLIN PUBLIC LIBRARY DISTRICT",
-      "address": "101 MAPLELEAF DRIVE, CATLIN, IL",
-      "website": "https://catlinlibrary03.wixsite.com/website",
+      "name": "VESPASIAN WARNER PUBLIC LIBRARY DISTRICT",
+      "system": "VESPASIAN WARNER PUBLIC LIBRARY DISTRICT",
+      "address": "310 NORTH QUINCY STREET, CLINTON, IL",
+      "website": "https://www.vwarner.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61817"
+        "61727",
+        "61735",
+        "61749",
+        "61750",
+        "61777",
+        "617HH",
+        "618HH"
       ]
     },
     {
-      "name": "HOPE WELTY PUBLIC LIBRARY DISTRICT",
-      "system": "HOPE WELTY PUBLIC LIBRARY DISTRICT",
-      "address": "100 SOUTH MADISON STREET, CERRO GORDO, IL",
-      "website": "https://hopeweltylibrary.org/",
+      "name": "GEORGETOWN PUBLIC LIBRARY",
+      "system": "GEORGETOWN PUBLIC LIBRARY",
+      "address": "102 WEST WEST STREET, GEORGETOWN, IL",
+      "website": "https://georgetowntexas.gov/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61818"
+        "61846",
+        "76527",
+        "76530",
+        "76574",
+        "76578",
+        "78615",
+        "78626",
+        "78628",
+        "78681",
+        "78717",
+        "78729"
       ]
     },
     {
-      "name": "CHAMPAIGN PUBLIC LIBRARY",
-      "system": "CHAMPAIGN PUBLIC LIBRARY",
-      "address": "200 WEST GREEN STREET, CHAMPAIGN, IL",
-      "website": "http://www.champaign.org/",
+      "name": "HOOPESTON PUBLIC LIBRARY DISTRICT",
+      "system": "HOOPESTON PUBLIC LIBRARY DISTRICT",
+      "address": "110 NORTH FOURTH STREET, HOOPESTON, IL",
+      "website": "https://www.hooplib.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61820"
-      ]
-    },
-    {
-      "name": "WILLOW BRANCH TOWNSHIP LIBRARY",
-      "system": "WILLOW BRANCH TOWNSHIP LIBRARY",
-      "address": "330 NORTH ELDON STREET, CISCO, IL",
-      "website": "https://librarylearning.org/willow-branch-township-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61830"
+        "60932",
+        "60942",
+        "60960",
+        "60963",
+        "61810",
+        "61811",
+        "61812",
+        "61814",
+        "61831",
+        "61833",
+        "61834",
+        "61844",
+        "61848",
+        "61850",
+        "61857"
       ]
     },
     {
@@ -67,6 +92,121 @@
       ]
     },
     {
+      "name": "ATWOOD-HAMMOND PUBLIC LIBRARY DISTRICT",
+      "system": "ATWOOD-HAMMOND PUBLIC LIBRARY DISTRICT",
+      "address": "123 NORTH MAIN STREET, ATWOOD, IL",
+      "website": "https://www.atwoodhammondlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61855",
+        "61884",
+        "61913",
+        "61929",
+        "61936"
+      ]
+    },
+    {
+      "name": "BEMENT PUBLIC LIBRARY DISTRICT",
+      "system": "BEMENT PUBLIC LIBRARY DISTRICT",
+      "address": "349 SOUTH MACON STREET, BEMENT, IL",
+      "website": "https://bementpubliclibrary.specialdistrict.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61813",
+        "61855",
+        "61884",
+        "61929",
+        "61936"
+      ]
+    },
+    {
+      "name": "CATLIN PUBLIC LIBRARY DISTRICT",
+      "system": "CATLIN PUBLIC LIBRARY DISTRICT",
+      "address": "101 MAPLELEAF DRIVE, CATLIN, IL",
+      "website": "https://catlinlibrary03.wixsite.com/website",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60932",
+        "60960",
+        "60963",
+        "61810",
+        "61811",
+        "61812",
+        "61814",
+        "61817",
+        "61831",
+        "61833",
+        "61834",
+        "61844",
+        "61848",
+        "61850",
+        "61857"
+      ]
+    },
+    {
+      "name": "HOPE WELTY PUBLIC LIBRARY DISTRICT",
+      "system": "HOPE WELTY PUBLIC LIBRARY DISTRICT",
+      "address": "100 SOUTH MADISON STREET, CERRO GORDO, IL",
+      "website": "https://hopeweltylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61818",
+        "61855",
+        "61884",
+        "61929",
+        "61936"
+      ]
+    },
+    {
+      "name": "CHAMPAIGN PUBLIC LIBRARY",
+      "system": "CHAMPAIGN PUBLIC LIBRARY",
+      "address": "200 WEST GREEN STREET, CHAMPAIGN, IL",
+      "website": "http://www.champaign.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60949",
+        "61802",
+        "61815",
+        "61816",
+        "61820",
+        "61821",
+        "61822",
+        "61840",
+        "61843",
+        "61845",
+        "61847",
+        "61851",
+        "61852",
+        "61862",
+        "61863",
+        "61871",
+        "61872",
+        "61874",
+        "61875",
+        "61878"
+      ]
+    },
+    {
+      "name": "WILLOW BRANCH TOWNSHIP LIBRARY",
+      "system": "WILLOW BRANCH TOWNSHIP LIBRARY",
+      "address": "330 NORTH ELDON STREET, CISCO, IL",
+      "website": "https://librarylearning.org/willow-branch-township-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61830",
+        "61855",
+        "61884",
+        "61929",
+        "61936"
+      ]
+    },
+    {
       "name": "GOOSE CREEK DISTRICT LIBRARY",
       "system": "GOOSE CREEK DISTRICT LIBRARY",
       "address": "220 NORTH HIGHWAY AVENUE, DELAND, IL",
@@ -74,7 +214,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61839"
+        "61839",
+        "61855",
+        "61884",
+        "61929",
+        "61936"
       ]
     },
     {
@@ -85,7 +229,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61841"
+        "60932",
+        "60960",
+        "60963",
+        "61810",
+        "61811",
+        "61812",
+        "61814",
+        "61831",
+        "61833",
+        "61834",
+        "61841",
+        "61844",
+        "61848",
+        "61850",
+        "61857"
       ]
     },
     {
@@ -96,18 +254,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61842"
-      ]
-    },
-    {
-      "name": "GEORGETOWN PUBLIC LIBRARY",
-      "system": "GEORGETOWN PUBLIC LIBRARY",
-      "address": "102 WEST WEST STREET, GEORGETOWN, IL",
-      "website": "https://georgetowntexas.gov/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61846"
+        "61735",
+        "61749",
+        "61750",
+        "61777",
+        "617HH",
+        "61842",
+        "618HH"
       ]
     },
     {
@@ -118,7 +271,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61849"
+        "60949",
+        "61802",
+        "61815",
+        "61816",
+        "61821",
+        "61822",
+        "61840",
+        "61843",
+        "61845",
+        "61847",
+        "61849",
+        "61851",
+        "61852",
+        "61862",
+        "61863",
+        "61871",
+        "61872",
+        "61874",
+        "61875",
+        "61878"
       ]
     },
     {
@@ -129,7 +301,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61853"
+        "60949",
+        "61802",
+        "61815",
+        "61816",
+        "61821",
+        "61822",
+        "61840",
+        "61843",
+        "61845",
+        "61847",
+        "61851",
+        "61852",
+        "61853",
+        "61862",
+        "61863",
+        "61871",
+        "61872",
+        "61874",
+        "61875",
+        "61878"
       ]
     },
     {
@@ -140,7 +331,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61854"
+        "61854",
+        "61855",
+        "61884",
+        "61929",
+        "61936"
       ]
     },
     {
@@ -151,7 +346,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61856"
+        "61855",
+        "61856",
+        "61884",
+        "61929",
+        "61936"
       ]
     },
     {
@@ -162,6 +361,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "60932",
+        "60960",
+        "60963",
+        "61810",
+        "61811",
+        "61812",
+        "61814",
+        "61831",
+        "61833",
+        "61834",
+        "61844",
+        "61848",
+        "61850",
+        "61857",
         "61858"
       ]
     },
@@ -173,7 +386,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61859"
+        "60949",
+        "61802",
+        "61815",
+        "61816",
+        "61821",
+        "61822",
+        "61840",
+        "61843",
+        "61845",
+        "61847",
+        "61851",
+        "61852",
+        "61859",
+        "61862",
+        "61863",
+        "61871",
+        "61872",
+        "61874",
+        "61875",
+        "61878"
       ]
     },
     {
@@ -184,7 +416,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61864"
+        "60949",
+        "61802",
+        "61815",
+        "61816",
+        "61821",
+        "61822",
+        "61840",
+        "61843",
+        "61845",
+        "61847",
+        "61851",
+        "61852",
+        "61862",
+        "61863",
+        "61864",
+        "61871",
+        "61872",
+        "61874",
+        "61875",
+        "61878"
       ]
     },
     {
@@ -195,6 +446,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "60932",
+        "60960",
+        "60963",
+        "61810",
+        "61811",
+        "61812",
+        "61814",
+        "61831",
+        "61833",
+        "61834",
+        "61844",
+        "61848",
+        "61850",
+        "61857",
         "61865"
       ]
     },
@@ -206,7 +471,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61866"
+        "60949",
+        "61802",
+        "61815",
+        "61816",
+        "61821",
+        "61822",
+        "61840",
+        "61843",
+        "61845",
+        "61847",
+        "61851",
+        "61852",
+        "61862",
+        "61863",
+        "61866",
+        "61871",
+        "61872",
+        "61874",
+        "61875",
+        "61878"
       ]
     },
     {
@@ -217,6 +501,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "60932",
+        "60960",
+        "60963",
+        "61810",
+        "61811",
+        "61812",
+        "61814",
+        "61831",
+        "61833",
+        "61834",
+        "61844",
+        "61848",
+        "61850",
+        "61857",
         "61870"
       ]
     },
@@ -228,7 +526,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61873"
+        "60949",
+        "61802",
+        "61815",
+        "61816",
+        "61821",
+        "61822",
+        "61840",
+        "61843",
+        "61845",
+        "61847",
+        "61851",
+        "61852",
+        "61862",
+        "61863",
+        "61871",
+        "61872",
+        "61873",
+        "61874",
+        "61875",
+        "61878"
       ]
     },
     {
@@ -239,6 +556,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "60932",
+        "60960",
+        "60963",
+        "61810",
+        "61811",
+        "61812",
+        "61814",
+        "61831",
+        "61833",
+        "61834",
+        "61844",
+        "61848",
+        "61850",
+        "61857",
         "61876"
       ]
     },
@@ -250,7 +581,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61877"
+        "60949",
+        "61802",
+        "61815",
+        "61816",
+        "61821",
+        "61822",
+        "61840",
+        "61843",
+        "61845",
+        "61847",
+        "61851",
+        "61852",
+        "61862",
+        "61863",
+        "61871",
+        "61872",
+        "61874",
+        "61875",
+        "61877",
+        "61878"
       ]
     },
     {
@@ -261,6 +611,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "60949",
+        "61802",
+        "61815",
+        "61816",
+        "61821",
+        "61822",
+        "61840",
+        "61843",
+        "61845",
+        "61847",
+        "61851",
+        "61852",
+        "61862",
+        "61863",
+        "61871",
+        "61872",
+        "61874",
+        "61875",
+        "61878",
         "61880"
       ]
     },
@@ -272,7 +641,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61801"
+        "60949",
+        "61801",
+        "61802",
+        "61815",
+        "61816",
+        "61821",
+        "61822",
+        "61840",
+        "61843",
+        "61845",
+        "61847",
+        "61851",
+        "61852",
+        "61862",
+        "61863",
+        "61871",
+        "61872",
+        "61874",
+        "61875",
+        "61878"
       ]
     },
     {
@@ -283,7 +671,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61882"
+        "61735",
+        "61749",
+        "61750",
+        "61777",
+        "617HH",
+        "61882",
+        "618HH"
       ]
     },
     {
@@ -294,6 +688,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "60932",
+        "60960",
+        "60963",
+        "61810",
+        "61811",
+        "61812",
+        "61814",
+        "61831",
+        "61833",
+        "61834",
+        "61844",
+        "61848",
+        "61850",
+        "61857",
         "61883"
       ]
     }

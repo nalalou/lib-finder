@@ -1,36 +1,16 @@
 {
   "libraries": [
     {
-      "name": "GROVES PUBLIC LIBRARY",
-      "system": "GROVES PUBLIC LIBRARY",
-      "address": "5600 W WASHINGTON ST, GROVES, TX",
-      "website": "https://www.groveslibrary.org/",
+      "name": "JASPER PUBLIC LIBRARY",
+      "system": "JASPER PUBLIC LIBRARY",
+      "address": "175 E WATER ST, JASPER, TX",
+      "website": "https://www.jaspertx.org/page/library_home",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77619"
-      ]
-    },
-    {
-      "name": "KOUNTZE PUBLIC LIBRARY",
-      "system": "KOUNTZE PUBLIC LIBRARY",
-      "address": "800 REDWOOD ST, KOUNTZE, TX",
-      "website": "https://www.kountzelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "77625"
-      ]
-    },
-    {
-      "name": "MARION & ED HUGHES PUBLIC LIBRARY",
-      "system": "MARION & ED HUGHES PUBLIC LIBRARY",
-      "address": "2712 NEDERLAND AVE, NEDERLAND, TX",
-      "website": "http://www.ned.lib.tx.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "77627"
+        "75931",
+        "75951",
+        "77615"
       ]
     },
     {
@@ -41,7 +21,315 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77630"
+        "77630",
+        "77632"
+      ]
+    },
+    {
+      "name": "CHAMBERS COUNTY LIBRARY SYSTEM",
+      "system": "CHAMBERS COUNTY LIBRARY SYSTEM",
+      "address": "1204 STOWELL ST, ANAHUAC, TX",
+      "website": "https://www.chambers.lib.tx.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77514",
+        "77560",
+        "77597",
+        "775XX",
+        "77665",
+        "776HH",
+        "776XX"
+      ]
+    },
+    {
+      "name": "DICKINSON PUBLIC LIBRARY",
+      "system": "DICKINSON PUBLIC LIBRARY",
+      "address": "4411 HWY 3, DICKINSON, TX",
+      "website": "https://www.dickinsontexas.gov/1121/Dickinson-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77517",
+        "77518",
+        "77539",
+        "77551",
+        "77553",
+        "77554",
+        "77565",
+        "77590",
+        "77591",
+        "77617",
+        "77623",
+        "77650"
+      ]
+    },
+    {
+      "name": "FRIENDSWOOD PUBLIC LIBRARY",
+      "system": "FRIENDSWOOD PUBLIC LIBRARY",
+      "address": "416 S FRIENDSWOOD DR, FRIENDSWOOD, TX",
+      "website": "http://www.friendswood.lib.tx.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77517",
+        "77518",
+        "77546",
+        "77551",
+        "77553",
+        "77554",
+        "77565",
+        "77590",
+        "77591",
+        "77617",
+        "77623",
+        "77650"
+      ]
+    },
+    {
+      "name": "ROSENBERG LIBRARY",
+      "system": "ROSENBERG LIBRARY",
+      "address": "2310 SEALY ST, GALVESTON, TX",
+      "website": "https://rosenberg-library.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77517",
+        "77518",
+        "77550",
+        "77551",
+        "77553",
+        "77554",
+        "77565",
+        "77590",
+        "77591",
+        "77617",
+        "77623",
+        "77650"
+      ]
+    },
+    {
+      "name": "GENEVIEVE MILLER HITCHCOCK PUBLIC LIBRARY",
+      "system": "GENEVIEVE MILLER HITCHCOCK PUBLIC LIBRARY",
+      "address": "8005 BARRY AVE, HITCHCOCK, TX",
+      "website": "https://www.hitchcockpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77517",
+        "77518",
+        "77551",
+        "77553",
+        "77554",
+        "77563",
+        "77565",
+        "77590",
+        "77591",
+        "77617",
+        "77623",
+        "77650"
+      ]
+    },
+    {
+      "name": "LA MARQUE PUBLIC LIBRARY",
+      "system": "LA MARQUE PUBLIC LIBRARY",
+      "address": "1011 BAYOU RD, LA MARQUE, TX",
+      "website": "https://www.cityoflamarque.gov/216/La-Marque-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77517",
+        "77518",
+        "77551",
+        "77553",
+        "77554",
+        "77565",
+        "77568",
+        "77590",
+        "77591",
+        "77617",
+        "77623",
+        "77650"
+      ]
+    },
+    {
+      "name": "HELEN HALL LIBRARY",
+      "system": "HELEN HALL LIBRARY",
+      "address": "100 W WALKER ST, LEAGUE CITY, TX",
+      "website": "https://www.leaguecitytx.gov/3146/Helen-Hall-Library---Old-Do-Not-Delete",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77517",
+        "77518",
+        "77551",
+        "77553",
+        "77554",
+        "77565",
+        "77573",
+        "77590",
+        "77591",
+        "77617",
+        "77623",
+        "77650"
+      ]
+    },
+    {
+      "name": "MAE S BRUCE LIBRARY",
+      "system": "MAE S BRUCE LIBRARY",
+      "address": "13302 W 6TH ST, SANTA FE, TX",
+      "website": "https://www.santafetx.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77510",
+        "77517",
+        "77518",
+        "77551",
+        "77553",
+        "77554",
+        "77565",
+        "77590",
+        "77591",
+        "77617",
+        "77623",
+        "77650"
+      ]
+    },
+    {
+      "name": "MOORE MEMORIAL PUBLIC LIBRARY",
+      "system": "MOORE MEMORIAL PUBLIC LIBRARY",
+      "address": "403 FERGUS AVENUE, MOORE, MT",
+      "website": "https://mooremt.gov/moore-memorial-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59464",
+        "77517",
+        "77518",
+        "77551",
+        "77553",
+        "77554",
+        "77565",
+        "77590",
+        "77591",
+        "77617",
+        "77623",
+        "77650"
+      ]
+    },
+    {
+      "name": "KIRBYVILLE PUBLIC LIBRARY",
+      "system": "KIRBYVILLE PUBLIC LIBRARY",
+      "address": "210 S ELIZABETH AVE, KIRBYVILLE, TX",
+      "website": "https://www.kirbyvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75931",
+        "75956",
+        "77615"
+      ]
+    },
+    {
+      "name": "NEWTON COUNTY PUBLIC LIBRARY",
+      "system": "NEWTON COUNTY PUBLIC LIBRARY",
+      "address": "9444 NORTH 315 WEST, LAKE VILLAGE, IN",
+      "website": "https://www.newtoncountypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46349",
+        "75928",
+        "75932",
+        "75933",
+        "75966",
+        "75977",
+        "77614"
+      ]
+    },
+    {
+      "name": "ALLAN SHIVERS LIBRARY & MUSEUM",
+      "system": "ALLAN SHIVERS LIBRARY & MUSEUM",
+      "address": "302 N CHARLTON ST, WOODVILLE, TX",
+      "website": "https://www.allanshiverslibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75936",
+        "75938",
+        "75942",
+        "75979",
+        "77616",
+        "77624",
+        "77660",
+        "77664"
+      ]
+    },
+    {
+      "name": "GROVES PUBLIC LIBRARY",
+      "system": "GROVES PUBLIC LIBRARY",
+      "address": "5600 W WASHINGTON ST, GROVES, TX",
+      "website": "https://www.groveslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77613",
+        "77619",
+        "77622",
+        "77629",
+        "77640",
+        "77655",
+        "77702",
+        "77703",
+        "77705",
+        "77706",
+        "77707",
+        "77708",
+        "77713",
+        "777HH",
+        "777XX"
+      ]
+    },
+    {
+      "name": "KOUNTZE PUBLIC LIBRARY",
+      "system": "KOUNTZE PUBLIC LIBRARY",
+      "address": "800 REDWOOD ST, KOUNTZE, TX",
+      "website": "https://www.kountzelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77374",
+        "77376",
+        "77519",
+        "77585",
+        "77625",
+        "77663"
+      ]
+    },
+    {
+      "name": "MARION & ED HUGHES PUBLIC LIBRARY",
+      "system": "MARION & ED HUGHES PUBLIC LIBRARY",
+      "address": "2712 NEDERLAND AVE, NEDERLAND, TX",
+      "website": "http://www.ned.lib.tx.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77613",
+        "77622",
+        "77627",
+        "77629",
+        "77640",
+        "77655",
+        "77702",
+        "77703",
+        "77705",
+        "77706",
+        "77707",
+        "77708",
+        "77713",
+        "777HH",
+        "777XX"
       ]
     },
     {
@@ -52,7 +340,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77642"
+        "77613",
+        "77622",
+        "77629",
+        "77640",
+        "77642",
+        "77655",
+        "77702",
+        "77703",
+        "77705",
+        "77706",
+        "77707",
+        "77708",
+        "77713",
+        "777HH",
+        "777XX"
       ]
     },
     {
@@ -63,7 +365,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77651"
+        "77613",
+        "77622",
+        "77629",
+        "77640",
+        "77651",
+        "77655",
+        "77702",
+        "77703",
+        "77705",
+        "77706",
+        "77707",
+        "77708",
+        "77713",
+        "777HH",
+        "777XX"
       ]
     },
     {
@@ -74,7 +390,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77656"
+        "77374",
+        "77376",
+        "77519",
+        "77585",
+        "77656",
+        "77663"
       ]
     },
     {
@@ -85,7 +406,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77659"
+        "77374",
+        "77376",
+        "77519",
+        "77585",
+        "77659",
+        "77663"
       ]
     },
     {
@@ -96,6 +422,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "77632",
         "77662"
       ]
     },
@@ -107,7 +434,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77612"
+        "75931",
+        "77612",
+        "77615"
       ]
     },
     {
@@ -118,7 +447,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77611"
+        "77611",
+        "77632"
       ]
     },
     {
@@ -129,7 +459,37 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77657"
+        "77374",
+        "77376",
+        "77519",
+        "77585",
+        "77657",
+        "77663"
+      ]
+    },
+    {
+      "name": "BEAUMONT PUBLIC LIBRARY SYSTEM",
+      "system": "BEAUMONT PUBLIC LIBRARY SYSTEM",
+      "address": "801 PEARL ST, BEAUMONT, TX",
+      "website": "https://www.beaumonttexas.gov/162/Beaumont-Public-Library-System",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77613",
+        "77622",
+        "77629",
+        "77640",
+        "77655",
+        "77701",
+        "77702",
+        "77703",
+        "77705",
+        "77706",
+        "77707",
+        "77708",
+        "77713",
+        "777HH",
+        "777XX"
       ]
     }
   ]

@@ -1,6 +1,43 @@
 {
   "libraries": [
     {
+      "name": "ELBA PUBLIC LIBRARY",
+      "system": "ELBA PUBLIC LIBRARY",
+      "address": "406 SIMMONS STREET, ELBA, AL",
+      "website": "https://elbapubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36323",
+        "36330",
+        "36346",
+        "36351",
+        "36453"
+      ]
+    },
+    {
+      "name": "JACKSON - WHITE SMITH MEMORIAL LIBRARY",
+      "system": "JACKSON - WHITE SMITH MEMORIAL LIBRARY",
+      "address": "213 COLLEGE AVENUE, JACKSON, AL",
+      "website": "http://whitesmithlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36436",
+        "36446",
+        "36482",
+        "364HH",
+        "364XX",
+        "36501",
+        "36515",
+        "36524",
+        "36540",
+        "36545",
+        "36570",
+        "36727"
+      ]
+    },
+    {
       "name": "ANDALUSIA PUBLIC LIBRARY",
       "system": "ANDALUSIA PUBLIC LIBRARY",
       "address": "212 SOUTH THREE NOTCH STREET, ANDALUSIA, AL",
@@ -8,7 +45,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36420"
+        "36028",
+        "36420",
+        "36455",
+        "36474",
+        "36476",
+        "36483"
       ]
     },
     {
@@ -19,7 +61,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36442"
+        "36028",
+        "36442",
+        "36455",
+        "36474",
+        "36476",
+        "36483"
       ]
     },
     {
@@ -30,7 +77,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36467"
+        "36028",
+        "36455",
+        "36467",
+        "36474",
+        "36476",
+        "36483"
       ]
     },
     {
@@ -41,6 +93,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "36313",
+        "36314",
+        "36316",
+        "36318",
+        "363HH",
         "36477"
       ]
     },
@@ -74,7 +131,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36451"
+        "36436",
+        "36446",
+        "36451",
+        "36482",
+        "364HH",
+        "364XX",
+        "36501",
+        "36515",
+        "36524",
+        "36540",
+        "36570",
+        "36727"
       ]
     },
     {
@@ -85,18 +153,66 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36401"
+        "36401",
+        "36432",
+        "36473",
+        "36475"
       ]
     },
     {
-      "name": "MONROE COUNTY PUBLIC LIBRARY",
-      "system": "MONROE COUNTY PUBLIC LIBRARY",
-      "address": "121 PINEVILLE ROAD, MONROEVILLE, AL",
-      "website": "http://www.mcpl.info",
+      "name": "THOMASVILLE PUBLIC LIBRARY",
+      "system": "THOMASVILLE PUBLIC LIBRARY",
+      "address": "101 W FRONT ST. N, THOMASVILLE, AL",
+      "website": "https://www.thomasvillepubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36460"
+        "36436",
+        "36446",
+        "36482",
+        "364HH",
+        "364XX",
+        "36501",
+        "36515",
+        "36524",
+        "36540",
+        "36570",
+        "36727",
+        "36784"
+      ]
+    },
+    {
+      "name": "WILCOX COUNTY LIBRARY",
+      "system": "WILCOX COUNTY LIBRARY",
+      "address": "100 BROAD STREET, CAMDEN, AL",
+      "website": "https://www.chamberofcommerce.com/united-states/alabama/camden/public-library/10143994-wilcox-county-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36435",
+        "36720",
+        "36722",
+        "36723",
+        "36726",
+        "36728",
+        "36751",
+        "36768",
+        "36769"
+      ]
+    },
+    {
+      "name": "GREENVILLE - BUTLER COUNTY PUBLIC LIBRARY",
+      "system": "GREENVILLE - BUTLER COUNTY PUBLIC LIBRARY",
+      "address": "309 FORT DALE STREET, GREENVILLE, AL",
+      "website": "http://www.greenville-bcpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36030",
+        "36033",
+        "36037",
+        "360XX",
+        "36456"
       ]
     }
   ]

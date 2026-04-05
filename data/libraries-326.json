@@ -1,6 +1,42 @@
 {
   "libraries": [
     {
+      "name": "MARION COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "MARION COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "2720 EAST SILVER SPRINGS BOULEVARD, OCALA, FL",
+      "website": "https://library.marionfl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "32113",
+        "32134",
+        "32179",
+        "32182",
+        "32183",
+        "32195",
+        "32617",
+        "32664",
+        "32681",
+        "32686",
+        "34420",
+        "34431",
+        "34432",
+        "34470",
+        "34471",
+        "34472",
+        "34473",
+        "34474",
+        "34475",
+        "34476",
+        "34479",
+        "34480",
+        "34481",
+        "34482",
+        "34488",
+        "34491"
+      ]
+    },
+    {
       "name": "PAL PUBLIC LIBRARY COOPERATIVE",
       "system": "PAL PUBLIC LIBRARY COOPERATIVE",
       "address": "7871 NE 90TH STREET, BRONSON, FL",
@@ -8,7 +44,46 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "32621"
+        "32621",
+        "32625",
+        "32626",
+        "32639",
+        "32668",
+        "32683",
+        "32696",
+        "34449",
+        "34498",
+        "344XX"
+      ]
+    },
+    {
+      "name": "CLAY COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "CLAY COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "1895 TOWN CENTER BOULEVARD, FLEMING ISLAND, FL",
+      "website": "https://www.claycountygov.com/community/library/library-locations-and-hours",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "32003",
+        "32043",
+        "32065",
+        "32068",
+        "32073",
+        "32079",
+        "32656"
+      ]
+    },
+    {
+      "name": "NEW RIVER PUBLIC LIBRARY COOPERATIVE",
+      "system": "NEW RIVER PUBLIC LIBRARY COOPERATIVE",
+      "address": "110 N. LAKE AVE, LAKE BUTLER, FL",
+      "website": "https://www.newriverlibrary.org/ucpl/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "32054",
+        "32083",
+        "32697"
       ]
     }
   ]

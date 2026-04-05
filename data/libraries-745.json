@@ -1,6 +1,40 @@
 {
   "libraries": [
     {
+      "name": "HOLDENVILLE - GRACE PICKENS PUBLIC LIBRARY",
+      "system": "HOLDENVILLE - GRACE PICKENS PUBLIC LIBRARY",
+      "address": "209 E 9TH, HOLDENVILLE, OK",
+      "website": "https://www.holdenvillecityhall.com/public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74531",
+        "74570",
+        "74827",
+        "74839",
+        "74848",
+        "74850",
+        "748HH"
+      ]
+    },
+    {
+      "name": "WETUMKA PUBLIC LIBRARY",
+      "system": "WETUMKA PUBLIC LIBRARY",
+      "address": "202 N MAIN, WETUMKA, OK",
+      "website": "https://librarytechnology.org/library/23204",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74531",
+        "74570",
+        "74827",
+        "74839",
+        "74850",
+        "74883",
+        "748HH"
+      ]
+    },
+    {
       "name": "ANTLERS PUBLIC LIBRARY",
       "system": "ANTLERS PUBLIC LIBRARY",
       "address": "104 SE 2ND STREET, ANTLERS, OK",
@@ -8,7 +42,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74523"
+        "74521",
+        "74523",
+        "74536",
+        "74543",
+        "74549",
+        "74557",
+        "74558",
+        "74562",
+        "74567",
+        "74574",
+        "745XX",
+        "747XX"
       ]
     },
     {
@@ -19,7 +64,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74501"
+        "74425",
+        "74430",
+        "74442",
+        "74501",
+        "74522",
+        "74528",
+        "74546",
+        "74547",
+        "74553",
+        "74554",
+        "74560",
+        "74561",
+        "74565"
       ]
     }
   ]

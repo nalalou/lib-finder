@@ -1,6 +1,479 @@
 {
   "libraries": [
     {
+      "name": "ATLANTA PUBLIC LIBRARY DISTRICT",
+      "system": "ATLANTA PUBLIC LIBRARY DISTRICT",
+      "address": "100 RACE STREET, ATLANTA, IL",
+      "website": "http://www.atlantapld.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61723",
+        "62512",
+        "62518",
+        "62519",
+        "62541",
+        "62543",
+        "62635",
+        "62643",
+        "62666",
+        "62671"
+      ]
+    },
+    {
+      "name": "MAROA PUBLIC LIBRARY DISTRICT",
+      "system": "MAROA PUBLIC LIBRARY DISTRICT",
+      "address": "305 EAST GARFIELD STREET, MAROA, IL",
+      "website": "https://www.maroa.lib.il.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61756",
+        "62501",
+        "62514",
+        "62521",
+        "62522",
+        "62523",
+        "62526",
+        "62532",
+        "62537",
+        "62551",
+        "62552",
+        "625HH"
+      ]
+    },
+    {
+      "name": "BUNKER HILL PUBLIC LIBRARY DISTRICT",
+      "system": "BUNKER HILL PUBLIC LIBRARY DISTRICT",
+      "address": "220 EAST WARREN STREET, BUNKER HILL, IL",
+      "website": "https://www.bunkerhilllibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62014",
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "GILLESPIE PUBLIC LIBRARY",
+      "system": "GILLESPIE PUBLIC LIBRARY",
+      "address": "201 WEST CHESTNUT STREET, GILLESPIE, IL",
+      "website": "http://www.gillespiepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62023",
+        "62033",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "HILLSBORO AREA PUBLIC LIBRARY DISTRICT",
+      "system": "HILLSBORO AREA PUBLIC LIBRARY DISTRICT",
+      "address": "420 S. MAIN ST., HILLSBORO, IL",
+      "website": "https://www.hillsborolibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62015",
+        "62017",
+        "62019",
+        "62032",
+        "62049",
+        "62051",
+        "62077",
+        "62089",
+        "62091",
+        "62538",
+        "62572"
+      ]
+    },
+    {
+      "name": "LITCHFIELD PUBLIC LIBRARY DISTRICT",
+      "system": "LITCHFIELD PUBLIC LIBRARY DISTRICT",
+      "address": "1205 SOUTH STATE, LITCHFIELD, IL",
+      "website": "https://www.litchfieldpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62015",
+        "62017",
+        "62019",
+        "62032",
+        "62051",
+        "62056",
+        "62077",
+        "62089",
+        "62091",
+        "62538",
+        "62572"
+      ]
+    },
+    {
+      "name": "NOKOMIS PUBLIC LIBRARY",
+      "system": "NOKOMIS PUBLIC LIBRARY",
+      "address": "22 SOUTH CEDAR STREET, NOKOMIS, IL",
+      "website": "http://www.nokomispl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62015",
+        "62017",
+        "62019",
+        "62032",
+        "62051",
+        "62075",
+        "62077",
+        "62089",
+        "62091",
+        "62538",
+        "62572"
+      ]
+    },
+    {
+      "name": "WITT TOWNSHIP MEMORIAL LIBRARY",
+      "system": "WITT TOWNSHIP MEMORIAL LIBRARY",
+      "address": "18 NORTH SECOND STREET, WITT, IL",
+      "website": "https://librarylearning.org/witt-township-memorial-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62015",
+        "62017",
+        "62019",
+        "62032",
+        "62051",
+        "62077",
+        "62089",
+        "62091",
+        "62094",
+        "62538",
+        "62572"
+      ]
+    },
+    {
+      "name": "BRIGHTON MEMORIAL LIBRARY DISTRICT",
+      "system": "BRIGHTON MEMORIAL LIBRARY DISTRICT",
+      "address": "110 NORTH MAIN STREET, BRIGHTON, IL",
+      "website": "https://brightonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62012",
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "FRANK BERTETTI BENLD PUBLIC LIBRARY",
+      "system": "FRANK BERTETTI BENLD PUBLIC LIBRARY",
+      "address": "308 EAST CENTRAL AVENUE, BENLD, IL",
+      "website": "https://www.benldlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62009",
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "AUBURN PUBLIC LIBRARY DISTRICT",
+      "system": "AUBURN PUBLIC LIBRARY DISTRICT",
+      "address": "338 WEST JEFFERSON STREET, AUBURN, IL",
+      "website": "https://www.auburnpubliclibraryil.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62615",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "CARLINVILLE PUBLIC LIBRARY",
+      "system": "CARLINVILLE PUBLIC LIBRARY",
+      "address": "510 NORTH BROAD STREET, CARLINVILLE, IL",
+      "website": "https://www.carlinvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62626",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "CHATHAM AREA PUBLIC LIBRARY DISTRICT",
+      "system": "CHATHAM AREA PUBLIC LIBRARY DISTRICT",
+      "address": "600 EAST SPRUCE STREET, CHATHAM, IL",
+      "website": "https://www.chathamlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62625",
+        "62629",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "ELKHART PUBLIC LIBRARY DISTRICT",
+      "system": "ELKHART PUBLIC LIBRARY DISTRICT",
+      "address": "121 EAST BOHAN STREET, ELKHART, IL",
+      "website": "https://www.elkhartlibrary.lib.il.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62512",
+        "62518",
+        "62519",
+        "62541",
+        "62543",
+        "62634",
+        "62635",
+        "62643",
+        "62666",
+        "62671"
+      ]
+    },
+    {
+      "name": "GIRARD TOWNSHIP LIBRARY",
+      "system": "GIRARD TOWNSHIP LIBRARY",
+      "address": "201 WEST MADISON STREET, GIRARD, IL",
+      "website": "https://www.girardtownshiplibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62640",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686"
+      ]
+    },
+    {
+      "name": "LINCOLN PUBLIC LIBRARY DISTRICT",
+      "system": "LINCOLN PUBLIC LIBRARY DISTRICT",
+      "address": "725 PEKIN STREET, LINCOLN, IL",
+      "website": "https://lincolnpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62512",
+        "62518",
+        "62519",
+        "62541",
+        "62543",
+        "62635",
+        "62643",
+        "62656",
+        "62666",
+        "62671"
+      ]
+    },
+    {
+      "name": "GRAND PRAIRIE OF THE WEST PUBLIC LIBRARY DISTRICT",
+      "system": "GRAND PRAIRIE OF THE WEST PUBLIC LIBRARY DISTRICT",
+      "address": "142 WEST JACKSON STREET, VIRDEN, IL",
+      "website": "https://virden.municipalimpact.com/library-grand-prairie-of-the-west",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62023",
+        "62063",
+        "62069",
+        "62079",
+        "62085",
+        "62088",
+        "62093",
+        "62511",
+        "62630",
+        "62649",
+        "62667",
+        "62672",
+        "62674",
+        "62685",
+        "62686",
+        "62690"
+      ]
+    },
+    {
+      "name": "SHERMAN PUBLIC LIBRARY DISTRICT",
+      "system": "SHERMAN PUBLIC LIBRARY DISTRICT",
+      "address": "2100 EAST ANDREW ROAD, SHERMAN, IL",
+      "website": "https://www.shermanlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62625",
+        "62661",
+        "62677",
+        "62684",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "WILLIAMSVILLE PUBLIC LIBRARY AND MUSEUM",
+      "system": "WILLIAMSVILLE PUBLIC LIBRARY AND MUSEUM",
+      "address": "217 NORTH ELM STREET, WILLIAMSVILLE, IL",
+      "website": "https://www.williamsvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62693",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "WEST SANGAMON PUBLIC LIBRARY DISTRICT",
+      "system": "WEST SANGAMON PUBLIC LIBRARY DISTRICT",
+      "address": "112 EAST ILLINOIS STREET, NEW BERLIN, IL",
+      "website": "https://librarylearning.org/west-sangamon-public-library-district",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62625",
+        "62661",
+        "62670",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
       "name": "ASSUMPTION PUBLIC LIBRARY DISTRICT",
       "system": "ASSUMPTION PUBLIC LIBRARY DISTRICT",
       "address": "205 NORTH OAK STREET, ASSUMPTION, IL",
@@ -8,7 +481,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62510"
+        "62083",
+        "62510",
+        "62517",
+        "62531",
+        "62540",
+        "62547",
+        "62555",
+        "62556",
+        "62570"
       ]
     },
     {
@@ -19,7 +500,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62573"
+        "62501",
+        "62514",
+        "62521",
+        "62522",
+        "62523",
+        "62526",
+        "62532",
+        "62537",
+        "62551",
+        "62552",
+        "62573",
+        "625HH"
       ]
     },
     {
@@ -30,18 +522,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62513"
-      ]
-    },
-    {
-      "name": "DECATUR PUBLIC LIBRARY",
-      "system": "DECATUR PUBLIC LIBRARY",
-      "address": "130 NORTH FRANKLIN STREET, DECATUR, IL",
-      "website": "https://dekalblibrary.org/branches/deca",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62523"
+        "62501",
+        "62513",
+        "62514",
+        "62521",
+        "62522",
+        "62523",
+        "62526",
+        "62532",
+        "62537",
+        "62551",
+        "62552",
+        "625HH"
       ]
     },
     {
@@ -52,7 +544,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62530"
+        "62520",
+        "62530",
+        "62536",
+        "62545",
+        "62558",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
       ]
     },
     {
@@ -63,7 +569,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62535"
+        "62501",
+        "62514",
+        "62521",
+        "62522",
+        "62523",
+        "62526",
+        "62532",
+        "62535",
+        "62537",
+        "62551",
+        "62552",
+        "625HH"
       ]
     },
     {
@@ -74,7 +591,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62539"
+        "62520",
+        "62536",
+        "62539",
+        "62545",
+        "62558",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
       ]
     },
     {
@@ -85,7 +616,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62544"
+        "62501",
+        "62514",
+        "62521",
+        "62522",
+        "62523",
+        "62526",
+        "62532",
+        "62537",
+        "62544",
+        "62551",
+        "62552",
+        "625HH"
       ]
     },
     {
@@ -96,7 +638,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62546"
+        "62083",
+        "62517",
+        "62531",
+        "62540",
+        "62546",
+        "62547",
+        "62555",
+        "62556",
+        "62570"
       ]
     },
     {
@@ -107,7 +657,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62548"
+        "62512",
+        "62518",
+        "62519",
+        "62541",
+        "62543",
+        "62548",
+        "62635",
+        "62643",
+        "62666",
+        "62671"
       ]
     },
     {
@@ -118,7 +677,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62549"
+        "62501",
+        "62514",
+        "62521",
+        "62522",
+        "62523",
+        "62526",
+        "62532",
+        "62537",
+        "62549",
+        "62551",
+        "62552",
+        "625HH"
       ]
     },
     {
@@ -129,7 +699,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62550"
+        "62438",
+        "62444",
+        "62462",
+        "62463",
+        "62465",
+        "62534",
+        "62550",
+        "62553",
+        "62571"
       ]
     },
     {
@@ -140,18 +718,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62557"
-      ]
-    },
-    {
-      "name": "PAWNEE PUBLIC LIBRARY",
-      "system": "PAWNEE PUBLIC LIBRARY",
-      "address": "613 DOUGLAS STREET, PAWNEE, IL",
-      "website": "https://www.pawneepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62558"
+        "62083",
+        "62517",
+        "62531",
+        "62540",
+        "62547",
+        "62555",
+        "62556",
+        "62557",
+        "62570"
       ]
     },
     {
@@ -162,7 +737,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62563"
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62563",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
       ]
     },
     {
@@ -173,7 +762,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62565"
+        "62438",
+        "62444",
+        "62462",
+        "62463",
+        "62465",
+        "62534",
+        "62553",
+        "62565",
+        "62571"
       ]
     },
     {
@@ -184,7 +781,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62567"
+        "62083",
+        "62517",
+        "62531",
+        "62540",
+        "62547",
+        "62555",
+        "62556",
+        "62567",
+        "62570"
       ]
     },
     {
@@ -195,7 +800,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62568"
+        "62083",
+        "62517",
+        "62531",
+        "62540",
+        "62547",
+        "62555",
+        "62556",
+        "62568",
+        "62570"
       ]
     },
     {
@@ -206,7 +819,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62533"
+        "62015",
+        "62017",
+        "62019",
+        "62032",
+        "62051",
+        "62077",
+        "62089",
+        "62091",
+        "62533",
+        "62538",
+        "62572"
       ]
     },
     {
@@ -217,7 +840,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62554"
+        "62501",
+        "62514",
+        "62521",
+        "62522",
+        "62523",
+        "62526",
+        "62532",
+        "62537",
+        "62551",
+        "62552",
+        "62554",
+        "625HH"
       ]
     },
     {
@@ -228,7 +862,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62560"
+        "62015",
+        "62017",
+        "62019",
+        "62032",
+        "62051",
+        "62077",
+        "62089",
+        "62091",
+        "62538",
+        "62560",
+        "62572"
       ]
     },
     {
@@ -239,7 +883,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62561"
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62561",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
       ]
     },
     {
@@ -250,7 +908,78 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62515"
+        "62515",
+        "62520",
+        "62536",
+        "62545",
+        "62558",
+        "62625",
+        "62661",
+        "62677",
+        "62689",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "627HH"
+      ]
+    },
+    {
+      "name": "DRY POINT TOWNSHIP LIBRARY",
+      "system": "DRY POINT TOWNSHIP LIBRARY",
+      "address": "COUNTY HIGHWAY 651, COWDEN, IL",
+      "website": "https://www.drypointtownshiplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62422",
+        "62438",
+        "62444",
+        "62462",
+        "62463",
+        "62465",
+        "62534",
+        "62553",
+        "62571"
+      ]
+    },
+    {
+      "name": "HERRICK TOWNSHIP PUBLIC LIBRARY",
+      "system": "HERRICK TOWNSHIP PUBLIC LIBRARY",
+      "address": "303 NORTH BROADWAY STREET, HERRICK, IL",
+      "website": "https://librarylearning.org/herrick-township-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62431",
+        "62438",
+        "62444",
+        "62462",
+        "62463",
+        "62465",
+        "62534",
+        "62553",
+        "62571"
+      ]
+    },
+    {
+      "name": "WINDSOR STORM MEMORIAL PUBLIC LIBRARY DISTRICT",
+      "system": "WINDSOR STORM MEMORIAL PUBLIC LIBRARY DISTRICT",
+      "address": "102 SOUTH MAPLE STREET, WINDSOR, IL",
+      "website": "https://windsor.lib.il.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61957",
+        "62438",
+        "62444",
+        "62462",
+        "62463",
+        "62465",
+        "62534",
+        "62553",
+        "62571"
       ]
     }
   ]

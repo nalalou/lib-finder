@@ -1,69 +1,117 @@
 {
   "libraries": [
     {
-      "name": "RITCHIE COUNTY PUBLIC LIBRARY",
-      "system": "RITCHIE COUNTY PUBLIC LIBRARY",
-      "address": "608 E. MAIN ST., HARRISVILLE, WV",
-      "website": "https://www.ritchielibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26362"
-      ]
-    },
-    {
-      "name": "BURNSVILLE PUBLIC LIBRARY",
-      "system": "BURNSVILLE PUBLIC LIBRARY",
-      "address": "235 KANAWHA STREET, BURNSVILLE, WV",
-      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Burnsville Public Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26335"
-      ]
-    },
-    {
-      "name": "CLARKSBURG-HARRISON PUBLIC LIBRARY",
-      "system": "CLARKSBURG-HARRISON PUBLIC LIBRARY",
-      "address": "404 W. PIKE STREET, CLARKSBURG, WV",
-      "website": "http://clarksburglibrary.info/home",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26301"
-      ]
-    },
-    {
       "name": "BRIDGEPORT PUBLIC LIBRARY",
       "system": "BRIDGEPORT PUBLIC LIBRARY",
-      "address": "1200 JOHNSON AVENUE, BRIDGEPORT, WV",
+      "address": "3399 WILLIAMSON ROAD, SAGINAW, MI",
       "website": "https://bportlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26330"
+        "26302",
+        "26323",
+        "26330",
+        "26332",
+        "26361",
+        "26366",
+        "26369",
+        "26386",
+        "26404",
+        "26408",
+        "26422",
+        "26426",
+        "26438",
+        "26448",
+        "26451",
+        "26463",
+        "26568",
+        "48601"
       ]
     },
     {
-      "name": "SOUTHERN AREA PUBLIC LIBRARY",
-      "system": "SOUTHERN AREA PUBLIC LIBRARY",
-      "address": "120 EAST MAIN STREET, LOST CREEK, WV",
-      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Southern Area Public Library",
+      "name": "TERRA ALTA PUBLIC LIBRARY",
+      "system": "TERRA ALTA PUBLIC LIBRARY",
+      "address": "701B EAST STATE AVENUE, TERRA ALTA, WV",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Terra Alta Public Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26385"
+        "26374",
+        "26410",
+        "26425",
+        "26444",
+        "26519",
+        "26520",
+        "26525",
+        "26542",
+        "26547",
+        "26705",
+        "26716",
+        "26764"
       ]
     },
     {
-      "name": "NUTTER FORT PUBLIC LIBRARY",
-      "system": "NUTTER FORT PUBLIC LIBRARY",
-      "address": "1300 BUCKHANNON PIKE, NUTTER FORT, WV",
-      "website": "https://townofnutterfort.gov/library",
+      "name": "NEW MARTINSVILLE PUBLIC LIBRARY",
+      "system": "NEW MARTINSVILLE PUBLIC LIBRARY",
+      "address": "160 WASHINGTON STREET, NEW MARTINSVILLE, WV",
+      "website": "https://newmartinsville.lib.wv.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26301"
+        "26155",
+        "26162",
+        "26167",
+        "26186",
+        "26348",
+        "26377",
+        "26437",
+        "26562",
+        "26581"
+      ]
+    },
+    {
+      "name": "PADEN CITY PUBLIC LIBRARY",
+      "system": "PADEN CITY PUBLIC LIBRARY",
+      "address": "114 S. 4TH AVENUE, PADEN CITY, WV",
+      "website": "https://www.padencitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26159",
+        "26162",
+        "26167",
+        "26186",
+        "26348",
+        "26377",
+        "26437",
+        "26562",
+        "26581"
+      ]
+    },
+    {
+      "name": "SISTERSVILLE PUBLIC LIBRARY",
+      "system": "SISTERSVILLE PUBLIC LIBRARY",
+      "address": "518 WELLS STREET, SISTERSVILLE, WV",
+      "website": "https://www.cityofsistersville.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26146",
+        "26175",
+        "26320"
+      ]
+    },
+    {
+      "name": "TYLER COUNTY PUBLIC LIBRARY",
+      "system": "TYLER COUNTY PUBLIC LIBRARY",
+      "address": "300 BROAD STREET, MIDDLEBOURNE, WV",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Tyler County Public Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26146",
+        "26149",
+        "26320"
       ]
     },
     {
@@ -74,7 +122,135 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26354"
+        "26347",
+        "26354",
+        "26424",
+        "26435",
+        "26440"
+      ]
+    },
+    {
+      "name": "RITCHIE COUNTY PUBLIC LIBRARY",
+      "system": "RITCHIE COUNTY PUBLIC LIBRARY",
+      "address": "608 E. MAIN ST., HARRISVILLE, WV",
+      "website": "https://www.ritchielibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26148",
+        "26161",
+        "26178",
+        "26325",
+        "26327",
+        "26337",
+        "26346",
+        "26362",
+        "26415",
+        "26421"
+      ]
+    },
+    {
+      "name": "BURNSVILLE PUBLIC LIBRARY",
+      "system": "BURNSVILLE PUBLIC LIBRARY",
+      "address": "235 KANAWHA STREET, BURNSVILLE, WV",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Burnsville Public Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26335",
+        "26615",
+        "26619",
+        "26621",
+        "26623",
+        "26627",
+        "26629",
+        "26631",
+        "26639",
+        "26641"
+      ]
+    },
+    {
+      "name": "CLARKSBURG-HARRISON PUBLIC LIBRARY",
+      "system": "CLARKSBURG-HARRISON PUBLIC LIBRARY",
+      "address": "404 W. PIKE STREET, CLARKSBURG, WV",
+      "website": "http://clarksburglibrary.info/home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26301",
+        "26302",
+        "26323",
+        "26330",
+        "26332",
+        "26361",
+        "26366",
+        "26369",
+        "26386",
+        "26404",
+        "26408",
+        "26422",
+        "26426",
+        "26438",
+        "26448",
+        "26451",
+        "26463",
+        "26568"
+      ]
+    },
+    {
+      "name": "SOUTHERN AREA PUBLIC LIBRARY",
+      "system": "SOUTHERN AREA PUBLIC LIBRARY",
+      "address": "120 EAST MAIN STREET, LOST CREEK, WV",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Southern Area Public Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26302",
+        "26323",
+        "26330",
+        "26332",
+        "26361",
+        "26366",
+        "26369",
+        "26385",
+        "26386",
+        "26404",
+        "26408",
+        "26422",
+        "26426",
+        "26438",
+        "26448",
+        "26451",
+        "26463",
+        "26568"
+      ]
+    },
+    {
+      "name": "NUTTER FORT PUBLIC LIBRARY",
+      "system": "NUTTER FORT PUBLIC LIBRARY",
+      "address": "1300 BUCKHANNON PIKE, NUTTER FORT, WV",
+      "website": "https://townofnutterfort.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26301",
+        "26302",
+        "26323",
+        "26330",
+        "26332",
+        "26361",
+        "26366",
+        "26369",
+        "26386",
+        "26404",
+        "26408",
+        "26422",
+        "26426",
+        "26438",
+        "26448",
+        "26451",
+        "26463",
+        "26568"
       ]
     },
     {
@@ -85,7 +261,174 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26351"
+        "25267",
+        "26342",
+        "26351",
+        "26384",
+        "26430",
+        "26443",
+        "26611",
+        "26634",
+        "26636",
+        "26638"
+      ]
+    },
+    {
+      "name": "BELINGTON PUBLIC LIBRARY",
+      "system": "BELINGTON PUBLIC LIBRARY",
+      "address": "88 ELLIOTT AVE., BELINGTON, WV",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Belington Public Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26238",
+        "26250",
+        "26275",
+        "262HH",
+        "26334",
+        "26349",
+        "26405",
+        "264HH"
+      ]
+    },
+    {
+      "name": "KINGWOOD PUBLIC LIBRARY",
+      "system": "KINGWOOD PUBLIC LIBRARY",
+      "address": "205 WEST MAIN ST, KINGWOOD, WV",
+      "website": "https://kingwoodpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26374",
+        "26410",
+        "26425",
+        "26444",
+        "26519",
+        "26520",
+        "26525",
+        "26537",
+        "26542",
+        "26547",
+        "26705",
+        "26716"
+      ]
+    },
+    {
+      "name": "HUNDRED PUBLIC LIBRARY",
+      "system": "HUNDRED PUBLIC LIBRARY",
+      "address": "3527 HORNET HIGHWAY, HUNDRED, WV",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Hundred Public Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26162",
+        "26167",
+        "26186",
+        "26348",
+        "26377",
+        "26437",
+        "26562",
+        "26575",
+        "26581"
+      ]
+    },
+    {
+      "name": "DODDRIDGE COUNTY PUBLIC LIBRARY",
+      "system": "DODDRIDGE COUNTY PUBLIC LIBRARY",
+      "address": "170 MARIE STREET, WEST UNION, WV",
+      "website": "https://doddridge.lib.wv.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26339",
+        "26411",
+        "26436",
+        "26456"
+      ]
+    },
+    {
+      "name": "PHILIPPI PUBLIC LIBRARY",
+      "system": "PHILIPPI PUBLIC LIBRARY",
+      "address": "91 S. MAIN ST., PHILIPPI, WV",
+      "website": "https://philippi.wvlibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26238",
+        "26275",
+        "262HH",
+        "26334",
+        "26349",
+        "26405",
+        "26416",
+        "264HH"
+      ]
+    },
+    {
+      "name": "LOWE PUBLIC LIBRARY",
+      "system": "LOWE PUBLIC LIBRARY",
+      "address": "40 BRIDGE ST., SHINNSTON, WV",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Lowe Public Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26302",
+        "26323",
+        "26330",
+        "26332",
+        "26361",
+        "26366",
+        "26369",
+        "26386",
+        "26404",
+        "26408",
+        "26422",
+        "26426",
+        "26431",
+        "26438",
+        "26448",
+        "26451",
+        "26463",
+        "26568"
+      ]
+    },
+    {
+      "name": "PINE GROVE PUBLIC LIBRARY",
+      "system": "PINE GROVE PUBLIC LIBRARY",
+      "address": "756 ALLEY ADDITION, PINE GROVE, WV",
+      "website": "https://citylibrary.com/public-libraries/pine-grove-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26162",
+        "26167",
+        "26186",
+        "26348",
+        "26377",
+        "26419",
+        "26437",
+        "26562",
+        "26581"
+      ]
+    },
+    {
+      "name": "LOUIS BENNETT PUBLIC LIBRARY",
+      "system": "LOUIS BENNETT PUBLIC LIBRARY",
+      "address": "148 COURT AVENUE, WESTON, WV",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Louis Bennett Public Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26321",
+        "26338",
+        "26343",
+        "26372",
+        "26376",
+        "26378",
+        "263HH",
+        "26412",
+        "26447",
+        "26452"
       ]
     }
   ]

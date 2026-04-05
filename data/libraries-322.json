@@ -1,14 +1,21 @@
 {
   "libraries": [
     {
-      "name": "JACKSONVILLE PUBLIC LIBRARY",
-      "system": "JACKSONVILLE PUBLIC LIBRARY",
-      "address": "303 LAURA STREET NORTH, JACKSONVILLE, FL",
-      "website": "http://www.jaxpubliclibrary.org",
+      "name": "ST. JOHNS COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "ST. JOHNS COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "6670 US 1 SOUTH, ST. AUGUSTINE, FL",
+      "website": "https://sjcpls.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "32202"
+        "32033",
+        "32082",
+        "32084",
+        "32086",
+        "32092",
+        "32095",
+        "32145",
+        "32259"
       ]
     }
   ]

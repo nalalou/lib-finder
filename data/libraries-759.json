@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "TLL TEMPLE MEMORIAL LIBRARY & ARCHIVES",
-      "system": "TLL TEMPLE MEMORIAL LIBRARY & ARCHIVES",
-      "address": "300 PARK ST, DIBOLL, TX",
-      "website": "https://www.dibolllibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75941"
-      ]
-    },
-    {
       "name": "JASPER PUBLIC LIBRARY",
       "system": "JASPER PUBLIC LIBRARY",
       "address": "175 E WATER ST, JASPER, TX",
@@ -19,7 +8,87 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75951"
+        "75931",
+        "75951",
+        "77615"
+      ]
+    },
+    {
+      "name": "JACKSONVILLE PUBLIC LIBRARY",
+      "system": "JACKSONVILLE PUBLIC LIBRARY",
+      "address": "526 E COMMERCE ST, JACKSONVILLE, TX",
+      "website": "http://www.jaxpubliclibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75759",
+        "75764",
+        "75766",
+        "757HH",
+        "75925"
+      ]
+    },
+    {
+      "name": "LIVINGSTON MUNICIPAL LIBRARY",
+      "system": "LIVINGSTON MUNICIPAL LIBRARY",
+      "address": "707 N TYLER AVE, LIVINGSTON, TX",
+      "website": "https://www.cityoflivingston-tx.com/Facilities/Facility/Details/Livingston-Municipal-Library-7",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75934",
+        "75960",
+        "759XX",
+        "77326",
+        "77335",
+        "77351",
+        "773XX"
+      ]
+    },
+    {
+      "name": "ONALASKA PUBLIC LIBRARY",
+      "system": "ONALASKA PUBLIC LIBRARY",
+      "address": "372 S FM 356 STE 103, ONALASKA, TX",
+      "website": "https://www.cityofonalaska.us/public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75934",
+        "75960",
+        "759XX",
+        "77326",
+        "77335",
+        "77360",
+        "773XX"
+      ]
+    },
+    {
+      "name": "ETHEL R REESE PUBLIC LIBRARY",
+      "system": "ETHEL R REESE PUBLIC LIBRARY",
+      "address": "126 W FIRST ST, GROVETON, TX",
+      "website": "https://cityofgroveton.com/public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75845",
+        "75856",
+        "75862",
+        "75926"
+      ]
+    },
+    {
+      "name": "TLL TEMPLE MEMORIAL LIBRARY & ARCHIVES",
+      "system": "TLL TEMPLE MEMORIAL LIBRARY & ARCHIVES",
+      "address": "300 PARK ST, DIBOLL, TX",
+      "website": "https://www.dibolllibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75901",
+        "75941",
+        "75969",
+        "75980",
+        "759HH"
       ]
     },
     {
@@ -30,7 +99,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75956"
+        "75931",
+        "75956",
+        "77615"
       ]
     },
     {
@@ -41,7 +112,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75904"
+        "75901",
+        "75904",
+        "75969",
+        "75980",
+        "759HH"
       ]
     },
     {
@@ -52,7 +127,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75961"
+        "75760",
+        "75788",
+        "75937",
+        "75943",
+        "75944",
+        "75946",
+        "75961",
+        "75964",
+        "75978"
       ]
     },
     {
@@ -63,6 +146,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "75930",
+        "75959",
         "75968"
       ]
     },
@@ -74,6 +159,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "75929",
         "75972"
       ]
     },
@@ -85,7 +171,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75935"
+        "75935",
+        "75954",
+        "75973",
+        "75974"
       ]
     },
     {
@@ -96,18 +185,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75939"
+        "75934",
+        "75939",
+        "75960",
+        "759XX",
+        "77326",
+        "77335",
+        "773XX"
       ]
     },
     {
       "name": "NEWTON COUNTY PUBLIC LIBRARY",
       "system": "NEWTON COUNTY PUBLIC LIBRARY",
-      "address": "212 HIGH ST, NEWTON, TX",
+      "address": "9444 NORTH 315 WEST, LAKE VILLAGE, IN",
       "website": "https://www.newtoncountypubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75966"
+        "46349",
+        "75928",
+        "75932",
+        "75933",
+        "75966",
+        "75977",
+        "77614"
       ]
     },
     {
@@ -118,7 +219,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75948"
+        "75930",
+        "75948",
+        "75959"
       ]
     },
     {
@@ -129,7 +232,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75979"
+        "75936",
+        "75938",
+        "75942",
+        "75979",
+        "77616",
+        "77624",
+        "77660",
+        "77664"
       ]
     },
     {
@@ -140,7 +250,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75949"
+        "75901",
+        "75949",
+        "75969",
+        "75980",
+        "759HH"
       ]
     },
     {
@@ -151,6 +265,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "75759",
+        "75764",
+        "757HH",
+        "75925",
         "75976"
       ]
     },
@@ -162,7 +280,38 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "75954",
+        "75973",
+        "75974",
         "75975"
+      ]
+    },
+    {
+      "name": "BUNA PUBLIC LIBRARY",
+      "system": "BUNA PUBLIC LIBRARY",
+      "address": "1042 HWY 62 S, BUNA, TX",
+      "website": "https://bunapubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75931",
+        "77612",
+        "77615"
+      ]
+    },
+    {
+      "name": "SINGLETARY MEMORIAL LIBRARY",
+      "system": "SINGLETARY MEMORIAL LIBRARY",
+      "address": "207 E 6TH ST, RUSK, TX",
+      "website": "https://librarytechnology.org/library/24534",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75759",
+        "75764",
+        "75785",
+        "757HH",
+        "75925"
       ]
     }
   ]

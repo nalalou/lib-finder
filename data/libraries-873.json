@@ -1,6 +1,100 @@
 {
   "libraries": [
     {
+      "name": "FARMINGTON PUBLIC LIBRARY",
+      "system": "FARMINGTON PUBLIC LIBRARY",
+      "address": "117 ACADEMY STREET, FARMINGTON, ME",
+      "website": "http://www.infoway.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04938",
+        "87037",
+        "87364",
+        "87401",
+        "87402",
+        "87412",
+        "87413",
+        "87415",
+        "87416",
+        "87417",
+        "87418",
+        "87419",
+        "87420",
+        "87421",
+        "87455",
+        "87461",
+        "874HH",
+        "874XX"
+      ]
+    },
+    {
+      "name": "GRANTS PUBLIC LIBRARY",
+      "system": "GRANTS PUBLIC LIBRARY",
+      "address": "1101 NORTH FIRST STREET, GRANTS, NM",
+      "website": "https://www.grantsnm.gov/Departments/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87005",
+        "87007",
+        "87014",
+        "87020",
+        "87038",
+        "87040",
+        "87049",
+        "870XX",
+        "87315",
+        "87321",
+        "87357",
+        "873XX"
+      ]
+    },
+    {
+      "name": "LAGUNA PUBLIC LIBRARY",
+      "system": "LAGUNA PUBLIC LIBRARY",
+      "address": "29 RODEO DRIVE, LAGUNA, NM",
+      "website": "https://www.lagunapueblo-nsn.gov/departments/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87005",
+        "87007",
+        "87014",
+        "87026",
+        "87038",
+        "87040",
+        "87049",
+        "870XX",
+        "87315",
+        "87321",
+        "87357",
+        "873XX"
+      ]
+    },
+    {
+      "name": "ACOMA LEARNING CENTER",
+      "system": "ACOMA LEARNING CENTER",
+      "address": "17A KNOTS LANDING ROAD, PUEBLO OF ACOMA, NM",
+      "website": "https://www.puebloofacoma.org/departments/department-of-education/alc/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87005",
+        "87007",
+        "87014",
+        "87034",
+        "87038",
+        "87040",
+        "87049",
+        "870XX",
+        "87315",
+        "87321",
+        "87357",
+        "873XX"
+      ]
+    },
+    {
       "name": "OCTAVIA FELLIN PUBLIC LIBRARY",
       "system": "OCTAVIA FELLIN PUBLIC LIBRARY",
       "address": "115 WEST HILL AVENUE, GALLUP, NM",
@@ -8,7 +102,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87301"
+        "86504",
+        "86508",
+        "87045",
+        "87301",
+        "87305",
+        "87310",
+        "87311",
+        "87312",
+        "87313",
+        "87316",
+        "87317",
+        "87319",
+        "87320",
+        "87322",
+        "87323",
+        "87325",
+        "87326",
+        "87328",
+        "87347",
+        "87375"
       ]
     },
     {
@@ -19,7 +132,54 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87327"
+        "86504",
+        "86508",
+        "87045",
+        "87305",
+        "87310",
+        "87311",
+        "87312",
+        "87313",
+        "87316",
+        "87317",
+        "87319",
+        "87320",
+        "87322",
+        "87323",
+        "87325",
+        "87326",
+        "87327",
+        "87328",
+        "87347",
+        "87375"
+      ]
+    },
+    {
+      "name": "AZTEC PUBLIC LIBRARY",
+      "system": "AZTEC PUBLIC LIBRARY",
+      "address": "319 S. ASH, AZTEC, NM",
+      "website": "http://www.azteclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87037",
+        "87364",
+        "87401",
+        "87402",
+        "87410",
+        "87412",
+        "87413",
+        "87415",
+        "87416",
+        "87417",
+        "87418",
+        "87419",
+        "87420",
+        "87421",
+        "87455",
+        "87461",
+        "874HH",
+        "874XX"
       ]
     }
   ]

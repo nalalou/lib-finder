@@ -1,6 +1,362 @@
 {
   "libraries": [
     {
+      "name": "BAD AXE AREA DISTRICT LIBRARY",
+      "system": "BAD AXE AREA DISTRICT LIBRARY",
+      "address": "200 SOUTH HANSELMAN STREET, BAD AXE, MI",
+      "website": "https://www.badaxelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48413",
+        "48432",
+        "48445",
+        "48468",
+        "48470",
+        "48720",
+        "48725",
+        "48731",
+        "48754"
+      ]
+    },
+    {
+      "name": "DRYDEN TOWNSHIP LIBRARY",
+      "system": "DRYDEN TOWNSHIP LIBRARY",
+      "address": "5480 MAIN STREET, DRYDEN, MI",
+      "website": "https://www.drydentownshiplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48412",
+        "48421",
+        "48428",
+        "48440",
+        "48455",
+        "48464",
+        "48727"
+      ]
+    },
+    {
+      "name": "THOMAS E. FLESCHNER MEMORIAL LIBRARY",
+      "system": "THOMAS E. FLESCHNER MEMORIAL LIBRARY",
+      "address": "11935 SILVER CREEK DRIVE, BIRCH RUN, MI",
+      "website": "https://www.birchruntwp.com/fleschner-memorial-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48415",
+        "48602",
+        "48603",
+        "48604",
+        "48614",
+        "48623",
+        "48649",
+        "48722",
+        "48724"
+      ]
+    },
+    {
+      "name": "HARBOR BEACH AREA DISTRICT LIBRARY",
+      "system": "HARBOR BEACH AREA DISTRICT LIBRARY",
+      "address": "105 NORTH HURON AVENUE, HARBOR BEACH, MI",
+      "website": "https://www.hbadl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48432",
+        "48441",
+        "48445",
+        "48468",
+        "48470",
+        "48720",
+        "48725",
+        "48731",
+        "48754"
+      ]
+    },
+    {
+      "name": "RUTH HUGHES MEMORIAL DISTRICT LIBRARY",
+      "system": "RUTH HUGHES MEMORIAL DISTRICT LIBRARY",
+      "address": "211 NORTH ALMONT AVENUE, IMLAY CITY, MI",
+      "website": "https://www.ruthhughes.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48412",
+        "48421",
+        "48440",
+        "48444",
+        "48455",
+        "48464",
+        "48727"
+      ]
+    },
+    {
+      "name": "LAPEER DISTRICT LIBRARY",
+      "system": "LAPEER DISTRICT LIBRARY",
+      "address": "201 VILLAGE WEST DRIVE SOUTH, LAPEER, MI",
+      "website": "https://www.library.lapeer.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48412",
+        "48421",
+        "48440",
+        "48446",
+        "48455",
+        "48464",
+        "48727"
+      ]
+    },
+    {
+      "name": "NORTH BRANCH TOWNSHIP LIBRARY",
+      "system": "NORTH BRANCH TOWNSHIP LIBRARY",
+      "address": "3714 HURON ROAD, NORTH BRANCH, MI",
+      "website": "https://librarytechnology.org/library/19690",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48412",
+        "48421",
+        "48440",
+        "48455",
+        "48461",
+        "48464",
+        "48727"
+      ]
+    },
+    {
+      "name": "PORT AUSTIN TOWNSHIP LIBRARY",
+      "system": "PORT AUSTIN TOWNSHIP LIBRARY",
+      "address": "114 RAILROAD STREET, PORT AUSTIN, MI",
+      "website": "https://www.portaustinlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48432",
+        "48445",
+        "48467",
+        "48468",
+        "48470",
+        "48720",
+        "48725",
+        "48731",
+        "48754"
+      ]
+    },
+    {
+      "name": "SLEEPER PUBLIC LIBRARY",
+      "system": "SLEEPER PUBLIC LIBRARY",
+      "address": "2236 EAST MAIN STREET, UBLY, MI",
+      "website": "https://www.sleeper.michlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48432",
+        "48445",
+        "48468",
+        "48470",
+        "48475",
+        "48720",
+        "48725",
+        "48731",
+        "48754"
+      ]
+    },
+    {
+      "name": "TAYMOUTH TOWNSHIP LIBRARY",
+      "system": "TAYMOUTH TOWNSHIP LIBRARY",
+      "address": "2361 EAST BURT ROAD, BURT, MI",
+      "website": "https://www.taymouthtwplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48417",
+        "48602",
+        "48603",
+        "48604",
+        "48614",
+        "48623",
+        "48649",
+        "48722",
+        "48724"
+      ]
+    },
+    {
+      "name": "WATERTOWN TOWNSHIP LIBRARY",
+      "system": "WATERTOWN TOWNSHIP LIBRARY",
+      "address": "9405 FOSTER STREET, FOSTORIA, MI",
+      "website": "https://watertowntwplibrary.wixsite.com/watertownlibrary",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48435",
+        "48701",
+        "48729",
+        "48735",
+        "48760"
+      ]
+    },
+    {
+      "name": "GOODLAND TOWNSHIP LIBRARY",
+      "system": "GOODLAND TOWNSHIP LIBRARY",
+      "address": "2370 N. VAN DYKE RD., IMLAY CITY, MI",
+      "website": "https://goodlandtownshiplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48412",
+        "48421",
+        "48440",
+        "48444",
+        "48455",
+        "48464",
+        "48727"
+      ]
+    },
+    {
+      "name": "RIVER RAPIDS DISTRICT LIBRARY",
+      "system": "RIVER RAPIDS DISTRICT LIBRARY",
+      "address": "227 EAST BROAD STREET, CHESANING, MI",
+      "website": "https://riverrapidslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48602",
+        "48603",
+        "48604",
+        "48614",
+        "48616",
+        "48623",
+        "48649",
+        "48722",
+        "48724"
+      ]
+    },
+    {
+      "name": "MERRILL DISTRICT LIBRARY",
+      "system": "MERRILL DISTRICT LIBRARY",
+      "address": "321 WEST SAGINAW STREET, MERRILL, MI",
+      "website": "https://merrilldistrictlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48602",
+        "48603",
+        "48604",
+        "48614",
+        "48623",
+        "48637",
+        "48649",
+        "48722",
+        "48724"
+      ]
+    },
+    {
+      "name": "OGEMAW DISTRICT LIBRARY",
+      "system": "OGEMAW DISTRICT LIBRARY",
+      "address": "107 WEST MAIN STREET, ROSE CITY, MI",
+      "website": "https://www.ogemawlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48610",
+        "48635",
+        "48654",
+        "48756"
+      ]
+    },
+    {
+      "name": "RAUCHHOLZ MEMORIAL LIBRARY",
+      "system": "RAUCHHOLZ MEMORIAL LIBRARY",
+      "address": "1140 NORTH HEMLOCK ROAD, HEMLOCK, MI",
+      "website": "https://www.rauchholzlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48602",
+        "48603",
+        "48604",
+        "48614",
+        "48623",
+        "48626",
+        "48649",
+        "48722",
+        "48724"
+      ]
+    },
+    {
+      "name": "PUBLIC LIBRARIES OF SAGINAW",
+      "system": "PUBLIC LIBRARIES OF SAGINAW",
+      "address": "505 JANES AVENUE, SAGINAW, MI",
+      "website": "https://www.saginawlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48602",
+        "48603",
+        "48604",
+        "48607",
+        "48614",
+        "48623",
+        "48649",
+        "48722",
+        "48724"
+      ]
+    },
+    {
+      "name": "SAINT CHARLES DISTRICT LIBRARY",
+      "system": "SAINT CHARLES DISTRICT LIBRARY",
+      "address": "132 SOUTH SAGINAW STREET, SAINT CHARLES, MI",
+      "website": "https://www.stcharlesdistrictlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48602",
+        "48603",
+        "48604",
+        "48614",
+        "48623",
+        "48649",
+        "48655",
+        "48722",
+        "48724"
+      ]
+    },
+    {
+      "name": "THOMAS TOWNSHIP LIBRARY",
+      "system": "THOMAS TOWNSHIP LIBRARY",
+      "address": "8207 SHIELDS DRIVE, SAGINAW, MI",
+      "website": "https://www.thomastownshiplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48602",
+        "48603",
+        "48604",
+        "48609",
+        "48614",
+        "48623",
+        "48649",
+        "48722",
+        "48724"
+      ]
+    },
+    {
+      "name": "WEST BRANCH DISTRICT LIBRARY",
+      "system": "WEST BRANCH DISTRICT LIBRARY",
+      "address": "119 NORTH FOURTH STREET, WEST BRANCH, MI",
+      "website": "https://www.westbranchlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48610",
+        "48635",
+        "48661",
+        "48756"
+      ]
+    },
+    {
       "name": "BAY COUNTY LIBRARY SYSTEM",
       "system": "BAY COUNTY LIBRARY SYSTEM",
       "address": "500 CENTER AVENUE, BAY CITY, MI",
@@ -8,7 +364,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48708"
+        "48611",
+        "48613",
+        "48631",
+        "48634",
+        "48650",
+        "48706",
+        "48708",
+        "48732",
+        "48747"
       ]
     },
     {
@@ -19,6 +383,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "48701",
+        "48729",
+        "48735",
+        "48760",
         "48768"
       ]
     },
@@ -30,6 +398,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "48701",
+        "48729",
+        "48735",
+        "48760",
         "48767"
       ]
     },
@@ -41,7 +413,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48733"
+        "48701",
+        "48729",
+        "48733",
+        "48735",
+        "48760"
       ]
     },
     {
@@ -52,7 +428,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48723"
+        "48701",
+        "48723",
+        "48729",
+        "48735",
+        "48760"
       ]
     },
     {
@@ -63,7 +443,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48730"
+        "48730",
+        "48739",
+        "48743",
+        "48748",
+        "48750",
+        "48761",
+        "48763",
+        "48770"
       ]
     },
     {
@@ -74,7 +461,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48741"
+        "48701",
+        "48729",
+        "48735",
+        "48741",
+        "48760"
       ]
     },
     {
@@ -85,6 +476,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "48602",
+        "48603",
+        "48604",
+        "48614",
+        "48623",
+        "48649",
+        "48722",
+        "48724",
         "48734"
       ]
     },
@@ -96,7 +495,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48744"
+        "48701",
+        "48729",
+        "48735",
+        "48744",
+        "48760"
       ]
     },
     {
@@ -107,7 +510,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48746"
+        "48701",
+        "48729",
+        "48735",
+        "48746",
+        "48760"
       ]
     },
     {
@@ -118,6 +525,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "48432",
+        "48445",
+        "48468",
+        "48470",
+        "48720",
+        "48725",
+        "48731",
+        "48754",
         "48755"
       ]
     },
@@ -129,7 +544,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48726"
+        "48701",
+        "48726",
+        "48729",
+        "48735",
+        "48760"
       ]
     },
     {
@@ -140,7 +559,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48757"
+        "48701",
+        "48729",
+        "48735",
+        "48757",
+        "48760"
       ]
     },
     {
@@ -151,7 +574,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48740"
+        "48705",
+        "48721",
+        "48728",
+        "48738",
+        "48740",
+        "48742",
+        "48745",
+        "48762",
+        "487HH",
+        "497HH"
       ]
     },
     {
@@ -162,7 +594,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "48737"
+        "48705",
+        "48721",
+        "48728",
+        "48737",
+        "48738",
+        "48742",
+        "48745",
+        "48762",
+        "487HH",
+        "497HH"
       ]
     },
     {
@@ -173,7 +614,32 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "48432",
+        "48445",
+        "48468",
+        "48470",
+        "48720",
+        "48725",
+        "48731",
+        "48754",
         "48759"
+      ]
+    },
+    {
+      "name": "ALMONT DISTRICT LIBRARY",
+      "system": "ALMONT DISTRICT LIBRARY",
+      "address": "213 WEST SAINT CLAIR STREET, ALMONT, MI",
+      "website": "https://www.adlmi.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48003",
+        "48412",
+        "48421",
+        "48440",
+        "48455",
+        "48464",
+        "48727"
       ]
     }
   ]

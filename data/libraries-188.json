@@ -1,36 +1,55 @@
 {
   "libraries": [
     {
-      "name": "SPALDING MEMORIAL LIBRARY",
-      "system": "SPALDING MEMORIAL LIBRARY",
-      "address": "724 S MAIN ST, ATHENS, PA",
-      "website": "https://spaldinglibrary.org/",
+      "name": "BRADFORD COUNTY LIBRARY",
+      "system": "BRADFORD COUNTY LIBRARY",
+      "address": "16093 ROUTE 6, TROY, PA",
+      "website": "https://bradfordcountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "18810"
+        "16914",
+        "16925",
+        "16926",
+        "186HH",
+        "18814",
+        "18817",
+        "18829",
+        "18831",
+        "18833",
+        "18837",
+        "18840",
+        "18845",
+        "18846",
+        "18851",
+        "18854",
+        "188HH"
       ]
     },
     {
-      "name": "MONROETON PUBLIC LIBRARY",
-      "system": "MONROETON PUBLIC LIBRARY",
-      "address": "149 DALPIAZ DR, MONROETON, PA",
-      "website": "https://monroetonlibrary.org/",
+      "name": "ALLEN F. PIERCE FREE LIBRARY",
+      "system": "ALLEN F. PIERCE FREE LIBRARY",
+      "address": "34 FENNER AVE, TROY, PA",
+      "website": "https://piercelibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "18832"
-      ]
-    },
-    {
-      "name": "SAYRE PUBLIC LIBRARY",
-      "system": "SAYRE PUBLIC LIBRARY",
-      "address": "122 SOUTH ELMER AVE, SAYRE, PA",
-      "website": "https://sayre.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "18840"
+        "16914",
+        "16926",
+        "16947",
+        "186HH",
+        "18814",
+        "18817",
+        "18829",
+        "18831",
+        "18833",
+        "18837",
+        "18840",
+        "18845",
+        "18846",
+        "18851",
+        "18854",
+        "188HH"
       ]
     },
     {
@@ -41,7 +60,100 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "18848"
+        "16914",
+        "16926",
+        "186HH",
+        "18814",
+        "18817",
+        "18829",
+        "18831",
+        "18833",
+        "18837",
+        "18840",
+        "18845",
+        "18846",
+        "18848",
+        "18851",
+        "18854",
+        "188HH"
+      ]
+    },
+    {
+      "name": "SPALDING MEMORIAL LIBRARY",
+      "system": "SPALDING MEMORIAL LIBRARY",
+      "address": "724 S MAIN ST, ATHENS, PA",
+      "website": "https://spaldinglibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16914",
+        "16926",
+        "186HH",
+        "18810",
+        "18814",
+        "18817",
+        "18829",
+        "18831",
+        "18833",
+        "18837",
+        "18840",
+        "18845",
+        "18846",
+        "18851",
+        "18854",
+        "188HH"
+      ]
+    },
+    {
+      "name": "MONROETON PUBLIC LIBRARY",
+      "system": "MONROETON PUBLIC LIBRARY",
+      "address": "149 DALPIAZ DR, MONROETON, PA",
+      "website": "https://monroetonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16914",
+        "16926",
+        "186HH",
+        "18814",
+        "18817",
+        "18829",
+        "18831",
+        "18832",
+        "18833",
+        "18837",
+        "18840",
+        "18845",
+        "18846",
+        "18851",
+        "18854",
+        "188HH"
+      ]
+    },
+    {
+      "name": "SAYRE PUBLIC LIBRARY",
+      "system": "SAYRE PUBLIC LIBRARY",
+      "address": "113 E POPLAR, SAYRE, OK",
+      "website": "https://sayre.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16914",
+        "16926",
+        "186HH",
+        "18814",
+        "18817",
+        "18829",
+        "18831",
+        "18833",
+        "18837",
+        "18840",
+        "18845",
+        "18846",
+        "18851",
+        "18854",
+        "188HH",
+        "73662"
       ]
     },
     {
@@ -52,7 +164,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "18850"
+        "16914",
+        "16926",
+        "186HH",
+        "18814",
+        "18817",
+        "18829",
+        "18831",
+        "18833",
+        "18837",
+        "18840",
+        "18845",
+        "18846",
+        "18850",
+        "18851",
+        "18854",
+        "188HH"
       ]
     },
     {
@@ -63,7 +190,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "18853"
+        "16914",
+        "16926",
+        "186HH",
+        "18814",
+        "18817",
+        "18829",
+        "18831",
+        "18833",
+        "18837",
+        "18840",
+        "18845",
+        "18846",
+        "18851",
+        "18853",
+        "18854",
+        "188HH"
       ]
     },
     {
@@ -74,7 +216,59 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "18801"
+        "18413",
+        "18421",
+        "18430",
+        "18441",
+        "18465",
+        "18470",
+        "18630",
+        "18801",
+        "18812",
+        "18813",
+        "18816",
+        "18818",
+        "18820",
+        "18821",
+        "18822",
+        "18823",
+        "18824",
+        "18825",
+        "18826",
+        "18827",
+        "18828",
+        "18830",
+        "18834",
+        "18839",
+        "18842",
+        "18844",
+        "18847"
+      ]
+    },
+    {
+      "name": "GREEN FREE LIBRARY CANTON",
+      "system": "GREEN FREE LIBRARY CANTON",
+      "address": "38 N. CENTER STREET, CANTON, PA",
+      "website": "https://cantonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "16914",
+        "16926",
+        "17724",
+        "186HH",
+        "18814",
+        "18817",
+        "18829",
+        "18831",
+        "18833",
+        "18837",
+        "18840",
+        "18845",
+        "18846",
+        "18851",
+        "18854",
+        "188HH"
       ]
     }
   ]

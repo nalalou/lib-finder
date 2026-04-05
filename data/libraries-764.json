@@ -1,6 +1,24 @@
 {
   "libraries": [
     {
+      "name": "BROWNWOOD COMMUNITY LIBRARY",
+      "system": "BROWNWOOD COMMUNITY LIBRARY",
+      "address": "600 CARNEGIE ST, BROWNWOOD, TX",
+      "website": "https://www.brownwoodlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76432",
+        "76801",
+        "76802",
+        "76823",
+        "76827",
+        "76857",
+        "76890",
+        "768HH"
+      ]
+    },
+    {
       "name": "DELEON CITY COUNTY LIBRARY",
       "system": "DELEON CITY COUNTY LIBRARY",
       "address": "125 E REYNOSA AVE, DE LEON, TX",
@@ -8,18 +26,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76444"
+        "76444",
+        "76452",
+        "76455",
+        "76468",
+        "76474",
+        "764HH"
       ]
     },
     {
       "name": "DUBLIN PUBLIC LIBRARY",
       "system": "DUBLIN PUBLIC LIBRARY",
-      "address": "206 W BLACKJACK ST, DUBLIN, TX",
+      "address": "1114 MAIN STREET, DUBLIN, NH",
       "website": "https://www.dplnh.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76446"
+        "03444",
+        "76433",
+        "76446",
+        "76463"
       ]
     },
     {
@@ -30,7 +56,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76448"
+        "76435",
+        "76445",
+        "76448",
+        "76454",
+        "76466",
+        "76471"
       ]
     },
     {
@@ -41,7 +72,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76450"
+        "76372",
+        "76450",
+        "76460",
+        "76481"
       ]
     },
     {
@@ -52,7 +86,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76458"
+        "76427",
+        "76458",
+        "76459",
+        "76486"
       ]
     },
     {
@@ -63,18 +100,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76401"
-      ]
-    },
-    {
-      "name": "BRIDGEPORT PUBLIC LIBRARY",
-      "system": "BRIDGEPORT PUBLIC LIBRARY",
-      "address": "2159 10TH ST, BRIDGEPORT, TX",
-      "website": "https://bportlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76426"
+        "76401",
+        "76433",
+        "76446",
+        "76463"
       ]
     },
     {
@@ -85,6 +114,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "76023",
+        "76073",
+        "76234",
+        "76246",
+        "76426",
         "76431"
       ]
     },
@@ -96,7 +130,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76437"
+        "76435",
+        "76437",
+        "76445",
+        "76454",
+        "76466",
+        "76471"
       ]
     },
     {
@@ -107,7 +146,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76442"
+        "76442",
+        "76452",
+        "76455",
+        "76468",
+        "76474",
+        "764HH"
       ]
     },
     {
@@ -118,7 +162,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76443"
+        "76443",
+        "76469",
+        "79504",
+        "79510"
       ]
     },
     {
@@ -129,7 +176,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76470"
+        "76435",
+        "76445",
+        "76454",
+        "76466",
+        "76470",
+        "76471"
       ]
     },
     {
@@ -140,7 +192,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76430"
+        "76430",
+        "76464",
+        "764XX",
+        "796XX"
       ]
     },
     {
@@ -151,7 +206,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76483"
+        "76483",
+        "76491"
       ]
     },
     {
@@ -162,7 +218,211 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76424"
+        "76424",
+        "76429"
+      ]
+    },
+    {
+      "name": "HAMILTON PUBLIC LIBRARY",
+      "system": "HAMILTON PUBLIC LIBRARY",
+      "address": "861 BROADWAY STREET, HAMILTON, IL",
+      "website": "http://www.hamiltonpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62341",
+        "76436",
+        "76457",
+        "76531",
+        "76565"
+      ]
+    },
+    {
+      "name": "NEWARK PUBLIC LIBRARY",
+      "system": "NEWARK PUBLIC LIBRARY",
+      "address": "207 HUDSON ST, NEWARK, TX",
+      "website": "https://www.npl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76023",
+        "76071",
+        "76073",
+        "76234",
+        "76246",
+        "76426"
+      ]
+    },
+    {
+      "name": "DECATUR PUBLIC LIBRARY",
+      "system": "DECATUR PUBLIC LIBRARY",
+      "address": "504 CHERRY STREET NE, DECATUR, AL",
+      "website": "https://dekalblibrary.org/branches/deca",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35601",
+        "76023",
+        "76073",
+        "76234",
+        "76246",
+        "76426"
+      ]
+    },
+    {
+      "name": "ALVORD PUBLIC LIBRARY",
+      "system": "ALVORD PUBLIC LIBRARY",
+      "address": "106 FRANKLIN ST, ALVORD, TX",
+      "website": "https://alvordtx.gov/departments/alvord-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76023",
+        "76073",
+        "76225",
+        "76234",
+        "76246",
+        "76426"
+      ]
+    },
+    {
+      "name": "OLNEY COMMUNITY LIBRARY AND ARTS CENTER",
+      "system": "OLNEY COMMUNITY LIBRARY AND ARTS CENTER",
+      "address": "807 W HAMILTON ST, OLNEY, TX",
+      "website": "https://librarytechnology.org/library/24467",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76372",
+        "76374",
+        "76460",
+        "76481"
+      ]
+    },
+    {
+      "name": "HOOD COUNTY PUBLIC LIBRARY",
+      "system": "HOOD COUNTY PUBLIC LIBRARY",
+      "address": "222 N TRAVIS ST, GRANBURY, TX",
+      "website": "https://library.hoodcounty.texas.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76035",
+        "76048",
+        "76049",
+        "760HH",
+        "76462",
+        "76476"
+      ]
+    },
+    {
+      "name": "AZLE MEMORIAL LIBRARY",
+      "system": "AZLE MEMORIAL LIBRARY",
+      "address": "333 W MAIN ST, AZLE, TX",
+      "website": "https://www.cityofazle.org/203/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76020",
+        "76066",
+        "76087",
+        "76088",
+        "76487",
+        "76490"
+      ]
+    },
+    {
+      "name": "BOYCE DITTO PUBLIC LIBRARY",
+      "system": "BOYCE DITTO PUBLIC LIBRARY",
+      "address": "2300 SE MARTIN LUTHER KING JR ST, MINERAL WELLS, TX",
+      "website": "https://www.mineralwellstx.gov/98/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76067",
+        "76449",
+        "76453",
+        "76472",
+        "76475",
+        "76484"
+      ]
+    },
+    {
+      "name": "WEATHERFORD PUBLIC LIBRARY",
+      "system": "WEATHERFORD PUBLIC LIBRARY",
+      "address": "1014 CHARLES ST, WEATHERFORD, TX",
+      "website": "https://weatherfordtx.gov/142/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76066",
+        "76086",
+        "76087",
+        "76088",
+        "76487",
+        "76490"
+      ]
+    },
+    {
+      "name": "SPRINGTOWN PUBLIC LIBRARY",
+      "system": "SPRINGTOWN PUBLIC LIBRARY",
+      "address": "626 N MAIN ST, SPRINGTOWN, TX",
+      "website": "https://www.springtownlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76066",
+        "76082",
+        "76087",
+        "76088",
+        "76487",
+        "76490"
+      ]
+    },
+    {
+      "name": "RHOME COMMUNITY LIBRARY",
+      "system": "RHOME COMMUNITY LIBRARY",
+      "address": "265 W BC RHOME AVE, RHOME, TX",
+      "website": "https://www.rhomelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76023",
+        "76073",
+        "76078",
+        "76234",
+        "76246",
+        "76426"
+      ]
+    },
+    {
+      "name": "EAST PARKER COUNTY LIBRARY",
+      "system": "EAST PARKER COUNTY LIBRARY",
+      "address": "201 FM 1187 N, ALEDO, TX",
+      "website": "https://www.epclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "76008",
+        "76066",
+        "76087",
+        "76088",
+        "76487",
+        "76490"
+      ]
+    },
+    {
+      "name": "CLYDE PUBLIC LIBRARY",
+      "system": "CLYDE PUBLIC LIBRARY",
+      "address": "222 W. BUCKEYE ST., CLYDE, OH",
+      "website": "https://www.clyde-tx.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43410",
+        "76469",
+        "79504",
+        "79510"
       ]
     }
   ]

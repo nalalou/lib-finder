@@ -1,6 +1,63 @@
 {
   "libraries": [
     {
+      "name": "LEE COUNTY PUBLIC LIBRARY",
+      "system": "LEE COUNTY PUBLIC LIBRARY",
+      "address": "445 OAKLAND PARKWAY, W., LEESBURG, GA",
+      "website": "https://librarytechnology.org/library/18565",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31763",
+        "41311",
+        "41397"
+      ]
+    },
+    {
+      "name": "SOUTHWEST GEORGIA REGIONAL LIBRARY SYSTEM",
+      "system": "SOUTHWEST GEORGIA REGIONAL LIBRARY SYSTEM",
+      "address": "301 S. MONROE STREET, BAINBRIDGE, GA",
+      "website": "https://www.swgrl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31715",
+        "31717",
+        "31725",
+        "31734",
+        "31752",
+        "39819"
+      ]
+    },
+    {
+      "name": "RODDENBERY MEMORIAL LIBRARY",
+      "system": "RODDENBERY MEMORIAL LIBRARY",
+      "address": "320 NORTH BROAD STREET, CAIRO, GA",
+      "website": "https://rmlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31728",
+        "31729",
+        "31797",
+        "39828"
+      ]
+    },
+    {
+      "name": "KINCHAFOONEE REGIONAL LIBRARY SYSTEM",
+      "system": "KINCHAFOONEE REGIONAL LIBRARY SYSTEM",
+      "address": "913 FORRESTER DRIVE, SE, DAWSON, GA",
+      "website": "https://www.krlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31726",
+        "31742",
+        "31777",
+        "39842"
+      ]
+    },
+    {
       "name": "MOULTRIE-COLQUITT COUNTY LIBRARY SYSTEM",
       "system": "MOULTRIE-COLQUITT COUNTY LIBRARY SYSTEM",
       "address": "204 5TH STREET SE, MOULTRIE, GA",
@@ -8,7 +65,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "31768"
+        "31722",
+        "31744",
+        "31747",
+        "31756",
+        "31768",
+        "31771"
       ]
     },
     {
@@ -19,7 +81,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "31701"
+        "31701",
+        "31705",
+        "31707"
       ]
     },
     {
@@ -30,7 +94,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "31730"
+        "31716",
+        "31730",
+        "31779",
+        "31784"
       ]
     },
     {
@@ -41,7 +108,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "31709"
+        "31709",
+        "31711",
+        "31735",
+        "31743",
+        "31764",
+        "31780"
       ]
     },
     {
@@ -52,6 +124,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "31626",
+        "31720",
+        "31738",
+        "31757",
+        "31765",
+        "31773",
+        "31778",
         "31792"
       ]
     },
@@ -63,18 +142,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "31794"
-      ]
-    },
-    {
-      "name": "LEE COUNTY PUBLIC LIBRARY",
-      "system": "LEE COUNTY PUBLIC LIBRARY",
-      "address": "445 OAKLAND PARKWAY, W., LEESBURG, GA",
-      "website": "https://librarytechnology.org/library/18565",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "31763"
+        "31733",
+        "31775",
+        "31794",
+        "31795"
       ]
     },
     {
@@ -85,7 +156,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "31791"
+        "31772",
+        "31781",
+        "31789",
+        "31791",
+        "31796"
       ]
     }
   ]

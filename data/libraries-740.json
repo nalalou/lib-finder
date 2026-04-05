@@ -1,146 +1,113 @@
 {
   "libraries": [
     {
-      "name": "BARNSDALL - ETHEL BRIGGS MEMORIAL LIBRARY",
-      "system": "BARNSDALL - ETHEL BRIGGS MEMORIAL LIBRARY",
-      "address": "410 S FIFTH, BARNSDALL, OK",
-      "website": "https://librarytechnology.org/library/23052",
+      "name": "COWETA PUBLIC LIBRARY",
+      "system": "COWETA PUBLIC LIBRARY",
+      "address": "120 EAST SYCAMORE, COWETA, OK",
+      "website": "https://www.cityofcoweta-ok.gov/169/Public-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74002"
+        "74014",
+        "74429",
+        "74446",
+        "74454"
       ]
     },
     {
-      "name": "BARTLESVILLE PUBLIC LIBRARY",
-      "system": "BARTLESVILLE PUBLIC LIBRARY",
-      "address": "600 S JOHNSTONE, BARTLESVILLE, OK",
-      "website": "https://bartlesvillelibrary.com/",
+      "name": "WAGONER CITY PUBLIC LIBRARY",
+      "system": "WAGONER CITY PUBLIC LIBRARY",
+      "address": "302 N. MAIN, WAGONER, OK",
+      "website": "https://www.wagonerok.org/Departments/Public-Library/About-the-Wagoner-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74003"
+        "74014",
+        "74446",
+        "74454",
+        "74467"
       ]
     },
     {
-      "name": "BRISTOW - MONTFORT & ALLIE JONES MEM LIBRARY",
-      "system": "BRISTOW - MONTFORT & ALLIE JONES MEM LIBRARY",
-      "address": "111 W. 7TH AVE, BRISTOW, OK",
-      "website": "https://www.bristowlibrary.okpls.org/",
+      "name": "PRAGUE - HAYNIE PUBLIC LIBRARY",
+      "system": "PRAGUE - HAYNIE PUBLIC LIBRARY",
+      "address": "1619 W MAIN STREET, PRAGUE, OK",
+      "website": "https://cityofpragueok.org/about-the-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74010"
+        "74026",
+        "74824",
+        "74832",
+        "74834",
+        "74864",
+        "74869",
+        "74881"
+      ]
+    },
+    {
+      "name": "TRYON PUBLIC LIBRARY",
+      "system": "TRYON PUBLIC LIBRARY",
+      "address": "25 S MAIN ST, TRYON, OK",
+      "website": "https://tryon.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74026",
+        "74824",
+        "74832",
+        "74834",
+        "74869",
+        "74875",
+        "74881"
+      ]
+    },
+    {
+      "name": "MEEKER PUBLIC LIBRARY",
+      "system": "MEEKER PUBLIC LIBRARY",
+      "address": "616 W. CARL HUBBELL BOULEVARD, MEEKER, OK",
+      "website": "https://meeker.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74026",
+        "74824",
+        "74832",
+        "74834",
+        "74855",
+        "74869",
+        "74881"
       ]
     },
     {
       "name": "CHELSEA PUBLIC LIBRARY",
       "system": "CHELSEA PUBLIC LIBRARY",
-      "address": "618 PINE STREET, CHELSEA, OK",
+      "address": "16623 HIGHWAY 80, CHELSEA, AL",
       "website": "https://www.chelseama.gov/departments/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74016"
+        "35043",
+        "74016",
+        "74053"
       ]
     },
     {
-      "name": "CLEVELAND - JAY C BYERS MEMORIAL LIBRARY",
-      "system": "CLEVELAND - JAY C BYERS MEMORIAL LIBRARY",
-      "address": "215 E. WICHITA, CLEVELAND, OK",
-      "website": "https://www.jcbyerslibrary.okpls.org/",
+      "name": "FAIRFAX PUBLIC LIBRARY",
+      "system": "FAIRFAX PUBLIC LIBRARY",
+      "address": "158 EAST ELM, FAIRFAX, OK",
+      "website": "https://www.fairfax.lib.ia.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74020"
-      ]
-    },
-    {
-      "name": "CUSHING PUBLIC LIBRARY",
-      "system": "CUSHING PUBLIC LIBRARY",
-      "address": "215 NORTH STEELE AVENUE, CUSHING, OK",
-      "website": "https://cushing.lib.me.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74023"
-      ]
-    },
-    {
-      "name": "DEWEY - TYLER MEMORIAL LIBRARY",
-      "system": "DEWEY - TYLER MEMORIAL LIBRARY",
-      "address": "821 N SHAWNEE, DEWEY, OK",
-      "website": "https://www.cityofdewey.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74029"
-      ]
-    },
-    {
-      "name": "DRUMRIGHT PUBLIC LIBRARY",
-      "system": "DRUMRIGHT PUBLIC LIBRARY",
-      "address": "104 EAST BROADWAY, DRUMRIGHT, OK",
-      "website": "https://public-libraries.com/ok/drumright/drumright-public-library-ok-drumright/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74030"
-      ]
-    },
-    {
-      "name": "HOMINY PUBLIC LIBRARY",
-      "system": "HOMINY PUBLIC LIBRARY",
-      "address": "121 WEST MAIN, HOMINY, OK",
-      "website": "http://www.hominy.lib.ok.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74035"
-      ]
-    },
-    {
-      "name": "INOLA PUBLIC LIBRARY",
-      "system": "INOLA PUBLIC LIBRARY",
-      "address": "15 NORTH BROADWAY, INOLA, OK",
-      "website": "https://inola.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74036"
-      ]
-    },
-    {
-      "name": "MANNFORD PUBLIC LIBRARY",
-      "system": "MANNFORD PUBLIC LIBRARY",
-      "address": "101 GREEN VALLEY PARK RD, MANNFORD, OK",
-      "website": "https://www.mannford.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74044"
-      ]
-    },
-    {
-      "name": "NOWATA CITY-COUNTY LIBRARY",
-      "system": "NOWATA CITY-COUNTY LIBRARY",
-      "address": "224 SOUTH PINE, NOWATA, OK",
-      "website": "https://www.chamberofcommerce.com/united-states/oklahoma/nowata/public-library/4908138-nowata-city-county-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74048"
-      ]
-    },
-    {
-      "name": "PAWHUSKA PUBLIC LIBRARY",
-      "system": "PAWHUSKA PUBLIC LIBRARY",
-      "address": "1801 LYNN AVENUE, PAWHUSKA, OK",
-      "website": "https://pawhuska.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74056"
+        "74001",
+        "74054",
+        "74060",
+        "74070",
+        "74084",
+        "74633",
+        "74637",
+        "74652"
       ]
     },
     {
@@ -151,7 +118,232 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74058"
+        "74034",
+        "74038",
+        "74045",
+        "74058",
+        "74081",
+        "74650"
+      ]
+    },
+    {
+      "name": "MOUNDS PUBLIC LIBRARY",
+      "system": "MOUNDS PUBLIC LIBRARY",
+      "address": "15 WEST 14TH STREET, MOUNDS, OK",
+      "website": "https://moundspubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74028",
+        "74041",
+        "74047",
+        "74050",
+        "74052",
+        "74068",
+        "74071",
+        "740HH",
+        "74131"
+      ]
+    },
+    {
+      "name": "BARNSDALL - ETHEL BRIGGS MEMORIAL LIBRARY",
+      "system": "BARNSDALL - ETHEL BRIGGS MEMORIAL LIBRARY",
+      "address": "410 S FIFTH, BARNSDALL, OK",
+      "website": "https://librarytechnology.org/library/23052",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74001",
+        "74002",
+        "74054",
+        "74060",
+        "74070",
+        "74084",
+        "74633",
+        "74652"
+      ]
+    },
+    {
+      "name": "BARTLESVILLE PUBLIC LIBRARY",
+      "system": "BARTLESVILLE PUBLIC LIBRARY",
+      "address": "600 S JOHNSTONE, BARTLESVILLE, OK",
+      "website": "https://bartlesvillelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74003",
+        "74006",
+        "74022",
+        "74051",
+        "74061"
+      ]
+    },
+    {
+      "name": "BRISTOW - MONTFORT & ALLIE JONES MEM LIBRARY",
+      "system": "BRISTOW - MONTFORT & ALLIE JONES MEM LIBRARY",
+      "address": "111 W. 7TH AVE, BRISTOW, OK",
+      "website": "https://www.bristowlibrary.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74010",
+        "74028",
+        "74041",
+        "74050",
+        "74052",
+        "74068",
+        "74071",
+        "740HH",
+        "74131"
+      ]
+    },
+    {
+      "name": "CLEVELAND - JAY C BYERS MEMORIAL LIBRARY",
+      "system": "CLEVELAND - JAY C BYERS MEMORIAL LIBRARY",
+      "address": "215 E. WICHITA, CLEVELAND, OK",
+      "website": "https://www.jcbyerslibrary.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74020",
+        "74034",
+        "74038",
+        "74045",
+        "74081",
+        "74650"
+      ]
+    },
+    {
+      "name": "CUSHING PUBLIC LIBRARY",
+      "system": "CUSHING PUBLIC LIBRARY",
+      "address": "39 CROSS ROAD, CUSHING, ME",
+      "website": "https://cushing.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04563",
+        "74023",
+        "74032",
+        "74062",
+        "74074",
+        "74075"
+      ]
+    },
+    {
+      "name": "DEWEY - TYLER MEMORIAL LIBRARY",
+      "system": "DEWEY - TYLER MEMORIAL LIBRARY",
+      "address": "821 N SHAWNEE, DEWEY, OK",
+      "website": "https://www.cityofdewey.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74006",
+        "74022",
+        "74029",
+        "74051",
+        "74061"
+      ]
+    },
+    {
+      "name": "DRUMRIGHT PUBLIC LIBRARY",
+      "system": "DRUMRIGHT PUBLIC LIBRARY",
+      "address": "104 EAST BROADWAY, DRUMRIGHT, OK",
+      "website": "https://public-libraries.com/ok/drumright/drumright-public-library-ok-drumright/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74028",
+        "74030",
+        "74041",
+        "74050",
+        "74052",
+        "74068",
+        "74071",
+        "740HH",
+        "74131"
+      ]
+    },
+    {
+      "name": "HOMINY PUBLIC LIBRARY",
+      "system": "HOMINY PUBLIC LIBRARY",
+      "address": "121 WEST MAIN, HOMINY, OK",
+      "website": "http://www.hominy.lib.ok.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74001",
+        "74035",
+        "74054",
+        "74060",
+        "74070",
+        "74084",
+        "74633",
+        "74652"
+      ]
+    },
+    {
+      "name": "INOLA PUBLIC LIBRARY",
+      "system": "INOLA PUBLIC LIBRARY",
+      "address": "15 NORTH BROADWAY, INOLA, OK",
+      "website": "https://inola.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74016",
+        "74036",
+        "74053"
+      ]
+    },
+    {
+      "name": "MANNFORD PUBLIC LIBRARY",
+      "system": "MANNFORD PUBLIC LIBRARY",
+      "address": "101 GREEN VALLEY PARK RD, MANNFORD, OK",
+      "website": "https://www.mannford.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74028",
+        "74041",
+        "74044",
+        "74050",
+        "74052",
+        "74068",
+        "74071",
+        "740HH",
+        "74131"
+      ]
+    },
+    {
+      "name": "NOWATA CITY-COUNTY LIBRARY",
+      "system": "NOWATA CITY-COUNTY LIBRARY",
+      "address": "224 SOUTH PINE, NOWATA, OK",
+      "website": "https://www.chamberofcommerce.com/united-states/oklahoma/nowata/public-library/4908138-nowata-city-county-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74027",
+        "74042",
+        "74048",
+        "74072",
+        "74083"
+      ]
+    },
+    {
+      "name": "PAWHUSKA PUBLIC LIBRARY",
+      "system": "PAWHUSKA PUBLIC LIBRARY",
+      "address": "1801 LYNN AVENUE, PAWHUSKA, OK",
+      "website": "https://pawhuska.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74001",
+        "74054",
+        "74056",
+        "74060",
+        "74070",
+        "74084",
+        "74633",
+        "74652"
       ]
     },
     {
@@ -162,7 +354,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74059"
+        "74023",
+        "74032",
+        "74059",
+        "74062",
+        "74074",
+        "74075"
       ]
     },
     {
@@ -173,7 +370,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74066"
+        "74028",
+        "74041",
+        "74050",
+        "74052",
+        "74066",
+        "74068",
+        "74071",
+        "740HH",
+        "74131"
       ]
     },
     {
@@ -184,7 +389,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74079"
+        "74026",
+        "74079",
+        "74824",
+        "74832",
+        "74834",
+        "74869",
+        "74881"
       ]
     },
     {
@@ -195,6 +406,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "74023",
+        "74032",
+        "74062",
+        "74074",
+        "74075",
         "74085"
       ]
     },
@@ -206,7 +422,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74039"
+        "74028",
+        "74039",
+        "74041",
+        "74050",
+        "74052",
+        "74068",
+        "74071",
+        "740HH",
+        "74131"
       ]
     },
     {
@@ -217,29 +441,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74017"
+        "74016",
+        "74017",
+        "74053"
       ]
     },
     {
       "name": "STILLWATER PUBLIC LIBRARY",
       "system": "STILLWATER PUBLIC LIBRARY",
-      "address": "1107 S. DUCK, STILLWATER, OK",
+      "address": "224 THIRD STREET NORTH, STILLWATER, MN",
       "website": "https://stillwater.sals.edu/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74074"
-      ]
-    },
-    {
-      "name": "MOUNDS PUBLIC LIBRARY",
-      "system": "MOUNDS PUBLIC LIBRARY",
-      "address": "15 WEST 14TH STREET, MOUNDS, OK",
-      "website": "https://moundspubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74047"
+        "55082",
+        "74023",
+        "74032",
+        "74062",
+        "74074",
+        "74075"
       ]
     },
     {
@@ -250,7 +470,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74015"
+        "74015",
+        "74016",
+        "74053"
       ]
     },
     {
@@ -261,7 +483,55 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "74016",
+        "74053",
         "74080"
+      ]
+    },
+    {
+      "name": "TULSA CITY-COUNTY LIBRARY SYSTEM",
+      "system": "TULSA CITY-COUNTY LIBRARY SYSTEM",
+      "address": "400 CIVIC CENTER, TULSA, OK",
+      "website": "https://www.tulsalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74008",
+        "74011",
+        "74012",
+        "74021",
+        "74033",
+        "74037",
+        "74055",
+        "74063",
+        "74073",
+        "74103",
+        "74104",
+        "74105",
+        "74106",
+        "74107",
+        "74108",
+        "74110",
+        "74112",
+        "74114",
+        "74115",
+        "74116",
+        "74117",
+        "74119",
+        "74120",
+        "74126",
+        "74127",
+        "74128",
+        "74129",
+        "74130",
+        "74132",
+        "74133",
+        "74134",
+        "74135",
+        "74136",
+        "74137",
+        "74145",
+        "74146"
       ]
     }
   ]

@@ -1,14 +1,50 @@
 {
   "libraries": [
     {
-      "name": "BURLINGTON PUBLIC LIBRARY",
-      "system": "BURLINGTON PUBLIC LIBRARY",
-      "address": "321 14TH STREET, BURLINGTON, CO",
-      "website": "https://burlingtonctlibrary.org/",
+      "name": "ELBERT COUNTY LIBRARY DISTRICT",
+      "system": "ELBERT COUNTY LIBRARY DISTRICT",
+      "address": "651 W BEVERLY STREET, ELIZABETH, CO",
+      "website": "https://pplibraries.org/01b-elizabeth-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80807"
+        "80101",
+        "80107",
+        "80117",
+        "80830",
+        "80835"
+      ]
+    },
+    {
+      "name": "WRAY PUBLIC LIBRARY",
+      "system": "WRAY PUBLIC LIBRARY",
+      "address": "301 W 7TH ST., WRAY, CO",
+      "website": "https://cityofwray.org/161/Wray-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80727",
+        "80735",
+        "80755",
+        "80758",
+        "80822",
+        "80824"
+      ]
+    },
+    {
+      "name": "YUMA PUBLIC LIBRARY",
+      "system": "YUMA PUBLIC LIBRARY",
+      "address": "910 S MAIN STREET, YUMA, CO",
+      "website": "https://yuma.colibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80727",
+        "80735",
+        "80755",
+        "80759",
+        "80822",
+        "80824"
       ]
     },
     {
@@ -19,7 +55,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80821"
+        "80804",
+        "80818",
+        "80821",
+        "80823"
       ]
     },
     {
@@ -30,6 +69,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "80804",
+        "80818",
+        "80823",
         "80828"
       ]
     },
@@ -41,6 +83,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "80804",
+        "80818",
+        "80823",
         "80828"
       ]
     },
@@ -52,18 +97,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80813"
-      ]
-    },
-    {
-      "name": "STRATTON PUBLIC LIBRARY",
-      "system": "STRATTON PUBLIC LIBRARY",
-      "address": "331 NEW YORK AVENUE, STRATTON, CO",
-      "website": "http://www.stratton.lib.me.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "80836"
+        "80813",
+        "80814",
+        "80816",
+        "80860",
+        "80866"
       ]
     },
     {
@@ -74,7 +112,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80863"
+        "80814",
+        "80816",
+        "80860",
+        "80863",
+        "80866"
       ]
     },
     {
@@ -85,7 +127,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80815"
+        "80805",
+        "80807",
+        "80815",
+        "80834",
+        "80836",
+        "80861"
       ]
     },
     {
@@ -96,7 +143,119 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80810"
+        "80802",
+        "80810",
+        "80825",
+        "80862"
+      ]
+    },
+    {
+      "name": "PARK COUNTY PUBLIC LIBRARY",
+      "system": "PARK COUNTY PUBLIC LIBRARY",
+      "address": "400 FRONT STREET, FAIRPLAY, CO",
+      "website": "https://parkcounty.colibraries.org/fairplay/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80420",
+        "80421",
+        "80432",
+        "80440",
+        "80448",
+        "80449",
+        "80456",
+        "80820",
+        "80827"
+      ]
+    },
+    {
+      "name": "PIKES PEAK LIBRARY DISTRICT",
+      "system": "PIKES PEAK LIBRARY DISTRICT",
+      "address": "20 N. CASCADE AVENUE, COLORADO SPRINGS, CO",
+      "website": "https://ppld.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80106",
+        "80132",
+        "80133",
+        "80808",
+        "80809",
+        "80817",
+        "80819",
+        "80829",
+        "80831",
+        "80832",
+        "80833",
+        "80840",
+        "80864",
+        "80903",
+        "80904",
+        "80905",
+        "80906",
+        "80907",
+        "80908",
+        "80909",
+        "80910",
+        "80913",
+        "80915",
+        "80916",
+        "80917",
+        "80918",
+        "80919",
+        "80920",
+        "80921",
+        "80922",
+        "80925",
+        "80926",
+        "80928",
+        "80929",
+        "80930"
+      ]
+    },
+    {
+      "name": "SECURITY PUBLIC LIBRARY",
+      "system": "SECURITY PUBLIC LIBRARY",
+      "address": "715 ASPEN DRIVE, SECURITY, CO",
+      "website": "https://www.securitypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80106",
+        "80132",
+        "80133",
+        "80808",
+        "80809",
+        "80817",
+        "80819",
+        "80829",
+        "80831",
+        "80832",
+        "80833",
+        "80840",
+        "80864",
+        "80904",
+        "80905",
+        "80906",
+        "80907",
+        "80908",
+        "80909",
+        "80910",
+        "80911",
+        "80913",
+        "80915",
+        "80916",
+        "80917",
+        "80918",
+        "80919",
+        "80920",
+        "80921",
+        "80922",
+        "80925",
+        "80926",
+        "80928",
+        "80929",
+        "80930"
       ]
     }
   ]

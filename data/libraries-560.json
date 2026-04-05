@@ -1,6 +1,179 @@
 {
   "libraries": [
     {
+      "name": "SCOTT COUNTY LIBRARY",
+      "system": "SCOTT COUNTY LIBRARY",
+      "address": "110 W. 8TH ST., SCOTT CITY, KS",
+      "website": "https://www.sclibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55020",
+        "55352",
+        "55372",
+        "55378",
+        "55379",
+        "56011",
+        "56071",
+        "67871"
+      ]
+    },
+    {
+      "name": "WELLS PUBLIC LIBRARY",
+      "system": "WELLS PUBLIC LIBRARY",
+      "address": "54 1ST STREET SW, WELLS, MN",
+      "website": "https://www.myacpl.org/wells/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56014",
+        "56023",
+        "56025",
+        "56033",
+        "56051",
+        "56068",
+        "56097"
+      ]
+    },
+    {
+      "name": "MARTIN COUNTY LIBRARY",
+      "system": "MARTIN COUNTY LIBRARY",
+      "address": "110 NORTH PARK STREET, FAIRMONT, MN",
+      "website": "https://www.martincountylibrary.org/index.php/locations/fairmont",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56031",
+        "79713",
+        "79749",
+        "79782",
+        "79783",
+        "797XX"
+      ]
+    },
+    {
+      "name": "MORGAN PUBLIC LIBRARY",
+      "system": "MORGAN PUBLIC LIBRARY",
+      "address": "210 VERNON AVENUE, MORGAN, MN",
+      "website": "https://morganlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56083",
+        "56166",
+        "56180",
+        "56214",
+        "56224",
+        "56255",
+        "56263",
+        "56266",
+        "56287",
+        "56292",
+        "56294"
+      ]
+    },
+    {
+      "name": "REDWOOD FALLS PUBLIC LIBRARY",
+      "system": "REDWOOD FALLS PUBLIC LIBRARY",
+      "address": "509 SOUTH LINCOLN STREET, REDWOOD FALLS, MN",
+      "website": "https://redwoodfallslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56083",
+        "56166",
+        "56180",
+        "56214",
+        "56224",
+        "56255",
+        "56263",
+        "56283",
+        "56287",
+        "56292",
+        "56294"
+      ]
+    },
+    {
+      "name": "WABASSO PUBLIC LIBRARY",
+      "system": "WABASSO PUBLIC LIBRARY",
+      "address": "1248 OAK ST, WABASSO, MN",
+      "website": "https://wabassolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56083",
+        "56166",
+        "56180",
+        "56214",
+        "56224",
+        "56255",
+        "56263",
+        "56287",
+        "56292",
+        "56293",
+        "56294"
+      ]
+    },
+    {
+      "name": "SPRINGFIELD PUBLIC LIBRARY",
+      "system": "SPRINGFIELD PUBLIC LIBRARY",
+      "address": "120 NORTH CASS AVENUE, SPRINGFIELD, MN",
+      "website": "https://liveoakpl.org/locations/springfield",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56087",
+        "97402",
+        "97403",
+        "97404",
+        "97405",
+        "97408",
+        "97412",
+        "97413",
+        "97419",
+        "97427",
+        "97430",
+        "97431",
+        "97434",
+        "97437",
+        "97438",
+        "97451",
+        "97453",
+        "97454",
+        "97455",
+        "97461",
+        "97477",
+        "97478",
+        "97480",
+        "97488",
+        "97489",
+        "97490",
+        "97492",
+        "97493"
+      ]
+    },
+    {
+      "name": "LAMBERTON PUBLIC LIBRARY",
+      "system": "LAMBERTON PUBLIC LIBRARY",
+      "address": "101 E 2ND AVENUE, LAMBERTON, MN",
+      "website": "https://lambertonmn.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56083",
+        "56152",
+        "56166",
+        "56180",
+        "56214",
+        "56224",
+        "56255",
+        "56263",
+        "56287",
+        "56292",
+        "56294"
+      ]
+    },
+    {
       "name": "ALBERT LEA PUBLIC LIBRARY",
       "system": "ALBERT LEA PUBLIC LIBRARY",
       "address": "211 E CLARK ST, ALBERT LEA, MN",
@@ -8,7 +181,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56007"
+        "56007",
+        "56009",
+        "56016",
+        "56020",
+        "56029",
+        "56032",
+        "56035",
+        "56036",
+        "56042",
+        "56043",
+        "56045",
+        "56064",
+        "56076",
+        "56089"
       ]
     },
     {
@@ -56,28 +242,6 @@
       ]
     },
     {
-      "name": "SPRINGFIELD PUBLIC LIBRARY",
-      "system": "SPRINGFIELD PUBLIC LIBRARY",
-      "address": "120 NORTH CASS AVENUE, SPRINGFIELD, MN",
-      "website": "https://liveoakpl.org/locations/springfield",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56087"
-      ]
-    },
-    {
-      "name": "MARTIN COUNTY LIBRARY",
-      "system": "MARTIN COUNTY LIBRARY",
-      "address": "110 NORTH PARK STREET, FAIRMONT, MN",
-      "website": "https://www.martincountylibrary.org/index.php/locations/fairmont",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56031"
-      ]
-    },
-    {
       "name": "BLUE EARTH COUNTY LIBRARY",
       "system": "BLUE EARTH COUNTY LIBRARY",
       "address": "100 EAST MAIN STREET, MANKATO, MN",
@@ -85,7 +249,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56001"
+        "56001",
+        "56010",
+        "56024",
+        "56034",
+        "56037",
+        "56055",
+        "56063",
+        "56065",
+        "56078",
+        "56080",
+        "56090",
+        "560HH"
       ]
     },
     {
@@ -96,6 +271,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "56048",
+        "56072",
+        "56091",
         "56093"
       ]
     },
@@ -107,7 +285,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56081"
+        "56022",
+        "56056",
+        "56060",
+        "56062",
+        "56081",
+        "56120",
+        "56160"
       ]
     },
     {
@@ -118,18 +302,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "56014",
+        "56023",
+        "56025",
+        "56033",
+        "56051",
+        "56068",
         "56098"
-      ]
-    },
-    {
-      "name": "WELLS PUBLIC LIBRARY",
-      "system": "WELLS PUBLIC LIBRARY",
-      "address": "54 1ST STREET SW, WELLS, MN",
-      "website": "https://www.myacpl.org/wells/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56097"
       ]
     },
     {
@@ -140,7 +319,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56027"
+        "56014",
+        "56023",
+        "56025",
+        "56027",
+        "56033",
+        "56051",
+        "56068"
       ]
     },
     {
@@ -151,7 +336,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56013"
+        "56013",
+        "56014",
+        "56023",
+        "56025",
+        "56033",
+        "56051",
+        "56068"
       ]
     },
     {
@@ -162,7 +353,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56003"
+        "56003",
+        "56021",
+        "56054",
+        "56074"
       ]
     },
     {
@@ -173,6 +367,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "56021",
+        "56054",
+        "56074",
         "56082"
       ]
     },
@@ -184,7 +381,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "55307",
+        "55335",
+        "55338",
+        "55396",
         "56044"
+      ]
+    },
+    {
+      "name": "OWATONNA-STEELE COUNTY LIBRARY",
+      "system": "OWATONNA-STEELE COUNTY LIBRARY",
+      "address": "105 N ELM AVENUE, OWATONNA, MN",
+      "website": "https://www.owatonna.gov/190/Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55049",
+        "55060",
+        "55917",
+        "56026"
       ]
     }
   ]

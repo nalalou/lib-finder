@@ -1,6 +1,25 @@
 {
   "libraries": [
     {
+      "name": "CENTRAL MISSISSIPPI REGIONAL LIBRARY",
+      "system": "CENTRAL MISSISSIPPI REGIONAL LIBRARY",
+      "address": "100 TAMBERLINE STREET, BRANDON, MS",
+      "website": "https://cmrls.lib.ms.us/cmrlsbranches/brandon/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "39042",
+        "39047",
+        "39073",
+        "39145",
+        "39148",
+        "39151",
+        "39161",
+        "39208",
+        "39218"
+      ]
+    },
+    {
       "name": "JACKSON/HINDS LIBRARY SYSTEM",
       "system": "JACKSON/HINDS LIBRARY SYSTEM",
       "address": "300 NORTH STATE STREET, JACKSON, MS",
@@ -8,7 +27,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "39201"
+        "39041",
+        "39056",
+        "39060",
+        "39066",
+        "39154",
+        "39170",
+        "39175",
+        "39201",
+        "39202",
+        "39203",
+        "39204",
+        "39206",
+        "39209",
+        "39210",
+        "39211",
+        "39212",
+        "39213",
+        "39216",
+        "39269",
+        "392HH"
       ]
     }
   ]

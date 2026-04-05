@@ -8,18 +8,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35442"
-      ]
-    },
-    {
-      "name": "CARROLLTON PUBLIC LIBRARY",
-      "system": "CARROLLTON PUBLIC LIBRARY",
-      "address": "225 COMMERCE AVENUE, CARROLLTON, AL",
-      "website": "https://www.pickenslibrary.com/carrollton.html",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35447"
+        "35442",
+        "35461",
+        "35471"
       ]
     },
     {
@@ -30,7 +21,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35466"
+        "35461",
+        "35466",
+        "35471"
       ]
     },
     {
@@ -41,6 +34,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35461",
+        "35471",
         "35481"
       ]
     },
@@ -52,18 +47,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35470"
-      ]
-    },
-    {
-      "name": "AKRON PUBLIC LIBRARY",
-      "system": "AKRON PUBLIC LIBRARY",
-      "address": "207 FIRST AVENUE SOUTH, AKRON, AL",
-      "website": "https://www.akron.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35441"
+        "35459",
+        "35460",
+        "35464",
+        "35470",
+        "35477",
+        "354XX",
+        "36901",
+        "36907"
       ]
     },
     {
@@ -74,7 +65,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35462"
+        "35443",
+        "35462",
+        "35469",
+        "354HH",
+        "36740"
       ]
     },
     {
@@ -85,7 +80,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35474"
+        "35441",
+        "35474",
+        "36776"
       ]
     },
     {
@@ -96,7 +93,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35401"
+        "35111",
+        "35401",
+        "35403",
+        "35404",
+        "35405",
+        "35406",
+        "35444",
+        "35446",
+        "35452",
+        "35453",
+        "35456",
+        "35457",
+        "35458",
+        "35463",
+        "35473",
+        "35475",
+        "35476",
+        "35480",
+        "35490"
       ]
     },
     {
@@ -107,7 +122,53 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35447"
+        "35447",
+        "35461",
+        "35471"
+      ]
+    },
+    {
+      "name": "YORK - HIGHTOWER MEMORIAL LIBRARY",
+      "system": "YORK - HIGHTOWER MEMORIAL LIBRARY",
+      "address": "630 AVENUE A, YORK, AL",
+      "website": "https://librarytechnology.org/library/14449",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35459",
+        "35460",
+        "35464",
+        "35477",
+        "354XX",
+        "36901",
+        "36907",
+        "36925"
+      ]
+    },
+    {
+      "name": "HALE COUNTY LIBRARY",
+      "system": "HALE COUNTY LIBRARY",
+      "address": "1103 MAIN STREET, GREENSBORO, AL",
+      "website": "http://hcplgreensboro.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35441",
+        "36744",
+        "36776"
+      ]
+    },
+    {
+      "name": "NEWBERN PUBLIC LIBRARY",
+      "system": "NEWBERN PUBLIC LIBRARY",
+      "address": "7840 ALABAMA HIGHWAY 61, NEWBERN, AL",
+      "website": "https://www.newbernlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35441",
+        "36765",
+        "36776"
       ]
     }
   ]

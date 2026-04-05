@@ -1,6 +1,24 @@
 {
   "libraries": [
     {
+      "name": "ISLAND POND PUBLIC",
+      "system": "ISLAND POND PUBLIC",
+      "address": "49 MILL ST. EXT., ISLAND POND, VT",
+      "website": "https://www.islandpondpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05824",
+        "05837",
+        "05840",
+        "05846",
+        "05858",
+        "05902",
+        "05904",
+        "05907"
+      ]
+    },
+    {
       "name": "ALICE M. WARD MEMORIAL",
       "system": "ALICE M. WARD MEMORIAL",
       "address": "27 PARK ST., CANAAN, VT",
@@ -8,7 +26,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05903"
+        "05824",
+        "05837",
+        "05840",
+        "05858",
+        "05902",
+        "05903",
+        "05904",
+        "05907"
       ]
     },
     {
@@ -19,7 +44,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05905"
+        "05824",
+        "05837",
+        "05840",
+        "05858",
+        "05902",
+        "05904",
+        "05905",
+        "05907"
       ]
     },
     {
@@ -30,7 +62,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05906"
+        "05824",
+        "05837",
+        "05840",
+        "05858",
+        "05902",
+        "05904",
+        "05906",
+        "05907"
       ]
     }
   ]

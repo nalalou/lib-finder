@@ -1,14 +1,108 @@
 {
   "libraries": [
     {
-      "name": "ALBION PUBLIC LIBRARY",
-      "system": "ALBION PUBLIC LIBRARY",
-      "address": "6 NORTH FOURTH STREET, ALBION, IL",
-      "website": "https://townofalbionmaine.com/community/albion-public-library",
+      "name": "MOUNT CARMEL PUBLIC LIBRARY",
+      "system": "MOUNT CARMEL PUBLIC LIBRARY",
+      "address": "727 NORTH MULBERRY STREET, MOUNT CARMEL, IL",
+      "website": "https://mtcarmelpubliclibrary.weebly.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62806"
+        "17017",
+        "17730",
+        "17772",
+        "17777",
+        "17823",
+        "17825",
+        "17830",
+        "17832",
+        "17834",
+        "17836",
+        "17840",
+        "17847",
+        "17850",
+        "17851",
+        "17860",
+        "17865",
+        "17866",
+        "17867",
+        "17868",
+        "17881",
+        "62863"
+      ]
+    },
+    {
+      "name": "RAMSEY PUBLIC LIBRARY",
+      "system": "RAMSEY PUBLIC LIBRARY",
+      "address": "401 SOUTH SUPERIOR STREET, RAMSEY, IL",
+      "website": "https://librarylearning.org/ramsey-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62011",
+        "62080",
+        "62418",
+        "62838",
+        "62857",
+        "62880",
+        "62885",
+        "628HH"
+      ]
+    },
+    {
+      "name": "ROYALTON PUBLIC LIBRARY DISTRICT",
+      "system": "ROYALTON PUBLIC LIBRARY DISTRICT",
+      "address": "305 SOUTH DEAN STREET, ROYALTON, IL",
+      "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=947.1033.0.0.3",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62819",
+        "62825",
+        "62836",
+        "62860",
+        "62865",
+        "62874",
+        "62890",
+        "62891",
+        "62897",
+        "62983"
+      ]
+    },
+    {
+      "name": "SHAWNEETOWN PUBLIC LIBRARY",
+      "system": "SHAWNEETOWN PUBLIC LIBRARY",
+      "address": "320 NORTH LINCOLN BOULEVARD, SHAWNEETOWN, IL",
+      "website": "https://www.shawneetownlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62867",
+        "62871",
+        "62934",
+        "62954",
+        "62979",
+        "62984"
+      ]
+    },
+    {
+      "name": "ZEIGLER PUBLIC LIBRARY",
+      "system": "ZEIGLER PUBLIC LIBRARY",
+      "address": "102 EAST MARYLAND STREET, ZEIGLER, IL",
+      "website": "https://zeiglerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62819",
+        "62825",
+        "62836",
+        "62860",
+        "62865",
+        "62874",
+        "62890",
+        "62891",
+        "62897",
+        "62999"
       ]
     },
     {
@@ -19,7 +113,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62808"
+        "62214",
+        "62268",
+        "62271",
+        "62803",
+        "62808",
+        "62831",
+        "62848",
+        "62876",
+        "62877"
       ]
     },
     {
@@ -30,7 +132,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62812"
+        "62812",
+        "62819",
+        "62825",
+        "62836",
+        "62860",
+        "62865",
+        "62874",
+        "62890",
+        "62891",
+        "62897"
       ]
     },
     {
@@ -41,7 +152,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62821"
+        "62820",
+        "62821",
+        "62827",
+        "62835",
+        "62861",
+        "62862",
+        "62887"
       ]
     },
     {
@@ -52,7 +169,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62801"
+        "62801",
+        "62807",
+        "62849",
+        "62853",
+        "62870",
+        "62882",
+        "62892",
+        "62893"
       ]
     },
     {
@@ -63,7 +187,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62822"
+        "62819",
+        "62822",
+        "62825",
+        "62836",
+        "62860",
+        "62865",
+        "62874",
+        "62890",
+        "62891",
+        "62897"
       ]
     },
     {
@@ -74,18 +207,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62832"
-      ]
-    },
-    {
-      "name": "FAIRFIELD PUBLIC LIBRARY",
-      "system": "FAIRFIELD PUBLIC LIBRARY",
-      "address": "300 SOUTH EAST SECOND STREET, FAIRFIELD, IL",
-      "website": "https://www.fairfield.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62837"
+        "62832",
+        "62888",
+        "62997"
       ]
     },
     {
@@ -96,7 +220,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62839"
+        "62434",
+        "62824",
+        "62839",
+        "62858",
+        "62879",
+        "62899"
       ]
     },
     {
@@ -107,7 +236,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62844"
+        "62820",
+        "62827",
+        "62835",
+        "62844",
+        "62861",
+        "62862",
+        "62887"
       ]
     },
     {
@@ -118,18 +253,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "62817",
+        "62828",
+        "62829",
         "62859"
-      ]
-    },
-    {
-      "name": "MOUNT CARMEL PUBLIC LIBRARY",
-      "system": "MOUNT CARMEL PUBLIC LIBRARY",
-      "address": "727 NORTH MULBERRY STREET, MOUNT CARMEL, IL",
-      "website": "https://mtcarmelpubliclibrary.weebly.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62863"
       ]
     },
     {
@@ -140,7 +267,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62864"
+        "62810",
+        "62814",
+        "62816",
+        "62830",
+        "62846",
+        "62864",
+        "62872",
+        "62883",
+        "62889",
+        "62894",
+        "62898"
       ]
     },
     {
@@ -151,7 +288,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62869"
+        "62820",
+        "62827",
+        "62835",
+        "62861",
+        "62862",
+        "62869",
+        "62887"
       ]
     },
     {
@@ -162,7 +305,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62875"
+        "62807",
+        "62849",
+        "62853",
+        "62870",
+        "62875",
+        "62882",
+        "62892",
+        "62893"
       ]
     },
     {
@@ -173,7 +323,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62881"
+        "62807",
+        "62849",
+        "62853",
+        "62870",
+        "62881",
+        "62882",
+        "62892",
+        "62893"
       ]
     },
     {
@@ -184,7 +341,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62884"
+        "62819",
+        "62825",
+        "62836",
+        "62860",
+        "62865",
+        "62874",
+        "62884",
+        "62890",
+        "62891",
+        "62897"
       ]
     },
     {
@@ -195,7 +361,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62895"
+        "62446",
+        "62809",
+        "62823",
+        "62833",
+        "62837",
+        "62842",
+        "62843",
+        "62850",
+        "62851",
+        "62878",
+        "62886",
+        "62895",
+        "628XX"
       ]
     },
     {
@@ -206,7 +384,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62896"
+        "62819",
+        "62825",
+        "62836",
+        "62860",
+        "62865",
+        "62874",
+        "62890",
+        "62891",
+        "62896",
+        "62897"
       ]
     },
     {
@@ -217,7 +404,106 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62854"
+        "62807",
+        "62849",
+        "62853",
+        "62854",
+        "62870",
+        "62882",
+        "62892",
+        "62893"
+      ]
+    },
+    {
+      "name": "OLNEY PUBLIC LIBRARY",
+      "system": "OLNEY PUBLIC LIBRARY",
+      "address": "400 WEST MAIN STREET, OLNEY, IL",
+      "website": "https://www.olneypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62419",
+        "62421",
+        "62425",
+        "62450",
+        "62452",
+        "62868"
+      ]
+    },
+    {
+      "name": "SAINT ELMO PUBLIC LIBRARY DISTRICT",
+      "system": "SAINT ELMO PUBLIC LIBRARY DISTRICT",
+      "address": "311 WEST CUMBERLAND ROAD, SAINT ELMO, IL",
+      "website": "https://stelmo.lib.il.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62011",
+        "62418",
+        "62458",
+        "62838",
+        "62857",
+        "62880",
+        "62885",
+        "628HH"
+      ]
+    },
+    {
+      "name": "EVANS PUBLIC LIBRARY DISTRICT",
+      "system": "EVANS PUBLIC LIBRARY DISTRICT",
+      "address": "215 SOUTH FIFTH STREET, VANDALIA, IL",
+      "website": "https://evanspubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62011",
+        "62418",
+        "62471",
+        "62838",
+        "62857",
+        "62880",
+        "62885",
+        "628HH"
+      ]
+    },
+    {
+      "name": "WEST SALEM PUBLIC LIBRARY",
+      "system": "WEST SALEM PUBLIC LIBRARY",
+      "address": "112 WEST SOUTH STREET, WEST SALEM, IL",
+      "website": "https://librarylearning.org/west-salem-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62476",
+        "62806",
+        "62815",
+        "62818"
+      ]
+    },
+    {
+      "name": "CUTLER PUBLIC LIBRARY",
+      "system": "CUTLER PUBLIC LIBRARY",
+      "address": "409 SOUTH MAIN STREET, CUTLER, IL",
+      "website": "https://www.chamberofcommerce.com/business-directory/illinois/cutler/public-library/2030653564-cutler-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62238",
+        "62888",
+        "62997"
+      ]
+    },
+    {
+      "name": "PINCKNEYVILLE PUBLIC LIBRARY",
+      "system": "PINCKNEYVILLE PUBLIC LIBRARY",
+      "address": "312 SOUTH WALNUT STREET, PINCKNEYVILLE, IL",
+      "website": "https://pinckneyvillelibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62274",
+        "62888",
+        "62997"
       ]
     }
   ]

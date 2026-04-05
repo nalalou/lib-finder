@@ -14,23 +14,38 @@
     {
       "name": "DOUGLAS COUNTY PUBLIC LIBRARY",
       "system": "DOUGLAS COUNTY PUBLIC LIBRARY",
-      "address": "1625 LIBRARY LANE, MINDEN, NV",
+      "address": "301 W. WEBSTER AVENUE, AVA, MO",
       "website": "https://wgrls.org/douglas-county-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "89423"
+        "65608",
+        "89410",
+        "89411",
+        "89413",
+        "89423",
+        "89444",
+        "89448",
+        "89449",
+        "894HH",
+        "89705"
       ]
     },
     {
       "name": "HUMBOLDT COUNTY LIBRARY",
       "system": "HUMBOLDT COUNTY LIBRARY",
-      "address": "85 EAST 5TH STREET, WINNEMUCCA, NV",
+      "address": "1313 THIRD ST., EUREKA, CA",
       "website": "https://humboldtgov.org/1518/Eureka-Main-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "89445"
+        "89404",
+        "89414",
+        "89421",
+        "89425",
+        "89426",
+        "89445",
+        "95501"
       ]
     },
     {
@@ -41,6 +56,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "89403",
+        "89408",
+        "89428",
+        "89429",
+        "89430",
         "89447"
       ]
     },
@@ -52,7 +72,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "89415"
+        "89415",
+        "89420",
+        "89422",
+        "89427"
       ]
     },
     {
@@ -63,7 +86,110 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "89418",
         "89419"
+      ]
+    },
+    {
+      "name": "WASHOE COUNTY LIBRARY SYSTEM",
+      "system": "WASHOE COUNTY LIBRARY SYSTEM",
+      "address": "301 S. CENTER ST., RENO, NV",
+      "website": "https://www.washoecountylibrary.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89405",
+        "89424",
+        "89431",
+        "89433",
+        "89434",
+        "89436",
+        "89439",
+        "89442",
+        "89451",
+        "894XX",
+        "89501",
+        "89502",
+        "89503",
+        "89505",
+        "89506",
+        "89509",
+        "89510",
+        "89511",
+        "89512",
+        "89523",
+        "895XX",
+        "89704"
+      ]
+    },
+    {
+      "name": "AMARGOSA VALLEY LIBRARY DISTRICT",
+      "system": "AMARGOSA VALLEY LIBRARY DISTRICT",
+      "address": "1660 EAST AMARGOSA FARM ROAD, AMARGOSA VALLEY, NV",
+      "website": "https://www.amargosalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89020",
+        "89022",
+        "89314",
+        "89409"
+      ]
+    },
+    {
+      "name": "BEATTY LIBRARY DISTRICT",
+      "system": "BEATTY LIBRARY DISTRICT",
+      "address": "400 NORTH 4TH STREET, BEATTY, NV",
+      "website": "https://www.beattynvlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89003",
+        "89022",
+        "89314",
+        "89409"
+      ]
+    },
+    {
+      "name": "PAHRUMP COMMUNITY LIBRARY",
+      "system": "PAHRUMP COMMUNITY LIBRARY",
+      "address": "701 EAST STREET, PAHRUMP, NV",
+      "website": "https://www.pahrumplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89022",
+        "89048",
+        "89314",
+        "89409"
+      ]
+    },
+    {
+      "name": "TONOPAH LIBRARY DISTRICT",
+      "system": "TONOPAH LIBRARY DISTRICT",
+      "address": "167 S CENTRAL ST, TONOPAH, NV",
+      "website": "https://www.tonopahnevada.com/tonopahlibrary/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89022",
+        "89049",
+        "89314",
+        "89409"
+      ]
+    },
+    {
+      "name": "SMOKY VALLEY LIBRARY DISTRICT",
+      "system": "SMOKY VALLEY LIBRARY DISTRICT",
+      "address": "73 HADLEY CIRCLE, ROUND MOUNTAIN, NV",
+      "website": "https://librarytechnology.org/library/9050",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89022",
+        "89045",
+        "89314",
+        "89409"
       ]
     }
   ]

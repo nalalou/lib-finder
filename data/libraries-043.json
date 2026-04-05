@@ -1,6 +1,95 @@
 {
   "libraries": [
     {
+      "name": "WINSLOW PUBLIC LIBRARY",
+      "system": "WINSLOW PUBLIC LIBRARY",
+      "address": "136 HALIFAX STREET, WINSLOW, ME",
+      "website": "https://winslow-me.gov/departments/winslow_public_library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04901",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "BREMEN PUBLIC LIBRARY",
+      "system": "BREMEN PUBLIC LIBRARY",
+      "address": "204 WALDOBORO RD, BREMEN, ME",
+      "website": "https://bremenlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04551",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573"
+      ]
+    },
+    {
+      "name": "CUMSTON PUBLIC LIBRARY",
+      "system": "CUMSTON PUBLIC LIBRARY",
+      "address": "796 MAIN STREET, MONMOUTH, ME",
+      "website": "https://monmouthmaine.gov/?SEC=B7D7F186-4FCE-41DD-8536-B9F7C677B0DF",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04259",
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "CARY MEMORIAL LIBRARY-WAYNE",
+      "system": "CARY MEMORIAL LIBRARY-WAYNE",
+      "address": "17 OLD WINTHROP ROAD, WAYNE, ME",
+      "website": "https://www.cary-memorial.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04284",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
       "name": "LITHGOW PUBLIC LIBRARY",
       "system": "LITHGOW PUBLIC LIBRARY",
       "address": "45 WINTHROP STREET, AUGUSTA, ME",
@@ -8,7 +97,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04330"
+        "04265",
+        "04330",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
       ]
     },
     {
@@ -19,7 +119,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04358"
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04358",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
       ]
     },
     {
@@ -30,7 +141,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04345"
+        "04265",
+        "04344",
+        "04345",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
       ]
     },
     {
@@ -41,7 +163,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04347"
+        "04265",
+        "04344",
+        "04346",
+        "04347",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
       ]
     },
     {
@@ -52,7 +185,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04352"
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04352",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
       ]
     },
     {
@@ -63,7 +207,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04355"
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04355",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
       ]
     },
     {
@@ -74,7 +229,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04364"
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "04364",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
       ]
     },
     {
@@ -85,7 +251,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04358"
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04358",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
       ]
     },
     {
@@ -96,7 +273,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04349"
+        "04265",
+        "04344",
+        "04346",
+        "04349",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04962",
+        "04963",
+        "04989"
       ]
     },
     {
@@ -107,7 +295,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04357"
+        "04287",
+        "04357",
+        "04579"
       ]
     },
     {
@@ -118,7 +308,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04342"
+        "04342",
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573"
       ]
     },
     {
@@ -129,7 +331,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04354"
+        "04354",
+        "04921",
+        "04922",
+        "04941",
+        "04952",
+        "04986",
+        "04987"
       ]
     },
     {
@@ -140,7 +348,269 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04353"
+        "04348",
+        "04353",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573"
+      ]
+    },
+    {
+      "name": "MONHEGAN MEMORIAL LIBRARY",
+      "system": "MONHEGAN MEMORIAL LIBRARY",
+      "address": "1 LIBRARY LANE, MONHEGAN, ME",
+      "website": "https://monheganlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573",
+        "04852"
+      ]
+    },
+    {
+      "name": "VASSALBORO PUBLIC LIBRARY",
+      "system": "VASSALBORO PUBLIC LIBRARY",
+      "address": "930 BOG ROAD, EAST VASSALBORO, ME",
+      "website": "https://vassalboro.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04935",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "BROWN MEMORIAL LIBRARY - CLINTON",
+      "system": "BROWN MEMORIAL LIBRARY - CLINTON",
+      "address": "53 RAILROAD STREET, CLINTON, ME",
+      "website": "https://www.clinton-me.us/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04927",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "BELGRADE PUBLIC LIBRARY",
+      "system": "BELGRADE PUBLIC LIBRARY",
+      "address": "124 DEPOT ROAD, BELGRADE, ME",
+      "website": "https://www.belgrademaine.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04265",
+        "04344",
+        "04346",
+        "04350",
+        "04351",
+        "04360",
+        "04363",
+        "043HH",
+        "04917",
+        "04962",
+        "04963",
+        "04989"
+      ]
+    },
+    {
+      "name": "BOOTHBAY HARBOR MEMORIAL LIBRARY",
+      "system": "BOOTHBAY HARBOR MEMORIAL LIBRARY",
+      "address": "4 OAK STREET, BOOTHBAY HARBOR, ME",
+      "website": "https://bbhlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04538",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573"
+      ]
+    },
+    {
+      "name": "SKIDOMPHA PUBLIC LIBRARY",
+      "system": "SKIDOMPHA PUBLIC LIBRARY",
+      "address": "184 MAIN STREET, DAMARISCOTTA, ME",
+      "website": "http://www.skidompha.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04543",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573"
+      ]
+    },
+    {
+      "name": "RUTHERFORD LIBRARY",
+      "system": "RUTHERFORD LIBRARY",
+      "address": "2000 STATE ROUTE 129, SOUTH BRISTOL, ME",
+      "website": "https://www.maine.gov/msl/libs/directories/displaypub.shtml?id=41054",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04568",
+        "04573"
+      ]
+    },
+    {
+      "name": "WALDOBORO PUBLIC LIBRARY",
+      "system": "WALDOBORO PUBLIC LIBRARY",
+      "address": "958 MAIN STREET, WALDOBORO, ME",
+      "website": "http://www.waldoborolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04572",
+        "04573"
+      ]
+    },
+    {
+      "name": "WISCASSET PUBLIC LIBRARY",
+      "system": "WISCASSET PUBLIC LIBRARY",
+      "address": "21 HIGH STREET, WISCASSET, ME",
+      "website": "https://wiscasset.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573",
+        "04578"
+      ]
+    },
+    {
+      "name": "BRISTOL AREA LIBRARY",
+      "system": "BRISTOL AREA LIBRARY",
+      "address": "619 OLD COUNTY ROAD, PEMAQUID, ME",
+      "website": "https://libraryhours.org/me/pemaquid/bristol-area-library/2643/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04558",
+        "04564",
+        "04573"
+      ]
+    },
+    {
+      "name": "SOUTHPORT MEMORIAL LIBRARY",
+      "system": "SOUTHPORT MEMORIAL LIBRARY",
+      "address": "1032 HENDRICKS HILL ROAD, SOUTHPORT, ME",
+      "website": "https://www.southportlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04348",
+        "04535",
+        "04537",
+        "04539",
+        "04541",
+        "04544",
+        "04553",
+        "04554",
+        "04555",
+        "04556",
+        "04564",
+        "04573",
+        "04576"
       ]
     }
   ]

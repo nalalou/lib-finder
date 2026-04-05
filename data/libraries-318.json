@@ -1,6 +1,20 @@
 {
   "libraries": [
     {
+      "name": "TROUP-HARRIS REGIONAL LIBRARY",
+      "system": "TROUP-HARRIS REGIONAL LIBRARY",
+      "address": "115 ALFORD STREET, LAGRANGE, GA",
+      "website": "https://thrl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30230",
+        "30240",
+        "30241",
+        "31833"
+      ]
+    },
+    {
       "name": "PINE MOUNTAIN REGIONAL LIBRARY SYSTEM",
       "system": "PINE MOUNTAIN REGIONAL LIBRARY SYSTEM",
       "address": "218 W. PERRY STREET, MANCHESTER, GA",
@@ -8,7 +22,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "31816"
+        "30218",
+        "30222",
+        "30251",
+        "30293",
+        "31816",
+        "31830"
+      ]
+    },
+    {
+      "name": "CHATTAHOOCHEE VALLEY LIBRARIES",
+      "system": "CHATTAHOOCHEE VALLEY LIBRARIES",
+      "address": "3000 MACON ROAD, COLUMBUS, GA",
+      "website": "https://www.cvlga.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31820",
+        "31829",
+        "31901",
+        "31903",
+        "31904",
+        "31906",
+        "31907",
+        "31909"
       ]
     }
   ]

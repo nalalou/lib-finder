@@ -1,14 +1,29 @@
 {
   "libraries": [
     {
+      "name": "WHITE LAKE COMMUNITY LIBRARY",
+      "system": "WHITE LAKE COMMUNITY LIBRARY",
+      "address": "111 MAIN ST, WHITE LAKE, SD",
+      "website": "https://whitelake.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57375",
+        "57383"
+      ]
+    },
+    {
       "name": "MITCHELL PUBLIC LIBRARY",
       "system": "MITCHELL PUBLIC LIBRARY",
-      "address": "221 N DUFF STREET, MITCHELL, SD",
+      "address": "1449 CENTER AVENUE, MITCHELL, NE",
       "website": "https://www.cityofmitchellsd.gov/156/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57301"
+        "57301",
+        "57334",
+        "57363",
+        "69357"
       ]
     },
     {
@@ -19,17 +34,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57313"
+        "57313",
+        "57328",
+        "57330",
+        "57344",
+        "57364"
       ]
     },
     {
       "name": "AVON PUBLIC LIBRARY",
       "system": "AVON PUBLIC LIBRARY",
-      "address": "116 N. MAIN STREET, AVON, SD",
+      "address": "280 WEST MAIN ST., AVON, MA",
       "website": "https://www.avon-ma.gov/avon-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "02322",
+        "57063",
+        "570HH",
         "57315"
       ]
     },
@@ -41,7 +63,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57325"
+        "57325",
+        "57355",
+        "57370",
+        "573HH"
       ]
     },
     {
@@ -52,40 +77,56 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57345"
+        "57345",
+        "57346",
+        "57540"
       ]
     },
     {
       "name": "HOWARD PUBLIC LIBRARY",
       "system": "HOWARD PUBLIC LIBRARY",
-      "address": "101 E FARMER AVE, HOWARD, SD",
+      "address": "3607 COUNTY ROUTE 70A, HORNELL, NY",
       "website": "https://www.findglocal.com/US/Howard/490109828006423/Howard-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "14843",
+        "57321",
+        "57323",
+        "57337",
         "57349"
       ]
     },
     {
       "name": "HURON PUBLIC LIBRARY",
       "system": "HURON PUBLIC LIBRARY",
-      "address": "521 DAKOTA AVE SOUTH, HURON, SD",
+      "address": "333 WILLIAMS ST., HURON, OH",
       "website": "https://hpl.huronsd.gov/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57350"
+        "44839",
+        "57324",
+        "57348",
+        "57350",
+        "57379",
+        "57381",
+        "57384",
+        "57386"
       ]
     },
     {
       "name": "KIMBALL PUBLIC LIBRARY",
       "system": "KIMBALL PUBLIC LIBRARY",
-      "address": "140 N MAIN SUITE 104, KIMBALL, SD",
+      "address": "208 SOUTH WALNUT, KIMBALL, NE",
       "website": "https://kimballpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57355"
+        "57355",
+        "57370",
+        "573HH",
+        "69145"
       ]
     },
     {
@@ -96,7 +137,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57356"
+        "57329",
+        "57342",
+        "57356",
+        "57367"
       ]
     },
     {
@@ -107,7 +151,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57362"
+        "57362",
+        "57371",
+        "57373",
+        "57467"
       ]
     },
     {
@@ -118,6 +165,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57052",
+        "57331",
         "57366"
       ]
     },
@@ -129,7 +178,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57368"
+        "57368",
+        "57375"
       ]
     },
     {
@@ -140,6 +190,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57329",
+        "57342",
+        "57367",
         "57380"
       ]
     },
@@ -151,18 +204,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57312",
+        "57358",
         "57382"
-      ]
-    },
-    {
-      "name": "WHITE LAKE COMMUNITY LIBRARY",
-      "system": "WHITE LAKE COMMUNITY LIBRARY",
-      "address": "111 MAIN ST, WHITE LAKE, SD",
-      "website": "https://whitelake.yoursdlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57383"
       ]
     },
     {
@@ -173,6 +217,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57314",
+        "57359",
         "57385"
       ]
     },
@@ -184,6 +230,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57329",
+        "57342",
+        "57367",
         "57369"
       ]
     },
@@ -195,6 +244,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57052",
+        "57331",
         "57376"
       ]
     },
@@ -206,7 +257,208 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57361"
+        "57329",
+        "57342",
+        "57361",
+        "57367"
+      ]
+    },
+    {
+      "name": "EMIL M. LARSON LIBRARY",
+      "system": "EMIL M. LARSON LIBRARY",
+      "address": "120 N COMMERCIAL, CLARK, SD",
+      "website": "https://emilmlarson.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57217",
+        "57225",
+        "57236",
+        "57258",
+        "57271",
+        "57278",
+        "57322"
+      ]
+    },
+    {
+      "name": "HAZEL L. MEYER MEMORIAL LIBRARY",
+      "system": "HAZEL L. MEYER MEMORIAL LIBRARY",
+      "address": "102 1ST STREET NE, DE SMET, SD",
+      "website": "https://desmetsd.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57051",
+        "57212",
+        "57214",
+        "57231",
+        "57233",
+        "57244",
+        "57353"
+      ]
+    },
+    {
+      "name": "DOROTHEE PIKE MEMORIAL LIBRARY",
+      "system": "DOROTHEE PIKE MEMORIAL LIBRARY",
+      "address": "225 N MAIN AVE, LAKE PRESTON, SD",
+      "website": "https://lakeprestonsd.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57051",
+        "57212",
+        "57214",
+        "57233",
+        "57244",
+        "57249",
+        "57353"
+      ]
+    },
+    {
+      "name": "BURKE PUBLIC LIBRARY",
+      "system": "BURKE PUBLIC LIBRARY",
+      "address": "704 MAIN, BURKE, SD",
+      "website": "https://burke.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57317",
+        "57335",
+        "57523",
+        "57529",
+        "57538",
+        "57571",
+        "575HH"
+      ]
+    },
+    {
+      "name": "GREGORY PUBLIC LIBRARY",
+      "system": "GREGORY PUBLIC LIBRARY",
+      "address": "112 EAST FIFTH STREET, GREGORY, SD",
+      "website": "https://www.gregorylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57317",
+        "57335",
+        "57529",
+        "57533",
+        "57538",
+        "57571",
+        "575HH"
+      ]
+    },
+    {
+      "name": "PRESHO PUBLIC LIBRARY",
+      "system": "PRESHO PUBLIC LIBRARY",
+      "address": "108 MAIN, PRESHO, SD",
+      "website": "https://librarytechnology.org/library/24078",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57365",
+        "57542",
+        "57568",
+        "57569",
+        "57576"
+      ]
+    },
+    {
+      "name": "KENNEBEC PUBLIC LIBRARY",
+      "system": "KENNEBEC PUBLIC LIBRARY",
+      "address": "203 S MAIN, KENNEBEC, SD",
+      "website": "https://kennebec.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57365",
+        "57542",
+        "57544",
+        "57569",
+        "57576"
+      ]
+    },
+    {
+      "name": "LOWER BRULE COMMUNITY COLLEGE PUBLIC LIBRARY",
+      "system": "LOWER BRULE COMMUNITY COLLEGE PUBLIC LIBRARY",
+      "address": "137 SACRED CIRCLE DRIVE, LOWER BRULE, SD",
+      "website": "https://lowerbrulecc.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57365",
+        "57542",
+        "57548",
+        "57569",
+        "57576"
+      ]
+    },
+    {
+      "name": "FREEMAN PUBLIC LIBRARY",
+      "system": "FREEMAN PUBLIC LIBRARY",
+      "address": "322 S MAIN ST, FREEMAN, SD",
+      "website": "https://www.freemanlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57029",
+        "57052",
+        "57331"
+      ]
+    },
+    {
+      "name": "MENNO COMMUNITY-SCHOOL LIBRARY",
+      "system": "MENNO COMMUNITY-SCHOOL LIBRARY",
+      "address": "410 S 5TH STREET, MENNO, SD",
+      "website": "https://menno.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57045",
+        "57052",
+        "57331"
+      ]
+    },
+    {
+      "name": "TYNDALL PUBLIC LIBRARY",
+      "system": "TYNDALL PUBLIC LIBRARY",
+      "address": "110 W 17TH AVE, TYNDALL, SD",
+      "website": "https://tyndall.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57063",
+        "57066",
+        "570HH",
+        "57315"
+      ]
+    },
+    {
+      "name": "SCOTLAND COMMUNITY LIBRARY",
+      "system": "SCOTLAND COMMUNITY LIBRARY",
+      "address": "221 JUNIPER STREET, SCOTLAND, SD",
+      "website": "https://scotlandcommunity.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57059",
+        "57063",
+        "570HH",
+        "57315"
+      ]
+    },
+    {
+      "name": "EVELYN LANG PUBLIC LIBRARY",
+      "system": "EVELYN LANG PUBLIC LIBRARY",
+      "address": "605 8TH STREET, SPRINGFIELD, SD",
+      "website": "https://springfieldsd.gov/departments/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57062",
+        "57063",
+        "570HH",
+        "57315"
       ]
     }
   ]

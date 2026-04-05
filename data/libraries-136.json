@@ -1,234 +1,353 @@
 {
   "libraries": [
     {
-      "name": "AKWESASNE CULTURAL CENTER, INC.",
-      "system": "AKWESASNE CULTURAL CENTER, INC.",
-      "address": "321 STATE ROUTE 37, AKWESASNE, NY",
-      "website": "https://akwesasneculturalcenter.org/home/library/",
+      "name": "MASSENA PUBLIC LIBRARY",
+      "system": "MASSENA PUBLIC LIBRARY",
+      "address": "41 GLENN STREET, MASSENA, NY",
+      "website": "https://massenapubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13655"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13662",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
-      "name": "ADAMS FREE LIBRARY",
-      "system": "ADAMS FREE LIBRARY",
-      "address": "2 NORTH MAIN STREET, ADAMS, NY",
-      "website": "https://adamslibraryma.org",
+      "name": "RUSSELL PUBLIC LIBRARY",
+      "system": "RUSSELL PUBLIC LIBRARY",
+      "address": "24 PESTLE STREET, RUSSELL, NY",
+      "website": "https://www.townofrussell.us/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13605"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13670",
+        "13672",
+        "13680",
+        "13684",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
-      "name": "ADAMS CENTER FREE LIBRARY",
-      "system": "ADAMS CENTER FREE LIBRARY",
-      "address": "18267 STATE ROUTE 177, ADAMS CENTER, NY",
-      "website": "https://adamscenterfreelibrary.org/",
+      "name": "WILLIAM H. BUSH MEMORIAL LIBRARY",
+      "system": "WILLIAM H. BUSH MEMORIAL LIBRARY",
+      "address": "5605 WHITAKER ROAD, MARTINSBURG, NY",
+      "website": "https://martinsburgny.gov/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13606"
+        "13312",
+        "13343",
+        "13404",
+        "13489",
+        "13620",
+        "13626"
       ]
     },
     {
-      "name": "MACSHERRY LIBRARY",
-      "system": "MACSHERRY LIBRARY",
-      "address": "112 WALTON STREET, ALEXANDRIA BAY, NY",
-      "website": "https://macsherrylibrary.org/",
+      "name": "PORT LEYDEN COMMUNITY LIBRARY",
+      "system": "PORT LEYDEN COMMUNITY LIBRARY",
+      "address": "3145 CANAL STREET, PORT LEYDEN, NY",
+      "website": "https://portleydenlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13607"
+        "13312",
+        "13343",
+        "13433",
+        "13489",
+        "13620",
+        "13626"
       ]
     },
     {
-      "name": "CROSBY PUBLIC LIBRARY",
-      "system": "CROSBY PUBLIC LIBRARY",
-      "address": "59 MAIN STREET, ANTWERP, NY",
-      "website": "https://crosbylibrary.org/",
+      "name": "B. ELIZABETH STRONG MEMORIAL LIBRARY",
+      "system": "B. ELIZABETH STRONG MEMORIAL LIBRARY",
+      "address": "6312 EAST MAIN STREET, TURIN, NY",
+      "website": "https://turinlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13608"
+        "13312",
+        "13343",
+        "13473",
+        "13489",
+        "13620",
+        "13626"
       ]
     },
     {
-      "name": "BELLEVILLE PHILOMATHEAN FREE LIBRARY",
-      "system": "BELLEVILLE PHILOMATHEAN FREE LIBRARY",
-      "address": "8086 COUNTY ROUTE 75, BELLEVILLE, NY",
-      "website": "https://bellevillefreelibrary.org/",
+      "name": "BEAVER FALLS LIBRARY",
+      "system": "BEAVER FALLS LIBRARY",
+      "address": "9607 LEWIS STREET, BEAVER FALLS, NY",
+      "website": "https://www.ncls.org/lewis-county-libraries/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13611"
+        "13305",
+        "13312",
+        "13343",
+        "13489",
+        "13620",
+        "13626"
       ]
     },
     {
-      "name": "SALLY PLOOF HUNTER MEMORIAL LIBRARY",
-      "system": "SALLY PLOOF HUNTER MEMORIAL LIBRARY",
-      "address": "101 PUBLIC WORKS DRIVE, BLACK RIVER, NY",
-      "website": "https://sallyploofhunterlibrary.org/",
+      "name": "CONSTABLEVILLE LIBRARY",
+      "system": "CONSTABLEVILLE LIBRARY",
+      "address": "3158 MAIN STREET, CONSTABLEVILLE, NY",
+      "website": "https://www.ncls.org/lewis-county-libraries/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13612"
+        "13312",
+        "13325",
+        "13343",
+        "13489",
+        "13620",
+        "13626"
       ]
     },
     {
-      "name": "BROWNVILLE-GLEN PARK LIBRARY ASSOCIATION",
-      "system": "BROWNVILLE-GLEN PARK LIBRARY ASSOCIATION",
-      "address": "216 BROWN BOULEVARD, BROWNVILLE, NY",
-      "website": "https://brownvillelibrary.org/",
+      "name": "CROGHAN FREE LIBRARY",
+      "system": "CROGHAN FREE LIBRARY",
+      "address": "9794 STATE ROUTE 812, CROGHAN, NY",
+      "website": "https://croghanfreelibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13615"
+        "13312",
+        "13327",
+        "13343",
+        "13489",
+        "13620",
+        "13626"
       ]
     },
     {
-      "name": "CAPE VINCENT COMMUNITY LIBRARY",
-      "system": "CAPE VINCENT COMMUNITY LIBRARY",
-      "address": "157 NORTH REAL STREET, CAPE VINCENT, NY",
-      "website": "https://capevincentlibrary.org/",
+      "name": "LOWVILLE FREE LIBRARY",
+      "system": "LOWVILLE FREE LIBRARY",
+      "address": "5387 DAYAN STREET, LOWVILLE, NY",
+      "website": "https://lowvillefreelibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13618"
+        "13312",
+        "13343",
+        "13367",
+        "13489",
+        "13620",
+        "13626"
       ]
     },
     {
-      "name": "CARTHAGE FREE LIBRARY",
-      "system": "CARTHAGE FREE LIBRARY",
-      "address": "412 BUDD STREET, CARTHAGE, NY",
-      "website": "https://carthagefreelibrary.org/",
+      "name": "LYONS FALLS LIBRARY",
+      "system": "LYONS FALLS LIBRARY",
+      "address": "3918 HIGH STREET, LYONS FALLS, NY",
+      "website": "https://lyonsfallslibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13619"
+        "13312",
+        "13343",
+        "13368",
+        "13489",
+        "13620",
+        "13626"
       ]
     },
     {
-      "name": "LYME FREE LIBRARY",
-      "system": "LYME FREE LIBRARY",
-      "address": "12165 MAIN STREET, CHAUMONT, NY",
-      "website": "https://lymefreelibrary.org/",
+      "name": "OSCEOLA PUBLIC LIBRARY",
+      "system": "OSCEOLA PUBLIC LIBRARY",
+      "address": "131 NORTH MAIN, OSCEOLA, NE",
+      "website": "https://libraries.ne.gov/osceola/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13622"
+        "13312",
+        "13343",
+        "13489",
+        "13620",
+        "13626",
+        "68651"
       ]
     },
     {
-      "name": "HAWN MEMORIAL LIBRARY",
-      "system": "HAWN MEMORIAL LIBRARY",
-      "address": "220 JOHN STREET, CLAYTON, NY",
-      "website": "https://hawnmemoriallibrary.org/",
+      "name": "NORWOOD PUBLIC LIBRARY",
+      "system": "NORWOOD PUBLIC LIBRARY",
+      "address": "1 MORTON STREET, NORWOOD, NY",
+      "website": "https://www.nplnj.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13624"
+        "13668",
+        "19010",
+        "19015",
+        "19018",
+        "19022",
+        "19026",
+        "19043",
+        "19070",
+        "19074",
+        "19085",
+        "19094",
+        "19113",
+        "19319",
+        "19373"
       ]
     },
     {
-      "name": "DEPAUVILLE FREE LIBRARY",
-      "system": "DEPAUVILLE FREE LIBRARY",
-      "address": "32333 COUNTY ROUTE 179, DEPAUVILLE, NY",
-      "website": "https://depauvillefreelibrary.org/",
+      "name": "CHATEAUGAY MEMORIAL LIBRARY",
+      "system": "CHATEAUGAY MEMORIAL LIBRARY",
+      "address": "4 JOHN STREET, CHATEAUGAY, NY",
+      "website": "https://www.chateaugayny.org/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13632"
+        "12914",
+        "12916",
+        "12917",
+        "12920",
+        "12926",
+        "12930",
+        "12937",
+        "12945",
+        "12957",
+        "12966",
+        "12969",
+        "12970",
+        "12980",
+        "12989",
+        "129XX",
+        "136HH"
       ]
     },
     {
-      "name": "DEXTER FREE LIBRARY",
-      "system": "DEXTER FREE LIBRARY",
-      "address": "120 EAST KIRBY STREET, DEXTER, NY",
-      "website": "https://dexterfreelibrary.org/",
+      "name": "THE WEAD LIBRARY",
+      "system": "THE WEAD LIBRARY",
+      "address": "64 ELM STREET, MALONE, NY",
+      "website": "https://www.weadlibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13634"
+        "12914",
+        "12916",
+        "12917",
+        "12926",
+        "12930",
+        "12937",
+        "12945",
+        "12953",
+        "12957",
+        "12966",
+        "12969",
+        "12970",
+        "12980",
+        "12989",
+        "129XX",
+        "136HH"
       ]
     },
     {
-      "name": "EAST HOUNSFIELD FREE LIBRARY",
-      "system": "EAST HOUNSFIELD FREE LIBRARY",
-      "address": "19438 NYS ROUTE 3, WATERTOWN, NY",
-      "website": "https://easthounsfieldlibrary.org/",
+      "name": "SARANAC LAKE FREE LIBRARY",
+      "system": "SARANAC LAKE FREE LIBRARY",
+      "address": "109 MAIN STREET, SARANAC LAKE, NY",
+      "website": "https://www.slfl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13601"
+        "12914",
+        "12916",
+        "12917",
+        "12926",
+        "12930",
+        "12937",
+        "12945",
+        "12957",
+        "12966",
+        "12969",
+        "12970",
+        "12980",
+        "12983",
+        "12989",
+        "129XX",
+        "136HH"
       ]
     },
     {
-      "name": "ELLISBURG FREE LIBRARY",
-      "system": "ELLISBURG FREE LIBRARY",
-      "address": "12117 NYS ROUTE 193, ELLISBURG, NY",
-      "website": "https://ellisburglibrary.org/",
+      "name": "TUPPER LAKE PUBLIC LIBRARY",
+      "system": "TUPPER LAKE PUBLIC LIBRARY",
+      "address": "41 LAKE STREET, TUPPER LAKE, NY",
+      "website": "https://tupperlakepubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13636"
+        "12914",
+        "12916",
+        "12917",
+        "12926",
+        "12930",
+        "12937",
+        "12945",
+        "12957",
+        "12966",
+        "12969",
+        "12970",
+        "12980",
+        "12986",
+        "12989",
+        "129XX",
+        "136HH"
       ]
     },
     {
-      "name": "EVANS MILLS PUBLIC LIBRARY",
-      "system": "EVANS MILLS PUBLIC LIBRARY",
-      "address": "8706 NOBLE STREET, EVANS MILLS, NY",
-      "website": "https://evansmillspubliclibrary.org/",
+      "name": "CLIFTON COMMUNITY LIBRARY",
+      "system": "CLIFTON COMMUNITY LIBRARY",
+      "address": "7171 STATE HIGHWAY 3, CRANBERRY LAKE, NY",
+      "website": "https://cliftoncomlib.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13637"
-      ]
-    },
-    {
-      "name": "HENDERSON FREE LIBRARY",
-      "system": "HENDERSON FREE LIBRARY",
-      "address": "8939 NYS ROUTE 178, HENDERSON, NY",
-      "website": "https://hendersonfreelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "13650"
-      ]
-    },
-    {
-      "name": "ORLEANS PUBLIC LIBRARY",
-      "system": "ORLEANS PUBLIC LIBRARY",
-      "address": "36263 NYS ROUTE 180, LAFARGEVILLE, NY",
-      "website": "https://lafargevillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "13656"
-      ]
-    },
-    {
-      "name": "MANNSVILLE FREE LIBRARY",
-      "system": "MANNSVILLE FREE LIBRARY",
-      "address": "108 LILAC PARK DRIVE, MANNSVILLE, NY",
-      "website": "https://mannsvillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "13661"
-      ]
-    },
-    {
-      "name": "BODMAN MEMORIAL LIBRARY",
-      "system": "BODMAN MEMORIAL LIBRARY",
-      "address": "8 ALDRICH STREET, PHILADELPHIA, NY",
-      "website": "https://bodmanmemoriallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "13673"
+        "12922",
+        "12927",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -239,7 +358,520 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13682"
+        "13682",
+        "44601",
+        "44608",
+        "44613",
+        "44626",
+        "44632",
+        "44640",
+        "44641",
+        "44643",
+        "44647",
+        "44662",
+        "44666",
+        "44669",
+        "44670",
+        "44688",
+        "44689",
+        "44703",
+        "44704",
+        "44705",
+        "44706",
+        "44707",
+        "44708",
+        "44709",
+        "44710",
+        "44714",
+        "44718",
+        "44721",
+        "44730"
+      ]
+    },
+    {
+      "name": "AKWESASNE CULTURAL CENTER, INC.",
+      "system": "AKWESASNE CULTURAL CENTER, INC.",
+      "address": "321 STATE ROUTE 37, AKWESASNE, NY",
+      "website": "https://akwesasneculturalcenter.org/home/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12914",
+        "12916",
+        "12917",
+        "12926",
+        "12930",
+        "12937",
+        "12945",
+        "12957",
+        "12966",
+        "12969",
+        "12970",
+        "12980",
+        "12989",
+        "129XX",
+        "13655",
+        "136HH"
+      ]
+    },
+    {
+      "name": "ADAMS FREE LIBRARY",
+      "system": "ADAMS FREE LIBRARY",
+      "address": "92 PARK ST., ADAMS, MA",
+      "website": "https://adamslibraryma.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01220",
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "ADAMS CENTER FREE LIBRARY",
+      "system": "ADAMS CENTER FREE LIBRARY",
+      "address": "18267 STATE ROUTE 177, ADAMS CENTER, NY",
+      "website": "https://adamscenterfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13606",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "MACSHERRY LIBRARY",
+      "system": "MACSHERRY LIBRARY",
+      "address": "112 WALTON STREET, ALEXANDRIA BAY, NY",
+      "website": "https://macsherrylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13607",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "CROSBY PUBLIC LIBRARY",
+      "system": "CROSBY PUBLIC LIBRARY",
+      "address": "59 MAIN STREET, ANTWERP, NY",
+      "website": "https://crosbylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13608",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "BELLEVILLE PHILOMATHEAN FREE LIBRARY",
+      "system": "BELLEVILLE PHILOMATHEAN FREE LIBRARY",
+      "address": "8086 COUNTY ROUTE 75, BELLEVILLE, NY",
+      "website": "https://bellevillefreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13611",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "SALLY PLOOF HUNTER MEMORIAL LIBRARY",
+      "system": "SALLY PLOOF HUNTER MEMORIAL LIBRARY",
+      "address": "101 PUBLIC WORKS DRIVE, BLACK RIVER, NY",
+      "website": "https://sallyploofhunterlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13612",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "BROWNVILLE-GLEN PARK LIBRARY ASSOCIATION",
+      "system": "BROWNVILLE-GLEN PARK LIBRARY ASSOCIATION",
+      "address": "216 BROWN BOULEVARD, BROWNVILLE, NY",
+      "website": "https://brownvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13615",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "CAPE VINCENT COMMUNITY LIBRARY",
+      "system": "CAPE VINCENT COMMUNITY LIBRARY",
+      "address": "157 NORTH REAL STREET, CAPE VINCENT, NY",
+      "website": "https://capevincentlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13618",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "CARTHAGE FREE LIBRARY",
+      "system": "CARTHAGE FREE LIBRARY",
+      "address": "412 BUDD STREET, CARTHAGE, NY",
+      "website": "https://carthagefreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13619",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "LYME FREE LIBRARY",
+      "system": "LYME FREE LIBRARY",
+      "address": "12165 MAIN STREET, CHAUMONT, NY",
+      "website": "https://lymefreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13622",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "HAWN MEMORIAL LIBRARY",
+      "system": "HAWN MEMORIAL LIBRARY",
+      "address": "220 JOHN STREET, CLAYTON, NY",
+      "website": "https://hawnmemoriallibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13624",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "DEPAUVILLE FREE LIBRARY",
+      "system": "DEPAUVILLE FREE LIBRARY",
+      "address": "32333 COUNTY ROUTE 179, DEPAUVILLE, NY",
+      "website": "https://depauvillefreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13632",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "DEXTER FREE LIBRARY",
+      "system": "DEXTER FREE LIBRARY",
+      "address": "120 EAST KIRBY STREET, DEXTER, NY",
+      "website": "https://dexterfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13634",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "EAST HOUNSFIELD FREE LIBRARY",
+      "system": "EAST HOUNSFIELD FREE LIBRARY",
+      "address": "19438 NYS ROUTE 3, WATERTOWN, NY",
+      "website": "https://easthounsfieldlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13601",
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "ELLISBURG FREE LIBRARY",
+      "system": "ELLISBURG FREE LIBRARY",
+      "address": "12117 NYS ROUTE 193, ELLISBURG, NY",
+      "website": "https://ellisburglibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13636",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "EVANS MILLS PUBLIC LIBRARY",
+      "system": "EVANS MILLS PUBLIC LIBRARY",
+      "address": "8706 NOBLE STREET, EVANS MILLS, NY",
+      "website": "https://evansmillspubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13637",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "HENDERSON FREE LIBRARY",
+      "system": "HENDERSON FREE LIBRARY",
+      "address": "8939 NYS ROUTE 178, HENDERSON, NY",
+      "website": "https://hendersonfreelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13638",
+        "13640",
+        "13650",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "ORLEANS PUBLIC LIBRARY",
+      "system": "ORLEANS PUBLIC LIBRARY",
+      "address": "36263 NYS ROUTE 180, LAFARGEVILLE, NY",
+      "website": "https://lafargevillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13638",
+        "13640",
+        "13656",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "MANNSVILLE FREE LIBRARY",
+      "system": "MANNSVILLE FREE LIBRARY",
+      "address": "108 LILAC PARK DRIVE, MANNSVILLE, NY",
+      "website": "https://mannsvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13661",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
+      ]
+    },
+    {
+      "name": "BODMAN MEMORIAL LIBRARY",
+      "system": "BODMAN MEMORIAL LIBRARY",
+      "address": "8 ALDRICH STREET, PHILADELPHIA, NY",
+      "website": "https://bodmanmemoriallibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13673",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
       ]
     },
     {
@@ -250,7 +882,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13685"
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13685",
+        "13693",
+        "136XX"
       ]
     },
     {
@@ -261,7 +905,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13691"
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13691",
+        "13693",
+        "136XX"
       ]
     },
     {
@@ -272,7 +928,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13692"
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13692",
+        "13693",
+        "136XX"
       ]
     },
     {
@@ -283,7 +951,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13601"
+        "13601",
+        "13602",
+        "13603",
+        "13605",
+        "13616",
+        "13638",
+        "13640",
+        "13659",
+        "13665",
+        "13675",
+        "13679",
+        "13693",
+        "136XX"
       ]
     },
     {
@@ -294,6 +974,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "13312",
+        "13343",
+        "13489",
+        "13620",
+        "13626",
         "13648"
       ]
     },
@@ -305,7 +990,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13617"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13617",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -316,7 +1016,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13625"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13625",
+        "13630",
+        "13633",
+        "13639",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -327,7 +1042,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13635"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13635",
+        "13639",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -338,7 +1068,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13642"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13642",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -349,7 +1094,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13646"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13646",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -360,7 +1120,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13652"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13652",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -371,7 +1146,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13654"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13654",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -382,7 +1172,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13658"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13658",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -393,18 +1198,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13660"
-      ]
-    },
-    {
-      "name": "MASSENA PUBLIC LIBRARY",
-      "system": "MASSENA PUBLIC LIBRARY",
-      "address": "41 GLENN STREET, MASSENA, NY",
-      "website": "https://massenapubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "13662"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13660",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -415,7 +1224,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13664"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13664",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -426,18 +1250,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13667"
-      ]
-    },
-    {
-      "name": "NORWOOD PUBLIC LIBRARY",
-      "system": "NORWOOD PUBLIC LIBRARY",
-      "address": "1 MORTON STREET, NORWOOD, NY",
-      "website": "https://www.nplnj.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "13668"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13667",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -448,7 +1276,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13669"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13669",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -459,7 +1302,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13676"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13670",
+        "13672",
+        "13676",
+        "13680",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -470,18 +1328,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13681"
-      ]
-    },
-    {
-      "name": "RUSSELL PUBLIC LIBRARY",
-      "system": "RUSSELL PUBLIC LIBRARY",
-      "address": "24 PESTLE STREET, RUSSELL, NY",
-      "website": "https://www.townofrussell.us/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "13684"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13670",
+        "13672",
+        "13680",
+        "13681",
+        "13687",
+        "13690",
+        "13697"
       ]
     },
     {
@@ -492,7 +1354,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13694"
+        "12922",
+        "12965",
+        "12967",
+        "13613",
+        "13614",
+        "13621",
+        "13630",
+        "13633",
+        "13639",
+        "13670",
+        "13672",
+        "13680",
+        "13687",
+        "13690",
+        "13694",
+        "13697"
       ]
     }
   ]

@@ -3,12 +3,16 @@
     {
       "name": "BESSEMER PUBLIC LIBRARY",
       "system": "BESSEMER PUBLIC LIBRARY",
-      "address": "411 SOUTH SOPHIE STREET, BESSEMER, MI",
+      "address": "400 19TH STREET N, BESSEMER, AL",
       "website": "https://www.cityofbessemermi.gov/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49911"
+        "35020",
+        "49911",
+        "49959",
+        "49968",
+        "49969"
       ]
     },
     {
@@ -19,7 +23,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49913"
+        "49905",
+        "49913",
+        "49916",
+        "49917",
+        "49921",
+        "49930",
+        "49934",
+        "49942",
+        "49952",
+        "49955",
+        "49958",
+        "49961",
+        "49963",
+        "49965",
+        "499XX"
       ]
     },
     {
@@ -30,6 +48,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49910",
+        "49912",
+        "49929",
+        "49948",
+        "49960",
+        "49967",
         "49971"
       ]
     },
@@ -41,7 +65,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49920"
+        "49902",
+        "49915",
+        "49920",
+        "49927",
+        "49964"
       ]
     },
     {
@@ -52,7 +80,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49938"
+        "49911",
+        "49938",
+        "49959",
+        "49968",
+        "49969"
       ]
     },
     {
@@ -63,7 +95,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49946"
+        "49908",
+        "49919",
+        "49946",
+        "49962",
+        "49970",
+        "499HH"
       ]
     },
     {
@@ -74,7 +111,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49945"
+        "49905",
+        "49916",
+        "49917",
+        "49921",
+        "49930",
+        "49934",
+        "49942",
+        "49945",
+        "49952",
+        "49955",
+        "49958",
+        "49961",
+        "49963",
+        "49965",
+        "499XX"
       ]
     },
     {
@@ -85,7 +136,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49925"
+        "49910",
+        "49912",
+        "49925",
+        "49929",
+        "49948",
+        "49960",
+        "49967"
       ]
     },
     {
@@ -96,7 +153,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49953"
+        "49910",
+        "49912",
+        "49929",
+        "49948",
+        "49953",
+        "49960",
+        "49967"
       ]
     },
     {
@@ -107,7 +170,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49922"
+        "49905",
+        "49916",
+        "49917",
+        "49921",
+        "49922",
+        "49930",
+        "49934",
+        "49942",
+        "49952",
+        "49955",
+        "49958",
+        "49961",
+        "49963",
+        "49965",
+        "499XX"
       ]
     },
     {
@@ -118,18 +195,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49931"
-      ]
-    },
-    {
-      "name": "WAKEFIELD PUBLIC LIBRARY",
-      "system": "WAKEFIELD PUBLIC LIBRARY",
-      "address": "401 HANCOCK STREET, WAKEFIELD, MI",
-      "website": "https://citylibrary.com/public-libraries/wakefield-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49968"
+        "49905",
+        "49916",
+        "49917",
+        "49921",
+        "49930",
+        "49931",
+        "49934",
+        "49942",
+        "49952",
+        "49955",
+        "49958",
+        "49961",
+        "49963",
+        "49965",
+        "499XX"
       ]
     },
     {
@@ -140,7 +220,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49935"
+        "49902",
+        "49915",
+        "49927",
+        "49935",
+        "49964"
       ]
     },
     {
@@ -151,7 +235,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49903"
+        "49902",
+        "49903",
+        "49915",
+        "49927",
+        "49964"
       ]
     },
     {
@@ -162,7 +250,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49947"
+        "49911",
+        "49947",
+        "49959",
+        "49968",
+        "49969"
       ]
     }
   ]

@@ -1,17 +1,6 @@
 {
   "libraries": [
     {
-      "name": "CHEROKEE COUNTY PUBLIC LIBRARY",
-      "system": "CHEROKEE COUNTY PUBLIC LIBRARY",
-      "address": "310 MARY STREET, CENTRE, AL",
-      "website": "https://cherokeecountypubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35960"
-      ]
-    },
-    {
       "name": "FORT PAYNE - DEKALB COUNTY PUBLIC LIBRARY",
       "system": "FORT PAYNE - DEKALB COUNTY PUBLIC LIBRARY",
       "address": "504 GRAND AVENUE NW, FORT PAYNE, AL",
@@ -19,7 +8,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35967"
+        "35963",
+        "35967",
+        "35968",
+        "35971",
+        "35975",
+        "35979",
+        "35988",
+        "35989"
       ]
     },
     {
@@ -30,7 +26,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35961"
+        "35961",
+        "35963",
+        "35968",
+        "35971",
+        "35975",
+        "35979",
+        "35988",
+        "35989"
       ]
     },
     {
@@ -41,7 +44,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35974"
+        "35963",
+        "35968",
+        "35971",
+        "35974",
+        "35975",
+        "35979",
+        "35988",
+        "35989"
       ]
     },
     {
@@ -52,7 +62,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35986"
+        "35963",
+        "35968",
+        "35971",
+        "35975",
+        "35979",
+        "35986",
+        "35988",
+        "35989"
       ]
     },
     {
@@ -63,7 +80,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35901"
+        "35901",
+        "35904",
+        "35905",
+        "35952",
+        "35972"
       ]
     },
     {
@@ -74,7 +95,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35954"
+        "35904",
+        "35905",
+        "35952",
+        "35954",
+        "35972"
       ]
     },
     {
@@ -85,7 +110,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35906"
+        "35904",
+        "35905",
+        "35906",
+        "35952",
+        "35972"
       ]
     },
     {
@@ -96,7 +125,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35976"
+        "35175",
+        "35755",
+        "35951",
+        "35976",
+        "35980"
       ]
     },
     {
@@ -107,7 +140,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35957"
+        "35175",
+        "35755",
+        "35951",
+        "35957",
+        "35980"
       ]
     },
     {
@@ -118,7 +155,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35976"
+        "35175",
+        "35755",
+        "35951",
+        "35976",
+        "35980"
       ]
     },
     {
@@ -129,7 +170,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35950"
+        "35175",
+        "35755",
+        "35950",
+        "35951",
+        "35980"
       ]
     },
     {
@@ -140,7 +185,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35953"
+        "35052",
+        "35054",
+        "35112",
+        "35125",
+        "35135",
+        "35953",
+        "35987"
       ]
     },
     {
@@ -151,7 +202,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35903"
+        "35903",
+        "35904",
+        "35905",
+        "35952",
+        "35972"
       ]
     },
     {
@@ -162,7 +217,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35981"
+        "35963",
+        "35968",
+        "35971",
+        "35975",
+        "35979",
+        "35981",
+        "35988",
+        "35989"
       ]
     },
     {
@@ -173,7 +235,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35962"
+        "35962",
+        "35963",
+        "35968",
+        "35971",
+        "35975",
+        "35979",
+        "35988",
+        "35989"
       ]
     },
     {
@@ -184,6 +253,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35904",
+        "35905",
+        "35952",
+        "35972",
         "35990"
       ]
     },
@@ -195,29 +268,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35907"
-      ]
-    },
-    {
-      "name": "STEELE PUBLIC LIBRARY",
-      "system": "STEELE PUBLIC LIBRARY",
-      "address": "78 HILLVIEW STREET, STEELE, AL",
-      "website": "https://www.steelepl.lib.mo.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35987"
-      ]
-    },
-    {
-      "name": "GLENCOE PUBLIC LIBRARY",
-      "system": "GLENCOE PUBLIC LIBRARY",
-      "address": "101 WEST MAIN STREET, GLENCOE, AL",
-      "website": "https://www.glencoelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35905"
+        "35904",
+        "35905",
+        "35907",
+        "35952",
+        "35972"
       ]
     },
     {
@@ -228,7 +283,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35978"
+        "35963",
+        "35968",
+        "35971",
+        "35975",
+        "35978",
+        "35979",
+        "35988",
+        "35989"
       ]
     },
     {
@@ -239,7 +301,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35956"
+        "35904",
+        "35905",
+        "35952",
+        "35956",
+        "35972"
       ]
     },
     {
@@ -250,7 +316,232 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35984"
+        "35963",
+        "35968",
+        "35971",
+        "35975",
+        "35979",
+        "35984",
+        "35988",
+        "35989"
+      ]
+    },
+    {
+      "name": "ODENVILLE PUBLIC LIBRARY",
+      "system": "ODENVILLE PUBLIC LIBRARY",
+      "address": "200 ALABAMA STREET, ODENVILLE, AL",
+      "website": "https://cityofodenville.net/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35052",
+        "35054",
+        "35112",
+        "35120",
+        "35125",
+        "35135",
+        "35987"
+      ]
+    },
+    {
+      "name": "PELL CITY PUBLIC LIBRARY",
+      "system": "PELL CITY PUBLIC LIBRARY",
+      "address": "1000 BRUCE ETHEREDGE PKWY STE 100, PELL CITY, AL",
+      "website": "https://www.pellcitylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35052",
+        "35054",
+        "35112",
+        "35125",
+        "35128",
+        "35135",
+        "35987"
+      ]
+    },
+    {
+      "name": "RAGLAND PUBLIC LIBRARY",
+      "system": "RAGLAND PUBLIC LIBRARY",
+      "address": "26 PROVIDENCE ROAD, RAGLAND, AL",
+      "website": "http://www.townofragland.org/Default.asp?ID=51&pg=Public+Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35052",
+        "35054",
+        "35112",
+        "35125",
+        "35131",
+        "35135",
+        "35987"
+      ]
+    },
+    {
+      "name": "ARAB PUBLIC LIBRARY",
+      "system": "ARAB PUBLIC LIBRARY",
+      "address": "325 2ND STREET NW, ARAB, AL",
+      "website": "http://www.arabpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35016",
+        "35175",
+        "35755",
+        "35951",
+        "35980"
+      ]
+    },
+    {
+      "name": "MOODY - DORIS STANLEY MEMORIAL LIBRARY",
+      "system": "MOODY - DORIS STANLEY MEMORIAL LIBRARY",
+      "address": "300 BOOKMARK CIRCLE, MOODY, AL",
+      "website": "https://www.moodyalabama.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35004",
+        "35052",
+        "35054",
+        "35112",
+        "35125",
+        "35135",
+        "35987"
+      ]
+    },
+    {
+      "name": "WOODVILLE PUBLIC LIBRARY",
+      "system": "WOODVILLE PUBLIC LIBRARY",
+      "address": "26 VENSON STREET, WOODVILLE, AL",
+      "website": "https://www.chamberofcommerce.com/united-states/alabama/woodville/public-library/44864281-woodville-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35745",
+        "35746",
+        "35751",
+        "35752",
+        "35764",
+        "35765",
+        "35766",
+        "35769",
+        "35771",
+        "35774",
+        "35776",
+        "357HH",
+        "35958",
+        "35966"
+      ]
+    },
+    {
+      "name": "SCOTTSBORO PUBLIC LIBRARY",
+      "system": "SCOTTSBORO PUBLIC LIBRARY",
+      "address": "1002 SOUTH BROAD STREET, SCOTTSBORO, AL",
+      "website": "https://scottsborolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35745",
+        "35746",
+        "35751",
+        "35752",
+        "35764",
+        "35765",
+        "35766",
+        "35768",
+        "35769",
+        "35771",
+        "35774",
+        "357HH",
+        "35958",
+        "35966"
+      ]
+    },
+    {
+      "name": "STEVENSON PUBLIC LIBRARY",
+      "system": "STEVENSON PUBLIC LIBRARY",
+      "address": "102 WEST MAIN STREET, STEVENSON, AL",
+      "website": "https://librarytechnology.org/library/14508",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35745",
+        "35746",
+        "35751",
+        "35752",
+        "35764",
+        "35765",
+        "35766",
+        "35769",
+        "35771",
+        "35772",
+        "35774",
+        "357HH",
+        "35958",
+        "35966"
+      ]
+    },
+    {
+      "name": "GRANT PUBLIC LIBRARY",
+      "system": "GRANT PUBLIC LIBRARY",
+      "address": "5379 MAIN STREET, GRANT, AL",
+      "website": "https://www.grantpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35175",
+        "35747",
+        "35755",
+        "35951",
+        "35980"
+      ]
+    },
+    {
+      "name": "BRIDGEPORT - LENA CAGLE PUBLIC LIBRARY",
+      "system": "BRIDGEPORT - LENA CAGLE PUBLIC LIBRARY",
+      "address": "401 ALABAMA AVENUE, BRIDGEPORT, AL",
+      "website": "https://librarytechnology.org/library/14544",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35740",
+        "35745",
+        "35746",
+        "35751",
+        "35752",
+        "35764",
+        "35765",
+        "35766",
+        "35769",
+        "35771",
+        "35774",
+        "357HH",
+        "35958",
+        "35966"
+      ]
+    },
+    {
+      "name": "DUTTON PUBLIC LIBRARY",
+      "system": "DUTTON PUBLIC LIBRARY",
+      "address": "23 MAIN STREET, DUTTON, AL",
+      "website": "https://ils.apls.state.al.us:10034/eg/opac/home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35744",
+        "35745",
+        "35746",
+        "35751",
+        "35752",
+        "35764",
+        "35765",
+        "35766",
+        "35769",
+        "35771",
+        "35774",
+        "357HH",
+        "35958",
+        "35966"
       ]
     }
   ]

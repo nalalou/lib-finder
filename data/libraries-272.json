@@ -1,14 +1,88 @@
 {
   "libraries": [
     {
-      "name": "DAVIDSON COUNTY PUBLIC LIBRARY SYSTEM",
-      "system": "DAVIDSON COUNTY PUBLIC LIBRARY SYSTEM",
-      "address": "602 S MAIN ST, LEXINGTON, NC",
-      "website": "https://www.co.davidson.nc.us/284/Lexington-Public-Library",
+      "name": "FORSYTH COUNTY PUBLIC LIBRARY",
+      "system": "FORSYTH COUNTY PUBLIC LIBRARY",
+      "address": "585 DAHLONEGA STREET, CUMMING, GA",
+      "website": "https://www.forsythpl.org/cumming-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27292"
+        "27009",
+        "27012",
+        "27023",
+        "27040",
+        "27045",
+        "27050",
+        "27051",
+        "27101",
+        "27103",
+        "27104",
+        "27105",
+        "27106",
+        "27107",
+        "27109",
+        "27127",
+        "27284",
+        "30040"
+      ]
+    },
+    {
+      "name": "SOUTHERN PINES PUBLIC LIBRARY",
+      "system": "SOUTHERN PINES PUBLIC LIBRARY",
+      "address": "170 W CONNECTICUT AVE, SOUTHERN PINES, NC",
+      "website": "https://www.southernpines.net/399/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27242",
+        "27281",
+        "27325",
+        "27376",
+        "28315",
+        "28327",
+        "28350",
+        "28373",
+        "28374",
+        "28387",
+        "28394"
+      ]
+    },
+    {
+      "name": "GIVEN MEMORIAL LIBRARY & TUFTS ARCHIVE",
+      "system": "GIVEN MEMORIAL LIBRARY & TUFTS ARCHIVE",
+      "address": "150 CHEROKEE ROAD, PINEHURST, NC",
+      "website": "https://www.vopnc.org/our-government/library-home/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27242",
+        "27281",
+        "27325",
+        "27376",
+        "28315",
+        "28327",
+        "28350",
+        "28370",
+        "28373",
+        "28374",
+        "28394"
+      ]
+    },
+    {
+      "name": "CHAPEL HILL PUBLIC LIBRARY",
+      "system": "CHAPEL HILL PUBLIC LIBRARY",
+      "address": "100 LIBRARY DR, CHAPEL HILL, NC",
+      "website": "https://www.chapelhillpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27231",
+        "27243",
+        "27278",
+        "27510",
+        "27514",
+        "27516"
       ]
     },
     {
@@ -19,7 +93,96 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "03570",
+        "03582",
+        "03590",
+        "035HH",
+        "035XX",
         "27203"
+      ]
+    },
+    {
+      "name": "GREENSBORO PUBLIC LIBRARY",
+      "system": "GREENSBORO PUBLIC LIBRARY",
+      "address": "219 N CHURCH ST, GREENSBORO, NC",
+      "website": "https://library.greensboro-nc.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27214",
+        "27235",
+        "27260",
+        "27265",
+        "27282",
+        "27283",
+        "27301",
+        "27310",
+        "27313",
+        "27342",
+        "27358",
+        "27377",
+        "27401",
+        "27403",
+        "27405",
+        "27406",
+        "27407",
+        "27408",
+        "27409",
+        "27410",
+        "27455",
+        "274HH"
+      ]
+    },
+    {
+      "name": "CHATHAM COUNTY PUBLIC LIBRARIES",
+      "system": "CHATHAM COUNTY PUBLIC LIBRARIES",
+      "address": "197 NC HWY 87 N, PITTSBORO, NC",
+      "website": "https://www.chathamcountync.gov/government/departments-programs-i-z/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27207",
+        "27208",
+        "27252",
+        "27256",
+        "27312",
+        "27344",
+        "27559",
+        "275HH"
+      ]
+    },
+    {
+      "name": "CASWELL COUNTY PUBLIC LIBRARY",
+      "system": "CASWELL COUNTY PUBLIC LIBRARY",
+      "address": "161 MAIN STREET EAST, YANCEYVILLE, NC",
+      "website": "https://www.caswellcountync.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27212",
+        "27291",
+        "27305",
+        "27311",
+        "27314",
+        "27315",
+        "27379"
+      ]
+    },
+    {
+      "name": "DAVIDSON COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "DAVIDSON COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "602 S MAIN ST, LEXINGTON, NC",
+      "website": "https://www.co.davidson.nc.us/284/Lexington-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "270HH",
+        "271HH",
+        "27239",
+        "27292",
+        "27295",
+        "27299",
+        "27360"
       ]
     },
     {
@@ -30,7 +193,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27288"
+        "27025",
+        "27027",
+        "27048",
+        "27288",
+        "27320",
+        "27326",
+        "27357"
       ]
     },
     {
@@ -41,7 +210,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27262"
+        "27214",
+        "27235",
+        "27260",
+        "27262",
+        "27265",
+        "27282",
+        "27283",
+        "27301",
+        "27310",
+        "27313",
+        "27342",
+        "27358",
+        "27377",
+        "27403",
+        "27405",
+        "27406",
+        "27407",
+        "27408",
+        "27409",
+        "27410",
+        "27455",
+        "274HH"
       ]
     },
     {
@@ -52,18 +242,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27215"
-      ]
-    },
-    {
-      "name": "ORANGE COUNTY PUBLIC LIBRARY",
-      "system": "ORANGE COUNTY PUBLIC LIBRARY",
-      "address": "137 W MARGARET LN, HILLSBOROUGH, NC",
-      "website": "https://www.orangecountync.gov/3009/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "27278"
+        "27202",
+        "27215",
+        "27217",
+        "27244",
+        "27253",
+        "27258",
+        "272HH",
+        "27302",
+        "27349",
+        "273HH"
       ]
     },
     {
@@ -74,7 +262,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27249"
+        "27214",
+        "27235",
+        "27249",
+        "27260",
+        "27265",
+        "27282",
+        "27283",
+        "27301",
+        "27310",
+        "27313",
+        "27342",
+        "27358",
+        "27377",
+        "27403",
+        "27405",
+        "27406",
+        "27407",
+        "27408",
+        "27409",
+        "27410",
+        "27455",
+        "274HH"
       ]
     }
   ]

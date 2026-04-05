@@ -1,6 +1,29 @@
 {
   "libraries": [
     {
+      "name": "MEHERRIN REGIONAL LIBRARY",
+      "system": "MEHERRIN REGIONAL LIBRARY",
+      "address": "133 WEST HICKS STREET, LAWRENCEVILLE, VA",
+      "website": "https://www.meherrinlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23821",
+        "23843",
+        "23845",
+        "23856",
+        "23857",
+        "23868",
+        "23876",
+        "23887",
+        "23889",
+        "23893",
+        "238HH",
+        "23920",
+        "23938"
+      ]
+    },
+    {
       "name": "CHARLOTTE COUNTY LIBRARY",
       "system": "CHARLOTTE COUNTY LIBRARY",
       "address": "112-116 LEGRANDE AVENUE, CHARLOTTE COURT HOUS, VA",
@@ -8,7 +31,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23923"
+        "23923",
+        "23934",
+        "23937",
+        "23947",
+        "23959",
+        "23962",
+        "23963",
+        "23964",
+        "23967",
+        "23976"
       ]
     },
     {
@@ -19,6 +51,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "23824",
+        "238XX",
+        "23922",
         "23930"
       ]
     },
@@ -30,7 +65,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23901"
+        "23901",
+        "23942",
+        "23943",
+        "23954",
+        "23958",
+        "23960",
+        "23966"
       ]
     },
     {
@@ -41,7 +82,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23944"
+        "23944",
+        "23952",
+        "23974"
       ]
     },
     {
@@ -52,7 +95,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23917"
+        "23915",
+        "23917",
+        "23919",
+        "23924",
+        "23927",
+        "23950",
+        "23968",
+        "23970",
+        "24529",
+        "24580"
+      ]
+    },
+    {
+      "name": "J. ROBERT JAMERSON MEMORIAL LIBRARY",
+      "system": "J. ROBERT JAMERSON MEMORIAL LIBRARY",
+      "address": "157 MAIN STREET, APPOMATTOX, VA",
+      "website": "https://www.jrjml.org/library-branch/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23939",
+        "24522",
+        "24593"
       ]
     }
   ]

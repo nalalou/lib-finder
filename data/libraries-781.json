@@ -1,6 +1,22 @@
 {
   "libraries": [
     {
+      "name": "GONZALES PUBLIC LIBRARY",
+      "system": "GONZALES PUBLIC LIBRARY",
+      "address": "301 SAINT JOSEPH ST, GONZALES, TX",
+      "website": "https://www.gonzales.texas.gov/p/departments/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78122",
+        "78159",
+        "78614",
+        "78629",
+        "78632",
+        "78658"
+      ]
+    },
+    {
       "name": "WILSON COUNTY PUBLIC LIBRARIES",
       "system": "WILSON COUNTY PUBLIC LIBRARIES",
       "address": "1103 4TH ST, FLORESVILLE, TX",
@@ -8,7 +24,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78114"
+        "78114",
+        "78121",
+        "78143",
+        "78147",
+        "78160",
+        "78161"
       ]
     },
     {
@@ -19,7 +40,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78119"
+        "78116",
+        "78117",
+        "78119",
+        "78144"
       ]
     },
     {
@@ -30,7 +54,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78130"
+        "78070",
+        "78130",
+        "78132",
+        "781HH",
+        "78623"
       ]
     },
     {
@@ -41,7 +69,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78102"
+        "78102",
+        "78125",
+        "78142",
+        "78145",
+        "78146",
+        "781XX",
+        "78389",
+        "78391"
       ]
     },
     {
@@ -52,7 +87,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78154"
+        "78108",
+        "78123",
+        "78154",
+        "78638",
+        "78670"
       ]
     },
     {
@@ -63,17 +102,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78155"
+        "78108",
+        "78123",
+        "78155",
+        "78638",
+        "78670"
       ]
     },
     {
       "name": "YORKTOWN PUBLIC LIBRARY",
       "system": "YORKTOWN PUBLIC LIBRARY",
-      "address": "103 W MAIN ST, YORKTOWN, TX",
+      "address": "8920 WEST ADALINE STREET, YORKTOWN, IN",
       "website": "http://yorktownpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "47396",
+        "77974",
+        "77994",
+        "78141",
         "78164"
       ]
     },
@@ -85,7 +132,73 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78148"
+        "78002",
+        "78015",
+        "78023",
+        "78073",
+        "78101",
+        "78112",
+        "78148",
+        "78152",
+        "78201",
+        "78202",
+        "78203",
+        "78204",
+        "78207",
+        "78208",
+        "78209",
+        "78210",
+        "78211",
+        "78212",
+        "78213",
+        "78214",
+        "78215",
+        "78216",
+        "78217",
+        "78218",
+        "78219",
+        "78220",
+        "78221",
+        "78222",
+        "78223",
+        "78224",
+        "78225",
+        "78226",
+        "78227",
+        "78228",
+        "78229",
+        "78230",
+        "78231",
+        "78232",
+        "78233",
+        "78234",
+        "78235",
+        "78236",
+        "78237",
+        "78239",
+        "78240",
+        "78242",
+        "78244",
+        "78245",
+        "78247",
+        "78248",
+        "78249",
+        "78250",
+        "78251",
+        "78252",
+        "78253",
+        "78254",
+        "78255",
+        "78256",
+        "78257",
+        "78258",
+        "78259",
+        "78260",
+        "78261",
+        "78263",
+        "78264",
+        "782HH",
+        "782XX"
       ]
     },
     {
@@ -96,7 +209,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78163"
+        "78070",
+        "78132",
+        "78163",
+        "781HH",
+        "78623"
       ]
     },
     {
@@ -107,7 +224,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78133"
+        "78070",
+        "78132",
+        "78133",
+        "781HH",
+        "78623"
       ]
     },
     {
@@ -118,7 +239,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78113"
+        "78113",
+        "78116",
+        "78117",
+        "78144"
       ]
     },
     {
@@ -129,7 +253,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78118"
+        "78116",
+        "78117",
+        "78118",
+        "78144"
       ]
     },
     {
@@ -140,6 +267,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "78116",
+        "78117",
+        "78144",
         "78151"
       ]
     },
@@ -151,7 +281,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78140"
+        "78122",
+        "78140",
+        "78159",
+        "78614",
+        "78632",
+        "78658"
       ]
     },
     {
@@ -162,7 +297,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78124"
+        "78108",
+        "78123",
+        "78124",
+        "78638",
+        "78670"
       ]
     },
     {
@@ -173,7 +312,378 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78109"
+        "78002",
+        "78015",
+        "78023",
+        "78073",
+        "78101",
+        "78109",
+        "78112",
+        "78152",
+        "78201",
+        "78202",
+        "78203",
+        "78204",
+        "78207",
+        "78208",
+        "78209",
+        "78210",
+        "78211",
+        "78212",
+        "78213",
+        "78214",
+        "78215",
+        "78216",
+        "78217",
+        "78218",
+        "78219",
+        "78220",
+        "78221",
+        "78222",
+        "78223",
+        "78224",
+        "78225",
+        "78226",
+        "78227",
+        "78228",
+        "78229",
+        "78230",
+        "78231",
+        "78232",
+        "78233",
+        "78234",
+        "78235",
+        "78236",
+        "78237",
+        "78239",
+        "78240",
+        "78242",
+        "78244",
+        "78245",
+        "78247",
+        "78248",
+        "78249",
+        "78250",
+        "78251",
+        "78252",
+        "78253",
+        "78254",
+        "78255",
+        "78256",
+        "78257",
+        "78258",
+        "78259",
+        "78260",
+        "78261",
+        "78263",
+        "78264",
+        "782HH",
+        "782XX"
+      ]
+    },
+    {
+      "name": "CARL & MARY WELHAUSEN LIBRARY",
+      "system": "CARL & MARY WELHAUSEN LIBRARY",
+      "address": "810 FRONT ST, YOAKUM, TX",
+      "website": "https://www.usmagazine.com/entertainment/news/summer-houses-lindsay-hubbard-unblocks-ex-fiance-carl-radke/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77974",
+        "77994",
+        "77995",
+        "78141",
+        "78164"
+      ]
+    },
+    {
+      "name": "GOLIAD COUNTY LIBRARY",
+      "system": "GOLIAD COUNTY LIBRARY",
+      "address": "320 S COMMERCIAL ST, GOLIAD, TX",
+      "website": "https://www.co.goliad.tx.us/page/goliad.Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77960",
+        "77963",
+        "78107"
+      ]
+    },
+    {
+      "name": "CUERO PUBLIC LIBRARY",
+      "system": "CUERO PUBLIC LIBRARY",
+      "address": "207 E MAIN ST, CUERO, TX",
+      "website": "https://www.cityofcuero.com/186/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "77954",
+        "77974",
+        "77994",
+        "78141",
+        "78164"
+      ]
+    },
+    {
+      "name": "LEON VALLEY PUBLIC LIBRARY",
+      "system": "LEON VALLEY PUBLIC LIBRARY",
+      "address": "6425 EVERS RD, LEON VALLEY, TX",
+      "website": "https://librarytechnology.org/library/24409",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78002",
+        "78015",
+        "78023",
+        "78073",
+        "78101",
+        "78112",
+        "78152",
+        "78201",
+        "78202",
+        "78203",
+        "78204",
+        "78207",
+        "78208",
+        "78209",
+        "78210",
+        "78211",
+        "78212",
+        "78213",
+        "78214",
+        "78215",
+        "78216",
+        "78217",
+        "78218",
+        "78219",
+        "78220",
+        "78221",
+        "78222",
+        "78223",
+        "78224",
+        "78225",
+        "78226",
+        "78227",
+        "78228",
+        "78229",
+        "78230",
+        "78231",
+        "78232",
+        "78233",
+        "78234",
+        "78235",
+        "78236",
+        "78237",
+        "78238",
+        "78239",
+        "78240",
+        "78242",
+        "78244",
+        "78245",
+        "78247",
+        "78248",
+        "78249",
+        "78250",
+        "78251",
+        "78252",
+        "78253",
+        "78254",
+        "78255",
+        "78256",
+        "78257",
+        "78258",
+        "78259",
+        "78260",
+        "78261",
+        "78263",
+        "78264",
+        "782HH",
+        "782XX"
+      ]
+    },
+    {
+      "name": "SAN ANTONIO PUBLIC LIBRARY",
+      "system": "SAN ANTONIO PUBLIC LIBRARY",
+      "address": "600 SOLEDAD ST, SAN ANTONIO, TX",
+      "website": "http://mysapl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78002",
+        "78015",
+        "78023",
+        "78073",
+        "78101",
+        "78112",
+        "78152",
+        "78201",
+        "78202",
+        "78203",
+        "78204",
+        "78205",
+        "78207",
+        "78208",
+        "78209",
+        "78210",
+        "78211",
+        "78212",
+        "78213",
+        "78214",
+        "78215",
+        "78216",
+        "78217",
+        "78218",
+        "78219",
+        "78220",
+        "78221",
+        "78222",
+        "78223",
+        "78224",
+        "78225",
+        "78226",
+        "78227",
+        "78228",
+        "78229",
+        "78230",
+        "78231",
+        "78232",
+        "78233",
+        "78234",
+        "78235",
+        "78236",
+        "78237",
+        "78239",
+        "78240",
+        "78242",
+        "78244",
+        "78245",
+        "78247",
+        "78248",
+        "78249",
+        "78250",
+        "78251",
+        "78252",
+        "78253",
+        "78254",
+        "78255",
+        "78256",
+        "78257",
+        "78258",
+        "78259",
+        "78260",
+        "78261",
+        "78263",
+        "78264",
+        "782HH",
+        "782XX"
+      ]
+    },
+    {
+      "name": "CITY OF GARDEN RIDGE LIBRARY",
+      "system": "CITY OF GARDEN RIDGE LIBRARY",
+      "address": "9400 MUNICIPAL PKWY, GARDEN RIDGE, TX",
+      "website": "https://www.ci.garden-ridge.tx.us/103/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78070",
+        "78132",
+        "781HH",
+        "78266",
+        "78623"
+      ]
+    },
+    {
+      "name": "BIBLIOTECH",
+      "system": "BIBLIOTECH",
+      "address": "3505 PLEASANTON RD, SAN ANTONIO, TX",
+      "website": "https://bibliotech.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78002",
+        "78015",
+        "78023",
+        "78073",
+        "78101",
+        "78112",
+        "78152",
+        "78201",
+        "78202",
+        "78203",
+        "78204",
+        "78205",
+        "78207",
+        "78208",
+        "78209",
+        "78210",
+        "78211",
+        "78212",
+        "78213",
+        "78214",
+        "78215",
+        "78216",
+        "78217",
+        "78218",
+        "78219",
+        "78220",
+        "78221",
+        "78222",
+        "78223",
+        "78224",
+        "78225",
+        "78226",
+        "78227",
+        "78228",
+        "78229",
+        "78230",
+        "78231",
+        "78232",
+        "78233",
+        "78234",
+        "78235",
+        "78236",
+        "78237",
+        "78239",
+        "78240",
+        "78242",
+        "78244",
+        "78245",
+        "78247",
+        "78248",
+        "78249",
+        "78250",
+        "78251",
+        "78252",
+        "78253",
+        "78254",
+        "78255",
+        "78256",
+        "78257",
+        "78258",
+        "78259",
+        "78260",
+        "78261",
+        "78263",
+        "78264",
+        "782HH",
+        "782XX"
+      ]
+    },
+    {
+      "name": "WAELDER PUBLIC LIBRARY",
+      "system": "WAELDER PUBLIC LIBRARY",
+      "address": "310 N AVE E, WAELDER, TX",
+      "website": "https://librarytechnology.org/library/24758",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78122",
+        "78159",
+        "78614",
+        "78632",
+        "78658",
+        "78959"
       ]
     }
   ]
