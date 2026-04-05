@@ -1,8 +1,16 @@
-const { describe, it } = require("node:test");
+const { describe, it, before } = require("node:test");
 const assert = require("node:assert/strict");
 const fs = require("node:fs");
 const nodePath = require("node:path");
-const { validateAuth, validatePayload, mapLibrary } = require("../api/v1/library-requests/resolve.js");
+
+let validateAuth, validatePayload, mapLibrary;
+
+before(async () => {
+  const mod = await import("../api/v1/library-requests/resolve.js");
+  validateAuth = mod.validateAuth;
+  validatePayload = mod.validatePayload;
+  mapLibrary = mod.mapLibrary;
+});
 
 describe("validateAuth", () => {
   const key = "test-key-123";
@@ -98,7 +106,6 @@ describe("mapLibrary", () => {
 
 describe("resolve against real data", () => {
   it("returns libraries for zipcode 50441 with IDs", () => {
-    // 50441 is served by HAMPTON PUBLIC LIBRARY in data/libraries-504.json
     const dataPath = nodePath.join(process.cwd(), "data", "libraries-504.json");
     const data = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
     const libs = data.libraries.filter((lib) => lib.zipcodes && lib.zipcodes.includes("50441"));
@@ -108,7 +115,6 @@ describe("resolve against real data", () => {
     assert.ok(typeof libs[0].id === "string", "ID should be a string");
     assert.ok(libs[0].id.length > 0, "ID should not be empty");
 
-    // Verify mapping works
     const mapped = mapLibrary(libs[0]);
     assert.equal(mapped.action, "redirect");
     assert.ok(mapped.fallback_url, "Should have a fallback_url");
@@ -116,7 +122,6 @@ describe("resolve against real data", () => {
   });
 
   it("returns 404-worthy result for nonexistent zipcode prefix", () => {
-    // Prefix 000 should not have a data file
     const dataPath = nodePath.join(process.cwd(), "data", "libraries-000.json");
     assert.ok(!fs.existsSync(dataPath), "libraries-000.json should not exist");
   });

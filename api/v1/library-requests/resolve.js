@@ -1,16 +1,16 @@
-const fs = require("fs");
-const path = require("path");
-const crypto = require("crypto");
+import { readFileSync } from "fs";
+import { join } from "path";
+import { randomBytes, timingSafeEqual } from "crypto";
 
-function validateAuth(authHeader, expectedKey) {
+export function validateAuth(authHeader, expectedKey) {
   if (!authHeader) return { status: 401, error: "Missing Authorization header." };
   const parts = authHeader.split(" ");
   if (parts.length !== 2 || parts[0] !== "Bearer") return { status: 401, error: "Invalid Authorization format. Use: Bearer <api_key>" };
-  if (parts[1].length !== expectedKey.length || !crypto.timingSafeEqual(Buffer.from(parts[1]), Buffer.from(expectedKey))) return { status: 401, error: "Invalid API key." };
+  if (parts[1].length !== expectedKey.length || !timingSafeEqual(Buffer.from(parts[1]), Buffer.from(expectedKey))) return { status: 401, error: "Invalid API key." };
   return null;
 }
 
-function validatePayload(body) {
+export function validatePayload(body) {
   if (!body || typeof body !== "object") return "Invalid request body.";
   if (!body.user || typeof body.user !== "object") return "Missing required field: user.";
   const zip = body.user.zipcode;
@@ -19,7 +19,7 @@ function validatePayload(body) {
   return null;
 }
 
-function mapLibrary(lib) {
+export function mapLibrary(lib) {
   return {
     id: lib.id,
     name: lib.name,
@@ -31,9 +31,7 @@ function mapLibrary(lib) {
   };
 }
 
-module.exports = { validateAuth, validatePayload, mapLibrary };
-
-module.exports.default = async function handler(req, res) {
+export default async function handler(req, res) {
   if (req.method !== "POST") {
     return res.status(405).json({ error: "Method not allowed." });
   }
@@ -56,11 +54,11 @@ module.exports.default = async function handler(req, res) {
 
   const zipcode = req.body.user.zipcode;
   const prefix = zipcode.slice(0, 3);
-  const dataPath = path.join(process.cwd(), "data", `libraries-${prefix}.json`);
+  const dataPath = join(process.cwd(), "data", `libraries-${prefix}.json`);
 
   let data;
   try {
-    const raw = fs.readFileSync(dataPath, "utf-8");
+    const raw = readFileSync(dataPath, "utf-8");
     data = JSON.parse(raw);
   } catch (err) {
     if (err.code === "ENOENT") {
@@ -78,10 +76,10 @@ module.exports.default = async function handler(req, res) {
     return res.status(404).json({ error: "No libraries found for this zipcode." });
   }
 
-  const requestId = "req_" + crypto.randomBytes(8).toString("hex");
+  const requestId = "req_" + randomBytes(8).toString("hex");
 
   return res.status(200).json({
     request_id: requestId,
     libraries: libraries.map(mapLibrary),
   });
-};
+}
