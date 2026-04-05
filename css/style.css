@@ -132,43 +132,88 @@ h1 {
 }
 
 .picker li {
-  margin-bottom: 0.5rem;
-}
-
-.picker a {
-  display: block;
-  padding: 0.85rem 1rem;
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: 8px;
-  text-decoration: none;
-  color: var(--color-text);
-  font-size: 0.95rem;
-  transition: border-color 0.15s ease;
-  min-height: 44px;
+  padding: 1rem;
 }
 
-.picker a:hover {
-  border-color: var(--color-accent);
+.lib-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  margin-bottom: 0.75rem;
 }
 
-.picker .lib-name {
+.lib-info .lib-name {
   font-weight: 500;
+  font-size: 0.95rem;
 }
 
-.picker .lib-action {
-  color: var(--color-accent);
+.lib-info .lib-address {
+  color: var(--color-text-muted);
   font-size: 0.85rem;
-  text-decoration: underline;
-  margin-top: 0.25rem;
-  display: inline-block;
 }
 
-.lib-submit-link {
-  display: block;
-  margin-top: 0.35rem;
-  margin-bottom: 0.25rem;
+.lib-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.lib-btn {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 0.55rem 1.1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.lib-btn-primary {
+  background: var(--color-accent);
+  color: #fff;
+  border: none;
+}
+
+.lib-btn-primary:hover {
+  background: var(--color-accent-hover);
+}
+
+.lib-btn-secondary {
+  background: var(--color-surface);
+  color: var(--color-accent);
+  border: 1.5px solid var(--color-accent);
+}
+
+.lib-btn-secondary:hover {
+  background: var(--color-accent);
+  color: #fff;
+}
+
+.lib-btn-text {
+  background: none;
+  border: none;
+  color: var(--color-text-muted);
+  font-family: var(--font-body);
   font-size: 0.8rem;
+  font-weight: 400;
+  padding: 0.55rem 0;
+  text-decoration: underline;
+  cursor: pointer;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.lib-btn-text:hover {
+  color: var(--color-accent);
 }
 
 .picker .lib-address {
