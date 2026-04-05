@@ -125,8 +125,8 @@
       "system": "TULARE COUNTY FREE LIBRARY",
       "address": "200 W. OAK AVE., VISALIA, CA",
       "website": "https://www.tularecountylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.tularecountylibrary.org/",
+      "formStatus": "verified",
       "zipcodes": [
         "93201",
         "93207",
@@ -245,8 +245,8 @@
       "system": "SHAFTER LIBRARY",
       "address": "236 JAMES STREET, SUITE 2, SHAFTER, CA",
       "website": "https://shafter.librarycatalog.info/polaris/search/default.aspx?ctx=3.1033.0.0.3&type=Browse",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://shafter.librarycatalog.info/polaris/search/default.aspx?ctx=3.1033.0.0.3&type=Browse/javascript:showModalBasicWithIframe(%27https://shafter.librarycatalog.info/polaris/help/content/1033/request.htm%27)",
+      "formStatus": "verified",
       "zipcodes": [
         "93203",
         "93205",
@@ -613,8 +613,8 @@
       "system": "CARPINTERIA COMMUNITY LIBRARY",
       "address": "5141 CARPINTERIA AVE., CARPINTERIA, CA",
       "website": "https://carpinterialibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://carpinterialibrary.org/how-do-i/how-do-i-request-an-item-or-place-a-hold/",
+      "formStatus": "verified",
       "zipcodes": [
         "93013",
         "93067",

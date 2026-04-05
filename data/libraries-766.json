@@ -50,8 +50,8 @@
       "system": "FAIRFIELD LIBRARY",
       "address": "350 W MAIN ST, FAIRFIELD, TX",
       "website": "https://www.fairfieldtxlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.fairfieldtxlibrary.org/interlibrary-loan",
+      "formStatus": "verified",
       "zipcodes": [
         "75838",
         "75840",
@@ -443,8 +443,8 @@
       "system": "ENNIS PUBLIC LIBRARY",
       "address": "115 W BROWN ST, ENNIS, TX",
       "website": "https://www.ennistx.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.ennistx.gov/departments/Library/InterlibraryLoan",
+      "formStatus": "verified",
       "zipcodes": [
         "75101",
         "75119",

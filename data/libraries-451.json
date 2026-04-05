@@ -5,8 +5,8 @@
       "system": "MASON PUBLIC LIBRARY",
       "address": "200 READING RD., MASON, OH",
       "website": "https://masonpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.masonpl.org/services/ill/request",
+      "formStatus": "verified",
       "zipcodes": [
         "45005",
         "45032",
@@ -44,8 +44,8 @@
       "system": "CLERMONT COUNTY PUBLIC LIBRARY",
       "address": "5920 BUCKWHEAT RD, MILFORD, OH",
       "website": "https://www.clermontlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.clermontlibrary.org/discover/suggest-a-purchase",
+      "formStatus": "verified",
       "zipcodes": [
         "45102",
         "45103",
@@ -85,8 +85,8 @@
       "system": "BROWN COUNTY PUBLIC LIBRARY",
       "address": "205 LOCUST LANE, NASHVILLE, IN",
       "website": "http://browncountylibrary.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "http://browncountylibrary.info/ill/",
+      "formStatus": "verified",
       "zipcodes": [
         "45101",
         "45115",
@@ -216,8 +216,8 @@
       "system": "CINCINNATI AND HAMILTON COUNTY PUBLIC LIBRARY",
       "address": "800 VINE ST., CINCINNATI, OH",
       "website": "https://chpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://chpl.org/faqs/suggest-titles-for-purchase/",
+      "formStatus": "verified",
       "zipcodes": [
         "45001",
         "45002",

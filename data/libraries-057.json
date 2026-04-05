@@ -59,8 +59,8 @@
       "system": "HARTLAND PUBLIC",
       "address": "153 RTE. 5, HARTLAND, VT",
       "website": "https://www.hartlandlibraryvt.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.hartlandlibraryvt.org/request/",
+      "formStatus": "verified",
       "zipcodes": [
         "05001",
         "05034",
@@ -302,8 +302,8 @@
       "system": "NORMAN WILLIAMS PUBLIC",
       "address": "10 S. PARK ST., WOODSTOCK, VT",
       "website": "https://normanwilliams.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://normanwilliams.org/borrow/catalog-interlibrary-loan",
+      "formStatus": "verified",
       "zipcodes": [
         "05001",
         "05034",
@@ -1165,8 +1165,8 @@
       "system": "RUSSELL MEMORIAL",
       "address": "92 MONKTON RIDGE RD., NORTH FERRISBURGH, VT",
       "website": "https://monktonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://monktonlibrary.org/interlibrary-loan/",
+      "formStatus": "verified",
       "zipcodes": [
         "05456",
         "05473",

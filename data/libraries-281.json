@@ -102,8 +102,8 @@
       "system": "CABARRUS COUNTY PUBLIC LIBRARY",
       "address": "27 UNION ST N, CONCORD, NC",
       "website": "https://www.cabarruscounty.us/Government/Departments/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://forms.cabarruscounty.us/Forms/InterLibrary-Loan-Request",
+      "formStatus": "verified",
       "zipcodes": [
         "28025",
         "28027",
@@ -181,8 +181,8 @@
       "system": "LINCOLN COUNTY PUBLIC LIBRARY",
       "address": "201 LANCASTER STREET, STANFORD, KY",
       "website": "https://lcplinfo.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://lcplinfo.org/interlibrary-loan-request-form/",
+      "formStatus": "verified",
       "zipcodes": [
         "28033",
         "28037",

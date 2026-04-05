@@ -97,8 +97,8 @@
       "system": "FAIRFAX PUBLIC LIBRARY",
       "address": "158 EAST ELM, FAIRFAX, OK",
       "website": "https://www.fairfax.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.fairfax.lib.ia.us/services/interlibrary-loan",
+      "formStatus": "verified",
       "zipcodes": [
         "74001",
         "74054",
@@ -168,8 +168,8 @@
       "system": "BARTLESVILLE PUBLIC LIBRARY",
       "address": "600 S JOHNSTONE, BARTLESVILLE, OK",
       "website": "https://bartlesvillelibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://bartlesvillelibrary.com/books-more/suggest-a-purchase/",
+      "formStatus": "verified",
       "zipcodes": [
         "74003",
         "74006",
@@ -493,8 +493,8 @@
       "system": "TULSA CITY-COUNTY LIBRARY SYSTEM",
       "address": "400 CIVIC CENTER, TULSA, OK",
       "website": "https://www.tulsalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.tulsalibrary.org/suggestion-purchase",
+      "formStatus": "verified",
       "zipcodes": [
         "74008",
         "74011",

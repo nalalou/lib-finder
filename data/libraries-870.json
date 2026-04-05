@@ -33,8 +33,8 @@
       "system": "ALBUQUERQUE/BERNALILLO COUNTY LIBRARY SYSTEM",
       "address": "501 COPPER AVE. NW, ALBUQUERQUE, NM",
       "website": "https://abqlibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://abqlibrary.org/suggest",
+      "formStatus": "verified",
       "zipcodes": [
         "87008",
         "87022",
@@ -143,8 +143,8 @@
       "system": "GRANTS PUBLIC LIBRARY",
       "address": "1101 NORTH FIRST STREET, GRANTS, NM",
       "website": "https://www.grantsnm.gov/Departments/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://cityofgrants.seamlessdocs.com/f/ef908H",
+      "formStatus": "verified",
       "zipcodes": [
         "87005",
         "87007",
@@ -343,8 +343,8 @@
       "system": "EDGEWOOD COMMUNITY LIBRARY",
       "address": "171B NM-344, EDGEWOOD, NM",
       "website": "https://www.edgewood-nm.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.edgewood-nm.gov/library/library/page/interlibrary-loans",
+      "formStatus": "verified",
       "zipcodes": [
         "87010",
         "87015",
@@ -648,8 +648,8 @@
       "system": "SANTA FE PUBLIC LIBRARY",
       "address": "145 WASHINGTON AVENUE, SANTA FE, NM",
       "website": "https://www.santafelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.santafelibrary.org/services/suggest-purchase",
+      "formStatus": "verified",
       "zipcodes": [
         "87010",
         "87056",

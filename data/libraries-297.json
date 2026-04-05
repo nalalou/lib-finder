@@ -40,8 +40,8 @@
       "system": "LANCASTER COUNTY LIBRARY SYSTEM",
       "address": "313 S. WHITE ST., LANCASTER, SC",
       "website": "https://www.lanclib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.lanclib.org/",
+      "formStatus": "verified",
       "zipcodes": [
         "29058",
         "29067",
@@ -53,8 +53,8 @@
       "system": "YORK COUNTY LIBRARY SYSTEM",
       "address": "138 EAST BLACK STREET, ROCK HILL, SC",
       "website": "https://www.yclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.yclibrary.org/interlibrary-loan",
+      "formStatus": "verified",
       "zipcodes": [
         "29704",
         "29708",

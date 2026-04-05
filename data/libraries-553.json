@@ -5,8 +5,8 @@
       "system": "CARVER COUNTY LIBRARY SYSTEM",
       "address": "4 CITY HALL PLAZA, CHASKA, MN",
       "website": "https://www.carverlib.org/locations/chaska",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.carverlib.org/locations/chaska/services/request-a-purchase",
+      "formStatus": "verified",
       "zipcodes": [
         "55315",
         "55317",
@@ -150,8 +150,8 @@
       "system": "GREAT RIVER REGIONAL LIBRARY",
       "address": "1300 WEST ST. GERMAIN ST., ST CLOUD, MN",
       "website": "https://griver.org/locations/st-cloud",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://griver.org/locations/st-cloud/services/interlibrary-loan",
+      "formStatus": "verified",
       "zipcodes": [
         "55329",
         "55353",

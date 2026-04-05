@@ -5,8 +5,8 @@
       "system": "RICHLAND COUNTY PUBLIC LIBRARY",
       "address": "1431 ASSEMBLY STREET, COLUMBIA, SC",
       "website": "http://www.richlandlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.richlandlibrary.com/user/login?destination=/services/suggest-title",
+      "formStatus": "verified",
       "zipcodes": [
         "29016",
         "29044",
@@ -34,8 +34,8 @@
       "system": "LEXINGTON COUNTY PUBLIC LIBRARY SYSTEM",
       "address": "5440 AUGUSTA ROAD, LEXINGTON, SC",
       "website": "https://lexcolibrary.com/using-the-library/hours-and-locations/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://lexcolibrary.com/books-and-more/purchase-request/",
+      "formStatus": "verified",
       "zipcodes": [
         "29006",
         "29033",

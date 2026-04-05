@@ -478,8 +478,8 @@
       "system": "NEW BRITAIN PUBLIC LIBRARY",
       "address": "20 HIGH ST., NEW BRITAIN, CT",
       "website": "https://www.newbritainlibrary.org/locations-hours",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.newbritainlibrary.org/locations-hours/request-title",
+      "formStatus": "verified",
       "zipcodes": [
         "06001",
         "06002",
@@ -564,8 +564,8 @@
       "system": "SIMSBURY PUBLIC LIBRARY",
       "address": "725 HOPMEADOW ST., SIMSBURY, CT",
       "website": "https://www.simsburylibrary.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.simsburylibrary.info/suggest-a-title/",
+      "formStatus": "verified",
       "zipcodes": [
         "06001",
         "06002",
@@ -908,8 +908,8 @@
       "system": "WEST HARTFORD PUBLIC LIBRARY",
       "address": "20 SOUTH MAIN ST., WEST HARTFORD, CT",
       "website": "https://www.westhartfordlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.westhartfordlibrary.org/books-more/pf/",
+      "formStatus": "verified",
       "zipcodes": [
         "06001",
         "06002",
@@ -951,8 +951,8 @@
       "system": "WETHERSFIELD PUBLIC LIBRARY",
       "address": "515 SILAS DEANE HIGHWAY, WETHERSFIELD, CT",
       "website": "https://www.wethersfieldlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.wethersfieldlibrary.org/request/",
+      "formStatus": "verified",
       "zipcodes": [
         "06001",
         "06002",

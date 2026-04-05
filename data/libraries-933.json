@@ -5,8 +5,8 @@
       "system": "SHAFTER LIBRARY",
       "address": "236 JAMES STREET, SUITE 2, SHAFTER, CA",
       "website": "https://shafter.librarycatalog.info/polaris/search/default.aspx?ctx=3.1033.0.0.3&type=Browse",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://shafter.librarycatalog.info/polaris/search/default.aspx?ctx=3.1033.0.0.3&type=Browse/javascript:showModalBasicWithIframe(%27https://shafter.librarycatalog.info/polaris/help/content/1033/request.htm%27)",
+      "formStatus": "verified",
       "zipcodes": [
         "93203",
         "93205",

@@ -62,8 +62,8 @@
       "system": "MOULTRIE-COLQUITT COUNTY LIBRARY SYSTEM",
       "address": "204 5TH STREET SE, MOULTRIE, GA",
       "website": "https://www.mccls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.mccls.org/borrow/reader_services/suggest_a_purchase.php",
+      "formStatus": "verified",
       "zipcodes": [
         "31722",
         "31744",
@@ -78,8 +78,8 @@
       "system": "DOUGHERTY COUNTY PUBLIC LIBRARY",
       "address": "300 PINE AVENUE, ALBANY, GA",
       "website": "https://www.docolib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.docolib.org/about_us/contact_us/suggest_a_title.php",
+      "formStatus": "verified",
       "zipcodes": [
         "31701",
         "31705",
@@ -121,8 +121,8 @@
       "system": "THOMAS COUNTY PUBLIC LIBRARY SYSTEM",
       "address": "201 NORTH MADISON STREET, THOMASVILLE, GA",
       "website": "https://tcpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://tcpls.org/use_the_library/suggest_a_purchase.php",
+      "formStatus": "verified",
       "zipcodes": [
         "31626",
         "31720",

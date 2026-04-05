@@ -33,8 +33,8 @@
       "system": "FLAGSTAFF CITY-COCONINO COUNTY PUBLIC LIBRARY",
       "address": "300 W ASPEN AVE, FLAGSTAFF, AZ",
       "website": "https://www.flagstaffpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.flagstaffpubliclibrary.org/services/interlibrary-loan",
+      "formStatus": "verified",
       "zipcodes": [
         "85931",
         "86001",
@@ -94,8 +94,8 @@
       "system": "MOHAVE COUNTY LIBRARY DISTRICT",
       "address": "3269 N BURBANK ST, KINGMAN, AZ",
       "website": "http://www.mohavecountylibrary.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://catalog.mohavecountylibrary.us/PatronPurchaseSuggestion",
+      "formStatus": "verified",
       "zipcodes": [
         "85360",
         "86021",

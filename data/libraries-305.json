@@ -38,8 +38,8 @@
       "system": "CHESTATEE REGIONAL LIBRARY SYSTEM",
       "address": "56 MECHANICSVILLE ROAD, DAHLONEGA, GA",
       "website": "https://chestateelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://chestateelibrary.org/services/interlibrary_loan.php",
+      "formStatus": "verified",
       "zipcodes": [
         "30533"
       ]
@@ -61,8 +61,8 @@
       "system": "HALL COUNTY LIBRARY SYSTEM",
       "address": "127 MAIN STREET NW, GAINESVILLE, GA",
       "website": "https://www.hallcountylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.hallcountylibrary.org/services/community/suggest_a_title.php",
+      "formStatus": "verified",
       "zipcodes": [
         "30501",
         "30504",

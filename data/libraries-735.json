@@ -5,8 +5,8 @@
       "system": "SOUTHERN PRAIRIE LIBRARY SYSTEM",
       "address": "421 N. HUDSON, ALTUS, OK",
       "website": "https://spls.lib.ok.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://spls.lib.ok.us/interlibrary-loan-service/",
+      "formStatus": "verified",
       "zipcodes": [
         "73521",
         "73526",
@@ -178,8 +178,8 @@
       "system": "HOBART PUBLIC LIBRARY",
       "address": "200 S MAIN, HOBART, OK",
       "website": "https://www.hobartlibrary.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.hobartlibrary.okpls.org/interlibrary-loan",
+      "formStatus": "verified",
       "zipcodes": [
         "73041",
         "730XX",

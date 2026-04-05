@@ -148,8 +148,8 @@
       "system": "HENDERSON DISTRICT PUBLIC LIBRARIES",
       "address": "280 S. GREEN VALLEY PKWY., HENDERSON, NV",
       "website": "https://www.hendersonlibraries.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.hendersonlibraries.com/request",
+      "formStatus": "verified",
       "zipcodes": [
         "89004",
         "89007",
@@ -340,8 +340,8 @@
       "system": "LAS VEGAS-CLARK COUNTY LIBRARY DISTRICT",
       "address": "7060 W WINDMILL LN, LAS VEGAS, NV",
       "website": "https://thelibrarydistrict.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://thelibrarydistrict.org/ill/",
+      "formStatus": "verified",
       "zipcodes": [
         "89004",
         "89007",
@@ -408,8 +408,8 @@
       "system": "MOHAVE COUNTY LIBRARY DISTRICT",
       "address": "3269 N BURBANK ST, KINGMAN, AZ",
       "website": "http://www.mohavecountylibrary.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://catalog.mohavecountylibrary.us/PatronPurchaseSuggestion",
+      "formStatus": "verified",
       "zipcodes": [
         "85360",
         "86021",

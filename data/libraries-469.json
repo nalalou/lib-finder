@@ -33,8 +33,8 @@
       "system": "BELL MEMORIAL PUBLIC LIBRARY",
       "address": "101 WEST MAIN STREET, MENTONE, IN",
       "website": "https://www.bell.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.bell.lib.in.us/patron-request-form",
+      "formStatus": "verified",
       "zipcodes": [
         "46502",
         "46508",
@@ -54,8 +54,8 @@
       "system": "WARSAW COMMUNITY PUBLIC LIBRARY",
       "address": "310 EAST MAIN STREET, WARSAW, IN",
       "website": "https://www.warsawlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.warsawlibrary.org/books-movies-more/purchase-request/",
+      "formStatus": "verified",
       "zipcodes": [
         "46502",
         "46508",
@@ -255,8 +255,8 @@
       "system": "LOGANSPORT-CASS COUNTY PUBLIC LIBRARY",
       "address": "616 EAST BROADWAY, LOGANSPORT, IN",
       "website": "https://logan.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://logan.lib.in.us/purchase-request/",
+      "formStatus": "verified",
       "zipcodes": [
         "46932",
         "46947",

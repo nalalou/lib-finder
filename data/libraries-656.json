@@ -5,8 +5,8 @@
       "system": "DOUGLAS COUNTY PUBLIC LIBRARY",
       "address": "301 W. WEBSTER AVENUE, AVA, MO",
       "website": "https://wgrls.org/douglas-county-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://wgrls.org/services/purchase-suggestion/",
+      "formStatus": "verified",
       "zipcodes": [
         "65608",
         "89410",
@@ -25,8 +25,8 @@
       "system": "WRIGHT COUNTY LIBRARY",
       "address": "160 E. MARSHFIELD, HARTVILLE, MO",
       "website": "http://www.wrightcounty.lib.mo.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "http://www.wrightcounty.lib.mo.us/index.php/interlibrary-loan-program/",
+      "formStatus": "verified",
       "zipcodes": [
         "65660",
         "65662",
@@ -162,8 +162,8 @@
       "system": "SEYMOUR COMMUNITY LIBRARY",
       "address": "320 E CLINTON AVE, SEYMOUR, MO",
       "website": "https://seymour.lib.mo.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://seymour.lib.mo.us/services/other-services",
+      "formStatus": "verified",
       "zipcodes": [
         "65652",
         "65713",
@@ -306,8 +306,8 @@
       "system": "SPRINGFIELD-GREENE COUNTY LIBRARY DISTRICT",
       "address": "4653 S CAMPBELL AVE, SPRINGFIELD, MO",
       "website": "https://thelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.thelibrary.org/standard-pages/interlibrary-loan",
+      "formStatus": "verified",
       "zipcodes": [
         "65604",
         "65612",

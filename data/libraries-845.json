@@ -5,8 +5,8 @@
       "system": "HELPER CITY LIBRARY",
       "address": "19 SOUTH MAIN STREET, HELPER, UT",
       "website": "https://helper.lib.utah.gov/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://helper.lib.utah.gov/interlibrary-loan/",
+      "formStatus": "verified",
       "zipcodes": [
         "84520",
         "84526",
@@ -35,8 +35,8 @@
       "system": "EMERY COUNTY LIBRARY",
       "address": "75 EAST MAIN STREET, CASTLE DALE, UT",
       "website": "https://library.utah.gov/directory/listing/castle-dale-branch-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://library.utah.gov/ill/",
+      "formStatus": "verified",
       "zipcodes": [
         "84513",
         "84516",
@@ -55,8 +55,8 @@
       "system": "GRAND COUNTY PUBLIC LIBRARY",
       "address": "257 EAST CENTER STREET, MOAB, UT",
       "website": "https://www.grandcountyutah.net/286/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.grandcountyutah.net/286/Library/FormCenter/Library-4/Purchase-or-Interlibrary-Loan-Request-65",
+      "formStatus": "verified",
       "zipcodes": [
         "84532",
         "84540"
@@ -67,8 +67,8 @@
       "system": "SAN JUAN COUNTY LIBRARY",
       "address": "25 WEST 300 SOUTH, BLANDING, UT",
       "website": "https://library.utah.gov/directory/listing/blanding-branch-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://library.utah.gov/ill/",
+      "formStatus": "verified",
       "zipcodes": [
         "84510",
         "84511",

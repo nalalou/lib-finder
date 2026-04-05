@@ -49,8 +49,8 @@
       "system": "LIVINGSTON PARISH LIBRARY",
       "address": "20390 IOWA STREET, LIVINGSTON, LA",
       "website": "https://lpl.polarislibrary.com/default.aspx",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://lpl.polarislibrary.com/error.aspx?BadReq=1",
+      "formStatus": "verified",
       "zipcodes": [
         "70754"
       ]
@@ -60,8 +60,8 @@
       "system": "WEST FELICIANA PARISH LIBRARY",
       "address": "5114 BURNETT RD, ST. FRANCISVILLE, LA",
       "website": "https://www.wfplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.wfplibrary.org/request",
+      "formStatus": "verified",
       "zipcodes": [
         "70775"
       ]

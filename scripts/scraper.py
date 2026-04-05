@@ -144,10 +144,8 @@ async def scrape_libraries(libraries, output_path, screenshot_dir=None, start_in
     print(f"Scraping {len(batch)} libraries (index {start_index}-{start_index + len(batch) - 1})...")
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) LibraryFinder/1.0"
-        )
+        browser = await p.chromium.launch(headless=False)
+        context = await browser.new_context()
 
         for i, lib in enumerate(batch):
             website = lib["website"]

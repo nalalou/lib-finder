@@ -38,8 +38,8 @@
       "system": "YOUNGSTOWN AND MAHONING COUNTY, PL OF",
       "address": "305 WICK AVE., YOUNGSTOWN, OH",
       "website": "https://www.libraryvisit.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://plymc.bibliocommons.com/user/login?destination=%2Fsuggested_purchases",
+      "formStatus": "verified",
       "zipcodes": [
         "44401",
         "44405",
@@ -126,8 +126,8 @@
       "system": "EAST PALESTINE MEMORIAL PUBLIC LIBRARY",
       "address": "309 N. MARKET ST., EAST PALESTINE, OH",
       "website": "https://www.east-palestine.lib.oh.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.east-palestine.lib.oh.us/ill",
+      "formStatus": "verified",
       "zipcodes": [
         "43945",
         "43962",
@@ -330,8 +330,8 @@
       "system": "WELLSVILLE CARNEGIE PUBLIC LIBRARY",
       "address": "115 NINTH ST., WELLSVILLE, OH",
       "website": "https://www.wellsville.lib.oh.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.wellsville.lib.oh.us/loan",
+      "formStatus": "verified",
       "zipcodes": [
         "43945",
         "43962",

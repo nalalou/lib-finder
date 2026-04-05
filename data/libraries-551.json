@@ -24,8 +24,8 @@
       "system": "SAINT PAUL PUBLIC LIBRARY",
       "address": "90 WEST FOURTH STREET, SAINT PAUL, MN",
       "website": "https://sppl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://sppl.org/suggest/",
+      "formStatus": "verified",
       "zipcodes": [
         "55102",
         "68820",
@@ -71,8 +71,8 @@
       "system": "RAMSEY COUNTY LIBRARY",
       "address": "4560 N VICTORIA ST, SHOREVIEW, MN",
       "website": "https://www.rclreads.org/locations/SV/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.rclreads.org/suggest-a-title/",
+      "formStatus": "verified",
       "zipcodes": [
         "55101",
         "55103",
@@ -128,8 +128,8 @@
       "system": "BAYPORT PUBLIC LIBRARY",
       "address": "582 N 4TH STREET, BAYPORT, MN",
       "website": "https://www.bayportlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.bayportlibrary.org/about/request-a-book",
+      "formStatus": "verified",
       "zipcodes": [
         "55001",
         "55003",

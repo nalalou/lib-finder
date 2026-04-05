@@ -18,8 +18,8 @@
       "system": "FAIRFIELD PUBLIC LIBRARY",
       "address": "1080 OLD POST RD., FAIRFIELD, CT",
       "website": "https://www.fairfield.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://fairfieldia.bywatersolutions.com/cgi-bin/koha/opac-suggestions.pl?op=add_form",
+      "formStatus": "verified",
       "zipcodes": [
         "06824",
         "68452",

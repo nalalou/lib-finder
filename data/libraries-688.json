@@ -197,8 +197,8 @@
       "system": "LEXINGTON PUBLIC LIBRARY",
       "address": "140 EAST MAIN STREET, LEXINGTON, KY",
       "website": "http://www.lexpublib.org",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.lexpublib.org/interlibrary-loan",
+      "formStatus": "verified",
       "zipcodes": [
         "40507",
         "68834",
@@ -314,8 +314,8 @@
       "system": "SAINT PAUL PUBLIC LIBRARY",
       "address": "90 WEST FOURTH STREET, SAINT PAUL, MN",
       "website": "https://sppl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://sppl.org/suggest/",
+      "formStatus": "verified",
       "zipcodes": [
         "55102",
         "68820",

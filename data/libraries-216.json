@@ -5,8 +5,8 @@
       "system": "CAROLINE COUNTY PUBLIC LIBRARY",
       "address": "100 MARKET STREET, DENTON, MD",
       "website": "https://eshore.polarislibrary.com/polaris/default.aspx?ctx=3.1033.0.0.1",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://eshore.polarislibrary.com/polaris/default.aspx?ctx=3.1033.0.0.1/javascript:showModalBasicWithIframe(%27https://eshore.polarislibrary.com/polaris/help/content/1033/request.htm%27)",
+      "formStatus": "verified",
       "zipcodes": [
         "21629",
         "21632",
@@ -52,8 +52,8 @@
       "system": "KENT COUNTY PUBLIC LIBRARY",
       "address": "497 SOUTH RED HAVEN LANE, DOVER, DE",
       "website": "https://kentcountylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://kentcountylibrary.org/catalog/suggest-a-title.php",
+      "formStatus": "verified",
       "zipcodes": [
         "19901",
         "21610",
@@ -72,8 +72,8 @@
       "system": "QUEEN ANNE`S COUNTY FREE LIBRARY",
       "address": "121 S COMMERCE STREET, CENTREVILLE, MD",
       "website": "https://www.qaclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.qaclibrary.org/make-a-purchase-suggestion",
+      "formStatus": "verified",
       "zipcodes": [
         "21617"
       ]
@@ -83,8 +83,8 @@
       "system": "TALBOT COUNTY FREE LIBRARY",
       "address": "100 W. DOVER ST., EASTON, MD",
       "website": "https://www.tcfl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.tcfl.org/find/?content=suggest",
+      "formStatus": "verified",
       "zipcodes": [
         "21601",
         "21612",

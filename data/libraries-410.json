@@ -5,8 +5,8 @@
       "system": "BOONE COUNTY PUBLIC LIBRARY DISTRICT",
       "address": "1786 BURLINGTON PIKE, BURLINGTON, KY",
       "website": "https://www.bcpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.bcpl.org/interlibrary-loan",
+      "formStatus": "verified",
       "zipcodes": [
         "41005",
         "41042",
@@ -23,8 +23,8 @@
       "system": "CAMPBELL COUNTY PUBLIC LIBRARY DISTRICT",
       "address": "3920 ALEXANDRIA PIKE, COLD SPRING, KY",
       "website": "https://www.cc-pl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.cc-pl.org/request-an-item",
+      "formStatus": "verified",
       "zipcodes": [
         "41001",
         "41007",
@@ -55,8 +55,8 @@
       "system": "FLEMING COUNTY PUBLIC LIBRARY",
       "address": "202 BYPASS BOULEVARD, FLEMINGSBURG, KY",
       "website": "https://www.flemingcountypubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.flemingcountypubliclibrary.org/request-a-book-bundle",
+      "formStatus": "verified",
       "zipcodes": [
         "41039",
         "41041",
@@ -84,8 +84,8 @@
       "system": "CYNTHIANA-HARRISON COUNTY PUBLIC LIBRARY",
       "address": "104 NORTH MAIN STREET, CYNTHIANA, KY",
       "website": "https://www.cynthianalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.cynthianalibrary.org/suggest-an-item",
+      "formStatus": "verified",
       "zipcodes": [
         "41003",
         "41031"
@@ -96,8 +96,8 @@
       "system": "KENTON COUNTY PUBLIC LIBRARY",
       "address": "3095 HULBERT AVE., ERLANGER, KY",
       "website": "https://www.kentonlibrary.org/locations/8/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.kentonlibrary.org/ill/",
+      "formStatus": "verified",
       "zipcodes": [
         "41011",
         "41014",
@@ -138,8 +138,8 @@
       "system": "BRACKEN COUNTY PUBLIC LIBRARY",
       "address": "310 WEST MIAMI STREET, BROOKSVILLE, KY",
       "website": "https://brackenlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://brackenlibrary.org/interlibrary-loan/",
+      "formStatus": "verified",
       "zipcodes": [
         "41002",
         "41004",

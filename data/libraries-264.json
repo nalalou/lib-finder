@@ -5,8 +5,8 @@
       "system": "BRIDGEPORT PUBLIC LIBRARY",
       "address": "3399 WILLIAMSON ROAD, SAGINAW, MI",
       "website": "https://bportlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://bportlibrary.org/books/",
+      "formStatus": "verified",
       "zipcodes": [
         "26302",
         "26323",
@@ -93,8 +93,8 @@
       "system": "TAYLOR COUNTY PUBLIC LIBRARY",
       "address": "200 BEECH ST., GRAFTON, WV",
       "website": "https://www.tcplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.tcplibrary.org/form/suggest-a-title",
+      "formStatus": "verified",
       "zipcodes": [
         "26347",
         "26354",
@@ -212,8 +212,8 @@
       "system": "GILMER PUBLIC LIBRARY",
       "address": "214 WALNUT STREET, GLENVILLE, WV",
       "website": "https://gilmerpublib.org/about/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://gilmerpublib.org/onlinecatalog/interlibrary-loans/",
+      "formStatus": "verified",
       "zipcodes": [
         "25267",
         "26342",

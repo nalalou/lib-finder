@@ -35,8 +35,8 @@
       "system": "HOWARD COUNTY LIBRARY SYSTEM",
       "address": "9411 FREDERICK ROAD, ELLICOTT CITY, MD",
       "website": "https://www.hclibrary.org/locations/miller/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.hclibrary.org/interlibrary/",
+      "formStatus": "verified",
       "zipcodes": [
         "20701",
         "20723",
@@ -63,8 +63,8 @@
       "system": "CARROLL COUNTY PUBLIC LIBRARY",
       "address": "1100 GREEN VALLEY ROAD, NEW WINDSOR, MD",
       "website": "https://library.carr.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://library.carr.org/collections/suggest",
+      "formStatus": "verified",
       "zipcodes": [
         "21048",
         "21074",
@@ -83,8 +83,8 @@
       "system": "BALTIMORE COUNTY PUBLIC LIBRARY",
       "address": "320 YORK ROAD, TOWSON, MD",
       "website": "https://catalog.bcpl.lib.md.us/polaris/library/hours.aspx?ctx=20.1033.0.0.5",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://www.bcpl.info/books-and-more/suggest-purchase",
+      "formStatus": "verified",
       "zipcodes": [
         "21013",
         "21030",

@@ -5,8 +5,8 @@
       "system": "WASHINGTON COUNTY LIBRARY SYSTEM",
       "address": "1080 WEST CLYDESDALE DR, FAYETTEVILLE, AR",
       "website": "https://library.washco.utah.gov/st-george/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://library.washco.utah.gov/patron-request-for-purchase/",
+      "formStatus": "verified",
       "zipcodes": [
         "72701",
         "84722",
@@ -32,8 +32,8 @@
       "system": "BENTONVILLE PUBLIC LIBRARY",
       "address": "405 SOUTH MAIN STREET, BENTONVILLE, AR",
       "website": "https://bentonvillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://bentonvillelibrary.org/browse/interlibrary-loan",
+      "formStatus": "verified",
       "zipcodes": [
         "72711",
         "72712",
@@ -53,8 +53,8 @@
       "system": "BELLA VISTA PUBLIC LIBRARY",
       "address": "11 DICKENS PLACE, BELLA VISTA, AR",
       "website": "https://library.bellavistaar.gov/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://library.bellavistaar.gov/",
+      "formStatus": "verified",
       "zipcodes": [
         "72711",
         "72714",
@@ -120,8 +120,8 @@
       "system": "PEA RIDGE COMMUNITY LIBRARY",
       "address": "801 N CURTIS, PEA RIDGE, AR",
       "website": "https://pearidgepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "formUrl": "https://pearidgepubliclibrary.org/suggest-a-purchase/",
+      "formStatus": "verified",
       "zipcodes": [
         "72711",
         "72715",
