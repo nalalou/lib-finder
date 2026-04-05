@@ -10,7 +10,8 @@
       "zipcodes": [
         "84526",
         "84529"
-      ]
+      ],
+      "id": "helper-city-library-ut"
     },
     {
       "name": "PRICE CITY LIBRARY",
@@ -25,7 +26,8 @@
         "84529",
         "84539",
         "84542"
-      ]
+      ],
+      "id": "price-city-library-ut"
     },
     {
       "name": "EMERY COUNTY LIBRARY",
@@ -44,7 +46,8 @@
         "84525",
         "84528",
         "84537"
-      ]
+      ],
+      "id": "emery-county-library-ut"
     },
     {
       "name": "GRAND COUNTY PUBLIC LIBRARY",
@@ -56,7 +59,8 @@
       "zipcodes": [
         "84532",
         "84540"
-      ]
+      ],
+      "id": "grand-county-public-library-ut"
     },
     {
       "name": "SAN JUAN COUNTY LIBRARY",
@@ -76,7 +80,8 @@
         "84536",
         "86044",
         "86514"
-      ]
+      ],
+      "id": "san-juan-county-library-ut"
     }
   ]
 }

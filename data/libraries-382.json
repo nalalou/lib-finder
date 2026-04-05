@@ -20,7 +20,8 @@
         "38663",
         "38674",
         "38683"
-      ]
+      ],
+      "id": "benton-county-library-ms"
     },
     {
       "name": "SHARON PUBLIC LIBRARY",
@@ -33,7 +34,8 @@
         "02032",
         "02067",
         "38255"
-      ]
+      ],
+      "id": "sharon-public-library-ma-2"
     },
     {
       "name": "W. G. RHEA PUBLIC LIBRARY",
@@ -50,7 +52,8 @@
         "38242",
         "38251",
         "38256"
-      ]
+      ],
+      "id": "w-g-rhea-public-library-tn"
     },
     {
       "name": "OBION COUNTY PUBLIC LIBRARY",
@@ -66,7 +69,8 @@
         "38257",
         "38260",
         "38261"
-      ]
+      ],
+      "id": "obion-county-public-library-tn"
     },
     {
       "name": "NED R. MCWHERTER WEAKLEY COUNTY LIBRARY",
@@ -78,7 +82,8 @@
       "zipcodes": [
         "38225",
         "38241"
-      ]
+      ],
+      "id": "ned-r-mcwherter-weakley-county-library-tn"
     },
     {
       "name": "MARTIN PUBLIC LIBRARY",
@@ -91,7 +96,8 @@
         "38226",
         "38237",
         "38255"
-      ]
+      ],
+      "id": "martin-public-library-tn"
     },
     {
       "name": "HAMILTON PARKS PUBLIC LIBRARY",
@@ -102,7 +108,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "38259"
-      ]
+      ],
+      "id": "hamilton-parks-public-library-tn"
     },
     {
       "name": "MCKENZIE MEMORIAL LIBRARY",
@@ -115,7 +122,8 @@
         "38201",
         "38220",
         "38258"
-      ]
+      ],
+      "id": "mckenzie-memorial-library-tn"
     },
     {
       "name": "GLEASON MEMORIAL LIBRARY",
@@ -126,7 +134,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "38229"
-      ]
+      ],
+      "id": "gleason-memorial-library-tn"
     },
     {
       "name": "DR. NATHAN PORTER LIBRARY",
@@ -138,7 +147,8 @@
       "zipcodes": [
         "38230",
         "38255"
-      ]
+      ],
+      "id": "dr-nathan-porter-library-tn"
     },
     {
       "name": "CARROLL COUNTY LIBRARY",
@@ -157,7 +167,8 @@
         "38348",
         "38387",
         "38390"
-      ]
+      ],
+      "id": "carroll-county-library-tn"
     },
     {
       "name": "GIBSON COUNTY MEMORIAL LIBRARY",
@@ -172,7 +183,8 @@
         "38330",
         "38369",
         "38382"
-      ]
+      ],
+      "id": "gibson-county-memorial-library-tn"
     }
   ]
 }

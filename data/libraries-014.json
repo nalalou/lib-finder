@@ -14,7 +14,8 @@
         "68954",
         "68975",
         "68980"
-      ]
+      ],
+      "id": "harvard-public-library-ne"
     },
     {
       "name": "BOLTON PUBLIC LIBRARY",
@@ -28,7 +29,8 @@
         "01467",
         "01503",
         "01740"
-      ]
+      ],
+      "id": "bolton-public-library-ma"
     },
     {
       "name": "THAYER MEMORIAL LIBRARY",
@@ -41,7 +43,8 @@
         "01451",
         "01467",
         "01523"
-      ]
+      ],
+      "id": "thayer-memorial-library-ma"
     },
     {
       "name": "STEVENS MEMORIAL LIBRARY",
@@ -57,7 +60,8 @@
         "01841",
         "01843",
         "01845"
-      ]
+      ],
+      "id": "stevens-memorial-library-ma"
     },
     {
       "name": "ASHBY FREE PUBLIC LIBRARY",
@@ -69,7 +73,8 @@
       "zipcodes": [
         "01431",
         "01474"
-      ]
+      ],
+      "id": "ashby-free-public-library-ma"
     },
     {
       "name": "AYER LIBRARY",
@@ -80,7 +85,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01432"
-      ]
+      ],
+      "id": "ayer-library-ma"
     },
     {
       "name": "FITCHBURG PUBLIC LIBRARY",
@@ -99,7 +105,8 @@
         "53715",
         "53717",
         "53719"
-      ]
+      ],
+      "id": "fitchburg-public-library-ma"
     },
     {
       "name": "LEVI HEYWOOD MEMORIAL LIBRARY",
@@ -112,7 +119,8 @@
         "01436",
         "01438",
         "01440"
-      ]
+      ],
+      "id": "levi-heywood-memorial-library-ma"
     },
     {
       "name": "GROTON PUBLIC LIBRARY",
@@ -126,7 +134,8 @@
         "13068",
         "13073",
         "14882"
-      ]
+      ],
+      "id": "groton-public-library-ma"
     },
     {
       "name": "HUBBARDSTON PUBLIC LIBRARY",
@@ -137,7 +146,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "01452"
-      ]
+      ],
+      "id": "hubbardston-public-library-ma"
     },
     {
       "name": "LEOMINSTER PUBLIC LIBRARY",
@@ -148,7 +158,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01453"
-      ]
+      ],
+      "id": "leominster-public-library-ma"
     },
     {
       "name": "REUBEN HOAR LIBRARY",
@@ -160,7 +171,8 @@
       "zipcodes": [
         "01460",
         "01718"
-      ]
+      ],
+      "id": "reuben-hoar-library-ma"
     },
     {
       "name": "LUNENBURG PUBLIC LIBRARY",
@@ -171,7 +183,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01462"
-      ]
+      ],
+      "id": "lunenburg-public-library-ma"
     },
     {
       "name": "LAWRENCE LIBRARY",
@@ -183,7 +196,8 @@
       "zipcodes": [
         "01463",
         "01474"
-      ]
+      ],
+      "id": "lawrence-library-ma"
     },
     {
       "name": "HAZEN MEMORIAL LIBRARY",
@@ -194,7 +208,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01464"
-      ]
+      ],
+      "id": "hazen-memorial-library-ma"
     },
     {
       "name": "BOYNTON PUBLIC LIBRARY",
@@ -207,7 +222,8 @@
         "01436",
         "01438",
         "01468"
-      ]
+      ],
+      "id": "boynton-public-library-ma"
     },
     {
       "name": "TOWNSEND PUBLIC LIBRARY",
@@ -219,7 +235,8 @@
       "zipcodes": [
         "01469",
         "01474"
-      ]
+      ],
+      "id": "townsend-public-library-ma"
     },
     {
       "name": "FORBUSH MEMORIAL LIBRARY",
@@ -231,7 +248,8 @@
       "zipcodes": [
         "01473",
         "01541"
-      ]
+      ],
+      "id": "forbush-memorial-library-ma"
     },
     {
       "name": "BEALS MEMORIAL LIBRARY",
@@ -242,7 +260,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01475"
-      ]
+      ],
+      "id": "beals-memorial-library-ma"
     },
     {
       "name": "PHILLIPS FREE PUBLIC LIBRARY",
@@ -255,7 +274,8 @@
         "01331",
         "01436",
         "01438"
-      ]
+      ],
+      "id": "phillips-free-public-library-ma-2"
     }
   ]
 }

@@ -10,7 +10,8 @@
       "zipcodes": [
         "05301",
         "05358"
-      ]
+      ],
+      "id": "brooks-memorial-vt"
     },
     {
       "name": "DOVER FREE",
@@ -24,7 +25,8 @@
         "05356",
         "05360",
         "05362"
-      ]
+      ],
+      "id": "dover-free-vt"
     },
     {
       "name": "GUILFORD FREE",
@@ -36,7 +38,8 @@
       "zipcodes": [
         "05301",
         "05358"
-      ]
+      ],
+      "id": "guilford-free-vt"
     },
     {
       "name": "JAMAICA MEMORIAL",
@@ -48,7 +51,8 @@
       "zipcodes": [
         "05148",
         "05343"
-      ]
+      ],
+      "id": "jamaica-memorial-vt-2"
     },
     {
       "name": "MOORE FREE",
@@ -60,7 +64,8 @@
       "zipcodes": [
         "05345",
         "05362"
-      ]
+      ],
+      "id": "moore-free-vt"
     },
     {
       "name": "PUTNEY PUBLIC",
@@ -71,7 +76,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "05346"
-      ]
+      ],
+      "id": "putney-public-vt"
     },
     {
       "name": "READSBORO COMMUNITY",
@@ -82,7 +88,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05350"
-      ]
+      ],
+      "id": "readsboro-community-vt"
     },
     {
       "name": "STAMFORD COMMUNITY",
@@ -93,7 +100,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05352"
-      ]
+      ],
+      "id": "stamford-community-vt"
     },
     {
       "name": "TOWNSHEND PUBLIC",
@@ -104,7 +112,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05353"
-      ]
+      ],
+      "id": "townshend-public-vt"
     },
     {
       "name": "VERNON FREE",
@@ -115,7 +124,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "05354"
-      ]
+      ],
+      "id": "vernon-free-vt"
     },
     {
       "name": "WARDSBORO FREE PUBLIC",
@@ -128,7 +138,8 @@
         "05355",
         "05356",
         "05360"
-      ]
+      ],
+      "id": "wardsboro-free-public-vt"
     },
     {
       "name": "WESTMINSTER WEST PUBLIC",
@@ -140,7 +151,8 @@
       "zipcodes": [
         "05154",
         "05346"
-      ]
+      ],
+      "id": "westminster-west-public-vt-2"
     },
     {
       "name": "WHITINGHAM FREE PUBLIC",
@@ -153,7 +165,8 @@
         "05342",
         "05358",
         "05361"
-      ]
+      ],
+      "id": "whitingham-free-public-vt"
     },
     {
       "name": "PETTEE MEMORIAL",
@@ -167,7 +180,8 @@
         "05360",
         "05361",
         "05363"
-      ]
+      ],
+      "id": "pettee-memorial-vt"
     },
     {
       "name": "WINDHAM TOWN",
@@ -179,7 +193,8 @@
       "zipcodes": [
         "05148",
         "05359"
-      ]
+      ],
+      "id": "windham-town-vt-2"
     },
     {
       "name": "WINHALL MEMORIAL",
@@ -193,7 +208,8 @@
         "05252",
         "05253",
         "05340"
-      ]
+      ],
+      "id": "winhall-memorial-vt-3"
     },
     {
       "name": "LYDIA TAFT PRATT",
@@ -205,7 +221,8 @@
       "zipcodes": [
         "05357",
         "05362"
-      ]
+      ],
+      "id": "lydia-taft-pratt-vt"
     }
   ]
 }

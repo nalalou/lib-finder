@@ -13,7 +13,8 @@
         "80117",
         "80830",
         "80835"
-      ]
+      ],
+      "id": "elbert-county-library-district-co-2"
     },
     {
       "name": "AKRON PUBLIC LIBRARY",
@@ -33,7 +34,8 @@
         "80757",
         "80801",
         "80812"
-      ]
+      ],
+      "id": "akron-public-library-al-5"
     },
     {
       "name": "BURLINGTON PUBLIC LIBRARY",
@@ -60,7 +62,8 @@
         "98233",
         "98235",
         "98238"
-      ]
+      ],
+      "id": "burlington-public-library-ct-5"
     },
     {
       "name": "WRAY PUBLIC LIBRARY",
@@ -74,7 +77,8 @@
         "80755",
         "80758",
         "80824"
-      ]
+      ],
+      "id": "wray-public-library-co-2"
     },
     {
       "name": "YUMA PUBLIC LIBRARY",
@@ -87,7 +91,8 @@
         "80727",
         "80759",
         "80822"
-      ]
+      ],
+      "id": "yuma-public-library-co-2"
     },
     {
       "name": "HUGO PUBLIC LIBRARY",
@@ -100,7 +105,8 @@
         "80804",
         "80821",
         "80823"
-      ]
+      ],
+      "id": "hugo-public-library-co"
     },
     {
       "name": "LIMON MEMORIAL LIBRARY",
@@ -112,7 +118,8 @@
       "zipcodes": [
         "80818",
         "80828"
-      ]
+      ],
+      "id": "limon-memorial-library-co"
     },
     {
       "name": "LINCOLN COUNTY BOOKMOBILE",
@@ -123,7 +130,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "80828"
-      ]
+      ],
+      "id": "lincoln-county-bookmobile-co"
     },
     {
       "name": "SOUTHERN TELLER COUNTY SCHOOL/PUBLIC LIB DIST",
@@ -136,7 +144,8 @@
         "80813",
         "80816",
         "80860"
-      ]
+      ],
+      "id": "southern-teller-county-schoolpublic-lib-dist-co"
     },
     {
       "name": "STRATTON PUBLIC LIBRARY",
@@ -152,7 +161,8 @@
         "80805",
         "80836",
         "80861"
-      ]
+      ],
+      "id": "stratton-public-library-co-3"
     },
     {
       "name": "RAMPART REGIONAL LIBRARY DISTRICT",
@@ -164,7 +174,8 @@
       "zipcodes": [
         "80814",
         "80863"
-      ]
+      ],
+      "id": "rampart-regional-library-district-co"
     },
     {
       "name": "FLAGLER COMMUNITY LIBRARY",
@@ -176,7 +187,8 @@
       "zipcodes": [
         "80815",
         "80834"
-      ]
+      ],
+      "id": "flagler-community-library-co"
     },
     {
       "name": "EAST CHEYENNE COUNTY LIBRARY DISTRICT",
@@ -190,7 +202,8 @@
         "80810",
         "80825",
         "80862"
-      ]
+      ],
+      "id": "east-cheyenne-county-library-district-co"
     },
     {
       "name": "PARK COUNTY PUBLIC LIBRARY",
@@ -209,7 +222,8 @@
         "80456",
         "80820",
         "80827"
-      ]
+      ],
+      "id": "park-county-public-library-co-2"
     },
     {
       "name": "PIKES PEAK LIBRARY DISTRICT",
@@ -243,7 +257,8 @@
         "80920",
         "80921",
         "80922"
-      ]
+      ],
+      "id": "pikes-peak-library-district-co-2"
     },
     {
       "name": "SECURITY PUBLIC LIBRARY",
@@ -273,7 +288,8 @@
         "80928",
         "80929",
         "80930"
-      ]
+      ],
+      "id": "security-public-library-co"
     }
   ]
 }

@@ -12,7 +12,8 @@
         "69128",
         "69133",
         "69145"
-      ]
+      ],
+      "id": "kimball-public-library-sd-2"
     },
     {
       "name": "OSHKOSH PUBLIC LIBRARY",
@@ -29,7 +30,8 @@
         "54985",
         "69148",
         "69154"
-      ]
+      ],
+      "id": "oshkosh-public-library-wi-2"
     },
     {
       "name": "VALENTINE PUBLIC LIBRARY",
@@ -49,7 +51,8 @@
         "69219",
         "69220",
         "69221"
-      ]
+      ],
+      "id": "valentine-public-library-ne"
     },
     {
       "name": "DALTON PUBLIC LIBRARY",
@@ -62,7 +65,8 @@
         "03598",
         "69131",
         "69141"
-      ]
+      ],
+      "id": "dalton-public-library-nh-2"
     },
     {
       "name": "SIDNEY PUBLIC LIBRARY",
@@ -77,7 +81,8 @@
         "51652",
         "51654",
         "69162"
-      ]
+      ],
+      "id": "sidney-public-library-ia-2"
     },
     {
       "name": "ARTHUR COUNTY LIBRARY",
@@ -88,7 +93,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69121"
-      ]
+      ],
+      "id": "arthur-county-library-ne"
     },
     {
       "name": "BROADWATER PUBLIC LIBRARY",
@@ -99,7 +105,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69125"
-      ]
+      ],
+      "id": "broadwater-public-library-ne"
     },
     {
       "name": "CHAPPELL MEMORIAL LIBRARY & ART GALLERY",
@@ -110,7 +117,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69129"
-      ]
+      ],
+      "id": "chappell-memorial-library-art-gallery-ne"
     },
     {
       "name": "WILSON PUBLIC LIBRARY",
@@ -121,7 +129,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69130"
-      ]
+      ],
+      "id": "wilson-public-library-ne"
     },
     {
       "name": "GOTHENBURG PUBLIC LIBRARY",
@@ -132,7 +141,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69138"
-      ]
+      ],
+      "id": "gothenburg-public-library-ne"
     },
     {
       "name": "HASTINGS MEMORIAL LIBRARY",
@@ -146,7 +156,8 @@
         "69140",
         "69150",
         "69168"
-      ]
+      ],
+      "id": "hastings-memorial-library-ne"
     },
     {
       "name": "LEWELLEN PUBLIC LIBRARY",
@@ -157,7 +168,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69147"
-      ]
+      ],
+      "id": "lewellen-public-library-ne"
     },
     {
       "name": "NANCY FAWCETT MEMORIAL LIBRARY",
@@ -168,7 +180,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69149"
-      ]
+      ],
+      "id": "nancy-fawcett-memorial-library-ne"
     },
     {
       "name": "HOOKER COUNTY LIBRARY",
@@ -179,7 +192,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69152"
-      ]
+      ],
+      "id": "hooker-county-library-ne"
     },
     {
       "name": "NORTH PLATTE PUBLIC LIBRARY",
@@ -192,7 +206,8 @@
         "69101",
         "69123",
         "69151"
-      ]
+      ],
+      "id": "north-platte-public-library-ne"
     },
     {
       "name": "KATHLEEN LUTE PUBLIC LIBRARY",
@@ -206,7 +221,8 @@
         "69144",
         "69146",
         "69153"
-      ]
+      ],
+      "id": "kathleen-lute-public-library-ne"
     },
     {
       "name": "PAXTON PUBLIC LIBRARY",
@@ -217,7 +233,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69155"
-      ]
+      ],
+      "id": "paxton-public-library-ne"
     },
     {
       "name": "POTTER PUBLIC LIBRARY",
@@ -228,7 +245,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69156"
-      ]
+      ],
+      "id": "potter-public-library-ne"
     },
     {
       "name": "LOGAN COUNTY LIBRARY",
@@ -240,7 +258,8 @@
       "zipcodes": [
         "69163",
         "69167"
-      ]
+      ],
+      "id": "logan-county-library-ne"
     },
     {
       "name": "MAXINE WHITE SUTHERLAND PUBLIC LIBRARY",
@@ -252,7 +271,8 @@
       "zipcodes": [
         "69143",
         "69165"
-      ]
+      ],
+      "id": "maxine-white-sutherland-public-library-ne"
     },
     {
       "name": "BIG SPRINGS PUBLIC LIBRARY",
@@ -263,7 +283,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69122"
-      ]
+      ],
+      "id": "big-springs-public-library-ne"
     },
     {
       "name": "FAITH MEMORIAL LIBRARY",
@@ -276,7 +297,8 @@
         "69132",
         "69169",
         "69170"
-      ]
+      ],
+      "id": "faith-memorial-library-ne"
     },
     {
       "name": "FINCH MEMORIAL LIBRARY",
@@ -287,7 +309,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69120"
-      ]
+      ],
+      "id": "finch-memorial-library-ne"
     },
     {
       "name": "THOMAS COUNTY LIBRARY",
@@ -301,7 +324,8 @@
         "69142",
         "69161",
         "69166"
-      ]
+      ],
+      "id": "thomas-county-library-ne-2"
     }
   ]
 }

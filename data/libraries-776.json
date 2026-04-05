@@ -25,7 +25,8 @@
         "92868",
         "92869",
         "92887"
-      ]
+      ],
+      "id": "orange-public-library-ca"
     },
     {
       "name": "CHAMBERS COUNTY LIBRARY SYSTEM",
@@ -39,7 +40,8 @@
         "77560",
         "77597",
         "77665"
-      ]
+      ],
+      "id": "chambers-county-library-system-tx-2"
     },
     {
       "name": "ROSENBERG LIBRARY",
@@ -55,7 +57,8 @@
         "77617",
         "77623",
         "77650"
-      ]
+      ],
+      "id": "rosenberg-library-tx-2"
     },
     {
       "name": "NEWTON COUNTY PUBLIC LIBRARY",
@@ -74,7 +77,8 @@
         "75966",
         "75977",
         "77614"
-      ]
+      ],
+      "id": "newton-county-public-library-tx-3"
     },
     {
       "name": "ALLAN SHIVERS LIBRARY & MUSEUM",
@@ -92,7 +96,8 @@
         "77624",
         "77660",
         "77664"
-      ]
+      ],
+      "id": "allan-shivers-library-museum-tx-2"
     },
     {
       "name": "GROVES PUBLIC LIBRARY",
@@ -104,7 +109,8 @@
       "zipcodes": [
         "77619",
         "77640"
-      ]
+      ],
+      "id": "groves-public-library-tx"
     },
     {
       "name": "KOUNTZE PUBLIC LIBRARY",
@@ -118,7 +124,8 @@
         "77376",
         "77625",
         "77663"
-      ]
+      ],
+      "id": "kountze-public-library-tx-2"
     },
     {
       "name": "MARION & ED HUGHES PUBLIC LIBRARY",
@@ -132,7 +139,8 @@
         "77627",
         "77640",
         "77705"
-      ]
+      ],
+      "id": "marion-ed-hughes-public-library-tx"
     },
     {
       "name": "PORT ARTHUR PUBLIC LIBRARY",
@@ -145,7 +153,8 @@
         "77640",
         "77642",
         "77655"
-      ]
+      ],
+      "id": "port-arthur-public-library-tx"
     },
     {
       "name": "EFFIE & WILTON HEBERT PUBLIC LIBRARY",
@@ -156,7 +165,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "77651"
-      ]
+      ],
+      "id": "effie-wilton-hebert-public-library-tx"
     },
     {
       "name": "SILSBEE PUBLIC LIBRARY",
@@ -167,7 +177,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "77656"
-      ]
+      ],
+      "id": "silsbee-public-library-tx"
     },
     {
       "name": "ALMA M CARPENTER PUBLIC LIBRARY",
@@ -180,7 +191,8 @@
         "77519",
         "77585",
         "77659"
-      ]
+      ],
+      "id": "alma-m-carpenter-public-library-tx-2"
     },
     {
       "name": "VIDOR PUBLIC LIBRARY",
@@ -192,7 +204,8 @@
       "zipcodes": [
         "77630",
         "77662"
-      ]
+      ],
+      "id": "vidor-public-library-tx"
     },
     {
       "name": "BUNA PUBLIC LIBRARY",
@@ -204,7 +217,8 @@
       "zipcodes": [
         "77612",
         "77615"
-      ]
+      ],
+      "id": "buna-public-library-tx"
     },
     {
       "name": "BRIDGE CITY PUBLIC LIBRARY",
@@ -216,7 +230,8 @@
       "zipcodes": [
         "77611",
         "77630"
-      ]
+      ],
+      "id": "bridge-city-public-library-tx"
     },
     {
       "name": "LUMBERTON PUBLIC LIBRARY",
@@ -227,7 +242,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "77657"
-      ]
+      ],
+      "id": "lumberton-public-library-tx"
     },
     {
       "name": "BEAUMONT PUBLIC LIBRARY SYSTEM",
@@ -246,7 +262,8 @@
         "77707",
         "77708",
         "77713"
-      ]
+      ],
+      "id": "beaumont-public-library-system-tx"
     }
   ]
 }

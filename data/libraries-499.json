@@ -14,7 +14,8 @@
         "35244",
         "49911",
         "49959"
-      ]
+      ],
+      "id": "bessemer-public-library-mi-3"
     },
     {
       "name": "CALUMET PUBLIC-SCHOOL LIBRARY",
@@ -32,7 +33,8 @@
         "49934",
         "49942",
         "49950"
-      ]
+      ],
+      "id": "calumet-public-school-library-mi-2"
     },
     {
       "name": "CARP LAKE TOWNSHIP LIBRARY",
@@ -44,7 +46,8 @@
       "zipcodes": [
         "49910",
         "49971"
-      ]
+      ],
+      "id": "carp-lake-township-library-mi"
     },
     {
       "name": "CRYSTAL FALLS DISTRICT COMMUNITY LIBRARY",
@@ -56,7 +59,8 @@
       "zipcodes": [
         "49902",
         "49920"
-      ]
+      ],
+      "id": "crystal-falls-district-community-library-mi"
     },
     {
       "name": "IRONWOOD CARNEGIE LIBRARY",
@@ -68,7 +72,8 @@
       "zipcodes": [
         "49938",
         "49959"
-      ]
+      ],
+      "id": "ironwood-carnegie-library-mi"
     },
     {
       "name": "L`ANSE AREA SCHOOL-PUBLIC LIBRARY",
@@ -83,7 +88,8 @@
         "49946",
         "49962",
         "49970"
-      ]
+      ],
+      "id": "lanse-area-school-public-library-mi"
     },
     {
       "name": "LAKE LINDEN-HUBBELL SCHOOL PUBLIC LIBRARY",
@@ -99,7 +105,8 @@
         "49934",
         "49942",
         "49945"
-      ]
+      ],
+      "id": "lake-linden-hubbell-school-public-library-mi"
     },
     {
       "name": "MCMILLAN TOWNSHIP LIBRARY",
@@ -113,7 +120,8 @@
         "49925",
         "49948",
         "49967"
-      ]
+      ],
+      "id": "mcmillan-township-library-mi"
     },
     {
       "name": "ONTONAGON TOWNSHIP LIBRARY",
@@ -126,7 +134,8 @@
         "49929",
         "49953",
         "49960"
-      ]
+      ],
+      "id": "ontonagon-township-library-mi"
     },
     {
       "name": "OSCEOLA TOWNSHIP SCHOOL PUBLIC LIBRARY",
@@ -141,7 +150,8 @@
         "49922",
         "49930",
         "49934"
-      ]
+      ],
+      "id": "osceola-township-school-public-library-mi"
     },
     {
       "name": "PORTAGE LAKE DISTRICT LIBRARY",
@@ -162,7 +172,8 @@
         "49961",
         "49963",
         "49965"
-      ]
+      ],
+      "id": "portage-lake-district-library-mi"
     },
     {
       "name": "WAKEFIELD PUBLIC LIBRARY",
@@ -177,7 +188,8 @@
         "49968",
         "67458",
         "67487"
-      ]
+      ],
+      "id": "wakefield-public-library-mi-2"
     },
     {
       "name": "WEST IRON DISTRICT LIBRARY",
@@ -190,7 +202,8 @@
         "49915",
         "49927",
         "49935"
-      ]
+      ],
+      "id": "west-iron-district-library-mi"
     },
     {
       "name": "AMASA COMMUNITY LIBRARY",
@@ -201,7 +214,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49903"
-      ]
+      ],
+      "id": "amasa-community-library-mi"
     },
     {
       "name": "MARENISCO TOWNSHIP LIBRARY",
@@ -213,7 +227,8 @@
       "zipcodes": [
         "49947",
         "49969"
-      ]
+      ],
+      "id": "marenisco-township-library-mi"
     }
   ]
 }

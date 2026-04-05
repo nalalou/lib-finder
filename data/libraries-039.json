@@ -15,7 +15,8 @@
         "56051",
         "56068",
         "56097"
-      ]
+      ],
+      "id": "wells-public-library-me"
     },
     {
       "name": "WILLIAM FOGG PUBLIC LIBRARY",
@@ -27,7 +28,8 @@
       "zipcodes": [
         "03903",
         "03905"
-      ]
+      ],
+      "id": "william-fogg-public-library-me"
     },
     {
       "name": "RICE PUBLIC LIBRARY",
@@ -39,7 +41,8 @@
       "zipcodes": [
         "03904",
         "03905"
-      ]
+      ],
+      "id": "rice-public-library-me"
     },
     {
       "name": "D.A. HURD LIBRARY",
@@ -50,7 +53,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03906"
-      ]
+      ],
+      "id": "da-hurd-library-me"
     },
     {
       "name": "SOUTH BERWICK PUBLIC LIBRARY",
@@ -61,7 +65,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03908"
-      ]
+      ],
+      "id": "south-berwick-public-library-me"
     },
     {
       "name": "YORK PUBLIC LIBRARY",
@@ -74,7 +79,8 @@
         "03902",
         "03905",
         "03909"
-      ]
+      ],
+      "id": "york-public-library-me"
     },
     {
       "name": "BERWICK PUBLIC LIBRARY",
@@ -85,7 +91,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03901"
-      ]
+      ],
+      "id": "berwick-public-library-me"
     },
     {
       "name": "OGUNQUIT MEMORIAL LIBRARY",
@@ -97,7 +104,8 @@
       "zipcodes": [
         "03902",
         "03907"
-      ]
+      ],
+      "id": "ogunquit-memorial-library-me"
     }
   ]
 }

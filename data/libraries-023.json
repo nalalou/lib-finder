@@ -13,7 +13,8 @@
         "02763",
         "02766",
         "67654"
-      ]
+      ],
+      "id": "norton-public-library-ma-2"
     },
     {
       "name": "RAYNHAM PUBLIC LIBRARY",
@@ -26,7 +27,8 @@
         "02375",
         "02718",
         "02767"
-      ]
+      ],
+      "id": "raynham-public-library-ma"
     },
     {
       "name": "AVON PUBLIC LIBRARY",
@@ -40,7 +42,8 @@
         "02322",
         "02343",
         "57315"
-      ]
+      ],
+      "id": "avon-public-library-sd-2"
     },
     {
       "name": "HOLBROOK PUBLIC LIBRARY",
@@ -56,7 +59,8 @@
         "86025",
         "86031",
         "86032"
-      ]
+      ],
+      "id": "holbrook-public-library-az-2"
     },
     {
       "name": "PLYMOUTH PUBLIC LIBRARY",
@@ -82,7 +86,8 @@
         "53093",
         "68377",
         "68424"
-      ]
+      ],
+      "id": "plymouth-public-library-ne"
     },
     {
       "name": "STOUGHTON PUBLIC LIBRARY",
@@ -96,7 +101,8 @@
         "02072",
         "02322",
         "53589"
-      ]
+      ],
+      "id": "stoughton-public-library-wi-2"
     },
     {
       "name": "ABINGTON PUBLIC LIBRARY",
@@ -108,7 +114,8 @@
       "zipcodes": [
         "02302",
         "02351"
-      ]
+      ],
+      "id": "abington-public-library-ma"
     },
     {
       "name": "BRIDGEWATER PUBLIC LIBRARY",
@@ -119,7 +126,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02324"
-      ]
+      ],
+      "id": "bridgewater-public-library-ma"
     },
     {
       "name": "BROCKTON PUBLIC LIBRARY",
@@ -131,7 +139,8 @@
       "zipcodes": [
         "02301",
         "02302"
-      ]
+      ],
+      "id": "brockton-public-library-ma"
     },
     {
       "name": "CARVER PUBLIC LIBRARY",
@@ -144,7 +153,8 @@
         "02330",
         "02360",
         "02366"
-      ]
+      ],
+      "id": "carver-public-library-ma"
     },
     {
       "name": "DUXBURY FREE LIBRARY",
@@ -155,7 +165,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "02332"
-      ]
+      ],
+      "id": "duxbury-free-library-ma"
     },
     {
       "name": "EAST BRIDGEWATER PUBLIC LIBRARY",
@@ -166,7 +177,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02333"
-      ]
+      ],
+      "id": "east-bridgewater-public-library-ma"
     },
     {
       "name": "AMES FREE LIBRARY OF EASTON, INC.",
@@ -178,7 +190,8 @@
       "zipcodes": [
         "02356",
         "02375"
-      ]
+      ],
+      "id": "ames-free-library-of-easton-inc-ma"
     },
     {
       "name": "HOLMES PUBLIC LIBRARY",
@@ -189,7 +202,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02338"
-      ]
+      ],
+      "id": "holmes-public-library-ma"
     },
     {
       "name": "JOHN CURTIS FREE LIBRARY",
@@ -200,7 +214,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02339"
-      ]
+      ],
+      "id": "john-curtis-free-library-ma"
     },
     {
       "name": "HANSON PUBLIC LIBRARY",
@@ -211,7 +226,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "02341"
-      ]
+      ],
+      "id": "hanson-public-library-ma"
     },
     {
       "name": "KINGSTON PUBLIC LIBRARY",
@@ -224,7 +240,8 @@
         "02360",
         "02364",
         "37763"
-      ]
+      ],
+      "id": "kingston-public-library-ma"
     },
     {
       "name": "LAKEVILLE FREE PUBLIC LIBRARY",
@@ -235,7 +252,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02347"
-      ]
+      ],
+      "id": "lakeville-free-public-library-ma"
     },
     {
       "name": "MIDDLEBOROUGH PUBLIC LIBRARY",
@@ -246,7 +264,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02346"
-      ]
+      ],
+      "id": "middleborough-public-library-ma"
     },
     {
       "name": "PEMBROKE PUBLIC LIBRARY",
@@ -257,7 +276,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02359"
-      ]
+      ],
+      "id": "pembroke-public-library-ma"
     },
     {
       "name": "PLYMPTON PUBLIC LIBRARY",
@@ -268,7 +288,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02367"
-      ]
+      ],
+      "id": "plympton-public-library-ma"
     },
     {
       "name": "TURNER FREE LIBRARY",
@@ -281,7 +302,8 @@
         "02322",
         "02343",
         "02368"
-      ]
+      ],
+      "id": "turner-free-library-ma"
     },
     {
       "name": "ROCKLAND MEMORIAL LIBRARY",
@@ -292,7 +314,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02370"
-      ]
+      ],
+      "id": "rockland-memorial-library-ma"
     },
     {
       "name": "WEST BRIDGEWATER PUBLIC LIBRARY",
@@ -303,7 +326,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02379"
-      ]
+      ],
+      "id": "west-bridgewater-public-library-ma"
     },
     {
       "name": "WHITMAN PUBLIC LIBRARY",
@@ -315,7 +339,8 @@
       "zipcodes": [
         "02302",
         "02382"
-      ]
+      ],
+      "id": "whitman-public-library-ma"
     },
     {
       "name": "WAREHAM FREE LIBRARY",
@@ -330,7 +355,8 @@
         "02558",
         "02571",
         "02576"
-      ]
+      ],
+      "id": "wareham-free-library-ma"
     }
   ]
 }

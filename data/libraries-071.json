@@ -35,7 +35,8 @@
         "87412",
         "87413",
         "87415"
-      ]
+      ],
+      "id": "bloomfield-public-library-nj-4"
     },
     {
       "name": "EAST ORANGE PUBLIC LIBRARY",
@@ -55,7 +56,8 @@
         "07108",
         "07112",
         "07114"
-      ]
+      ],
+      "id": "east-orange-public-library-nj-2"
     },
     {
       "name": "SOUTH ORANGE PUBLIC LIBRARY",
@@ -67,7 +69,8 @@
       "zipcodes": [
         "07079",
         "07106"
-      ]
+      ],
+      "id": "south-orange-public-library-nj-2"
     },
     {
       "name": "BELLEVILLE PUBLIC LIBRARY",
@@ -88,7 +91,8 @@
         "62226",
         "66935",
         "66959"
-      ]
+      ],
+      "id": "belleville-public-library-nj"
     },
     {
       "name": "IRVINGTON PUBLIC LIBRARY",
@@ -104,7 +108,8 @@
         "07111",
         "07112",
         "07114"
-      ]
+      ],
+      "id": "irvington-public-library-nj"
     },
     {
       "name": "NEWARK PUBLIC LIBRARY",
@@ -126,7 +131,8 @@
         "14513",
         "76023",
         "76071"
-      ]
+      ],
+      "id": "newark-public-library-nj"
     },
     {
       "name": "NUTLEY FREE PUBLIC LIBRARY",
@@ -137,7 +143,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "07110"
-      ]
+      ],
+      "id": "nutley-free-public-library-nj"
     }
   ]
 }

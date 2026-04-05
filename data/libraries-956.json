@@ -13,7 +13,8 @@
         "95616",
         "95695",
         "95776"
-      ]
+      ],
+      "id": "woodland-public-library-me-2"
     },
     {
       "name": "SOLANO COUNTY LIBRARY",
@@ -28,7 +29,8 @@
         "94585",
         "95687",
         "95688"
-      ]
+      ],
+      "id": "solano-county-library-ca-2"
     },
     {
       "name": "SOLANO COUNTY LAW LIBRARY",
@@ -46,7 +48,8 @@
         "95620",
         "95625",
         "95687"
-      ]
+      ],
+      "id": "solano-county-law-library-ca-2"
     },
     {
       "name": "LODI PUBLIC LIBRARY",
@@ -67,7 +70,8 @@
         "95242",
         "95258",
         "95686"
-      ]
+      ],
+      "id": "lodi-public-library-ca-2"
     },
     {
       "name": "SUTTER COUNTY LIBRARY",
@@ -85,7 +89,8 @@
         "95982",
         "95991",
         "95993"
-      ]
+      ],
+      "id": "sutter-county-library-ca"
     },
     {
       "name": "YUBA COUNTY LIBRARY",
@@ -106,7 +111,8 @@
         "95961",
         "95962",
         "95981"
-      ]
+      ],
+      "id": "yuba-county-library-ca"
     },
     {
       "name": "LINCOLN PUBLIC LIBRARY",
@@ -135,7 +141,8 @@
         "95746",
         "95747",
         "95765"
-      ]
+      ],
+      "id": "lincoln-public-library-ma-6"
     },
     {
       "name": "SACRAMENTO PUBLIC LIBRARY",
@@ -179,7 +186,8 @@
         "95838",
         "95841",
         "95864"
-      ]
+      ],
+      "id": "sacramento-public-library-ca"
     },
     {
       "name": "SACRAMENTO COUNTY PUBLIC LAW LIBRARY",
@@ -217,7 +225,8 @@
         "95838",
         "95841",
         "95864"
-      ]
+      ],
+      "id": "sacramento-county-public-law-library-ca"
     },
     {
       "name": "ALPINE COUNTY LIBRARY/ARCHIVES",
@@ -229,7 +238,8 @@
       "zipcodes": [
         "95646",
         "96120"
-      ]
+      ],
+      "id": "alpine-county-libraryarchives-ca"
     },
     {
       "name": "FOLSOM PUBLIC LIBRARY",
@@ -254,7 +264,8 @@
         "95841",
         "95842",
         "95843"
-      ]
+      ],
+      "id": "folsom-public-library-ca"
     },
     {
       "name": "PLACER COUNTY LIBRARY",
@@ -281,7 +292,8 @@
         "96143",
         "96146",
         "96148"
-      ]
+      ],
+      "id": "placer-county-library-ca"
     },
     {
       "name": "EL DORADO COUNTY LAW LIBRARY",
@@ -308,7 +320,8 @@
         "95735",
         "96142",
         "96150"
-      ]
+      ],
+      "id": "el-dorado-county-law-library-ca"
     },
     {
       "name": "SPARKS LAW LIBRARY OF PLACER COUNTY",
@@ -326,7 +339,8 @@
         "95722",
         "96141",
         "96145"
-      ]
+      ],
+      "id": "sparks-law-library-of-placer-county-ca"
     },
     {
       "name": "ROSEVILLE PUBLIC LIBRARY",
@@ -347,7 +361,8 @@
         "95746",
         "95747",
         "95765"
-      ]
+      ],
+      "id": "roseville-public-library-mi-2"
     },
     {
       "name": "EL DORADO COUNTY LIBRARY",
@@ -370,7 +385,8 @@
         "95682",
         "95709",
         "95762"
-      ]
+      ],
+      "id": "el-dorado-county-library-ca"
     },
     {
       "name": "LOOMIS LIBRARY & COMMUNITY LEARNING CENTER",
@@ -391,7 +407,8 @@
         "95678",
         "95746",
         "95765"
-      ]
+      ],
+      "id": "loomis-library-community-learning-center-ca"
     },
     {
       "name": "YOLO COUNTY LIBRARY",
@@ -412,7 +429,8 @@
         "95694",
         "95695",
         "95776"
-      ]
+      ],
+      "id": "yolo-county-library-ca"
     },
     {
       "name": "YOLO COUNTY LAW LIBRARY",
@@ -429,7 +447,8 @@
         "95691",
         "95695",
         "95776"
-      ]
+      ],
+      "id": "yolo-county-law-library-ca"
     },
     {
       "name": "AMADOR COUNTY LIBRARY",
@@ -449,7 +468,8 @@
         "95675",
         "95685",
         "95689"
-      ]
+      ],
+      "id": "amador-county-library-ca"
     }
   ]
 }

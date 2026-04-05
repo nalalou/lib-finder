@@ -12,7 +12,8 @@
         "49627",
         "49648",
         "49729"
-      ]
+      ],
+      "id": "central-lake-district-library-mi-2"
     },
     {
       "name": "MANCELONA TOWNSHIP LIBRARY",
@@ -25,7 +26,8 @@
         "49611",
         "49659",
         "49730"
-      ]
+      ],
+      "id": "mancelona-township-library-mi-2"
     },
     {
       "name": "SUPERIOR DISTRICT LIBRARY",
@@ -46,7 +48,8 @@
         "49780",
         "49783",
         "49788"
-      ]
+      ],
+      "id": "superior-district-library-mi"
     },
     {
       "name": "BEAVER ISLAND DISTRICT LIBRARY",
@@ -57,7 +60,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49782"
-      ]
+      ],
+      "id": "beaver-island-district-library-mi"
     },
     {
       "name": "BOYNE DISTRICT LIBRARY",
@@ -69,7 +73,8 @@
       "zipcodes": [
         "49712",
         "49713"
-      ]
+      ],
+      "id": "boyne-district-library-mi"
     },
     {
       "name": "CHARLEVOIX PUBLIC LIBRARY",
@@ -80,7 +85,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "49720"
-      ]
+      ],
+      "id": "charlevoix-public-library-mi"
     },
     {
       "name": "CHEBOYGAN AREA PUBLIC LIBRARY",
@@ -91,7 +97,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49721"
-      ]
+      ],
+      "id": "cheboygan-area-public-library-mi"
     },
     {
       "name": "CRAWFORD COUNTY LIBRARY",
@@ -110,7 +117,8 @@
         "65456",
         "65535",
         "65565"
-      ]
+      ],
+      "id": "crawford-county-library-mi"
     },
     {
       "name": "CROOKED TREE DISTRICT LIBRARY",
@@ -122,7 +130,8 @@
       "zipcodes": [
         "49713",
         "49796"
-      ]
+      ],
+      "id": "crooked-tree-district-library-mi"
     },
     {
       "name": "INDIAN RIVER AREA LIBRARY",
@@ -134,7 +143,8 @@
       "zipcodes": [
         "49705",
         "49749"
-      ]
+      ],
+      "id": "indian-river-area-library-mi"
     },
     {
       "name": "JORDAN VALLEY DISTRICT LIBRARY",
@@ -145,7 +155,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49727"
-      ]
+      ],
+      "id": "jordan-valley-district-library-mi"
     },
     {
       "name": "MACKINAC ISLAND PUBLIC LIBRARY",
@@ -159,7 +170,8 @@
         "49745",
         "49757",
         "49775"
-      ]
+      ],
+      "id": "mackinac-island-public-library-mi"
     },
     {
       "name": "MACKINAW AREA PUBLIC LIBRARY",
@@ -172,7 +184,8 @@
         "49701",
         "49718",
         "49755"
-      ]
+      ],
+      "id": "mackinaw-area-public-library-mi"
     },
     {
       "name": "MONTMORENCY COUNTY PUBLIC LIBRARIES",
@@ -185,7 +198,8 @@
         "49709",
         "49746",
         "49756"
-      ]
+      ],
+      "id": "montmorency-county-public-libraries-mi"
     },
     {
       "name": "OTSEGO COUNTY LIBRARY",
@@ -198,7 +212,8 @@
         "49735",
         "49751",
         "49795"
-      ]
+      ],
+      "id": "otsego-county-library-mi"
     },
     {
       "name": "PETOSKEY DISTRICT LIBRARY",
@@ -212,7 +227,8 @@
         "49740",
         "49764",
         "49770"
-      ]
+      ],
+      "id": "petoskey-district-library-mi"
     },
     {
       "name": "PRESQUE ISLE DISTRICT LIBRARY",
@@ -228,7 +244,8 @@
         "49776",
         "49777",
         "49779"
-      ]
+      ],
+      "id": "presque-isle-district-library-mi"
     },
     {
       "name": "SAINT IGNACE PUBLIC LIBRARY",
@@ -244,7 +261,8 @@
         "49820",
         "49827",
         "49838"
-      ]
+      ],
+      "id": "saint-ignace-public-library-mi"
     },
     {
       "name": "TOPINABEE PUBLIC LIBRARY",
@@ -255,7 +273,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49791"
-      ]
+      ],
+      "id": "topinabee-public-library-mi"
     },
     {
       "name": "WHITEFISH TOWNSHIP COMMUNITY LIBRARY",
@@ -269,7 +288,8 @@
         "49748",
         "49768",
         "49793"
-      ]
+      ],
+      "id": "whitefish-township-community-library-mi"
     },
     {
       "name": "WOLVERINE COMMUNITY LIBRARY",
@@ -281,7 +301,8 @@
       "zipcodes": [
         "49705",
         "49799"
-      ]
+      ],
+      "id": "wolverine-community-library-mi"
     },
     {
       "name": "ALANSON AREA PUBLIC LIBRARY",
@@ -296,7 +317,8 @@
         "49722",
         "49764",
         "49769"
-      ]
+      ],
+      "id": "alanson-area-public-library-mi"
     },
     {
       "name": "ALPENA COUNTY LIBRARY",
@@ -311,7 +333,8 @@
         "49747",
         "49753",
         "49766"
-      ]
+      ],
+      "id": "alpena-county-library-mi"
     }
   ]
 }

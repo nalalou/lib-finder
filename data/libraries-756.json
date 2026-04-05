@@ -15,7 +15,8 @@
         "75605",
         "75641",
         "98632"
-      ]
+      ],
+      "id": "longview-public-library-wa"
     },
     {
       "name": "UPSHUR COUNTY LIBRARY",
@@ -29,7 +30,8 @@
         "75644",
         "75683",
         "75755"
-      ]
+      ],
+      "id": "upshur-county-library-tx"
     },
     {
       "name": "LEE-BARDWELL PUBLIC LIBRARY",
@@ -41,7 +43,8 @@
       "zipcodes": [
         "75604",
         "75647"
-      ]
+      ],
+      "id": "lee-bardwell-public-library-tx"
     },
     {
       "name": "RUSK COUNTY LIBRARY SYSTEM",
@@ -58,7 +61,8 @@
         "75684",
         "75691",
         "75784"
-      ]
+      ],
+      "id": "rusk-county-library-system-tx"
     },
     {
       "name": "KILGORE PUBLIC LIBRARY",
@@ -70,7 +74,8 @@
       "zipcodes": [
         "75603",
         "75662"
-      ]
+      ],
+      "id": "kilgore-public-library-tx"
     },
     {
       "name": "MARSHALL PUBLIC LIBRARY",
@@ -90,7 +95,8 @@
         "75651",
         "75670",
         "75672"
-      ]
+      ],
+      "id": "marshall-public-library-tx-3"
     },
     {
       "name": "PITTSBURG-CAMP COUNTY PUBLIC LIBRARY",
@@ -102,7 +108,8 @@
       "zipcodes": [
         "75451",
         "75686"
-      ]
+      ],
+      "id": "pittsburg-camp-county-public-library-tx-2"
     },
     {
       "name": "SAMMY BROWN LIBRARY",
@@ -117,7 +124,8 @@
         "75639",
         "75643",
         "75669"
-      ]
+      ],
+      "id": "sammy-brown-library-tx"
     },
     {
       "name": "DAINGERFIELD PUBLIC LIBRARY",
@@ -131,7 +139,8 @@
         "75571",
         "75638",
         "75668"
-      ]
+      ],
+      "id": "daingerfield-public-library-tx-2"
     },
     {
       "name": "JEFFERSON CARNEGIE LIBRARY",
@@ -143,7 +152,8 @@
       "zipcodes": [
         "75630",
         "75657"
-      ]
+      ],
+      "id": "jefferson-carnegie-library-tx"
     },
     {
       "name": "WHITE OAK SCHOOL COMMUNITY LIBRARY",
@@ -157,7 +167,8 @@
         "75604",
         "75605",
         "75693"
-      ]
+      ],
+      "id": "white-oak-school-community-library-tx"
     },
     {
       "name": "WASKOM PUBLIC LIBRARY",
@@ -169,7 +180,8 @@
       "zipcodes": [
         "75661",
         "75692"
-      ]
+      ],
+      "id": "waskom-public-library-tx"
     },
     {
       "name": "HUGHES SPRINGS AREA PUBLIC LIBRARY",
@@ -180,7 +192,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "75656"
-      ]
+      ],
+      "id": "hughes-springs-area-public-library-tx"
     }
   ]
 }

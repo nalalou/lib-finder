@@ -20,7 +20,8 @@
         "74960",
         "74964",
         "74965"
-      ]
+      ],
+      "id": "locust-grove-public-library-ok"
     },
     {
       "name": "SALINA PUBLIC LIBRARY",
@@ -40,7 +41,8 @@
         "84620",
         "84652",
         "84654"
-      ]
+      ],
+      "id": "salina-public-library-ut-2"
     },
     {
       "name": "MIAMI PUBLIC LIBRARY",
@@ -57,7 +59,8 @@
         "74360",
         "74363",
         "74370"
-      ]
+      ],
+      "id": "miami-public-library-ok"
     },
     {
       "name": "PRYOR - THOMAS J HARRISON PUBLIC LIBRARY",
@@ -68,7 +71,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "74361"
-      ]
+      ],
+      "id": "pryor---thomas-j-harrison-public-library-ok"
     },
     {
       "name": "VINITA PUBLIC LIBRARY",
@@ -84,7 +88,8 @@
         "74333",
         "74349",
         "74369"
-      ]
+      ],
+      "id": "vinita-public-library-ok"
     },
     {
       "name": "LANGLEY PUBLIC LIBRARY",
@@ -102,7 +107,8 @@
         "74350",
         "74366",
         "74367"
-      ]
+      ],
+      "id": "langley-public-library-ok"
     },
     {
       "name": "CHOUTEAU PUBLIC LIBRARY",
@@ -114,7 +120,8 @@
       "zipcodes": [
         "74337",
         "74352"
-      ]
+      ],
+      "id": "chouteau-public-library-ok"
     }
   ]
 }

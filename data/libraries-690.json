@@ -11,7 +11,8 @@
         "68926",
         "68946",
         "69046"
-      ]
+      ],
+      "id": "beaver-city-public-library-ne-2"
     },
     {
       "name": "STRATTON PUBLIC LIBRARY",
@@ -27,7 +28,8 @@
         "80805",
         "80836",
         "80861"
-      ]
+      ],
+      "id": "stratton-public-library-co-2"
     },
     {
       "name": "INDIANOLA PUBLIC LIBRARY",
@@ -42,7 +44,8 @@
         "50160",
         "69026",
         "69034"
-      ]
+      ],
+      "id": "indianola-public-library-ia-3"
     },
     {
       "name": "BARTLEY PUBLIC LIBRARY",
@@ -55,7 +58,8 @@
         "69020",
         "69034",
         "69036"
-      ]
+      ],
+      "id": "bartley-public-library-ne"
     },
     {
       "name": "BUTLER MEMORIAL LIBRARY",
@@ -67,7 +71,8 @@
       "zipcodes": [
         "68948",
         "69022"
-      ]
+      ],
+      "id": "butler-memorial-library-ne-2"
     },
     {
       "name": "CULBERTSON PUBLIC LIBRARY",
@@ -78,7 +83,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69024"
-      ]
+      ],
+      "id": "culbertson-public-library-ne"
     },
     {
       "name": "KLYTE BURT MEMORIAL LIBRARY",
@@ -92,7 +98,8 @@
         "69038",
         "69039",
         "69042"
-      ]
+      ],
+      "id": "klyte-burt-memorial-library-ne"
     },
     {
       "name": "EUSTIS PUBLIC LIBRARY",
@@ -103,7 +110,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69028"
-      ]
+      ],
+      "id": "eustis-public-library-ne"
     },
     {
       "name": "FARNAM PUBLIC LIBRARY",
@@ -114,7 +122,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69029"
-      ]
+      ],
+      "id": "farnam-public-library-ne"
     },
     {
       "name": "HAYES CENTER PUBLIC LIBRARY",
@@ -125,7 +134,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69032"
-      ]
+      ],
+      "id": "hayes-center-public-library-ne"
     },
     {
       "name": "LIED IMPERIAL PUBLIC LIBRARY",
@@ -138,7 +148,8 @@
         "69023",
         "69027",
         "69033"
-      ]
+      ],
+      "id": "lied-imperial-public-library-ne"
     },
     {
       "name": "MCCOOK PUBLIC LIBRARY",
@@ -149,7 +160,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69001"
-      ]
+      ],
+      "id": "mccook-public-library-ne"
     },
     {
       "name": "PALISADE PUBLIC LIBRARY",
@@ -160,7 +172,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69040"
-      ]
+      ],
+      "id": "palisade-public-library-ne"
     },
     {
       "name": "TRENTON PUBLIC LIBRARY",
@@ -175,7 +188,8 @@
         "62266",
         "62293",
         "69044"
-      ]
+      ],
+      "id": "trenton-public-library-ne-2"
     },
     {
       "name": "WAUNETA PUBLIC LIBRARY",
@@ -187,7 +201,8 @@
       "zipcodes": [
         "69027",
         "69045"
-      ]
+      ],
+      "id": "wauneta-public-library-ne"
     },
     {
       "name": "DUNDY COUNTY LIBRARY",
@@ -201,7 +216,8 @@
         "69030",
         "69037",
         "69041"
-      ]
+      ],
+      "id": "dundy-county-library-ne"
     }
   ]
 }

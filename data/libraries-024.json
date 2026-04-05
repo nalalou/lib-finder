@@ -23,7 +23,8 @@
         "53505",
         "53546",
         "53563"
-      ]
+      ],
+      "id": "milton-public-library-pa-2"
     },
     {
       "name": "BROOKLINE PUBLIC LIBRARY",
@@ -37,7 +38,8 @@
         "02445",
         "02446",
         "03033"
-      ]
+      ],
+      "id": "brookline-public-library-nh-2"
     },
     {
       "name": "CAMBRIDGE PUBLIC LIBRARY",
@@ -58,7 +60,8 @@
         "12057",
         "12816",
         "12873"
-      ]
+      ],
+      "id": "cambridge-public-library-ma-2"
     },
     {
       "name": "CHARLOTTE AND WILLIAM BLOOMBERG MEDFORD PUBLIC LIBRARY",
@@ -71,7 +74,8 @@
         "02144",
         "02155",
         "02474"
-      ]
+      ],
+      "id": "charlotte-and-william-bloomberg-medford-public-library-ma-2"
     },
     {
       "name": "LINCOLN PUBLIC LIBRARY",
@@ -100,7 +104,8 @@
         "95746",
         "95747",
         "95765"
-      ]
+      ],
+      "id": "lincoln-public-library-ma-2"
     },
     {
       "name": "WAYLAND FREE PUBLIC LIBRARY",
@@ -112,7 +117,8 @@
       "zipcodes": [
         "01778",
         "02493"
-      ]
+      ],
+      "id": "wayland-free-public-library-ma-2"
     },
     {
       "name": "WESTON PUBLIC LIBRARY",
@@ -136,7 +142,8 @@
         "43565",
         "43569",
         "97886"
-      ]
+      ],
+      "id": "weston-public-library-or"
     },
     {
       "name": "DOVER TOWN LIBRARY",
@@ -149,7 +156,8 @@
         "02030",
         "02481",
         "02492"
-      ]
+      ],
+      "id": "dover-town-library-ma-2"
     },
     {
       "name": "ROBBINS LIBRARY",
@@ -163,7 +171,8 @@
         "02140",
         "02474",
         "02476"
-      ]
+      ],
+      "id": "robbins-library-ma-3"
     },
     {
       "name": "BELMONT PUBLIC LIBRARY",
@@ -179,7 +188,8 @@
         "02474",
         "02478",
         "03220"
-      ]
+      ],
+      "id": "belmont-public-library-ma-2"
     },
     {
       "name": "CARY MEMORIAL LIBRARY",
@@ -193,7 +203,8 @@
         "01803",
         "02420",
         "02421"
-      ]
+      ],
+      "id": "cary-memorial-library-ma-3"
     },
     {
       "name": "NEEDHAM FREE PUBLIC LIBRARY",
@@ -208,7 +219,8 @@
         "02481",
         "02492",
         "02494"
-      ]
+      ],
+      "id": "needham-free-public-library-ma"
     },
     {
       "name": "NEWTON FREE LIBRARY",
@@ -228,7 +240,8 @@
         "02466",
         "02467",
         "02468"
-      ]
+      ],
+      "id": "newton-free-library-ma"
     },
     {
       "name": "WALTHAM PUBLIC LIBRARY",
@@ -250,7 +263,8 @@
         "02466",
         "02468",
         "02493"
-      ]
+      ],
+      "id": "waltham-public-library-ma"
     },
     {
       "name": "WATERTOWN FREE PUBLIC LIBRARY",
@@ -270,7 +284,8 @@
         "02467",
         "02468",
         "02472"
-      ]
+      ],
+      "id": "watertown-free-public-library-ma"
     },
     {
       "name": "WELLESLEY FREE LIBRARY",
@@ -283,7 +298,8 @@
         "02481",
         "02482",
         "02492"
-      ]
+      ],
+      "id": "wellesley-free-library-ma"
     }
   ]
 }

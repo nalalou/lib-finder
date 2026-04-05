@@ -18,7 +18,8 @@
         "76888",
         "79519",
         "79538"
-      ]
+      ],
+      "id": "coleman-public-library-tx-2"
     },
     {
       "name": "HOWARD COUNTY LIBRARY",
@@ -32,7 +33,8 @@
         "79720",
         "79733",
         "79748"
-      ]
+      ],
+      "id": "howard-county-library-tx"
     },
     {
       "name": "ABILENE PUBLIC LIBRARY",
@@ -54,7 +56,8 @@
         "79605",
         "79606",
         "79607"
-      ]
+      ],
+      "id": "abilene-public-library-tx-2"
     },
     {
       "name": "MUNDAY CITY-COUNTY LIBRARY",
@@ -68,7 +71,8 @@
         "76371",
         "79505",
         "79529"
-      ]
+      ],
+      "id": "munday-city-county-library-tx-2"
     },
     {
       "name": "ANSON PUBLIC LIBRARY",
@@ -81,7 +85,8 @@
         "79501",
         "79520",
         "79525"
-      ]
+      ],
+      "id": "anson-public-library-tx"
     },
     {
       "name": "STONEWALL COUNTY LIBRARY",
@@ -93,7 +98,8 @@
       "zipcodes": [
         "79502",
         "79540"
-      ]
+      ],
+      "id": "stonewall-county-library-tx"
     },
     {
       "name": "HASKELL COUNTY LIBRARY",
@@ -109,7 +115,8 @@
         "79544",
         "79547",
         "79548"
-      ]
+      ],
+      "id": "haskell-county-library-tx-2"
     },
     {
       "name": "KENT COUNTY LIBRARY",
@@ -121,7 +128,8 @@
       "zipcodes": [
         "79518",
         "79528"
-      ]
+      ],
+      "id": "kent-county-library-tx"
     },
     {
       "name": "ROTAN PUBLIC LIBRARY",
@@ -135,7 +143,8 @@
         "79543",
         "79546",
         "79560"
-      ]
+      ],
+      "id": "rotan-public-library-tx"
     },
     {
       "name": "SCURRY COUNTY LIBRARY",
@@ -149,7 +158,8 @@
         "79526",
         "79527",
         "79549"
-      ]
+      ],
+      "id": "scurry-county-library-tx"
     },
     {
       "name": "STAMFORD CARNEGIE LIBRARY",
@@ -162,7 +172,8 @@
         "79503",
         "79533",
         "79553"
-      ]
+      ],
+      "id": "stamford-carnegie-library-tx"
     },
     {
       "name": "COUNTY-CITY LIBRARY",
@@ -177,7 +188,8 @@
         "79537",
         "79545",
         "79556"
-      ]
+      ],
+      "id": "county-city-library-tx"
     },
     {
       "name": "WINTERS PUBLIC LIBRARY",
@@ -190,7 +202,8 @@
         "76865",
         "79566",
         "79567"
-      ]
+      ],
+      "id": "winters-public-library-tx-2"
     },
     {
       "name": "CLYDE PUBLIC LIBRARY",
@@ -205,7 +218,8 @@
         "44811",
         "79504",
         "79510"
-      ]
+      ],
+      "id": "clyde-public-library-tx-3"
     },
     {
       "name": "MITCHELL COUNTY PUBLIC LIBRARY",
@@ -218,7 +232,8 @@
         "79512",
         "79532",
         "79565"
-      ]
+      ],
+      "id": "mitchell-county-public-library-tx"
     },
     {
       "name": "MERKEL PUBLIC LIBRARY",
@@ -232,7 +247,8 @@
         "79561",
         "79563",
         "79603"
-      ]
+      ],
+      "id": "merkel-public-library-tx"
     }
   ]
 }

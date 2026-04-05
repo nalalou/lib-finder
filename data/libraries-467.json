@@ -21,7 +21,8 @@
         "48093",
         "48310",
         "48312"
-      ]
+      ],
+      "id": "warren-public-library-ct-3"
     },
     {
       "name": "FREMONT PUBLIC LIBRARY",
@@ -33,7 +34,8 @@
       "zipcodes": [
         "03044",
         "46737"
-      ]
+      ],
+      "id": "fremont-public-library-nh-2"
     },
     {
       "name": "ALLEN COUNTY PUBLIC LIBRARY",
@@ -72,7 +74,8 @@
         "46825",
         "46835",
         "46845"
-      ]
+      ],
+      "id": "allen-county-public-library-ky-2"
     },
     {
       "name": "BERNE PUBLIC LIBRARY",
@@ -87,7 +90,8 @@
         "46711",
         "46740",
         "46772"
-      ]
+      ],
+      "id": "berne-public-library-in-2"
     },
     {
       "name": "GARRETT PUBLIC LIBRARY",
@@ -99,7 +103,8 @@
       "zipcodes": [
         "46730",
         "46738"
-      ]
+      ],
+      "id": "garrett-public-library-in"
     },
     {
       "name": "ECKHART PUBLIC LIBRARY",
@@ -111,7 +116,8 @@
       "zipcodes": [
         "46706",
         "46785"
-      ]
+      ],
+      "id": "eckhart-public-library-in"
     },
     {
       "name": "WATERLOO-GRANT TOWNSHIP PUBLIC LIBRARY",
@@ -124,7 +130,8 @@
         "46705",
         "46730",
         "46793"
-      ]
+      ],
+      "id": "waterloo-grant-township-public-library-in"
     },
     {
       "name": "BUTLER PUBLIC LIBRARY",
@@ -140,7 +147,8 @@
         "53007",
         "53045",
         "53046"
-      ]
+      ],
+      "id": "butler-public-library-in"
     },
     {
       "name": "ANDREWS-DALLAS TOWNSHIP PUBLIC LIBRARY",
@@ -151,7 +159,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46702"
-      ]
+      ],
+      "id": "andrews-dallas-township-public-library-in"
     },
     {
       "name": "ROANOKE PUBLIC LIBRARY",
@@ -163,7 +172,8 @@
       "zipcodes": [
         "46783",
         "76262"
-      ]
+      ],
+      "id": "roanoke-public-library-in"
     },
     {
       "name": "HUNTINGTON CITY-TOWNSHIP PUBLIC LIBRARY",
@@ -174,7 +184,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "46750"
-      ]
+      ],
+      "id": "huntington-city-township-public-library-in"
     },
     {
       "name": "LA GRANGE COUNTY PUBLIC LIBRARY",
@@ -189,7 +200,8 @@
         "46746",
         "46761",
         "46795"
-      ]
+      ],
+      "id": "la-grange-county-public-library-in-2"
     },
     {
       "name": "LIGONIER PUBLIC LIBRARY",
@@ -203,7 +215,8 @@
         "46760",
         "46767",
         "46794"
-      ]
+      ],
+      "id": "ligonier-public-library-in"
     },
     {
       "name": "NOBLE COUNTY PUBLIC LIBRARY",
@@ -218,7 +231,8 @@
         "46760",
         "46784",
         "46794"
-      ]
+      ],
+      "id": "noble-county-public-library-in"
     },
     {
       "name": "KENDALLVILLE PUBLIC LIBRARY",
@@ -233,7 +247,8 @@
         "46755",
         "46763",
         "46784"
-      ]
+      ],
+      "id": "kendallville-public-library-in"
     },
     {
       "name": "CARNEGIE PUBLIC LIBRARY OF STEUBEN COUNTY",
@@ -249,7 +264,8 @@
         "46742",
         "46747",
         "46779"
-      ]
+      ],
+      "id": "carnegie-public-library-of-steuben-county-in"
     },
     {
       "name": "WELLS COUNTY PUBLIC LIBRARY",
@@ -268,7 +284,8 @@
         "46781",
         "46791",
         "46799"
-      ]
+      ],
+      "id": "wells-county-public-library-in"
     },
     {
       "name": "SOUTH WHITLEY COMMUNITY PUBLIC LIBRARY",
@@ -280,7 +297,8 @@
       "zipcodes": [
         "46764",
         "46787"
-      ]
+      ],
+      "id": "south-whitley-community-public-library-in"
     },
     {
       "name": "PEABODY PUBLIC LIBRARY",
@@ -292,7 +310,8 @@
       "zipcodes": [
         "46725",
         "46764"
-      ]
+      ],
+      "id": "peabody-public-library-in"
     },
     {
       "name": "CHURUBUSCO PUBLIC LIBRARY",
@@ -303,7 +322,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46723"
-      ]
+      ],
+      "id": "churubusco-public-library-in"
     },
     {
       "name": "JOYCE PUBLIC LIBRARY",
@@ -314,7 +334,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46776"
-      ]
+      ],
+      "id": "joyce-public-library-in"
     },
     {
       "name": "ADAMS PUBLIC LIBRARY SYSTEM",
@@ -326,7 +347,8 @@
       "zipcodes": [
         "46733",
         "46772"
-      ]
+      ],
+      "id": "adams-public-library-system-in"
     }
   ]
 }

@@ -25,7 +25,8 @@
         "48380",
         "48381",
         "84751"
-      ]
+      ],
+      "id": "milford-public-library-nj-7"
     },
     {
       "name": "MINERSVILLE PUBLIC LIBRARY",
@@ -46,7 +47,8 @@
         "17974",
         "84731",
         "84752"
-      ]
+      ],
+      "id": "minersville-public-library-pa-2"
     },
     {
       "name": "MONROE PUBLIC LIBRARY",
@@ -70,7 +72,8 @@
         "84744",
         "84754",
         "84766"
-      ]
+      ],
+      "id": "monroe-public-library-nh-6"
     },
     {
       "name": "BEAVER PUBLIC LIBRARY",
@@ -81,7 +84,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "84713"
-      ]
+      ],
+      "id": "beaver-public-library-ut"
     },
     {
       "name": "PANGUITCH CITY LIBRARY",
@@ -92,7 +96,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "84759"
-      ]
+      ],
+      "id": "panguitch-city-library-ut"
     },
     {
       "name": "IRON COUNTY BOOKMOBILE LIBRARY",
@@ -106,7 +111,8 @@
         "84721",
         "84753",
         "84772"
-      ]
+      ],
+      "id": "iron-county-bookmobile-library-ut"
     },
     {
       "name": "CEDAR CITY PUBLIC LIBRARY",
@@ -119,7 +125,8 @@
         "84720",
         "84721",
         "84772"
-      ]
+      ],
+      "id": "cedar-city-public-library-ut"
     },
     {
       "name": "PAROWAN PUBLIC LIBRARY",
@@ -133,7 +140,8 @@
         "84760",
         "84761",
         "84772"
-      ]
+      ],
+      "id": "parowan-public-library-ut"
     },
     {
       "name": "JUAB COUNTY BOOKMOBILE LIBRARY",
@@ -144,7 +152,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "84715"
-      ]
+      ],
+      "id": "juab-county-bookmobile-library-ut"
     },
     {
       "name": "KANE COUNTY BOOKMOBILE LIBRARY",
@@ -157,7 +166,8 @@
         "84710",
         "84759",
         "84762"
-      ]
+      ],
+      "id": "kane-county-bookmobile-library-ut"
     },
     {
       "name": "KANAB CITY LIBRARY",
@@ -171,7 +181,8 @@
         "84741",
         "84755",
         "84758"
-      ]
+      ],
+      "id": "kanab-city-library-ut"
     },
     {
       "name": "PIUTE COUNTY BOOKMOBILE LIBRARY",
@@ -187,7 +198,8 @@
         "84740",
         "84743",
         "84750"
-      ]
+      ],
+      "id": "piute-county-bookmobile-library-ut"
     },
     {
       "name": "SEVIER COUNTY BOOKMOBILE LIBRARY",
@@ -198,7 +210,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "84715"
-      ]
+      ],
+      "id": "sevier-county-bookmobile-library-ut"
     },
     {
       "name": "RICHFIELD PUBLIC LIBRARY",
@@ -213,7 +226,8 @@
         "84711",
         "84724",
         "84730"
-      ]
+      ],
+      "id": "richfield-public-library-ut-2"
     },
     {
       "name": "WASHINGTON COUNTY LIBRARY SYSTEM",
@@ -253,7 +267,8 @@
         "84782",
         "84783",
         "84790"
-      ]
+      ],
+      "id": "washington-county-library-system-ut-3"
     },
     {
       "name": "WAYNE COUNTY BOOKMOBILE LIBRARY",
@@ -269,7 +284,8 @@
         "84749",
         "84773",
         "84775"
-      ]
+      ],
+      "id": "wayne-county-bookmobile-library-ut"
     },
     {
       "name": "GARFIELD COUNTY BOOKMOBILE LIBRARY",
@@ -288,7 +304,8 @@
         "84759",
         "84764",
         "84776"
-      ]
+      ],
+      "id": "garfield-county-bookmobile-library-ut"
     },
     {
       "name": "DELTA CITY LIBRARY",
@@ -301,7 +318,8 @@
         "84624",
         "84635",
         "84728"
-      ]
+      ],
+      "id": "delta-city-library-ut-2"
     }
   ]
 }

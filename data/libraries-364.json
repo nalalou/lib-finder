@@ -12,7 +12,8 @@
         "36346",
         "36351",
         "36453"
-      ]
+      ],
+      "id": "elba-public-library-al-2"
     },
     {
       "name": "ANDALUSIA PUBLIC LIBRARY",
@@ -26,7 +27,8 @@
         "36420",
         "36474",
         "36476"
-      ]
+      ],
+      "id": "andalusia-public-library-al-2"
     },
     {
       "name": "FLORALA PUBLIC LIBRARY",
@@ -39,7 +41,8 @@
         "36442",
         "36455",
         "36483"
-      ]
+      ],
+      "id": "florala-public-library-al"
     },
     {
       "name": "OPP PUBLIC LIBRARY",
@@ -50,7 +53,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36467"
-      ]
+      ],
+      "id": "opp-public-library-al"
     },
     {
       "name": "SAMSON PUBLIC LIBRARY",
@@ -62,7 +66,8 @@
       "zipcodes": [
         "36318",
         "36477"
-      ]
+      ],
+      "id": "samson-public-library-al-2"
     },
     {
       "name": "BREWTON PUBLIC LIBRARY",
@@ -73,7 +78,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36426"
-      ]
+      ],
+      "id": "brewton-public-library-al"
     },
     {
       "name": "FLOMATON PUBLIC LIBRARY",
@@ -84,7 +90,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36441"
-      ]
+      ],
+      "id": "flomaton-public-library-al"
     },
     {
       "name": "GROVE HILL PUBLIC LIBRARY",
@@ -99,7 +106,8 @@
         "36451",
         "36482",
         "36524"
-      ]
+      ],
+      "id": "grove-hill-public-library-al"
     },
     {
       "name": "EVERGREEN PUBLIC LIBRARY",
@@ -113,7 +121,8 @@
         "36432",
         "36473",
         "36475"
-      ]
+      ],
+      "id": "evergreen-public-library-al"
     },
     {
       "name": "MONROE COUNTY PUBLIC LIBRARY",
@@ -146,7 +155,8 @@
         "47429",
         "47464",
         "47468"
-      ]
+      ],
+      "id": "monroe-county-public-library-al-2"
     },
     {
       "name": "THOMASVILLE PUBLIC LIBRARY",
@@ -159,7 +169,8 @@
         "36446",
         "36727",
         "36784"
-      ]
+      ],
+      "id": "thomasville-public-library-al"
     },
     {
       "name": "WILCOX COUNTY LIBRARY",
@@ -178,7 +189,8 @@
         "36751",
         "36768",
         "36769"
-      ]
+      ],
+      "id": "wilcox-county-library-al"
     },
     {
       "name": "GREENVILLE - BUTLER COUNTY PUBLIC LIBRARY",
@@ -192,7 +204,8 @@
         "36033",
         "36037",
         "36456"
-      ]
+      ],
+      "id": "greenville---butler-county-public-library-al-2"
     }
   ]
 }

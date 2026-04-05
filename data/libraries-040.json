@@ -11,7 +11,8 @@
         "04050",
         "04108",
         "67647"
-      ]
+      ],
+      "id": "long-island-community-library-ks"
     },
     {
       "name": "ACTON PUBLIC LIBRARY",
@@ -24,7 +25,8 @@
         "04001",
         "04095",
         "06475"
-      ]
+      ],
+      "id": "acton-public-library-me"
     },
     {
       "name": "PARSONS MEMORIAL LIBRARY",
@@ -36,7 +38,8 @@
       "zipcodes": [
         "04002",
         "04087"
-      ]
+      ],
+      "id": "parsons-memorial-library-me"
     },
     {
       "name": "BROWN MEMORIAL LIBRARY - BALDWIN",
@@ -48,7 +51,8 @@
       "zipcodes": [
         "04024",
         "04091"
-      ]
+      ],
+      "id": "brown-memorial-library---baldwin-me"
     },
     {
       "name": "MCARTHUR PUBLIC LIBRARY",
@@ -59,7 +63,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04005"
-      ]
+      ],
+      "id": "mcarthur-public-library-me"
     },
     {
       "name": "BOWDOINHAM PUBLIC LIBRARY",
@@ -72,7 +77,8 @@
         "04008",
         "04287",
         "04579"
-      ]
+      ],
+      "id": "bowdoinham-public-library-me"
     },
     {
       "name": "BRIDGTON PUBLIC LIBRARY",
@@ -83,7 +89,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04009"
-      ]
+      ],
+      "id": "bridgton-public-library-me"
     },
     {
       "name": "BROWNFIELD PUBLIC LIBRARY",
@@ -95,7 +102,8 @@
       "zipcodes": [
         "04010",
         "04068"
-      ]
+      ],
+      "id": "brownfield-public-library-me"
     },
     {
       "name": "CURTIS MEMORIAL LIBRARY",
@@ -108,7 +116,8 @@
         "04011",
         "52751",
         "52777"
-      ]
+      ],
+      "id": "curtis-memorial-library-me"
     },
     {
       "name": "BERRY MEMORIAL LIBRARY",
@@ -119,7 +128,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04004"
-      ]
+      ],
+      "id": "berry-memorial-library-me"
     },
     {
       "name": "WEST BUXTON PUBLIC LIBRARY ASSOCIATION",
@@ -130,7 +140,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04093"
-      ]
+      ],
+      "id": "west-buxton-public-library-association-me"
     },
     {
       "name": "CASCO PUBLIC LIBRARY",
@@ -141,7 +152,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04015"
-      ]
+      ],
+      "id": "casco-public-library-me"
     },
     {
       "name": "BONNEY MEMORIAL LIBRARY",
@@ -152,7 +164,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04020"
-      ]
+      ],
+      "id": "bonney-memorial-library-me"
     },
     {
       "name": "PRINCE MEMORIAL LIBRARY",
@@ -164,7 +177,8 @@
       "zipcodes": [
         "04021",
         "04097"
-      ]
+      ],
+      "id": "prince-memorial-library-me"
     },
     {
       "name": "CHEBEAGUE ISLAND LIBRARY",
@@ -177,7 +191,8 @@
         "04017",
         "04050",
         "04110"
-      ]
+      ],
+      "id": "chebeague-island-library-me"
     },
     {
       "name": "DENMARK PUBLIC LIBRARY",
@@ -188,7 +203,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04022"
-      ]
+      ],
+      "id": "denmark-public-library-me"
     },
     {
       "name": "FREEPORT COMMUNITY LIBRARY",
@@ -200,7 +216,8 @@
       "zipcodes": [
         "04032",
         "04069"
-      ]
+      ],
+      "id": "freeport-community-library-me"
     },
     {
       "name": "FRYEBURG PUBLIC LIBRARY",
@@ -211,7 +228,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04037"
-      ]
+      ],
+      "id": "fryeburg-public-library-me"
     },
     {
       "name": "BAXTER MEMORIAL LIBRARY",
@@ -222,7 +240,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04038"
-      ]
+      ],
+      "id": "baxter-memorial-library-me"
     },
     {
       "name": "GRAY PUBLIC LIBRARY",
@@ -234,7 +253,8 @@
       "zipcodes": [
         "04039",
         "04097"
-      ]
+      ],
+      "id": "gray-public-library-me"
     },
     {
       "name": "ORRS ISLAND LIBRARY",
@@ -246,7 +266,8 @@
       "zipcodes": [
         "04003",
         "04066"
-      ]
+      ],
+      "id": "orrs-island-library-me"
     },
     {
       "name": "HARRISON VILLAGE LIBRARY",
@@ -257,7 +278,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04040"
-      ]
+      ],
+      "id": "harrison-village-library-me"
     },
     {
       "name": "BOLSTERS MILLS VILLAGE LIBRARY",
@@ -268,7 +290,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04040"
-      ]
+      ],
+      "id": "bolsters-mills-village-library-me"
     },
     {
       "name": "SOLDIERS MEMORIAL LIBRARY",
@@ -280,7 +303,8 @@
       "zipcodes": [
         "04041",
         "04068"
-      ]
+      ],
+      "id": "soldiers-memorial-library-me"
     },
     {
       "name": "HOLLIS CENTER PUBLIC LIBRARY",
@@ -291,7 +315,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04042"
-      ]
+      ],
+      "id": "hollis-center-public-library-me"
     },
     {
       "name": "SALMON FALLS LIBRARY",
@@ -302,7 +327,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04042"
-      ]
+      ],
+      "id": "salmon-falls-library-me"
     },
     {
       "name": "KENNEBUNK FREE LIBRARY",
@@ -313,7 +339,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04043"
-      ]
+      ],
+      "id": "kennebunk-free-library-me"
     },
     {
       "name": "LOUIS T. GRAVES MEMORIAL LIBRARY",
@@ -324,7 +351,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04046"
-      ]
+      ],
+      "id": "louis-t-graves-memorial-library-me"
     },
     {
       "name": "DAVIS MEMORIAL LIBRARY",
@@ -336,7 +364,8 @@
       "zipcodes": [
         "04049",
         "04061"
-      ]
+      ],
+      "id": "davis-memorial-library-me"
     },
     {
       "name": "CHARLOTTE HOBBS MEMORIAL LIBRARY",
@@ -348,7 +377,8 @@
       "zipcodes": [
         "04051",
         "04231"
-      ]
+      ],
+      "id": "charlotte-hobbs-memorial-library-me"
     },
     {
       "name": "NAPLES PUBLIC LIBRARY",
@@ -359,7 +389,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04055"
-      ]
+      ],
+      "id": "naples-public-library-me"
     },
     {
       "name": "LIBBY MEMORIAL LIBRARY",
@@ -370,7 +401,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04064"
-      ]
+      ],
+      "id": "libby-memorial-library-me"
     },
     {
       "name": "KEZAR FALLS CIRCULATING LIBRARY",
@@ -381,7 +413,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04047"
-      ]
+      ],
+      "id": "kezar-falls-circulating-library-me"
     },
     {
       "name": "DYER LIBRARY",
@@ -392,7 +425,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04072"
-      ]
+      ],
+      "id": "dyer-library-me"
     },
     {
       "name": "GOODALL MEMORIAL LIBRARY",
@@ -403,7 +437,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04073"
-      ]
+      ],
+      "id": "goodall-memorial-library-me"
     },
     {
       "name": "SPRINGVALE PUBLIC LIBRARY",
@@ -414,7 +449,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04083"
-      ]
+      ],
+      "id": "springvale-public-library-me"
     },
     {
       "name": "SCARBOROUGH PUBLIC LIBRARY",
@@ -425,7 +461,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04074"
-      ]
+      ],
+      "id": "scarborough-public-library-me"
     },
     {
       "name": "SPAULDING MEMORIAL LIBRARY",
@@ -437,7 +474,8 @@
       "zipcodes": [
         "04029",
         "04091"
-      ]
+      ],
+      "id": "spaulding-memorial-library-me"
     },
     {
       "name": "SHAPLEIGH COMMUNITY LIBRARY",
@@ -450,7 +488,8 @@
         "04076",
         "04087",
         "04095"
-      ]
+      ],
+      "id": "shapleigh-community-library-me"
     },
     {
       "name": "STEEP FALLS LIBRARY",
@@ -462,7 +501,8 @@
       "zipcodes": [
         "04085",
         "04091"
-      ]
+      ],
+      "id": "steep-falls-library-me"
     },
     {
       "name": "TOPSHAM PUBLIC LIBRARY",
@@ -474,7 +514,8 @@
       "zipcodes": [
         "04086",
         "04287"
-      ]
+      ],
+      "id": "topsham-public-library-me"
     },
     {
       "name": "WATERBORO PUBLIC LIBRARY",
@@ -487,7 +528,8 @@
         "04030",
         "04061",
         "04087"
-      ]
+      ],
+      "id": "waterboro-public-library-me"
     },
     {
       "name": "WELLS PUBLIC LIBRARY",
@@ -504,7 +546,8 @@
         "56051",
         "56068",
         "56097"
-      ]
+      ],
+      "id": "wells-public-library-me-2"
     },
     {
       "name": "WALKER MEMORIAL LIBRARY",
@@ -517,7 +560,8 @@
         "04092",
         "04102",
         "04103"
-      ]
+      ],
+      "id": "walker-memorial-library-me"
     },
     {
       "name": "WINDHAM PUBLIC LIBRARY",
@@ -540,7 +584,8 @@
         "12468",
         "12492",
         "12496"
-      ]
+      ],
+      "id": "windham-public-library-me"
     },
     {
       "name": "MERRILL MEMORIAL LIBRARY",
@@ -554,7 +599,8 @@
         "04096",
         "04097",
         "04110"
-      ]
+      ],
+      "id": "merrill-memorial-library-me"
     },
     {
       "name": "NORTH GORHAM PUBLIC LIBRARY",
@@ -565,7 +611,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04038"
-      ]
+      ],
+      "id": "north-gorham-public-library-me"
     },
     {
       "name": "RAYMOND VILLAGE LIBRARY",
@@ -576,7 +623,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04071"
-      ]
+      ],
+      "id": "raymond-village-library-me"
     },
     {
       "name": "LIMERICK PUBLIC LIBRARY",
@@ -589,7 +637,8 @@
         "04048",
         "04061",
         "04095"
-      ]
+      ],
+      "id": "limerick-public-library-me"
     },
     {
       "name": "MARTHA SAWYER COMMUNITY LIBRARY",
@@ -600,7 +649,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04027"
-      ]
+      ],
+      "id": "martha-sawyer-community-library-me"
     },
     {
       "name": "CLIFF ISLAND LIBRARY",
@@ -613,7 +663,8 @@
         "04003",
         "04019",
         "04050"
-      ]
+      ],
+      "id": "cliff-island-library-me"
     },
     {
       "name": "WATERFORD LIBRARY ASSOCIATION",
@@ -625,7 +676,8 @@
       "zipcodes": [
         "04088",
         "04231"
-      ]
+      ],
+      "id": "waterford-library-association-me"
     },
     {
       "name": "CAPE PORPOISE LIBRARY",
@@ -636,7 +688,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04046"
-      ]
+      ],
+      "id": "cape-porpoise-library-me"
     },
     {
       "name": "CUNDY`S HARBOR LIBRARY",
@@ -648,7 +701,8 @@
       "zipcodes": [
         "04003",
         "04079"
-      ]
+      ],
+      "id": "cundys-harbor-library-me"
     },
     {
       "name": "RICHVILLE LIBRARY",
@@ -659,7 +713,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04084"
-      ]
+      ],
+      "id": "richville-library-me"
     },
     {
       "name": "NEW GLOUCESTER PUBLIC LIBRARY",
@@ -671,7 +726,8 @@
       "zipcodes": [
         "04069",
         "04260"
-      ]
+      ],
+      "id": "new-gloucester-public-library-me"
     }
   ]
 }

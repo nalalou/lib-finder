@@ -29,7 +29,8 @@
         "76040",
         "76054",
         "76155"
-      ]
+      ],
+      "id": "bedford-public-library-nh-5"
     },
     {
       "name": "KELLER PUBLIC LIBRARY",
@@ -41,7 +42,8 @@
       "zipcodes": [
         "76177",
         "76248"
-      ]
+      ],
+      "id": "keller-public-library-tx"
     },
     {
       "name": "EULESS PUBLIC LIBRARY",
@@ -58,7 +60,8 @@
         "76039",
         "76040",
         "76155"
-      ]
+      ],
+      "id": "euless-public-library-tx-2"
     },
     {
       "name": "ARLINGTON PUBLIC LIBRARY SYSTEM",
@@ -83,7 +86,8 @@
         "76112",
         "76120",
         "76155"
-      ]
+      ],
+      "id": "arlington-public-library-system-tx-2"
     },
     {
       "name": "HURST PUBLIC LIBRARY",
@@ -99,7 +103,8 @@
         "76053",
         "76112",
         "76120"
-      ]
+      ],
+      "id": "hurst-public-library-tx-2"
     },
     {
       "name": "CROWLEY PUBLIC LIBRARY",
@@ -114,7 +119,8 @@
         "76132",
         "76133",
         "76134"
-      ]
+      ],
+      "id": "crowley-public-library-tx-2"
     },
     {
       "name": "KENNEDALE PUBLIC LIBRARY",
@@ -138,7 +144,8 @@
         "76115",
         "76119",
         "76134"
-      ]
+      ],
+      "id": "kennedale-public-library-tx-2"
     },
     {
       "name": "HASLET PUBLIC LIBRARY",
@@ -150,7 +157,8 @@
       "zipcodes": [
         "76052",
         "76177"
-      ]
+      ],
+      "id": "haslet-public-library-tx-2"
     },
     {
       "name": "FORT WORTH PUBLIC LIBRARY",
@@ -173,7 +181,8 @@
         "76115",
         "76119",
         "76127"
-      ]
+      ],
+      "id": "fort-worth-public-library-tx"
     },
     {
       "name": "HALTOM CITY PUBLIC LIBRARY",
@@ -188,7 +197,8 @@
         "76117",
         "76131",
         "76137"
-      ]
+      ],
+      "id": "haltom-city-public-library-tx"
     },
     {
       "name": "MARY LOU REDDICK PUBLIC LIBRARY",
@@ -204,7 +214,8 @@
         "76116",
         "76127",
         "76135"
-      ]
+      ],
+      "id": "mary-lou-reddick-public-library-tx"
     },
     {
       "name": "NORTH RICHLAND HILLS PUBLIC LIBRARY",
@@ -216,7 +227,8 @@
       "zipcodes": [
         "76054",
         "76180"
-      ]
+      ],
+      "id": "north-richland-hills-public-library-tx-2"
     },
     {
       "name": "RICHLAND HILLS PUBLIC LIBRARY",
@@ -232,7 +244,8 @@
         "76112",
         "76118",
         "76120"
-      ]
+      ],
+      "id": "richland-hills-public-library-tx"
     },
     {
       "name": "WHITE SETTLEMENT PUBLIC LIBRARY",
@@ -249,7 +262,8 @@
         "76116",
         "76127",
         "76132"
-      ]
+      ],
+      "id": "white-settlement-public-library-tx"
     },
     {
       "name": "WATAUGA PUBLIC LIBRARY",
@@ -263,7 +277,8 @@
         "76137",
         "76148",
         "76177"
-      ]
+      ],
+      "id": "watauga-public-library-tx"
     },
     {
       "name": "FOREST HILL PUBLIC LIBRARY",
@@ -287,7 +302,8 @@
         "76133",
         "76134",
         "76140"
-      ]
+      ],
+      "id": "forest-hill-public-library-tx-2"
     },
     {
       "name": "JOHN ED KEETER PUBLIC LIBRARY",
@@ -301,7 +317,8 @@
         "76131",
         "76137",
         "76179"
-      ]
+      ],
+      "id": "john-ed-keeter-public-library-tx"
     },
     {
       "name": "BENBROOK PUBLIC LIBRARY",
@@ -318,7 +335,8 @@
         "76126",
         "76132",
         "76133"
-      ]
+      ],
+      "id": "benbrook-public-library-tx"
     }
   ]
 }

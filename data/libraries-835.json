@@ -11,7 +11,8 @@
         "83520",
         "83541",
         "83827"
-      ]
+      ],
+      "id": "elk-river-district-id"
     },
     {
       "name": "LATAH COUNTY DISTRICT",
@@ -32,7 +33,8 @@
         "83857",
         "83871",
         "83872"
-      ]
+      ],
+      "id": "latah-county-district-id"
     },
     {
       "name": "GRANGEVILLE CENTENNIAL",
@@ -51,7 +53,8 @@
         "83539",
         "83552",
         "83554"
-      ]
+      ],
+      "id": "grangeville-centennial-id"
     },
     {
       "name": "LEWISTON CITY PUBLIC",
@@ -62,7 +65,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83501"
-      ]
+      ],
+      "id": "lewiston-city-public-id"
     },
     {
       "name": "PRAIRIE-RIVER DISTRICT",
@@ -78,7 +82,8 @@
         "83545",
         "83548",
         "83555"
-      ]
+      ],
+      "id": "prairie-river-district-id"
     },
     {
       "name": "CLEARWATER DISTRICT",
@@ -91,7 +96,8 @@
         "83543",
         "83544",
         "83553"
-      ]
+      ],
+      "id": "clearwater-district-id"
     },
     {
       "name": "PIERCE DISTRICT",
@@ -102,7 +108,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83546"
-      ]
+      ],
+      "id": "pierce-district-id"
     },
     {
       "name": "SALMON RIVER PUBLIC",
@@ -116,7 +123,8 @@
         "83547",
         "83549",
         "83671"
-      ]
+      ],
+      "id": "salmon-river-public-id"
     }
   ]
 }

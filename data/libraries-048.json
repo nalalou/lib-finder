@@ -13,7 +13,8 @@
         "06779",
         "06782",
         "06787"
-      ]
+      ],
+      "id": "thomaston-public-library-ct"
     },
     {
       "name": "ROCKPORT PUBLIC LIBRARY",
@@ -25,7 +26,8 @@
       "zipcodes": [
         "01966",
         "04856"
-      ]
+      ],
+      "id": "rockport-public-library-ma-2"
     },
     {
       "name": "CUSHING PUBLIC LIBRARY",
@@ -39,7 +41,8 @@
         "04859",
         "74023",
         "74062"
-      ]
+      ],
+      "id": "cushing-public-library-ok-2"
     },
     {
       "name": "CAMDEN PUBLIC LIBRARY",
@@ -51,7 +54,8 @@
       "zipcodes": [
         "04843",
         "04856"
-      ]
+      ],
+      "id": "camden-public-library-me"
     },
     {
       "name": "ALICE L. PENDLETON LIBRARY",
@@ -62,7 +66,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04848"
-      ]
+      ],
+      "id": "alice-l-pendleton-library-me"
     },
     {
       "name": "ROCKLAND PUBLIC LIBRARY",
@@ -76,7 +81,8 @@
         "04854",
         "04856",
         "04861"
-      ]
+      ],
+      "id": "rockland-public-library-me"
     },
     {
       "name": "JACKSON MEMORIAL LIBRARY",
@@ -89,7 +95,8 @@
         "04563",
         "04859",
         "04860"
-      ]
+      ],
+      "id": "jackson-memorial-library-me-2"
     },
     {
       "name": "VOSE LIBRARY",
@@ -100,7 +107,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04862"
-      ]
+      ],
+      "id": "vose-library-me"
     },
     {
       "name": "VINALHAVEN PUBLIC LIBRARY",
@@ -112,7 +120,8 @@
       "zipcodes": [
         "04851",
         "04863"
-      ]
+      ],
+      "id": "vinalhaven-public-library-me"
     },
     {
       "name": "NORTH HAVEN PUBLIC LIBRARY",
@@ -123,7 +132,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04853"
-      ]
+      ],
+      "id": "north-haven-public-library-me"
     },
     {
       "name": "MILDRED STEVENS WILLIAMS MEMORIAL LIBRARY",
@@ -134,7 +144,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04862"
-      ]
+      ],
+      "id": "mildred-stevens-williams-memorial-library-me"
     },
     {
       "name": "WARREN FREE PUBLIC LIBRARY",
@@ -146,7 +157,8 @@
       "zipcodes": [
         "04861",
         "04864"
-      ]
+      ],
+      "id": "warren-free-public-library-me"
     },
     {
       "name": "HOPE LIBRARY",
@@ -160,7 +172,8 @@
         "02831",
         "02921",
         "04847"
-      ]
+      ],
+      "id": "hope-library-me-3"
     },
     {
       "name": "MONHEGAN MEMORIAL LIBRARY",
@@ -171,7 +184,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04852"
-      ]
+      ],
+      "id": "monhegan-memorial-library-me"
     },
     {
       "name": "SOUTH THOMASTON PUBLIC LIBRARY",
@@ -184,7 +198,8 @@
         "04854",
         "04858",
         "04859"
-      ]
+      ],
+      "id": "south-thomaston-public-library-me"
     },
     {
       "name": "LINCOLNVILLE COMMUNITY LIBRARY",
@@ -195,7 +210,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04849"
-      ]
+      ],
+      "id": "lincolnville-community-library-me"
     }
   ]
 }

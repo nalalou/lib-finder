@@ -27,7 +27,8 @@
         "50441",
         "50452",
         "50633"
-      ]
+      ],
+      "id": "hampton-public-library-ia-7"
     },
     {
       "name": "AURORA PUBLIC LIBRARY",
@@ -53,7 +54,8 @@
         "80018",
         "80103",
         "80105"
-      ]
+      ],
+      "id": "aurora-public-library-co"
     },
     {
       "name": "WINTHROP PUBLIC LIBRARY",
@@ -70,7 +72,8 @@
         "55312",
         "55350",
         "55396"
-      ]
+      ],
+      "id": "winthrop-public-library-mn"
     },
     {
       "name": "ARLINGTON PUBLIC LIBRARY",
@@ -92,7 +95,8 @@
         "68034",
         "68068",
         "97812"
-      ]
+      ],
+      "id": "arlington-public-library-mn"
     },
     {
       "name": "INDEPENDENCE PUBLIC LIBRARY",
@@ -116,7 +120,8 @@
         "97338",
         "97351",
         "97371"
-      ]
+      ],
+      "id": "independence-public-library-or"
     },
     {
       "name": "PLAINFIELD PUBLIC LIBRARY",
@@ -129,7 +134,8 @@
         "50666",
         "50677",
         "54966"
-      ]
+      ],
+      "id": "plainfield-public-library-wi"
     },
     {
       "name": "NASHUA PUBLIC LIBRARY",
@@ -145,7 +151,8 @@
         "03064",
         "50645",
         "50658"
-      ]
+      ],
+      "id": "nashua-public-library-nh-2"
     },
     {
       "name": "IONIA COMMUNITY LIBRARY",
@@ -160,7 +167,8 @@
         "48865",
         "50645",
         "50658"
-      ]
+      ],
+      "id": "ionia-community-library-mi-2"
     },
     {
       "name": "NORMA ANDERS PUBLIC LIBRARY",
@@ -172,7 +180,8 @@
       "zipcodes": [
         "50612",
         "52224"
-      ]
+      ],
+      "id": "norma-anders-public-library-ia"
     },
     {
       "name": "MANCHESTER PUBLIC LIBRARY",
@@ -187,7 +196,8 @@
         "52038",
         "52057",
         "52330"
-      ]
+      ],
+      "id": "manchester-public-library-ct-2"
     },
     {
       "name": "HUDSON PUBLIC LIBRARY",
@@ -202,7 +212,8 @@
         "50702",
         "57027",
         "57034"
-      ]
+      ],
+      "id": "hudson-public-library-ma-2"
     },
     {
       "name": "WAVERLY PUBLIC LIBRARY",
@@ -215,7 +226,8 @@
         "50677",
         "62638",
         "62692"
-      ]
+      ],
+      "id": "waverly-public-library-il"
     },
     {
       "name": "CONRAD PUBLIC LIBRARY",
@@ -228,7 +240,8 @@
         "50621",
         "59416",
         "59425"
-      ]
+      ],
+      "id": "conrad-public-library-mt"
     },
     {
       "name": "FAYETTE COMMUNITY LIBRARY",
@@ -241,7 +254,8 @@
         "50606",
         "52142",
         "52164"
-      ]
+      ],
+      "id": "fayette-community-library-ia"
     },
     {
       "name": "WADENA PUBLIC LIBRARY",
@@ -254,7 +268,8 @@
         "50606",
         "52141",
         "52169"
-      ]
+      ],
+      "id": "wadena-public-library-ia"
     },
     {
       "name": "ELMA PUBLIC LIBRARY",
@@ -267,7 +282,8 @@
         "14059",
         "14139",
         "50628"
-      ]
+      ],
+      "id": "elma-public-library-ny-3"
     },
     {
       "name": "DENVER PUBLIC LIBRARY",
@@ -307,7 +323,8 @@
         "80290",
         "80293",
         "80294"
-      ]
+      ],
+      "id": "denver-public-library-co"
     },
     {
       "name": "ACKLEY PUBLIC LIBRARY",
@@ -318,7 +335,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "50601"
-      ]
+      ],
+      "id": "ackley-public-library-ia"
     },
     {
       "name": "ELDORA PUBLIC LIBRARY",
@@ -330,7 +348,8 @@
       "zipcodes": [
         "50206",
         "50627"
-      ]
+      ],
+      "id": "eldora-public-library-ia-2"
     },
     {
       "name": "BEAMAN COMMUNITY MEMORIAL LIBRARY",
@@ -342,7 +361,8 @@
       "zipcodes": [
         "50609",
         "50621"
-      ]
+      ],
+      "id": "beaman-community-memorial-library-ia"
     },
     {
       "name": "BENNY GAMBAIANI PUBLIC LIBRARY",
@@ -353,7 +373,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50670"
-      ]
+      ],
+      "id": "benny-gambaiani-public-library-ia"
     },
     {
       "name": "DIKE PUBLIC LIBRARY",
@@ -366,7 +387,8 @@
         "50624",
         "50642",
         "50673"
-      ]
+      ],
+      "id": "dike-public-library-ia"
     },
     {
       "name": "UPHAM MEMORIAL LIBRARY",
@@ -377,7 +399,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "50630"
-      ]
+      ],
+      "id": "upham-memorial-library-ia"
     },
     {
       "name": "NEW HAMPTON PUBLIC LIBRARY",
@@ -389,7 +412,8 @@
       "zipcodes": [
         "50645",
         "50659"
-      ]
+      ],
+      "id": "new-hampton-public-library-ia"
     },
     {
       "name": "STEAMBOAT ROCK PUBLIC LIBRARY",
@@ -400,7 +424,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50672"
-      ]
+      ],
+      "id": "steamboat-rock-public-library-ia"
     },
     {
       "name": "ALTA VISTA PUBLIC LIBRARY",
@@ -411,7 +436,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50603"
-      ]
+      ],
+      "id": "alta-vista-public-library-ia"
     },
     {
       "name": "CHARLES CITY PUBLIC LIBRARY",
@@ -423,7 +449,8 @@
       "zipcodes": [
         "50435",
         "50616"
-      ]
+      ],
+      "id": "charles-city-public-library-ia-2"
     },
     {
       "name": "MARBLE ROCK PUBLIC LIBRARY",
@@ -434,7 +461,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50653"
-      ]
+      ],
+      "id": "marble-rock-public-library-ia"
     },
     {
       "name": "CEDAR FALLS PUBLIC LIBRARY",
@@ -445,7 +473,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50613"
-      ]
+      ],
+      "id": "cedar-falls-public-library-ia"
     },
     {
       "name": "DUNKERTON PUBLIC LIBRARY",
@@ -458,7 +487,8 @@
         "50626",
         "50667",
         "50703"
-      ]
+      ],
+      "id": "dunkerton-public-library-ia"
     },
     {
       "name": "JANESVILLE PUBLIC LIBRARY",
@@ -470,7 +500,8 @@
       "zipcodes": [
         "50622",
         "50647"
-      ]
+      ],
+      "id": "janesville-public-library-ia"
     },
     {
       "name": "HAWKINS MEMORIAL LIBRARY",
@@ -482,7 +513,8 @@
       "zipcodes": [
         "50634",
         "50651"
-      ]
+      ],
+      "id": "hawkins-memorial-library-ia"
     },
     {
       "name": "READLYN COMMUNITY LIBRARY",
@@ -494,7 +526,8 @@
       "zipcodes": [
         "50622",
         "50668"
-      ]
+      ],
+      "id": "readlyn-community-library-ia"
     },
     {
       "name": "SUMNER PUBLIC LIBRARY",
@@ -505,7 +538,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "50674"
-      ]
+      ],
+      "id": "sumner-public-library-ia"
     },
     {
       "name": "TRIPOLI PUBLIC LIBRARY",
@@ -516,7 +550,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50676"
-      ]
+      ],
+      "id": "tripoli-public-library-ia"
     },
     {
       "name": "FAIRBANK PUBLIC LIBRARY",
@@ -528,7 +563,8 @@
       "zipcodes": [
         "50629",
         "50641"
-      ]
+      ],
+      "id": "fairbank-public-library-ia"
     },
     {
       "name": "JESUP PUBLIC LIBRARY",
@@ -541,7 +577,8 @@
         "50644",
         "50648",
         "52210"
-      ]
+      ],
+      "id": "jesup-public-library-ia"
     },
     {
       "name": "LAMONT PUBLIC LIBRARY",
@@ -554,7 +591,8 @@
         "50607",
         "50650",
         "50671"
-      ]
+      ],
+      "id": "lamont-public-library-ia"
     },
     {
       "name": "ALLISON PUBLIC LIBRARY",
@@ -566,7 +604,8 @@
       "zipcodes": [
         "50602",
         "50611"
-      ]
+      ],
+      "id": "allison-public-library-ia"
     },
     {
       "name": "APLINGTON LEGION MEMORIAL LIBRARY",
@@ -577,7 +616,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "50604"
-      ]
+      ],
+      "id": "aplington-legion-memorial-library-ia"
     },
     {
       "name": "CLARKSVILLE PUBLIC LIBRARY",
@@ -588,7 +628,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "50619"
-      ]
+      ],
+      "id": "clarksville-public-library-ia"
     },
     {
       "name": "GREENE PUBLIC LIBRARY",
@@ -600,7 +641,8 @@
       "zipcodes": [
         "50611",
         "50636"
-      ]
+      ],
+      "id": "greene-public-library-ia"
     },
     {
       "name": "ELIZABETH RASMUSSEN MARTIN MEMORIAL LIBRARY",
@@ -611,7 +653,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50660"
-      ]
+      ],
+      "id": "elizabeth-rasmussen-martin-memorial-library-ia"
     },
     {
       "name": "KOTHE MEMORIAL LIBRARY",
@@ -622,7 +665,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "50665"
-      ]
+      ],
+      "id": "kothe-memorial-library-ia"
     },
     {
       "name": "GARWIN PUBLIC LIBRARY",
@@ -635,7 +679,8 @@
         "50173",
         "50632",
         "52342"
-      ]
+      ],
+      "id": "garwin-public-library-ia-2"
     },
     {
       "name": "GLADBROOK PUBLIC LIBRARY",
@@ -647,7 +692,8 @@
       "zipcodes": [
         "50635",
         "50652"
-      ]
+      ],
+      "id": "gladbrook-public-library-ia"
     },
     {
       "name": "TRAER PUBLIC LIBRARY",
@@ -659,7 +705,8 @@
       "zipcodes": [
         "50612",
         "50675"
-      ]
+      ],
+      "id": "traer-public-library-ia"
     },
     {
       "name": "MAYNARD COMMUNITY LIBRARY",
@@ -671,7 +718,8 @@
       "zipcodes": [
         "50655",
         "52164"
-      ]
+      ],
+      "id": "maynard-community-library-ia"
     },
     {
       "name": "OELWEIN PUBLIC LIBRARY",
@@ -682,7 +730,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "50662"
-      ]
+      ],
+      "id": "oelwein-public-library-ia"
     },
     {
       "name": "WESTGATE PUBLIC LIBRARY",
@@ -693,7 +742,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "50681"
-      ]
+      ],
+      "id": "westgate-public-library-ia"
     },
     {
       "name": "KLING MEMORIAL LIBRARY",
@@ -705,7 +755,8 @@
       "zipcodes": [
         "50638",
         "50642"
-      ]
+      ],
+      "id": "kling-memorial-library-ia"
     },
     {
       "name": "REINBECK PUBLIC LIBRARY",
@@ -716,7 +767,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "50669"
-      ]
+      ],
+      "id": "reinbeck-public-library-ia"
     },
     {
       "name": "WELLSBURG PUBLIC LIBRARY",
@@ -728,7 +780,8 @@
       "zipcodes": [
         "50642",
         "50680"
-      ]
+      ],
+      "id": "wellsburg-public-library-ia"
     },
     {
       "name": "DUMONT COMMUNITY LIBRARY",
@@ -741,7 +794,8 @@
         "50605",
         "50611",
         "50625"
-      ]
+      ],
+      "id": "dumont-community-library-ia"
     },
     {
       "name": "WATERLOO PUBLIC LIBRARY",
@@ -756,7 +810,8 @@
         "50701",
         "50702",
         "50703"
-      ]
+      ],
+      "id": "waterloo-public-library-ia"
     },
     {
       "name": "EVANSDALE PUBLIC LIBRARY",
@@ -771,7 +826,8 @@
         "50702",
         "50703",
         "50707"
-      ]
+      ],
+      "id": "evansdale-public-library-ia"
     }
   ]
 }

@@ -9,7 +9,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "89020"
-      ]
+      ],
+      "id": "amargosa-valley-library-district-nv"
     },
     {
       "name": "BEATTY LIBRARY DISTRICT",
@@ -20,7 +21,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "89003"
-      ]
+      ],
+      "id": "beatty-library-district-nv"
     },
     {
       "name": "BOULDER CITY LIBRARY DISTRICT",
@@ -37,7 +39,8 @@
         "89039",
         "89040",
         "89046"
-      ]
+      ],
+      "id": "boulder-city-library-district-nv"
     },
     {
       "name": "PAHRUMP COMMUNITY LIBRARY",
@@ -48,7 +51,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "89048"
-      ]
+      ],
+      "id": "pahrump-community-library-nv"
     },
     {
       "name": "HENDERSON DISTRICT PUBLIC LIBRARIES",
@@ -75,7 +79,8 @@
         "89139",
         "89141",
         "89142"
-      ]
+      ],
+      "id": "henderson-district-public-libraries-nv"
     },
     {
       "name": "LINCOLN COUNTY LIBRARY",
@@ -90,7 +95,8 @@
         "89017",
         "89042",
         "89043"
-      ]
+      ],
+      "id": "lincoln-county-library-nv"
     },
     {
       "name": "NORTH LAS VEGAS LIBRARY DISTRICT",
@@ -135,7 +141,8 @@
         "89149",
         "89156",
         "89191"
-      ]
+      ],
+      "id": "north-las-vegas-library-district-nv"
     },
     {
       "name": "TONOPAH LIBRARY DISTRICT",
@@ -146,7 +153,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "89049"
-      ]
+      ],
+      "id": "tonopah-library-district-nv"
     },
     {
       "name": "ESMERALDA COUNTY LIBRARIES",
@@ -159,7 +167,8 @@
         "89010",
         "89013",
         "89047"
-      ]
+      ],
+      "id": "esmeralda-county-libraries-nv"
     },
     {
       "name": "SMOKY VALLEY LIBRARY DISTRICT",
@@ -174,7 +183,8 @@
         "89310",
         "89314",
         "89409"
-      ]
+      ],
+      "id": "smoky-valley-library-district-nv"
     },
     {
       "name": "LAS VEGAS-CLARK COUNTY LIBRARY DISTRICT",
@@ -205,7 +215,8 @@
         "89146",
         "89147",
         "89148"
-      ]
+      ],
+      "id": "las-vegas-clark-county-library-district-nv"
     }
   ]
 }

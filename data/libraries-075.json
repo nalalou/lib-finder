@@ -22,7 +22,8 @@
         "85533",
         "85540",
         "85922"
-      ]
+      ],
+      "id": "clifton-public-library-nj-2"
     },
     {
       "name": "ALFRED H. BAUMANN LIBRARY/WEST PATERSO",
@@ -42,7 +43,8 @@
         "07505",
         "07513",
         "07522"
-      ]
+      ],
+      "id": "alfred-h-baumann-librarywest-paterso-nj-3"
     },
     {
       "name": "HALEDON FREE PUBLIC LIBRARY",
@@ -58,7 +60,8 @@
         "07514",
         "07522",
         "07524"
-      ]
+      ],
+      "id": "haledon-free-public-library-nj"
     },
     {
       "name": "LOUIS BAY 2ND LIBRARY",
@@ -71,7 +74,8 @@
         "07506",
         "07514",
         "07524"
-      ]
+      ],
+      "id": "louis-bay-2nd-library-nj"
     },
     {
       "name": "NORTH HALEDON FREE PUBLIC LIBRARY",
@@ -82,7 +86,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "07508"
-      ]
+      ],
+      "id": "north-haledon-free-public-library-nj"
     },
     {
       "name": "PATERSON FREE PUBLIC LIBRARY",
@@ -101,7 +106,8 @@
         "07514",
         "07522",
         "07524"
-      ]
+      ],
+      "id": "paterson-free-public-library-nj"
     },
     {
       "name": "DWIGHT D. EISENHOWER LIBRARY",
@@ -112,7 +118,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "07512"
-      ]
+      ],
+      "id": "dwight-d-eisenhower-library-nj"
     }
   ]
 }

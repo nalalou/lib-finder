@@ -13,7 +13,8 @@
         "49095",
         "49112",
         "49130"
-      ]
+      ],
+      "id": "cass-district-library-mi-2"
     },
     {
       "name": "BERRIEN SPRINGS COMMUNITY LIBRARY",
@@ -26,7 +27,8 @@
         "49101",
         "49102",
         "49103"
-      ]
+      ],
+      "id": "berrien-springs-community-library-mi"
     },
     {
       "name": "BRIDGMAN PUBLIC LIBRARY",
@@ -42,7 +44,8 @@
         "49116",
         "49119",
         "49125"
-      ]
+      ],
+      "id": "bridgman-public-library-mi"
     },
     {
       "name": "BUCHANAN DISTRICT LIBRARY",
@@ -53,7 +56,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "49107"
-      ]
+      ],
+      "id": "buchanan-district-library-mi"
     },
     {
       "name": "EAU CLAIRE DISTRICT LIBRARY",
@@ -65,7 +69,8 @@
       "zipcodes": [
         "49102",
         "49111"
-      ]
+      ],
+      "id": "eau-claire-district-library-mi"
     },
     {
       "name": "GALIEN TOWNSHIP PUBLIC LIBRARY",
@@ -79,7 +84,8 @@
         "49119",
         "49125",
         "49129"
-      ]
+      ],
+      "id": "galien-township-public-library-mi"
     },
     {
       "name": "LINCOLN TOWNSHIP PUBLIC LIBRARY",
@@ -91,7 +97,8 @@
       "zipcodes": [
         "49101",
         "49127"
-      ]
+      ],
+      "id": "lincoln-township-public-library-mi"
     },
     {
       "name": "NEW BUFFALO TOWNSHIP PUBLIC LIBRARY",
@@ -105,7 +112,8 @@
         "49116",
         "49117",
         "49129"
-      ]
+      ],
+      "id": "new-buffalo-township-public-library-mi"
     },
     {
       "name": "NILES DISTRICT LIBRARY",
@@ -117,7 +125,8 @@
       "zipcodes": [
         "49102",
         "49120"
-      ]
+      ],
+      "id": "niles-district-library-mi"
     },
     {
       "name": "SODUS TOWNSHIP LIBRARY",
@@ -128,7 +137,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49126"
-      ]
+      ],
+      "id": "sodus-township-library-mi"
     },
     {
       "name": "THREE OAKS TOWNSHIP PUBLIC LIBRARY",
@@ -144,7 +154,8 @@
         "49125",
         "49128",
         "49129"
-      ]
+      ],
+      "id": "three-oaks-township-public-library-mi"
     }
   ]
 }

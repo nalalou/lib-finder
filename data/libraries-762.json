@@ -14,7 +14,8 @@
         "75090",
         "75092",
         "76268"
-      ]
+      ],
+      "id": "sherman-public-library-me-4"
     },
     {
       "name": "EDWARDS PUBLIC LIBRARY",
@@ -29,7 +30,8 @@
         "76357",
         "76365",
         "76377"
-      ]
+      ],
+      "id": "edwards-public-library-ma-2"
     },
     {
       "name": "ROANOKE PUBLIC LIBRARY",
@@ -41,7 +43,8 @@
       "zipcodes": [
         "46783",
         "76262"
-      ]
+      ],
+      "id": "roanoke-public-library-in-2"
     },
     {
       "name": "DECATUR PUBLIC LIBRARY",
@@ -60,7 +63,8 @@
         "62532",
         "62537",
         "76234"
-      ]
+      ],
+      "id": "decatur-public-library-tx-3"
     },
     {
       "name": "DENTON PUBLIC LIBRARY",
@@ -77,7 +81,8 @@
         "76207",
         "76208",
         "76226"
-      ]
+      ],
+      "id": "denton-public-library-tx-2"
     },
     {
       "name": "COOKE COUNTY LIBRARY",
@@ -91,7 +96,8 @@
         "76250",
         "76253",
         "76272"
-      ]
+      ],
+      "id": "cooke-county-library-tx"
     },
     {
       "name": "KELLER PUBLIC LIBRARY",
@@ -103,7 +109,8 @@
       "zipcodes": [
         "76177",
         "76248"
-      ]
+      ],
+      "id": "keller-public-library-tx-2"
     },
     {
       "name": "MUENSTER PUBLIC LIBRARY",
@@ -117,7 +124,8 @@
         "76250",
         "76252",
         "76253"
-      ]
+      ],
+      "id": "muenster-public-library-tx"
     },
     {
       "name": "NOCONA PUBLIC LIBRARY",
@@ -129,7 +137,8 @@
       "zipcodes": [
         "76255",
         "76261"
-      ]
+      ],
+      "id": "nocona-public-library-tx"
     },
     {
       "name": "PILOT POINT COMMUNITY LIBRARY",
@@ -140,7 +149,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76258"
-      ]
+      ],
+      "id": "pilot-point-community-library-tx"
     },
     {
       "name": "WHITESBORO PUBLIC LIBRARY",
@@ -154,7 +164,8 @@
         "76264",
         "76268",
         "76273"
-      ]
+      ],
+      "id": "whitesboro-public-library-tx"
     },
     {
       "name": "BOWIE PUBLIC LIBRARY",
@@ -167,7 +178,8 @@
         "76230",
         "76251",
         "76270"
-      ]
+      ],
+      "id": "bowie-public-library-tx"
     },
     {
       "name": "ALVORD PUBLIC LIBRARY",
@@ -178,7 +190,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76225"
-      ]
+      ],
+      "id": "alvord-public-library-tx"
     },
     {
       "name": "SANGER PUBLIC LIBRARY",
@@ -189,7 +202,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76266"
-      ]
+      ],
+      "id": "sanger-public-library-tx"
     },
     {
       "name": "AUBREY AREA LIBRARY",
@@ -201,7 +215,8 @@
       "zipcodes": [
         "76208",
         "76227"
-      ]
+      ],
+      "id": "aubrey-area-library-tx"
     },
     {
       "name": "KRUM PUBLIC LIBRARY",
@@ -214,7 +229,8 @@
         "76205",
         "76207",
         "76249"
-      ]
+      ],
+      "id": "krum-public-library-tx"
     },
     {
       "name": "MARY EMMA TATE COMMUNITY LIBRARY",
@@ -227,7 +243,8 @@
         "76226",
         "76247",
         "76262"
-      ]
+      ],
+      "id": "mary-emma-tate-community-library-tx"
     },
     {
       "name": "BETTY FOSTER PUBLIC LIBRARY",
@@ -239,7 +256,8 @@
       "zipcodes": [
         "76207",
         "76259"
-      ]
+      ],
+      "id": "betty-foster-public-library-tx"
     },
     {
       "name": "SAINT JO PUBLIC LIBRARY",
@@ -251,7 +269,8 @@
       "zipcodes": [
         "76239",
         "76265"
-      ]
+      ],
+      "id": "saint-jo-public-library-tx"
     },
     {
       "name": "LAKE DALLAS LIBRARY",
@@ -267,7 +286,8 @@
         "75077",
         "76205",
         "76208"
-      ]
+      ],
+      "id": "lake-dallas-library-tx-2"
     },
     {
       "name": "FLOWER MOUND PUBLIC LIBRARY",
@@ -282,7 +302,8 @@
         "75077",
         "76226",
         "76262"
-      ]
+      ],
+      "id": "flower-mound-public-library-tx-2"
     },
     {
       "name": "POTTSBORO AREA PUBLIC LIBRARY",
@@ -296,7 +317,8 @@
         "75092",
         "76245",
         "76264"
-      ]
+      ],
+      "id": "pottsboro-area-public-library-tx-2"
     },
     {
       "name": "GUNTER LIBRARY AND MUSEUM",
@@ -308,7 +330,8 @@
       "zipcodes": [
         "75058",
         "76271"
-      ]
+      ],
+      "id": "gunter-library-and-museum-tx-2"
     }
   ]
 }

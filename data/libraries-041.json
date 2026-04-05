@@ -11,7 +11,8 @@
         "04050",
         "04108",
         "67647"
-      ]
+      ],
+      "id": "long-island-community-library-ks-2"
     },
     {
       "name": "CHEBEAGUE ISLAND LIBRARY",
@@ -24,7 +25,8 @@
         "04017",
         "04050",
         "04110"
-      ]
+      ],
+      "id": "chebeague-island-library-me-2"
     },
     {
       "name": "WALKER MEMORIAL LIBRARY",
@@ -37,7 +39,8 @@
         "04092",
         "04102",
         "04103"
-      ]
+      ],
+      "id": "walker-memorial-library-me-2"
     },
     {
       "name": "MERRILL MEMORIAL LIBRARY",
@@ -51,7 +54,8 @@
         "04096",
         "04097",
         "04110"
-      ]
+      ],
+      "id": "merrill-memorial-library-me-2"
     },
     {
       "name": "THOMAS MEMORIAL LIBRARY",
@@ -62,7 +66,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04107"
-      ]
+      ],
+      "id": "thomas-memorial-library-me"
     },
     {
       "name": "FALMOUTH MEMORIAL LIBRARY",
@@ -75,7 +80,8 @@
         "04103",
         "04105",
         "04110"
-      ]
+      ],
+      "id": "falmouth-memorial-library-me"
     },
     {
       "name": "PORTLAND PUBLIC LIBRARY",
@@ -91,7 +97,8 @@
         "04108",
         "06480",
         "06481"
-      ]
+      ],
+      "id": "portland-public-library-me"
     },
     {
       "name": "SOUTH PORTLAND PUBLIC LIBRARY",
@@ -104,7 +111,8 @@
         "04102",
         "04106",
         "04108"
-      ]
+      ],
+      "id": "south-portland-public-library-me"
     }
   ]
 }

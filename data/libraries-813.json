@@ -13,7 +13,8 @@
         "81331",
         "81334",
         "81335"
-      ]
+      ],
+      "id": "cortez-public-library-co"
     },
     {
       "name": "DOLORES COUNTY SCHOOL/PUBLIC LIBRARY (DOVE CREEK)",
@@ -26,7 +27,8 @@
         "81320",
         "81324",
         "81332"
-      ]
+      ],
+      "id": "dolores-county-schoolpublic-library-dove-creek-co"
     },
     {
       "name": "DOLORES LIBRARY DISTRICT/MONTEZUMA COUNTY",
@@ -38,7 +40,8 @@
       "zipcodes": [
         "81323",
         "81327"
-      ]
+      ],
+      "id": "dolores-library-districtmontezuma-county-co"
     },
     {
       "name": "DURANGO PUBLIC LIBRARY",
@@ -49,7 +52,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "81301"
-      ]
+      ],
+      "id": "durango-public-library-co"
     },
     {
       "name": "MANCOS LIBRARY DISTRICT",
@@ -60,7 +64,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "81328"
-      ]
+      ],
+      "id": "mancos-library-district-co"
     },
     {
       "name": "SOUTHWEST LA PLATA LIBRARY DISTRICT",
@@ -72,7 +77,8 @@
       "zipcodes": [
         "81303",
         "81326"
-      ]
+      ],
+      "id": "southwest-la-plata-library-district-co"
     },
     {
       "name": "LONE CONE LIBRARY DISTRICT (NORWOOD)",
@@ -84,7 +90,8 @@
       "zipcodes": [
         "81325",
         "81423"
-      ]
+      ],
+      "id": "lone-cone-library-district-norwood-co"
     }
   ]
 }

@@ -70,7 +70,8 @@
         "11693",
         "11694",
         "11697"
-      ]
+      ],
+      "id": "queens-borough-public-library-ny-2"
     },
     {
       "name": "SHELTER ROCK PUBLIC LIBRARY",
@@ -83,7 +84,8 @@
         "11042",
         "11507",
         "11577"
-      ]
+      ],
+      "id": "shelter-rock-public-library-ny"
     },
     {
       "name": "HEWLETT-WOODMERE PUBLIC LIBRARY",
@@ -99,7 +101,8 @@
         "11557",
         "11581",
         "11598"
-      ]
+      ],
+      "id": "hewlett-woodmere-public-library-ny"
     },
     {
       "name": "PENINSULA PUBLIC LIBRARY",
@@ -114,7 +117,8 @@
         "11516",
         "11559",
         "11598"
-      ]
+      ],
+      "id": "peninsula-public-library-ny"
     },
     {
       "name": "HENRY WALDINGER MEMORIAL LIBRARY",
@@ -129,7 +133,8 @@
         "11580",
         "11581",
         "11598"
-      ]
+      ],
+      "id": "henry-waldinger-memorial-library-ny"
     },
     {
       "name": "GREAT NECK LIBRARY",
@@ -147,7 +152,8 @@
         "11021",
         "11023",
         "11024"
-      ]
+      ],
+      "id": "great-neck-library-ny-2"
     },
     {
       "name": "ELMONT PUBLIC LIBRARY",
@@ -158,7 +164,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "11003"
-      ]
+      ],
+      "id": "elmont-public-library-ny"
     },
     {
       "name": "FLORAL PARK PUBLIC LIBRARY",
@@ -170,7 +177,8 @@
       "zipcodes": [
         "11001",
         "11042"
-      ]
+      ],
+      "id": "floral-park-public-library-ny"
     },
     {
       "name": "FRANKLIN SQUARE PUBLIC LIBRARY",
@@ -181,7 +189,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "11010"
-      ]
+      ],
+      "id": "franklin-square-public-library-ny"
     },
     {
       "name": "MANHASSET PUBLIC LIBRARY",
@@ -196,7 +205,8 @@
         "11023",
         "11024",
         "11030"
-      ]
+      ],
+      "id": "manhasset-public-library-ny"
     },
     {
       "name": "HILLSIDE PUBLIC LIBRARY OF NEW HYDE PARK",
@@ -209,7 +219,8 @@
         "11020",
         "11040",
         "11042"
-      ]
+      ],
+      "id": "hillside-public-library-of-new-hyde-park-ny"
     },
     {
       "name": "PORT WASHINGTON PUBLIC LIBRARY",
@@ -223,7 +234,8 @@
         "11023",
         "11024",
         "11050"
-      ]
+      ],
+      "id": "port-washington-public-library-ny"
     }
   ]
 }

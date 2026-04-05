@@ -10,7 +10,8 @@
       "zipcodes": [
         "78537",
         "78579"
-      ]
+      ],
+      "id": "donna-public-library-tx"
     },
     {
       "name": "DUSTIN MICHAEL SEKULA MEMORIAL LIBRARY",
@@ -23,7 +24,8 @@
         "78539",
         "78558",
         "78563"
-      ]
+      ],
+      "id": "dustin-michael-sekula-memorial-library-tx"
     },
     {
       "name": "ELSA PUBLIC LIBRARY",
@@ -38,7 +40,8 @@
         "78549",
         "78558",
         "78562"
-      ]
+      ],
+      "id": "elsa-public-library-tx"
     },
     {
       "name": "HARLINGEN PUBLIC LIBRARY",
@@ -53,7 +56,8 @@
         "78569",
         "78593",
         "78594"
-      ]
+      ],
+      "id": "harlingen-public-library-tx"
     },
     {
       "name": "BAILEY H DUNLAP MEMORIAL LIBRARY",
@@ -67,7 +71,8 @@
         "78559",
         "78592",
         "78593"
-      ]
+      ],
+      "id": "bailey-h-dunlap-memorial-library-tx"
     },
     {
       "name": "LAGUNA VISTA PUBLIC LIBRARY",
@@ -79,7 +84,8 @@
       "zipcodes": [
         "78578",
         "78597"
-      ]
+      ],
+      "id": "laguna-vista-public-library-tx"
     },
     {
       "name": "ETHEL L WHIPPLE MEMORIAL LIBRARY",
@@ -92,7 +98,8 @@
         "78526",
         "78566",
         "78575"
-      ]
+      ],
+      "id": "ethel-l-whipple-memorial-library-tx"
     },
     {
       "name": "DR HECTOR P GARCIA MEMORIAL LIBRARY",
@@ -104,7 +111,8 @@
       "zipcodes": [
         "78570",
         "78579"
-      ]
+      ],
+      "id": "dr-hector-p-garcia-memorial-library-tx"
     },
     {
       "name": "SPEER MEMORIAL LIBRARY",
@@ -116,7 +124,8 @@
       "zipcodes": [
         "78501",
         "78572"
-      ]
+      ],
+      "id": "speer-memorial-library-tx"
     },
     {
       "name": "SERGEANT FERNANDO DE LA ROSA MEMORIAL LIBRARY",
@@ -128,7 +137,8 @@
       "zipcodes": [
         "78516",
         "78558"
-      ]
+      ],
+      "id": "sergeant-fernando-de-la-rosa-memorial-library-tx"
     },
     {
       "name": "PHARR MEMORIAL LIBRARY",
@@ -141,7 +151,8 @@
         "78501",
         "78503",
         "78577"
-      ]
+      ],
+      "id": "pharr-memorial-library-tx"
     },
     {
       "name": "PORT ISABEL PUBLIC LIBRARY",
@@ -153,7 +164,8 @@
       "zipcodes": [
         "78521",
         "78578"
-      ]
+      ],
+      "id": "port-isabel-public-library-tx"
     },
     {
       "name": "RIO HONDO PUBLIC LIBRARY",
@@ -166,7 +178,8 @@
         "78580",
         "78583",
         "78598"
-      ]
+      ],
+      "id": "rio-hondo-public-library-tx"
     },
     {
       "name": "SAN BENITO PUBLIC LIBRARY",
@@ -178,7 +191,8 @@
       "zipcodes": [
         "78552",
         "78586"
-      ]
+      ],
+      "id": "san-benito-public-library-tx"
     },
     {
       "name": "MAYOR JOE V SANCHEZ PUBLIC LIBRARY",
@@ -190,7 +204,8 @@
       "zipcodes": [
         "78579",
         "78596"
-      ]
+      ],
+      "id": "mayor-joe-v-sanchez-public-library-tx"
     },
     {
       "name": "BROWNSVILLE PUBLIC LIBRARY",
@@ -204,7 +219,8 @@
         "78520",
         "78526",
         "78575"
-      ]
+      ],
+      "id": "brownsville-public-library-tx-2"
     },
     {
       "name": "RIO GRANDE CITY PUBLIC LIBRARY",
@@ -219,7 +235,8 @@
         "78582",
         "78584",
         "78588"
-      ]
+      ],
+      "id": "rio-grande-city-public-library-tx"
     },
     {
       "name": "MCALLEN PUBLIC LIBRARY",
@@ -232,7 +249,8 @@
         "78501",
         "78503",
         "78504"
-      ]
+      ],
+      "id": "mcallen-public-library-tx"
     },
     {
       "name": "SAN JUAN MEMORIAL LIBRARY",
@@ -243,7 +261,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78589"
-      ]
+      ],
+      "id": "san-juan-memorial-library-tx"
     },
     {
       "name": "HIDALGO PUBLIC LIBRARY",
@@ -255,7 +274,8 @@
       "zipcodes": [
         "78503",
         "78557"
-      ]
+      ],
+      "id": "hidalgo-public-library-tx"
     },
     {
       "name": "LA JOYA MUNICIPAL LIBRARY",
@@ -268,7 +288,8 @@
         "78560",
         "78565",
         "78595"
-      ]
+      ],
+      "id": "la-joya-municipal-library-tx"
     },
     {
       "name": "PENITAS PUBLIC LIBRARY",
@@ -281,7 +302,8 @@
         "78565",
         "78576",
         "78595"
-      ]
+      ],
+      "id": "penitas-public-library-tx"
     }
   ]
 }

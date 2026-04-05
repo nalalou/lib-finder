@@ -12,7 +12,8 @@
         "01106",
         "01108",
         "01118"
-      ]
+      ],
+      "id": "richard-salter-storrs-library-ma"
     },
     {
       "name": "SPRINGFIELD CITY LIBRARY",
@@ -30,7 +31,8 @@
         "01109",
         "01118",
         "01119"
-      ]
+      ],
+      "id": "springfield-city-library-ma"
     },
     {
       "name": "CHICOPEE PUBLIC LIBRARY",
@@ -47,7 +49,8 @@
         "01107",
         "01109",
         "01151"
-      ]
+      ],
+      "id": "chicopee-public-library-ma-2"
     },
     {
       "name": "EAST LONGMEADOW PUBLIC LIBRARY",
@@ -63,7 +66,8 @@
         "01119",
         "01128",
         "01129"
-      ]
+      ],
+      "id": "east-longmeadow-public-library-ma-2"
     },
     {
       "name": "HAMPDEN FREE PUBLIC LIBRARY",
@@ -75,7 +79,8 @@
       "zipcodes": [
         "01036",
         "01128"
-      ]
+      ],
+      "id": "hampden-free-public-library-ma-2"
     },
     {
       "name": "HUBBARD MEMORIAL LIBRARY",
@@ -91,7 +96,8 @@
         "01119",
         "01129",
         "01151"
-      ]
+      ],
+      "id": "hubbard-memorial-library-ma-2"
     },
     {
       "name": "WEST SPRINGFIELD PUBLIC LIBRARY",
@@ -107,7 +113,8 @@
         "01105",
         "01107",
         "01109"
-      ]
+      ],
+      "id": "west-springfield-public-library-ma-2"
     },
     {
       "name": "WILBRAHAM PUBLIC LIBRARY",
@@ -122,7 +129,8 @@
         "01128",
         "01129",
         "01151"
-      ]
+      ],
+      "id": "wilbraham-public-library-ma-2"
     }
   ]
 }

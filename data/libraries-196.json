@@ -13,7 +13,8 @@
         "19602",
         "19604",
         "19611"
-      ]
+      ],
+      "id": "reading-public-library-pa-2"
     },
     {
       "name": "SINKING SPRING PUBLIC LIBRARY",
@@ -26,7 +27,8 @@
         "19540",
         "19608",
         "19609"
-      ]
+      ],
+      "id": "sinking-spring-public-library-pa-2"
     },
     {
       "name": "MUHLENBERG COMMUNITY LIBRARY",
@@ -42,7 +44,8 @@
         "19601",
         "19604",
         "19605"
-      ]
+      ],
+      "id": "muhlenberg-community-library-pa-2"
     },
     {
       "name": "SPRING TOWNSHIP LIBRARY",
@@ -54,7 +57,8 @@
       "zipcodes": [
         "19609",
         "19610"
-      ]
+      ],
+      "id": "spring-township-library-pa"
     },
     {
       "name": "WYOMISSING PUBLIC LIBRARY",
@@ -69,7 +73,8 @@
         "19609",
         "19610",
         "19611"
-      ]
+      ],
+      "id": "wyomissing-public-library-pa"
     },
     {
       "name": "EXETER COMMUNITY LIBRARY",
@@ -82,7 +87,8 @@
         "19518",
         "19523",
         "19606"
-      ]
+      ],
+      "id": "exeter-community-library-pa-2"
     },
     {
       "name": "MIFFLIN COMMUNITY LIBRARY",
@@ -95,7 +101,8 @@
         "19540",
         "19607",
         "19611"
-      ]
+      ],
+      "id": "mifflin-community-library-pa-2"
     }
   ]
 }

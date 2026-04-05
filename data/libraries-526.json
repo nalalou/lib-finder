@@ -24,7 +24,8 @@
         "67023",
         "67038",
         "67156"
-      ]
+      ],
+      "id": "winfield-public-library-al-3"
     },
     {
       "name": "FAIRFIELD PUBLIC LIBRARY",
@@ -55,7 +56,8 @@
         "68935",
         "68938",
         "68941"
-      ]
+      ],
+      "id": "fairfield-public-library-ia-3"
     },
     {
       "name": "BURLINGTON PUBLIC LIBRARY",
@@ -82,7 +84,8 @@
         "98233",
         "98235",
         "98238"
-      ]
+      ],
+      "id": "burlington-public-library-ct-3"
     },
     {
       "name": "MOUNT PLEASANT PUBLIC LIBRARY",
@@ -102,7 +105,8 @@
         "75487",
         "75493",
         "75558"
-      ]
+      ],
+      "id": "mount-pleasant-public-library-tx-2"
     },
     {
       "name": "WASHINGTON FREE PUBLIC LIBRARY",
@@ -117,7 +121,8 @@
         "52359",
         "52540",
         "52621"
-      ]
+      ],
+      "id": "washington-free-public-library-ia-4"
     },
     {
       "name": "MELLINGER MEMORIAL PUBLIC LIBRARY",
@@ -128,7 +133,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52640"
-      ]
+      ],
+      "id": "mellinger-memorial-public-library-ia"
     },
     {
       "name": "KECK MEMORIAL LIBRARY",
@@ -141,7 +147,8 @@
         "52646",
         "52653",
         "52752"
-      ]
+      ],
+      "id": "keck-memorial-library-ia"
     },
     {
       "name": "KEOKUK PUBLIC LIBRARY",
@@ -152,7 +159,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52632"
-      ]
+      ],
+      "id": "keokuk-public-library-ia"
     },
     {
       "name": "BONAPARTE PUBLIC LIBRARY",
@@ -165,7 +173,8 @@
         "52573",
         "52620",
         "52630"
-      ]
+      ],
+      "id": "bonaparte-public-library-ia-2"
     },
     {
       "name": "STOCKPORT PUBLIC LIBRARY",
@@ -177,7 +186,8 @@
       "zipcodes": [
         "52630",
         "52651"
-      ]
+      ],
+      "id": "stockport-public-library-ia"
     },
     {
       "name": "DONNELLSON PUBLIC LIBRARY",
@@ -188,7 +198,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52625"
-      ]
+      ],
+      "id": "donnellson-public-library-ia"
     },
     {
       "name": "FORT MADISON PUBLIC LIBRARY",
@@ -201,7 +212,8 @@
         "52624",
         "52627",
         "52658"
-      ]
+      ],
+      "id": "fort-madison-public-library-ia"
     },
     {
       "name": "MONTROSE MEMORIAL LIBRARY",
@@ -213,7 +225,8 @@
       "zipcodes": [
         "52619",
         "52639"
-      ]
+      ],
+      "id": "montrose-memorial-library-ia"
     },
     {
       "name": "WEST POINT PUBLIC LIBRARY",
@@ -225,7 +238,8 @@
       "zipcodes": [
         "52624",
         "52656"
-      ]
+      ],
+      "id": "west-point-public-library-ia"
     },
     {
       "name": "H.J. NUGEN PUBLIC LIBRARY",
@@ -237,7 +251,8 @@
       "zipcodes": [
         "52644",
         "52645"
-      ]
+      ],
+      "id": "hj-nugen-public-library-ia"
     },
     {
       "name": "CREW PUBLIC LIBRARY",
@@ -249,7 +264,8 @@
       "zipcodes": [
         "52641",
         "52649"
-      ]
+      ],
+      "id": "crew-public-library-ia"
     },
     {
       "name": "MEDIAPOLIS PUBLIC LIBRARY",
@@ -262,7 +278,8 @@
         "52637",
         "52650",
         "52660"
-      ]
+      ],
+      "id": "mediapolis-public-library-ia"
     },
     {
       "name": "NORTHEAST MISSOURI LIBRARY SERVICE",
@@ -280,7 +297,8 @@
         "63465",
         "63472",
         "63474"
-      ]
+      ],
+      "id": "northeast-missouri-library-service-mo"
     }
   ]
 }

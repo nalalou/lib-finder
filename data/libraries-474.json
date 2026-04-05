@@ -29,7 +29,8 @@
         "76040",
         "76054",
         "76155"
-      ]
+      ],
+      "id": "bedford-public-library-nh-2"
     },
     {
       "name": "BROWN COUNTY PUBLIC LIBRARY",
@@ -49,7 +50,8 @@
         "46160",
         "46164",
         "47448"
-      ]
+      ],
+      "id": "brown-county-public-library-oh-3"
     },
     {
       "name": "MONROE COUNTY PUBLIC LIBRARY",
@@ -82,7 +84,8 @@
         "47429",
         "47464",
         "47468"
-      ]
+      ],
+      "id": "monroe-county-public-library-al-3"
     },
     {
       "name": "JASONVILLE PUBLIC LIBRARY",
@@ -93,7 +96,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "47438"
-      ]
+      ],
+      "id": "jasonville-public-library-in"
     },
     {
       "name": "LINTON PUBLIC LIBRARY",
@@ -106,7 +110,8 @@
         "47441",
         "47443",
         "47465"
-      ]
+      ],
+      "id": "linton-public-library-in"
     },
     {
       "name": "WORTHINGTON JEFFERSON TOWNSHIP PUBLIC LIBRARY",
@@ -118,7 +123,8 @@
       "zipcodes": [
         "47465",
         "47471"
-      ]
+      ],
+      "id": "worthington-jefferson-township-public-library-in"
     },
     {
       "name": "BLOOMFIELD-EASTERN GREENE COUNTY PUBLIC LIBRARY",
@@ -134,7 +140,8 @@
         "47453",
         "47459",
         "47465"
-      ]
+      ],
+      "id": "bloomfield-eastern-greene-county-public-library-in"
     },
     {
       "name": "MITCHELL COMMUNITY PUBLIC LIBRARY",
@@ -147,7 +154,8 @@
         "47421",
         "47446",
         "47467"
-      ]
+      ],
+      "id": "mitchell-community-public-library-in"
     },
     {
       "name": "OWEN COUNTY PUBLIC LIBRARY",
@@ -167,7 +175,8 @@
         "47456",
         "47460",
         "47868"
-      ]
+      ],
+      "id": "owen-county-public-library-in-3"
     },
     {
       "name": "MELTON PUBLIC LIBRARY",
@@ -179,7 +188,8 @@
       "zipcodes": [
         "47432",
         "47469"
-      ]
+      ],
+      "id": "melton-public-library-in"
     },
     {
       "name": "ORLEANS TOWN & TOWNSHIP PUBLIC LIBRARY",
@@ -191,7 +201,8 @@
       "zipcodes": [
         "47452",
         "47469"
-      ]
+      ],
+      "id": "orleans-town-township-public-library-in"
     },
     {
       "name": "PAOLI PUBLIC LIBRARY",
@@ -203,7 +214,8 @@
       "zipcodes": [
         "47454",
         "47469"
-      ]
+      ],
+      "id": "paoli-public-library-in"
     }
   ]
 }

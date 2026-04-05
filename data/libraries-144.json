@@ -13,7 +13,8 @@
         "68361",
         "68365",
         "68444"
-      ]
+      ],
+      "id": "geneva-public-library-ne"
     },
     {
       "name": "LYONS PUBLIC LIBRARY",
@@ -34,7 +35,8 @@
         "97350",
         "97358",
         "97360"
-      ]
+      ],
+      "id": "lyons-public-library-or"
     },
     {
       "name": "BLOOMFIELD PUBLIC LIBRARY",
@@ -71,7 +73,8 @@
         "87412",
         "87413",
         "87415"
-      ]
+      ],
+      "id": "bloomfield-public-library-nj-5"
     },
     {
       "name": "NEWARK PUBLIC LIBRARY",
@@ -93,7 +96,8 @@
         "14513",
         "76023",
         "76071"
-      ]
+      ],
+      "id": "newark-public-library-nj-2"
     },
     {
       "name": "DUNDEE LIBRARY",
@@ -106,7 +110,8 @@
         "14478",
         "14837",
         "14842"
-      ]
+      ],
+      "id": "dundee-library-ny"
     },
     {
       "name": "MODESTE BEDIENT MEMORIAL LIBRARY",
@@ -120,7 +125,8 @@
         "14478",
         "14507",
         "14842"
-      ]
+      ],
+      "id": "modeste-bedient-memorial-library-ny"
     },
     {
       "name": "BYRON-BERGEN PUBLIC LIBRARY",
@@ -132,7 +138,8 @@
       "zipcodes": [
         "14416",
         "14422"
-      ]
+      ],
+      "id": "byron-bergen-public-library-ny"
     },
     {
       "name": "WOODWARD MEMORIAL LIBRARY",
@@ -146,7 +153,8 @@
         "14143",
         "14422",
         "14482"
-      ]
+      ],
+      "id": "woodward-memorial-library-ny-3"
     },
     {
       "name": "HOAG LIBRARY OF THE SWAN LIBRARY ASSOCIATION",
@@ -160,7 +168,8 @@
         "14476",
         "14477",
         "14571"
-      ]
+      ],
+      "id": "hoag-library-of-the-swan-library-association-ny"
     },
     {
       "name": "COMMUNITY FREE LIBRARY",
@@ -173,7 +182,8 @@
         "14470",
         "14476",
         "14477"
-      ]
+      ],
+      "id": "community-free-library-ny"
     },
     {
       "name": "AVON FREE LIBRARY",
@@ -186,7 +196,8 @@
         "14414",
         "14480",
         "14533"
-      ]
+      ],
+      "id": "avon-free-library-ny"
     },
     {
       "name": "CALEDONIA LIBRARY ASSOCIATION",
@@ -197,7 +208,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "14423"
-      ]
+      ],
+      "id": "caledonia-library-association-ny"
     },
     {
       "name": "DANSVILLE PUBLIC LIBRARY",
@@ -212,7 +224,8 @@
         "14545",
         "14560",
         "14836"
-      ]
+      ],
+      "id": "dansville-public-library-ny"
     },
     {
       "name": "WADSWORTH LIBRARY",
@@ -228,7 +241,8 @@
         "14480",
         "14481",
         "14533"
-      ]
+      ],
+      "id": "wadsworth-library-ny"
     },
     {
       "name": "LIMA PUBLIC LIBRARY",
@@ -248,7 +262,8 @@
         "45809",
         "45820",
         "45850"
-      ]
+      ],
+      "id": "lima-public-library-ny"
     },
     {
       "name": "LIVONIA PUBLIC LIBRARY",
@@ -266,7 +281,8 @@
         "48154",
         "48219",
         "48239"
-      ]
+      ],
+      "id": "livonia-public-library-ny"
     },
     {
       "name": "SEYMOUR LIBRARY",
@@ -277,7 +293,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "14420"
-      ]
+      ],
+      "id": "seymour-library-ny"
     },
     {
       "name": "NEWMAN RIGA LIBRARY",
@@ -289,7 +306,8 @@
       "zipcodes": [
         "14428",
         "14514"
-      ]
+      ],
+      "id": "newman-riga-library-ny"
     },
     {
       "name": "EAST ROCHESTER PUBLIC LIBRARY",
@@ -305,7 +323,8 @@
         "14445",
         "14610",
         "14625"
-      ]
+      ],
+      "id": "east-rochester-public-library-ny-2"
     },
     {
       "name": "FAIRPORT PUBLIC LIBRARY",
@@ -316,7 +335,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "14450"
-      ]
+      ],
+      "id": "fairport-public-library-ny"
     },
     {
       "name": "PARMA PUBLIC LIBRARY",
@@ -327,7 +347,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "14468"
-      ]
+      ],
+      "id": "parma-public-library-ny"
     },
     {
       "name": "TOWN OF MENDON PUBLIC LIBRARY",
@@ -340,7 +361,8 @@
         "14467",
         "14472",
         "14506"
-      ]
+      ],
+      "id": "town-of-mendon-public-library-ny"
     },
     {
       "name": "ALLENS HILL FREE LIBRARY",
@@ -354,7 +376,8 @@
         "14469",
         "14475",
         "14585"
-      ]
+      ],
+      "id": "allens-hill-free-library-ny"
     },
     {
       "name": "BRISTOL LIBRARY",
@@ -366,7 +389,8 @@
       "zipcodes": [
         "14424",
         "14466"
-      ]
+      ],
+      "id": "bristol-library-ny"
     },
     {
       "name": "WOOD LIBRARY ASSOCIATION",
@@ -380,7 +404,8 @@
         "14425",
         "14548",
         "14561"
-      ]
+      ],
+      "id": "wood-library-association-ny"
     },
     {
       "name": "CLIFTON SPRINGS LIBRARY",
@@ -392,7 +417,8 @@
       "zipcodes": [
         "14432",
         "14548"
-      ]
+      ],
+      "id": "clifton-springs-library-ny"
     },
     {
       "name": "GORHAM FREE LIBRARY",
@@ -405,7 +431,8 @@
         "14456",
         "14461",
         "14561"
-      ]
+      ],
+      "id": "gorham-free-library-ny"
     },
     {
       "name": "HONEOYE PUBLIC LIBRARY",
@@ -418,7 +445,8 @@
         "14466",
         "14471",
         "14585"
-      ]
+      ],
+      "id": "honeoye-public-library-ny"
     },
     {
       "name": "CLYDE-SAVANNAH PUBLIC LIBRARY",
@@ -431,7 +459,8 @@
         "13146",
         "14433",
         "14489"
-      ]
+      ],
+      "id": "clyde-savannah-public-library-ny-2"
     },
     {
       "name": "CORDELIA A. GREENE LIBRARY",
@@ -443,7 +472,8 @@
       "zipcodes": [
         "14427",
         "14536"
-      ]
+      ],
+      "id": "cordelia-a-greene-library-ny"
     },
     {
       "name": "HAMLIN PUBLIC LIBRARY",
@@ -454,7 +484,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "14464"
-      ]
+      ],
+      "id": "hamlin-public-library-ny"
     },
     {
       "name": "PENN YAN PUBLIC LIBRARY",
@@ -470,7 +501,8 @@
         "14527",
         "14544",
         "14842"
-      ]
+      ],
+      "id": "penn-yan-public-library-ny"
     },
     {
       "name": "MOUNT MORRIS LIBRARY",
@@ -485,7 +517,8 @@
         "14510",
         "14533",
         "14545"
-      ]
+      ],
+      "id": "mount-morris-library-ny"
     },
     {
       "name": "RUSH PUBLIC LIBRARY",
@@ -499,7 +532,8 @@
         "14506",
         "14543",
         "14586"
-      ]
+      ],
+      "id": "rush-public-library-ny"
     },
     {
       "name": "PHELPS LIBRARY",
@@ -511,7 +545,8 @@
       "zipcodes": [
         "14456",
         "14532"
-      ]
+      ],
+      "id": "phelps-library-ny"
     },
     {
       "name": "VICTOR FARMINGTON LIBRARY",
@@ -524,7 +559,8 @@
         "14425",
         "14475",
         "14564"
-      ]
+      ],
+      "id": "victor-farmington-library-ny"
     },
     {
       "name": "RED JACKET COMMUNITY LIBRARY",
@@ -537,7 +573,8 @@
         "14425",
         "14504",
         "14548"
-      ]
+      ],
+      "id": "red-jacket-community-library-ny"
     },
     {
       "name": "HENRIETTA PUBLIC LIBRARY",
@@ -551,7 +588,8 @@
         "14586",
         "14620",
         "14623"
-      ]
+      ],
+      "id": "henrietta-public-library-ny"
     },
     {
       "name": "RICHMOND MEMORIAL LIBRARY",
@@ -568,7 +606,8 @@
         "14058",
         "14143",
         "14422"
-      ]
+      ],
+      "id": "richmond-memorial-library-ny-4"
     }
   ]
 }

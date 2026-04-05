@@ -35,7 +35,8 @@
         "87412",
         "87413",
         "87415"
-      ]
+      ],
+      "id": "bloomfield-public-library-nj-2"
     },
     {
       "name": "WELLES-TURNER MEMORIAL LIBRARY",
@@ -47,7 +48,8 @@
       "zipcodes": [
         "06033",
         "06118"
-      ]
+      ],
+      "id": "welles-turner-memorial-library-ct-2"
     },
     {
       "name": "WOOD MEMORIAL LIBRARY AND MUSEUM",
@@ -59,7 +61,8 @@
       "zipcodes": [
         "06074",
         "06120"
-      ]
+      ],
+      "id": "wood-memorial-library-and-museum-ct-2"
     },
     {
       "name": "EAST HARTFORD PUBLIC LIBRARY",
@@ -77,7 +80,8 @@
         "06118",
         "06119",
         "06120"
-      ]
+      ],
+      "id": "east-hartford-public-library-ct"
     },
     {
       "name": "HARTFORD PUBLIC LIBRARY",
@@ -101,7 +105,8 @@
         "49043",
         "49057",
         "49064"
-      ]
+      ],
+      "id": "hartford-public-library-ct"
     },
     {
       "name": "LUCY ROBBINS WELLES LIBRARY",
@@ -114,7 +119,8 @@
         "06053",
         "06110",
         "06111"
-      ]
+      ],
+      "id": "lucy-robbins-welles-library-ct-2"
     },
     {
       "name": "WEST HARTFORD PUBLIC LIBRARY",
@@ -131,7 +137,8 @@
         "06112",
         "06117",
         "06119"
-      ]
+      ],
+      "id": "west-hartford-public-library-ct"
     },
     {
       "name": "WETHERSFIELD PUBLIC LIBRARY",
@@ -143,7 +150,8 @@
       "zipcodes": [
         "06109",
         "06114"
-      ]
+      ],
+      "id": "wethersfield-public-library-ct"
     }
   ]
 }

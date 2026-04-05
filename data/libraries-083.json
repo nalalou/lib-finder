@@ -11,7 +11,8 @@
         "08328",
         "08344",
         "14867"
-      ]
+      ],
+      "id": "newfield-public-library-ny"
     },
     {
       "name": "ATLANTIC COUNTY LIBRARY",
@@ -34,7 +35,8 @@
         "08341",
         "08346",
         "08350"
-      ]
+      ],
+      "id": "atlantic-county-library-nj-3"
     },
     {
       "name": "CUMBERLAND COUNTY LIBRARY",
@@ -50,7 +52,8 @@
         "08345",
         "08352",
         "08353"
-      ]
+      ],
+      "id": "cumberland-county-library-nj"
     },
     {
       "name": "BRIDGETON FREE PUBLIC LIBRARY",
@@ -65,7 +68,8 @@
         "08323",
         "08352",
         "08353"
-      ]
+      ],
+      "id": "bridgeton-free-public-library-nj"
     },
     {
       "name": "MILLVILLE PUBLIC LIBRARY",
@@ -85,7 +89,8 @@
         "08348",
         "08349",
         "08361"
-      ]
+      ],
+      "id": "millville-public-library-nj"
     },
     {
       "name": "VINELAND PUBLIC LIBRARY",
@@ -98,7 +103,8 @@
         "08352",
         "08360",
         "08361"
-      ]
+      ],
+      "id": "vineland-public-library-nj"
     },
     {
       "name": "FRANKLIN TWP PUBLIC LIBRARY/GLOUCESTER",
@@ -114,7 +120,8 @@
         "08328",
         "08343",
         "08344"
-      ]
+      ],
+      "id": "franklin-twp-public-librarygloucester-nj-2"
     },
     {
       "name": "ELMER PUBLIC LIBRARY",
@@ -126,7 +133,8 @@
       "zipcodes": [
         "08001",
         "08318"
-      ]
+      ],
+      "id": "elmer-public-library-nj-2"
     },
     {
       "name": "MONROE TWP PUBLIC LIBRARY/GLOUCESTER",
@@ -140,7 +148,8 @@
         "08312",
         "08328",
         "08344"
-      ]
+      ],
+      "id": "monroe-twp-public-librarygloucester-nj-2"
     },
     {
       "name": "MCCOWAN MEMORIAL LIBRARY",
@@ -156,7 +165,8 @@
         "08074",
         "08312",
         "08343"
-      ]
+      ],
+      "id": "mccowan-memorial-library-nj-2"
     },
     {
       "name": "MARGARET E. HEGGAN FREE PUBLIC LIBRARY",
@@ -171,7 +181,8 @@
         "08074",
         "08080",
         "08343"
-      ]
+      ],
+      "id": "margaret-e-heggan-free-public-library-nj-2"
     }
   ]
 }

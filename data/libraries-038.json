@@ -36,7 +36,8 @@
         "19807",
         "19808",
         "19809"
-      ]
+      ],
+      "id": "new-castle-public-library-de"
     },
     {
       "name": "WAKEFIELD PUBLIC LIBRARY",
@@ -51,7 +52,8 @@
         "49968",
         "67458",
         "67487"
-      ]
+      ],
+      "id": "wakefield-public-library-mi"
     },
     {
       "name": "ROCHESTER PUBLIC LIBRARY",
@@ -97,7 +99,8 @@
         "55929",
         "55934",
         "55960"
-      ]
+      ],
+      "id": "rochester-public-library-mn"
     },
     {
       "name": "EAST ROCHESTER PUBLIC LIBRARY",
@@ -113,7 +116,8 @@
         "14445",
         "14610",
         "14625"
-      ]
+      ],
+      "id": "east-rochester-public-library-ny"
     },
     {
       "name": "DOVER PUBLIC LIBRARY",
@@ -142,7 +146,8 @@
         "44680",
         "44681",
         "44697"
-      ]
+      ],
+      "id": "dover-public-library-oh"
     },
     {
       "name": "PORTSMOUTH PUBLIC LIBRARY",
@@ -180,7 +185,8 @@
         "23704",
         "23707",
         "23708"
-      ]
+      ],
+      "id": "portsmouth-public-library-va"
     },
     {
       "name": "KIMBALL LIBRARY",
@@ -192,7 +198,8 @@
       "zipcodes": [
         "03811",
         "03826"
-      ]
+      ],
+      "id": "kimball-library-nh"
     },
     {
       "name": "JACKSON PUBLIC LIBRARY",
@@ -206,7 +213,8 @@
         "03838",
         "03845",
         "03846"
-      ]
+      ],
+      "id": "jackson-public-library-nh"
     },
     {
       "name": "KENSINGTON SOCIAL & PUBLIC LIBRARY",
@@ -217,7 +225,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03833"
-      ]
+      ],
+      "id": "kensington-social-public-library-nh"
     },
     {
       "name": "KINGSTON COMMUNITY LIBRARY",
@@ -228,7 +237,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03848"
-      ]
+      ],
+      "id": "kingston-community-library-nh"
     },
     {
       "name": "LEE PUBLIC LIBRARY",
@@ -239,7 +249,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03861"
-      ]
+      ],
+      "id": "lee-public-library-nh"
     },
     {
       "name": "MADISON LIBRARY",
@@ -252,7 +263,8 @@
         "03832",
         "03849",
         "03875"
-      ]
+      ],
+      "id": "madison-library-nh"
     },
     {
       "name": "NUTE LIBRARY",
@@ -264,7 +276,8 @@
       "zipcodes": [
         "03851",
         "03887"
-      ]
+      ],
+      "id": "nute-library-nh"
     },
     {
       "name": "MILTON FREE PUBLIC LIBRARY",
@@ -276,7 +289,8 @@
       "zipcodes": [
         "03852",
         "03887"
-      ]
+      ],
+      "id": "milton-free-public-library-nh"
     },
     {
       "name": "BARRINGTON PUBLIC LIBRARY",
@@ -290,7 +304,8 @@
         "03825",
         "03839",
         "03867"
-      ]
+      ],
+      "id": "barrington-public-library-nh-2"
     },
     {
       "name": "NEW DURHAM PUBLIC LIBRARY",
@@ -302,7 +317,8 @@
       "zipcodes": [
         "03855",
         "03887"
-      ]
+      ],
+      "id": "new-durham-public-library-nh"
     },
     {
       "name": "PAUL MEMORIAL LIBRARY",
@@ -313,7 +329,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03856"
-      ]
+      ],
+      "id": "paul-memorial-library-nh"
     },
     {
       "name": "BARTLETT PUBLIC LIBRARY",
@@ -326,7 +343,8 @@
         "03812",
         "03838",
         "03845"
-      ]
+      ],
+      "id": "bartlett-public-library-nh"
     },
     {
       "name": "LANGDON LIBRARY",
@@ -337,7 +355,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03801"
-      ]
+      ],
+      "id": "langdon-library-nh"
     },
     {
       "name": "NEWMARKET PUBLIC LIBRARY",
@@ -348,7 +367,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03857"
-      ]
+      ],
+      "id": "newmarket-public-library-nh"
     },
     {
       "name": "GALE LIBRARY",
@@ -359,7 +379,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "03858"
-      ]
+      ],
+      "id": "gale-library-nh"
     },
     {
       "name": "NORTH HAMPTON PUBLIC LIBRARY",
@@ -370,7 +391,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "03862"
-      ]
+      ],
+      "id": "north-hampton-public-library-nh"
     },
     {
       "name": "OSSIPEE PUBLIC LIBRARY",
@@ -382,7 +404,8 @@
       "zipcodes": [
         "03814",
         "03864"
-      ]
+      ],
+      "id": "ossipee-public-library-nh"
     },
     {
       "name": "PLAISTOW PUBLIC LIBRARY",
@@ -393,7 +416,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03865"
-      ]
+      ],
+      "id": "plaistow-public-library-nh"
     },
     {
       "name": "RYE PUBLIC LIBRARY",
@@ -405,7 +429,8 @@
       "zipcodes": [
         "03854",
         "03870"
-      ]
+      ],
+      "id": "rye-public-library-nh"
     },
     {
       "name": "SANDOWN PUBLIC LIBRARY",
@@ -416,7 +441,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03873"
-      ]
+      ],
+      "id": "sandown-public-library-nh"
     },
     {
       "name": "SEABROOK LIBRARY",
@@ -427,7 +453,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03874"
-      ]
+      ],
+      "id": "seabrook-library-nh"
     },
     {
       "name": "SOMERSWORTH PUBLIC LIBRARY",
@@ -439,7 +466,8 @@
       "zipcodes": [
         "03868",
         "03878"
-      ]
+      ],
+      "id": "somersworth-public-library-nh"
     },
     {
       "name": "SOUTH HAMPTON FREE PUBLIC LIBRARY",
@@ -450,7 +478,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03827"
-      ]
+      ],
+      "id": "south-hampton-free-public-library-nh"
     },
     {
       "name": "HILL LIBRARY",
@@ -461,7 +490,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03884"
-      ]
+      ],
+      "id": "hill-library-nh"
     },
     {
       "name": "WIGGIN MEMORIAL LIBRARY",
@@ -472,7 +502,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "03885"
-      ]
+      ],
+      "id": "wiggin-memorial-library-nh"
     },
     {
       "name": "TUFTONBORO FREE LIBRARY",
@@ -485,7 +516,8 @@
         "03816",
         "03853",
         "03864"
-      ]
+      ],
+      "id": "tuftonboro-free-library-nh"
     },
     {
       "name": "GAFNEY LIBRARY",
@@ -497,7 +529,8 @@
       "zipcodes": [
         "03830",
         "03872"
-      ]
+      ],
+      "id": "gafney-library-nh"
     },
     {
       "name": "WOLFEBORO PUBLIC LIBRARY",
@@ -509,7 +542,8 @@
       "zipcodes": [
         "03853",
         "03894"
-      ]
+      ],
+      "id": "wolfeboro-public-library-nh"
     },
     {
       "name": "MARY E. BARTLETT LIBRARY",
@@ -520,7 +554,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03833"
-      ]
+      ],
+      "id": "mary-e-bartlett-library-nh"
     },
     {
       "name": "CONWAY PUBLIC LIBRARY",
@@ -532,7 +567,8 @@
       "zipcodes": [
         "03818",
         "03832"
-      ]
+      ],
+      "id": "conway-public-library-nh"
     },
     {
       "name": "POPE MEMORIAL LIBRARY",
@@ -546,7 +582,8 @@
         "03838",
         "03845",
         "03860"
-      ]
+      ],
+      "id": "pope-memorial-library-nh"
     },
     {
       "name": "COLBY MEMORIAL LIBRARY",
@@ -558,7 +595,8 @@
       "zipcodes": [
         "03819",
         "03826"
-      ]
+      ],
+      "id": "colby-memorial-library-nh"
     },
     {
       "name": "GILMAN LIBRARY",
@@ -570,7 +608,8 @@
       "zipcodes": [
         "03809",
         "03810"
-      ]
+      ],
+      "id": "gilman-library-nh"
     },
     {
       "name": "DURHAM PUBLIC LIBRARY",
@@ -584,7 +623,8 @@
         "03824",
         "06422",
         "06441"
-      ]
+      ],
+      "id": "durham-public-library-nh"
     },
     {
       "name": "EAST KINGSTON PUBLIC LIBRARY",
@@ -595,7 +635,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03827"
-      ]
+      ],
+      "id": "east-kingston-public-library-nh"
     },
     {
       "name": "EFFINGHAM PUBLIC LIBRARY",
@@ -613,7 +654,8 @@
         "62461",
         "62467",
         "62473"
-      ]
+      ],
+      "id": "effingham-public-library-nh"
     },
     {
       "name": "GOODWIN LIBRARY",
@@ -624,7 +666,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03835"
-      ]
+      ],
+      "id": "goodwin-library-nh"
     },
     {
       "name": "FREEDOM PUBLIC LIBRARY",
@@ -636,7 +679,8 @@
       "zipcodes": [
         "03832",
         "03836"
-      ]
+      ],
+      "id": "freedom-public-library-nh"
     },
     {
       "name": "WEEKS PUBLIC LIBRARY",
@@ -647,7 +691,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03840"
-      ]
+      ],
+      "id": "weeks-public-library-nh"
     },
     {
       "name": "HAMPSTEAD PUBLIC LIBRARY",
@@ -659,7 +704,8 @@
       "zipcodes": [
         "03826",
         "03841"
-      ]
+      ],
+      "id": "hampstead-public-library-nh"
     },
     {
       "name": "LANE MEMORIAL LIBRARY",
@@ -670,7 +716,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03842"
-      ]
+      ],
+      "id": "lane-memorial-library-nh"
     },
     {
       "name": "HAMPTON FALLS FREE LIBRARY",
@@ -681,7 +728,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03844"
-      ]
+      ],
+      "id": "hampton-falls-free-library-nh"
     },
     {
       "name": "COOK MEMORIAL LIBRARY",
@@ -695,7 +743,8 @@
         "03875",
         "03883",
         "03886"
-      ]
+      ],
+      "id": "cook-memorial-library-nh-2"
     },
     {
       "name": "CHOCORUA PUBLIC LIBRARY",
@@ -707,7 +756,8 @@
       "zipcodes": [
         "03817",
         "03875"
-      ]
+      ],
+      "id": "chocorua-public-library-nh"
     },
     {
       "name": "GILMANTON IRON WORKS LIBRARY",
@@ -719,7 +769,8 @@
       "zipcodes": [
         "03218",
         "03837"
-      ]
+      ],
+      "id": "gilmanton-iron-works-library-nh-2"
     },
     {
       "name": "MADBURY PUBLIC LIBRARY",
@@ -731,7 +782,8 @@
       "zipcodes": [
         "03820",
         "03823"
-      ]
+      ],
+      "id": "madbury-public-library-nh"
     },
     {
       "name": "ROLLINSFORD PUBLIC LIBRARY",
@@ -742,7 +794,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03869"
-      ]
+      ],
+      "id": "rollinsford-public-library-nh"
     },
     {
       "name": "GILMANTON YEAR-ROUND LIBRARY ASSOCIATION",
@@ -755,7 +808,8 @@
         "03218",
         "03810",
         "03837"
-      ]
+      ],
+      "id": "gilmanton-year-round-library-association-nh-2"
     },
     {
       "name": "MOULTONBOROUGH PUBLIC LIBRARY",
@@ -769,7 +823,8 @@
         "03259",
         "03853",
         "03883"
-      ]
+      ],
+      "id": "moultonborough-public-library-nh-2"
     },
     {
       "name": "SAMUEL H. WENTWORTH LIBRARY",
@@ -782,7 +837,8 @@
         "03227",
         "03259",
         "03883"
-      ]
+      ],
+      "id": "samuel-h-wentworth-library-nh-2"
     },
     {
       "name": "GILFORD PUBLIC LIBRARY",
@@ -794,7 +850,8 @@
       "zipcodes": [
         "03249",
         "03810"
-      ]
+      ],
+      "id": "gilford-public-library-nh-2"
     }
   ]
 }

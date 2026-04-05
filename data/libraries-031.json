@@ -9,7 +9,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03106"
-      ]
+      ],
+      "id": "hooksett-public-library-nh"
     },
     {
       "name": "MANCHESTER CITY LIBRARY",
@@ -24,7 +25,8 @@
         "03103",
         "03104",
         "03109"
-      ]
+      ],
+      "id": "manchester-city-library-nh"
     },
     {
       "name": "BEDFORD PUBLIC LIBRARY",
@@ -55,7 +57,8 @@
         "76040",
         "76054",
         "76155"
-      ]
+      ],
+      "id": "bedford-public-library-nh"
     },
     {
       "name": "MERRIMACK PUBLIC LIBRARY",
@@ -68,7 +71,8 @@
         "03054",
         "03103",
         "03109"
-      ]
+      ],
+      "id": "merrimack-public-library-nh-2"
     },
     {
       "name": "GOFFSTOWN PUBLIC LIBRARY",
@@ -81,7 +85,8 @@
         "03045",
         "03101",
         "03102"
-      ]
+      ],
+      "id": "goffstown-public-library-nh-2"
     }
   ]
 }

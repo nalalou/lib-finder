@@ -12,7 +12,8 @@
         "05062",
         "05142",
         "05151"
-      ]
+      ],
+      "id": "reading-public-vt-2"
     },
     {
       "name": "WEATHERSFIELD PROCTOR",
@@ -24,7 +25,8 @@
       "zipcodes": [
         "05030",
         "05151"
-      ]
+      ],
+      "id": "weathersfield-proctor-vt-2"
     },
     {
       "name": "MARY L. BLOOD MEMORIAL",
@@ -36,7 +38,8 @@
       "zipcodes": [
         "05037",
         "05151"
-      ]
+      ],
+      "id": "mary-l-blood-memorial-vt-2"
     },
     {
       "name": "CAVENDISH FLETCHER COMMUNITY",
@@ -49,7 +52,8 @@
         "05142",
         "05150",
         "05153"
-      ]
+      ],
+      "id": "cavendish-fletcher-community-vt"
     },
     {
       "name": "WHITING",
@@ -61,7 +65,8 @@
       "zipcodes": [
         "05143",
         "05150"
-      ]
+      ],
+      "id": "whiting-vt"
     },
     {
       "name": "GRAFTON PUBLIC",
@@ -73,7 +78,8 @@
       "zipcodes": [
         "05146",
         "05154"
-      ]
+      ],
+      "id": "grafton-public-vt"
     },
     {
       "name": "SOUTH LONDONDERRY FREE",
@@ -85,7 +91,8 @@
       "zipcodes": [
         "05148",
         "05155"
-      ]
+      ],
+      "id": "south-londonderry-free-vt"
     },
     {
       "name": "FLETCHER MEMORIAL",
@@ -98,7 +105,8 @@
         "05056",
         "05142",
         "05149"
-      ]
+      ],
+      "id": "fletcher-memorial-vt-2"
     },
     {
       "name": "TYSON",
@@ -111,7 +119,8 @@
         "05034",
         "05056",
         "05149"
-      ]
+      ],
+      "id": "tyson-vt-2"
     },
     {
       "name": "ROCKINGHAM FREE PUBLIC",
@@ -123,7 +132,8 @@
       "zipcodes": [
         "05101",
         "05154"
-      ]
+      ],
+      "id": "rockingham-free-public-vt"
     },
     {
       "name": "SPRINGFIELD TOWN",
@@ -135,7 +145,8 @@
       "zipcodes": [
         "05150",
         "05156"
-      ]
+      ],
+      "id": "springfield-town-vt"
     },
     {
       "name": "BUTTERFIELD",
@@ -146,7 +157,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05158"
-      ]
+      ],
+      "id": "butterfield-vt"
     },
     {
       "name": "WILDER MEMORIAL",
@@ -157,7 +169,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05161"
-      ]
+      ],
+      "id": "wilder-memorial-vt"
     },
     {
       "name": "DORSET VILLAGE PUBLIC",
@@ -171,7 +184,8 @@
         "05251",
         "05253",
         "05254"
-      ]
+      ],
+      "id": "dorset-village-public-vt"
     },
     {
       "name": "MANCHESTER COMMUNITY LIBRARY",
@@ -186,7 +200,8 @@
         "05253",
         "05254",
         "05255"
-      ]
+      ],
+      "id": "manchester-community-library-vt"
     },
     {
       "name": "JAMAICA MEMORIAL",
@@ -198,7 +213,8 @@
       "zipcodes": [
         "05148",
         "05343"
-      ]
+      ],
+      "id": "jamaica-memorial-vt"
     },
     {
       "name": "WESTMINSTER WEST PUBLIC",
@@ -210,7 +226,8 @@
       "zipcodes": [
         "05154",
         "05346"
-      ]
+      ],
+      "id": "westminster-west-public-vt"
     },
     {
       "name": "WINDHAM TOWN",
@@ -222,7 +239,8 @@
       "zipcodes": [
         "05148",
         "05359"
-      ]
+      ],
+      "id": "windham-town-vt"
     },
     {
       "name": "WINHALL MEMORIAL",
@@ -236,7 +254,8 @@
         "05252",
         "05253",
         "05340"
-      ]
+      ],
+      "id": "winhall-memorial-vt"
     }
   ]
 }

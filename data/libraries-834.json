@@ -10,7 +10,8 @@
       "zipcodes": [
         "83423",
         "83446"
-      ]
+      ],
+      "id": "clark-county-district-id"
     },
     {
       "name": "IDAHO FALLS PUBLIC",
@@ -24,7 +25,8 @@
         "83402",
         "83404",
         "83427"
-      ]
+      ],
+      "id": "idaho-falls-public-id"
     },
     {
       "name": "LEWISVILLE LEGACY PUBLIC",
@@ -35,7 +37,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83431"
-      ]
+      ],
+      "id": "lewisville-legacy-public-id"
     },
     {
       "name": "JEFFERSON COUNTY DISTRICT",
@@ -46,7 +49,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83434"
-      ]
+      ],
+      "id": "jefferson-county-district-id"
     },
     {
       "name": "MADISON LIBRARY DISTRICT",
@@ -57,7 +61,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "83440"
-      ]
+      ],
+      "id": "madison-library-district-id"
     },
     {
       "name": "RIRIE PUBLIC",
@@ -68,7 +73,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83443"
-      ]
+      ],
+      "id": "ririe-public-id"
     },
     {
       "name": "RIGBY PUBLIC",
@@ -79,7 +85,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83442"
-      ]
+      ],
+      "id": "rigby-public-id"
     },
     {
       "name": "ROBERTS CITY LIBRARY",
@@ -93,7 +100,8 @@
         "83435",
         "83444",
         "83450"
-      ]
+      ],
+      "id": "roberts-city-library-id"
     },
     {
       "name": "LEMHI COUNTY DISTRICT",
@@ -112,7 +120,8 @@
         "83467",
         "83468",
         "83469"
-      ]
+      ],
+      "id": "lemhi-county-district-id-2"
     },
     {
       "name": "SUGAR SALEM SCHOOL/COMMUNITY",
@@ -123,7 +132,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83448"
-      ]
+      ],
+      "id": "sugar-salem-schoolcommunity-id"
     },
     {
       "name": "VALLEY OF THE TETONS DISTRICT",
@@ -137,7 +147,8 @@
         "83424",
         "83452",
         "83455"
-      ]
+      ],
+      "id": "valley-of-the-tetons-district-id"
     },
     {
       "name": "FREMONT COUNTY DISTRICT",
@@ -154,7 +165,8 @@
         "83436",
         "83445",
         "83451"
-      ]
+      ],
+      "id": "fremont-county-district-id"
     },
     {
       "name": "BONNEVILLE COUNTY",
@@ -170,7 +182,8 @@
         "83427",
         "83428",
         "83449"
-      ]
+      ],
+      "id": "bonneville-county-id"
     }
   ]
 }

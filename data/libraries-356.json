@@ -12,7 +12,8 @@
         "50475",
         "61338",
         "61361"
-      ]
+      ],
+      "id": "sheffield-public-library-ia"
     },
     {
       "name": "SOMERVILLE PUBLIC LIBRARY",
@@ -31,7 +32,8 @@
         "35670",
         "35754",
         "35775"
-      ]
+      ],
+      "id": "somerville-public-library-ma-2"
     },
     {
       "name": "DECATUR PUBLIC LIBRARY",
@@ -50,7 +52,8 @@
         "62532",
         "62537",
         "76234"
-      ]
+      ],
+      "id": "decatur-public-library-tx"
     },
     {
       "name": "LAWRENCE COUNTY PUBLIC LIBRARY",
@@ -78,7 +81,8 @@
         "41230",
         "41232",
         "41264"
-      ]
+      ],
+      "id": "lawrence-county-public-library-ky"
     },
     {
       "name": "CHEROKEE PUBLIC LIBRARY",
@@ -92,7 +96,8 @@
         "51012",
         "51029",
         "51037"
-      ]
+      ],
+      "id": "cherokee-public-library-ia"
     },
     {
       "name": "FLORENCE - LAUDERDALE PUBLIC LIBRARY",
@@ -106,7 +111,8 @@
         "35633",
         "35634",
         "35677"
-      ]
+      ],
+      "id": "florence---lauderdale-public-library-al"
     },
     {
       "name": "TUSCUMBIA - HELEN KELLER PUBLIC LIBRARY",
@@ -118,7 +124,8 @@
       "zipcodes": [
         "35660",
         "35674"
-      ]
+      ],
+      "id": "tuscumbia---helen-keller-public-library-al"
     },
     {
       "name": "LEIGHTON PUBLIC LIBRARY",
@@ -129,7 +136,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "35646"
-      ]
+      ],
+      "id": "leighton-public-library-al"
     },
     {
       "name": "MUSCLE SHOALS PUBLIC LIBRARY",
@@ -141,7 +149,8 @@
       "zipcodes": [
         "35660",
         "35661"
-      ]
+      ],
+      "id": "muscle-shoals-public-library-al"
     },
     {
       "name": "ROGERSVILLE PUBLIC LIBRARY",
@@ -153,7 +162,8 @@
       "zipcodes": [
         "35610",
         "35652"
-      ]
+      ],
+      "id": "rogersville-public-library-al"
     },
     {
       "name": "RUSSELLVILLE PUBLIC LIBRARY",
@@ -167,7 +177,8 @@
         "35585",
         "35653",
         "35654"
-      ]
+      ],
+      "id": "russellville-public-library-al-2"
     },
     {
       "name": "ATHENS - LIMESTONE PUBLIC LIBRARY",
@@ -186,7 +197,8 @@
         "35671",
         "35739",
         "35756"
-      ]
+      ],
+      "id": "athens---limestone-public-library-al"
     },
     {
       "name": "HARTSELLE - WILLIAM BRADFORD HUIE LIBRARY OF HARTSELLE",
@@ -198,7 +210,8 @@
       "zipcodes": [
         "35619",
         "35640"
-      ]
+      ],
+      "id": "hartselle---william-bradford-huie-library-of-hartselle-al"
     },
     {
       "name": "KILLEN PUBLIC LIBRARY",
@@ -210,7 +223,8 @@
       "zipcodes": [
         "35634",
         "35645"
-      ]
+      ],
+      "id": "killen-public-library-al"
     },
     {
       "name": "LEXINGTON - BURCHELL CAMPBELL MEMORIAL LIBRARY",
@@ -222,7 +236,8 @@
       "zipcodes": [
         "35610",
         "35648"
-      ]
+      ],
+      "id": "lexington---burchell-campbell-memorial-library-al"
     },
     {
       "name": "COURTLAND PUBLIC LIBRARY",
@@ -234,7 +249,8 @@
       "zipcodes": [
         "35618",
         "35643"
-      ]
+      ],
+      "id": "courtland-public-library-al"
     },
     {
       "name": "EVA PUBLIC LIBRARY",
@@ -246,7 +262,8 @@
       "zipcodes": [
         "35621",
         "35670"
-      ]
+      ],
+      "id": "eva-public-library-al"
     },
     {
       "name": "FALKVILLE PUBLIC LIBRARY",
@@ -257,7 +274,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "35622"
-      ]
+      ],
+      "id": "falkville-public-library-al"
     },
     {
       "name": "TOWN CREEK PUBLIC LIBRARY",
@@ -268,7 +286,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "35672"
-      ]
+      ],
+      "id": "town-creek-public-library-al"
     },
     {
       "name": "LINDA DURAN PUBLIC LIBRARY",
@@ -280,7 +299,8 @@
       "zipcodes": [
         "35601",
         "35603"
-      ]
+      ],
+      "id": "linda-duran-public-library-al"
     }
   ]
 }

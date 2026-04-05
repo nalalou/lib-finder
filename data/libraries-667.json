@@ -12,7 +12,8 @@
         "66736",
         "86022",
         "86435"
-      ]
+      ],
+      "id": "fredonia-public-library-az"
     },
     {
       "name": "HUMBOLDT PUBLIC LIBRARY",
@@ -30,7 +31,8 @@
         "50582",
         "50591",
         "66748"
-      ]
+      ],
+      "id": "humboldt-public-library-ia-3"
     },
     {
       "name": "WALNUT PUBLIC LIBRARY",
@@ -43,7 +45,8 @@
         "51536",
         "51577",
         "66780"
-      ]
+      ],
+      "id": "walnut-public-library-ia-2"
     },
     {
       "name": "COLUMBUS PUBLIC LIBRARY",
@@ -61,7 +64,8 @@
         "66782",
         "68601",
         "68634"
-      ]
+      ],
+      "id": "columbus-public-library-wi-2"
     },
     {
       "name": "SAVONBURG PUBLIC LIBRARY",
@@ -73,7 +77,8 @@
       "zipcodes": [
         "66732",
         "66772"
-      ]
+      ],
+      "id": "savonburg-public-library-ks"
     },
     {
       "name": "HEPLER CITY LIBRARY",
@@ -86,7 +91,8 @@
         "66734",
         "66746",
         "66780"
-      ]
+      ],
+      "id": "hepler-city-library-ks"
     },
     {
       "name": "PRESCOTT CITY LIBRARY",
@@ -97,7 +103,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66767"
-      ]
+      ],
+      "id": "prescott-city-library-ks"
     },
     {
       "name": "BRONSON PUBLIC LIBRARY",
@@ -110,7 +117,8 @@
         "66716",
         "66754",
         "66779"
-      ]
+      ],
+      "id": "bronson-public-library-ks"
     },
     {
       "name": "TORONTO PUBLIC LIBRARY",
@@ -121,7 +129,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66777"
-      ]
+      ],
+      "id": "toronto-public-library-ks"
     },
     {
       "name": "MCCUNE OSAGE TOWNSHIP LIBRARY",
@@ -133,7 +142,8 @@
       "zipcodes": [
         "66724",
         "66753"
-      ]
+      ],
+      "id": "mccune-osage-township-library-ks"
     },
     {
       "name": "ALTOONA PUBLIC LIBRARY",
@@ -154,7 +164,8 @@
         "66710",
         "66714",
         "66717"
-      ]
+      ],
+      "id": "altoona-public-library-ks-4"
     },
     {
       "name": "THAYER FRIDAY READING CLUB CITY LIBRARY",
@@ -166,7 +177,8 @@
       "zipcodes": [
         "66740",
         "66776"
-      ]
+      ],
+      "id": "thayer-friday-reading-club-city-library-ks"
     },
     {
       "name": "MORAN PUBLIC LIBRARY",
@@ -179,7 +191,8 @@
         "66732",
         "66751",
         "66755"
-      ]
+      ],
+      "id": "moran-public-library-ks"
     },
     {
       "name": "WEIR PUBLIC LIBRARY",
@@ -192,7 +205,8 @@
         "66773",
         "66781",
         "66782"
-      ]
+      ],
+      "id": "weir-public-library-ks"
     },
     {
       "name": "GRAVES MEMORIAL PUBLIC LIBRARY",
@@ -203,7 +217,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66771"
-      ]
+      ],
+      "id": "graves-memorial-public-library-ks"
     },
     {
       "name": "ERIE CITY PUBLIC LIBRARY",
@@ -216,7 +231,8 @@
         "66733",
         "66740",
         "66775"
-      ]
+      ],
+      "id": "erie-city-public-library-ks"
     },
     {
       "name": "YATES CENTER PUBLIC LIBRARY",
@@ -229,7 +245,8 @@
         "66758",
         "66761",
         "66783"
-      ]
+      ],
+      "id": "yates-center-public-library-ks"
     },
     {
       "name": "GIRARD PUBLIC LIBRARY",
@@ -243,7 +260,8 @@
         "66735",
         "66743",
         "66763"
-      ]
+      ],
+      "id": "girard-public-library-ks"
     },
     {
       "name": "NEODESHA/W.A. RANKIN MEMORIAL",
@@ -254,7 +272,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66757"
-      ]
+      ],
+      "id": "neodeshawa-rankin-memorial-ks"
     },
     {
       "name": "GALENA PUBLIC LIBRARY",
@@ -266,7 +285,8 @@
       "zipcodes": [
         "66739",
         "66770"
-      ]
+      ],
+      "id": "galena-public-library-ks"
     },
     {
       "name": "JOHNSTON PUBLIC LIBRARY",
@@ -283,7 +303,8 @@
         "66713",
         "66770",
         "66778"
-      ]
+      ],
+      "id": "johnston-public-library-ks-4"
     },
     {
       "name": "IOLA PUBLIC LIBRARY",
@@ -296,7 +317,8 @@
         "66748",
         "66749",
         "66751"
-      ]
+      ],
+      "id": "iola-public-library-ks"
     },
     {
       "name": "FORT SCOTT PUBLIC LIBRARY",
@@ -310,7 +332,8 @@
         "66738",
         "66741",
         "66769"
-      ]
+      ],
+      "id": "fort-scott-public-library-ks"
     },
     {
       "name": "CHANUTE PUBLIC LIBRARY",
@@ -321,7 +344,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66720"
-      ]
+      ],
+      "id": "chanute-public-library-ks"
     },
     {
       "name": "PITTSBURG PUBLIC LIBRARY",
@@ -337,7 +361,8 @@
         "66760",
         "66762",
         "66763"
-      ]
+      ],
+      "id": "pittsburg-public-library-ks"
     },
     {
       "name": "ARMA CITY LIBRARY",
@@ -353,7 +378,8 @@
         "66735",
         "66756",
         "66763"
-      ]
+      ],
+      "id": "arma-city-library-ks"
     }
   ]
 }

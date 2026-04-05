@@ -12,7 +12,8 @@
         "02558",
         "02576",
         "02738"
-      ]
+      ],
+      "id": "elizabeth-taber-library-ma"
     },
     {
       "name": "JOSEPH H. PLUMB MEMORIAL LIBRARY",
@@ -26,7 +27,8 @@
         "02558",
         "02576",
         "02770"
-      ]
+      ],
+      "id": "joseph-h-plumb-memorial-library-ma"
     },
     {
       "name": "MASHPEE PUBLIC LIBRARY",
@@ -42,7 +44,8 @@
         "02556",
         "02644",
         "02649"
-      ]
+      ],
+      "id": "mashpee-public-library-ma"
     },
     {
       "name": "MARSTONS MILLS PUBLIC LIBRARY",
@@ -55,7 +58,8 @@
         "02537",
         "02644",
         "02648"
-      ]
+      ],
+      "id": "marstons-mills-public-library-ma"
     },
     {
       "name": "WHELDEN MEMORIAL LIBRARY",
@@ -67,7 +71,8 @@
       "zipcodes": [
         "02537",
         "02668"
-      ]
+      ],
+      "id": "whelden-memorial-library-ma"
     },
     {
       "name": "JONATHAN BOURNE PUBLIC LIBRARY",
@@ -81,7 +86,8 @@
         "02534",
         "02542",
         "02559"
-      ]
+      ],
+      "id": "jonathan-bourne-public-library-ma"
     },
     {
       "name": "CHILMARK FREE PUBLIC LIBRARY",
@@ -92,7 +98,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02535"
-      ]
+      ],
+      "id": "chilmark-free-public-library-ma"
     },
     {
       "name": "EDGARTOWN FREE PUBLIC LIBRARY",
@@ -103,7 +110,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02539"
-      ]
+      ],
+      "id": "edgartown-free-public-library-ma"
     },
     {
       "name": "FALMOUTH PUBLIC LIBRARY",
@@ -116,7 +124,8 @@
         "02536",
         "02540",
         "02556"
-      ]
+      ],
+      "id": "falmouth-public-library-ma"
     },
     {
       "name": "AQUINNAH PUBLIC LIBRARY",
@@ -127,7 +136,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02535"
-      ]
+      ],
+      "id": "aquinnah-public-library-ma"
     },
     {
       "name": "NANTUCKET ATHENEUM",
@@ -138,7 +148,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02554"
-      ]
+      ],
+      "id": "nantucket-atheneum-ma"
     },
     {
       "name": "OAK BLUFFS PUBLIC LIBRARY",
@@ -149,7 +160,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02557"
-      ]
+      ],
+      "id": "oak-bluffs-public-library-ma"
     },
     {
       "name": "SANDWICH FREE PUBLIC LIBRARY",
@@ -164,7 +176,8 @@
         "02559",
         "02563",
         "02644"
-      ]
+      ],
+      "id": "sandwich-free-public-library-ma"
     },
     {
       "name": "VINEYARD HAVEN PUBLIC LIBRARY",
@@ -175,7 +188,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02568"
-      ]
+      ],
+      "id": "vineyard-haven-public-library-ma"
     },
     {
       "name": "WAREHAM FREE LIBRARY",
@@ -190,7 +204,8 @@
         "02558",
         "02571",
         "02576"
-      ]
+      ],
+      "id": "wareham-free-library-ma-2"
     },
     {
       "name": "WEST TISBURY FREE PUBLIC LIBRARY",
@@ -201,7 +216,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02575"
-      ]
+      ],
+      "id": "west-tisbury-free-public-library-ma"
     },
     {
       "name": "WEST FALMOUTH LIBRARY, INC.",
@@ -216,7 +232,8 @@
         "02540",
         "02556",
         "02559"
-      ]
+      ],
+      "id": "west-falmouth-library-inc-ma"
     },
     {
       "name": "WOODS HOLE PUBLIC LIBRARY",
@@ -227,7 +244,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "02543"
-      ]
+      ],
+      "id": "woods-hole-public-library-ma"
     }
   ]
 }

@@ -16,7 +16,8 @@
         "56011",
         "56071",
         "67871"
-      ]
+      ],
+      "id": "scott-county-library-mn-3"
     },
     {
       "name": "WELLS PUBLIC LIBRARY",
@@ -33,7 +34,8 @@
         "56051",
         "56068",
         "56097"
-      ]
+      ],
+      "id": "wells-public-library-me-3"
     },
     {
       "name": "MARTIN COUNTY LIBRARY",
@@ -58,7 +60,8 @@
         "79749",
         "79782",
         "79783"
-      ]
+      ],
+      "id": "martin-county-library-tx"
     },
     {
       "name": "SPRINGFIELD PUBLIC LIBRARY",
@@ -76,7 +79,8 @@
         "97455",
         "97477",
         "97478"
-      ]
+      ],
+      "id": "springfield-public-library-or"
     },
     {
       "name": "LAMBERTON PUBLIC LIBRARY",
@@ -91,7 +95,8 @@
         "56166",
         "56180",
         "56294"
-      ]
+      ],
+      "id": "lamberton-public-library-mn"
     },
     {
       "name": "ALBERT LEA PUBLIC LIBRARY",
@@ -113,7 +118,8 @@
         "56043",
         "56045",
         "56089"
-      ]
+      ],
+      "id": "albert-lea-public-library-mn"
     },
     {
       "name": "COMFREY AREA LIBRARY",
@@ -125,7 +131,8 @@
       "zipcodes": [
         "56019",
         "56087"
-      ]
+      ],
+      "id": "comfrey-area-library-mn"
     },
     {
       "name": "HANSKA COMMUNITY LIBRARY",
@@ -136,7 +143,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "56041"
-      ]
+      ],
+      "id": "hanska-community-library-mn"
     },
     {
       "name": "NEW ULM PUBLIC LIBRARY",
@@ -147,7 +155,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "56073"
-      ]
+      ],
+      "id": "new-ulm-public-library-mn"
     },
     {
       "name": "SLEEPY EYE: DYCKMAN FREE LIBRARY",
@@ -158,7 +167,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "56085"
-      ]
+      ],
+      "id": "sleepy-eye-dyckman-free-library-mn"
     },
     {
       "name": "BLUE EARTH COUNTY LIBRARY",
@@ -180,7 +190,8 @@
         "56078",
         "56080",
         "56090"
-      ]
+      ],
+      "id": "blue-earth-county-library-mn"
     },
     {
       "name": "WASECA-LE SUEUR REGIONAL LIBRARY",
@@ -195,7 +206,8 @@
         "56091",
         "56093",
         "56096"
-      ]
+      ],
+      "id": "waseca-le-sueur-regional-library-mn"
     },
     {
       "name": "WATONWAN COUNTY LIBRARY",
@@ -212,7 +224,8 @@
         "56081",
         "56120",
         "56160"
-      ]
+      ],
+      "id": "watonwan-county-library-mn"
     },
     {
       "name": "WINNEBAGO: MUIR LIBRARY",
@@ -224,7 +237,8 @@
       "zipcodes": [
         "56023",
         "56098"
-      ]
+      ],
+      "id": "winnebago-muir-library-mn"
     },
     {
       "name": "ELMORE PUBLIC LIBRARY",
@@ -236,7 +250,8 @@
       "zipcodes": [
         "56027",
         "56033"
-      ]
+      ],
+      "id": "elmore-public-library-mn"
     },
     {
       "name": "BLUE EARTH COMMUNITY LIBRARY",
@@ -248,7 +263,8 @@
       "zipcodes": [
         "56013",
         "56033"
-      ]
+      ],
+      "id": "blue-earth-community-library-mn"
     },
     {
       "name": "NORTH MANKATO TAYLOR LIBRARY",
@@ -261,7 +277,8 @@
         "56003",
         "56021",
         "56050"
-      ]
+      ],
+      "id": "north-mankato-taylor-library-mn"
     },
     {
       "name": "ST. PETER PUBLIC LIBRARY",
@@ -279,7 +296,8 @@
         "56058",
         "56074",
         "56082"
-      ]
+      ],
+      "id": "st-peter-public-library-mn"
     },
     {
       "name": "HENDERSON PUBLIC LIBRARY",
@@ -291,7 +309,8 @@
       "zipcodes": [
         "56044",
         "56058"
-      ]
+      ],
+      "id": "henderson-public-library-mn"
     },
     {
       "name": "OWATONNA-STEELE COUNTY LIBRARY",
@@ -305,7 +324,8 @@
         "55060",
         "55917",
         "56026"
-      ]
+      ],
+      "id": "owatonna-steele-county-library-mn-3"
     },
     {
       "name": "LONSDALE PUBLIC LIBRARY",
@@ -320,7 +340,8 @@
         "55088",
         "56052",
         "56069"
-      ]
+      ],
+      "id": "lonsdale-public-library-mn-2"
     }
   ]
 }

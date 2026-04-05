@@ -9,7 +9,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05821"
-      ]
+      ],
+      "id": "barnet-public-vt"
     },
     {
       "name": "BARTON PUBLIC",
@@ -21,7 +22,8 @@
       "zipcodes": [
         "05822",
         "05875"
-      ]
+      ],
+      "id": "barton-public-vt"
     },
     {
       "name": "JONES MEMORIAL",
@@ -35,7 +37,8 @@
         "05845",
         "05860",
         "05872"
-      ]
+      ],
+      "id": "jones-memorial-vt"
     },
     {
       "name": "ISLAND POND PUBLIC",
@@ -48,7 +51,8 @@
         "05837",
         "05846",
         "05907"
-      ]
+      ],
+      "id": "island-pond-public-vt"
     },
     {
       "name": "WEST BURKE",
@@ -62,7 +66,8 @@
         "05866",
         "05867",
         "05871"
-      ]
+      ],
+      "id": "west-burke-vt"
     },
     {
       "name": "CRAFTSBURY PUBLIC",
@@ -74,7 +79,8 @@
       "zipcodes": [
         "05827",
         "05842"
-      ]
+      ],
+      "id": "craftsbury-public-vt"
     },
     {
       "name": "POPE MEMORIAL",
@@ -85,7 +91,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05828"
-      ]
+      ],
+      "id": "pope-memorial-vt"
     },
     {
       "name": "DAILEY MEMORIAL",
@@ -99,7 +106,8 @@
         "05833",
         "05853",
         "05872"
-      ]
+      ],
+      "id": "dailey-memorial-vt"
     },
     {
       "name": "HASKELL FREE",
@@ -110,7 +118,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05830"
-      ]
+      ],
+      "id": "haskell-free-vt"
     },
     {
       "name": "GLOVER PUBLIC",
@@ -122,7 +131,8 @@
       "zipcodes": [
         "05839",
         "05875"
-      ]
+      ],
+      "id": "glover-public-vt"
     },
     {
       "name": "GREENSBORO FREE",
@@ -134,7 +144,8 @@
       "zipcodes": [
         "05841",
         "05842"
-      ]
+      ],
+      "id": "greensboro-free-vt"
     },
     {
       "name": "JEUDEVINE MEMORIAL",
@@ -146,7 +157,8 @@
       "zipcodes": [
         "05836",
         "05843"
-      ]
+      ],
+      "id": "jeudevine-memorial-vt"
     },
     {
       "name": "LEACH PUBLIC",
@@ -159,7 +171,8 @@
         "05825",
         "05845",
         "05849"
-      ]
+      ],
+      "id": "leach-public-vt"
     },
     {
       "name": "LOWELL COMMUNITY",
@@ -171,7 +184,8 @@
       "zipcodes": [
         "05847",
         "05868"
-      ]
+      ],
+      "id": "lowell-community-vt"
     },
     {
       "name": "COBLEIGH PUBLIC",
@@ -185,7 +199,8 @@
         "05851",
         "05866",
         "05867"
-      ]
+      ],
+      "id": "cobleigh-public-vt"
     },
     {
       "name": "GOODRICH MEMORIAL",
@@ -199,7 +214,8 @@
         "05855",
         "05857",
         "05872"
-      ]
+      ],
+      "id": "goodrich-memorial-vt"
     },
     {
       "name": "PEACHAM",
@@ -210,7 +226,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "05862"
-      ]
+      ],
+      "id": "peacham-vt"
     },
     {
       "name": "ST. JOHNSBURY ATHENAEUM",
@@ -221,7 +238,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05819"
-      ]
+      ],
+      "id": "st-johnsbury-athenaeum-vt"
     },
     {
       "name": "WM. & LUCY RAND MEMORIAL",
@@ -234,7 +252,8 @@
         "05857",
         "05859",
         "05868"
-      ]
+      ],
+      "id": "wm-lucy-rand-memorial-vt"
     },
     {
       "name": "WALDEN COMMUNITY",
@@ -246,7 +265,8 @@
       "zipcodes": [
         "05836",
         "05873"
-      ]
+      ],
+      "id": "walden-community-vt"
     },
     {
       "name": "DAVIES MEMORIAL",
@@ -257,7 +277,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05848"
-      ]
+      ],
+      "id": "davies-memorial-vt"
     },
     {
       "name": "HITCHCOCK MUSEUM & LIBRARY",
@@ -270,7 +291,8 @@
         "05857",
         "05868",
         "05874"
-      ]
+      ],
+      "id": "hitchcock-museum-library-vt"
     },
     {
       "name": "ALBANY TOWN",
@@ -282,7 +304,8 @@
       "zipcodes": [
         "05820",
         "05845"
-      ]
+      ],
+      "id": "albany-town-vt"
     },
     {
       "name": "JOHN W. SIMPSON MEMORIAL",
@@ -295,7 +318,8 @@
         "05826",
         "05842",
         "05875"
-      ]
+      ],
+      "id": "john-w-simpson-memorial-vt"
     },
     {
       "name": "BRAINERD MEMORIAL",
@@ -307,7 +331,8 @@
       "zipcodes": [
         "05828",
         "05836"
-      ]
+      ],
+      "id": "brainerd-memorial-vt"
     },
     {
       "name": "ALDEN BALCH MEMORIAL",
@@ -321,7 +346,8 @@
         "05858",
         "05904",
         "05906"
-      ]
+      ],
+      "id": "alden-balch-memorial-vt"
     }
   ]
 }

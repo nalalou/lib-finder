@@ -23,7 +23,8 @@
         "53505",
         "53546",
         "53563"
-      ]
+      ],
+      "id": "milton-public-library-pa"
     },
     {
       "name": "BROOKLINE PUBLIC LIBRARY",
@@ -37,7 +38,8 @@
         "02445",
         "02446",
         "03033"
-      ]
+      ],
+      "id": "brookline-public-library-nh"
     },
     {
       "name": "HOLBROOK PUBLIC LIBRARY",
@@ -53,7 +55,8 @@
         "86025",
         "86031",
         "86032"
-      ]
+      ],
+      "id": "holbrook-public-library-az"
     },
     {
       "name": "BOSTON PUBLIC LIBRARY",
@@ -91,7 +94,8 @@
         "02199",
         "02210",
         "02215"
-      ]
+      ],
+      "id": "boston-public-library-ma"
     },
     {
       "name": "THAYER PUBLIC LIBRARY",
@@ -109,7 +113,8 @@
         "02191",
         "03441",
         "03451"
-      ]
+      ],
+      "id": "thayer-public-library-ma"
     },
     {
       "name": "CAMBRIDGE PUBLIC LIBRARY",
@@ -130,7 +135,8 @@
         "12057",
         "12816",
         "12873"
-      ]
+      ],
+      "id": "cambridge-public-library-ma"
     },
     {
       "name": "CHELSEA PUBLIC LIBRARY",
@@ -172,7 +178,8 @@
         "52215",
         "52348",
         "74016"
-      ]
+      ],
+      "id": "chelsea-public-library-ma"
     },
     {
       "name": "EVERETT PUBLIC LIBRARIES",
@@ -187,7 +194,8 @@
         "02142",
         "02145",
         "02149"
-      ]
+      ],
+      "id": "everett-public-libraries-ma"
     },
     {
       "name": "MALDEN PUBLIC LIBRARY",
@@ -198,7 +206,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "02148"
-      ]
+      ],
+      "id": "malden-public-library-ma"
     },
     {
       "name": "CHARLOTTE AND WILLIAM BLOOMBERG MEDFORD PUBLIC LIBRARY",
@@ -211,7 +220,8 @@
         "02144",
         "02155",
         "02474"
-      ]
+      ],
+      "id": "charlotte-and-william-bloomberg-medford-public-library-ma"
     },
     {
       "name": "MELROSE PUBLIC LIBRARY",
@@ -222,7 +232,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02176"
-      ]
+      ],
+      "id": "melrose-public-library-ma"
     },
     {
       "name": "THOMAS CRANE PUBLIC LIBRARY",
@@ -238,7 +249,8 @@
         "02186",
         "02189",
         "02191"
-      ]
+      ],
+      "id": "thomas-crane-public-library-ma"
     },
     {
       "name": "REVERE PUBLIC LIBRARY",
@@ -256,7 +268,8 @@
         "02151",
         "02163",
         "02215"
-      ]
+      ],
+      "id": "revere-public-library-ma"
     },
     {
       "name": "SOMERVILLE PUBLIC LIBRARY",
@@ -275,7 +288,8 @@
         "35670",
         "35754",
         "35775"
-      ]
+      ],
+      "id": "somerville-public-library-ma"
     },
     {
       "name": "STONEHAM PUBLIC LIBRARY",
@@ -286,7 +300,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "02180"
-      ]
+      ],
+      "id": "stoneham-public-library-ma"
     },
     {
       "name": "WEYMOUTH PUBLIC LIBRARIES",
@@ -300,7 +315,8 @@
         "02189",
         "02190",
         "02191"
-      ]
+      ],
+      "id": "weymouth-public-libraries-ma"
     },
     {
       "name": "WINTHROP PUBLIC LIBRARY & MUSEUM",
@@ -331,7 +347,8 @@
         "02152",
         "02199",
         "02210"
-      ]
+      ],
+      "id": "winthrop-public-library-museum-ma"
     },
     {
       "name": "ROBBINS LIBRARY",
@@ -345,7 +362,8 @@
         "02140",
         "02474",
         "02476"
-      ]
+      ],
+      "id": "robbins-library-ma-2"
     },
     {
       "name": "BELMONT PUBLIC LIBRARY",
@@ -361,7 +379,8 @@
         "02474",
         "02478",
         "03220"
-      ]
+      ],
+      "id": "belmont-public-library-ma"
     }
   ]
 }

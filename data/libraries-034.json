@@ -11,7 +11,8 @@
         "03444",
         "47357",
         "76446"
-      ]
+      ],
+      "id": "dublin-public-library-tx"
     },
     {
       "name": "CHESTERFIELD PUBLIC LIBRARY",
@@ -28,7 +29,8 @@
         "03462",
         "03466",
         "03467"
-      ]
+      ],
+      "id": "chesterfield-public-library-ma-2"
     },
     {
       "name": "THAYER PUBLIC LIBRARY",
@@ -46,7 +48,8 @@
         "02191",
         "03441",
         "03451"
-      ]
+      ],
+      "id": "thayer-public-library-ma-2"
     },
     {
       "name": "WESTMORELAND PUBLIC LIBRARY",
@@ -61,7 +64,8 @@
         "03467",
         "37022",
         "37186"
-      ]
+      ],
+      "id": "westmoreland-public-library-tn"
     },
     {
       "name": "HINSDALE PUBLIC LIBRARY",
@@ -76,7 +80,8 @@
         "03451",
         "03466",
         "60521"
-      ]
+      ],
+      "id": "hinsdale-public-library-il"
     },
     {
       "name": "JAFFREY PUBLIC LIBRARY",
@@ -88,7 +93,8 @@
       "zipcodes": [
         "03444",
         "03452"
-      ]
+      ],
+      "id": "jaffrey-public-library-nh"
     },
     {
       "name": "FROST FREE LIBRARY",
@@ -99,7 +105,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03455"
-      ]
+      ],
+      "id": "frost-free-library-nh"
     },
     {
       "name": "MARLOW TOWN LIBRARY",
@@ -110,7 +117,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03456"
-      ]
+      ],
+      "id": "marlow-town-library-nh"
     },
     {
       "name": "OLIVIA RODHAM MEMORIAL LIBRARY",
@@ -121,7 +129,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03457"
-      ]
+      ],
+      "id": "olivia-rodham-memorial-library-nh"
     },
     {
       "name": "PETERBOROUGH TOWN LIBRARY",
@@ -132,7 +141,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03458"
-      ]
+      ],
+      "id": "peterborough-town-library-nh"
     },
     {
       "name": "INGALLS MEMORIAL LIBRARY",
@@ -143,7 +153,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03461"
-      ]
+      ],
+      "id": "ingalls-memorial-library-nh"
     },
     {
       "name": "G.E.P. DODGE LIBRARY",
@@ -154,7 +165,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03442"
-      ]
+      ],
+      "id": "gep-dodge-library-nh"
     },
     {
       "name": "DAVIS PUBLIC LIBRARY",
@@ -165,7 +177,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03464"
-      ]
+      ],
+      "id": "davis-public-library-nh"
     },
     {
       "name": "SULLIVAN PUBLIC LIBRARY",
@@ -176,7 +189,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03445"
-      ]
+      ],
+      "id": "sullivan-public-library-nh"
     },
     {
       "name": "REED FREE LIBRARY",
@@ -188,7 +202,8 @@
       "zipcodes": [
         "03431",
         "03467"
-      ]
+      ],
+      "id": "reed-free-library-nh"
     },
     {
       "name": "MT. CAESAR UNION LIBRARY",
@@ -200,7 +215,8 @@
       "zipcodes": [
         "03446",
         "03462"
-      ]
+      ],
+      "id": "mt-caesar-union-library-nh"
     },
     {
       "name": "STRATTON FREE LIBRARY",
@@ -212,7 +228,8 @@
       "zipcodes": [
         "03446",
         "03462"
-      ]
+      ],
+      "id": "stratton-free-library-nh"
     },
     {
       "name": "GAY-KIMBALL LIBRARY",
@@ -223,7 +240,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03465"
-      ]
+      ],
+      "id": "gay-kimball-library-nh"
     },
     {
       "name": "CONANT PUBLIC LIBRARY",
@@ -235,7 +253,8 @@
       "zipcodes": [
         "03441",
         "03470"
-      ]
+      ],
+      "id": "conant-public-library-nh"
     },
     {
       "name": "FITZWILLIAM TOWN LIBRARY",
@@ -246,7 +265,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03447"
-      ]
+      ],
+      "id": "fitzwilliam-town-library-nh"
     },
     {
       "name": "JAMES A. TUTTLE LIBRARY",
@@ -257,7 +277,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03440"
-      ]
+      ],
+      "id": "james-a-tuttle-library-nh"
     },
     {
       "name": "HANCOCK TOWN LIBRARY",
@@ -268,7 +289,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03449"
-      ]
+      ],
+      "id": "hancock-town-library-nh"
     },
     {
       "name": "HARRISVILLE PUBLIC LIBRARY",
@@ -280,7 +302,8 @@
       "zipcodes": [
         "03444",
         "03450"
-      ]
+      ],
+      "id": "harrisville-public-library-nh"
     },
     {
       "name": "GILSUM PUBLIC LIBRARY",
@@ -291,7 +314,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03448"
-      ]
+      ],
+      "id": "gilsum-public-library-nh"
     }
   ]
 }

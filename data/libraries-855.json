@@ -22,7 +22,8 @@
         "85533",
         "85540",
         "85922"
-      ]
+      ],
+      "id": "clifton-public-library-nj-5"
     },
     {
       "name": "SAFFORD CITY-GRAHAM COUNTY LIBRARY",
@@ -35,7 +36,8 @@
         "85531",
         "85546",
         "85552"
-      ]
+      ],
+      "id": "safford-city-graham-county-library-az"
     },
     {
       "name": "GILA COUNTY LIBRARY DISTRICT",
@@ -46,7 +48,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "85501"
-      ]
+      ],
+      "id": "gila-county-library-district-az"
     },
     {
       "name": "PIMA PUBLIC LIBRARY",
@@ -63,7 +66,8 @@
         "85542",
         "85543",
         "85552"
-      ]
+      ],
+      "id": "pima-public-library-az"
     },
     {
       "name": "GLOBE PUBLIC LIBRARY",
@@ -74,7 +78,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "85501"
-      ]
+      ],
+      "id": "globe-public-library-az"
     },
     {
       "name": "MIAMI MEMORIAL LIBRARY",
@@ -86,7 +91,8 @@
       "zipcodes": [
         "85539",
         "85545"
-      ]
+      ],
+      "id": "miami-memorial-library-az"
     },
     {
       "name": "PAYSON PUBLIC LIBRARY",
@@ -97,7 +103,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "85541"
-      ]
+      ],
+      "id": "payson-public-library-az"
     },
     {
       "name": "ISABELLE HUNT MEMORIAL PUBLIC LIBRARY",
@@ -108,7 +115,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "85544"
-      ]
+      ],
+      "id": "isabelle-hunt-memorial-public-library-az"
     },
     {
       "name": "SAN CARLOS PUBLIC LIBRARY",
@@ -119,7 +127,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "85550"
-      ]
+      ],
+      "id": "san-carlos-public-library-az"
     },
     {
       "name": "TONTO BASIN PUBLIC LIBRARY",
@@ -130,7 +139,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "85553"
-      ]
+      ],
+      "id": "tonto-basin-public-library-az"
     },
     {
       "name": "YOUNG PUBLIC LIBRARY",
@@ -141,7 +151,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "85554"
-      ]
+      ],
+      "id": "young-public-library-az"
     },
     {
       "name": "LORDSBURG-HIDALGO LIBRARY",
@@ -156,7 +167,8 @@
         "88020",
         "88045",
         "88056"
-      ]
+      ],
+      "id": "lordsburg-hidalgo-library-nm"
     }
   ]
 }

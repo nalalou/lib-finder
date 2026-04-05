@@ -25,7 +25,8 @@
         "98233",
         "98235",
         "98238"
-      ]
+      ],
+      "id": "burlington-public-library-ct-6"
     },
     {
       "name": "KING COUNTY LIBRARY SYSTEM",
@@ -69,7 +70,8 @@
         "98178",
         "98224",
         "98288"
-      ]
+      ],
+      "id": "king-county-library-system-wa-3"
     },
     {
       "name": "BELLINGHAM PUBLIC LIBRARY",
@@ -86,7 +88,8 @@
         "98244",
         "98248",
         "98262"
-      ]
+      ],
+      "id": "bellingham-public-library-ma-2"
     },
     {
       "name": "LA CONNER REGIONAL LIBRARY",
@@ -99,7 +102,8 @@
         "98238",
         "98257",
         "98277"
-      ]
+      ],
+      "id": "la-conner-regional-library-wa"
     },
     {
       "name": "LOPEZ ISLAND LIBRARY DISTRICT",
@@ -115,7 +119,8 @@
         "98279",
         "98280",
         "98286"
-      ]
+      ],
+      "id": "lopez-island-library-district-wa"
     },
     {
       "name": "ORCAS ISLAND LIBRARY DISTRICT",
@@ -132,7 +137,8 @@
         "98280",
         "98286",
         "98297"
-      ]
+      ],
+      "id": "orcas-island-library-district-wa"
     },
     {
       "name": "SAN JUAN ISLAND LIBRARY DISTRICT",
@@ -146,7 +152,8 @@
         "98250",
         "98280",
         "98286"
-      ]
+      ],
+      "id": "san-juan-island-library-district-wa"
     },
     {
       "name": "ANACORTES PUBLIC LIBRARY",
@@ -157,7 +164,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "98221"
-      ]
+      ],
+      "id": "anacortes-public-library-wa"
     },
     {
       "name": "MOUNT VERNON CITY LIBRARY",
@@ -172,7 +180,8 @@
         "98238",
         "98273",
         "98274"
-      ]
+      ],
+      "id": "mount-vernon-city-library-wa"
     },
     {
       "name": "EVERETT PUBLIC LIBRARY",
@@ -205,7 +214,8 @@
         "98290",
         "98294",
         "98296"
-      ]
+      ],
+      "id": "everett-public-library-wa-2"
     },
     {
       "name": "WHATCOM COUNTY LIBRARY SYSTEM",
@@ -224,7 +234,8 @@
         "98264",
         "98281",
         "98295"
-      ]
+      ],
+      "id": "whatcom-county-library-system-wa"
     },
     {
       "name": "SNO-ISLE LIBRARIES",
@@ -243,7 +254,8 @@
         "98270",
         "98271",
         "98292"
-      ]
+      ],
+      "id": "sno-isle-libraries-wa"
     },
     {
       "name": "UPPER SKAGIT LIBRARY DISTRICT",
@@ -258,7 +270,8 @@
         "98283",
         "98833",
         "98862"
-      ]
+      ],
+      "id": "upper-skagit-library-district-wa"
     },
     {
       "name": "CENTRAL SKAGIT LIBRARY DISTRICT",
@@ -272,7 +285,8 @@
         "98233",
         "98235",
         "98284"
-      ]
+      ],
+      "id": "central-skagit-library-district-wa"
     },
     {
       "name": "JEFFERSON COUNTY RURAL LIBRARY DISTRICT",
@@ -290,7 +304,8 @@
         "98358",
         "98365",
         "98376"
-      ]
+      ],
+      "id": "jefferson-county-rural-library-district-wa"
     },
     {
       "name": "PORT TOWNSEND PUBLIC LIBRARY",
@@ -304,7 +319,8 @@
         "98253",
         "98358",
         "98368"
-      ]
+      ],
+      "id": "port-townsend-public-library-wa"
     }
   ]
 }

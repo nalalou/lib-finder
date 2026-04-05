@@ -11,7 +11,8 @@
         "51444",
         "51455",
         "51463"
-      ]
+      ],
+      "id": "manning-public-library-ia"
     },
     {
       "name": "FIELD-CARNEGIE PUBLIC LIBRARY",
@@ -22,7 +23,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "51458"
-      ]
+      ],
+      "id": "field-carnegie-public-library-ia"
     },
     {
       "name": "LAKE VIEW PUBLIC LIBRARY",
@@ -33,7 +35,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "51450"
-      ]
+      ],
+      "id": "lake-view-public-library-ia"
     },
     {
       "name": "WALL LAKE PUBLIC LIBRARY",
@@ -44,7 +47,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "51466"
-      ]
+      ],
+      "id": "wall-lake-public-library-ia"
     },
     {
       "name": "CARROLL PUBLIC LIBRARY",
@@ -58,7 +62,8 @@
         "51430",
         "51436",
         "51444"
-      ]
+      ],
+      "id": "carroll-public-library-ia"
     },
     {
       "name": "NORELIUS COMMUNITY LIBRARY",
@@ -72,7 +77,8 @@
         "51442",
         "51465",
         "51520"
-      ]
+      ],
+      "id": "norelius-community-library-ia"
     },
     {
       "name": "SCHLESWIG PUBLIC LIBRARY",
@@ -85,7 +91,8 @@
         "51441",
         "51448",
         "51461"
-      ]
+      ],
+      "id": "schleswig-public-library-ia"
     },
     {
       "name": "CHARTER OAK PUBLIC LIBRARY",
@@ -97,7 +104,8 @@
       "zipcodes": [
         "51439",
         "51520"
-      ]
+      ],
+      "id": "charter-oak-public-library-ia"
     },
     {
       "name": "ARTHUR PUBLIC LIBRARY",
@@ -108,7 +116,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51431"
-      ]
+      ],
+      "id": "arthur-public-library-ia"
     },
     {
       "name": "IDA GROVE PUBLIC LIBRARY",
@@ -119,7 +128,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51445"
-      ]
+      ],
+      "id": "ida-grove-public-library-ia"
     },
     {
       "name": "J.J. HANDS LIBRARY",
@@ -130,7 +140,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "51453"
-      ]
+      ],
+      "id": "jj-hands-library-ia"
     },
     {
       "name": "H.F. AND MAUDE E. MARCHANT MEMORIAL LIBRARY",
@@ -142,7 +153,8 @@
       "zipcodes": [
         "50129",
         "51462"
-      ]
+      ],
+      "id": "hf-and-maude-e-marchant-memorial-library-ia-2"
     },
     {
       "name": "LAKE CITY PUBLIC LIBRARY",
@@ -155,7 +167,8 @@
         "51449",
         "55041",
         "55956"
-      ]
+      ],
+      "id": "lake-city-public-library-ia"
     },
     {
       "name": "AUBURN PUBLIC LIBRARY",
@@ -174,7 +187,8 @@
         "36849",
         "36879",
         "51433"
-      ]
+      ],
+      "id": "auburn-public-library-ia-3"
     },
     {
       "name": "GLIDDEN PUBLIC LIBRARY",
@@ -187,7 +201,8 @@
         "51443",
         "51451",
         "51459"
-      ]
+      ],
+      "id": "glidden-public-library-ia"
     },
     {
       "name": "MANILLA PUBLIC LIBRARY",
@@ -198,7 +213,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51454"
-      ]
+      ],
+      "id": "manilla-public-library-ia"
     },
     {
       "name": "WESTSIDE PUBLIC LIBRARY",
@@ -210,7 +226,8 @@
       "zipcodes": [
         "51465",
         "51467"
-      ]
+      ],
+      "id": "westside-public-library-ia"
     },
     {
       "name": "LIED IRWIN PUBLIC LIBRARY",
@@ -223,7 +240,8 @@
         "51446",
         "51447",
         "51527"
-      ]
+      ],
+      "id": "lied-irwin-public-library-ia"
     },
     {
       "name": "HARLAN COMMUNITY LIBRARY",
@@ -240,7 +258,8 @@
         "51565",
         "51570",
         "51578"
-      ]
+      ],
+      "id": "harlan-community-library-ia"
     },
     {
       "name": "COON RAPIDS PUBLIC LIBRARY",
@@ -252,7 +271,8 @@
       "zipcodes": [
         "50058",
         "51440"
-      ]
+      ],
+      "id": "coon-rapids-public-library-ia-2"
     }
   ]
 }

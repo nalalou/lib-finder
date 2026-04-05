@@ -27,7 +27,8 @@
         "80301",
         "80303",
         "80516"
-      ]
+      ],
+      "id": "lafayette-public-library-la-2"
     },
     {
       "name": "WOLCOTT PUBLIC LIBRARY",
@@ -45,7 +46,8 @@
         "14516",
         "14555",
         "14590"
-      ]
+      ],
+      "id": "wolcott-public-library-ct-2"
     },
     {
       "name": "SMYRNA PUBLIC LIBRARY",
@@ -65,7 +67,8 @@
         "19938",
         "19955",
         "19977"
-      ]
+      ],
+      "id": "smyrna-public-library-ny"
     },
     {
       "name": "COGSWELL FREE LIBRARY",
@@ -80,7 +83,8 @@
         "13302",
         "13426",
         "13437"
-      ]
+      ],
+      "id": "cogswell-free-library-ny-2"
     },
     {
       "name": "CLYDE-SAVANNAH PUBLIC LIBRARY",
@@ -93,7 +97,8 @@
         "13146",
         "14433",
         "14489"
-      ]
+      ],
+      "id": "clyde-savannah-public-library-ny"
     },
     {
       "name": "ROSE FREE LIBRARY",
@@ -108,7 +113,8 @@
         "14542",
         "14555",
         "14590"
-      ]
+      ],
+      "id": "rose-free-library-ny"
     },
     {
       "name": "PHOENIX PUBLIC LIBRARY",
@@ -148,7 +154,8 @@
         "85045",
         "85051",
         "85253"
-      ]
+      ],
+      "id": "phoenix-public-library-az"
     },
     {
       "name": "ONONDAGA COUNTY PUBLIC LIBRARY",
@@ -169,7 +176,8 @@
         "13210",
         "13224",
         "13290"
-      ]
+      ],
+      "id": "onondaga-county-public-library-ny"
     },
     {
       "name": "FAIRMOUNT COMMUNITY LIBRARY ASSOC.",
@@ -181,7 +189,8 @@
       "zipcodes": [
         "13164",
         "13219"
-      ]
+      ],
+      "id": "fairmount-community-library-assoc-ny"
     },
     {
       "name": "ONONDAGA FREE LIBRARY",
@@ -198,7 +207,8 @@
         "13207",
         "13210",
         "13215"
-      ]
+      ],
+      "id": "onondaga-free-library-ny-2"
     },
     {
       "name": "POWERS LIBRARY ASSOCIATION",
@@ -211,7 +221,8 @@
         "13071",
         "13092",
         "13118"
-      ]
+      ],
+      "id": "powers-library-association-ny-2"
     },
     {
       "name": "HAZARD LIBRARY ASSOCIATION",
@@ -225,7 +236,8 @@
         "13081",
         "13139",
         "13147"
-      ]
+      ],
+      "id": "hazard-library-association-ny-2"
     },
     {
       "name": "SPRINGPORT FREE LIBRARY",
@@ -238,7 +250,8 @@
         "13034",
         "13147",
         "13160"
-      ]
+      ],
+      "id": "springport-free-library-ny-2"
     },
     {
       "name": "WEEDSPORT FREE LIBRARY",
@@ -249,7 +262,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "13166"
-      ]
+      ],
+      "id": "weedsport-free-library-ny"
     },
     {
       "name": "LAMONT MEMORIAL FREE LIBRARY",
@@ -261,7 +275,8 @@
       "zipcodes": [
         "13101",
         "13158"
-      ]
+      ],
+      "id": "lamont-memorial-free-library-ny"
     },
     {
       "name": "SENECA FALLS LIBRARY",
@@ -272,7 +287,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "13148"
-      ]
+      ],
+      "id": "seneca-falls-library-ny"
     },
     {
       "name": "WATERLOO LIBRARY AND HISTORICAL SOCIETY",
@@ -284,7 +300,8 @@
       "zipcodes": [
         "13165",
         "14541"
-      ]
+      ],
+      "id": "waterloo-library-and-historical-society-ny"
     },
     {
       "name": "NEW WOODSTOCK FREE LIBRARY",
@@ -297,7 +314,8 @@
         "13061",
         "13072",
         "13122"
-      ]
+      ],
+      "id": "new-woodstock-free-library-ny-2"
     },
     {
       "name": "MEXICO PUBLIC LIBRARY",
@@ -309,7 +327,8 @@
       "zipcodes": [
         "13076",
         "13114"
-      ]
+      ],
+      "id": "mexico-public-library-ny-2"
     },
     {
       "name": "OSWEGO SCHOOL DISTRICT PUBLIC LIBRARY",
@@ -320,7 +339,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "13126"
-      ]
+      ],
+      "id": "oswego-school-district-public-library-ny"
     },
     {
       "name": "PARISH PUBLIC LIBRARY",
@@ -333,7 +353,8 @@
         "13076",
         "13131",
         "13167"
-      ]
+      ],
+      "id": "parish-public-library-ny-2"
     },
     {
       "name": "PULASKI PUBLIC LIBRARY",
@@ -347,7 +368,8 @@
         "13142",
         "13144",
         "13302"
-      ]
+      ],
+      "id": "pulaski-public-library-ny-2"
     },
     {
       "name": "ANNIE PORTER AINSWORTH MEMORIAL LIBRARY",
@@ -360,7 +382,8 @@
         "13083",
         "13144",
         "13145"
-      ]
+      ],
+      "id": "annie-porter-ainsworth-memorial-library-ny-2"
     },
     {
       "name": "MANLIUS LIBRARY",
@@ -371,7 +394,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "13104"
-      ]
+      ],
+      "id": "manlius-library-ny"
     },
     {
       "name": "MARCELLUS FREE LIBRARY",
@@ -383,7 +407,8 @@
       "zipcodes": [
         "13108",
         "13110"
-      ]
+      ],
+      "id": "marcellus-free-library-ny"
     },
     {
       "name": "MINOA LIBRARY",
@@ -395,7 +420,8 @@
       "zipcodes": [
         "13030",
         "13116"
-      ]
+      ],
+      "id": "minoa-library-ny-2"
     },
     {
       "name": "TULLY FREE LIBRARY",
@@ -408,7 +434,8 @@
         "13063",
         "13084",
         "13159"
-      ]
+      ],
+      "id": "tully-free-library-ny-2"
     },
     {
       "name": "RED CREEK FREE LIBRARY",
@@ -420,7 +447,8 @@
       "zipcodes": [
         "13143",
         "14590"
-      ]
+      ],
+      "id": "red-creek-free-library-ny"
     },
     {
       "name": "THE SKANEATELES LIBRARY ASSOCIATION",
@@ -432,7 +460,8 @@
       "zipcodes": [
         "13110",
         "13152"
-      ]
+      ],
+      "id": "the-skaneateles-library-association-ny"
     },
     {
       "name": "PORT BYRON LIBRARY",
@@ -444,7 +473,8 @@
       "zipcodes": [
         "13034",
         "13140"
-      ]
+      ],
+      "id": "port-byron-library-ny-2"
     },
     {
       "name": "AURORA FREE LIBRARY",
@@ -458,7 +488,8 @@
         "13071",
         "13081",
         "13147"
-      ]
+      ],
+      "id": "aurora-free-library-ny-2"
     },
     {
       "name": "STEWART B. LANG MEMORIAL LIBRARY",
@@ -470,7 +501,8 @@
       "zipcodes": [
         "13033",
         "13111"
-      ]
+      ],
+      "id": "stewart-b-lang-memorial-library-ny-2"
     },
     {
       "name": "VILLAGE OF FAIR HAVEN PUBLIC LIBRARY",
@@ -483,7 +515,8 @@
         "13064",
         "13111",
         "13156"
-      ]
+      ],
+      "id": "village-of-fair-haven-public-library-ny-2"
     },
     {
       "name": "PHILLIPS FREE LIBRARY",
@@ -495,7 +528,8 @@
       "zipcodes": [
         "13077",
         "13141"
-      ]
+      ],
+      "id": "phillips-free-library-ny-2"
     },
     {
       "name": "CENTRAL SQUARE LIBRARY",
@@ -511,7 +545,8 @@
         "13132",
         "13135",
         "13167"
-      ]
+      ],
+      "id": "central-square-library-ny-2"
     },
     {
       "name": "FULTON PUBLIC LIBRARY",
@@ -524,7 +559,8 @@
         "13069",
         "13132",
         "13135"
-      ]
+      ],
+      "id": "fulton-public-library-ny-2"
     },
     {
       "name": "BALDWINSVILLE PUBLIC LIBRARY",
@@ -537,7 +573,8 @@
         "13027",
         "13112",
         "13164"
-      ]
+      ],
+      "id": "baldwinsville-public-library-ny-2"
     },
     {
       "name": "MAXWELL MEMORIAL LIBRARY",
@@ -549,7 +586,8 @@
       "zipcodes": [
         "13031",
         "13164"
-      ]
+      ],
+      "id": "maxwell-memorial-library-ny-2"
     },
     {
       "name": "ELBRIDGE FREE LIBRARY",
@@ -561,7 +599,8 @@
       "zipcodes": [
         "13060",
         "13112"
-      ]
+      ],
+      "id": "elbridge-free-library-ny-2"
     },
     {
       "name": "JORDAN BRAMLEY LIBRARY",
@@ -573,7 +612,8 @@
       "zipcodes": [
         "13080",
         "13112"
-      ]
+      ],
+      "id": "jordan-bramley-library-ny-2"
     }
   ]
 }

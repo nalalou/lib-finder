@@ -12,7 +12,8 @@
         "83669",
         "83703",
         "83713"
-      ]
+      ],
+      "id": "eagle-public-id-2"
     },
     {
       "name": "MERIDIAN DISTRICT",
@@ -25,7 +26,8 @@
         "83642",
         "83669",
         "83713"
-      ]
+      ],
+      "id": "meridian-district-id-2"
     },
     {
       "name": "BOISE PUBLIC",
@@ -42,7 +44,8 @@
         "83706",
         "83712",
         "83716"
-      ]
+      ],
+      "id": "boise-public-id"
     },
     {
       "name": "ADA COUNTY DISTRICT",
@@ -56,7 +59,8 @@
         "83705",
         "83706",
         "83709"
-      ]
+      ],
+      "id": "ada-county-district-id"
     },
     {
       "name": "GARDEN CITY PUBLIC",
@@ -73,7 +77,8 @@
         "83712",
         "83713",
         "83714"
-      ]
+      ],
+      "id": "garden-city-public-id"
     }
   ]
 }

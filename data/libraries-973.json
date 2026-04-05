@@ -33,7 +33,8 @@
         "97344",
         "97347",
         "97371"
-      ]
+      ],
+      "id": "dallas-public-library-tx-2"
     },
     {
       "name": "INDEPENDENCE PUBLIC LIBRARY",
@@ -57,7 +58,8 @@
         "97338",
         "97351",
         "97371"
-      ]
+      ],
+      "id": "independence-public-library-or-5"
     },
     {
       "name": "JEFFERSON PUBLIC LIBRARY",
@@ -75,7 +77,8 @@
         "97306",
         "97352",
         "97392"
-      ]
+      ],
+      "id": "jefferson-public-library-or-5"
     },
     {
       "name": "LEBANON PUBLIC LIBRARY",
@@ -103,7 +106,8 @@
         "62289",
         "97355",
         "97389"
-      ]
+      ],
+      "id": "lebanon-public-library-or-6"
     },
     {
       "name": "DRIFTWOOD PUBLIC LIBRARY",
@@ -116,7 +120,8 @@
         "97364",
         "97367",
         "97368"
-      ]
+      ],
+      "id": "driftwood-public-library-or"
     },
     {
       "name": "LYONS PUBLIC LIBRARY",
@@ -137,7 +142,8 @@
         "97350",
         "97358",
         "97360"
-      ]
+      ],
+      "id": "lyons-public-library-or-6"
     },
     {
       "name": "MONMOUTH PUBLIC LIBRARY",
@@ -149,7 +155,8 @@
       "zipcodes": [
         "97338",
         "97361"
-      ]
+      ],
+      "id": "monmouth-public-library-or"
     },
     {
       "name": "MT. ANGEL PUBLIC LIBRARY",
@@ -163,7 +170,8 @@
         "97032",
         "97305",
         "97362"
-      ]
+      ],
+      "id": "mt-angel-public-library-or-2"
     },
     {
       "name": "NEWPORT PUBLIC LIBRARY",
@@ -186,7 +194,8 @@
         "17074",
         "97365",
         "97366"
-      ]
+      ],
+      "id": "newport-public-library-or-5"
     },
     {
       "name": "SALEM PUBLIC LIBRARY",
@@ -215,7 +224,8 @@
         "97303",
         "97305",
         "97306"
-      ]
+      ],
+      "id": "salem-public-library-or-8"
     },
     {
       "name": "SCIO PUBLIC LIBRARY",
@@ -226,7 +236,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "97374"
-      ]
+      ],
+      "id": "scio-public-library-or"
     },
     {
       "name": "SHERIDAN PUBLIC LIBRARY",
@@ -241,7 +252,8 @@
         "59747",
         "59749",
         "97378"
-      ]
+      ],
+      "id": "sheridan-public-library-or-3"
     },
     {
       "name": "SILVER FALLS LIBRARY DISTRICT",
@@ -255,7 +267,8 @@
         "97375",
         "97381",
         "97385"
-      ]
+      ],
+      "id": "silver-falls-library-district-or"
     },
     {
       "name": "STAYTON PUBLIC LIBRARY",
@@ -271,7 +284,8 @@
         "97383",
         "97385",
         "97392"
-      ]
+      ],
+      "id": "stayton-public-library-or"
     },
     {
       "name": "SWEET HOME PUBLIC LIBRARY",
@@ -284,7 +298,8 @@
         "97329",
         "97345",
         "97386"
-      ]
+      ],
+      "id": "sweet-home-public-library-or"
     },
     {
       "name": "TOLEDO PUBLIC LIBRARY",
@@ -301,7 +316,8 @@
         "97366",
         "97376",
         "97391"
-      ]
+      ],
+      "id": "toledo-public-library-or-3"
     },
     {
       "name": "WALDPORT PUBLIC LIBRARY",
@@ -313,7 +329,8 @@
       "zipcodes": [
         "97376",
         "97394"
-      ]
+      ],
+      "id": "waldport-public-library-or"
     },
     {
       "name": "WILLAMINA PUBLIC LIBRARY",
@@ -324,7 +341,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "97396"
-      ]
+      ],
+      "id": "willamina-public-library-or"
     },
     {
       "name": "ALBANY PUBLIC LIBRARY",
@@ -346,7 +364,8 @@
         "97321",
         "97322",
         "97389"
-      ]
+      ],
+      "id": "albany-public-library-or-4"
     },
     {
       "name": "BROWNSVILLE COMMUNITY LIBRARY",
@@ -358,7 +377,8 @@
       "zipcodes": [
         "97327",
         "97377"
-      ]
+      ],
+      "id": "brownsville-community-library-or"
     },
     {
       "name": "CORVALLIS-BENTON COUNTY PUBLIC LIBRARY",
@@ -374,7 +394,8 @@
         "97333",
         "97370",
         "97456"
-      ]
+      ],
+      "id": "corvallis-benton-county-public-library-or"
     },
     {
       "name": "HALSEY CITY LIBRARY",
@@ -386,7 +407,8 @@
       "zipcodes": [
         "97348",
         "97377"
-      ]
+      ],
+      "id": "halsey-city-library-or"
     },
     {
       "name": "SILETZ PUBLIC LIBRARY",
@@ -399,7 +421,8 @@
         "97341",
         "97357",
         "97380"
-      ]
+      ],
+      "id": "siletz-public-library-or"
     },
     {
       "name": "YACHATS PUBLIC LIBRARY",
@@ -411,7 +434,8 @@
       "zipcodes": [
         "97390",
         "97498"
-      ]
+      ],
+      "id": "yachats-public-library-or"
     }
   ]
 }

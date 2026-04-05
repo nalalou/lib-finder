@@ -13,7 +13,8 @@
         "08241",
         "08401",
         "08406"
-      ]
+      ],
+      "id": "atlantic-city-free-public-library-nj"
     },
     {
       "name": "MARGATE CITY PUBLIC LIBRARY",
@@ -27,7 +28,8 @@
         "08232",
         "08402",
         "08406"
-      ]
+      ],
+      "id": "margate-city-public-library-nj"
     },
     {
       "name": "LONGPORT PUBLIC LIBRARY",
@@ -40,7 +42,8 @@
         "08244",
         "08403",
         "08406"
-      ]
+      ],
+      "id": "longport-public-library-nj"
     },
     {
       "name": "ATLANTIC COUNTY LIBRARY",
@@ -63,7 +66,8 @@
         "08341",
         "08346",
         "08350"
-      ]
+      ],
+      "id": "atlantic-county-library-nj-2"
     },
     {
       "name": "LINWOOD PUBLIC LIBRARY",
@@ -78,7 +82,8 @@
         "08232",
         "08234",
         "08244"
-      ]
+      ],
+      "id": "linwood-public-library-nj"
     },
     {
       "name": "OTTO BRUYNS PUBLIC LIBRARY",
@@ -94,7 +99,8 @@
         "08232",
         "08234",
         "08244"
-      ]
+      ],
+      "id": "otto-bruyns-public-library-nj"
     },
     {
       "name": "CAPE MAY COUNTY LIBRARY",
@@ -112,7 +118,8 @@
         "08247",
         "08251",
         "08260"
-      ]
+      ],
+      "id": "cape-may-county-library-nj"
     },
     {
       "name": "OCEAN CITY FREE PUBLIC LIBRARY",
@@ -127,7 +134,8 @@
         "08230",
         "08248",
         "08270"
-      ]
+      ],
+      "id": "ocean-city-free-public-library-nj"
     },
     {
       "name": "AVALON FREE PUBLIC LIBRARY",
@@ -143,7 +151,8 @@
         "08247",
         "08248",
         "08260"
-      ]
+      ],
+      "id": "avalon-free-public-library-nj"
     },
     {
       "name": "BASS RIVER COMMUNITY LIBRARY",
@@ -155,7 +164,8 @@
       "zipcodes": [
         "08019",
         "08224"
-      ]
+      ],
+      "id": "bass-river-community-library-nj-2"
     }
   ]
 }

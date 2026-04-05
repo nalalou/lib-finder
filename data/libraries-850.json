@@ -38,7 +38,8 @@
         "85045",
         "85051",
         "85253"
-      ]
+      ],
+      "id": "phoenix-public-library-az-2"
     },
     {
       "name": "AVONDALE PUBLIC LIBRARY",
@@ -56,7 +57,8 @@
         "85323",
         "85338",
         "85340"
-      ]
+      ],
+      "id": "avondale-public-library-az"
     },
     {
       "name": "GLENDALE PUBLIC LIBRARY",
@@ -96,7 +98,8 @@
         "85373",
         "85381",
         "85382"
-      ]
+      ],
+      "id": "glendale-public-library-az"
     },
     {
       "name": "TOLLESON PUBLIC LIBRARY",
@@ -118,7 +121,8 @@
         "85303",
         "85339",
         "85353"
-      ]
+      ],
+      "id": "tolleson-public-library-az"
     },
     {
       "name": "DESERT FOOTHILLS LIBRARY",
@@ -136,7 +140,8 @@
         "85087",
         "85262",
         "85331"
-      ]
+      ],
+      "id": "desert-foothills-library-az"
     },
     {
       "name": "PEORIA PUBLIC LIBRARY SYSTEM",
@@ -172,7 +177,8 @@
         "85379",
         "85381",
         "85382"
-      ]
+      ],
+      "id": "peoria-public-library-system-az"
     },
     {
       "name": "SCOTTSDALE PUBLIC LIBRARY",
@@ -206,7 +212,8 @@
         "85259",
         "85260",
         "85281"
-      ]
+      ],
+      "id": "scottsdale-public-library-az"
     },
     {
       "name": "TEMPE PUBLIC LIBRARY",
@@ -234,7 +241,8 @@
         "85282",
         "85283",
         "85284"
-      ]
+      ],
+      "id": "tempe-public-library-az"
     }
   ]
 }

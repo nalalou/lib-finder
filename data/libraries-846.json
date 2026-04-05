@@ -13,7 +13,8 @@
         "84058",
         "84097",
         "84604"
-      ]
+      ],
+      "id": "orem-public-library-ut-2"
     },
     {
       "name": "PLEASANT GROVE PUBLIC LIBRARY",
@@ -34,7 +35,8 @@
         "84062",
         "84097",
         "84604"
-      ]
+      ],
+      "id": "pleasant-grove-public-library-ut-5"
     },
     {
       "name": "RICHFIELD PUBLIC LIBRARY",
@@ -49,7 +51,8 @@
         "84711",
         "84724",
         "84730"
-      ]
+      ],
+      "id": "richfield-public-library-ut"
     },
     {
       "name": "NEPHI PUBLIC LIBRARY",
@@ -63,7 +66,8 @@
         "84639",
         "84645",
         "84648"
-      ]
+      ],
+      "id": "nephi-public-library-ut"
     },
     {
       "name": "MILLARD COUNTY BOOKMOBILE LIBRARY",
@@ -78,7 +82,8 @@
         "84638",
         "84640",
         "84649"
-      ]
+      ],
+      "id": "millard-county-bookmobile-library-ut"
     },
     {
       "name": "DELTA CITY LIBRARY",
@@ -91,7 +96,8 @@
         "84624",
         "84635",
         "84728"
-      ]
+      ],
+      "id": "delta-city-library-ut"
     },
     {
       "name": "PRESIDENT MILLARD FILLMORE LIBRARY",
@@ -105,7 +111,8 @@
         "84636",
         "84637",
         "84656"
-      ]
+      ],
+      "id": "president-millard-fillmore-library-ut"
     },
     {
       "name": "SANPETE COUNTY BOOKMOBILE LIBRARY",
@@ -117,7 +124,8 @@
       "zipcodes": [
         "84629",
         "84632"
-      ]
+      ],
+      "id": "sanpete-county-bookmobile-library-ut"
     },
     {
       "name": "EPHRAIM PUBLIC LIBRARY",
@@ -131,7 +139,8 @@
         "84627",
         "84662",
         "84667"
-      ]
+      ],
+      "id": "ephraim-public-library-ut"
     },
     {
       "name": "GUNNISON CIVIC LIBRARY",
@@ -146,7 +155,8 @@
         "84630",
         "84634",
         "84643"
-      ]
+      ],
+      "id": "gunnison-civic-library-ut"
     },
     {
       "name": "MANTI CITY LIBRARY",
@@ -157,7 +167,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "84642"
-      ]
+      ],
+      "id": "manti-city-library-ut"
     },
     {
       "name": "MT. PLEASANT PUBLIC LIBRARY",
@@ -171,7 +182,8 @@
         "84646",
         "84647",
         "84662"
-      ]
+      ],
+      "id": "mt-pleasant-public-library-ut"
     },
     {
       "name": "SALINA PUBLIC LIBRARY",
@@ -191,7 +203,8 @@
         "84620",
         "84652",
         "84654"
-      ]
+      ],
+      "id": "salina-public-library-ut-3"
     },
     {
       "name": "UTAH COUNTY BOOKMOBILE LIBRARY",
@@ -203,7 +216,8 @@
       "zipcodes": [
         "84606",
         "84664"
-      ]
+      ],
+      "id": "utah-county-bookmobile-library-ut"
     },
     {
       "name": "PAYSON CITY LIBRARY",
@@ -214,7 +228,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "84651"
-      ]
+      ],
+      "id": "payson-city-library-ut"
     },
     {
       "name": "PROVO CITY LIBRARY",
@@ -229,7 +244,8 @@
         "84601",
         "84604",
         "84606"
-      ]
+      ],
+      "id": "provo-city-library-ut-2"
     },
     {
       "name": "SANTAQUIN CITY LIBRARY",
@@ -242,7 +258,8 @@
         "84626",
         "84633",
         "84655"
-      ]
+      ],
+      "id": "santaquin-city-library-ut"
     },
     {
       "name": "SPANISH FORK PUBLIC LIBRARY",
@@ -253,7 +270,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "84660"
-      ]
+      ],
+      "id": "spanish-fork-public-library-ut"
     },
     {
       "name": "SPRINGVILLE PUBLIC LIBRARY",
@@ -267,7 +285,8 @@
         "35146",
         "84606",
         "84663"
-      ]
+      ],
+      "id": "springville-public-library-ut-2"
     },
     {
       "name": "SALEM CITY LIBRARY",
@@ -278,7 +297,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "84653"
-      ]
+      ],
+      "id": "salem-city-library-ut"
     }
   ]
 }

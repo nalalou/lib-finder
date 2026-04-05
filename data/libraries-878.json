@@ -13,7 +13,8 @@
         "87062",
         "87828",
         "87831"
-      ]
+      ],
+      "id": "rio-abajo-community-library-nm-2"
     },
     {
       "name": "SOCORRO PUBLIC LIBRARY",
@@ -27,7 +28,8 @@
         "87801",
         "87823",
         "87832"
-      ]
+      ],
+      "id": "socorro-public-library-nm-2"
     },
     {
       "name": "MAGDALENA PUBLIC LIBRARY",
@@ -38,7 +40,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "87825"
-      ]
+      ],
+      "id": "magdalena-public-library-nm"
     },
     {
       "name": "RESERVE PUBLIC LIBRARY",
@@ -54,7 +57,8 @@
         "87827",
         "87829",
         "87830"
-      ]
+      ],
+      "id": "reserve-public-library-nm"
     }
   ]
 }

@@ -11,7 +11,8 @@
         "04259",
         "04265",
         "04350"
-      ]
+      ],
+      "id": "cumston-public-library-me-2"
     },
     {
       "name": "LITHGOW PUBLIC LIBRARY",
@@ -25,7 +26,8 @@
         "04344",
         "04346",
         "04351"
-      ]
+      ],
+      "id": "lithgow-public-library-me"
     },
     {
       "name": "SOUTH CHINA PUBLIC LIBRARY",
@@ -38,7 +40,8 @@
         "04358",
         "04363",
         "04989"
-      ]
+      ],
+      "id": "south-china-public-library-me"
     },
     {
       "name": "GARDINER PUBLIC LIBRARY",
@@ -52,7 +55,8 @@
         "04345",
         "04346",
         "04350"
-      ]
+      ],
+      "id": "gardiner-public-library-me"
     },
     {
       "name": "HUBBARD FREE LIBRARY",
@@ -66,7 +70,8 @@
         "04346",
         "04347",
         "04351"
-      ]
+      ],
+      "id": "hubbard-free-library-me"
     },
     {
       "name": "DR. SHAW MEMORIAL LIBRARY",
@@ -79,7 +84,8 @@
         "04352",
         "04360",
         "04963"
-      ]
+      ],
+      "id": "dr-shaw-memorial-library-me"
     },
     {
       "name": "READFIELD COMMUNITY LIBRARY",
@@ -90,7 +96,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04355"
-      ]
+      ],
+      "id": "readfield-community-library-me"
     },
     {
       "name": "CHARLES M. BAILEY PUBLIC LIBRARY",
@@ -104,7 +111,8 @@
         "04350",
         "04351",
         "04364"
-      ]
+      ],
+      "id": "charles-m-bailey-public-library-me-2"
     },
     {
       "name": "ALBERT CHURCH BROWN MEMORIAL LIBRARY",
@@ -118,7 +126,8 @@
         "04901",
         "04910",
         "04989"
-      ]
+      ],
+      "id": "albert-church-brown-memorial-library-me"
     },
     {
       "name": "UNDERWOOD MEMORIAL LIBRARY",
@@ -129,7 +138,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04349"
-      ]
+      ],
+      "id": "underwood-memorial-library-me"
     },
     {
       "name": "ISAAC F. UMBERHINE PUBLIC LIBRARY",
@@ -142,7 +152,8 @@
         "04287",
         "04357",
         "04579"
-      ]
+      ],
+      "id": "isaac-f-umberhine-public-library-me-2"
     },
     {
       "name": "BRIDGE ACADEMY PUBLIC LIBRARY",
@@ -154,7 +165,8 @@
       "zipcodes": [
         "04342",
         "04535"
-      ]
+      ],
+      "id": "bridge-academy-public-library-me"
     },
     {
       "name": "PALERMO COMMUNITY LIBRARY",
@@ -166,7 +178,8 @@
       "zipcodes": [
         "04354",
         "04941"
-      ]
+      ],
+      "id": "palermo-community-library-me"
     },
     {
       "name": "WHITEFIELD LIBRARY",
@@ -178,7 +191,8 @@
       "zipcodes": [
         "04348",
         "04353"
-      ]
+      ],
+      "id": "whitefield-library-me"
     },
     {
       "name": "VASSALBORO PUBLIC LIBRARY",
@@ -192,7 +206,8 @@
         "04935",
         "04962",
         "04989"
-      ]
+      ],
+      "id": "vassalboro-public-library-me"
     }
   ]
 }

@@ -14,7 +14,8 @@
         "54613",
         "58639",
         "58649"
-      ]
+      ],
+      "id": "adams-county-library-nd-2"
     },
     {
       "name": "ALMA PUBLIC LIBRARY",
@@ -30,7 +31,8 @@
         "54622",
         "54629",
         "54756"
-      ]
+      ],
+      "id": "alma-public-library-mi-2"
     },
     {
       "name": "HILLSBORO PUBLIC LIBRARY",
@@ -47,7 +49,8 @@
         "67483",
         "97123",
         "97124"
-      ]
+      ],
+      "id": "hillsboro-public-library-ks"
     },
     {
       "name": "PRAIRIE DU CHIEN MEMORIAL LIBRARY",
@@ -60,7 +63,8 @@
         "53821",
         "53826",
         "54626"
-      ]
+      ],
+      "id": "prairie-du-chien-memorial-library-wi-2"
     },
     {
       "name": "ONTARIO PUBLIC LIBRARY",
@@ -72,7 +76,8 @@
       "zipcodes": [
         "14519",
         "54651"
-      ]
+      ],
+      "id": "ontario-public-library-ny-2"
     },
     {
       "name": "ELROY PUBLIC LIBRARY",
@@ -84,7 +89,8 @@
       "zipcodes": [
         "53929",
         "54637"
-      ]
+      ],
+      "id": "elroy-public-library-wi-2"
     },
     {
       "name": "NEW LISBON MEMORIAL LIBRARY",
@@ -97,7 +103,8 @@
         "53950",
         "54618",
         "54637"
-      ]
+      ],
+      "id": "new-lisbon-memorial-library-wi-2"
     },
     {
       "name": "DE SOTO PUBLIC LIBRARY",
@@ -114,7 +121,8 @@
         "63020",
         "63023",
         "63050"
-      ]
+      ],
+      "id": "de-soto-public-library-mo-2"
     },
     {
       "name": "NORWALK PUBLIC LIBRARY",
@@ -133,7 +141,8 @@
         "44857",
         "54648",
         "54670"
-      ]
+      ],
+      "id": "norwalk-public-library-oh-3"
     },
     {
       "name": "LA CROSSE PUBLIC LIBRARY",
@@ -149,7 +158,8 @@
         "54603",
         "54650",
         "54653"
-      ]
+      ],
+      "id": "la-crosse-public-library-in-2"
     },
     {
       "name": "WILTON PUBLIC LIBRARY",
@@ -165,7 +175,8 @@
         "52778",
         "54648",
         "54670"
-      ]
+      ],
+      "id": "wilton-public-library-ia-2"
     },
     {
       "name": "TAYLOR MEMORIAL LIBRARY",
@@ -179,7 +190,8 @@
         "54635",
         "54642",
         "54659"
-      ]
+      ],
+      "id": "taylor-memorial-library-ma-2"
     },
     {
       "name": "ARCADIA FREE PUBLIC LIBRARY",
@@ -191,7 +203,8 @@
       "zipcodes": [
         "54612",
         "54625"
-      ]
+      ],
+      "id": "arcadia-free-public-library-wi"
     },
     {
       "name": "BLACK RIVER FALLS PUBLIC LIBRARY",
@@ -204,7 +217,8 @@
         "54611",
         "54615",
         "54754"
-      ]
+      ],
+      "id": "black-river-falls-public-library-wi"
     },
     {
       "name": "GALESVILLE PUBLIC LIBRARY",
@@ -216,7 +230,8 @@
       "zipcodes": [
         "54625",
         "54630"
-      ]
+      ],
+      "id": "galesville-public-library-wi"
     },
     {
       "name": "GAYS MILLS PUBLIC LIBRARY",
@@ -231,7 +246,8 @@
         "54645",
         "54654",
         "54657"
-      ]
+      ],
+      "id": "gays-mills-public-library-wi"
     },
     {
       "name": "KENDALL PUBLIC LIBRARY",
@@ -243,7 +259,8 @@
       "zipcodes": [
         "54638",
         "54670"
-      ]
+      ],
+      "id": "kendall-public-library-wi"
     },
     {
       "name": "LAWTON MEMORIAL LIBRARY",
@@ -254,7 +271,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54639"
-      ]
+      ],
+      "id": "lawton-memorial-library-wi"
     },
     {
       "name": "NECEDAH COMMUNITY-SIEGLER MEMORIAL LIBRARY",
@@ -265,7 +283,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54646"
-      ]
+      ],
+      "id": "necedah-community-siegler-memorial-library-wi"
     },
     {
       "name": "SOLDIERS GROVE PUBLIC LIBRARY",
@@ -277,7 +296,8 @@
       "zipcodes": [
         "54645",
         "54655"
-      ]
+      ],
+      "id": "soldiers-grove-public-library-wi"
     },
     {
       "name": "SPARTA FREE LIBRARY",
@@ -288,7 +308,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54656"
-      ]
+      ],
+      "id": "sparta-free-library-wi"
     },
     {
       "name": "TOMAH PUBLIC LIBRARY",
@@ -300,7 +321,8 @@
       "zipcodes": [
         "54660",
         "54666"
-      ]
+      ],
+      "id": "tomah-public-library-wi"
     },
     {
       "name": "SHIRLEY M. WRIGHT MEMORIAL LIBRARY",
@@ -311,7 +333,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54661"
-      ]
+      ],
+      "id": "shirley-m-wright-memorial-library-wi"
     },
     {
       "name": "VIOLA PUBLIC LIBRARY",
@@ -322,7 +345,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54664"
-      ]
+      ],
+      "id": "viola-public-library-wi"
     },
     {
       "name": "MCINTOSH MEMORIAL LIBRARY",
@@ -333,7 +357,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54665"
-      ]
+      ],
+      "id": "mcintosh-memorial-library-wi"
     },
     {
       "name": "BEKKUM MEMORIAL PUBLIC LIBRARY",
@@ -344,7 +369,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "54667"
-      ]
+      ],
+      "id": "bekkum-memorial-public-library-wi"
     },
     {
       "name": "BLAIR-PRESTON PUBLIC LIBRARY",
@@ -357,7 +383,8 @@
         "54616",
         "54760",
         "54773"
-      ]
+      ],
+      "id": "blair-preston-public-library-wi"
     },
     {
       "name": "LA CROSSE COUNTY LIBRARY",
@@ -373,7 +400,8 @@
         "54644",
         "54650",
         "54669"
-      ]
+      ],
+      "id": "la-crosse-county-library-wi"
     },
     {
       "name": "READSTOWN PUBLIC LIBRARY",
@@ -384,7 +412,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54652"
-      ]
+      ],
+      "id": "readstown-public-library-wi"
     },
     {
       "name": "CASHTON MEMORIAL LIBRARY",
@@ -396,7 +425,8 @@
       "zipcodes": [
         "54619",
         "54648"
-      ]
+      ],
+      "id": "cashton-memorial-library-wi"
     },
     {
       "name": "ETTRICK PUBLIC LIBRARY",
@@ -407,7 +437,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54627"
-      ]
+      ],
+      "id": "ettrick-public-library-wi"
     },
     {
       "name": "KNUTSON MEMORIAL LIBRARY",
@@ -420,7 +451,8 @@
         "54621",
         "54623",
         "54658"
-      ]
+      ],
+      "id": "knutson-memorial-library-wi"
     }
   ]
 }

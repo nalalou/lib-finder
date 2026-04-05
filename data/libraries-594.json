@@ -13,7 +13,8 @@
         "59078",
         "59085",
         "59453"
-      ]
+      ],
+      "id": "harlowton-public-library-mt-2"
     },
     {
       "name": "DENTON PUBLIC LIBRARY",
@@ -30,7 +31,8 @@
         "76207",
         "76208",
         "76226"
-      ]
+      ],
+      "id": "denton-public-library-tx"
     },
     {
       "name": "LEWIS AND CLARK LIBRARY",
@@ -49,7 +51,8 @@
         "59639",
         "59640",
         "59648"
-      ]
+      ],
+      "id": "lewis-and-clark-library-mt"
     },
     {
       "name": "MOORE MEMORIAL PUBLIC LIBRARY",
@@ -64,7 +67,8 @@
         "77551",
         "77590",
         "77591"
-      ]
+      ],
+      "id": "moore-memorial-public-library-tx"
     },
     {
       "name": "WEDSWORTH MEMORIAL LIBRARY",
@@ -79,7 +83,8 @@
         "59477",
         "59483",
         "59485"
-      ]
+      ],
+      "id": "wedsworth-memorial-library-mt"
     },
     {
       "name": "CHOTEAU/TETON PUBLIC LIBRARY",
@@ -92,7 +97,8 @@
         "59419",
         "59422",
         "59467"
-      ]
+      ],
+      "id": "choteauteton-public-library-mt"
     },
     {
       "name": "CONRAD PUBLIC LIBRARY",
@@ -105,7 +111,8 @@
         "50621",
         "59416",
         "59425"
-      ]
+      ],
+      "id": "conrad-public-library-mt-2"
     },
     {
       "name": "GLACIER COUNTY LIBRARY",
@@ -119,7 +126,8 @@
         "59417",
         "59427",
         "59434"
-      ]
+      ],
+      "id": "glacier-county-library-mt"
     },
     {
       "name": "DUTTON/TETON PUBLIC LIBRARY",
@@ -131,7 +139,8 @@
       "zipcodes": [
         "59433",
         "59468"
-      ]
+      ],
+      "id": "duttonteton-public-library-mt"
     },
     {
       "name": "FAIRFIELD/TETON PUBLIC LIBRARY",
@@ -142,7 +151,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "59436"
-      ]
+      ],
+      "id": "fairfieldteton-public-library-mt"
     },
     {
       "name": "CHOUTEAU COUNTY LIBRARY",
@@ -159,7 +169,8 @@
         "59450",
         "59460",
         "59520"
-      ]
+      ],
+      "id": "chouteau-county-library-mt"
     },
     {
       "name": "GREAT FALLS PUBLIC LIBRARY",
@@ -175,7 +186,8 @@
         "59414",
         "59472",
         "59487"
-      ]
+      ],
+      "id": "great-falls-public-library-mt"
     },
     {
       "name": "LEWISTOWN PUBLIC LIBRARY",
@@ -188,7 +200,8 @@
         "59032",
         "59441",
         "59457"
-      ]
+      ],
+      "id": "lewistown-public-library-mt-2"
     },
     {
       "name": "TOOLE COUNTY LIBRARY",
@@ -204,7 +217,8 @@
         "59474",
         "59482",
         "59484"
-      ]
+      ],
+      "id": "toole-county-library-mt"
     },
     {
       "name": "JUDITH BASIN COUNTY FREE LIBRARY",
@@ -219,7 +233,8 @@
         "59462",
         "59469",
         "59479"
-      ]
+      ],
+      "id": "judith-basin-county-free-library-mt"
     },
     {
       "name": "VALIER PUBLIC LIBRARY",
@@ -232,7 +247,8 @@
         "59432",
         "59448",
         "59486"
-      ]
+      ],
+      "id": "valier-public-library-mt"
     },
     {
       "name": "BELT PUBLIC LIBRARY",
@@ -246,7 +262,8 @@
         "59463",
         "59465",
         "59480"
-      ]
+      ],
+      "id": "belt-public-library-mt"
     },
     {
       "name": "DOROTHY ASBJORNSON COMMUNITY LIBRARY",
@@ -259,7 +276,8 @@
         "59451",
         "59471",
         "59489"
-      ]
+      ],
+      "id": "dorothy-asbjornson-community-library-mt"
     },
     {
       "name": "LIBERTY COUNTY LIBRARY",
@@ -273,7 +291,8 @@
         "59522",
         "59531",
         "59545"
-      ]
+      ],
+      "id": "liberty-county-library-mt"
     }
   ]
 }

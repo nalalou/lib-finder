@@ -19,7 +19,8 @@
         "57562",
         "57577",
         "57750"
-      ]
+      ],
+      "id": "jackson-county-library-sd"
     },
     {
       "name": "MARTIN COUNTY LIBRARY",
@@ -44,7 +45,8 @@
         "79749",
         "79782",
         "79783"
-      ]
+      ],
+      "id": "martin-county-library-tx-2"
     },
     {
       "name": "EDGERTON PUBLIC LIBRARY",
@@ -59,7 +61,8 @@
         "56128",
         "56177",
         "56186"
-      ]
+      ],
+      "id": "edgerton-public-library-wi-2"
     },
     {
       "name": "MARSHALL-LYON COUNTY LIBRARY",
@@ -74,7 +77,8 @@
         "56229",
         "56239",
         "56258"
-      ]
+      ],
+      "id": "marshall-lyon-county-library-mn"
     },
     {
       "name": "FULDA MEMORIAL LIBRARY",
@@ -86,7 +90,8 @@
       "zipcodes": [
         "56114",
         "56131"
-      ]
+      ],
+      "id": "fulda-memorial-library-mn"
     },
     {
       "name": "IVANHOE PUBLIC LIBRARY",
@@ -98,7 +103,8 @@
       "zipcodes": [
         "56113",
         "56142"
-      ]
+      ],
+      "id": "ivanhoe-public-library-mn"
     },
     {
       "name": "LAKE BENTON PUBLIC LIBRARY",
@@ -109,7 +115,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "56149"
-      ]
+      ],
+      "id": "lake-benton-public-library-mn"
     },
     {
       "name": "MOUNTAIN LAKE PUBLIC LIBRARY",
@@ -121,7 +128,8 @@
       "zipcodes": [
         "56118",
         "56159"
-      ]
+      ],
+      "id": "mountain-lake-public-library-mn"
     },
     {
       "name": "NOBLES COUNTY LIBRARY",
@@ -142,7 +150,8 @@
         "56168",
         "56185",
         "56187"
-      ]
+      ],
+      "id": "nobles-county-library-mn"
     },
     {
       "name": "ROCK COUNTY COMMUNITY LIBRARY",
@@ -159,7 +168,8 @@
         "56156",
         "56158",
         "56173"
-      ]
+      ],
+      "id": "rock-county-community-library-mn"
     },
     {
       "name": "SLAYTON PUBLIC LIBRARY",
@@ -175,7 +185,8 @@
         "56141",
         "56151",
         "56172"
-      ]
+      ],
+      "id": "slayton-public-library-mn"
     },
     {
       "name": "TYLER PUBLIC LIBRARY",
@@ -195,7 +206,8 @@
         "75708",
         "75709",
         "75792"
-      ]
+      ],
+      "id": "tyler-public-library-mn"
     },
     {
       "name": "WESTBROOK PUBLIC LIBRARY",
@@ -210,7 +222,8 @@
         "56145",
         "56174",
         "56183"
-      ]
+      ],
+      "id": "westbrook-public-library-mn-2"
     },
     {
       "name": "WINDOM PUBLIC LIBRARY",
@@ -222,7 +235,8 @@
       "zipcodes": [
         "56101",
         "56118"
-      ]
+      ],
+      "id": "windom-public-library-mn"
     },
     {
       "name": "LAMBERTON PUBLIC LIBRARY",
@@ -237,7 +251,8 @@
         "56166",
         "56180",
         "56294"
-      ]
+      ],
+      "id": "lamberton-public-library-mn-2"
     },
     {
       "name": "TRACY PUBLIC LIBRARY",
@@ -250,7 +265,8 @@
         "56115",
         "56132",
         "56175"
-      ]
+      ],
+      "id": "tracy-public-library-mn"
     },
     {
       "name": "HENDRICKS: SIVERSON PUBLIC LIBRARY",
@@ -261,7 +277,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "56136"
-      ]
+      ],
+      "id": "hendricks-siverson-public-library-mn"
     },
     {
       "name": "PIPESTONE: MEINDERS COMMUNITY LIBRARY",
@@ -277,7 +294,8 @@
         "56164",
         "56170",
         "56177"
-      ]
+      ],
+      "id": "pipestone-meinders-community-library-mn"
     },
     {
       "name": "WATONWAN COUNTY LIBRARY",
@@ -294,7 +312,8 @@
         "56081",
         "56120",
         "56160"
-      ]
+      ],
+      "id": "watonwan-county-library-mn-2"
     }
   ]
 }

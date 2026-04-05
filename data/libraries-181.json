@@ -12,7 +12,8 @@
         "18101",
         "18102",
         "18103"
-      ]
+      ],
+      "id": "allentown-public-library-pa-2"
     },
     {
       "name": "PARKLAND COMMUNITY LIBRARY",
@@ -30,7 +31,8 @@
         "18087",
         "18104",
         "18106"
-      ]
+      ],
+      "id": "parkland-community-library-pa-2"
     },
     {
       "name": "PUBLIC LIBRARY OF CATASAUQUA",
@@ -42,7 +44,8 @@
       "zipcodes": [
         "18032",
         "18101"
-      ]
+      ],
+      "id": "public-library-of-catasauqua-pa-2"
     },
     {
       "name": "EMMAUS PUBLIC LIBRARY",
@@ -60,7 +63,8 @@
         "18092",
         "18103",
         "18106"
-      ]
+      ],
+      "id": "emmaus-public-library-pa-2"
     },
     {
       "name": "WHITEHALL TOWNSHIP PUB LIBRARY",
@@ -76,7 +80,8 @@
         "18069",
         "18078",
         "18101"
-      ]
+      ],
+      "id": "whitehall-township-pub-library-pa-2"
     },
     {
       "name": "LOWER MACUNGIE LIBRARY",
@@ -94,7 +99,8 @@
         "18092",
         "18103",
         "18106"
-      ]
+      ],
+      "id": "lower-macungie-library-pa-2"
     }
   ]
 }

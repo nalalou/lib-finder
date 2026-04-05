@@ -9,7 +9,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83604"
-      ]
+      ],
+      "id": "bruneau-valley-district-id"
     },
     {
       "name": "CALDWELL PUBLIC",
@@ -23,7 +24,8 @@
         "83607",
         "83626",
         "83687"
-      ]
+      ],
+      "id": "caldwell-public-id"
     },
     {
       "name": "CAMBRIDGE DISTRICT",
@@ -34,7 +36,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83610"
-      ]
+      ],
+      "id": "cambridge-district-id"
     },
     {
       "name": "COUNCIL VALLEY DISTRICT",
@@ -47,7 +50,8 @@
         "83612",
         "83632",
         "83643"
-      ]
+      ],
+      "id": "council-valley-district-id"
     },
     {
       "name": "CASCADE PUBLIC",
@@ -58,7 +62,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83611"
-      ]
+      ],
+      "id": "cascade-public-id"
     },
     {
       "name": "EAGLE PUBLIC",
@@ -72,7 +77,8 @@
         "83669",
         "83703",
         "83713"
-      ]
+      ],
+      "id": "eagle-public-id"
     },
     {
       "name": "EMMETT PUBLIC",
@@ -83,7 +89,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83617"
-      ]
+      ],
+      "id": "emmett-public-id"
     },
     {
       "name": "GARDEN VALLEY DISTRICT",
@@ -96,7 +103,8 @@
         "83602",
         "83622",
         "83666"
-      ]
+      ],
+      "id": "garden-valley-district-id"
     },
     {
       "name": "GLENNS FERRY PUBLIC",
@@ -109,7 +117,8 @@
         "83623",
         "83627",
         "83633"
-      ]
+      ],
+      "id": "glenns-ferry-public-id"
     },
     {
       "name": "EASTERN OWYHEE COUNTY DISTRICT",
@@ -121,7 +130,8 @@
       "zipcodes": [
         "83624",
         "83650"
-      ]
+      ],
+      "id": "eastern-owyhee-county-district-id"
     },
     {
       "name": "HORSESHOE BEND DISTRICT",
@@ -132,7 +142,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83629"
-      ]
+      ],
+      "id": "horseshoe-bend-district-id"
     },
     {
       "name": "HOMEDALE LIBRARY DISTRICT",
@@ -143,7 +154,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83628"
-      ]
+      ],
+      "id": "homedale-library-district-id"
     },
     {
       "name": "BOISE BASIN DISTRICT",
@@ -155,7 +167,8 @@
       "zipcodes": [
         "83631",
         "83637"
-      ]
+      ],
+      "id": "boise-basin-district-id"
     },
     {
       "name": "KUNA DISTRICT",
@@ -166,7 +179,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "83634"
-      ]
+      ],
+      "id": "kuna-district-id"
     },
     {
       "name": "LIZARD BUTTE DISTRICT",
@@ -177,7 +191,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83639"
-      ]
+      ],
+      "id": "lizard-butte-district-id"
     },
     {
       "name": "MCCALL PUBLIC",
@@ -189,7 +204,8 @@
       "zipcodes": [
         "83638",
         "83677"
-      ]
+      ],
+      "id": "mccall-public-id"
     },
     {
       "name": "MERIDIAN DISTRICT",
@@ -202,7 +218,8 @@
         "83642",
         "83669",
         "83713"
-      ]
+      ],
+      "id": "meridian-district-id"
     },
     {
       "name": "MOUNTAIN HOME PUBLIC",
@@ -214,7 +231,8 @@
       "zipcodes": [
         "83647",
         "83648"
-      ]
+      ],
+      "id": "mountain-home-public-id"
     },
     {
       "name": "PRAIRIE DISTRICT",
@@ -226,7 +244,8 @@
       "zipcodes": [
         "83601",
         "83647"
-      ]
+      ],
+      "id": "prairie-district-id"
     },
     {
       "name": "MIDDLETON PUBLIC",
@@ -239,7 +258,8 @@
         "83607",
         "83644",
         "83687"
-      ]
+      ],
+      "id": "middleton-public-id"
     },
     {
       "name": "MIDVALE DISTRICT",
@@ -250,7 +270,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83645"
-      ]
+      ],
+      "id": "midvale-district-id"
     },
     {
       "name": "NAMPA PUBLIC",
@@ -264,7 +285,8 @@
         "83651",
         "83686",
         "83687"
-      ]
+      ],
+      "id": "nampa-public-id"
     },
     {
       "name": "NOTUS PUBLIC",
@@ -277,7 +299,8 @@
         "83607",
         "83626",
         "83656"
-      ]
+      ],
+      "id": "notus-public-id"
     },
     {
       "name": "ARMORAL TUTTLE PUBLIC",
@@ -289,7 +312,8 @@
       "zipcodes": [
         "83619",
         "83655"
-      ]
+      ],
+      "id": "armoral-tuttle-public-id"
     },
     {
       "name": "OLA DISTRICT",
@@ -301,7 +325,8 @@
       "zipcodes": [
         "83657",
         "83670"
-      ]
+      ],
+      "id": "ola-district-id"
     },
     {
       "name": "PATRICIA ROMANKO PUBLIC",
@@ -312,7 +337,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83660"
-      ]
+      ],
+      "id": "patricia-romanko-public-id"
     },
     {
       "name": "PAYETTE PUBLIC",
@@ -324,7 +350,8 @@
       "zipcodes": [
         "83619",
         "83661"
-      ]
+      ],
+      "id": "payette-public-id"
     },
     {
       "name": "WEISER PUBLIC",
@@ -335,7 +362,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83672"
-      ]
+      ],
+      "id": "weiser-public-id"
     },
     {
       "name": "WILDER DISTRICT",
@@ -347,7 +375,8 @@
       "zipcodes": [
         "83626",
         "83676"
-      ]
+      ],
+      "id": "wilder-district-id"
     },
     {
       "name": "MEADOWS VALLEY DISTRICT",
@@ -358,7 +387,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83654"
-      ]
+      ],
+      "id": "meadows-valley-district-id"
     },
     {
       "name": "DONNELLY PUBLIC LIBRARY DISTRICT",
@@ -369,7 +399,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83615"
-      ]
+      ],
+      "id": "donnelly-public-library-district-id"
     },
     {
       "name": "SALMON RIVER PUBLIC",
@@ -383,7 +414,8 @@
         "83547",
         "83549",
         "83671"
-      ]
+      ],
+      "id": "salmon-river-public-id-2"
     }
   ]
 }

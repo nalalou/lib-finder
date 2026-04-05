@@ -10,7 +10,8 @@
       "zipcodes": [
         "06612",
         "06883"
-      ]
+      ],
+      "id": "easton-public-library-ct-2"
     },
     {
       "name": "WESTON PUBLIC LIBRARY",
@@ -34,7 +35,8 @@
         "43565",
         "43569",
         "97886"
-      ]
+      ],
+      "id": "weston-public-library-or-2"
     },
     {
       "name": "NORWALK PUBLIC LIBRARY",
@@ -53,7 +55,8 @@
         "44857",
         "54648",
         "54670"
-      ]
+      ],
+      "id": "norwalk-public-library-oh"
     },
     {
       "name": "BETHEL PUBLIC LIBRARY",
@@ -66,7 +69,8 @@
         "06801",
         "06811",
         "06896"
-      ]
+      ],
+      "id": "bethel-public-library-ct"
     },
     {
       "name": "BROOKFIELD LIBRARY",
@@ -78,7 +82,8 @@
       "zipcodes": [
         "06482",
         "06804"
-      ]
+      ],
+      "id": "brookfield-library-ct-2"
     },
     {
       "name": "DANBURY PUBLIC LIBRARY",
@@ -90,7 +95,8 @@
       "zipcodes": [
         "06810",
         "06811"
-      ]
+      ],
+      "id": "danbury-public-library-ct"
     },
     {
       "name": "LONG RIDGE LIBRARY",
@@ -102,7 +108,8 @@
       "zipcodes": [
         "06810",
         "06896"
-      ]
+      ],
+      "id": "long-ridge-library-ct"
     },
     {
       "name": "DARIEN LIBRARY",
@@ -119,7 +126,8 @@
         "06905",
         "06906",
         "06907"
-      ]
+      ],
+      "id": "darien-library-ct"
     },
     {
       "name": "PEQUOT LIBRARY ASSOCIATION",
@@ -131,7 +139,8 @@
       "zipcodes": [
         "06605",
         "06890"
-      ]
+      ],
+      "id": "pequot-library-association-ct-2"
     },
     {
       "name": "GREENWICH LIBRARY",
@@ -145,7 +154,8 @@
         "06830",
         "06831",
         "06878"
-      ]
+      ],
+      "id": "greenwich-library-ct"
     },
     {
       "name": "PERROT MEMORIAL LIBRARY",
@@ -163,7 +173,8 @@
         "06902",
         "06905",
         "06906"
-      ]
+      ],
+      "id": "perrot-memorial-library-ct"
     },
     {
       "name": "NEW CANAAN LIBRARY",
@@ -177,7 +188,8 @@
         "06850",
         "06903",
         "06907"
-      ]
+      ],
+      "id": "new-canaan-library-ct"
     },
     {
       "name": "NEW FAIRFIELD FREE PUBLIC LIBRARY",
@@ -189,7 +201,8 @@
       "zipcodes": [
         "06811",
         "06812"
-      ]
+      ],
+      "id": "new-fairfield-free-public-library-ct"
     },
     {
       "name": "EAST NORWALK LIBRARY",
@@ -203,7 +216,8 @@
         "06851",
         "06854",
         "06855"
-      ]
+      ],
+      "id": "east-norwalk-library-ct"
     },
     {
       "name": "ROWAYTON LIBRARY",
@@ -215,7 +229,8 @@
       "zipcodes": [
         "06853",
         "06854"
-      ]
+      ],
+      "id": "rowayton-library-ct"
     },
     {
       "name": "MARK TWAIN LIBRARY",
@@ -227,7 +242,8 @@
       "zipcodes": [
         "06875",
         "06896"
-      ]
+      ],
+      "id": "mark-twain-library-ct"
     },
     {
       "name": "RIDGEFIELD LIBRARY",
@@ -238,7 +254,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "06877"
-      ]
+      ],
+      "id": "ridgefield-library-ct"
     },
     {
       "name": "WESTPORT LIBRARY",
@@ -250,7 +267,8 @@
       "zipcodes": [
         "06851",
         "06880"
-      ]
+      ],
+      "id": "westport-library-ct"
     },
     {
       "name": "WILTON LIBRARY ASSOCIATION",
@@ -262,7 +280,8 @@
       "zipcodes": [
         "06883",
         "06897"
-      ]
+      ],
+      "id": "wilton-library-association-ct"
     },
     {
       "name": "FERGUSON LIBRARY",
@@ -282,7 +301,8 @@
         "06905",
         "06906",
         "06907"
-      ]
+      ],
+      "id": "ferguson-library-ct"
     }
   ]
 }

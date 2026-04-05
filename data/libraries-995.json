@@ -15,7 +15,8 @@
         "50571",
         "99567",
         "99645"
-      ]
+      ],
+      "id": "palmer-public-library-ma-4"
     },
     {
       "name": "HOPE SUNRISE COMMUNITY LIBRARY",
@@ -28,7 +29,8 @@
         "99540",
         "99587",
         "99605"
-      ]
+      ],
+      "id": "hope-sunrise-community-library-ak"
     },
     {
       "name": "KASILOF PUBLIC LIBRARY",
@@ -40,7 +42,8 @@
       "zipcodes": [
         "99568",
         "99610"
-      ]
+      ],
+      "id": "kasilof-public-library-ak"
     },
     {
       "name": "MARTIN MONSEN REGIONAL LIBRARY",
@@ -57,7 +60,8 @@
         "99633",
         "99649",
         "99670"
-      ]
+      ],
+      "id": "martin-monsen-regional-library-ak"
     },
     {
       "name": "UNALASKA PUBLIC LIBRARY",
@@ -73,7 +77,8 @@
         "99660",
         "99685",
         "99692"
-      ]
+      ],
+      "id": "unalaska-public-library-ak"
     },
     {
       "name": "KEGOAYAH KOZGA LIBRARY",
@@ -99,7 +104,8 @@
         "99783",
         "99784",
         "99785"
-      ]
+      ],
+      "id": "kegoayah-kozga-library-ak"
     },
     {
       "name": "TOK COMMUNITY LIBRARY",
@@ -113,7 +119,8 @@
         "99764",
         "99776",
         "99780"
-      ]
+      ],
+      "id": "tok-community-library-ak"
     },
     {
       "name": "ANCHOR POINT PUBLIC LIBRARY",
@@ -124,7 +131,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99556"
-      ]
+      ],
+      "id": "anchor-point-public-library-ak"
     },
     {
       "name": "ANCHORAGE PUBLIC LIBRARY",
@@ -148,7 +156,8 @@
         "99517",
         "99518",
         "99577"
-      ]
+      ],
+      "id": "anchorage-public-library-ak"
     },
     {
       "name": "KUSKOKWIM CONSORTIUM LIBRARY",
@@ -184,7 +193,8 @@
         "99680",
         "99681",
         "99690"
-      ]
+      ],
+      "id": "kuskokwim-consortium-library-ak"
     },
     {
       "name": "COLD BAY PUBLIC LIBRARY",
@@ -201,7 +211,8 @@
         "99648",
         "99661",
         "99695"
-      ]
+      ],
+      "id": "cold-bay-public-library-ak"
     },
     {
       "name": "COOPER LANDING COMMUNITY LIBRARY",
@@ -212,7 +223,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99572"
-      ]
+      ],
+      "id": "cooper-landing-community-library-ak"
     },
     {
       "name": "CORDOVA PUBLIC LIBRARY",
@@ -223,7 +235,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99574"
-      ]
+      ],
+      "id": "cordova-public-library-ak"
     },
     {
       "name": "DILLINGHAM PUBLIC LIBRARY",
@@ -241,7 +254,8 @@
         "99628",
         "99651",
         "99678"
-      ]
+      ],
+      "id": "dillingham-public-library-ak"
     },
     {
       "name": "COPPER VALLEY COMMUNITY LIBRARY",
@@ -252,7 +266,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99588"
-      ]
+      ],
+      "id": "copper-valley-community-library-ak"
     },
     {
       "name": "JESSIE WAKEFIELD MEMORIAL LIBRARY",
@@ -265,7 +280,8 @@
         "99550",
         "99624",
         "99643"
-      ]
+      ],
+      "id": "jessie-wakefield-memorial-library-ak"
     },
     {
       "name": "FRANCES KIBBLE KENNY LAKE PUBLIC LIBRARY",
@@ -277,7 +293,8 @@
       "zipcodes": [
         "99566",
         "99573"
-      ]
+      ],
+      "id": "frances-kibble-kenny-lake-public-library-ak"
     },
     {
       "name": "ANIAK PUBLIC LIBRARY",
@@ -297,7 +314,8 @@
         "99656",
         "99665",
         "99668"
-      ]
+      ],
+      "id": "aniak-public-library-ak"
     },
     {
       "name": "CITY OF ADAK PUBLIC LIBRARY",
@@ -309,7 +327,8 @@
       "zipcodes": [
         "99546",
         "99547"
-      ]
+      ],
+      "id": "city-of-adak-public-library-ak"
     }
   ]
 }

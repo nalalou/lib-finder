@@ -27,7 +27,8 @@
         "80301",
         "80303",
         "80516"
-      ]
+      ],
+      "id": "lafayette-public-library-la-4"
     },
     {
       "name": "AURORA PUBLIC LIBRARY",
@@ -53,7 +54,8 @@
         "80018",
         "80103",
         "80105"
-      ]
+      ],
+      "id": "aurora-public-library-co-3"
     },
     {
       "name": "BROOMFIELD/EISENHOWER PUBLIC LIBRARY",
@@ -64,7 +66,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "80020"
-      ]
+      ],
+      "id": "broomfieldeisenhower-public-library-co"
     },
     {
       "name": "LOUISVILLE PUBLIC LIBRARY",
@@ -99,7 +102,8 @@
         "80303",
         "80304",
         "80516"
-      ]
+      ],
+      "id": "louisville-public-library-co-6"
     },
     {
       "name": "WESTMINSTER PUBLIC LIBRARY",
@@ -119,7 +123,8 @@
         "80241",
         "80260",
         "80640"
-      ]
+      ],
+      "id": "westminster-public-library-co"
     },
     {
       "name": "ARAPAHOE LIBRARY DISTRICT",
@@ -138,7 +143,8 @@
         "80112",
         "80121",
         "80122"
-      ]
+      ],
+      "id": "arapahoe-library-district-co"
     },
     {
       "name": "ENGLEWOOD PUBLIC LIBRARY",
@@ -154,7 +160,8 @@
         "80111",
         "80121",
         "80122"
-      ]
+      ],
+      "id": "englewood-public-library-co-2"
     },
     {
       "name": "RANGEVIEW LIBRARY DISTRICT",
@@ -181,7 +188,8 @@
         "80601",
         "80602",
         "80640"
-      ]
+      ],
+      "id": "rangeview-library-district-co"
     },
     {
       "name": "JEFFERSON COUNTY PUBLIC LIBRARY",
@@ -221,7 +229,8 @@
         "80457",
         "80465",
         "80470"
-      ]
+      ],
+      "id": "jefferson-county-public-library-in-2"
     },
     {
       "name": "BOULDER PUBLIC LIBRARY",
@@ -238,7 +247,8 @@
         "80303",
         "80304",
         "80455"
-      ]
+      ],
+      "id": "boulder-public-library-co"
     }
   ]
 }

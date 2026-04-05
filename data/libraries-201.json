@@ -21,7 +21,8 @@
         "22655",
         "22656",
         "22663"
-      ]
+      ],
+      "id": "handley-regional-library-va"
     },
     {
       "name": "CULPEPER COUNTY LIBRARY",
@@ -43,7 +44,8 @@
         "22736",
         "22737",
         "22741"
-      ]
+      ],
+      "id": "culpeper-county-library-va"
     },
     {
       "name": "FAIRFAX COUNTY PUBLIC LIBRARY",
@@ -96,7 +98,8 @@
         "22310",
         "22312",
         "22315"
-      ]
+      ],
+      "id": "fairfax-county-public-library-va"
     },
     {
       "name": "FAUQUIER COUNTY PUBLIC LIBRARY",
@@ -123,7 +126,8 @@
         "22728",
         "22734",
         "22742"
-      ]
+      ],
+      "id": "fauquier-county-public-library-va"
     },
     {
       "name": "LOUDOUN COUNTY PUBLIC LIBRARY",
@@ -150,7 +154,8 @@
         "20176",
         "20180",
         "20197"
-      ]
+      ],
+      "id": "loudoun-county-public-library-va"
     },
     {
       "name": "MANASSAS PARK CITY LIBRARY",
@@ -162,7 +167,8 @@
       "zipcodes": [
         "20110",
         "20111"
-      ]
+      ],
+      "id": "manassas-park-city-library-va"
     },
     {
       "name": "PRINCE WILLIAM PUBLIC LIBRARIES",
@@ -187,7 +193,8 @@
         "22191",
         "22192",
         "22193"
-      ]
+      ],
+      "id": "prince-william-public-libraries-va"
     }
   ]
 }

@@ -26,7 +26,8 @@
         "68620",
         "68652",
         "99833"
-      ]
+      ],
+      "id": "petersburg-public-library-il-4"
     },
     {
       "name": "GUSTAVUS PUBLIC LIBRARY",
@@ -38,7 +39,8 @@
       "zipcodes": [
         "99825",
         "99826"
-      ]
+      ],
+      "id": "gustavus-public-library-ak"
     },
     {
       "name": "HAINES BOROUGH PUBLIC LIBRARY",
@@ -50,7 +52,8 @@
       "zipcodes": [
         "99689",
         "99827"
-      ]
+      ],
+      "id": "haines-borough-public-library-ak-2"
     },
     {
       "name": "JUNEAU PUBLIC LIBRARIES",
@@ -62,7 +65,8 @@
       "zipcodes": [
         "99801",
         "99824"
-      ]
+      ],
+      "id": "juneau-public-libraries-ak"
     },
     {
       "name": "PELICAN PUBLIC LIBRARY",
@@ -73,7 +77,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99832"
-      ]
+      ],
+      "id": "pelican-public-library-ak"
     },
     {
       "name": "SITKA PUBLIC LIBRARY",
@@ -84,7 +89,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99835"
-      ]
+      ],
+      "id": "sitka-public-library-ak"
     },
     {
       "name": "SKAGWAY PUBLIC LIBRARY",
@@ -95,7 +101,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99840"
-      ]
+      ],
+      "id": "skagway-public-library-ak"
     },
     {
       "name": "DERMOTT O`TOOLE MEMORIAL LIBRARY",
@@ -107,7 +114,8 @@
       "zipcodes": [
         "99829",
         "99841"
-      ]
+      ],
+      "id": "dermott-otoole-memorial-library-ak"
     },
     {
       "name": "KLUKWAN COMMUNITY/SCHOOL LIBRARY",
@@ -118,7 +126,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99827"
-      ]
+      ],
+      "id": "klukwan-communityschool-library-ak"
     },
     {
       "name": "SHIRLY JACKSON COMMUNITY LIBRARY",
@@ -130,7 +139,8 @@
       "zipcodes": [
         "99820",
         "99830"
-      ]
+      ],
+      "id": "shirly-jackson-community-library-ak"
     }
   ]
 }

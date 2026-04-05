@@ -27,7 +27,8 @@
         "97303",
         "97305",
         "97306"
-      ]
+      ],
+      "id": "salem-public-library-or"
     },
     {
       "name": "AMESBURY PUBLIC LIBRARY",
@@ -38,7 +39,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01913"
-      ]
+      ],
+      "id": "amesbury-public-library-ma"
     },
     {
       "name": "BEVERLY PUBLIC LIBRARY",
@@ -51,7 +53,8 @@
         "01915",
         "01970",
         "01984"
-      ]
+      ],
+      "id": "beverly-public-library-ma"
     },
     {
       "name": "BOXFORD TOWN LIBRARY",
@@ -63,7 +66,8 @@
       "zipcodes": [
         "01845",
         "01921"
-      ]
+      ],
+      "id": "boxford-town-library-ma-2"
     },
     {
       "name": "PEABODY INSTITUTE LIBRARY",
@@ -76,7 +80,8 @@
         "01923",
         "01960",
         "01984"
-      ]
+      ],
+      "id": "peabody-institute-library-ma"
     },
     {
       "name": "T.O.H.P. BURNHAM FREE LIBRARY",
@@ -87,7 +92,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01929"
-      ]
+      ],
+      "id": "tohp-burnham-free-library-ma"
     },
     {
       "name": "GLOUCESTER LYCEUM & SAWYER FREE LIB",
@@ -98,7 +104,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "01930"
-      ]
+      ],
+      "id": "gloucester-lyceum-sawyer-free-lib-ma"
     },
     {
       "name": "IPSWICH PUBLIC LIBRARY",
@@ -109,7 +116,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01938"
-      ]
+      ],
+      "id": "ipswich-public-library-ma"
     },
     {
       "name": "LYNN PUBLIC LIBRARY",
@@ -122,7 +130,8 @@
         "01902",
         "01904",
         "01905"
-      ]
+      ],
+      "id": "lynn-public-library-ma"
     },
     {
       "name": "LYNNFIELD PUBLIC LIBRARY",
@@ -133,7 +142,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01940"
-      ]
+      ],
+      "id": "lynnfield-public-library-ma"
     },
     {
       "name": "MANCHESTER-BY-THE-SEA PUB. LIBRARY",
@@ -144,7 +154,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01944"
-      ]
+      ],
+      "id": "manchester-by-the-sea-pub-library-ma"
     },
     {
       "name": "ABBOT PUBLIC LIBRARY",
@@ -156,7 +167,8 @@
       "zipcodes": [
         "01945",
         "01970"
-      ]
+      ],
+      "id": "abbot-public-library-ma"
     },
     {
       "name": "FLINT PUBLIC LIBRARY",
@@ -167,7 +179,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "01949"
-      ]
+      ],
+      "id": "flint-public-library-ma"
     },
     {
       "name": "NAHANT PUBLIC LIBRARY",
@@ -178,7 +191,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01908"
-      ]
+      ],
+      "id": "nahant-public-library-ma"
     },
     {
       "name": "NEWBURY TOWN LIBRARY",
@@ -189,7 +203,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01922"
-      ]
+      ],
+      "id": "newbury-town-library-ma"
     },
     {
       "name": "NEWBURYPORT PUBLIC LIBRARY",
@@ -201,7 +216,8 @@
       "zipcodes": [
         "01950",
         "01951"
-      ]
+      ],
+      "id": "newburyport-public-library-ma"
     },
     {
       "name": "ROCKPORT PUBLIC LIBRARY",
@@ -213,7 +229,8 @@
       "zipcodes": [
         "01966",
         "04856"
-      ]
+      ],
+      "id": "rockport-public-library-ma"
     },
     {
       "name": "ROWLEY PUBLIC LIBRARY",
@@ -225,7 +242,8 @@
       "zipcodes": [
         "01951",
         "01969"
-      ]
+      ],
+      "id": "rowley-public-library-ma"
     },
     {
       "name": "SALISBURY PUBLIC LIBRARY",
@@ -237,7 +255,8 @@
       "zipcodes": [
         "01951",
         "01952"
-      ]
+      ],
+      "id": "salisbury-public-library-ma"
     },
     {
       "name": "SAUGUS PUBLIC LIBRARY",
@@ -250,7 +269,8 @@
         "01904",
         "01905",
         "01906"
-      ]
+      ],
+      "id": "saugus-public-library-ma"
     },
     {
       "name": "SWAMPSCOTT PUBLIC LIBRARY",
@@ -263,7 +283,8 @@
         "01904",
         "01905",
         "01907"
-      ]
+      ],
+      "id": "swampscott-public-library-ma"
     },
     {
       "name": "TOPSFIELD TOWN LIBRARY",
@@ -274,7 +295,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "01983"
-      ]
+      ],
+      "id": "topsfield-town-library-ma"
     },
     {
       "name": "G. A. R. MEMORIAL LIBRARY",
@@ -285,7 +307,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01985"
-      ]
+      ],
+      "id": "g-a-r-memorial-library-ma"
     },
     {
       "name": "HAMILTON-WENHAM PUBLIC LIBRARY",
@@ -297,7 +320,8 @@
       "zipcodes": [
         "01982",
         "01984"
-      ]
+      ],
+      "id": "hamilton-wenham-public-library-ma"
     }
   ]
 }

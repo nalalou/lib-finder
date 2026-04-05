@@ -9,7 +9,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "89406"
-      ]
+      ],
+      "id": "churchill-county-library-nv"
     },
     {
       "name": "DOUGLAS COUNTY PUBLIC LIBRARY",
@@ -42,7 +43,8 @@
         "89448",
         "89449",
         "89705"
-      ]
+      ],
+      "id": "douglas-county-public-library-nv-3"
     },
     {
       "name": "HUMBOLDT COUNTY LIBRARY",
@@ -81,7 +83,8 @@
         "95569",
         "95570",
         "95573"
-      ]
+      ],
+      "id": "humboldt-county-library-nv"
     },
     {
       "name": "LYON COUNTY LIBRARY SYSTEM",
@@ -97,7 +100,8 @@
         "89429",
         "89430",
         "89447"
-      ]
+      ],
+      "id": "lyon-county-library-system-nv"
     },
     {
       "name": "MINERAL COUNTY LIBRARY",
@@ -111,7 +115,8 @@
         "89420",
         "89422",
         "89427"
-      ]
+      ],
+      "id": "mineral-county-library-nv"
     },
     {
       "name": "PERSHING COUNTY LIBRARY",
@@ -123,7 +128,8 @@
       "zipcodes": [
         "89418",
         "89419"
-      ]
+      ],
+      "id": "pershing-county-library-nv"
     },
     {
       "name": "WASHOE COUNTY LIBRARY SYSTEM",
@@ -153,7 +159,8 @@
         "89512",
         "89523",
         "89704"
-      ]
+      ],
+      "id": "washoe-county-library-system-nv"
     },
     {
       "name": "SMOKY VALLEY LIBRARY DISTRICT",
@@ -168,7 +175,8 @@
         "89310",
         "89314",
         "89409"
-      ]
+      ],
+      "id": "smoky-valley-library-district-nv-3"
     },
     {
       "name": "CARSON CITY LIBRARY",
@@ -182,7 +190,8 @@
         "89701",
         "89703",
         "89706"
-      ]
+      ],
+      "id": "carson-city-library-nv"
     }
   ]
 }

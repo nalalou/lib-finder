@@ -13,7 +13,8 @@
         "79834",
         "79842",
         "79852"
-      ]
+      ],
+      "id": "marathon-public-library-ia-2"
     },
     {
       "name": "JEFF DAVIS COUNTY LIBRARY",
@@ -25,7 +26,8 @@
       "zipcodes": [
         "79734",
         "79854"
-      ]
+      ],
+      "id": "jeff-davis-county-library-tx-2"
     },
     {
       "name": "EL PASO PUBLIC LIBRARY",
@@ -54,7 +56,8 @@
         "79934",
         "79935",
         "79936"
-      ]
+      ],
+      "id": "el-paso-public-library-tx"
     },
     {
       "name": "ILUMINA PUBLIC LIBRARY",
@@ -70,7 +73,8 @@
         "79927",
         "79928",
         "79938"
-      ]
+      ],
+      "id": "ilumina-public-library-tx"
     },
     {
       "name": "MARFA PUBLIC LIBRARY",
@@ -81,7 +85,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79843"
-      ]
+      ],
+      "id": "marfa-public-library-tx"
     },
     {
       "name": "TERRELL COUNTY PUBLIC LIBRARY",
@@ -93,7 +98,8 @@
       "zipcodes": [
         "78851",
         "79848"
-      ]
+      ],
+      "id": "terrell-county-public-library-tx-2"
     },
     {
       "name": "VAN HORN CITY COUNTY LIBRARY",
@@ -106,7 +112,8 @@
         "79847",
         "79851",
         "79855"
-      ]
+      ],
+      "id": "van-horn-city-county-library-tx"
     },
     {
       "name": "ALPINE PUBLIC LIBRARY",
@@ -117,7 +124,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79830"
-      ]
+      ],
+      "id": "alpine-public-library-tx"
     },
     {
       "name": "PRESIDIO PUBLIC LIBRARY",
@@ -129,7 +137,8 @@
       "zipcodes": [
         "79845",
         "79846"
-      ]
+      ],
+      "id": "presidio-public-library-tx"
     },
     {
       "name": "CLINT ISD PUBLIC LIBRARY",
@@ -145,7 +154,8 @@
         "79853",
         "79907",
         "79927"
-      ]
+      ],
+      "id": "clint-isd-public-library-tx"
     }
   ]
 }

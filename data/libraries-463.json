@@ -13,7 +13,8 @@
         "46368",
         "46393",
         "60154"
-      ]
+      ],
+      "id": "westchester-public-library-il"
     },
     {
       "name": "NEWTON COUNTY PUBLIC LIBRARY",
@@ -32,7 +33,8 @@
         "75966",
         "75977",
         "77614"
-      ]
+      ],
+      "id": "newton-county-public-library-tx"
     },
     {
       "name": "LAKE COUNTY PUBLIC LIBRARY",
@@ -56,7 +58,8 @@
         "46410",
         "80461",
         "81251"
-      ]
+      ],
+      "id": "lake-county-public-library-co"
     },
     {
       "name": "GARY PUBLIC LIBRARY",
@@ -79,7 +82,8 @@
         "46408",
         "46409",
         "46410"
-      ]
+      ],
+      "id": "gary-public-library-in"
     },
     {
       "name": "WHITING PUBLIC LIBRARY",
@@ -93,7 +97,8 @@
         "46327",
         "46394",
         "51063"
-      ]
+      ],
+      "id": "whiting-public-library-ia"
     },
     {
       "name": "JASPER COUNTY PUBLIC LIBRARY",
@@ -107,7 +112,8 @@
         "46392",
         "47943",
         "47978"
-      ]
+      ],
+      "id": "jasper-county-public-library-in"
     },
     {
       "name": "EAST CHICAGO PUBLIC LIBRARY",
@@ -131,7 +137,8 @@
         "46407",
         "46408",
         "46409"
-      ]
+      ],
+      "id": "east-chicago-public-library-in"
     },
     {
       "name": "HAMMOND PUBLIC LIBRARY",
@@ -151,7 +158,8 @@
         "46394",
         "46404",
         "46406"
-      ]
+      ],
+      "id": "hammond-public-library-in"
     },
     {
       "name": "CROWN POINT COMMUNITY PUBLIC LIBRARY",
@@ -168,7 +176,8 @@
         "46373",
         "46375",
         "46410"
-      ]
+      ],
+      "id": "crown-point-community-public-library-in"
     },
     {
       "name": "MICHIGAN CITY PUBLIC LIBRARY",
@@ -179,7 +188,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46360"
-      ]
+      ],
+      "id": "michigan-city-public-library-in"
     },
     {
       "name": "WESTVILLE-NEW DURHAM TOWNSHIP PUBLIC LIBRARY",
@@ -190,7 +200,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46391"
-      ]
+      ],
+      "id": "westville-new-durham-township-public-library-in"
     },
     {
       "name": "WANATAH PUBLIC LIBRARY",
@@ -203,7 +214,8 @@
         "46340",
         "46382",
         "46390"
-      ]
+      ],
+      "id": "wanatah-public-library-in"
     },
     {
       "name": "LA CROSSE PUBLIC LIBRARY",
@@ -219,7 +231,8 @@
         "54603",
         "54650",
         "54653"
-      ]
+      ],
+      "id": "la-crosse-public-library-in"
     },
     {
       "name": "LA PORTE COUNTY PUBLIC LIBRARY",
@@ -234,7 +247,8 @@
         "46350",
         "46365",
         "46371"
-      ]
+      ],
+      "id": "la-porte-county-public-library-in"
     },
     {
       "name": "PORTER COUNTY PUBLIC LIBRARY SYSTEM",
@@ -249,7 +263,8 @@
         "46383",
         "46385",
         "46393"
-      ]
+      ],
+      "id": "porter-county-public-library-system-in"
     },
     {
       "name": "NORTH JUDSON-WAYNE TOWNSHIP PUBLIC LIBRARY",
@@ -261,7 +276,8 @@
       "zipcodes": [
         "46366",
         "46374"
-      ]
+      ],
+      "id": "north-judson-wayne-township-public-library-in"
     },
     {
       "name": "LOWELL PUBLIC LIBRARY",
@@ -275,7 +291,8 @@
         "46356",
         "46376",
         "46377"
-      ]
+      ],
+      "id": "lowell-public-library-in"
     }
   ]
 }

@@ -23,7 +23,8 @@
         "12203",
         "12208",
         "12209"
-      ]
+      ],
+      "id": "bethlehem-public-library-ct-2"
     },
     {
       "name": "BURNHAM LIBRARY",
@@ -34,7 +35,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "06752"
-      ]
+      ],
+      "id": "burnham-library-ct"
     },
     {
       "name": "CORNWALL LIBRARY ASSOCIATION",
@@ -46,7 +48,8 @@
       "zipcodes": [
         "06753",
         "06796"
-      ]
+      ],
+      "id": "cornwall-library-association-ct"
     },
     {
       "name": "GOSHEN PUBLIC LIBRARY",
@@ -63,7 +66,8 @@
         "46528",
         "46543",
         "46553"
-      ]
+      ],
+      "id": "goshen-public-library-ct"
     },
     {
       "name": "HARWINTON PUBLIC LIBRARY",
@@ -74,7 +78,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "06791"
-      ]
+      ],
+      "id": "harwinton-public-library-ct"
     },
     {
       "name": "KENT LIBRARY ASSOCIATION",
@@ -87,7 +92,8 @@
         "06755",
         "06757",
         "06785"
-      ]
+      ],
+      "id": "kent-library-association-ct"
     },
     {
       "name": "GILBERT LIBRARY",
@@ -99,7 +105,8 @@
       "zipcodes": [
         "06778",
         "06782"
-      ]
+      ],
+      "id": "gilbert-library-ct"
     },
     {
       "name": "OLIVER WOLCOTT LIBRARY",
@@ -111,7 +118,8 @@
       "zipcodes": [
         "06750",
         "06759"
-      ]
+      ],
+      "id": "oliver-wolcott-library-ct"
     },
     {
       "name": "MIDDLEBURY PUBLIC LIBRARY",
@@ -125,7 +133,8 @@
         "06708",
         "06710",
         "06762"
-      ]
+      ],
+      "id": "middlebury-public-library-ct"
     },
     {
       "name": "MORRIS PUBLIC LIBRARY",
@@ -143,7 +152,8 @@
         "56235",
         "56267",
         "56276"
-      ]
+      ],
+      "id": "morris-public-library-ct"
     },
     {
       "name": "HOWARD WHITTEMORE MEMORIAL LIBRARY",
@@ -156,7 +166,8 @@
         "06706",
         "06708",
         "06770"
-      ]
+      ],
+      "id": "howard-whittemore-memorial-library-ct"
     },
     {
       "name": "NEW MILFORD PUBLIC LIBRARY",
@@ -170,7 +181,8 @@
         "06776",
         "06785",
         "07646"
-      ]
+      ],
+      "id": "new-milford-public-library-ct"
     },
     {
       "name": "TERRYVILLE PUBLIC LIBRARY",
@@ -183,7 +195,8 @@
         "06779",
         "06782",
         "06786"
-      ]
+      ],
+      "id": "terryville-public-library-ct"
     },
     {
       "name": "PROSPECT PUBLIC LIBRARY",
@@ -196,7 +209,8 @@
         "06705",
         "06706",
         "06712"
-      ]
+      ],
+      "id": "prospect-public-library-ct"
     },
     {
       "name": "MINOR MEMORIAL LIBRARY",
@@ -207,7 +221,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "06783"
-      ]
+      ],
+      "id": "minor-memorial-library-ct"
     },
     {
       "name": "SHERMAN LIBRARY ASSN.",
@@ -218,7 +233,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "06784"
-      ]
+      ],
+      "id": "sherman-library-assn-ct"
     },
     {
       "name": "THOMASTON PUBLIC LIBRARY",
@@ -233,7 +249,8 @@
         "06779",
         "06782",
         "06787"
-      ]
+      ],
+      "id": "thomaston-public-library-ct-2"
     },
     {
       "name": "TORRINGTON LIBRARY",
@@ -244,7 +261,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "06790"
-      ]
+      ],
+      "id": "torrington-library-ct"
     },
     {
       "name": "WARREN PUBLIC LIBRARY",
@@ -267,7 +285,8 @@
         "48093",
         "48310",
         "48312"
-      ]
+      ],
+      "id": "warren-public-library-ct-2"
     },
     {
       "name": "GUNN MEMORIAL LIBRARY",
@@ -281,7 +300,8 @@
         "06777",
         "06793",
         "06794"
-      ]
+      ],
+      "id": "gunn-memorial-library-ct"
     },
     {
       "name": "SILAS BRONSON LIBRARY",
@@ -297,7 +317,8 @@
         "06706",
         "06708",
         "06710"
-      ]
+      ],
+      "id": "silas-bronson-library-ct"
     },
     {
       "name": "WATERTOWN LIBRARY ASSOCIATION",
@@ -309,7 +330,8 @@
       "zipcodes": [
         "06779",
         "06795"
-      ]
+      ],
+      "id": "watertown-library-association-ct"
     },
     {
       "name": "WOLCOTT PUBLIC LIBRARY",
@@ -327,7 +349,8 @@
         "14516",
         "14555",
         "14590"
-      ]
+      ],
+      "id": "wolcott-public-library-ct"
     },
     {
       "name": "WOODBURY PUBLIC LIBRARY",
@@ -345,7 +368,8 @@
         "10930",
         "10975",
         "12577"
-      ]
+      ],
+      "id": "woodbury-public-library-ct"
     },
     {
       "name": "DAVID M. HUNT LIBRARY",
@@ -359,7 +383,8 @@
         "06031",
         "06039",
         "06796"
-      ]
+      ],
+      "id": "david-m-hunt-library-ct-2"
     }
   ]
 }

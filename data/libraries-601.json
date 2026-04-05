@@ -24,7 +24,8 @@
         "67023",
         "67038",
         "67156"
-      ]
+      ],
+      "id": "winfield-public-library-al-4"
     },
     {
       "name": "ADDISON PUBLIC LIBRARY",
@@ -40,7 +41,8 @@
         "14858",
         "14870",
         "60101"
-      ]
+      ],
+      "id": "addison-public-library-il-2"
     },
     {
       "name": "ALGONQUIN AREA PUBLIC LIBRARY DISTRICT",
@@ -52,7 +54,8 @@
       "zipcodes": [
         "60014",
         "60102"
-      ]
+      ],
+      "id": "algonquin-area-public-library-district-il-2"
     },
     {
       "name": "BARTLETT PUBLIC LIBRARY DISTRICT",
@@ -64,7 +67,8 @@
       "zipcodes": [
         "60103",
         "60184"
-      ]
+      ],
+      "id": "bartlett-public-library-district-il"
     },
     {
       "name": "BELLWOOD PUBLIC LIBRARY",
@@ -76,7 +80,8 @@
       "zipcodes": [
         "60104",
         "60165"
-      ]
+      ],
+      "id": "bellwood-public-library-il"
     },
     {
       "name": "BENSENVILLE COMMUNITY PUBLIC LIBRARY DISTRICT",
@@ -87,7 +92,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60106"
-      ]
+      ],
+      "id": "bensenville-community-public-library-district-il"
     },
     {
       "name": "BERKELEY PUBLIC LIBRARY",
@@ -111,7 +117,8 @@
         "94708",
         "94709",
         "94710"
-      ]
+      ],
+      "id": "berkeley-public-library-il"
     },
     {
       "name": "BLOOMINGDALE PUBLIC LIBRARY",
@@ -123,7 +130,8 @@
       "zipcodes": [
         "60108",
         "60157"
-      ]
+      ],
+      "id": "bloomingdale-public-library-il"
     },
     {
       "name": "BROADVIEW PUBLIC LIBRARY DISTRICT",
@@ -135,7 +143,8 @@
       "zipcodes": [
         "60141",
         "60155"
-      ]
+      ],
+      "id": "broadview-public-library-district-il"
     },
     {
       "name": "CAROL STREAM PUBLIC LIBRARY",
@@ -147,7 +156,8 @@
       "zipcodes": [
         "60184",
         "60188"
-      ]
+      ],
+      "id": "carol-stream-public-library-il"
     },
     {
       "name": "DEKALB PUBLIC LIBRARY",
@@ -159,7 +169,8 @@
       "zipcodes": [
         "60111",
         "60115"
-      ]
+      ],
+      "id": "dekalb-public-library-il"
     },
     {
       "name": "FOX RIVER VALLEY PUBLIC LIBRARY DISTRICT",
@@ -173,7 +184,8 @@
         "60118",
         "60123",
         "60136"
-      ]
+      ],
+      "id": "fox-river-valley-public-library-district-il"
     },
     {
       "name": "TOWN AND COUNTRY PUBLIC LIBRARY DISTRICT",
@@ -185,7 +197,8 @@
       "zipcodes": [
         "60119",
         "60175"
-      ]
+      ],
+      "id": "town-and-country-public-library-district-il"
     },
     {
       "name": "ELLA JOHNSON MEMORIAL PUBLIC LIBRARY DISTRICT",
@@ -198,7 +211,8 @@
         "60109",
         "60136",
         "60140"
-      ]
+      ],
+      "id": "ella-johnson-memorial-public-library-district-il"
     },
     {
       "name": "ELMHURST PUBLIC LIBRARY",
@@ -209,7 +223,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60126"
-      ]
+      ],
+      "id": "elmhurst-public-library-il"
     },
     {
       "name": "FOREST PARK PUBLIC LIBRARY",
@@ -226,7 +241,8 @@
         "60304",
         "60624",
         "60644"
-      ]
+      ],
+      "id": "forest-park-public-library-il"
     },
     {
       "name": "FRANKLIN PARK PUBLIC LIBRARY DISTRICT",
@@ -238,7 +254,8 @@
       "zipcodes": [
         "60018",
         "60131"
-      ]
+      ],
+      "id": "franklin-park-public-library-district-il-2"
     },
     {
       "name": "GAIL BORDEN PUBLIC LIBRARY DISTRICT",
@@ -253,7 +270,8 @@
         "60123",
         "60136",
         "60177"
-      ]
+      ],
+      "id": "gail-borden-public-library-district-il"
     },
     {
       "name": "GENEVA PUBLIC LIBRARY DISTRICT",
@@ -267,7 +285,8 @@
         "60175",
         "60177",
         "60539"
-      ]
+      ],
+      "id": "geneva-public-library-district-il"
     },
     {
       "name": "GENOA PUBLIC LIBRARY DISTRICT",
@@ -279,7 +298,8 @@
       "zipcodes": [
         "60135",
         "60145"
-      ]
+      ],
+      "id": "genoa-public-library-district-il"
     },
     {
       "name": "GLEN ELLYN PUBLIC LIBRARY",
@@ -290,7 +310,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60137"
-      ]
+      ],
+      "id": "glen-ellyn-public-library-il"
     },
     {
       "name": "GLENSIDE PUBLIC LIBRARY DISTRICT",
@@ -301,7 +322,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60139"
-      ]
+      ],
+      "id": "glenside-public-library-district-il"
     },
     {
       "name": "HILLSIDE PUBLIC LIBRARY",
@@ -312,7 +334,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60162"
-      ]
+      ],
+      "id": "hillside-public-library-il"
     },
     {
       "name": "ITASCA COMMUNITY LIBRARY",
@@ -324,7 +347,8 @@
       "zipcodes": [
         "60143",
         "60157"
-      ]
+      ],
+      "id": "itasca-community-library-il"
     },
     {
       "name": "KANEVILLE PUBLIC LIBRARY DISTRICT",
@@ -336,7 +360,8 @@
       "zipcodes": [
         "60144",
         "60511"
-      ]
+      ],
+      "id": "kaneville-public-library-district-il"
     },
     {
       "name": "KIRKLAND PUBLIC LIBRARY",
@@ -350,7 +375,8 @@
         "60129",
         "60145",
         "60146"
-      ]
+      ],
+      "id": "kirkland-public-library-il"
     },
     {
       "name": "HELEN M. PLUM MEMORIAL PUBLIC LIBRARY DISTRICT",
@@ -361,7 +387,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60148"
-      ]
+      ],
+      "id": "helen-m-plum-memorial-public-library-district-il"
     },
     {
       "name": "MALTA TOWNSHIP PUBLIC LIBRARY",
@@ -374,7 +401,8 @@
         "60111",
         "60129",
         "60150"
-      ]
+      ],
+      "id": "malta-township-public-library-il"
     },
     {
       "name": "MAPLE PARK PUBLIC LIBRARY DISTRICT",
@@ -385,7 +413,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60151"
-      ]
+      ],
+      "id": "maple-park-public-library-district-il"
     },
     {
       "name": "MARENGO-UNION PUBLIC LIBRARY DISTRICT",
@@ -397,7 +426,8 @@
       "zipcodes": [
         "60152",
         "60180"
-      ]
+      ],
+      "id": "marengo-union-public-library-district-il"
     },
     {
       "name": "MAYWOOD PUBLIC LIBRARY DISTRICT",
@@ -408,7 +438,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60153"
-      ]
+      ],
+      "id": "maywood-public-library-district-il"
     },
     {
       "name": "NORTHLAKE PUBLIC LIBRARY DISTRICT",
@@ -420,7 +451,8 @@
       "zipcodes": [
         "60164",
         "60165"
-      ]
+      ],
+      "id": "northlake-public-library-district-il"
     },
     {
       "name": "POPLAR CREEK PUBLIC LIBRARY DISTRICT",
@@ -433,7 +465,8 @@
         "60107",
         "60192",
         "60194"
-      ]
+      ],
+      "id": "poplar-creek-public-library-district-il"
     },
     {
       "name": "RIVER GROVE PUBLIC LIBRARY DISTRICT",
@@ -445,7 +478,8 @@
       "zipcodes": [
         "60171",
         "60634"
-      ]
+      ],
+      "id": "river-grove-public-library-district-il"
     },
     {
       "name": "ROSELLE PUBLIC LIBRARY DISTRICT",
@@ -457,7 +491,8 @@
       "zipcodes": [
         "60157",
         "60172"
-      ]
+      ],
+      "id": "roselle-public-library-district-il"
     },
     {
       "name": "SAINT CHARLES PUBLIC LIBRARY DISTRICT",
@@ -471,7 +506,8 @@
         "60174",
         "60175",
         "60177"
-      ]
+      ],
+      "id": "saint-charles-public-library-district-il"
     },
     {
       "name": "SCHAUMBURG TOWNSHIP DISTRICT LIBRARY",
@@ -486,7 +522,8 @@
         "60193",
         "60194",
         "60195"
-      ]
+      ],
+      "id": "schaumburg-township-district-library-il"
     },
     {
       "name": "SCHILLER PARK PUBLIC LIBRARY",
@@ -499,7 +536,8 @@
         "60018",
         "60176",
         "60656"
-      ]
+      ],
+      "id": "schiller-park-public-library-il-2"
     },
     {
       "name": "SYCAMORE PUBLIC LIBRARY",
@@ -511,7 +549,8 @@
       "zipcodes": [
         "60145",
         "60178"
-      ]
+      ],
+      "id": "sycamore-public-library-il"
     },
     {
       "name": "VILLA PARK PUBLIC LIBRARY",
@@ -522,7 +561,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60181"
-      ]
+      ],
+      "id": "villa-park-public-library-il"
     },
     {
       "name": "WEST CHICAGO PUBLIC LIBRARY DISTRICT",
@@ -535,7 +575,8 @@
         "60184",
         "60185",
         "60190"
-      ]
+      ],
+      "id": "west-chicago-public-library-district-il"
     },
     {
       "name": "WESTCHESTER PUBLIC LIBRARY",
@@ -550,7 +591,8 @@
         "46368",
         "46393",
         "60154"
-      ]
+      ],
+      "id": "westchester-public-library-il-2"
     },
     {
       "name": "WHEATON PUBLIC LIBRARY",
@@ -562,7 +604,8 @@
       "zipcodes": [
         "60187",
         "60190"
-      ]
+      ],
+      "id": "wheaton-public-library-il"
     },
     {
       "name": "WOOD DALE PUBLIC LIBRARY DISTRICT",
@@ -573,7 +616,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60191"
-      ]
+      ],
+      "id": "wood-dale-public-library-district-il"
     },
     {
       "name": "MELROSE PARK PUBLIC LIBRARY",
@@ -585,7 +629,8 @@
       "zipcodes": [
         "60160",
         "60165"
-      ]
+      ],
+      "id": "melrose-park-public-library-il"
     },
     {
       "name": "HUNTLEY AREA PUBLIC LIBRARY DISTRICT",
@@ -597,7 +642,8 @@
       "zipcodes": [
         "60142",
         "60180"
-      ]
+      ],
+      "id": "huntley-area-public-library-district-il"
     },
     {
       "name": "CORTLAND COMMUNITY LIBRARY",
@@ -608,7 +654,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60112"
-      ]
+      ],
+      "id": "cortland-community-library-il"
     },
     {
       "name": "CRESTON-DEMENT PUBLIC LIBRARY DISTRICT",
@@ -620,7 +667,8 @@
       "zipcodes": [
         "60113",
         "61049"
-      ]
+      ],
+      "id": "creston-dement-public-library-district-il"
     },
     {
       "name": "ELK GROVE VILLAGE PUBLIC LIBRARY",
@@ -632,7 +680,8 @@
       "zipcodes": [
         "60007",
         "60173"
-      ]
+      ],
+      "id": "elk-grove-village-public-library-il-2"
     },
     {
       "name": "PALATINE PUBLIC LIBRARY DISTRICT",
@@ -645,7 +694,8 @@
         "60067",
         "60074",
         "60195"
-      ]
+      ],
+      "id": "palatine-public-library-district-il-2"
     },
     {
       "name": "ROLLING MEADOWS LIBRARY",
@@ -662,7 +712,8 @@
         "60192",
         "60194",
         "60195"
-      ]
+      ],
+      "id": "rolling-meadows-library-il-2"
     },
     {
       "name": "WOODSTOCK PUBLIC LIBRARY",
@@ -675,7 +726,8 @@
         "60034",
         "60098",
         "60180"
-      ]
+      ],
+      "id": "woodstock-public-library-il-2"
     },
     {
       "name": "NORTH RIVERSIDE PUBLIC LIBRARY DISTRICT",
@@ -687,7 +739,8 @@
       "zipcodes": [
         "60141",
         "60546"
-      ]
+      ],
+      "id": "north-riverside-public-library-district-il"
     }
   ]
 }

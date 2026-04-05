@@ -14,7 +14,8 @@
         "94939",
         "94964",
         "94970"
-      ]
+      ],
+      "id": "larkspur-public-library-ca"
     },
     {
       "name": "MARIN COUNTY FREE LIBRARY",
@@ -32,7 +33,8 @@
         "94949",
         "94963",
         "94973"
-      ]
+      ],
+      "id": "marin-county-free-library-ca"
     },
     {
       "name": "MILL VALLEY PUBLIC LIBRARY",
@@ -47,7 +49,8 @@
         "94930",
         "94941",
         "94970"
-      ]
+      ],
+      "id": "mill-valley-public-library-ca"
     },
     {
       "name": "SAN ANSELMO PUBLIC LIBRARY",
@@ -73,7 +76,8 @@
         "94970",
         "94971",
         "94973"
-      ]
+      ],
+      "id": "san-anselmo-public-library-ca"
     },
     {
       "name": "SAN RAFAEL PUBLIC LIBRARY",
@@ -88,7 +92,8 @@
         "94925",
         "94949",
         "94964"
-      ]
+      ],
+      "id": "san-rafael-public-library-ca"
     },
     {
       "name": "SAUSALITO PUBLIC LIBRARY",
@@ -99,7 +104,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "94965"
-      ]
+      ],
+      "id": "sausalito-public-library-ca"
     },
     {
       "name": "SONOMA COUNTY LIBRARY",
@@ -124,7 +130,8 @@
         "95442",
         "95472",
         "95476"
-      ]
+      ],
+      "id": "sonoma-county-library-ca"
     },
     {
       "name": "BELVEDERE-TIBURON LIBRARY",
@@ -135,7 +142,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "94920"
-      ]
+      ],
+      "id": "belvedere-tiburon-library-ca"
     },
     {
       "name": "MARIN COUNTY LAW LIBRARY",
@@ -154,7 +162,8 @@
         "94963",
         "94964",
         "94973"
-      ]
+      ],
+      "id": "marin-county-law-library-ca"
     },
     {
       "name": "SONOMA COUNTY PUBLIC LAW LIBRARY",
@@ -189,7 +198,8 @@
         "95472",
         "95492",
         "95497"
-      ]
+      ],
+      "id": "sonoma-county-public-law-library-ca"
     }
   ]
 }

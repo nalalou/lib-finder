@@ -9,7 +9,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "11801"
-      ]
+      ],
+      "id": "hicksville-free-public-library-ny"
     },
     {
       "name": "PLAINVIEW-OLD BETHPAGE PUBLIC LIBRARY",
@@ -22,7 +23,8 @@
         "11797",
         "11803",
         "11804"
-      ]
+      ],
+      "id": "plainview-old-bethpage-public-library-ny-2"
     },
     {
       "name": "BETHPAGE PUBLIC LIBRARY",
@@ -34,7 +36,8 @@
       "zipcodes": [
         "11714",
         "11804"
-      ]
+      ],
+      "id": "bethpage-public-library-ny-2"
     },
     {
       "name": "FARMINGDALE PUBLIC LIBRARY",
@@ -46,7 +49,8 @@
       "zipcodes": [
         "11735",
         "11804"
-      ]
+      ],
+      "id": "farmingdale-public-library-ny-2"
     }
   ]
 }

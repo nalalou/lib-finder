@@ -9,7 +9,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83313"
-      ]
+      ],
+      "id": "bellevue-public-id"
     },
     {
       "name": "BUHL PUBLIC",
@@ -22,7 +23,8 @@
         "83302",
         "83316",
         "83321"
-      ]
+      ],
+      "id": "buhl-public-id"
     },
     {
       "name": "BURLEY PUBLIC",
@@ -35,7 +37,8 @@
         "83311",
         "83318",
         "83323"
-      ]
+      ],
+      "id": "burley-public-id"
     },
     {
       "name": "LITTLE WOOD RIVER DISTRICT",
@@ -47,7 +50,8 @@
       "zipcodes": [
         "83320",
         "83348"
-      ]
+      ],
+      "id": "little-wood-river-district-id"
     },
     {
       "name": "CAMAS COUNTY DISTRICT",
@@ -60,7 +64,8 @@
         "83322",
         "83327",
         "83337"
-      ]
+      ],
+      "id": "camas-county-district-id"
     },
     {
       "name": "FILER PUBLIC",
@@ -71,7 +76,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83328"
-      ]
+      ],
+      "id": "filer-public-id"
     },
     {
       "name": "GOODING PUBLIC LIBRARY DISTRICT",
@@ -82,7 +88,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83330"
-      ]
+      ],
+      "id": "gooding-public-library-district-id"
     },
     {
       "name": "HAGERMAN PUBLIC",
@@ -94,7 +101,8 @@
       "zipcodes": [
         "83314",
         "83332"
-      ]
+      ],
+      "id": "hagerman-public-id"
     },
     {
       "name": "HAILEY PUBLIC",
@@ -108,7 +116,8 @@
         "83340",
         "83353",
         "83354"
-      ]
+      ],
+      "id": "hailey-public-id"
     },
     {
       "name": "HANSEN DISTRICT",
@@ -120,7 +129,8 @@
       "zipcodes": [
         "83334",
         "83344"
-      ]
+      ],
+      "id": "hansen-district-id"
     },
     {
       "name": "JEROME PUBLIC",
@@ -133,7 +143,8 @@
         "83325",
         "83335",
         "83338"
-      ]
+      ],
+      "id": "jerome-public-id"
     },
     {
       "name": "KIMBERLY PUBLIC",
@@ -144,7 +155,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83341"
-      ]
+      ],
+      "id": "kimberly-public-id"
     },
     {
       "name": "OAKLEY DISTRICT",
@@ -157,7 +169,8 @@
         "83312",
         "83342",
         "83346"
-      ]
+      ],
+      "id": "oakley-district-id"
     },
     {
       "name": "RICHFIELD DISTRICT",
@@ -168,7 +181,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83349"
-      ]
+      ],
+      "id": "richfield-district-id"
     },
     {
       "name": "DEMARY MEMORIAL",
@@ -181,7 +195,8 @@
         "83336",
         "83347",
         "83350"
-      ]
+      ],
+      "id": "demary-memorial-id"
     },
     {
       "name": "SHOSHONE PUBLIC",
@@ -193,7 +208,8 @@
       "zipcodes": [
         "83324",
         "83352"
-      ]
+      ],
+      "id": "shoshone-public-id"
     },
     {
       "name": "TWIN FALLS PUBLIC",
@@ -204,7 +220,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "83301"
-      ]
+      ],
+      "id": "twin-falls-public-id"
     },
     {
       "name": "SHERBURN SMITH MEMORIAL",
@@ -215,7 +232,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83355"
-      ]
+      ],
+      "id": "sherburn-smith-memorial-id"
     }
   ]
 }

@@ -17,7 +17,8 @@
         "36849",
         "36879",
         "51433"
-      ]
+      ],
+      "id": "auburn-public-library-ia-2"
     },
     {
       "name": "HORSESHOE BEND REGIONAL LIBRARY",
@@ -31,7 +32,8 @@
         "36850",
         "36853",
         "36861"
-      ]
+      ],
+      "id": "horseshoe-bend-regional-library-al-2"
     },
     {
       "name": "DADEVILLE PUBLIC LIBRARY",
@@ -44,7 +46,8 @@
         "36850",
         "36853",
         "36861"
-      ]
+      ],
+      "id": "dadeville-public-library-al"
     },
     {
       "name": "OPELIKA PUBLIC LIBRARY",
@@ -61,7 +64,8 @@
         "36870",
         "36874",
         "36877"
-      ]
+      ],
+      "id": "opelika-public-library-al"
     },
     {
       "name": "PHENIX CITY - RUSSELL COUNTY PUBLIC LIBRARY",
@@ -78,7 +82,8 @@
         "36869",
         "36871",
         "36875"
-      ]
+      ],
+      "id": "phenix-city---russell-county-public-library-al"
     },
     {
       "name": "VALLEY - H. GRADY BRADSHAW / CHAMBERS COUNTY LIBRARY",
@@ -92,7 +97,8 @@
         "36855",
         "36862",
         "36863"
-      ]
+      ],
+      "id": "valley---h-grady-bradshaw-chambers-county-library-al"
     },
     {
       "name": "ALEXANDER CITY - ADELIA MCCONNELL RUSSELL LIBRARY",
@@ -104,7 +110,8 @@
       "zipcodes": [
         "35010",
         "36861"
-      ]
+      ],
+      "id": "alexander-city---adelia-mcconnell-russell-library-al-2"
     },
     {
       "name": "MACON COUNTY - TUSKEGEE PUBLIC LIBRARY",
@@ -120,7 +127,8 @@
         "36083",
         "36088",
         "36866"
-      ]
+      ],
+      "id": "macon-county---tuskegee-public-library-al-2"
     }
   ]
 }

@@ -36,7 +36,8 @@
         "02199",
         "02210",
         "02215"
-      ]
+      ],
+      "id": "boston-public-library-ma-2"
     },
     {
       "name": "CHELSEA PUBLIC LIBRARY",
@@ -78,7 +79,8 @@
         "52215",
         "52348",
         "74016"
-      ]
+      ],
+      "id": "chelsea-public-library-ma-2"
     },
     {
       "name": "REVERE PUBLIC LIBRARY",
@@ -96,7 +98,8 @@
         "02151",
         "02163",
         "02215"
-      ]
+      ],
+      "id": "revere-public-library-ma-2"
     },
     {
       "name": "WINTHROP PUBLIC LIBRARY & MUSEUM",
@@ -127,7 +130,8 @@
         "02152",
         "02199",
         "02210"
-      ]
+      ],
+      "id": "winthrop-public-library-museum-ma-2"
     }
   ]
 }

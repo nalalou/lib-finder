@@ -10,7 +10,8 @@
       "zipcodes": [
         "02045",
         "51239"
-      ]
+      ],
+      "id": "hull-public-library-ia"
     },
     {
       "name": "ATTLEBORO PUBLIC LIBRARY",
@@ -23,7 +24,8 @@
         "02048",
         "02703",
         "02763"
-      ]
+      ],
+      "id": "attleboro-public-library-ma"
     },
     {
       "name": "NORTON PUBLIC LIBRARY",
@@ -38,7 +40,8 @@
         "02763",
         "02766",
         "67654"
-      ]
+      ],
+      "id": "norton-public-library-ma"
     },
     {
       "name": "AVON PUBLIC LIBRARY",
@@ -52,7 +55,8 @@
         "02322",
         "02343",
         "57315"
-      ]
+      ],
+      "id": "avon-public-library-sd"
     },
     {
       "name": "MANSFIELD PUBLIC LIBRARY",
@@ -72,7 +76,8 @@
         "76014",
         "76018",
         "76063"
-      ]
+      ],
+      "id": "mansfield-public-library-nh"
     },
     {
       "name": "CANTON PUBLIC LIBRARY",
@@ -101,7 +106,8 @@
         "63452",
         "63457",
         "63473"
-      ]
+      ],
+      "id": "canton-public-library-ct"
     },
     {
       "name": "FRANKLIN PUBLIC LIBRARY",
@@ -126,7 +132,8 @@
         "68939",
         "68960",
         "68972"
-      ]
+      ],
+      "id": "franklin-public-library-ne"
     },
     {
       "name": "STOUGHTON PUBLIC LIBRARY",
@@ -140,7 +147,8 @@
         "02072",
         "02322",
         "53589"
-      ]
+      ],
+      "id": "stoughton-public-library-wi"
     },
     {
       "name": "BELLINGHAM PUBLIC LIBRARY",
@@ -157,7 +165,8 @@
         "98244",
         "98248",
         "98262"
-      ]
+      ],
+      "id": "bellingham-public-library-ma"
     },
     {
       "name": "PAUL PRATT MEMORIAL LIBRARY",
@@ -168,7 +177,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02025"
-      ]
+      ],
+      "id": "paul-pratt-memorial-library-ma"
     },
     {
       "name": "DEDHAM PUBLIC LIBRARY",
@@ -179,7 +189,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02026"
-      ]
+      ],
+      "id": "dedham-public-library-ma"
     },
     {
       "name": "DOVER TOWN LIBRARY",
@@ -192,7 +203,8 @@
         "02030",
         "02481",
         "02492"
-      ]
+      ],
+      "id": "dover-town-library-ma"
     },
     {
       "name": "BOYDEN LIBRARY",
@@ -204,7 +216,8 @@
       "zipcodes": [
         "02035",
         "02071"
-      ]
+      ],
+      "id": "boyden-library-ma"
     },
     {
       "name": "HINGHAM PUBLIC LIBRARY",
@@ -216,7 +229,8 @@
       "zipcodes": [
         "02043",
         "02045"
-      ]
+      ],
+      "id": "hingham-public-library-ma"
     },
     {
       "name": "VENTRESS MEMORIAL LIBRARY",
@@ -227,7 +241,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "02050"
-      ]
+      ],
+      "id": "ventress-memorial-library-ma"
     },
     {
       "name": "MEDFIELD MEMORIAL LIBRARY",
@@ -238,7 +253,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02052"
-      ]
+      ],
+      "id": "medfield-memorial-library-ma"
     },
     {
       "name": "MEDWAY PUBLIC LIBRARY",
@@ -250,7 +266,8 @@
       "zipcodes": [
         "02038",
         "02053"
-      ]
+      ],
+      "id": "medway-public-library-ma"
     },
     {
       "name": "MILLIS PUBLIC LIBRARY",
@@ -261,7 +278,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "02054"
-      ]
+      ],
+      "id": "millis-public-library-ma"
     },
     {
       "name": "NORFOLK PUBLIC LIBRARY",
@@ -298,7 +316,8 @@
         "23707",
         "23708",
         "68701"
-      ]
+      ],
+      "id": "norfolk-public-library-ma"
     },
     {
       "name": "NORWELL PUBLIC LIBRARY",
@@ -309,7 +328,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "02061"
-      ]
+      ],
+      "id": "norwell-public-library-ma"
     },
     {
       "name": "MORRILL MEMORIAL LIBRARY",
@@ -322,7 +342,8 @@
         "02021",
         "02032",
         "02062"
-      ]
+      ],
+      "id": "morrill-memorial-library-ma"
     },
     {
       "name": "SCITUATE TOWN LIBRARY",
@@ -333,7 +354,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "02066"
-      ]
+      ],
+      "id": "scituate-town-library-ma"
     },
     {
       "name": "SHARON PUBLIC LIBRARY",
@@ -346,7 +368,8 @@
         "02032",
         "02067",
         "38255"
-      ]
+      ],
+      "id": "sharon-public-library-ma"
     },
     {
       "name": "WALPOLE PUBLIC LIBRARY",
@@ -359,7 +382,8 @@
         "02032",
         "02071",
         "02081"
-      ]
+      ],
+      "id": "walpole-public-library-ma"
     },
     {
       "name": "WESTWOOD PUBLIC LIBRARY",
@@ -370,7 +394,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "02090"
-      ]
+      ],
+      "id": "westwood-public-library-ma"
     },
     {
       "name": "FISKE PUBLIC LIBRARY",
@@ -381,7 +406,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02093"
-      ]
+      ],
+      "id": "fiske-public-library-ma"
     }
   ]
 }

@@ -46,7 +46,8 @@
         "57720",
         "57724",
         "57755"
-      ]
+      ],
+      "id": "northwest-regional-library-al-6"
     },
     {
       "name": "NEWELL PUBLIC LIBRARY",
@@ -60,7 +61,8 @@
         "57760",
         "57762",
         "57788"
-      ]
+      ],
+      "id": "newell-public-library-ia-2"
     },
     {
       "name": "JACKSON COUNTY LIBRARY",
@@ -81,7 +83,8 @@
         "57562",
         "57577",
         "57750"
-      ]
+      ],
+      "id": "jackson-county-library-sd-3"
     },
     {
       "name": "BENNETT COUNTY LIBRARY",
@@ -94,7 +97,8 @@
         "57551",
         "57574",
         "57714"
-      ]
+      ],
+      "id": "bennett-county-library-sd-2"
     },
     {
       "name": "RAPID CITY PUBLIC LIBRARY",
@@ -110,7 +114,8 @@
         "57719",
         "57725",
         "57761"
-      ]
+      ],
+      "id": "rapid-city-public-library-sd"
     },
     {
       "name": "BELLE FOURCHE PUBLIC LIBRARY",
@@ -121,7 +126,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57717"
-      ]
+      ],
+      "id": "belle-fourche-public-library-sd"
     },
     {
       "name": "CUSTER COUNTY LIBRARY",
@@ -136,7 +142,8 @@
         "57738",
         "57744",
         "57773"
-      ]
+      ],
+      "id": "custer-county-library-sd"
     },
     {
       "name": "DEADWOOD PUBLIC LIBRARY",
@@ -148,7 +155,8 @@
       "zipcodes": [
         "57732",
         "57759"
-      ]
+      ],
+      "id": "deadwood-public-library-sd"
     },
     {
       "name": "EDGEMONT PUBLIC LIBRARY",
@@ -159,7 +167,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57735"
-      ]
+      ],
+      "id": "edgemont-public-library-sd"
     },
     {
       "name": "HILL CITY PUBLIC LIBRARY",
@@ -170,7 +179,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57745"
-      ]
+      ],
+      "id": "hill-city-public-library-sd"
     },
     {
       "name": "HOT SPRINGS PUBLIC LIBRARY",
@@ -183,7 +193,8 @@
         "57747",
         "57763",
         "57766"
-      ]
+      ],
+      "id": "hot-springs-public-library-sd"
     },
     {
       "name": "KEYSTONE TOWN LIBRARY",
@@ -194,7 +205,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57751"
-      ]
+      ],
+      "id": "keystone-town-library-sd"
     },
     {
       "name": "PHOEBE APPERSON HEARST FREE LIBRARY",
@@ -205,7 +217,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57754"
-      ]
+      ],
+      "id": "phoebe-apperson-hearst-free-library-sd"
     },
     {
       "name": "GRACE BALLOCH MEMORIAL LIBRARY",
@@ -218,7 +231,8 @@
         "57779",
         "57783",
         "57799"
-      ]
+      ],
+      "id": "grace-balloch-memorial-library-sd"
     },
     {
       "name": "STURGIS PUBLIC LIBRARY",
@@ -229,7 +243,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57785"
-      ]
+      ],
+      "id": "sturgis-public-library-sd"
     },
     {
       "name": "WALL COMMUNITY LIBRARY",
@@ -244,7 +259,8 @@
         "57780",
         "57790",
         "57791"
-      ]
+      ],
+      "id": "wall-community-library-sd"
     },
     {
       "name": "WHITEWOOD PUBLIC LIBRARY",
@@ -256,7 +272,8 @@
       "zipcodes": [
         "57779",
         "57793"
-      ]
+      ],
+      "id": "whitewood-public-library-sd"
     },
     {
       "name": "OGLALA LAKOTA COLLEGE WOKSAPE TIPI ACADEMIC & PUBLIC LIBRARY",
@@ -273,7 +290,8 @@
         "57770",
         "57772",
         "57794"
-      ]
+      ],
+      "id": "oglala-lakota-college-woksape-tipi-academic-public-library-sd"
     },
     {
       "name": "PIEDMONT VALLEY LIBRARY",
@@ -286,7 +304,8 @@
         "57706",
         "57718",
         "57769"
-      ]
+      ],
+      "id": "piedmont-valley-library-sd"
     },
     {
       "name": "FAITH PUBLIC LIBRARY",
@@ -302,7 +321,8 @@
         "57758",
         "57787",
         "57792"
-      ]
+      ],
+      "id": "faith-public-library-sd-2"
     }
   ]
 }

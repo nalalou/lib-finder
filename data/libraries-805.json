@@ -27,7 +27,8 @@
         "80301",
         "80303",
         "80516"
-      ]
+      ],
+      "id": "lafayette-public-library-la-6"
     },
     {
       "name": "LOUISVILLE PUBLIC LIBRARY",
@@ -62,7 +63,8 @@
         "80303",
         "80304",
         "80516"
-      ]
+      ],
+      "id": "louisville-public-library-co-8"
     },
     {
       "name": "HIGH PLAINS LIBRARY DISTRICT",
@@ -94,7 +96,8 @@
         "80729",
         "80742",
         "80754"
-      ]
+      ],
+      "id": "high-plains-library-district-co"
     },
     {
       "name": "BERTHOUD COMMUNITY LIBRARY DISTRICT",
@@ -105,7 +108,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "80513"
-      ]
+      ],
+      "id": "berthoud-community-library-district-co"
     },
     {
       "name": "ESTES VALLEY PUBLIC LIBRARY DISTRICT",
@@ -118,7 +122,8 @@
         "80515",
         "80517",
         "80532"
-      ]
+      ],
+      "id": "estes-valley-public-library-district-co"
     },
     {
       "name": "POUDRE RIVER PUBLIC LIBRARY DISTRICT",
@@ -135,7 +140,8 @@
         "80528",
         "80538",
         "80547"
-      ]
+      ],
+      "id": "poudre-river-public-library-district-co"
     },
     {
       "name": "LONGMONT PUBLIC LIBRARY",
@@ -148,7 +154,8 @@
         "80501",
         "80503",
         "80516"
-      ]
+      ],
+      "id": "longmont-public-library-co"
     },
     {
       "name": "LOVELAND PUBLIC LIBRARY",
@@ -163,7 +170,8 @@
         "80528",
         "80537",
         "80538"
-      ]
+      ],
+      "id": "loveland-public-library-co"
     },
     {
       "name": "LYONS REGIONAL LIBRARY DISTRICT",
@@ -176,7 +184,8 @@
         "80503",
         "80510",
         "80540"
-      ]
+      ],
+      "id": "lyons-regional-library-district-co"
     },
     {
       "name": "WELLINGTON PUBLIC LIBRARY",
@@ -188,7 +197,8 @@
       "zipcodes": [
         "80535",
         "80549"
-      ]
+      ],
+      "id": "wellington-public-library-co"
     },
     {
       "name": "CLEARVIEW LIBRARY DISTRICT",
@@ -207,7 +217,8 @@
         "80634",
         "80648",
         "80650"
-      ]
+      ],
+      "id": "clearview-library-district-co"
     },
     {
       "name": "RED FEATHER MOUNTAIN LIBRARY DISTRICT",
@@ -220,7 +231,8 @@
         "80512",
         "80536",
         "80545"
-      ]
+      ],
+      "id": "red-feather-mountain-library-district-co"
     }
   ]
 }

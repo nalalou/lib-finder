@@ -25,7 +25,8 @@
         "76520",
         "76523",
         "77857"
-      ]
+      ],
+      "id": "cameron-public-library-wi-3"
     },
     {
       "name": "FLORENCE PUBLIC LIBRARY",
@@ -37,7 +38,8 @@
       "zipcodes": [
         "66851",
         "76527"
-      ]
+      ],
+      "id": "florence-public-library-tx-2"
     },
     {
       "name": "GATESVILLE PUBLIC LIBRARY",
@@ -52,7 +54,8 @@
         "76538",
         "76561",
         "76566"
-      ]
+      ],
+      "id": "gatesville-public-library-tx"
     },
     {
       "name": "HAMILTON PUBLIC LIBRARY",
@@ -81,7 +84,8 @@
         "76457",
         "76531",
         "76565"
-      ]
+      ],
+      "id": "hamilton-public-library-tx-6"
     },
     {
       "name": "STEWART C MEYER LIBRARY",
@@ -96,7 +100,8 @@
         "76544",
         "76548",
         "76559"
-      ]
+      ],
+      "id": "stewart-c-meyer-library-tx"
     },
     {
       "name": "KILLEEN CITY LIBRARY SYSTEM",
@@ -112,7 +117,8 @@
         "76544",
         "76549",
         "76559"
-      ]
+      ],
+      "id": "killeen-city-library-system-tx"
     },
     {
       "name": "LAMPASAS PUBLIC LIBRARY",
@@ -126,7 +132,8 @@
         "76550",
         "76824",
         "76853"
-      ]
+      ],
+      "id": "lampasas-public-library-tx"
     },
     {
       "name": "TEINERT MEMORIAL PUBLIC LIBRARY",
@@ -138,7 +145,8 @@
       "zipcodes": [
         "76511",
         "76534"
-      ]
+      ],
+      "id": "teinert-memorial-public-library-tx"
     },
     {
       "name": "LUCY HILL PATTERSON MEMORIAL LIBRARY",
@@ -151,7 +159,8 @@
         "76556",
         "76567",
         "76577"
-      ]
+      ],
+      "id": "lucy-hill-patterson-memorial-library-tx"
     },
     {
       "name": "LENA ARMSTRONG PUBLIC LIBRARY",
@@ -166,7 +175,8 @@
         "76513",
         "76554",
         "76559"
-      ]
+      ],
+      "id": "lena-armstrong-public-library-tx"
     },
     {
       "name": "TAYLOR PUBLIC LIBRARY",
@@ -182,7 +192,8 @@
         "76574",
         "76578",
         "78615"
-      ]
+      ],
+      "id": "taylor-public-library-tx-2"
     },
     {
       "name": "TEMPLE PUBLIC LIBRARY",
@@ -198,7 +209,8 @@
         "76554",
         "76569",
         "76579"
-      ]
+      ],
+      "id": "temple-public-library-tx"
     },
     {
       "name": "SALADO PUBLIC LIBRARY DISTRICT",
@@ -210,7 +222,8 @@
       "zipcodes": [
         "76554",
         "76571"
-      ]
+      ],
+      "id": "salado-public-library-district-tx"
     },
     {
       "name": "COPPERAS COVE PUBLIC LIBRARY",
@@ -221,7 +234,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76522"
-      ]
+      ],
+      "id": "copperas-cove-public-library-tx"
     },
     {
       "name": "MOODY COMMUNITY LIBRARY",
@@ -234,7 +248,8 @@
         "76524",
         "76557",
         "76630"
-      ]
+      ],
+      "id": "moody-community-library-tx"
     },
     {
       "name": "D BROWN MEMORIAL LIBRARY",
@@ -246,7 +261,8 @@
       "zipcodes": [
         "76570",
         "76656"
-      ]
+      ],
+      "id": "d-brown-memorial-library-tx"
     },
     {
       "name": "JARRELL COMMUNITY LIBRARY AND RESOURCE CENTER",
@@ -257,7 +273,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76537"
-      ]
+      ],
+      "id": "jarrell-community-library-and-resource-center-tx"
     }
   ]
 }

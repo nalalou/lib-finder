@@ -14,7 +14,8 @@
         "62663",
         "62694",
         "66097"
-      ]
+      ],
+      "id": "winchester-public-library-wi"
     },
     {
       "name": "LAWRENCE PUBLIC LIBRARY",
@@ -33,7 +34,8 @@
         "66047",
         "66049",
         "66050"
-      ]
+      ],
+      "id": "lawrence-public-library-ks"
     },
     {
       "name": "READING PUBLIC LIBRARY",
@@ -48,7 +50,8 @@
         "19602",
         "19604",
         "19611"
-      ]
+      ],
+      "id": "reading-public-library-pa"
     },
     {
       "name": "BURLINGTON PUBLIC LIBRARY",
@@ -75,7 +78,8 @@
         "98233",
         "98235",
         "98238"
-      ]
+      ],
+      "id": "burlington-public-library-ct"
     },
     {
       "name": "BOXFORD TOWN LIBRARY",
@@ -87,7 +91,8 @@
       "zipcodes": [
         "01845",
         "01921"
-      ]
+      ],
+      "id": "boxford-town-library-ma"
     },
     {
       "name": "STEVENS MEMORIAL LIBRARY",
@@ -103,7 +108,8 @@
         "01841",
         "01843",
         "01845"
-      ]
+      ],
+      "id": "stevens-memorial-library-ma-2"
     },
     {
       "name": "MEMORIAL HALL LIBRARY",
@@ -116,7 +122,8 @@
         "01810",
         "01843",
         "01845"
-      ]
+      ],
+      "id": "memorial-hall-library-ma"
     },
     {
       "name": "BILLERICA PUBLIC LIBRARY",
@@ -128,7 +135,8 @@
       "zipcodes": [
         "01821",
         "01862"
-      ]
+      ],
+      "id": "billerica-public-library-ma"
     },
     {
       "name": "CHELMSFORD PUBLIC LIBRARY",
@@ -144,7 +152,8 @@
         "01854",
         "01862",
         "01863"
-      ]
+      ],
+      "id": "chelmsford-public-library-ma"
     },
     {
       "name": "MOSES GREELEY PARKER MEMORIAL LIB.",
@@ -158,7 +167,8 @@
         "01850",
         "01851",
         "01854"
-      ]
+      ],
+      "id": "moses-greeley-parker-memorial-lib-ma"
     },
     {
       "name": "DUNSTABLE FREE PUBLIC LIBRARY",
@@ -169,7 +179,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01827"
-      ]
+      ],
+      "id": "dunstable-free-public-library-ma"
     },
     {
       "name": "GEORGETOWN PEABODY LIBRARY",
@@ -180,7 +191,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01833"
-      ]
+      ],
+      "id": "georgetown-peabody-library-ma"
     },
     {
       "name": "LANGLEY ADAMS LIBRARY",
@@ -193,7 +205,8 @@
         "01832",
         "01834",
         "01835"
-      ]
+      ],
+      "id": "langley-adams-library-ma"
     },
     {
       "name": "HAVERHILL PUBLIC LIBRARY",
@@ -206,7 +219,8 @@
         "01830",
         "01832",
         "01835"
-      ]
+      ],
+      "id": "haverhill-public-library-ma"
     },
     {
       "name": "SAMUEL S. POLLARD MEMORIAL LIBRARY",
@@ -221,7 +235,8 @@
         "01852",
         "01854",
         "01863"
-      ]
+      ],
+      "id": "samuel-s-pollard-memorial-library-ma"
     },
     {
       "name": "MERRIMAC PUBLIC LIBRARY",
@@ -232,7 +247,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "01860"
-      ]
+      ],
+      "id": "merrimac-public-library-ma"
     },
     {
       "name": "NEVINS MEMORIAL LIBRARY",
@@ -246,7 +262,8 @@
         "01840",
         "01841",
         "01844"
-      ]
+      ],
+      "id": "nevins-memorial-library-ma"
     },
     {
       "name": "FLINT MEMORIAL LIBRARY",
@@ -258,7 +275,8 @@
       "zipcodes": [
         "01864",
         "01867"
-      ]
+      ],
+      "id": "flint-memorial-library-ma"
     },
     {
       "name": "TEWKSBURY PUBLIC LIBRARY",
@@ -270,7 +288,8 @@
       "zipcodes": [
         "01862",
         "01876"
-      ]
+      ],
+      "id": "tewksbury-public-library-ma"
     },
     {
       "name": "TYNGSBOROUGH PUBLIC LIBRARY",
@@ -282,7 +301,8 @@
       "zipcodes": [
         "01863",
         "01879"
-      ]
+      ],
+      "id": "tyngsborough-public-library-ma"
     },
     {
       "name": "LUCIUS BEEBE MEMORIAL LIBRARY",
@@ -294,7 +314,8 @@
       "zipcodes": [
         "01867",
         "01880"
-      ]
+      ],
+      "id": "lucius-beebe-memorial-library-ma"
     },
     {
       "name": "J. V. FLETCHER LIBRARY",
@@ -305,7 +326,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01886"
-      ]
+      ],
+      "id": "j-v-fletcher-library-ma"
     },
     {
       "name": "WILMINGTON MEMORIAL LIBRARY",
@@ -316,7 +338,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01887"
-      ]
+      ],
+      "id": "wilmington-memorial-library-ma"
     },
     {
       "name": "WOBURN PUBLIC LIBRARY",
@@ -329,7 +352,8 @@
         "01801",
         "01803",
         "01890"
-      ]
+      ],
+      "id": "woburn-public-library-ma"
     },
     {
       "name": "ROBBINS LIBRARY",
@@ -343,7 +367,8 @@
         "02140",
         "02474",
         "02476"
-      ]
+      ],
+      "id": "robbins-library-ma"
     },
     {
       "name": "CARY MEMORIAL LIBRARY",
@@ -357,7 +382,8 @@
         "01803",
         "02420",
         "02421"
-      ]
+      ],
+      "id": "cary-memorial-library-ma-2"
     }
   ]
 }

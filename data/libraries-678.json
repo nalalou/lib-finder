@@ -16,7 +16,8 @@
         "56011",
         "56071",
         "67871"
-      ]
+      ],
+      "id": "scott-county-library-mn-4"
     },
     {
       "name": "GRANT COUNTY LIBRARY",
@@ -40,7 +41,8 @@
         "97865",
         "97869",
         "97873"
-      ]
+      ],
+      "id": "grant-county-library-ne"
     },
     {
       "name": "FOWLER PUBLIC LIBRARY",
@@ -53,7 +55,8 @@
         "67844",
         "81039",
         "81058"
-      ]
+      ],
+      "id": "fowler-public-library-co"
     },
     {
       "name": "HANSTON CITY LIBRARY",
@@ -64,7 +67,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67849"
-      ]
+      ],
+      "id": "hanston-city-library-ks"
     },
     {
       "name": "COPELAND PUBLIC LIBRARY",
@@ -75,7 +79,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67837"
-      ]
+      ],
+      "id": "copeland-public-library-ks"
     },
     {
       "name": "KISMET PUBLIC LIBRARY",
@@ -86,7 +91,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67859"
-      ]
+      ],
+      "id": "kismet-public-library-ks"
     },
     {
       "name": "SPEARVILLE TOWNSHIP LIBRARY",
@@ -98,7 +104,8 @@
       "zipcodes": [
         "67876",
         "67882"
-      ]
+      ],
+      "id": "spearville-township-library-ks"
     },
     {
       "name": "MINNEOLA CITY LIBRARY",
@@ -109,7 +116,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67865"
-      ]
+      ],
+      "id": "minneola-city-library-ks"
     },
     {
       "name": "BUCKLIN PUBLIC LIBRARY",
@@ -121,7 +129,8 @@
       "zipcodes": [
         "67834",
         "67842"
-      ]
+      ],
+      "id": "bucklin-public-library-ks"
     },
     {
       "name": "JETMORE PUBLIC LIBRARY",
@@ -132,7 +141,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67854"
-      ]
+      ],
+      "id": "jetmore-public-library-ks"
     },
     {
       "name": "ASHLAND LIBRARY",
@@ -144,7 +154,8 @@
       "zipcodes": [
         "67831",
         "67840"
-      ]
+      ],
+      "id": "ashland-library-ks"
     },
     {
       "name": "MONTEZUMA TOWNSHIP LIBRARY",
@@ -156,7 +167,8 @@
       "zipcodes": [
         "67841",
         "67867"
-      ]
+      ],
+      "id": "montezuma-township-library-ks"
     },
     {
       "name": "PLAINS COMMUNITY LIBRARY",
@@ -167,7 +179,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67869"
-      ]
+      ],
+      "id": "plains-community-library-ks"
     },
     {
       "name": "DUDLEY TOWNSHIP LIBRARY",
@@ -178,7 +191,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67870"
-      ]
+      ],
+      "id": "dudley-township-library-ks"
     },
     {
       "name": "CIMARRON CITY LIBRARY",
@@ -190,7 +204,8 @@
       "zipcodes": [
         "67835",
         "67853"
-      ]
+      ],
+      "id": "cimarron-city-library-ks"
     },
     {
       "name": "HAMILTON COUNTY PUBLIC LIBRARY",
@@ -203,7 +218,8 @@
         "67836",
         "67857",
         "67878"
-      ]
+      ],
+      "id": "hamilton-county-public-library-ks"
     },
     {
       "name": "MEADE PUBLIC LIBRARY",
@@ -214,7 +230,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67864"
-      ]
+      ],
+      "id": "meade-public-library-ks"
     },
     {
       "name": "HASKELL TOWNSHIP LIBRARY",
@@ -225,7 +242,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67877"
-      ]
+      ],
+      "id": "haskell-township-library-ks"
     },
     {
       "name": "GREELEY COUNTY PUBLIC LIBRARY",
@@ -236,7 +254,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67879"
-      ]
+      ],
+      "id": "greeley-county-public-library-ks"
     },
     {
       "name": "STANTON COUNTY PUBLIC LIBRARY",
@@ -248,7 +267,8 @@
       "zipcodes": [
         "67855",
         "67862"
-      ]
+      ],
+      "id": "stanton-county-public-library-ks"
     },
     {
       "name": "DIGHTON/LANE COUNTY LIBRARY",
@@ -260,7 +280,8 @@
       "zipcodes": [
         "67839",
         "67850"
-      ]
+      ],
+      "id": "dightonlane-county-library-ks"
     },
     {
       "name": "WICHITA COUNTY LIBRARY",
@@ -272,7 +293,8 @@
       "zipcodes": [
         "67861",
         "67863"
-      ]
+      ],
+      "id": "wichita-county-library-ks"
     },
     {
       "name": "KEARNY COUNTY LIBRARY",
@@ -284,7 +306,8 @@
       "zipcodes": [
         "67838",
         "67860"
-      ]
+      ],
+      "id": "kearny-county-library-ks"
     },
     {
       "name": "DODGE CITY PUBLIC LIBRARY",
@@ -296,7 +319,8 @@
       "zipcodes": [
         "67801",
         "67882"
-      ]
+      ],
+      "id": "dodge-city-public-library-ks"
     },
     {
       "name": "FINNEY COUNTY PUBLIC LIBRARY",
@@ -309,7 +333,8 @@
         "67846",
         "67851",
         "67868"
-      ]
+      ],
+      "id": "finney-county-public-library-ks"
     }
   ]
 }

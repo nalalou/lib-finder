@@ -12,7 +12,8 @@
         "57371",
         "57373",
         "57467"
-      ]
+      ],
+      "id": "hand-county-library-sd-2"
     },
     {
       "name": "WEBSTER PUBLIC LIBRARY",
@@ -29,7 +30,8 @@
         "57274",
         "57422",
         "57468"
-      ]
+      ],
+      "id": "webster-public-library-sd-4"
     },
     {
       "name": "K.O. LEE ABERDEEN PUBLIC LIBRARY",
@@ -44,7 +46,8 @@
         "57433",
         "57460",
         "57479"
-      ]
+      ],
+      "id": "ko-lee-aberdeen-public-library-sd"
     },
     {
       "name": "BOWDLE PUBLIC LIBRARY",
@@ -56,7 +59,8 @@
       "zipcodes": [
         "57428",
         "57448"
-      ]
+      ],
+      "id": "bowdle-public-library-sd"
     },
     {
       "name": "BRITTON PUBLIC LIBRARY",
@@ -71,7 +75,8 @@
         "57270",
         "57421",
         "57430"
-      ]
+      ],
+      "id": "britton-public-library-sd-2"
     },
     {
       "name": "DOLAND COMMUNITY LIBRARY",
@@ -85,7 +90,8 @@
         "57436",
         "57440",
         "57477"
-      ]
+      ],
+      "id": "doland-community-library-sd"
     },
     {
       "name": "KATHRYN SCHULKOSKI PUBLIC LIBRARY",
@@ -97,7 +103,8 @@
       "zipcodes": [
         "57437",
         "57632"
-      ]
+      ],
+      "id": "kathryn-schulkoski-public-library-sd"
     },
     {
       "name": "FAULK COUNTY LIBRARY",
@@ -112,7 +119,8 @@
         "57466",
         "57470",
         "57473"
-      ]
+      ],
+      "id": "faulk-county-library-sd"
     },
     {
       "name": "EMMA BURNHAM PUBLIC LIBRARY",
@@ -127,7 +135,8 @@
         "57446",
         "57449",
         "57481"
-      ]
+      ],
+      "id": "emma-burnham-public-library-sd"
     },
     {
       "name": "POTTER COUNTY FREE LIBRARY",
@@ -141,7 +150,8 @@
         "57450",
         "57455",
         "57475"
-      ]
+      ],
+      "id": "potter-county-free-library-sd"
     },
     {
       "name": "M. P. BEEBE MEMORIAL LIBRARY",
@@ -153,7 +163,8 @@
       "zipcodes": [
         "57451",
         "57471"
-      ]
+      ],
+      "id": "m-p-beebe-memorial-library-sd"
     },
     {
       "name": "LEOLA PUBLIC LIBRARY",
@@ -165,7 +176,8 @@
       "zipcodes": [
         "57456",
         "57457"
-      ]
+      ],
+      "id": "leola-public-library-sd"
     },
     {
       "name": "REDFIELD CARNEGIE LIBRARY",
@@ -180,7 +192,8 @@
         "57465",
         "57469",
         "57476"
-      ]
+      ],
+      "id": "redfield-carnegie-library-sd"
     },
     {
       "name": "WAGE MEMORIAL LIBRARY",
@@ -193,7 +206,8 @@
         "57432",
         "57445",
         "57474"
-      ]
+      ],
+      "id": "wage-memorial-library-sd"
     },
     {
       "name": "LANGFORD PUBLIC LIBRARY",
@@ -204,7 +218,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57454"
-      ]
+      ],
+      "id": "langford-public-library-sd"
     },
     {
       "name": "A. H. BROWN PUBLIC LIBRARY",
@@ -223,7 +238,8 @@
         "57646",
         "57648",
         "57658"
-      ]
+      ],
+      "id": "a-h-brown-public-library-sd"
     }
   ]
 }

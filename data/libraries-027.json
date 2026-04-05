@@ -12,7 +12,8 @@
         "02745",
         "02746",
         "02747"
-      ]
+      ],
+      "id": "acushnet-public-library-ma"
     },
     {
       "name": "ATTLEBORO PUBLIC LIBRARY",
@@ -25,7 +26,8 @@
         "02048",
         "02703",
         "02763"
-      ]
+      ],
+      "id": "attleboro-public-library-ma-2"
     },
     {
       "name": "BERKLEY PUBLIC LIBRARY",
@@ -42,7 +44,8 @@
         "48009",
         "48072",
         "48073"
-      ]
+      ],
+      "id": "berkley-public-library-ma"
     },
     {
       "name": "DARTMOUTH PUBLIC LIBRARIES",
@@ -54,7 +57,8 @@
       "zipcodes": [
         "02744",
         "02748"
-      ]
+      ],
+      "id": "dartmouth-public-libraries-ma"
     },
     {
       "name": "DIGHTON PUBLIC LIBRARY",
@@ -67,7 +71,8 @@
         "02702",
         "02715",
         "02764"
-      ]
+      ],
+      "id": "dighton-public-library-ma"
     },
     {
       "name": "MILLICENT LIBRARY",
@@ -81,7 +86,8 @@
         "02744",
         "02745",
         "02746"
-      ]
+      ],
+      "id": "millicent-library-ma"
     },
     {
       "name": "FALL RIVER PUBLIC LIBRARY",
@@ -98,7 +104,8 @@
         "02725",
         "67047",
         "67137"
-      ]
+      ],
+      "id": "fall-river-public-library-ma"
     },
     {
       "name": "CUTTYHUNK PUBLIC LIBRARY",
@@ -109,7 +116,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02713"
-      ]
+      ],
+      "id": "cuttyhunk-public-library-ma"
     },
     {
       "name": "ELIZABETH TABER LIBRARY",
@@ -123,7 +131,8 @@
         "02558",
         "02576",
         "02738"
-      ]
+      ],
+      "id": "elizabeth-taber-library-ma-2"
     },
     {
       "name": "MATTAPOISETT FREE PUBLIC LIBRARY",
@@ -134,7 +143,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02739"
-      ]
+      ],
+      "id": "mattapoisett-free-public-library-ma"
     },
     {
       "name": "NEW BEDFORD FREE PUBLIC LIBRARY",
@@ -149,7 +159,8 @@
         "02745",
         "02746",
         "02747"
-      ]
+      ],
+      "id": "new-bedford-free-public-library-ma"
     },
     {
       "name": "RICHARDS MEMORIAL LIBRARY",
@@ -162,7 +173,8 @@
         "01612",
         "02760",
         "02763"
-      ]
+      ],
+      "id": "richards-memorial-library-ma-2"
     },
     {
       "name": "NORTON PUBLIC LIBRARY",
@@ -177,7 +189,8 @@
         "02763",
         "02766",
         "67654"
-      ]
+      ],
+      "id": "norton-public-library-ma-3"
     },
     {
       "name": "PLAINVILLE PUBLIC LIBRARY",
@@ -192,7 +205,8 @@
         "06053",
         "06062",
         "06479"
-      ]
+      ],
+      "id": "plainville-public-library-ma"
     },
     {
       "name": "RAYNHAM PUBLIC LIBRARY",
@@ -205,7 +219,8 @@
         "02375",
         "02718",
         "02767"
-      ]
+      ],
+      "id": "raynham-public-library-ma-2"
     },
     {
       "name": "BLANDING FREE PUBLIC LIBRARY",
@@ -216,7 +231,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02769"
-      ]
+      ],
+      "id": "blanding-free-public-library-ma"
     },
     {
       "name": "JOSEPH H. PLUMB MEMORIAL LIBRARY",
@@ -230,7 +246,8 @@
         "02558",
         "02576",
         "02770"
-      ]
+      ],
+      "id": "joseph-h-plumb-memorial-library-ma-2"
     },
     {
       "name": "SEEKONK PUBLIC LIBRARY",
@@ -241,7 +258,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02771"
-      ]
+      ],
+      "id": "seekonk-public-library-ma"
     },
     {
       "name": "SOMERSET PUBLIC LIBRARY",
@@ -259,7 +277,8 @@
         "02726",
         "54025",
         "54082"
-      ]
+      ],
+      "id": "somerset-public-library-ma"
     },
     {
       "name": "SWANSEA FREE PUBLIC LIBRARY",
@@ -274,7 +293,8 @@
         "02724",
         "02725",
         "02777"
-      ]
+      ],
+      "id": "swansea-free-public-library-ma"
     },
     {
       "name": "TAUNTON PUBLIC LIBRARY",
@@ -287,7 +307,8 @@
         "02718",
         "02764",
         "02780"
-      ]
+      ],
+      "id": "taunton-public-library-ma"
     },
     {
       "name": "WESTPORT FREE PUBLIC LIBRARY",
@@ -299,7 +320,8 @@
       "zipcodes": [
         "02747",
         "02790"
-      ]
+      ],
+      "id": "westport-free-public-library-ma"
     },
     {
       "name": "JAMES WHITE MEMORIAL LIB.",
@@ -310,7 +332,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02717"
-      ]
+      ],
+      "id": "james-white-memorial-lib-ma"
     }
   ]
 }

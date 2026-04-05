@@ -22,7 +22,8 @@
         "97338",
         "97351",
         "97371"
-      ]
+      ],
+      "id": "independence-public-library-or-4"
     },
     {
       "name": "ALTAMONT PUBLIC LIBRARY",
@@ -39,7 +40,8 @@
         "62443",
         "62461",
         "67330"
-      ]
+      ],
+      "id": "altamont-public-library-tn-3"
     },
     {
       "name": "MOLINE PUBLIC LIBRARY",
@@ -53,7 +55,8 @@
         "61265",
         "67345",
         "67353"
-      ]
+      ],
+      "id": "moline-public-library-il-2"
     },
     {
       "name": "MOUND VALLEY LIBRARY",
@@ -66,7 +69,8 @@
         "67330",
         "67341",
         "67354"
-      ]
+      ],
+      "id": "mound-valley-library-ks"
     },
     {
       "name": "GRENOLA PUBLIC LIBRARY",
@@ -78,7 +82,8 @@
       "zipcodes": [
         "67346",
         "67353"
-      ]
+      ],
+      "id": "grenola-public-library-ks"
     },
     {
       "name": "EDNA PUBLIC LIBRARY",
@@ -91,7 +96,8 @@
         "67330",
         "67332",
         "67342"
-      ]
+      ],
+      "id": "edna-public-library-ks"
     },
     {
       "name": "HOWARD CITY LIBRARY",
@@ -103,7 +109,8 @@
       "zipcodes": [
         "67345",
         "67349"
-      ]
+      ],
+      "id": "howard-city-library-ks"
     },
     {
       "name": "SEDAN PUBLIC LIBRARY",
@@ -117,7 +124,8 @@
         "67355",
         "67360",
         "67361"
-      ]
+      ],
+      "id": "sedan-public-library-ks"
     },
     {
       "name": "CHETOPA CITY LIBRARY",
@@ -129,7 +137,8 @@
       "zipcodes": [
         "67332",
         "67336"
-      ]
+      ],
+      "id": "chetopa-city-library-ks"
     },
     {
       "name": "OSWEGO PUBLIC",
@@ -140,7 +149,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67356"
-      ]
+      ],
+      "id": "oswego-public-ks"
     },
     {
       "name": "CANEY CITY LIBRARY",
@@ -153,7 +163,8 @@
         "67333",
         "67347",
         "67364"
-      ]
+      ],
+      "id": "caney-city-library-ks"
     },
     {
       "name": "CHERRYVALE PUBLIC LIBRARY",
@@ -165,7 +176,8 @@
       "zipcodes": [
         "67335",
         "67351"
-      ]
+      ],
+      "id": "cherryvale-public-library-ks"
     },
     {
       "name": "PARSONS PUBLIC LIBRARY",
@@ -179,7 +191,8 @@
         "38380",
         "67341",
         "67357"
-      ]
+      ],
+      "id": "parsons-public-library-ks-2"
     },
     {
       "name": "COFFEYVILLE PUBLIC LIBRARY",
@@ -192,7 +205,8 @@
         "67337",
         "67340",
         "67351"
-      ]
+      ],
+      "id": "coffeyville-public-library-ks"
     },
     {
       "name": "LONGTON PUBLIC LIBRARY",
@@ -204,7 +218,8 @@
       "zipcodes": [
         "67345",
         "67352"
-      ]
+      ],
+      "id": "longton-public-library-ks"
     }
   ]
 }

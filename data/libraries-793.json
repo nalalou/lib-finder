@@ -12,7 +12,8 @@
         "79035",
         "79053",
         "79325"
-      ]
+      ],
+      "id": "friona-public-library-tx-2"
     },
     {
       "name": "HALE CENTER PUBLIC LIBRARY INC",
@@ -26,7 +27,8 @@
         "79041",
         "79250",
         "79311"
-      ]
+      ],
+      "id": "hale-center-public-library-inc-tx-3"
     },
     {
       "name": "OLTON AREA LIBRARY",
@@ -38,7 +40,8 @@
       "zipcodes": [
         "79064",
         "79326"
-      ]
+      ],
+      "id": "olton-area-library-tx-2"
     },
     {
       "name": "YOAKUM COUNTY/CECIL BICKLEY LIBRARY",
@@ -49,7 +52,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79323"
-      ]
+      ],
+      "id": "yoakum-countycecil-bickley-library-tx"
     },
     {
       "name": "DAWSON COUNTY PUBLIC LIBRARY",
@@ -62,7 +66,8 @@
         "79331",
         "79377",
         "79738"
-      ]
+      ],
+      "id": "dawson-county-public-library-tx"
     },
     {
       "name": "HOCKLEY COUNTY MEMORIAL LIBRARY",
@@ -78,7 +83,8 @@
         "79358",
         "79367",
         "79380"
-      ]
+      ],
+      "id": "hockley-county-memorial-library-tx"
     },
     {
       "name": "LAMB COUNTY LIBRARY",
@@ -92,7 +98,8 @@
         "79339",
         "79369",
         "79371"
-      ]
+      ],
+      "id": "lamb-county-library-tx"
     },
     {
       "name": "COCHRAN COUNTY LOVE MEMORIAL LIBRARY",
@@ -105,7 +112,8 @@
         "79314",
         "79346",
         "79379"
-      ]
+      ],
+      "id": "cochran-county-love-memorial-library-tx"
     },
     {
       "name": "MULESHOE AREA PUBLIC LIBRARY",
@@ -118,7 +126,8 @@
         "79324",
         "79344",
         "79347"
-      ]
+      ],
+      "id": "muleshoe-area-public-library-tx"
     },
     {
       "name": "YOAKUM COUNTY LIBRARY",
@@ -130,7 +139,8 @@
       "zipcodes": [
         "79355",
         "79376"
-      ]
+      ],
+      "id": "yoakum-county-library-tx"
     },
     {
       "name": "POST PUBLIC LIBRARY",
@@ -142,7 +152,8 @@
       "zipcodes": [
         "79330",
         "79356"
-      ]
+      ],
+      "id": "post-public-library-tx"
     },
     {
       "name": "GAINES COUNTY LIBRARY",
@@ -155,7 +166,8 @@
         "79342",
         "79359",
         "79360"
-      ]
+      ],
+      "id": "gaines-county-library-tx"
     },
     {
       "name": "CITY COUNTY LIBRARY",
@@ -168,7 +180,8 @@
         "79351",
         "79373",
         "79381"
-      ]
+      ],
+      "id": "city-county-library-tx"
     },
     {
       "name": "IDALOU COMMUNITY LIBRARY",
@@ -182,7 +195,8 @@
         "79350",
         "79366",
         "79403"
-      ]
+      ],
+      "id": "idalou-community-library-tx"
     },
     {
       "name": "SLATON CITY LIBRARY",
@@ -194,7 +208,8 @@
       "zipcodes": [
         "79364",
         "79366"
-      ]
+      ],
+      "id": "slaton-city-library-tx"
     },
     {
       "name": "KENDRICK MEMORIAL LIBRARY",
@@ -207,7 +222,8 @@
         "79316",
         "79345",
         "79378"
-      ]
+      ],
+      "id": "kendrick-memorial-library-tx"
     },
     {
       "name": "CITY OF WOLFFORTH LIBRARY",
@@ -228,7 +244,8 @@
         "79416",
         "79423",
         "79424"
-      ]
+      ],
+      "id": "city-of-wolfforth-library-tx"
     },
     {
       "name": "CROSBY COUNTY LIBRARY",
@@ -241,7 +258,8 @@
         "79322",
         "79343",
         "79357"
-      ]
+      ],
+      "id": "crosby-county-library-tx"
     },
     {
       "name": "DICKENS COUNTY SPUR PUBLIC LIBRARY",
@@ -255,7 +273,8 @@
         "79229",
         "79243",
         "79370"
-      ]
+      ],
+      "id": "dickens-county-spur-public-library-tx-2"
     },
     {
       "name": "SHALLOWATER SCHOOL COUNTY LIBRARY",
@@ -270,7 +289,8 @@
         "79406",
         "79415",
         "79416"
-      ]
+      ],
+      "id": "shallowater-school-county-library-tx"
     },
     {
       "name": "CITY OF SUNDOWN LIBRARY",
@@ -281,7 +301,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79372"
-      ]
+      ],
+      "id": "city-of-sundown-library-tx"
     }
   ]
 }

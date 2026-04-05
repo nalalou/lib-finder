@@ -11,7 +11,8 @@
         "01503",
         "03570",
         "54923"
-      ]
+      ],
+      "id": "berlin-public-library-wi-2"
     },
     {
       "name": "BETHLEHEM PUBLIC LIBRARY",
@@ -36,7 +37,8 @@
         "12203",
         "12208",
         "12209"
-      ]
+      ],
+      "id": "bethlehem-public-library-ct"
     },
     {
       "name": "LISBON PUBLIC LIBRARY",
@@ -50,7 +52,8 @@
         "52253",
         "58033",
         "58054"
-      ]
+      ],
+      "id": "lisbon-public-library-ia"
     },
     {
       "name": "BATH PUBLIC LIBRARY",
@@ -62,7 +65,8 @@
       "zipcodes": [
         "03585",
         "03740"
-      ]
+      ],
+      "id": "bath-public-library-nh"
     },
     {
       "name": "STRATFORD PUBLIC LIBRARY",
@@ -79,7 +83,8 @@
         "08083",
         "08084",
         "50249"
-      ]
+      ],
+      "id": "stratford-public-library-ia"
     },
     {
       "name": "MARC A. HURZELER, M.D. LIBRARY",
@@ -90,7 +95,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03583"
-      ]
+      ],
+      "id": "marc-a-hurzeler-md-library-nh"
     },
     {
       "name": "WILLIAM D. WEEKS MEMORIAL LIBRARY",
@@ -101,7 +107,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03584"
-      ]
+      ],
+      "id": "william-d-weeks-memorial-library-nh"
     },
     {
       "name": "LITTLETON PUBLIC LIBRARY",
@@ -113,7 +120,8 @@
       "zipcodes": [
         "03561",
         "03574"
-      ]
+      ],
+      "id": "littleton-public-library-nh"
     },
     {
       "name": "MILAN PUBLIC LIBRARY",
@@ -127,7 +135,8 @@
         "03588",
         "48131",
         "48159"
-      ]
+      ],
+      "id": "milan-public-library-nh"
     },
     {
       "name": "NORTHUMBERLAND PUBLIC LIBRARY",
@@ -145,7 +154,8 @@
         "22511",
         "22539",
         "22579"
-      ]
+      ],
+      "id": "northumberland-public-library-nh"
     },
     {
       "name": "BREMER POND MEMORIAL LIBRARY",
@@ -156,7 +166,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03592"
-      ]
+      ],
+      "id": "bremer-pond-memorial-library-nh"
     },
     {
       "name": "RICHARDSON MEMORIAL LIBRARY",
@@ -168,7 +179,8 @@
       "zipcodes": [
         "03585",
         "03586"
-      ]
+      ],
+      "id": "richardson-memorial-library-nh"
     },
     {
       "name": "WHITEFIELD PUBLIC LIBRARY",
@@ -179,7 +191,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03598"
-      ]
+      ],
+      "id": "whitefield-public-library-nh"
     },
     {
       "name": "TWIN MOUNTAIN PUBLIC LIBRARY",
@@ -190,7 +203,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03595"
-      ]
+      ],
+      "id": "twin-mountain-public-library-nh"
     },
     {
       "name": "COLEBROOK PUBLIC LIBRARY",
@@ -201,7 +215,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03576"
-      ]
+      ],
+      "id": "colebrook-public-library-nh"
     },
     {
       "name": "DALTON PUBLIC LIBRARY",
@@ -214,7 +229,8 @@
         "03598",
         "69131",
         "69141"
-      ]
+      ],
+      "id": "dalton-public-library-nh"
     },
     {
       "name": "ERROL PUBLIC LIBRARY",
@@ -225,7 +241,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03579"
-      ]
+      ],
+      "id": "errol-public-library-nh"
     },
     {
       "name": "ABBIE GREENLEAF LIBRARY",
@@ -237,7 +254,8 @@
       "zipcodes": [
         "03574",
         "03580"
-      ]
+      ],
+      "id": "abbie-greenleaf-library-nh"
     },
     {
       "name": "GORHAM PUBLIC LIBRARY",
@@ -248,7 +266,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03581"
-      ]
+      ],
+      "id": "gorham-public-library-nh"
     },
     {
       "name": "DUMMER PUBLIC LIBRARY",
@@ -260,7 +279,8 @@
       "zipcodes": [
         "03570",
         "03588"
-      ]
+      ],
+      "id": "dummer-public-library-nh"
     },
     {
       "name": "SHELBURNE PUBLIC LIBRARY",
@@ -271,7 +291,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03581"
-      ]
+      ],
+      "id": "shelburne-public-library-nh"
     },
     {
       "name": "RANDOLPH PUBLIC LIBRARY",
@@ -296,7 +317,8 @@
         "27370",
         "51645",
         "51649"
-      ]
+      ],
+      "id": "randolph-public-library-nh"
     }
   ]
 }

@@ -50,7 +50,8 @@
         "87753",
         "88416",
         "88421"
-      ]
+      ],
+      "id": "carnegie-public-library-mt-7"
     },
     {
       "name": "CLARENCE PUBLIC LIBRARY",
@@ -71,7 +72,8 @@
         "63450",
         "63451",
         "63464"
-      ]
+      ],
+      "id": "clarence-public-library-ia-4"
     },
     {
       "name": "CANTON PUBLIC LIBRARY",
@@ -100,7 +102,8 @@
         "63452",
         "63457",
         "63473"
-      ]
+      ],
+      "id": "canton-public-library-ct-5"
     },
     {
       "name": "SCOTLAND COUNTY MEMORIAL LIBRARY",
@@ -120,7 +123,8 @@
         "63543",
         "63555",
         "63563"
-      ]
+      ],
+      "id": "scotland-county-memorial-library-nc-2"
     },
     {
       "name": "LOUISIANA PUBLIC LIBRARY",
@@ -135,7 +139,8 @@
         "63343",
         "63353",
         "63433"
-      ]
+      ],
+      "id": "louisiana-public-library-mo-2"
     },
     {
       "name": "BOWLING GREEN PUBLIC LIBRARY",
@@ -151,7 +156,8 @@
         "63377",
         "63387",
         "63441"
-      ]
+      ],
+      "id": "bowling-green-public-library-mo-2"
     },
     {
       "name": "MACON PUBLIC LIBRARY",
@@ -167,7 +173,8 @@
         "63552",
         "63558",
         "65247"
-      ]
+      ],
+      "id": "macon-public-library-mo"
     },
     {
       "name": "LAPLATA PUBLIC LIBRARY",
@@ -184,7 +191,8 @@
         "63539",
         "63547",
         "63549"
-      ]
+      ],
+      "id": "laplata-public-library-mo"
     },
     {
       "name": "MARION COUNTY LIBRARY SUB-DISTRICT #1",
@@ -198,7 +206,8 @@
         "63461",
         "63463",
         "63471"
-      ]
+      ],
+      "id": "marion-county-library-sub-district-1-mo"
     },
     {
       "name": "HANNIBAL FREE PUBLIC LIBRARY",
@@ -209,7 +218,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "63401"
-      ]
+      ],
+      "id": "hannibal-free-public-library-mo"
     },
     {
       "name": "NORTHEAST MISSOURI LIBRARY SERVICE",
@@ -227,7 +237,8 @@
         "63465",
         "63472",
         "63474"
-      ]
+      ],
+      "id": "northeast-missouri-library-service-mo-2"
     },
     {
       "name": "MONROE CITY PUBLIC LIBRARY",
@@ -243,7 +254,8 @@
         "65275",
         "65282",
         "65283"
-      ]
+      ],
+      "id": "monroe-city-public-library-mo"
     },
     {
       "name": "RALLS COUNTY LIBRARY",
@@ -256,7 +268,8 @@
         "63436",
         "63459",
         "63462"
-      ]
+      ],
+      "id": "ralls-county-library-mo"
     }
   ]
 }

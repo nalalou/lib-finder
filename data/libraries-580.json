@@ -12,7 +12,8 @@
         "52253",
         "58033",
         "58054"
-      ]
+      ],
+      "id": "lisbon-public-library-ia-3"
     },
     {
       "name": "CASSELTON PUBLIC LIBRARY",
@@ -29,7 +30,8 @@
         "58048",
         "58059",
         "58079"
-      ]
+      ],
+      "id": "casselton-public-library-nd"
     },
     {
       "name": "ENDERLIN MUNICIPAL LIBRARY",
@@ -41,7 +43,8 @@
       "zipcodes": [
         "58027",
         "58068"
-      ]
+      ],
+      "id": "enderlin-municipal-library-nd"
     },
     {
       "name": "FORMAN PUBLIC LIBRARY",
@@ -58,7 +61,8 @@
         "58043",
         "58067",
         "58069"
-      ]
+      ],
+      "id": "forman-public-library-nd"
     },
     {
       "name": "LEACH PUBLIC LIBRARY",
@@ -75,7 +79,8 @@
         "58061",
         "58075",
         "58077"
-      ]
+      ],
+      "id": "leach-public-library-nd"
     },
     {
       "name": "LIDGERWOOD CITY LIBRARY",
@@ -91,7 +96,8 @@
         "58057",
         "58058",
         "58081"
-      ]
+      ],
+      "id": "lidgerwood-city-library-nd"
     },
     {
       "name": "SATRE MEMORIAL MILNOR SCHOOL LIBRARY",
@@ -102,7 +108,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "58060"
-      ]
+      ],
+      "id": "satre-memorial-milnor-school-library-nd"
     },
     {
       "name": "VALLEY CITY BARNES COUNTY PUBLIC LIBRARY",
@@ -123,7 +130,8 @@
         "58480",
         "58481",
         "58492"
-      ]
+      ],
+      "id": "valley-city-barnes-county-public-library-nd"
     },
     {
       "name": "WEST FARGO PUBLIC LIBRARY",
@@ -139,7 +147,8 @@
         "58078",
         "58103",
         "58104"
-      ]
+      ],
+      "id": "west-fargo-public-library-nd"
     },
     {
       "name": "MARGARET FRAASE PUBLIC LIBRARY",
@@ -154,7 +163,8 @@
         "58029",
         "58064",
         "58071"
-      ]
+      ],
+      "id": "margaret-fraase-public-library-nd"
     },
     {
       "name": "KINDRED PUBLIC LIBRARY",
@@ -168,7 +178,8 @@
         "58047",
         "58051",
         "58052"
-      ]
+      ],
+      "id": "kindred-public-library-nd"
     },
     {
       "name": "MAYVILLE PUBLIC LIBRARY",
@@ -188,7 +199,8 @@
         "58240",
         "58257",
         "58274"
-      ]
+      ],
+      "id": "mayville-public-library-nd"
     },
     {
       "name": "GRIGGS COUNTY LIBRARY",
@@ -205,7 +217,8 @@
         "58425",
         "58448",
         "58484"
-      ]
+      ],
+      "id": "griggs-county-library-nd"
     }
   ]
 }

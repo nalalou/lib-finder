@@ -9,7 +9,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "81621"
-      ]
+      ],
+      "id": "basalt-regional-library-district-co"
     },
     {
       "name": "MOFFAT COUNTY LIBRARY",
@@ -23,7 +24,8 @@
         "81625",
         "81638",
         "81640"
-      ]
+      ],
+      "id": "moffat-county-library-co"
     },
     {
       "name": "EAGLE VALLEY LIBRARY DISTRICT",
@@ -38,7 +40,8 @@
         "81631",
         "81632",
         "81637"
-      ]
+      ],
+      "id": "eagle-valley-library-district-co-2"
     },
     {
       "name": "GARFIELD COUNTY PUBLIC LIBRARY DISTRICT",
@@ -54,7 +57,8 @@
         "81647",
         "81650",
         "81652"
-      ]
+      ],
+      "id": "garfield-county-public-library-district-co"
     },
     {
       "name": "WEST ROUTT LIBRARY DISTRICT/HAYDEN",
@@ -66,7 +70,8 @@
       "zipcodes": [
         "81639",
         "81653"
-      ]
+      ],
+      "id": "west-routt-library-districthayden-co"
     },
     {
       "name": "MEEKER REGIONAL LIBRARY DISTRICT",
@@ -77,7 +82,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "81641"
-      ]
+      ],
+      "id": "meeker-regional-library-district-co"
     },
     {
       "name": "PITKIN COUNTY LIBRARY",
@@ -92,7 +98,8 @@
         "81642",
         "81654",
         "81656"
-      ]
+      ],
+      "id": "pitkin-county-library-co"
     },
     {
       "name": "RANGELY REGIONAL LIBRARY DISTRICT",
@@ -103,7 +110,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "81648"
-      ]
+      ],
+      "id": "rangely-regional-library-district-co"
     },
     {
       "name": "VAIL PUBLIC LIBRARY",
@@ -119,7 +127,8 @@
         "81649",
         "81655",
         "81657"
-      ]
+      ],
+      "id": "vail-public-library-co-2"
     },
     {
       "name": "MESA COUNTY PUBLIC LIBRARY DISTRICT",
@@ -146,7 +155,8 @@
         "81630",
         "81643",
         "81646"
-      ]
+      ],
+      "id": "mesa-county-public-library-district-co-2"
     }
   ]
 }

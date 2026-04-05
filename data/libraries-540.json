@@ -11,7 +11,8 @@
         "50428",
         "54004",
         "54005"
-      ]
+      ],
+      "id": "clear-lake-public-library-ia-2"
     },
     {
       "name": "ELLSWORTH PUBLIC LIBRARY",
@@ -31,7 +32,8 @@
         "54011",
         "54014",
         "54723"
-      ]
+      ],
+      "id": "ellsworth-public-library-me-5"
     },
     {
       "name": "BALDWIN PUBLIC LIBRARY",
@@ -49,7 +51,8 @@
         "48304",
         "54002",
         "54027"
-      ]
+      ],
+      "id": "baldwin-public-library-ny-4"
     },
     {
       "name": "SOMERSET PUBLIC LIBRARY",
@@ -67,7 +70,8 @@
         "02726",
         "54025",
         "54082"
-      ]
+      ],
+      "id": "somerset-public-library-ma-2"
     },
     {
       "name": "PRESCOTT PUBLIC LIBRARY",
@@ -85,7 +89,8 @@
         "86321",
         "86332",
         "86343"
-      ]
+      ],
+      "id": "prescott-public-library-ia-2"
     },
     {
       "name": "FREDERIC PUBLIC LIBRARY",
@@ -97,7 +102,8 @@
       "zipcodes": [
         "54006",
         "54837"
-      ]
+      ],
+      "id": "frederic-public-library-wi"
     },
     {
       "name": "LUCK PUBLIC LIBRARY",
@@ -109,7 +115,8 @@
       "zipcodes": [
         "54006",
         "54853"
-      ]
+      ],
+      "id": "luck-public-library-wi"
     },
     {
       "name": "MILLTOWN PUBLIC LIBRARY",
@@ -123,7 +130,8 @@
         "08850",
         "54006",
         "54858"
-      ]
+      ],
+      "id": "milltown-public-library-wi-2"
     },
     {
       "name": "DEER PARK PUBLIC LIBRARY",
@@ -156,7 +164,8 @@
         "77586",
         "77587",
         "77598"
-      ]
+      ],
+      "id": "deer-park-public-library-tx-2"
     },
     {
       "name": "AMERY PUBLIC LIBRARY",
@@ -169,7 +178,8 @@
         "54001",
         "54005",
         "54026"
-      ]
+      ],
+      "id": "amery-public-library-wi"
     },
     {
       "name": "GLENWOOD CITY PUBLIC LIBRARY",
@@ -181,7 +191,8 @@
       "zipcodes": [
         "54013",
         "54027"
-      ]
+      ],
+      "id": "glenwood-city-public-library-wi"
     },
     {
       "name": "HAMMOND COMMUNITY LIBRARY",
@@ -193,7 +204,8 @@
       "zipcodes": [
         "54002",
         "54015"
-      ]
+      ],
+      "id": "hammond-community-library-wi"
     },
     {
       "name": "HUDSON AREA JOINT LIBRARY",
@@ -205,7 +217,8 @@
       "zipcodes": [
         "54016",
         "54082"
-      ]
+      ],
+      "id": "hudson-area-joint-library-wi"
     },
     {
       "name": "CARLETON A. FRIDAY MEMORIAL LIBRARY",
@@ -217,7 +230,8 @@
       "zipcodes": [
         "54017",
         "54025"
-      ]
+      ],
+      "id": "carleton-a-friday-memorial-library-wi"
     },
     {
       "name": "WILBERG MEMORIAL PUBLIC LIBRARY",
@@ -228,7 +242,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54020"
-      ]
+      ],
+      "id": "wilberg-memorial-public-library-wi"
     },
     {
       "name": "RIVER FALLS PUBLIC LIBRARY",
@@ -241,7 +256,8 @@
         "54003",
         "54021",
         "54022"
-      ]
+      ],
+      "id": "river-falls-public-library-wi"
     },
     {
       "name": "HAZEL MACKIN COMMUNITY LIBRARY",
@@ -252,7 +268,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54023"
-      ]
+      ],
+      "id": "hazel-mackin-community-library-wi"
     },
     {
       "name": "WOODVILLE COMMUNITY LIBRARY",
@@ -265,7 +282,8 @@
         "54002",
         "54027",
         "54028"
-      ]
+      ],
+      "id": "woodville-community-library-wi"
     },
     {
       "name": "GERALDINE E. ANDERSON VILLAGE LIBRARY",
@@ -276,7 +294,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "54009"
-      ]
+      ],
+      "id": "geraldine-e-anderson-village-library-wi"
     },
     {
       "name": "ST. CROIX FALLS PUBLIC LIBRARY",
@@ -287,7 +306,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54024"
-      ]
+      ],
+      "id": "st-croix-falls-public-library-wi"
     }
   ]
 }

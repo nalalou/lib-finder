@@ -15,7 +15,8 @@
         "93962",
         "95012",
         "95039"
-      ]
+      ],
+      "id": "monterey-county-free-libraries-ca-2"
     },
     {
       "name": "SALINAS PUBLIC LIBRARY",
@@ -44,7 +45,8 @@
         "93962",
         "95004",
         "95012"
-      ]
+      ],
+      "id": "salinas-public-library-ca-3"
     },
     {
       "name": "MOUNTAIN VIEW PUBLIC LIBRARY",
@@ -68,7 +70,8 @@
         "94306",
         "95002",
         "95014"
-      ]
+      ],
+      "id": "mountain-view-public-library-ca-5"
     },
     {
       "name": "SUNNYVALE PUBLIC LIBRARY",
@@ -93,7 +96,8 @@
         "95054",
         "95129",
         "95134"
-      ]
+      ],
+      "id": "sunnyvale-public-library-ca-3"
     },
     {
       "name": "SAN JOSE PUBLIC LIBRARY",
@@ -130,7 +134,8 @@
         "95139",
         "95140",
         "95148"
-      ]
+      ],
+      "id": "san-jose-public-library-ca"
     },
     {
       "name": "SANTA CLARA COUNTY LAW LIBRARY",
@@ -162,7 +167,8 @@
         "95134",
         "95136",
         "95148"
-      ]
+      ],
+      "id": "santa-clara-county-law-library-ca"
     },
     {
       "name": "SAN BENITO COUNTY FREE LIBRARY",
@@ -174,7 +180,8 @@
       "zipcodes": [
         "95023",
         "95043"
-      ]
+      ],
+      "id": "san-benito-county-free-library-ca"
     },
     {
       "name": "SAN JUAN BAUTISTA CITY LIBRARY",
@@ -185,7 +192,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "95045"
-      ]
+      ],
+      "id": "san-juan-bautista-city-library-ca"
     },
     {
       "name": "SANTA CLARA CITY LIBRARY",
@@ -217,7 +225,8 @@
         "95131",
         "95133",
         "95134"
-      ]
+      ],
+      "id": "santa-clara-city-library-ca-2"
     },
     {
       "name": "SANTA CLARA COUNTY LIBRARY",
@@ -242,7 +251,8 @@
         "95129",
         "95130",
         "95136"
-      ]
+      ],
+      "id": "santa-clara-county-library-ca"
     },
     {
       "name": "SANTA CRUZ PUBLIC LIBRARIES",
@@ -266,7 +276,8 @@
         "95065",
         "95066",
         "95073"
-      ]
+      ],
+      "id": "santa-cruz-public-libraries-ca"
     },
     {
       "name": "WATSONVILLE PUBLIC LIBRARY",
@@ -279,7 +290,8 @@
         "95003",
         "95019",
         "95076"
-      ]
+      ],
+      "id": "watsonville-public-library-ca"
     },
     {
       "name": "LOS GATOS LIBRARY",
@@ -298,7 +310,8 @@
         "95120",
         "95124",
         "95130"
-      ]
+      ],
+      "id": "los-gatos-library-ca"
     },
     {
       "name": "SANTA CRUZ COUNTY LAW LIBRARY",
@@ -321,7 +334,8 @@
         "95065",
         "95066",
         "95073"
-      ]
+      ],
+      "id": "santa-cruz-county-law-library-ca"
     }
   ]
 }

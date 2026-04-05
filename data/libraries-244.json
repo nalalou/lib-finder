@@ -12,7 +12,8 @@
         "24472",
         "62088",
         "62093"
-      ]
+      ],
+      "id": "staunton-public-library-il"
     },
     {
       "name": "MASSANUTTEN REGIONAL LIBRARY",
@@ -39,7 +40,8 @@
         "22850",
         "22853",
         "24471"
-      ]
+      ],
+      "id": "massanutten-regional-library-va-2"
     },
     {
       "name": "ALLEGHANY HIGHLANDS REGIONAL LIBRARY",
@@ -50,7 +52,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "24426"
-      ]
+      ],
+      "id": "alleghany-highlands-regional-library-va"
     },
     {
       "name": "CLIFTON FORGE PUBLIC LIBRARY",
@@ -67,7 +70,8 @@
         "24457",
         "24460",
         "24474"
-      ]
+      ],
+      "id": "clifton-forge-public-library-va"
     },
     {
       "name": "HIGHLAND COUNTY PUBLIC LIBRARY",
@@ -84,7 +88,8 @@
         "24465",
         "24484",
         "24487"
-      ]
+      ],
+      "id": "highland-county-public-library-va"
     },
     {
       "name": "ROCKBRIDGE REGIONAL LIBRARY",
@@ -104,7 +109,8 @@
         "24555",
         "24578",
         "24579"
-      ]
+      ],
+      "id": "rockbridge-regional-library-va"
     },
     {
       "name": "AUGUSTA COUNTY LIBRARY",
@@ -132,7 +138,8 @@
         "24482",
         "24485",
         "24486"
-      ]
+      ],
+      "id": "augusta-county-library-va-3"
     },
     {
       "name": "WAYNESBORO PUBLIC LIBRARY",
@@ -150,7 +157,8 @@
         "22958",
         "22980",
         "24464"
-      ]
+      ],
+      "id": "waynesboro-public-library-va-2"
     }
   ]
 }

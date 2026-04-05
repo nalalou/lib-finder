@@ -13,7 +13,8 @@
         "05076",
         "05086",
         "05649"
-      ]
+      ],
+      "id": "blake-memorial-vt-2"
     },
     {
       "name": "ALDRICH PUBLIC",
@@ -27,7 +28,8 @@
         "05651",
         "05654",
         "05678"
-      ]
+      ],
+      "id": "aldrich-public-vt"
     },
     {
       "name": "CABOT PUBLIC",
@@ -39,7 +41,8 @@
       "zipcodes": [
         "05647",
         "05650"
-      ]
+      ],
+      "id": "cabot-public-vt"
     },
     {
       "name": "LANPHER MEMORIAL",
@@ -53,7 +56,8 @@
         "05653",
         "05655",
         "05657"
-      ]
+      ],
+      "id": "lanpher-memorial-vt"
     },
     {
       "name": "JOHNSON PUBLIC",
@@ -66,7 +70,8 @@
         "05442",
         "05652",
         "05656"
-      ]
+      ],
+      "id": "johnson-public-vt-2"
     },
     {
       "name": "JAQUITH PUBLIC",
@@ -80,7 +85,8 @@
         "05648",
         "05650",
         "05658"
-      ]
+      ],
+      "id": "jaquith-public-vt"
     },
     {
       "name": "KELLOGG-HUBBARD",
@@ -97,7 +103,8 @@
         "05664",
         "05678",
         "05682"
-      ]
+      ],
+      "id": "kellogg-hubbard-vt"
     },
     {
       "name": "MORETOWN MEMORIAL",
@@ -108,7 +115,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05660"
-      ]
+      ],
+      "id": "moretown-memorial-vt"
     },
     {
       "name": "MORRISTOWN CENTENNIAL",
@@ -120,7 +128,8 @@
       "zipcodes": [
         "05657",
         "05661"
-      ]
+      ],
+      "id": "morristown-centennial-vt"
     },
     {
       "name": "BROWN PUBLIC",
@@ -133,7 +142,8 @@
         "05654",
         "05663",
         "05664"
-      ]
+      ],
+      "id": "brown-public-vt"
     },
     {
       "name": "CUTLER MEMORIAL",
@@ -148,7 +158,8 @@
         "05651",
         "05667",
         "05678"
-      ]
+      ],
+      "id": "cutler-memorial-vt"
     },
     {
       "name": "ROXBURY FREE",
@@ -160,7 +171,8 @@
       "zipcodes": [
         "05664",
         "05669"
-      ]
+      ],
+      "id": "roxbury-free-vt"
     },
     {
       "name": "STOWE FREE",
@@ -171,7 +183,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05672"
-      ]
+      ],
+      "id": "stowe-free-vt"
     },
     {
       "name": "JOSLIN MEMORIAL",
@@ -182,7 +195,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "05673"
-      ]
+      ],
+      "id": "joslin-memorial-vt"
     },
     {
       "name": "WARREN PUBLIC",
@@ -193,7 +207,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05674"
-      ]
+      ],
+      "id": "warren-public-vt"
     },
     {
       "name": "CALEF MEMORIAL",
@@ -207,7 +222,8 @@
         "05086",
         "05649",
         "05675"
-      ]
+      ],
+      "id": "calef-memorial-vt-2"
     },
     {
       "name": "WATERBURY PUBLIC",
@@ -219,7 +235,8 @@
       "zipcodes": [
         "05676",
         "05677"
-      ]
+      ],
+      "id": "waterbury-public-vt"
     },
     {
       "name": "AINSWORTH PUBLIC",
@@ -230,7 +247,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05679"
-      ]
+      ],
+      "id": "ainsworth-public-vt"
     },
     {
       "name": "G. M. KELLEY COMMUNITY",
@@ -242,7 +260,8 @@
       "zipcodes": [
         "05657",
         "05680"
-      ]
+      ],
+      "id": "g-m-kelley-community-vt"
     },
     {
       "name": "WOODBURY COMMUNITY",
@@ -256,7 +275,8 @@
         "05650",
         "05681",
         "05682"
-      ]
+      ],
+      "id": "woodbury-community-vt"
     },
     {
       "name": "WATERVILLE TOWN",
@@ -269,7 +289,8 @@
         "05442",
         "05492",
         "05652"
-      ]
+      ],
+      "id": "waterville-town-vt-2"
     }
   ]
 }

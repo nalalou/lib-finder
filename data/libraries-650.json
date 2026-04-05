@@ -19,7 +19,8 @@
         "65354",
         "84018",
         "84050"
-      ]
+      ],
+      "id": "morgan-county-library-ut"
     },
     {
       "name": "CAMDEN COUNTY LIBRARY",
@@ -49,7 +50,8 @@
         "65591",
         "65786",
         "65787"
-      ]
+      ],
+      "id": "camden-county-library-mo-2"
     },
     {
       "name": "MONITEAU COUNTY LIBRARY",
@@ -65,7 +67,8 @@
         "65050",
         "65064",
         "65068"
-      ]
+      ],
+      "id": "moniteau-county-library-mo"
     },
     {
       "name": "PRICE JAMES MEMORIAL LIBRARY",
@@ -83,7 +86,8 @@
         "65237",
         "65276",
         "65348"
-      ]
+      ],
+      "id": "price-james-memorial-library-mo"
     },
     {
       "name": "MISSOURI RIVER REGIONAL LIBRARY",
@@ -109,7 +113,8 @@
         "65085",
         "65101",
         "65109"
-      ]
+      ],
+      "id": "missouri-river-regional-library-mo"
     },
     {
       "name": "MONTGOMERY CITY PUBLIC LIBRARY",
@@ -133,7 +138,8 @@
         "65067",
         "65069",
         "65077"
-      ]
+      ],
+      "id": "montgomery-city-public-library-mo-2"
     },
     {
       "name": "DANIEL BOONE REGIONAL LIBRARY",
@@ -152,7 +158,8 @@
         "65256",
         "65279",
         "65287"
-      ]
+      ],
+      "id": "daniel-boone-regional-library-mo"
     },
     {
       "name": "JAMES MEMORIAL LIBRARY",
@@ -164,7 +171,8 @@
       "zipcodes": [
         "65066",
         "65559"
-      ]
+      ],
+      "id": "james-memorial-library-mo"
     },
     {
       "name": "HEARTLAND REGIONAL LIBRARY SYSTEM",
@@ -186,7 +194,8 @@
         "65443",
         "65580",
         "65582"
-      ]
+      ],
+      "id": "heartland-regional-library-system-mo"
     }
   ]
 }

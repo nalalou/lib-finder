@@ -35,7 +35,8 @@
         "62060",
         "66860",
         "68748"
-      ]
+      ],
+      "id": "madison-public-library-il-7"
     },
     {
       "name": "FLORENCE PUBLIC LIBRARY",
@@ -47,7 +48,8 @@
       "zipcodes": [
         "66851",
         "76527"
-      ]
+      ],
+      "id": "florence-public-library-tx"
     },
     {
       "name": "BRADFORD MEMORIAL LIBRARY",
@@ -60,7 +62,8 @@
         "66842",
         "67042",
         "67132"
-      ]
+      ],
+      "id": "bradford-memorial-library-ks"
     },
     {
       "name": "BURNS PUBLIC LIBRARY",
@@ -72,7 +75,8 @@
       "zipcodes": [
         "66840",
         "66851"
-      ]
+      ],
+      "id": "burns-public-library-ks"
     },
     {
       "name": "DWIGHT PUBLIC LIBRARY",
@@ -85,7 +89,8 @@
         "66401",
         "66834",
         "66849"
-      ]
+      ],
+      "id": "dwight-public-library-ks-2"
     },
     {
       "name": "ELM CREEK TOWNSHIP LIBRARY",
@@ -97,7 +102,8 @@
       "zipcodes": [
         "66838",
         "66873"
-      ]
+      ],
+      "id": "elm-creek-township-library-ks"
     },
     {
       "name": "WHITE CITY PUBLIC LIBRARY",
@@ -108,7 +114,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66872"
-      ]
+      ],
+      "id": "white-city-public-library-ks"
     },
     {
       "name": "BURNLEY MEMORIAL/FALLS TOWNSHIP",
@@ -123,7 +130,8 @@
         "66850",
         "66862",
         "66869"
-      ]
+      ],
+      "id": "burnley-memorialfalls-township-ks"
     },
     {
       "name": "HARTFORD/ELMENDARO TOWNSHIP",
@@ -135,7 +143,8 @@
       "zipcodes": [
         "66854",
         "66864"
-      ]
+      ],
+      "id": "hartfordelmendaro-township-ks"
     },
     {
       "name": "AMERICUS TOWNSHIP LIBRARY",
@@ -146,7 +155,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66835"
-      ]
+      ],
+      "id": "americus-township-library-ks"
     },
     {
       "name": "PEABODY TOWNSHIP LIBRARY",
@@ -157,7 +167,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66866"
-      ]
+      ],
+      "id": "peabody-township-library-ks"
     },
     {
       "name": "MARION CITY LIBRARY",
@@ -171,7 +182,8 @@
         "66859",
         "66861",
         "67475"
-      ]
+      ],
+      "id": "marion-city-library-ks"
     },
     {
       "name": "COUNCIL GROVE PUBLIC LIBRARY",
@@ -182,7 +194,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66846"
-      ]
+      ],
+      "id": "council-grove-public-library-ks"
     },
     {
       "name": "EMPORIA PUBLIC LIBRARY",
@@ -194,7 +207,8 @@
       "zipcodes": [
         "66801",
         "66865"
-      ]
+      ],
+      "id": "emporia-public-library-ks"
     },
     {
       "name": "LYON COUNTY LIBRARY DIST. #1",
@@ -208,7 +222,8 @@
         "66830",
         "66833",
         "66868"
-      ]
+      ],
+      "id": "lyon-county-library-dist-1-ks-2"
     },
     {
       "name": "HAMILTON CITY LIBRARY",
@@ -221,7 +236,8 @@
         "66853",
         "66863",
         "66870"
-      ]
+      ],
+      "id": "hamilton-city-library-ks"
     },
     {
       "name": "COFFEY COUNTY LIBRARY",
@@ -236,7 +252,8 @@
         "66856",
         "66857",
         "66871"
-      ]
+      ],
+      "id": "coffey-county-library-ks"
     }
   ]
 }

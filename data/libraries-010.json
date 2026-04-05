@@ -13,7 +13,8 @@
         "04648",
         "04654",
         "04655"
-      ]
+      ],
+      "id": "porter-memorial-library-me"
     },
     {
       "name": "RUSSELL PUBLIC LIBRARY",
@@ -31,7 +32,8 @@
         "67634",
         "67640",
         "67665"
-      ]
+      ],
+      "id": "russell-public-library-ks"
     },
     {
       "name": "WARREN PUBLIC LIBRARY",
@@ -54,7 +56,8 @@
         "48093",
         "48310",
         "48312"
-      ]
+      ],
+      "id": "warren-public-library-ct"
     },
     {
       "name": "AGAWAM PUBLIC LIBRARY",
@@ -66,7 +69,8 @@
       "zipcodes": [
         "01001",
         "01030"
-      ]
+      ],
+      "id": "agawam-public-library-ma"
     },
     {
       "name": "JONES LIBRARY, INC.",
@@ -77,7 +81,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01002"
-      ]
+      ],
+      "id": "jones-library-inc-ma"
     },
     {
       "name": "WOODS MEMORIAL LIBRARY",
@@ -88,7 +93,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01005"
-      ]
+      ],
+      "id": "woods-memorial-library-ma"
     },
     {
       "name": "CLAPP MEMORIAL LIBRARY",
@@ -99,7 +105,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01007"
-      ]
+      ],
+      "id": "clapp-memorial-library-ma"
     },
     {
       "name": "BRIMFIELD PUBLIC LIBRARY",
@@ -110,7 +117,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01010"
-      ]
+      ],
+      "id": "brimfield-public-library-ma"
     },
     {
       "name": "HAMILTON MEMORIAL LIBRARY",
@@ -122,7 +130,8 @@
       "zipcodes": [
         "01008",
         "01011"
-      ]
+      ],
+      "id": "hamilton-memorial-library-ma"
     },
     {
       "name": "CHICOPEE PUBLIC LIBRARY",
@@ -139,7 +148,8 @@
         "01107",
         "01109",
         "01151"
-      ]
+      ],
+      "id": "chicopee-public-library-ma"
     },
     {
       "name": "BRYANT FREE LIBRARY",
@@ -151,7 +161,8 @@
       "zipcodes": [
         "01026",
         "01084"
-      ]
+      ],
+      "id": "bryant-free-library-ma"
     },
     {
       "name": "EAST LONGMEADOW PUBLIC LIBRARY",
@@ -167,7 +178,8 @@
         "01119",
         "01128",
         "01129"
-      ]
+      ],
+      "id": "east-longmeadow-public-library-ma"
     },
     {
       "name": "EASTHAMPTON PUBLIC LIBRARY",
@@ -178,7 +190,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01027"
-      ]
+      ],
+      "id": "easthampton-public-library-ma"
     },
     {
       "name": "GOSHEN FREE PUBLIC LIBRARY",
@@ -189,7 +202,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01032"
-      ]
+      ],
+      "id": "goshen-free-public-library-ma"
     },
     {
       "name": "GRANBY FREE PUBLIC LIBRARY",
@@ -200,7 +214,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01033"
-      ]
+      ],
+      "id": "granby-free-public-library-ma"
     },
     {
       "name": "GRANVILLE PUBLIC LIBRARY",
@@ -215,7 +230,8 @@
         "43023",
         "43025",
         "43033"
-      ]
+      ],
+      "id": "granville-public-library-ma"
     },
     {
       "name": "HADLEY PUBLIC LIBRARY",
@@ -226,7 +242,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01035"
-      ]
+      ],
+      "id": "hadley-public-library-ma"
     },
     {
       "name": "HAMPDEN FREE PUBLIC LIBRARY",
@@ -238,7 +255,8 @@
       "zipcodes": [
         "01036",
         "01128"
-      ]
+      ],
+      "id": "hampden-free-public-library-ma"
     },
     {
       "name": "PAIGE MEMORIAL LIBRARY",
@@ -249,7 +267,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01037"
-      ]
+      ],
+      "id": "paige-memorial-library-ma"
     },
     {
       "name": "HATFIELD PUBLIC LIBRARY",
@@ -262,7 +281,8 @@
         "01038",
         "01039",
         "01088"
-      ]
+      ],
+      "id": "hatfield-public-library-ma"
     },
     {
       "name": "HOLYOKE PUBLIC LIBRARY",
@@ -275,7 +295,8 @@
         "01020",
         "01022",
         "01040"
-      ]
+      ],
+      "id": "holyoke-public-library-ma"
     },
     {
       "name": "HUNTINGTON PUBLIC LIBRARY",
@@ -288,7 +309,8 @@
         "01050",
         "11721",
         "11743"
-      ]
+      ],
+      "id": "huntington-public-library-ma"
     },
     {
       "name": "LEVERETT LIBRARY",
@@ -299,7 +321,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01054"
-      ]
+      ],
+      "id": "leverett-library-ma"
     },
     {
       "name": "HUBBARD MEMORIAL LIBRARY",
@@ -315,7 +338,8 @@
         "01119",
         "01129",
         "01151"
-      ]
+      ],
+      "id": "hubbard-memorial-library-ma"
     },
     {
       "name": "MONSON FREE LIBRARY & READING ROOM",
@@ -327,7 +351,8 @@
       "zipcodes": [
         "01057",
         "01080"
-      ]
+      ],
+      "id": "monson-free-library-reading-room-ma"
     },
     {
       "name": "FORBES LIBRARY",
@@ -338,7 +363,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01060"
-      ]
+      ],
+      "id": "forbes-library-ma"
     },
     {
       "name": "FOBES MEMORIAL LIBRARY",
@@ -349,7 +375,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01068"
-      ]
+      ],
+      "id": "fobes-memorial-library-ma"
     },
     {
       "name": "PALMER PUBLIC LIBRARY",
@@ -366,7 +393,8 @@
         "50571",
         "99567",
         "99645"
-      ]
+      ],
+      "id": "palmer-public-library-ma"
     },
     {
       "name": "PELHAM LIBRARY",
@@ -377,7 +405,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01002"
-      ]
+      ],
+      "id": "pelham-library-ma"
     },
     {
       "name": "SHAW MEMORIAL LIBRARY",
@@ -388,7 +417,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01070"
-      ]
+      ],
+      "id": "shaw-memorial-library-ma"
     },
     {
       "name": "M. N. SPEAR MEMORIAL LIBRARY",
@@ -399,7 +429,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01072"
-      ]
+      ],
+      "id": "m-n-spear-memorial-library-ma"
     },
     {
       "name": "SOUTH HADLEY PUBLIC LIBRARY",
@@ -410,7 +441,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01075"
-      ]
+      ],
+      "id": "south-hadley-public-library-ma"
     },
     {
       "name": "EDWARDS PUBLIC LIBRARY",
@@ -425,7 +457,8 @@
         "76357",
         "76365",
         "76377"
-      ]
+      ],
+      "id": "edwards-public-library-ma"
     },
     {
       "name": "SOUTHWICK PUBLIC LIBRARY",
@@ -437,7 +470,8 @@
       "zipcodes": [
         "01030",
         "01077"
-      ]
+      ],
+      "id": "southwick-public-library-ma"
     },
     {
       "name": "TOLLAND PUBLIC LIBRARY",
@@ -449,7 +483,8 @@
       "zipcodes": [
         "01034",
         "06084"
-      ]
+      ],
+      "id": "tolland-public-library-ma"
     },
     {
       "name": "WALES PUBLIC LIBRARY",
@@ -460,7 +495,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01081"
-      ]
+      ],
+      "id": "wales-public-library-ma"
     },
     {
       "name": "YOUNG MEN'S LIBRARY ASSOCIATION",
@@ -471,7 +507,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01082"
-      ]
+      ],
+      "id": "young-mens-library-association-ma"
     },
     {
       "name": "WEST SPRINGFIELD PUBLIC LIBRARY",
@@ -487,7 +524,8 @@
         "01105",
         "01107",
         "01109"
-      ]
+      ],
+      "id": "west-springfield-public-library-ma"
     },
     {
       "name": "WESTFIELD ATHENAEUM",
@@ -498,7 +536,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01085"
-      ]
+      ],
+      "id": "westfield-athenaeum-ma"
     },
     {
       "name": "WESTHAMPTON PUBLIC LIBRARY",
@@ -510,7 +549,8 @@
       "zipcodes": [
         "01027",
         "01053"
-      ]
+      ],
+      "id": "westhampton-public-library-ma"
     },
     {
       "name": "S. WHITE DICKINSON MEMORIAL LIBRARY",
@@ -521,7 +561,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01093"
-      ]
+      ],
+      "id": "s-white-dickinson-memorial-library-ma"
     },
     {
       "name": "WILBRAHAM PUBLIC LIBRARY",
@@ -536,7 +577,8 @@
         "01128",
         "01129",
         "01151"
-      ]
+      ],
+      "id": "wilbraham-public-library-ma"
     },
     {
       "name": "MEEKINS PUBLIC LIBRARY",
@@ -550,7 +592,8 @@
         "01053",
         "01088",
         "01096"
-      ]
+      ],
+      "id": "meekins-public-library-ma"
     },
     {
       "name": "WORTHINGTON LIBRARY",
@@ -562,7 +605,8 @@
       "zipcodes": [
         "01084",
         "01098"
-      ]
+      ],
+      "id": "worthington-library-ma"
     },
     {
       "name": "GRACE HALL MEMORIAL LIBRARY",
@@ -574,7 +618,8 @@
       "zipcodes": [
         "01071",
         "01085"
-      ]
+      ],
+      "id": "grace-hall-memorial-library-ma"
     },
     {
       "name": "GILBERTVILLE PUBLIC LIBRARY",
@@ -585,7 +630,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01031"
-      ]
+      ],
+      "id": "gilbertville-public-library-ma"
     },
     {
       "name": "LILLY LIBRARY",
@@ -599,7 +645,8 @@
         "01053",
         "01062",
         "01088"
-      ]
+      ],
+      "id": "lilly-library-ma"
     },
     {
       "name": "WEST WARREN LIBRARY ASSOCIATION",
@@ -611,7 +658,8 @@
       "zipcodes": [
         "01083",
         "01092"
-      ]
+      ],
+      "id": "west-warren-library-association-ma"
     },
     {
       "name": "CHESTERFIELD PUBLIC LIBRARY",
@@ -628,7 +676,8 @@
         "03462",
         "03466",
         "03467"
-      ]
+      ],
+      "id": "chesterfield-public-library-ma"
     },
     {
       "name": "MERRIAM-GILBERT PUBLIC LIBRARY",
@@ -640,7 +689,8 @@
       "zipcodes": [
         "01083",
         "01585"
-      ]
+      ],
+      "id": "merriam-gilbert-public-library-ma"
     },
     {
       "name": "MONTEREY LIBRARY",
@@ -653,7 +703,8 @@
         "01029",
         "01245",
         "01259"
-      ]
+      ],
+      "id": "monterey-library-ma"
     },
     {
       "name": "OTIS LIBRARY AND MUSEUM",
@@ -665,7 +716,8 @@
       "zipcodes": [
         "01029",
         "01253"
-      ]
+      ],
+      "id": "otis-library-and-museum-ma"
     },
     {
       "name": "SANDISFIELD PUBLIC LIBRARY",
@@ -677,7 +729,8 @@
       "zipcodes": [
         "01029",
         "01255"
-      ]
+      ],
+      "id": "sandisfield-public-library-ma"
     }
   ]
 }

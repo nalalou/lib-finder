@@ -15,7 +15,8 @@
         "55312",
         "55350",
         "55396"
-      ]
+      ],
+      "id": "winthrop-public-library-mn-2"
     },
     {
       "name": "INDEPENDENCE PUBLIC LIBRARY",
@@ -39,7 +40,8 @@
         "97338",
         "97351",
         "97371"
-      ]
+      ],
+      "id": "independence-public-library-or-2"
     },
     {
       "name": "TOLEDO PUBLIC LIBRARY",
@@ -56,7 +58,8 @@
         "97366",
         "97376",
         "97391"
-      ]
+      ],
+      "id": "toledo-public-library-or-2"
     },
     {
       "name": "CEDAR RAPIDS PUBLIC LIBRARY",
@@ -76,7 +79,8 @@
         "52411",
         "68627",
         "68655"
-      ]
+      ],
+      "id": "cedar-rapids-public-library-ia"
     },
     {
       "name": "MARION PUBLIC LIBRARY",
@@ -107,7 +111,8 @@
         "52411",
         "54933",
         "54950"
-      ]
+      ],
+      "id": "marion-public-library-wi-4"
     },
     {
       "name": "OXFORD PUBLIC LIBRARY",
@@ -141,7 +146,8 @@
         "67119",
         "68936",
         "68967"
-      ]
+      ],
+      "id": "oxford-public-library-al-7"
     },
     {
       "name": "SIGOURNEY PUBLIC LIBRARY",
@@ -156,7 +162,8 @@
         "52550",
         "52576",
         "52591"
-      ]
+      ],
+      "id": "sigourney-public-library-ia-2"
     },
     {
       "name": "CHELSEA PUBLIC LIBRARY",
@@ -198,7 +205,8 @@
         "52215",
         "52348",
         "74016"
-      ]
+      ],
+      "id": "chelsea-public-library-ma-6"
     },
     {
       "name": "KALONA PUBLIC LIBRARY",
@@ -210,7 +218,8 @@
       "zipcodes": [
         "52247",
         "52327"
-      ]
+      ],
+      "id": "kalona-public-library-ia-2"
     },
     {
       "name": "GARRISON PUBLIC LIBRARY",
@@ -224,7 +233,8 @@
         "52313",
         "58540",
         "58775"
-      ]
+      ],
+      "id": "garrison-public-library-ia-2"
     },
     {
       "name": "ELBERON PUBLIC LIBRARY",
@@ -237,7 +247,8 @@
         "52215",
         "52225",
         "52348"
-      ]
+      ],
+      "id": "elberon-public-library-ia-2"
     },
     {
       "name": "BLAIRSTOWN PUBLIC LIBRARY",
@@ -250,7 +261,8 @@
         "52209",
         "52257",
         "52354"
-      ]
+      ],
+      "id": "blairstown-public-library-ia-2"
     },
     {
       "name": "ANDERSEN CENTER POINT PUBLIC LIBRARY",
@@ -265,7 +277,8 @@
         "52324",
         "52341",
         "52352"
-      ]
+      ],
+      "id": "andersen-center-point-public-library-ia-2"
     },
     {
       "name": "HIAWATHA PUBLIC LIBRARY",
@@ -284,7 +297,8 @@
         "52402",
         "52405",
         "52411"
-      ]
+      ],
+      "id": "hiawatha-public-library-ia-2"
     },
     {
       "name": "CLUTIER PUBLIC LIBRARY",
@@ -296,7 +310,8 @@
       "zipcodes": [
         "52217",
         "52348"
-      ]
+      ],
+      "id": "clutier-public-library-ia-2"
     },
     {
       "name": "ATKINS PUBLIC LIBRARY",
@@ -308,7 +323,8 @@
       "zipcodes": [
         "52206",
         "52351"
-      ]
+      ],
+      "id": "atkins-public-library-ia-2"
     },
     {
       "name": "MANCHESTER PUBLIC LIBRARY",
@@ -323,7 +339,8 @@
         "52038",
         "52057",
         "52330"
-      ]
+      ],
+      "id": "manchester-public-library-ct-4"
     },
     {
       "name": "WHAT CHEER PUBLIC LIBRARY",
@@ -338,7 +355,8 @@
         "50268",
         "52355",
         "52550"
-      ]
+      ],
+      "id": "what-cheer-public-library-ia-3"
     },
     {
       "name": "SOLON PUBLIC LIBRARY",
@@ -349,7 +367,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52333"
-      ]
+      ],
+      "id": "solon-public-library-ia"
     },
     {
       "name": "MARENGO PUBLIC LIBRARY",
@@ -365,7 +384,8 @@
         "52301",
         "52307",
         "52334"
-      ]
+      ],
+      "id": "marengo-public-library-ia-2"
     },
     {
       "name": "NORTH ENGLISH PUBLIC LIBRARY",
@@ -377,7 +397,8 @@
       "zipcodes": [
         "52316",
         "52325"
-      ]
+      ],
+      "id": "north-english-public-library-ia"
     },
     {
       "name": "WILLIAMSBURG PUBLIC LIBRARY",
@@ -393,7 +414,8 @@
         "52325",
         "52334",
         "52361"
-      ]
+      ],
+      "id": "williamsburg-public-library-ia-3"
     },
     {
       "name": "WASHINGTON FREE PUBLIC LIBRARY",
@@ -408,7 +430,8 @@
         "52359",
         "52540",
         "52621"
-      ]
+      ],
+      "id": "washington-free-public-library-ia-2"
     },
     {
       "name": "WELLMAN-SCOFIELD PUBLIC LIBRARY",
@@ -420,7 +443,8 @@
       "zipcodes": [
         "52356",
         "52359"
-      ]
+      ],
+      "id": "wellman-scofield-public-library-ia"
     },
     {
       "name": "NORTH LIBERTY COMMUNITY LIBRARY",
@@ -434,7 +458,8 @@
         "52245",
         "52317",
         "52322"
-      ]
+      ],
+      "id": "north-liberty-community-library-ia-2"
     },
     {
       "name": "NEWHALL PUBLIC LIBRARY",
@@ -446,7 +471,8 @@
       "zipcodes": [
         "52315",
         "52354"
-      ]
+      ],
+      "id": "newhall-public-library-ia"
     },
     {
       "name": "MARTELLE COMMUNITY LIBRARY AND HISTORICAL MUSEUM",
@@ -457,7 +483,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52305"
-      ]
+      ],
+      "id": "martelle-community-library-and-historical-museum-ia"
     },
     {
       "name": "NORWAY PUBLIC LIBRARY",
@@ -470,7 +497,8 @@
         "52318",
         "52351",
         "52354"
-      ]
+      ],
+      "id": "norway-public-library-ia"
     },
     {
       "name": "SOUTH ENGLISH PUBLIC LIBRARY",
@@ -483,7 +511,8 @@
         "52231",
         "52335",
         "52355"
-      ]
+      ],
+      "id": "south-english-public-library-ia-2"
     },
     {
       "name": "VAN HORNE PUBLIC LIBRARY",
@@ -494,7 +523,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52346"
-      ]
+      ],
+      "id": "van-horne-public-library-ia"
     },
     {
       "name": "VINTON PUBLIC LIBRARY",
@@ -506,7 +536,8 @@
       "zipcodes": [
         "52313",
         "52349"
-      ]
+      ],
+      "id": "vinton-public-library-ia"
     },
     {
       "name": "LOUISE & LUCILE HINK/TAMA PUBLIC LIBRARY",
@@ -520,7 +551,8 @@
         "52215",
         "52339",
         "52342"
-      ]
+      ],
+      "id": "louise-lucile-hinktama-public-library-ia-3"
     },
     {
       "name": "SPRINGVILLE MEMORIAL LIBRARY",
@@ -532,7 +564,8 @@
       "zipcodes": [
         "52302",
         "52336"
-      ]
+      ],
+      "id": "springville-memorial-library-ia"
     },
     {
       "name": "WEST BRANCH PUBLIC LIBRARY",
@@ -543,7 +576,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52358"
-      ]
+      ],
+      "id": "west-branch-public-library-ia"
     },
     {
       "name": "SHELLSBURG PUBLIC LIBRARY",
@@ -554,7 +588,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52332"
-      ]
+      ],
+      "id": "shellsburg-public-library-ia"
     },
     {
       "name": "ROSS & ELIZABETH BATY MONTICELLO PUBLIC LIBRARY",
@@ -565,7 +600,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52310"
-      ]
+      ],
+      "id": "ross-elizabeth-baty-monticello-public-library-ia"
     },
     {
       "name": "MORLEY PUBLIC LIBRARY",
@@ -576,7 +612,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52312"
-      ]
+      ],
+      "id": "morley-public-library-ia"
     },
     {
       "name": "OLIN PUBLIC LIBRARY",
@@ -588,7 +625,8 @@
       "zipcodes": [
         "52212",
         "52320"
-      ]
+      ],
+      "id": "olin-public-library-ia-2"
     },
     {
       "name": "WREGIE MEMORIAL LIBRARY",
@@ -599,7 +637,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52323"
-      ]
+      ],
+      "id": "wregie-memorial-library-ia"
     },
     {
       "name": "WYOMING PUBLIC LIBRARY",
@@ -612,7 +651,8 @@
         "52212",
         "52321",
         "52362"
-      ]
+      ],
+      "id": "wyoming-public-library-ia-2"
     },
     {
       "name": "MECHANICSVILLE PUBLIC LIBRARY",
@@ -623,7 +663,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52306"
-      ]
+      ],
+      "id": "mechanicsville-public-library-ia"
     },
     {
       "name": "STANWOOD PUBLIC LIBRARY",
@@ -634,7 +675,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52337"
-      ]
+      ],
+      "id": "stanwood-public-library-ia"
     },
     {
       "name": "VICTOR PUBLIC LIBRARY",
@@ -646,7 +688,8 @@
       "zipcodes": [
         "52251",
         "52347"
-      ]
+      ],
+      "id": "victor-public-library-ia-2"
     },
     {
       "name": "RUSSELL D. COLE LIBRARY",
@@ -657,7 +700,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52314"
-      ]
+      ],
+      "id": "russell-d-cole-library-ia"
     },
     {
       "name": "SPRINGMIER COMMUNITY LIBRARY",
@@ -670,7 +714,8 @@
         "52246",
         "52322",
         "52340"
-      ]
+      ],
+      "id": "springmier-community-library-ia-2"
     },
     {
       "name": "SWISHER COMMUNITY LIBRARY",
@@ -681,7 +726,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52338"
-      ]
+      ],
+      "id": "swisher-community-library-ia"
     },
     {
       "name": "MILLERSBURG COMMUNITY LIBRARY",
@@ -693,7 +739,8 @@
       "zipcodes": [
         "52251",
         "52308"
-      ]
+      ],
+      "id": "millersburg-community-library-ia-2"
     },
     {
       "name": "URBANA PUBLIC LIBRARY",
@@ -704,7 +751,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52345"
-      ]
+      ],
+      "id": "urbana-public-library-ia"
     },
     {
       "name": "MAQUOKETA PUBLIC LIBRARY",
@@ -718,7 +766,8 @@
         "52060",
         "52207",
         "52309"
-      ]
+      ],
+      "id": "maquoketa-public-library-ia-3"
     },
     {
       "name": "GARWIN PUBLIC LIBRARY",
@@ -731,7 +780,8 @@
         "50173",
         "50632",
         "52342"
-      ]
+      ],
+      "id": "garwin-public-library-ia-3"
     }
   ]
 }

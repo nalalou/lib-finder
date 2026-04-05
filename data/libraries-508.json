@@ -21,7 +21,8 @@
         "53228",
         "62044",
         "62081"
-      ]
+      ],
+      "id": "greenfield-public-library-wi-2"
     },
     {
       "name": "BEDFORD PUBLIC LIBRARY",
@@ -52,7 +53,8 @@
         "76040",
         "76054",
         "76155"
-      ]
+      ],
+      "id": "bedford-public-library-nh-3"
     },
     {
       "name": "MATILDA J. GIBSON MEMORIAL LIBRARY",
@@ -67,7 +69,8 @@
         "50801",
         "50830",
         "50861"
-      ]
+      ],
+      "id": "matilda-j-gibson-memorial-library-ia-3"
     },
     {
       "name": "MOUNT AYR PUBLIC LIBRARY",
@@ -84,7 +87,8 @@
         "50854",
         "50860",
         "50863"
-      ]
+      ],
+      "id": "mount-ayr-public-library-ia-3"
     },
     {
       "name": "LENOX PUBLIC LIBRARY",
@@ -96,7 +100,8 @@
       "zipcodes": [
         "50851",
         "50862"
-      ]
+      ],
+      "id": "lenox-public-library-ia"
     },
     {
       "name": "CORNING PUBLIC LIBRARY",
@@ -108,7 +113,8 @@
       "zipcodes": [
         "50841",
         "50857"
-      ]
+      ],
+      "id": "corning-public-library-ia"
     },
     {
       "name": "PRESCOTT PUBLIC LIBRARY",
@@ -126,7 +132,8 @@
         "86321",
         "86332",
         "86343"
-      ]
+      ],
+      "id": "prescott-public-library-ia"
     },
     {
       "name": "FONTANELLE PUBLIC LIBRARY",
@@ -139,7 +146,8 @@
         "50837",
         "50846",
         "50849"
-      ]
+      ],
+      "id": "fontanelle-public-library-ia"
     },
     {
       "name": "VILLISCA PUBLIC LIBRARY",
@@ -150,7 +158,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "50864"
-      ]
+      ],
+      "id": "villisca-public-library-ia"
     },
     {
       "name": "CUMBERLAND PUBLIC LIBRARY",
@@ -166,7 +175,8 @@
         "02865",
         "50274",
         "50843"
-      ]
+      ],
+      "id": "cumberland-public-library-ia-3"
     },
     {
       "name": "MASSENA PUBLIC LIBRARY",
@@ -180,7 +190,8 @@
         "13613",
         "13662",
         "50853"
-      ]
+      ],
+      "id": "massena-public-library-ia-3"
     },
     {
       "name": "CLEARFIELD PUBLIC LIBRARY",
@@ -193,7 +204,8 @@
         "50836",
         "50840",
         "50862"
-      ]
+      ],
+      "id": "clearfield-public-library-ia"
     },
     {
       "name": "PUBLIC RESOURCE/TECHNOLOGY CENTER",
@@ -205,7 +217,8 @@
       "zipcodes": [
         "50849",
         "50858"
-      ]
+      ],
+      "id": "public-resourcetechnology-center-ia"
     },
     {
       "name": "ELLIOTT PUBLIC LIBRARY",
@@ -217,7 +230,8 @@
       "zipcodes": [
         "50847",
         "51532"
-      ]
+      ],
+      "id": "elliott-public-library-ia"
     },
     {
       "name": "NEW MARKET PUBLIC LIBRARY",
@@ -229,7 +243,8 @@
       "zipcodes": [
         "50848",
         "51646"
-      ]
+      ],
+      "id": "new-market-public-library-ia"
     }
   ]
 }

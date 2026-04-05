@@ -12,7 +12,8 @@
         "01225",
         "06410",
         "06450"
-      ]
+      ],
+      "id": "cheshire-public-library-ct"
     },
     {
       "name": "ADAMS FREE LIBRARY",
@@ -27,7 +28,8 @@
         "13605",
         "13659",
         "13682"
-      ]
+      ],
+      "id": "adams-free-library-ny"
     },
     {
       "name": "ALFORD FREE PUBLIC LIBRARY",
@@ -39,7 +41,8 @@
       "zipcodes": [
         "01230",
         "01236"
-      ]
+      ],
+      "id": "alford-free-public-library-ma"
     },
     {
       "name": "BECKET ATHENAEUM, INC.",
@@ -50,7 +53,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01223"
-      ]
+      ],
+      "id": "becket-athenaeum-inc-ma"
     },
     {
       "name": "CLARKSBURG TOWN LIBRARY",
@@ -61,7 +65,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01247"
-      ]
+      ],
+      "id": "clarksburg-town-library-ma"
     },
     {
       "name": "DALTON FREE PUBLIC LIBRARY",
@@ -72,7 +77,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01226"
-      ]
+      ],
+      "id": "dalton-free-public-library-ma"
     },
     {
       "name": "EGREMONT FREE LIBRARY",
@@ -83,7 +89,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01258"
-      ]
+      ],
+      "id": "egremont-free-library-ma"
     },
     {
       "name": "MASON LIBRARY",
@@ -94,7 +101,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01230"
-      ]
+      ],
+      "id": "mason-library-ma"
     },
     {
       "name": "TAYLOR MEMORIAL LIBRARY",
@@ -108,7 +116,8 @@
         "54635",
         "54642",
         "54659"
-      ]
+      ],
+      "id": "taylor-memorial-library-ma"
     },
     {
       "name": "LANESBOROUGH PUBLIC LIBRARY",
@@ -120,7 +129,8 @@
       "zipcodes": [
         "01225",
         "01237"
-      ]
+      ],
+      "id": "lanesborough-public-library-ma"
     },
     {
       "name": "LEE LIBRARY ASSOCIATION",
@@ -132,7 +142,8 @@
       "zipcodes": [
         "01238",
         "01242"
-      ]
+      ],
+      "id": "lee-library-association-ma"
     },
     {
       "name": "LENOX LIBRARY",
@@ -144,7 +155,8 @@
       "zipcodes": [
         "01240",
         "01242"
-      ]
+      ],
+      "id": "lenox-library-ma"
     },
     {
       "name": "MIDDLEFIELD PUBLIC LIBRARY",
@@ -155,7 +167,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01243"
-      ]
+      ],
+      "id": "middlefield-public-library-ma"
     },
     {
       "name": "MONTEREY LIBRARY",
@@ -168,7 +181,8 @@
         "01029",
         "01245",
         "01259"
-      ]
+      ],
+      "id": "monterey-library-ma-2"
     },
     {
       "name": "MOUNT WASHINGTON PUBLIC LIBRARY",
@@ -180,7 +194,8 @@
       "zipcodes": [
         "01222",
         "01258"
-      ]
+      ],
+      "id": "mount-washington-public-library-ma"
     },
     {
       "name": "NEW MARLBOROUGH TOWN LIBRARY",
@@ -193,7 +208,8 @@
         "01222",
         "01244",
         "01259"
-      ]
+      ],
+      "id": "new-marlborough-town-library-ma"
     },
     {
       "name": "NORTH ADAMS PUBLIC LIBRARY",
@@ -205,7 +221,8 @@
       "zipcodes": [
         "01220",
         "01247"
-      ]
+      ],
+      "id": "north-adams-public-library-ma"
     },
     {
       "name": "OTIS LIBRARY AND MUSEUM",
@@ -217,7 +234,8 @@
       "zipcodes": [
         "01029",
         "01253"
-      ]
+      ],
+      "id": "otis-library-and-museum-ma-2"
     },
     {
       "name": "PERU LIBRARY",
@@ -228,7 +246,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01235"
-      ]
+      ],
+      "id": "peru-library-ma"
     },
     {
       "name": "BERKSHIRE ATHENAEUM",
@@ -239,7 +258,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01201"
-      ]
+      ],
+      "id": "berkshire-athenaeum-ma"
     },
     {
       "name": "RICHMOND FREE PUBLIC LIBRARY",
@@ -250,7 +270,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01254"
-      ]
+      ],
+      "id": "richmond-free-public-library-ma"
     },
     {
       "name": "SANDISFIELD PUBLIC LIBRARY",
@@ -262,7 +283,8 @@
       "zipcodes": [
         "01029",
         "01255"
-      ]
+      ],
+      "id": "sandisfield-public-library-ma-2"
     },
     {
       "name": "SAVOY HOLLOW LIBRARY",
@@ -273,7 +295,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01256"
-      ]
+      ],
+      "id": "savoy-hollow-library-ma"
     },
     {
       "name": "BUSHNELL-SAGE LIBRARY",
@@ -286,7 +309,8 @@
         "01222",
         "01257",
         "01259"
-      ]
+      ],
+      "id": "bushnell-sage-library-ma"
     },
     {
       "name": "STOCKBRIDGE LIBRARY ASSOCIATION",
@@ -299,7 +323,8 @@
         "01236",
         "01242",
         "01262"
-      ]
+      ],
+      "id": "stockbridge-library-association-ma"
     },
     {
       "name": "TYRINGHAM FREE PUBLIC LIBRARY",
@@ -310,7 +335,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01264"
-      ]
+      ],
+      "id": "tyringham-free-public-library-ma"
     },
     {
       "name": "WEST STOCKBRIDGE PUBLIC LIBRARY",
@@ -322,7 +348,8 @@
       "zipcodes": [
         "01236",
         "01266"
-      ]
+      ],
+      "id": "west-stockbridge-public-library-ma"
     },
     {
       "name": "DAVID & JOYCE MILNE PUBLIC LIBRARY",
@@ -333,7 +360,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "01267"
-      ]
+      ],
+      "id": "david-joyce-milne-public-library-ma"
     },
     {
       "name": "WINDSOR FREE PUBLIC LIBRARY",
@@ -344,7 +372,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01270"
-      ]
+      ],
+      "id": "windsor-free-public-library-ma"
     }
   ]
 }

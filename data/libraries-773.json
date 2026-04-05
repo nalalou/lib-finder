@@ -19,7 +19,8 @@
         "77340",
         "77367",
         "77876"
-      ]
+      ],
+      "id": "huntsville-public-library-tx-3"
     },
     {
       "name": "LIVINGSTON MUNICIPAL LIBRARY",
@@ -32,7 +33,8 @@
         "77326",
         "77335",
         "77351"
-      ]
+      ],
+      "id": "livingston-municipal-library-tx"
     },
     {
       "name": "SHEPHERD PUBLIC LIBRARY",
@@ -43,7 +45,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "77371"
-      ]
+      ],
+      "id": "shepherd-public-library-tx"
     },
     {
       "name": "COLDSPRING AREA PUBLIC LIBRARY INC",
@@ -56,7 +59,8 @@
         "77331",
         "77359",
         "77364"
-      ]
+      ],
+      "id": "coldspring-area-public-library-inc-tx"
     },
     {
       "name": "AUSTIN MEMORIAL LIBRARY",
@@ -67,7 +71,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "77327"
-      ]
+      ],
+      "id": "austin-memorial-library-tx"
     },
     {
       "name": "MONTGOMERY COUNTY MEMORIAL LIBRARY SYSTEM",
@@ -98,7 +103,8 @@
         "77384",
         "77385",
         "77386"
-      ]
+      ],
+      "id": "montgomery-county-memorial-library-system-tx"
     },
     {
       "name": "NEW WAVERLY PUBLIC LIBRARY",
@@ -109,7 +115,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "77358"
-      ]
+      ],
+      "id": "new-waverly-public-library-tx"
     },
     {
       "name": "ONALASKA PUBLIC LIBRARY",
@@ -120,7 +127,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "77360"
-      ]
+      ],
+      "id": "onalaska-public-library-tx"
     },
     {
       "name": "TARKINGTON COMMUNITY LIBRARY",
@@ -133,7 +141,8 @@
         "77327",
         "77368",
         "77369"
-      ]
+      ],
+      "id": "tarkington-community-library-tx"
     },
     {
       "name": "HOUSTON PUBLIC LIBRARY",
@@ -217,7 +226,8 @@
         "77388",
         "77389",
         "77396"
-      ]
+      ],
+      "id": "houston-public-library-mn-3"
     },
     {
       "name": "NAVASOTA PUBLIC LIBRARY",
@@ -230,7 +240,8 @@
         "77363",
         "77830",
         "77868"
-      ]
+      ],
+      "id": "navasota-public-library-tx"
     },
     {
       "name": "STERLING MUNICIPAL LIBRARY",
@@ -248,7 +259,8 @@
         "77532",
         "77562",
         "77571"
-      ]
+      ],
+      "id": "sterling-municipal-library-tx"
     },
     {
       "name": "KOUNTZE PUBLIC LIBRARY",
@@ -262,7 +274,8 @@
         "77376",
         "77625",
         "77663"
-      ]
+      ],
+      "id": "kountze-public-library-tx"
     }
   ]
 }

@@ -23,7 +23,8 @@
         "48915",
         "49251",
         "49285"
-      ]
+      ],
+      "id": "east-lansing-public-library-mi-2"
     },
     {
       "name": "CAPITAL AREA DISTRICT LIBRARY",
@@ -43,7 +44,8 @@
         "48915",
         "48933",
         "49264"
-      ]
+      ],
+      "id": "capital-area-district-library-mi-2"
     },
     {
       "name": "DELTA TOWNSHIP DISTRICT LIBRARY",
@@ -54,7 +56,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "48917"
-      ]
+      ],
+      "id": "delta-township-district-library-mi"
     }
   ]
 }

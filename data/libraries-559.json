@@ -39,7 +39,8 @@
         "78756",
         "78757",
         "78758"
-      ]
+      ],
+      "id": "austin-public-library-tx"
     },
     {
       "name": "CALEDONIA PUBLIC LIBRARY",
@@ -52,7 +53,8 @@
         "55919",
         "55921",
         "55931"
-      ]
+      ],
+      "id": "caledonia-public-library-mn"
     },
     {
       "name": "CHATFIELD PUBLIC LIBRARY",
@@ -65,7 +67,8 @@
         "55923",
         "55935",
         "55990"
-      ]
+      ],
+      "id": "chatfield-public-library-mn"
     },
     {
       "name": "DODGE CENTER PUBLIC LIBRARY",
@@ -79,7 +82,8 @@
         "55927",
         "55940",
         "55955"
-      ]
+      ],
+      "id": "dodge-center-public-library-mn"
     },
     {
       "name": "HARMONY PUBLIC LIBRARY",
@@ -91,7 +95,8 @@
       "zipcodes": [
         "55922",
         "55939"
-      ]
+      ],
+      "id": "harmony-public-library-mn"
     },
     {
       "name": "HOKAH PUBLIC LIBRARY",
@@ -103,7 +108,8 @@
       "zipcodes": [
         "55919",
         "55941"
-      ]
+      ],
+      "id": "hokah-public-library-mn"
     },
     {
       "name": "KASSON PUBLIC LIBRARY",
@@ -116,7 +122,8 @@
         "55940",
         "55944",
         "55955"
-      ]
+      ],
+      "id": "kasson-public-library-mn"
     },
     {
       "name": "KENYON PUBLIC LIBRARY",
@@ -128,7 +135,8 @@
       "zipcodes": [
         "55946",
         "55983"
-      ]
+      ],
+      "id": "kenyon-public-library-mn"
     },
     {
       "name": "LA CRESCENT PUBLIC LIBRARY",
@@ -139,7 +147,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "55947"
-      ]
+      ],
+      "id": "la-crescent-public-library-mn"
     },
     {
       "name": "LANESBORO PUBLIC LIBRARY",
@@ -152,7 +161,8 @@
         "55935",
         "55949",
         "55962"
-      ]
+      ],
+      "id": "lanesboro-public-library-mn"
     },
     {
       "name": "MABEL PUBLIC LIBRARY",
@@ -164,7 +174,8 @@
       "zipcodes": [
         "55922",
         "55954"
-      ]
+      ],
+      "id": "mabel-public-library-mn"
     },
     {
       "name": "PINE ISLAND: VAN HORN PUBLIC LIBRARY",
@@ -175,7 +186,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "55963"
-      ]
+      ],
+      "id": "pine-island-van-horn-public-library-mn"
     },
     {
       "name": "PLAINVIEW PUBLIC LIBRARY",
@@ -191,7 +203,8 @@
         "55964",
         "55991",
         "68769"
-      ]
+      ],
+      "id": "plainview-public-library-mn"
     },
     {
       "name": "PRESTON PUBLIC LIBRARY",
@@ -209,7 +222,8 @@
         "55935",
         "55965",
         "55990"
-      ]
+      ],
+      "id": "preston-public-library-mn-3"
     },
     {
       "name": "ROCHESTER PUBLIC LIBRARY",
@@ -255,7 +269,8 @@
         "55929",
         "55934",
         "55960"
-      ]
+      ],
+      "id": "rochester-public-library-mn-6"
     },
     {
       "name": "RUSHFORD PUBLIC LIBRARY",
@@ -267,7 +282,8 @@
       "zipcodes": [
         "55962",
         "55971"
-      ]
+      ],
+      "id": "rushford-public-library-mn"
     },
     {
       "name": "ST. CHARLES PUBLIC LIBRARY",
@@ -286,7 +302,8 @@
         "55952",
         "55972",
         "55979"
-      ]
+      ],
+      "id": "st-charles-public-library-mn-3"
     },
     {
       "name": "SPRING VALLEY PUBLIC LIBRARY",
@@ -301,7 +318,8 @@
         "55961",
         "55975",
         "55990"
-      ]
+      ],
+      "id": "spring-valley-public-library-mn-2"
     },
     {
       "name": "STEWARTVILLE PUBLIC LIBRARY",
@@ -313,7 +331,8 @@
       "zipcodes": [
         "55902",
         "55976"
-      ]
+      ],
+      "id": "stewartville-public-library-mn"
     },
     {
       "name": "WABASHA PUBLIC LIBRARY",
@@ -325,7 +344,8 @@
       "zipcodes": [
         "55945",
         "55981"
-      ]
+      ],
+      "id": "wabasha-public-library-mn"
     },
     {
       "name": "WEST CONCORD PUBLIC LIBRARY",
@@ -337,7 +357,8 @@
       "zipcodes": [
         "55955",
         "55985"
-      ]
+      ],
+      "id": "west-concord-public-library-mn"
     },
     {
       "name": "WINONA PUBLIC LIBRARY",
@@ -351,7 +372,8 @@
         "55959",
         "55969",
         "55987"
-      ]
+      ],
+      "id": "winona-public-library-mn"
     },
     {
       "name": "ZUMBROTA PUBLIC LIBRARY",
@@ -364,7 +386,8 @@
         "55027",
         "55983",
         "55992"
-      ]
+      ],
+      "id": "zumbrota-public-library-mn-2"
     },
     {
       "name": "BROWNSDALE PUBLIC LIBRARY",
@@ -380,7 +403,8 @@
         "55950",
         "55973",
         "55982"
-      ]
+      ],
+      "id": "brownsdale-public-library-mn"
     },
     {
       "name": "GRAND MEADOW PUBLIC LIBRARY",
@@ -394,7 +418,8 @@
         "55933",
         "55936",
         "55967"
-      ]
+      ],
+      "id": "grand-meadow-public-library-mn"
     },
     {
       "name": "LEROY PUBLIC LIBRARY",
@@ -407,7 +432,8 @@
         "55909",
         "55951",
         "55977"
-      ]
+      ],
+      "id": "leroy-public-library-mn"
     },
     {
       "name": "SPRING GROVE PUBLIC LIBRARY",
@@ -418,7 +444,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "55974"
-      ]
+      ],
+      "id": "spring-grove-public-library-mn"
     },
     {
       "name": "HOUSTON PUBLIC LIBRARY",
@@ -502,7 +529,8 @@
         "77388",
         "77389",
         "77396"
-      ]
+      ],
+      "id": "houston-public-library-mn"
     },
     {
       "name": "LAKE CITY PUBLIC LIBRARY",
@@ -515,7 +543,8 @@
         "51449",
         "55041",
         "55956"
-      ]
+      ],
+      "id": "lake-city-public-library-ia-3"
     },
     {
       "name": "OWATONNA-STEELE COUNTY LIBRARY",
@@ -529,7 +558,8 @@
         "55060",
         "55917",
         "56026"
-      ]
+      ],
+      "id": "owatonna-steele-county-library-mn-2"
     }
   ]
 }

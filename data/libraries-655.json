@@ -15,7 +15,8 @@
         "65764",
         "65767",
         "65783"
-      ]
+      ],
+      "id": "dallas-county-library-mo"
     },
     {
       "name": "SALEM PUBLIC LIBRARY",
@@ -44,7 +45,8 @@
         "97303",
         "97305",
         "97306"
-      ]
+      ],
+      "id": "salem-public-library-or-7"
     },
     {
       "name": "OZARK REGIONAL LIBRARY",
@@ -65,7 +67,8 @@
         "63675",
         "65439",
         "65566"
-      ]
+      ],
+      "id": "ozark-regional-library-mo-3"
     },
     {
       "name": "CAMDEN COUNTY LIBRARY",
@@ -95,7 +98,8 @@
         "65591",
         "65786",
         "65787"
-      ]
+      ],
+      "id": "camden-county-library-mo-4"
     },
     {
       "name": "ROLLA PUBLIC LIBRARY",
@@ -113,7 +117,8 @@
         "65462",
         "65529",
         "65550"
-      ]
+      ],
+      "id": "rolla-public-library-nd-3"
     },
     {
       "name": "MOUNTAIN VIEW PUBLIC LIBRARY",
@@ -137,7 +142,8 @@
         "94306",
         "95002",
         "95014"
-      ]
+      ],
+      "id": "mountain-view-public-library-ca-2"
     },
     {
       "name": "CARTER COUNTY LIBRARY",
@@ -153,7 +159,8 @@
         "63965",
         "65466",
         "65588"
-      ]
+      ],
+      "id": "carter-county-library-mo-3"
     },
     {
       "name": "TEXAS COUNTY LIBRARY",
@@ -178,7 +185,8 @@
         "65571",
         "65589",
         "65689"
-      ]
+      ],
+      "id": "texas-county-library-mo-2"
     },
     {
       "name": "CRAWFORD COUNTY LIBRARY",
@@ -197,7 +205,8 @@
         "65456",
         "65535",
         "65565"
-      ]
+      ],
+      "id": "crawford-county-library-mi-3"
     },
     {
       "name": "JAMES MEMORIAL LIBRARY",
@@ -209,7 +218,8 @@
       "zipcodes": [
         "65066",
         "65559"
-      ]
+      ],
+      "id": "james-memorial-library-mo-2"
     },
     {
       "name": "HEARTLAND REGIONAL LIBRARY SYSTEM",
@@ -231,7 +241,8 @@
         "65443",
         "65580",
         "65582"
-      ]
+      ],
+      "id": "heartland-regional-library-system-mo-3"
     },
     {
       "name": "LEBANON-LACLEDE COUNTY LIBRARY",
@@ -247,7 +258,8 @@
         "65543",
         "65632",
         "65722"
-      ]
+      ],
+      "id": "lebanon-laclede-county-library-mo-2"
     },
     {
       "name": "PULASKI COUNTY LIBRARY",
@@ -266,7 +278,8 @@
         "65534",
         "65556",
         "65583"
-      ]
+      ],
+      "id": "pulaski-county-library-mo-2"
     }
   ]
 }

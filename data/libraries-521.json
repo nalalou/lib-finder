@@ -15,7 +15,8 @@
         "13480",
         "52170",
         "66548"
-      ]
+      ],
+      "id": "waterville-public-library-ny-4"
     },
     {
       "name": "ELGIN PUBLIC LIBRARY",
@@ -37,7 +38,8 @@
         "97827",
         "97841",
         "97876"
-      ]
+      ],
+      "id": "elgin-public-library-tx"
     },
     {
       "name": "FARMERSBURG PUBLIC LIBRARY",
@@ -50,7 +52,8 @@
         "52047",
         "52072",
         "52156"
-      ]
+      ],
+      "id": "farmersburg-public-library-ia-2"
     },
     {
       "name": "LAWLER PUBLIC LIBRARY",
@@ -61,7 +64,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52154"
-      ]
+      ],
+      "id": "lawler-public-library-ia"
     },
     {
       "name": "MCGREGOR PUBLIC LIBRARY",
@@ -73,7 +77,8 @@
       "zipcodes": [
         "52157",
         "52158"
-      ]
+      ],
+      "id": "mcgregor-public-library-ia"
     },
     {
       "name": "MURPHY HELWIG LIBRARY",
@@ -85,7 +90,8 @@
       "zipcodes": [
         "52156",
         "52159"
-      ]
+      ],
+      "id": "murphy-helwig-library-ia"
     },
     {
       "name": "NEW ALBIN PUBLIC LIBRARY",
@@ -96,7 +102,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52160"
-      ]
+      ],
+      "id": "new-albin-public-library-ia"
     },
     {
       "name": "WAUCOMA PUBLIC LIBRARY",
@@ -108,7 +115,8 @@
       "zipcodes": [
         "52166",
         "52171"
-      ]
+      ],
+      "id": "waucoma-public-library-ia"
     },
     {
       "name": "SPILLVILLE PUBLIC LIBRARY",
@@ -120,7 +128,8 @@
       "zipcodes": [
         "52165",
         "52168"
-      ]
+      ],
+      "id": "spillville-public-library-ia"
     },
     {
       "name": "POSTVILLE PUBLIC LIBRARY",
@@ -131,7 +140,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52162"
-      ]
+      ],
+      "id": "postville-public-library-ia"
     },
     {
       "name": "ROBEY MEMORIAL LIBRARY",
@@ -144,7 +154,8 @@
         "52140",
         "52170",
         "52172"
-      ]
+      ],
+      "id": "robey-memorial-library-ia"
     },
     {
       "name": "CLERMONT PUBLIC LIBRARY",
@@ -156,7 +167,8 @@
       "zipcodes": [
         "52135",
         "52141"
-      ]
+      ],
+      "id": "clermont-public-library-ia"
     },
     {
       "name": "FAYETTE COMMUNITY LIBRARY",
@@ -169,7 +181,8 @@
         "50606",
         "52142",
         "52164"
-      ]
+      ],
+      "id": "fayette-community-library-ia-2"
     },
     {
       "name": "HAWKEYE PUBLIC LIBRARY",
@@ -182,7 +195,8 @@
         "52147",
         "52164",
         "52166"
-      ]
+      ],
+      "id": "hawkeye-public-library-ia"
     },
     {
       "name": "WADENA PUBLIC LIBRARY",
@@ -195,7 +209,8 @@
         "50606",
         "52141",
         "52169"
-      ]
+      ],
+      "id": "wadena-public-library-ia-2"
     },
     {
       "name": "MEEHAN MEMORIAL LANSING PUBLIC LIBRARY",
@@ -206,7 +221,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52151"
-      ]
+      ],
+      "id": "meehan-memorial-lansing-public-library-ia"
     },
     {
       "name": "CRESCO PUBLIC LIBRARY",
@@ -218,7 +234,8 @@
       "zipcodes": [
         "52136",
         "52163"
-      ]
+      ],
+      "id": "cresco-public-library-ia"
     },
     {
       "name": "LIME SPRINGS PUBLIC LIBRARY",
@@ -230,7 +247,8 @@
       "zipcodes": [
         "52134",
         "52155"
-      ]
+      ],
+      "id": "lime-springs-public-library-ia"
     },
     {
       "name": "CALMAR PUBLIC LIBRARY",
@@ -241,7 +259,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52132"
-      ]
+      ],
+      "id": "calmar-public-library-ia"
     },
     {
       "name": "DECORAH PUBLIC LIBRARY",
@@ -252,7 +271,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52101"
-      ]
+      ],
+      "id": "decorah-public-library-ia"
     },
     {
       "name": "FORT ATKINSON PUBLIC LIBRARY",
@@ -263,7 +283,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52144"
-      ]
+      ],
+      "id": "fort-atkinson-public-library-ia"
     },
     {
       "name": "OSSIAN PUBLIC LIBRARY",
@@ -275,7 +296,8 @@
       "zipcodes": [
         "52133",
         "52161"
-      ]
+      ],
+      "id": "ossian-public-library-ia"
     },
     {
       "name": "WEST UNION COMMUNITY LIBRARY",
@@ -287,7 +309,8 @@
       "zipcodes": [
         "52166",
         "52175"
-      ]
+      ],
+      "id": "west-union-community-library-ia"
     },
     {
       "name": "DOLORES TILLINGHAST MEMORIAL LIBRARY",
@@ -299,7 +322,8 @@
       "zipcodes": [
         "52146",
         "52170"
-      ]
+      ],
+      "id": "dolores-tillinghast-memorial-library-ia"
     },
     {
       "name": "MAYNARD COMMUNITY LIBRARY",
@@ -311,7 +335,8 @@
       "zipcodes": [
         "50655",
         "52164"
-      ]
+      ],
+      "id": "maynard-community-library-ia-2"
     }
   ]
 }

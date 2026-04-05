@@ -11,7 +11,8 @@
         "07731",
         "08720",
         "08730"
-      ]
+      ],
+      "id": "brielle-public-library-nj-2"
     },
     {
       "name": "MANASQUAN PUBLIC LIBRARY",
@@ -24,7 +25,8 @@
         "07731",
         "08720",
         "08736"
-      ]
+      ],
+      "id": "manasquan-public-library-nj-2"
     },
     {
       "name": "OCEAN COUNTY LIBRARY",
@@ -59,7 +61,8 @@
         "08757",
         "08758",
         "08759"
-      ]
+      ],
+      "id": "ocean-county-library-nj-3"
     },
     {
       "name": "SEA GIRT LIBRARY",
@@ -71,7 +74,8 @@
       "zipcodes": [
         "08720",
         "08750"
-      ]
+      ],
+      "id": "sea-girt-library-nj"
     }
   ]
 }

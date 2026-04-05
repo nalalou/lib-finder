@@ -38,7 +38,8 @@
         "84782",
         "84783",
         "84790"
-      ]
+      ],
+      "id": "washington-county-library-system-ut"
     },
     {
       "name": "BENTONVILLE PUBLIC LIBRARY",
@@ -53,7 +54,8 @@
         "72718",
         "72719",
         "72739"
-      ]
+      ],
+      "id": "bentonville-public-library-ar"
     },
     {
       "name": "BELLA VISTA PUBLIC LIBRARY",
@@ -67,7 +69,8 @@
         "72715",
         "72719",
         "72739"
-      ]
+      ],
+      "id": "bella-vista-public-library-ar"
     },
     {
       "name": "ROGERS PUBLIC LIBRARY",
@@ -82,7 +85,8 @@
         "72745",
         "72756",
         "72758"
-      ]
+      ],
+      "id": "rogers-public-library-ar"
     },
     {
       "name": "FAYETTEVILLE PUBLIC LIBRARY",
@@ -101,7 +105,8 @@
         "72764",
         "72773",
         "72774"
-      ]
+      ],
+      "id": "fayetteville-public-library-ar"
     },
     {
       "name": "PEA RIDGE COMMUNITY LIBRARY",
@@ -113,7 +118,8 @@
       "zipcodes": [
         "72732",
         "72751"
-      ]
+      ],
+      "id": "pea-ridge-community-library-ar"
     },
     {
       "name": "GRAVETTE PUBLIC LIBRARY",
@@ -126,7 +132,8 @@
         "72736",
         "72739",
         "72747"
-      ]
+      ],
+      "id": "gravette-public-library-ar"
     },
     {
       "name": "GENTRY PUBLIC LIBRARY",
@@ -138,7 +145,8 @@
       "zipcodes": [
         "72734",
         "72747"
-      ]
+      ],
+      "id": "gentry-public-library-ar"
     },
     {
       "name": "IVA JANE PEEK LIBRARY HQ",
@@ -150,7 +158,8 @@
       "zipcodes": [
         "72722",
         "72747"
-      ]
+      ],
+      "id": "iva-jane-peek-library-hq-ar"
     },
     {
       "name": "SILOAM SPRINGS PUBLIC LIBRARY",
@@ -161,7 +170,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "72761"
-      ]
+      ],
+      "id": "siloam-springs-public-library-ar"
     },
     {
       "name": "SULPHUR SPRINGS PUBLIC LIBRARY HQ",
@@ -173,7 +183,8 @@
       "zipcodes": [
         "72715",
         "72768"
-      ]
+      ],
+      "id": "sulphur-springs-public-library-hq-ar"
     },
     {
       "name": "CARROLL AND MADISON LIBRARY SYSTEM",
@@ -190,7 +201,8 @@
         "72638",
         "72660",
         "72740"
-      ]
+      ],
+      "id": "carroll-and-madison-library-system-ar-2"
     },
     {
       "name": "NEWTON COUNTY",
@@ -215,7 +227,8 @@
         "72852",
         "72854",
         "72856"
-      ]
+      ],
+      "id": "newton-county-ar-2"
     }
   ]
 }

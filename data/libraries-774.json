@@ -11,7 +11,8 @@
         "77412",
         "77434",
         "78935"
-      ]
+      ],
+      "id": "eula-david-wintermann-library-tx"
     },
     {
       "name": "WALLER COUNTY LIBRARY",
@@ -26,7 +27,8 @@
         "77446",
         "77466",
         "77484"
-      ]
+      ],
+      "id": "waller-county-library-tx"
     },
     {
       "name": "BAY CITY PUBLIC LIBRARY",
@@ -45,7 +47,8 @@
         "77468",
         "77482",
         "77483"
-      ]
+      ],
+      "id": "bay-city-public-library-tx"
     },
     {
       "name": "PALACIOS LIBRARY INC",
@@ -58,7 +61,8 @@
         "77419",
         "77428",
         "77465"
-      ]
+      ],
+      "id": "palacios-library-inc-tx"
     },
     {
       "name": "FORT BEND COUNTY LIBRARIES",
@@ -86,7 +90,8 @@
         "77489",
         "77494",
         "77545"
-      ]
+      ],
+      "id": "fort-bend-county-libraries-tx-2"
     },
     {
       "name": "BELLAIRE CITY LIBRARY",
@@ -152,7 +157,8 @@
         "77449",
         "77450",
         "77493"
-      ]
+      ],
+      "id": "bellaire-city-library-tx-2"
     },
     {
       "name": "BELLVILLE PUBLIC LIBRARY",
@@ -165,7 +171,8 @@
         "77418",
         "78944",
         "78950"
-      ]
+      ],
+      "id": "bellville-public-library-tx"
     },
     {
       "name": "VIRGIL & JOSEPHINE GORDON MEMORIAL LIBRARY",
@@ -177,7 +184,8 @@
       "zipcodes": [
         "77473",
         "77474"
-      ]
+      ],
+      "id": "virgil-josephine-gordon-memorial-library-tx"
     },
     {
       "name": "AUSTIN COUNTY LIBRARY SYSTEM",
@@ -188,7 +196,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "77485"
-      ]
+      ],
+      "id": "austin-county-library-system-tx"
     },
     {
       "name": "WHARTON COUNTY LIBRARY",
@@ -208,7 +217,8 @@
         "77455",
         "77467",
         "77488"
-      ]
+      ],
+      "id": "wharton-county-library-tx"
     },
     {
       "name": "GARWOOD MEMORIAL LIBRARY",
@@ -220,7 +230,8 @@
       "zipcodes": [
         "77412",
         "77442"
-      ]
+      ],
+      "id": "garwood-memorial-library-tx"
     },
     {
       "name": "SHERIDAN MEMORIAL LIBRARY",
@@ -232,7 +243,8 @@
       "zipcodes": [
         "77470",
         "77475"
-      ]
+      ],
+      "id": "sheridan-memorial-library-tx"
     },
     {
       "name": "NANCY CAROL ROBERTS MEMORIAL LIBRARY",
@@ -246,7 +258,8 @@
         "77833",
         "77835",
         "77880"
-      ]
+      ],
+      "id": "nancy-carol-roberts-memorial-library-tx"
     },
     {
       "name": "BRAZORIA COUNTY LIBRARY SYSTEM",
@@ -271,7 +284,8 @@
         "77581",
         "77583",
         "77584"
-      ]
+      ],
+      "id": "brazoria-county-library-system-tx"
     }
   ]
 }

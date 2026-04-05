@@ -18,7 +18,8 @@
         "61606",
         "61607",
         "61615"
-      ]
+      ],
+      "id": "alpha-park-public-library-district-il-2"
     },
     {
       "name": "CREVE COEUR PUBLIC LIBRARY DISTRICT",
@@ -29,7 +30,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61610"
-      ]
+      ],
+      "id": "creve-coeur-public-library-district-il"
     },
     {
       "name": "FONDULAC PUBLIC LIBRARY DISTRICT",
@@ -40,7 +42,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "61611"
-      ]
+      ],
+      "id": "fondulac-public-library-district-il"
     },
     {
       "name": "PEORIA PUBLIC LIBRARY",
@@ -58,7 +61,8 @@
         "61606",
         "61614",
         "61615"
-      ]
+      ],
+      "id": "peoria-public-library-il-2"
     },
     {
       "name": "PEORIA HEIGHTS PUBLIC LIBRARY",
@@ -77,7 +81,8 @@
         "61614",
         "61615",
         "61616"
-      ]
+      ],
+      "id": "peoria-heights-public-library-il-2"
     },
     {
       "name": "DUNLAP PUBLIC LIBRARY DISTRICT",
@@ -92,7 +97,8 @@
         "61528",
         "61552",
         "61614"
-      ]
+      ],
+      "id": "dunlap-public-library-district-il-2"
     }
   ]
 }

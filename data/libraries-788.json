@@ -11,7 +11,8 @@
         "78055",
         "78883",
         "78885"
-      ]
+      ],
+      "id": "medina-community-library-tx-2"
     },
     {
       "name": "TERRELL COUNTY PUBLIC LIBRARY",
@@ -23,7 +24,8 @@
       "zipcodes": [
         "78851",
         "79848"
-      ]
+      ],
+      "id": "terrell-county-public-library-tx"
     },
     {
       "name": "VAL VERDE COUNTY LIBRARY",
@@ -36,7 +38,8 @@
         "78832",
         "78837",
         "78840"
-      ]
+      ],
+      "id": "val-verde-county-library-tx"
     },
     {
       "name": "EAGLE PASS PUBLIC LIBRARY",
@@ -48,7 +51,8 @@
       "zipcodes": [
         "78852",
         "78860"
-      ]
+      ],
+      "id": "eagle-pass-public-library-tx"
     },
     {
       "name": "HONDO PUBLIC LIBRARY",
@@ -61,7 +65,8 @@
         "78850",
         "78861",
         "78886"
-      ]
+      ],
+      "id": "hondo-public-library-tx"
     },
     {
       "name": "QUEMADO PUBLIC LIBRARY",
@@ -72,7 +77,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78877"
-      ]
+      ],
+      "id": "quemado-public-library-tx"
     },
     {
       "name": "EL PROGRESO MEMORIAL LIBRARY",
@@ -85,7 +91,8 @@
         "78801",
         "78829",
         "78872"
-      ]
+      ],
+      "id": "el-progreso-memorial-library-tx"
     },
     {
       "name": "DIMMIT COUNTY PUBLIC LIBRARY",
@@ -100,7 +107,8 @@
         "78834",
         "78836",
         "78839"
-      ]
+      ],
+      "id": "dimmit-county-public-library-tx"
     },
     {
       "name": "REAL COUNTY PUBLIC LIBRARY LEAKEY",
@@ -112,7 +120,8 @@
       "zipcodes": [
         "78873",
         "78879"
-      ]
+      ],
+      "id": "real-county-public-library-leakey-tx"
     },
     {
       "name": "UTOPIA MEMORIAL LIBRARY",
@@ -124,7 +133,8 @@
       "zipcodes": [
         "78838",
         "78884"
-      ]
+      ],
+      "id": "utopia-memorial-library-tx"
     },
     {
       "name": "SABINAL PUBLIC LIBRARY",
@@ -136,7 +146,8 @@
       "zipcodes": [
         "78870",
         "78881"
-      ]
+      ],
+      "id": "sabinal-public-library-tx"
     },
     {
       "name": "CAMP WOOD PUBLIC LIBRARY",
@@ -147,7 +158,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78833"
-      ]
+      ],
+      "id": "camp-wood-public-library-tx"
     },
     {
       "name": "CLAUD H GILMER MEMORIAL LIBRARY",
@@ -159,7 +171,8 @@
       "zipcodes": [
         "78828",
         "78880"
-      ]
+      ],
+      "id": "claud-h-gilmer-memorial-library-tx"
     }
   ]
 }

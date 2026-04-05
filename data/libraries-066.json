@@ -35,7 +35,8 @@
         "69336",
         "76073",
         "76426"
-      ]
+      ],
+      "id": "bridgeport-public-library-ct"
     },
     {
       "name": "EASTON PUBLIC LIBRARY",
@@ -47,7 +48,8 @@
       "zipcodes": [
         "06612",
         "06883"
-      ]
+      ],
+      "id": "easton-public-library-ct"
     },
     {
       "name": "STRATFORD LIBRARY ASSOCIATION",
@@ -63,7 +65,8 @@
         "06610",
         "06614",
         "06615"
-      ]
+      ],
+      "id": "stratford-library-association-ct"
     },
     {
       "name": "TRUMBULL LIBRARY",
@@ -77,7 +80,8 @@
         "06610",
         "06611",
         "06614"
-      ]
+      ],
+      "id": "trumbull-library-ct"
     },
     {
       "name": "FAIRFIELD PUBLIC LIBRARY",
@@ -108,7 +112,8 @@
         "68935",
         "68938",
         "68941"
-      ]
+      ],
+      "id": "fairfield-public-library-ia"
     },
     {
       "name": "PEQUOT LIBRARY ASSOCIATION",
@@ -120,7 +125,8 @@
       "zipcodes": [
         "06605",
         "06890"
-      ]
+      ],
+      "id": "pequot-library-association-ct"
     }
   ]
 }

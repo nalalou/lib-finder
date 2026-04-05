@@ -16,7 +16,8 @@
         "86321",
         "86332",
         "86343"
-      ]
+      ],
+      "id": "prescott-public-library-ia-4"
     },
     {
       "name": "YAVAPAI COUNTY FREE LIBRARY DISTRICT",
@@ -28,7 +29,8 @@
       "zipcodes": [
         "86301",
         "86303"
-      ]
+      ],
+      "id": "yavapai-county-free-library-district-az"
     },
     {
       "name": "CAMP VERDE COMMUNITY LIBRARY",
@@ -42,7 +44,8 @@
         "86322",
         "86333",
         "86335"
-      ]
+      ],
+      "id": "camp-verde-community-library-az-2"
     },
     {
       "name": "CHINO VALLEY PUBLIC LIBRARY",
@@ -57,7 +60,8 @@
         "86323",
         "86334",
         "86337"
-      ]
+      ],
+      "id": "chino-valley-public-library-az"
     },
     {
       "name": "COTTONWOOD PUBLIC LIBRARY",
@@ -70,7 +74,8 @@
         "86324",
         "86325",
         "86326"
-      ]
+      ],
+      "id": "cottonwood-public-library-az"
     },
     {
       "name": "JEROME PUBLIC LIBRARY",
@@ -83,7 +88,8 @@
         "86324",
         "86327",
         "86331"
-      ]
+      ],
+      "id": "jerome-public-library-az"
     },
     {
       "name": "PRESCOTT VALLEY PUBLIC LIBRARY",
@@ -94,7 +100,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "86314"
-      ]
+      ],
+      "id": "prescott-valley-public-library-az"
     },
     {
       "name": "SEDONA PUBLIC LIBRARY, INC.",
@@ -107,7 +114,8 @@
         "86325",
         "86336",
         "86351"
-      ]
+      ],
+      "id": "sedona-public-library-inc-az"
     },
     {
       "name": "YAVAPAI-PRESCOTT TRIBAL LIBRARY",
@@ -120,7 +128,8 @@
         "86301",
         "86303",
         "86338"
-      ]
+      ],
+      "id": "yavapai-prescott-tribal-library-az"
     }
   ]
 }

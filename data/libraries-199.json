@@ -12,7 +12,8 @@
         "19956",
         "59044",
         "59057"
-      ]
+      ],
+      "id": "laurel-public-library-mt"
     },
     {
       "name": "MILFORD PUBLIC LIBRARY",
@@ -39,7 +40,8 @@
         "48380",
         "48381",
         "84751"
-      ]
+      ],
+      "id": "milford-public-library-nj-3"
     },
     {
       "name": "SMYRNA PUBLIC LIBRARY",
@@ -59,7 +61,8 @@
         "19938",
         "19955",
         "19977"
-      ]
+      ],
+      "id": "smyrna-public-library-ny-4"
     },
     {
       "name": "GEORGETOWN PUBLIC LIBRARY",
@@ -77,7 +80,8 @@
         "78626",
         "78628",
         "78681"
-      ]
+      ],
+      "id": "georgetown-public-library-tx"
     },
     {
       "name": "HARRINGTON PUBLIC LIBRARY",
@@ -94,7 +98,8 @@
         "19979",
         "99134",
         "99154"
-      ]
+      ],
+      "id": "harrington-public-library-wa"
     },
     {
       "name": "KENT COUNTY PUBLIC LIBRARY",
@@ -127,7 +132,8 @@
         "21667",
         "21668",
         "21678"
-      ]
+      ],
+      "id": "kent-county-public-library-md"
     },
     {
       "name": "DOVER PUBLIC LIBRARY",
@@ -156,7 +162,8 @@
         "44680",
         "44681",
         "44697"
-      ]
+      ],
+      "id": "dover-public-library-oh-2"
     },
     {
       "name": "BRIDGEVILLE PUBLIC LIBRARY",
@@ -171,7 +178,8 @@
         "15142",
         "19933",
         "19950"
-      ]
+      ],
+      "id": "bridgeville-public-library-pa-3"
     },
     {
       "name": "FRANKFORD PUBLIC LIBRARY",
@@ -187,7 +195,8 @@
         "19945",
         "19967",
         "19970"
-      ]
+      ],
+      "id": "frankford-public-library-de"
     },
     {
       "name": "LEWES PUBLIC LIBRARY",
@@ -199,7 +208,8 @@
       "zipcodes": [
         "19958",
         "19968"
-      ]
+      ],
+      "id": "lewes-public-library-de"
     },
     {
       "name": "MILLSBORO PUBLIC LIBRARY",
@@ -212,7 +222,8 @@
         "19939",
         "19951",
         "19966"
-      ]
+      ],
+      "id": "millsboro-public-library-de"
     },
     {
       "name": "REHOBOTH BEACH PUBLIC LIBRARY",
@@ -223,7 +234,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "19971"
-      ]
+      ],
+      "id": "rehoboth-beach-public-library-de"
     },
     {
       "name": "SEAFORD DISTRICT LIBRARY",
@@ -237,7 +249,8 @@
         "19933",
         "19956",
         "19973"
-      ]
+      ],
+      "id": "seaford-district-library-de"
     },
     {
       "name": "SELBYVILLE PUBLIC LIBRARY",
@@ -252,7 +265,8 @@
         "19967",
         "19970",
         "19975"
-      ]
+      ],
+      "id": "selbyville-public-library-de"
     },
     {
       "name": "DELMAR PUBLIC LIBRARY",
@@ -265,7 +279,8 @@
         "19931",
         "19940",
         "19956"
-      ]
+      ],
+      "id": "delmar-public-library-de"
     },
     {
       "name": "SUSSEX COUNTY DEPT. OF LIBRARIES",
@@ -279,7 +294,8 @@
         "19947",
         "19951",
         "19968"
-      ]
+      ],
+      "id": "sussex-county-dept-of-libraries-de"
     }
   ]
 }

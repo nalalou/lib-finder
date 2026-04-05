@@ -18,7 +18,8 @@
         "80757",
         "80801",
         "80812"
-      ]
+      ],
+      "id": "akron-public-library-al-4"
     },
     {
       "name": "HIGH PLAINS LIBRARY DISTRICT",
@@ -50,7 +51,8 @@
         "80729",
         "80742",
         "80754"
-      ]
+      ],
+      "id": "high-plains-library-district-co-3"
     },
     {
       "name": "STERLING PUBLIC LIBRARY",
@@ -71,7 +73,8 @@
         "80741",
         "80745",
         "80751"
-      ]
+      ],
+      "id": "sterling-public-library-ne-5"
     },
     {
       "name": "EAST MORGAN COUNTY LIBRARY DISTRICT/BRUSH",
@@ -84,7 +87,8 @@
         "80723",
         "80733",
         "80750"
-      ]
+      ],
+      "id": "east-morgan-county-library-districtbrush-co"
     },
     {
       "name": "FORT MORGAN PUBLIC LIBRARY",
@@ -99,7 +103,8 @@
         "80654",
         "80701",
         "80705"
-      ]
+      ],
+      "id": "fort-morgan-public-library-co-2"
     },
     {
       "name": "HAXTUN PUBLIC LIBRARY",
@@ -110,7 +115,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "80731"
-      ]
+      ],
+      "id": "haxtun-public-library-co"
     },
     {
       "name": "HOLYOKE/HEGINBOTHAM LIBRARY",
@@ -122,7 +128,8 @@
       "zipcodes": [
         "80721",
         "80734"
-      ]
+      ],
+      "id": "holyokeheginbotham-library-co"
     },
     {
       "name": "JULESBURG PUBLIC LIBRARY",
@@ -135,7 +142,8 @@
         "80737",
         "80744",
         "80749"
-      ]
+      ],
+      "id": "julesburg-public-library-co"
     },
     {
       "name": "WRAY PUBLIC LIBRARY",
@@ -149,7 +157,8 @@
         "80755",
         "80758",
         "80824"
-      ]
+      ],
+      "id": "wray-public-library-co"
     },
     {
       "name": "YUMA PUBLIC LIBRARY",
@@ -162,7 +171,8 @@
         "80727",
         "80759",
         "80822"
-      ]
+      ],
+      "id": "yuma-public-library-co"
     },
     {
       "name": "FLEMING COMMUNITY LIBRARY (SCHOOL/PUBLIC)",
@@ -176,7 +186,8 @@
         "80728",
         "80736",
         "80747"
-      ]
+      ],
+      "id": "fleming-community-library-schoolpublic-co"
     }
   ]
 }

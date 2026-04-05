@@ -16,7 +16,8 @@
         "97306",
         "97352",
         "97392"
-      ]
+      ],
+      "id": "jefferson-public-library-or-3"
     },
     {
       "name": "RACINE PUBLIC LIBRARY",
@@ -33,7 +34,8 @@
         "53404",
         "53405",
         "53406"
-      ]
+      ],
+      "id": "racine-public-library-wi"
     },
     {
       "name": "WATERFORD PUBLIC LIBRARY",
@@ -57,7 +59,8 @@
         "53139",
         "53167",
         "53185"
-      ]
+      ],
+      "id": "waterford-public-library-pa-5"
     },
     {
       "name": "COMMUNITY LIBRARY",
@@ -79,7 +82,8 @@
         "53179",
         "53181",
         "53192"
-      ]
+      ],
+      "id": "community-library-oh-3"
     },
     {
       "name": "BURLINGTON PUBLIC LIBRARY",
@@ -106,7 +110,8 @@
         "98233",
         "98235",
         "98238"
-      ]
+      ],
+      "id": "burlington-public-library-ct-4"
     },
     {
       "name": "HARTLAND PUBLIC LIBRARY",
@@ -129,7 +134,8 @@
         "53058",
         "53069",
         "53183"
-      ]
+      ],
+      "id": "hartland-public-library-ct-4"
     },
     {
       "name": "ROCHESTER PUBLIC LIBRARY",
@@ -175,7 +181,8 @@
         "55929",
         "55934",
         "55960"
-      ]
+      ],
+      "id": "rochester-public-library-mn-5"
     },
     {
       "name": "FRANKLIN PUBLIC LIBRARY",
@@ -200,7 +207,8 @@
         "68939",
         "68960",
         "68972"
-      ]
+      ],
+      "id": "franklin-public-library-ne-6"
     },
     {
       "name": "DELAFIELD PUBLIC LIBRARY",
@@ -217,7 +225,8 @@
         "53153",
         "53183",
         "53188"
-      ]
+      ],
+      "id": "delafield-public-library-wi-2"
     },
     {
       "name": "JOHNSON CREEK PUBLIC LIBRARY",
@@ -231,7 +240,8 @@
         "53137",
         "53178",
         "53549"
-      ]
+      ],
+      "id": "johnson-creek-public-library-wi-2"
     },
     {
       "name": "PEWAUKEE PUBLIC LIBRARY",
@@ -244,7 +254,8 @@
         "53029",
         "53072",
         "53188"
-      ]
+      ],
+      "id": "pewaukee-public-library-wi-2"
     },
     {
       "name": "BIG BEND VILLAGE LIBRARY",
@@ -256,7 +267,8 @@
       "zipcodes": [
         "53103",
         "53189"
-      ]
+      ],
+      "id": "big-bend-village-library-wi"
     },
     {
       "name": "CUDAHY FAMILY LIBRARY",
@@ -268,7 +280,8 @@
       "zipcodes": [
         "53110",
         "53207"
-      ]
+      ],
+      "id": "cudahy-family-library-wi"
     },
     {
       "name": "DARIEN PUBLIC LIBRARY",
@@ -279,7 +292,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53114"
-      ]
+      ],
+      "id": "darien-public-library-wi"
     },
     {
       "name": "ARAM PUBLIC LIBRARY",
@@ -290,7 +304,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53115"
-      ]
+      ],
+      "id": "aram-public-library-wi"
     },
     {
       "name": "ALICE BAKER MEMORIAL PUBLIC LIBRARY",
@@ -303,7 +318,8 @@
         "53118",
         "53119",
         "53153"
-      ]
+      ],
+      "id": "alice-baker-memorial-public-library-wi"
     },
     {
       "name": "EAST TROY LIONS PUBLIC LIBRARY",
@@ -314,7 +330,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53120"
-      ]
+      ],
+      "id": "east-troy-lions-public-library-wi"
     },
     {
       "name": "MATHESON MEMORIAL LIBRARY",
@@ -325,7 +342,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53121"
-      ]
+      ],
+      "id": "matheson-memorial-library-wi"
     },
     {
       "name": "ELM GROVE PUBLIC LIBRARY",
@@ -339,7 +357,8 @@
         "53007",
         "53045",
         "53122"
-      ]
+      ],
+      "id": "elm-grove-public-library-wi-2"
     },
     {
       "name": "FONTANA PUBLIC LIBRARY",
@@ -351,7 +370,8 @@
       "zipcodes": [
         "53125",
         "53195"
-      ]
+      ],
+      "id": "fontana-public-library-wi"
     },
     {
       "name": "GENOA CITY PUBLIC LIBRARY",
@@ -362,7 +382,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53128"
-      ]
+      ],
+      "id": "genoa-city-public-library-wi"
     },
     {
       "name": "GREENDALE PUBLIC LIBRARY",
@@ -377,7 +398,8 @@
         "53219",
         "53221",
         "53228"
-      ]
+      ],
+      "id": "greendale-public-library-wi"
     },
     {
       "name": "HALES CORNERS PUBLIC LIBRARY",
@@ -391,7 +413,8 @@
         "53132",
         "53227",
         "53228"
-      ]
+      ],
+      "id": "hales-corners-public-library-wi"
     },
     {
       "name": "KENOSHA PUBLIC LIBRARY",
@@ -407,7 +430,8 @@
         "53143",
         "53144",
         "53158"
-      ]
+      ],
+      "id": "kenosha-public-library-wi"
     },
     {
       "name": "LAKE GENEVA PUBLIC LIBRARY",
@@ -418,7 +442,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53147"
-      ]
+      ],
+      "id": "lake-geneva-public-library-wi"
     },
     {
       "name": "MUSKEGO PUBLIC LIBRARY",
@@ -430,7 +455,8 @@
       "zipcodes": [
         "53146",
         "53150"
-      ]
+      ],
+      "id": "muskego-public-library-wi"
     },
     {
       "name": "NEW BERLIN PUBLIC LIBRARY",
@@ -442,7 +468,8 @@
       "zipcodes": [
         "53146",
         "53151"
-      ]
+      ],
+      "id": "new-berlin-public-library-wi"
     },
     {
       "name": "OAK CREEK PUBLIC LIBRARY",
@@ -453,7 +480,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53154"
-      ]
+      ],
+      "id": "oak-creek-public-library-wi"
     },
     {
       "name": "SOUTH MILWAUKEE PUBLIC LIBRARY",
@@ -464,7 +492,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53172"
-      ]
+      ],
+      "id": "south-milwaukee-public-library-wi"
     },
     {
       "name": "GRAHAM PUBLIC LIBRARY",
@@ -478,7 +507,8 @@
         "53139",
         "53177",
         "53182"
-      ]
+      ],
+      "id": "graham-public-library-wi"
     },
     {
       "name": "WALWORTH MEMORIAL LIBRARY",
@@ -490,7 +520,8 @@
       "zipcodes": [
         "53184",
         "53195"
-      ]
+      ],
+      "id": "walworth-memorial-library-wi"
     },
     {
       "name": "WAUKESHA PUBLIC LIBRARY",
@@ -505,7 +536,8 @@
         "53186",
         "53188",
         "53189"
-      ]
+      ],
+      "id": "waukesha-public-library-wi"
     },
     {
       "name": "IRVIN L. YOUNG MEMORIAL LIBRARY",
@@ -516,7 +548,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53190"
-      ]
+      ],
+      "id": "irvin-l-young-memorial-library-wi"
     },
     {
       "name": "BARRETT MEMORIAL LIBRARY",
@@ -528,7 +561,8 @@
       "zipcodes": [
         "53191",
         "53195"
-      ]
+      ],
+      "id": "barrett-memorial-library-wi"
     },
     {
       "name": "MUKWONAGO COMMUNITY LIBRARY",
@@ -541,7 +575,8 @@
         "53149",
         "53153",
         "53189"
-      ]
+      ],
+      "id": "mukwonago-community-library-wi"
     },
     {
       "name": "POWERS MEMORIAL LIBRARY",
@@ -553,7 +588,8 @@
       "zipcodes": [
         "53137",
         "53156"
-      ]
+      ],
+      "id": "powers-memorial-library-wi"
     }
   ]
 }

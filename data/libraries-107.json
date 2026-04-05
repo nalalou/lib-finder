@@ -33,7 +33,8 @@
         "10704",
         "10705",
         "10803"
-      ]
+      ],
+      "id": "mount-vernon-public-library-ny-3"
     },
     {
       "name": "BRONXVILLE PUBLIC LIBRARY",
@@ -53,7 +54,8 @@
         "10705",
         "10708",
         "10710"
-      ]
+      ],
+      "id": "bronxville-public-library-ny-3"
     },
     {
       "name": "YONKERS PUBLIC LIBRARY",
@@ -76,7 +78,8 @@
         "10703",
         "10704",
         "10705"
-      ]
+      ],
+      "id": "yonkers-public-library-ny-2"
     },
     {
       "name": "EASTCHESTER PUBLIC LIBRARY",
@@ -90,7 +93,8 @@
         "10709",
         "10710",
         "10804"
-      ]
+      ],
+      "id": "eastchester-public-library-ny"
     },
     {
       "name": "HASTINGS-ON-HUDSON PUBLIC LIBRARY",
@@ -102,7 +106,8 @@
       "zipcodes": [
         "10703",
         "10706"
-      ]
+      ],
+      "id": "hastings-on-hudson-public-library-ny"
     },
     {
       "name": "TUCKAHOE PUBLIC LIBRARY",
@@ -118,7 +123,8 @@
         "10708",
         "10710",
         "10804"
-      ]
+      ],
+      "id": "tuckahoe-public-library-ny"
     }
   ]
 }

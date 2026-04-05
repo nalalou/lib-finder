@@ -14,7 +14,8 @@
         "82433",
         "82435",
         "82440"
-      ]
+      ],
+      "id": "park-county-library-system-wy-2"
     },
     {
       "name": "BIG HORN COUNTY LIBRARY",
@@ -36,7 +37,8 @@
         "82432",
         "82434",
         "82441"
-      ]
+      ],
+      "id": "big-horn-county-library-wy"
     },
     {
       "name": "HOT SPRINGS COUNTY LIBRARY",
@@ -48,7 +50,8 @@
       "zipcodes": [
         "82430",
         "82443"
-      ]
+      ],
+      "id": "hot-springs-county-library-wy"
     },
     {
       "name": "WASHAKIE COUNTY LIBRARY",
@@ -60,7 +63,8 @@
       "zipcodes": [
         "82401",
         "82442"
-      ]
+      ],
+      "id": "washakie-county-library-wy"
     }
   ]
 }

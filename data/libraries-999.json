@@ -11,7 +11,8 @@
         "99921",
         "99922",
         "99925"
-      ]
+      ],
+      "id": "craig-public-library-ak"
     },
     {
       "name": "HOLLIS PUBLIC LIBRARY",
@@ -22,7 +23,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99950"
-      ]
+      ],
+      "id": "hollis-public-library-ak"
     },
     {
       "name": "KETCHIKAN PUBLIC LIBRARY",
@@ -33,7 +35,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99901"
-      ]
+      ],
+      "id": "ketchikan-public-library-ak"
     },
     {
       "name": "CENTENNIAL LIBRARY",
@@ -44,7 +47,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99926"
-      ]
+      ],
+      "id": "centennial-library-ak"
     },
     {
       "name": "IRENE INGLE PUBLIC LIBRARY",
@@ -55,7 +59,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99929"
-      ]
+      ],
+      "id": "irene-ingle-public-library-ak"
     },
     {
       "name": "HYDER PUBLIC LIBRARY",
@@ -66,7 +71,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99923"
-      ]
+      ],
+      "id": "hyder-public-library-ak"
     },
     {
       "name": "COFFMAN COVE COMMUNITY LIBRARY",
@@ -77,7 +83,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99918"
-      ]
+      ],
+      "id": "coffman-cove-community-library-ak"
     },
     {
       "name": "THORNE BAY PUBLIC LIBRARY",
@@ -89,7 +96,8 @@
       "zipcodes": [
         "99903",
         "99919"
-      ]
+      ],
+      "id": "thorne-bay-public-library-ak"
     },
     {
       "name": "WHALE PASS COMMUNITY LIBRARY",
@@ -101,7 +109,8 @@
       "zipcodes": [
         "99927",
         "99950"
-      ]
+      ],
+      "id": "whale-pass-community-library-ak"
     },
     {
       "name": "EDNA BAY COMMUNITY LIBRARY",
@@ -112,7 +121,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99950"
-      ]
+      ],
+      "id": "edna-bay-community-library-ak"
     }
   ]
 }

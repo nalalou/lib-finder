@@ -11,7 +11,8 @@
         "97140",
         "97223",
         "97224"
-      ]
+      ],
+      "id": "tigard-public-library-or"
     },
     {
       "name": "SHERWOOD PUBLIC LIBRARY",
@@ -24,7 +25,8 @@
         "58782",
         "97140",
         "97224"
-      ]
+      ],
+      "id": "sherwood-public-library-nd-2"
     },
     {
       "name": "HILLSBORO PUBLIC LIBRARY",
@@ -41,7 +43,8 @@
         "67483",
         "97123",
         "97124"
-      ]
+      ],
+      "id": "hillsboro-public-library-ks-4"
     },
     {
       "name": "AMITY PUBLIC LIBRARY",
@@ -52,7 +55,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "97101"
-      ]
+      ],
+      "id": "amity-public-library-or"
     },
     {
       "name": "FOREST GROVE CITY LIBRARY",
@@ -64,7 +68,8 @@
       "zipcodes": [
         "97116",
         "97119"
-      ]
+      ],
+      "id": "forest-grove-city-library-or"
     },
     {
       "name": "ASTORIA PUBLIC LIBRARY",
@@ -76,7 +81,8 @@
       "zipcodes": [
         "97103",
         "97121"
-      ]
+      ],
+      "id": "astoria-public-library-or"
     },
     {
       "name": "MCMINNVILLE PUBLIC LIBRARY",
@@ -91,7 +97,8 @@
         "97127",
         "97128",
         "97148"
-      ]
+      ],
+      "id": "mcminnville-public-library-or"
     },
     {
       "name": "NEWBERG PUBLIC LIBRARY",
@@ -104,7 +111,8 @@
         "97115",
         "97127",
         "97132"
-      ]
+      ],
+      "id": "newberg-public-library-or"
     },
     {
       "name": "SEASIDE PUBLIC LIBRARY",
@@ -118,7 +126,8 @@
         "97110",
         "97138",
         "97145"
-      ]
+      ],
+      "id": "seaside-public-library-or"
     },
     {
       "name": "TILLAMOOK COUNTY LIBRARY",
@@ -141,7 +150,8 @@
         "97141",
         "97147",
         "97149"
-      ]
+      ],
+      "id": "tillamook-county-library-or"
     },
     {
       "name": "CORNELIUS PUBLIC LIBRARY",
@@ -155,7 +165,8 @@
         "97119",
         "97123",
         "97124"
-      ]
+      ],
+      "id": "cornelius-public-library-or"
     },
     {
       "name": "MARY GILKEY PUBLIC LIBRARY",
@@ -169,7 +180,8 @@
         "97114",
         "97115",
         "97127"
-      ]
+      ],
+      "id": "mary-gilkey-public-library-or"
     },
     {
       "name": "WARRENTON COMMUNITY LIBRARY",
@@ -181,7 +193,8 @@
       "zipcodes": [
         "97121",
         "97146"
-      ]
+      ],
+      "id": "warrenton-community-library-or"
     },
     {
       "name": "BANKS PUBLIC LIBRARY",
@@ -196,7 +209,8 @@
         "97117",
         "97125",
         "97144"
-      ]
+      ],
+      "id": "banks-public-library-or"
     },
     {
       "name": "NORTH PLAINS PUBLIC LIBRARY",
@@ -208,7 +222,8 @@
       "zipcodes": [
         "97124",
         "97133"
-      ]
+      ],
+      "id": "north-plains-public-library-or"
     },
     {
       "name": "TUALATIN PUBLIC LIBRARY",
@@ -221,7 +236,8 @@
         "97062",
         "97140",
         "97224"
-      ]
+      ],
+      "id": "tualatin-public-library-or-2"
     },
     {
       "name": "WOODBURN PUBLIC LIBRARY",
@@ -237,7 +253,8 @@
         "97032",
         "97071",
         "97137"
-      ]
+      ],
+      "id": "woodburn-public-library-or-2"
     },
     {
       "name": "ALOHA COMMUNITY LIBRARY",
@@ -251,7 +268,8 @@
         "97007",
         "97008",
         "97123"
-      ]
+      ],
+      "id": "aloha-community-library-or-2"
     }
   ]
 }

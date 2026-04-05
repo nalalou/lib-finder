@@ -17,7 +17,8 @@
         "88027",
         "88048",
         "88072"
-      ]
+      ],
+      "id": "anthony-public-library-ks-3"
     },
     {
       "name": "BAYARD PUBLIC LIBRARY",
@@ -35,7 +36,8 @@
         "88041",
         "88043",
         "88049"
-      ]
+      ],
+      "id": "bayard-public-library-ne-3"
     },
     {
       "name": "SILVER CITY PUBLIC LIBRARY",
@@ -56,7 +58,8 @@
         "88053",
         "88061",
         "88065"
-      ]
+      ],
+      "id": "silver-city-public-library-ia-2"
     },
     {
       "name": "TRUTH OR CONSEQUENCES PUBLIC LIBRARY",
@@ -75,7 +78,8 @@
         "87942",
         "87943",
         "88042"
-      ]
+      ],
+      "id": "truth-or-consequences-public-library-nm-2"
     },
     {
       "name": "MARSHALL MEMORIAL LIBRARY",
@@ -86,7 +90,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "88030"
-      ]
+      ],
+      "id": "marshall-memorial-library-nm"
     },
     {
       "name": "THOMAS BRANIGAN MEMORIAL LIBRARY",
@@ -107,7 +112,8 @@
         "88044",
         "88047",
         "88052"
-      ]
+      ],
+      "id": "thomas-branigan-memorial-library-nm"
     },
     {
       "name": "LORDSBURG-HIDALGO LIBRARY",
@@ -122,7 +128,8 @@
         "88020",
         "88045",
         "88056"
-      ]
+      ],
+      "id": "lordsburg-hidalgo-library-nm-2"
     },
     {
       "name": "COLUMBUS VILLAGE LIBRARY",
@@ -133,7 +140,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "88029"
-      ]
+      ],
+      "id": "columbus-village-library-nm"
     },
     {
       "name": "GLENWOOD COMMUNITY LIBRARY",
@@ -144,7 +152,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "88039"
-      ]
+      ],
+      "id": "glenwood-community-library-nm"
     },
     {
       "name": "SUNLAND PARK COMMUNITY LIBRARY",
@@ -156,7 +165,8 @@
       "zipcodes": [
         "88008",
         "88063"
-      ]
+      ],
+      "id": "sunland-park-community-library-nm"
     },
     {
       "name": "GILA VALLEY LIBRARY",
@@ -170,7 +180,8 @@
         "88038",
         "88051",
         "88055"
-      ]
+      ],
+      "id": "gila-valley-library-nm"
     }
   ]
 }

@@ -13,7 +13,8 @@
         "49445",
         "49461",
         "57383"
-      ]
+      ],
+      "id": "white-lake-community-library-mi-2"
     },
     {
       "name": "MITCHELL PUBLIC LIBRARY",
@@ -29,7 +30,8 @@
         "57340",
         "57363",
         "69357"
-      ]
+      ],
+      "id": "mitchell-public-library-sd"
     },
     {
       "name": "ARMOUR-CARNEGIE PUBLIC LIBRARY",
@@ -44,7 +46,8 @@
         "57330",
         "57344",
         "57364"
-      ]
+      ],
+      "id": "armour-carnegie-public-library-sd"
     },
     {
       "name": "AVON PUBLIC LIBRARY",
@@ -58,7 +61,8 @@
         "02322",
         "02343",
         "57315"
-      ]
+      ],
+      "id": "avon-public-library-sd-3"
     },
     {
       "name": "COZARD MEMORIAL LIBRARY",
@@ -71,7 +75,8 @@
         "57325",
         "57341",
         "57370"
-      ]
+      ],
+      "id": "cozard-memorial-library-sd"
     },
     {
       "name": "HYDE COUNTY LIBRARY",
@@ -84,7 +89,8 @@
         "57345",
         "57346",
         "57540"
-      ]
+      ],
+      "id": "hyde-county-library-sd"
     },
     {
       "name": "HOWARD PUBLIC LIBRARY",
@@ -100,7 +106,8 @@
         "57337",
         "57349",
         "57374"
-      ]
+      ],
+      "id": "howard-public-library-sd-2"
     },
     {
       "name": "HURON PUBLIC LIBRARY",
@@ -119,7 +126,8 @@
         "57381",
         "57384",
         "57386"
-      ]
+      ],
+      "id": "huron-public-library-sd-2"
     },
     {
       "name": "KIMBALL PUBLIC LIBRARY",
@@ -133,7 +141,8 @@
         "69128",
         "69133",
         "69145"
-      ]
+      ],
+      "id": "kimball-public-library-sd"
     },
     {
       "name": "LAKE ANDES PUBLIC LIBRARY",
@@ -146,7 +155,8 @@
         "57342",
         "57356",
         "57367"
-      ]
+      ],
+      "id": "lake-andes-public-library-sd"
     },
     {
       "name": "HAND COUNTY LIBRARY",
@@ -160,7 +170,8 @@
         "57371",
         "57373",
         "57467"
-      ]
+      ],
+      "id": "hand-county-library-sd"
     },
     {
       "name": "PARKSTON PUBLIC LIBRARY",
@@ -172,7 +183,8 @@
       "zipcodes": [
         "57331",
         "57366"
-      ]
+      ],
+      "id": "parkston-public-library-sd"
     },
     {
       "name": "PLANKINTON COMMUNITY LIBRARY",
@@ -184,7 +196,8 @@
       "zipcodes": [
         "57368",
         "57375"
-      ]
+      ],
+      "id": "plankinton-community-library-sd"
     },
     {
       "name": "WAGNER PUBLIC LIBRARY",
@@ -196,7 +209,8 @@
       "zipcodes": [
         "57329",
         "57380"
-      ]
+      ],
+      "id": "wagner-public-library-sd"
     },
     {
       "name": "WESSINGTON SPRINGS CARNEGIE LIBRARY",
@@ -209,7 +223,8 @@
         "57312",
         "57358",
         "57382"
-      ]
+      ],
+      "id": "wessington-springs-carnegie-library-sd"
     },
     {
       "name": "WOONSOCKET COMMUNITY LIBRARY",
@@ -222,7 +237,8 @@
         "57314",
         "57359",
         "57385"
-      ]
+      ],
+      "id": "woonsocket-community-library-sd"
     },
     {
       "name": "PLATTE PUBLIC LIBRARY",
@@ -233,7 +249,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57369"
-      ]
+      ],
+      "id": "platte-public-library-sd"
     },
     {
       "name": "TRIPP PUBLIC LIBRARY",
@@ -244,7 +261,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57376"
-      ]
+      ],
+      "id": "tripp-public-library-sd"
     },
     {
       "name": "IHANKTONWAN COMMUNITY/COLLEGE LIBRARY",
@@ -256,7 +274,8 @@
       "zipcodes": [
         "57361",
         "57367"
-      ]
+      ],
+      "id": "ihanktonwan-communitycollege-library-sd"
     },
     {
       "name": "EMIL M. LARSON LIBRARY",
@@ -273,7 +292,8 @@
         "57271",
         "57278",
         "57322"
-      ]
+      ],
+      "id": "emil-m-larson-library-sd-2"
     },
     {
       "name": "HAZEL L. MEYER MEMORIAL LIBRARY",
@@ -286,7 +306,8 @@
         "57221",
         "57231",
         "57353"
-      ]
+      ],
+      "id": "hazel-l-meyer-memorial-library-sd-2"
     },
     {
       "name": "BURKE PUBLIC LIBRARY",
@@ -301,7 +322,8 @@
         "57523",
         "57538",
         "57571"
-      ]
+      ],
+      "id": "burke-public-library-sd"
     },
     {
       "name": "LOWER BRULE COMMUNITY COLLEGE PUBLIC LIBRARY",
@@ -314,7 +336,8 @@
         "57339",
         "57365",
         "57548"
-      ]
+      ],
+      "id": "lower-brule-community-college-public-library-sd"
     },
     {
       "name": "FREEMAN PUBLIC LIBRARY",
@@ -327,7 +350,8 @@
         "57029",
         "57319",
         "57332"
-      ]
+      ],
+      "id": "freeman-public-library-sd-2"
     }
   ]
 }

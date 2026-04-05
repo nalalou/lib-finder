@@ -42,7 +42,8 @@
         "79231",
         "79235",
         "79241"
-      ]
+      ],
+      "id": "floyd-county-library-ky-2"
     },
     {
       "name": "HALE CENTER PUBLIC LIBRARY INC",
@@ -56,7 +57,8 @@
         "79041",
         "79250",
         "79311"
-      ]
+      ],
+      "id": "hale-center-public-library-inc-tx-2"
     },
     {
       "name": "COLLINGSWORTH PUBLIC LIBRARY",
@@ -69,7 +71,8 @@
         "79095",
         "79230",
         "79251"
-      ]
+      ],
+      "id": "collingsworth-public-library-tx-2"
     },
     {
       "name": "CARNEGIE CITY-COUNTY LIBRARY",
@@ -83,7 +86,8 @@
         "76373",
         "76384",
         "79247"
-      ]
+      ],
+      "id": "carnegie-city-county-library-tx-2"
     },
     {
       "name": "DICKENS COUNTY SPUR PUBLIC LIBRARY",
@@ -97,7 +101,8 @@
         "79229",
         "79243",
         "79370"
-      ]
+      ],
+      "id": "dickens-county-spur-public-library-tx"
     },
     {
       "name": "MOTLEY COUNTY LIBRARY",
@@ -110,7 +115,8 @@
         "79234",
         "79244",
         "79256"
-      ]
+      ],
+      "id": "motley-county-library-tx"
     },
     {
       "name": "MEMPHIS PUBLIC LIBRARY",
@@ -124,7 +130,8 @@
         "79239",
         "79245",
         "79261"
-      ]
+      ],
+      "id": "memphis-public-library-tx"
     },
     {
       "name": "BICENTENNIAL CITY-COUNTY LIBRARY",
@@ -135,7 +142,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79248"
-      ]
+      ],
+      "id": "bicentennial-city-county-library-tx"
     },
     {
       "name": "THOMPSON SAWYER PUBLIC LIBRARY",
@@ -147,7 +155,8 @@
       "zipcodes": [
         "79225",
         "79252"
-      ]
+      ],
+      "id": "thompson-sawyer-public-library-tx"
     },
     {
       "name": "FOARD COUNTY LIBRARY",
@@ -158,7 +167,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79227"
-      ]
+      ],
+      "id": "foard-county-library-tx"
     },
     {
       "name": "GUTHRIE CSD & KING COUNTY CONSOLIDATED LIBRARY",
@@ -169,7 +179,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79236"
-      ]
+      ],
+      "id": "guthrie-csd-king-county-consolidated-library-tx"
     },
     {
       "name": "CHILDRESS PUBLIC LIBRARY",
@@ -181,7 +192,8 @@
       "zipcodes": [
         "79201",
         "79259"
-      ]
+      ],
+      "id": "childress-public-library-tx"
     },
     {
       "name": "BURTON MEMORIAL LIBRARY",
@@ -194,7 +206,8 @@
         "79226",
         "79237",
         "79240"
-      ]
+      ],
+      "id": "burton-memorial-library-tx"
     },
     {
       "name": "CAPROCK PUBLIC LIBRARY",
@@ -206,7 +219,8 @@
       "zipcodes": [
         "79255",
         "79257"
-      ]
+      ],
+      "id": "caprock-public-library-tx"
     }
   ]
 }

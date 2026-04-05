@@ -10,7 +10,8 @@
       "zipcodes": [
         "52057",
         "52223"
-      ]
+      ],
+      "id": "delhi-public-library-ia"
     },
     {
       "name": "LOST NATION PUBLIC LIBRARY",
@@ -23,7 +24,8 @@
         "52037",
         "52254",
         "52777"
-      ]
+      ],
+      "id": "lost-nation-public-library-ia"
     },
     {
       "name": "MANCHESTER PUBLIC LIBRARY",
@@ -38,7 +40,8 @@
         "52038",
         "52057",
         "52330"
-      ]
+      ],
+      "id": "manchester-public-library-ct-3"
     },
     {
       "name": "PRESTON PUBLIC LIBRARY",
@@ -56,7 +59,8 @@
         "55935",
         "55965",
         "55990"
-      ]
+      ],
+      "id": "preston-public-library-mn-2"
     },
     {
       "name": "COLESBURG PUBLIC LIBRARY",
@@ -68,7 +72,8 @@
       "zipcodes": [
         "52035",
         "52050"
-      ]
+      ],
+      "id": "colesburg-public-library-ia"
     },
     {
       "name": "EDGEWOOD PUBLIC LIBRARY",
@@ -80,7 +85,8 @@
       "zipcodes": [
         "52042",
         "52044"
-      ]
+      ],
+      "id": "edgewood-public-library-ia"
     },
     {
       "name": "ELKADER PUBLIC LIBRARY",
@@ -93,7 +99,8 @@
         "52043",
         "52044",
         "52072"
-      ]
+      ],
+      "id": "elkader-public-library-ia"
     },
     {
       "name": "GARNAVILLO PUBLIC LIBRARY",
@@ -107,7 +114,8 @@
         "52048",
         "52049",
         "52072"
-      ]
+      ],
+      "id": "garnavillo-public-library-ia"
     },
     {
       "name": "GUTTENBERG PUBLIC LIBRARY",
@@ -120,7 +128,8 @@
         "52048",
         "52052",
         "52066"
-      ]
+      ],
+      "id": "guttenberg-public-library-ia"
     },
     {
       "name": "STRAWBERRY POINT PUBLIC LIBRARY",
@@ -131,7 +140,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52076"
-      ]
+      ],
+      "id": "strawberry-point-public-library-ia"
     },
     {
       "name": "VOLGA PUBLIC LIBRARY",
@@ -142,7 +152,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52077"
-      ]
+      ],
+      "id": "volga-public-library-ia"
     },
     {
       "name": "RUTH SUCKOW MEMORIAL LIBRARY",
@@ -155,7 +166,8 @@
         "52041",
         "52050",
         "52057"
-      ]
+      ],
+      "id": "ruth-suckow-memorial-library-ia"
     },
     {
       "name": "CARNEGIE-STOUT PUBLIC LIBRARY",
@@ -168,7 +180,8 @@
         "52001",
         "52003",
         "52068"
-      ]
+      ],
+      "id": "carnegie-stout-public-library-ia"
     },
     {
       "name": "DUBUQUE COUNTY LIBRARY",
@@ -184,7 +197,8 @@
         "52045",
         "52068",
         "52073"
-      ]
+      ],
+      "id": "dubuque-county-library-ia"
     },
     {
       "name": "JAMES KENNEDY PUBLIC LIBRARY",
@@ -200,7 +214,8 @@
         "52053",
         "52065",
         "52078"
-      ]
+      ],
+      "id": "james-kennedy-public-library-ia"
     },
     {
       "name": "BELLEVUE PUBLIC LIBRARY",
@@ -220,7 +235,8 @@
         "68133",
         "68147",
         "68157"
-      ]
+      ],
+      "id": "bellevue-public-library-ia-2"
     },
     {
       "name": "MAQUOKETA PUBLIC LIBRARY",
@@ -234,7 +250,8 @@
         "52060",
         "52207",
         "52309"
-      ]
+      ],
+      "id": "maquoketa-public-library-ia"
     },
     {
       "name": "KRABBENHOFT PUBLIC LIBRARY",
@@ -246,7 +263,8 @@
       "zipcodes": [
         "52064",
         "52070"
-      ]
+      ],
+      "id": "krabbenhoft-public-library-ia"
     },
     {
       "name": "CASCADE PUBLIC LIBRARY",
@@ -260,7 +278,8 @@
         "52033",
         "52046",
         "52078"
-      ]
+      ],
+      "id": "cascade-public-library-ia"
     },
     {
       "name": "FARMERSBURG PUBLIC LIBRARY",
@@ -273,7 +292,8 @@
         "52047",
         "52072",
         "52156"
-      ]
+      ],
+      "id": "farmersburg-public-library-ia"
     }
   ]
 }

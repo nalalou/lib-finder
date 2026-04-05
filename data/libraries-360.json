@@ -23,7 +23,8 @@
         "61112",
         "61114",
         "61115"
-      ]
+      ],
+      "id": "rockford-public-library-ia-3"
     },
     {
       "name": "LOUISVILLE PUBLIC LIBRARY",
@@ -58,7 +59,8 @@
         "80303",
         "80304",
         "80516"
-      ]
+      ],
+      "id": "louisville-public-library-co"
     },
     {
       "name": "LUVERNE PUBLIC LIBRARY",
@@ -74,7 +76,8 @@
         "36049",
         "36071",
         "50560"
-      ]
+      ],
+      "id": "luverne-public-library-ia"
     },
     {
       "name": "ANDALUSIA PUBLIC LIBRARY",
@@ -88,7 +91,8 @@
         "36420",
         "36474",
         "36476"
-      ]
+      ],
+      "id": "andalusia-public-library-al"
     },
     {
       "name": "CHILTON - CLANTON PUBLIC LIBRARY",
@@ -105,7 +109,8 @@
         "36091",
         "36750",
         "36790"
-      ]
+      ],
+      "id": "chilton---clanton-public-library-al-3"
     },
     {
       "name": "TROY PUBLIC LIBRARY",
@@ -125,7 +130,8 @@
         "48084",
         "48098",
         "48304"
-      ]
+      ],
+      "id": "troy-public-library-mi-2"
     },
     {
       "name": "MONTGOMERY CITY-COUNTY PUBLIC LIBRARY",
@@ -153,7 +159,8 @@
         "36115",
         "36116",
         "36117"
-      ]
+      ],
+      "id": "montgomery-city-county-public-library-al"
     },
     {
       "name": "BRUNDIDGE - TUPPER LIGHTFOOT MEMORIAL LIBRARY",
@@ -165,7 +172,8 @@
       "zipcodes": [
         "36005",
         "36010"
-      ]
+      ],
+      "id": "brundidge---tupper-lightfoot-memorial-library-al"
     },
     {
       "name": "CLIO - ELTON B. STEPHENS LIBRARY",
@@ -177,7 +185,8 @@
       "zipcodes": [
         "36017",
         "36048"
-      ]
+      ],
+      "id": "clio---elton-b-stephens-library-al"
     },
     {
       "name": "CLAYTON - TOWN AND COUNTY PUBLIC LIBRARY",
@@ -189,7 +198,8 @@
       "zipcodes": [
         "36016",
         "36048"
-      ]
+      ],
+      "id": "clayton---town-and-county-public-library-al"
     },
     {
       "name": "UNION SPRINGS PUBLIC LIBRARY",
@@ -202,7 +212,8 @@
         "36029",
         "36053",
         "36089"
-      ]
+      ],
+      "id": "union-springs-public-library-al"
     },
     {
       "name": "BRANTLEY PUBLIC LIBRARY",
@@ -213,7 +224,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36009"
-      ]
+      ],
+      "id": "brantley-public-library-al"
     },
     {
       "name": "MILLBROOK PUBLIC LIBRARY",
@@ -227,7 +239,8 @@
         "36022",
         "36025",
         "36054"
-      ]
+      ],
+      "id": "millbrook-public-library-al"
     },
     {
       "name": "TALLASSEE COMMUNITY PUBLIC LIBRARY",
@@ -238,7 +251,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36078"
-      ]
+      ],
+      "id": "tallassee-community-public-library-al"
     },
     {
       "name": "WETUMPKA PUBLIC LIBRARY",
@@ -253,7 +267,8 @@
         "36080",
         "36092",
         "36093"
-      ]
+      ],
+      "id": "wetumpka-public-library-al"
     },
     {
       "name": "GREENVILLE - BUTLER COUNTY PUBLIC LIBRARY",
@@ -267,7 +282,8 @@
         "36033",
         "36037",
         "36456"
-      ]
+      ],
+      "id": "greenville---butler-county-public-library-al"
     },
     {
       "name": "MACON COUNTY - TUSKEGEE PUBLIC LIBRARY",
@@ -283,7 +299,8 @@
         "36083",
         "36088",
         "36866"
-      ]
+      ],
+      "id": "macon-county---tuskegee-public-library-al"
     },
     {
       "name": "WHITE HALL PUBLIC LIBRARY",
@@ -296,7 +313,8 @@
         "36040",
         "36752",
         "36785"
-      ]
+      ],
+      "id": "white-hall-public-library-al"
     },
     {
       "name": "AUTAUGA - PRATTVILLE PUBLIC LIBRARY",
@@ -312,7 +330,8 @@
         "36066",
         "36067",
         "36749"
-      ]
+      ],
+      "id": "autauga---prattville-public-library-al"
     },
     {
       "name": "HAYNEVILLE - LOWNDES COUNTY PUBLIC LIBRARY",
@@ -325,7 +344,8 @@
         "36040",
         "36047",
         "36752"
-      ]
+      ],
+      "id": "hayneville---lowndes-county-public-library-al"
     },
     {
       "name": "EUFAULA CARNEGIE LIBRARY",
@@ -336,7 +356,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36027"
-      ]
+      ],
+      "id": "eufaula-carnegie-library-al"
     },
     {
       "name": "FORT DEPOSIT PUBLIC LIBRARY",
@@ -348,7 +369,8 @@
       "zipcodes": [
         "36032",
         "36047"
-      ]
+      ],
+      "id": "fort-deposit-public-library-al"
     },
     {
       "name": "ECLECTIC PUBLIC LIBRARY",
@@ -359,7 +381,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36024"
-      ]
+      ],
+      "id": "eclectic-public-library-al"
     }
   ]
 }

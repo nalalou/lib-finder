@@ -24,7 +24,8 @@
         "69340",
         "69360",
         "69365"
-      ]
+      ],
+      "id": "rushville-public-library-in-5"
     },
     {
       "name": "MITCHELL PUBLIC LIBRARY",
@@ -40,7 +41,8 @@
         "57340",
         "57363",
         "69357"
-      ]
+      ],
+      "id": "mitchell-public-library-sd-2"
     },
     {
       "name": "BRIDGEPORT PUBLIC LIBRARY",
@@ -77,7 +79,8 @@
         "69336",
         "76073",
         "76426"
-      ]
+      ],
+      "id": "bridgeport-public-library-ct-7"
     },
     {
       "name": "BAYARD PUBLIC LIBRARY",
@@ -95,7 +98,8 @@
         "88041",
         "88043",
         "88049"
-      ]
+      ],
+      "id": "bayard-public-library-ne-2"
     },
     {
       "name": "CHADRON PUBLIC LIBRARY",
@@ -106,7 +110,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "69337"
-      ]
+      ],
+      "id": "chadron-public-library-ne"
     },
     {
       "name": "CRAWFORD PUBLIC LIBRARY",
@@ -119,7 +124,8 @@
         "69339",
         "69354",
         "69367"
-      ]
+      ],
+      "id": "crawford-public-library-ne"
     },
     {
       "name": "GERING PUBLIC LIBRARY",
@@ -132,7 +138,8 @@
         "69341",
         "69345",
         "69355"
-      ]
+      ],
+      "id": "gering-public-library-ne"
     },
     {
       "name": "GORDON CITY LIBRARY",
@@ -143,7 +150,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "69343"
-      ]
+      ],
+      "id": "gordon-city-library-ne"
     },
     {
       "name": "CRAVATH MEMORIAL LIBRARY",
@@ -155,7 +163,8 @@
       "zipcodes": [
         "69347",
         "69351"
-      ]
+      ],
+      "id": "cravath-memorial-library-ne"
     },
     {
       "name": "HEMINGFORD PUBLIC LIBRARY",
@@ -166,7 +175,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69348"
-      ]
+      ],
+      "id": "hemingford-public-library-ne"
     },
     {
       "name": "GRANT COUNTY LIBRARY",
@@ -190,7 +200,8 @@
         "97865",
         "97869",
         "97873"
-      ]
+      ],
+      "id": "grant-county-library-ne-2"
     },
     {
       "name": "LYMAN PUBLIC LIBRARY",
@@ -201,7 +212,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69352"
-      ]
+      ],
+      "id": "lyman-public-library-ne"
     },
     {
       "name": "MINATARE PUBLIC LIBRARY",
@@ -213,7 +225,8 @@
       "zipcodes": [
         "69355",
         "69356"
-      ]
+      ],
+      "id": "minatare-public-library-ne"
     },
     {
       "name": "MORRILL PUBLIC LIBRARY",
@@ -224,7 +237,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69358"
-      ]
+      ],
+      "id": "morrill-public-library-ne"
     },
     {
       "name": "LIED SCOTTSBLUFF PUBLIC LIBRARY",
@@ -236,7 +250,8 @@
       "zipcodes": [
         "69355",
         "69361"
-      ]
+      ],
+      "id": "lied-scottsbluff-public-library-ne"
     },
     {
       "name": "ALLIANCE PUBLIC LIBRARY",
@@ -247,7 +262,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69301"
-      ]
+      ],
+      "id": "alliance-public-library-ne"
     },
     {
       "name": "SIOUX COUNTY PUBLIC LIBRARY",
@@ -258,7 +274,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69346"
-      ]
+      ],
+      "id": "sioux-county-public-library-ne"
     }
   ]
 }

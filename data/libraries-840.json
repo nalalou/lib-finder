@@ -37,7 +37,8 @@
         "84124",
         "84128",
         "84180"
-      ]
+      ],
+      "id": "murray-public-library-ut-3"
     },
     {
       "name": "RICHMOND PUBLIC LIBRARY",
@@ -73,7 +74,8 @@
         "94804",
         "94805",
         "94806"
-      ]
+      ],
+      "id": "richmond-public-library-ks-3"
     },
     {
       "name": "DAVIS COUNTY LIBRARY",
@@ -94,7 +96,8 @@
         "84056",
         "84075",
         "84087"
-      ]
+      ],
+      "id": "davis-county-library-ut"
     },
     {
       "name": "DUCHESNE COUNTY LIBRARY SYSTEM",
@@ -116,7 +119,8 @@
         "84066",
         "84072",
         "84073"
-      ]
+      ],
+      "id": "duchesne-county-library-system-ut"
     },
     {
       "name": "MORGAN COUNTY LIBRARY",
@@ -137,7 +141,8 @@
         "65354",
         "84018",
         "84050"
-      ]
+      ],
+      "id": "morgan-county-library-ut-3"
     },
     {
       "name": "SALT LAKE COUNTY LIBRARY",
@@ -167,7 +172,8 @@
         "84123",
         "84124",
         "84128"
-      ]
+      ],
+      "id": "salt-lake-county-library-ut"
     },
     {
       "name": "SUMMIT COUNTY LIBRARY",
@@ -186,7 +192,8 @@
         "84033",
         "84061",
         "84098"
-      ]
+      ],
+      "id": "summit-county-library-ut-2"
     },
     {
       "name": "PARK CITY LIBRARY",
@@ -199,7 +206,8 @@
         "84036",
         "84055",
         "84060"
-      ]
+      ],
+      "id": "park-city-library-ut"
     },
     {
       "name": "TOOELE CITY PUBLIC LIBRARY",
@@ -212,7 +220,8 @@
         "84071",
         "84074",
         "84080"
-      ]
+      ],
+      "id": "tooele-city-public-library-ut"
     },
     {
       "name": "UINTAH COUNTY LIBRARY",
@@ -231,7 +240,8 @@
         "84076",
         "84078",
         "84085"
-      ]
+      ],
+      "id": "uintah-county-library-ut"
     },
     {
       "name": "AMERICAN FORK CITY LIBRARY",
@@ -244,7 +254,8 @@
         "84003",
         "84004",
         "84042"
-      ]
+      ],
+      "id": "american-fork-city-library-ut"
     },
     {
       "name": "LEHI CITY PUBLIC LIBRARY",
@@ -256,7 +267,8 @@
       "zipcodes": [
         "84004",
         "84043"
-      ]
+      ],
+      "id": "lehi-city-public-library-ut"
     },
     {
       "name": "OREM PUBLIC LIBRARY",
@@ -271,7 +283,8 @@
         "84058",
         "84097",
         "84604"
-      ]
+      ],
+      "id": "orem-public-library-ut"
     },
     {
       "name": "PLEASANT GROVE PUBLIC LIBRARY",
@@ -292,7 +305,8 @@
         "84062",
         "84097",
         "84604"
-      ]
+      ],
+      "id": "pleasant-grove-public-library-ut-4"
     },
     {
       "name": "WASATCH COUNTY LIBRARY",
@@ -305,7 +319,8 @@
         "84032",
         "84049",
         "84082"
-      ]
+      ],
+      "id": "wasatch-county-library-ut"
     },
     {
       "name": "WEBER COUNTY LIBRARY SYSTEM",
@@ -324,7 +339,8 @@
         "84404",
         "84405",
         "84414"
-      ]
+      ],
+      "id": "weber-county-library-system-ut"
     },
     {
       "name": "HIGHLAND CITY LIBRARY",
@@ -336,7 +352,8 @@
       "zipcodes": [
         "84003",
         "84004"
-      ]
+      ],
+      "id": "highland-city-library-ut"
     },
     {
       "name": "SARATOGA SPRINGS PUBLIC LIBRARY",
@@ -352,7 +369,8 @@
         "12863",
         "12866",
         "84045"
-      ]
+      ],
+      "id": "saratoga-springs-public-library-ut-2"
     },
     {
       "name": "EAGLE MOUNTAIN PUBLIC LIBRARY",
@@ -364,7 +382,8 @@
       "zipcodes": [
         "84005",
         "84013"
-      ]
+      ],
+      "id": "eagle-mountain-public-library-ut"
     },
     {
       "name": "GRANTSVILLE CITY LIBRARY",
@@ -379,7 +398,8 @@
         "84034",
         "84069",
         "84083"
-      ]
+      ],
+      "id": "grantsville-city-library-ut"
     },
     {
       "name": "PROVO CITY LIBRARY",
@@ -394,7 +414,8 @@
         "84601",
         "84604",
         "84606"
-      ]
+      ],
+      "id": "provo-city-library-ut"
     },
     {
       "name": "HYRUM LIBRARY",
@@ -410,7 +431,8 @@
         "84328",
         "84332",
         "84339"
-      ]
+      ],
+      "id": "hyrum-library-ut"
     },
     {
       "name": "NORTH LOGAN CITY LIBRARY",
@@ -425,7 +447,8 @@
         "84326",
         "84332",
         "84341"
-      ]
+      ],
+      "id": "north-logan-city-library-ut"
     }
   ]
 }

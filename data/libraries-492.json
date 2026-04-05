@@ -23,7 +23,8 @@
         "48915",
         "49251",
         "49285"
-      ]
+      ],
+      "id": "east-lansing-public-library-mi-3"
     },
     {
       "name": "HOMER PUBLIC LIBRARY",
@@ -40,7 +41,8 @@
         "43080",
         "49245",
         "99603"
-      ]
+      ],
+      "id": "homer-public-library-oh-2"
     },
     {
       "name": "CAMDEN TOWNSHIP LIBRARY",
@@ -51,7 +53,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49232"
-      ]
+      ],
+      "id": "camden-township-library-mi"
     },
     {
       "name": "CLINTON TOWNSHIP PUBLIC LIBRARY",
@@ -65,7 +68,8 @@
         "49236",
         "49287",
         "60556"
-      ]
+      ],
+      "id": "clinton-township-public-library-mi"
     },
     {
       "name": "HUDSON CARNEGIE DISTRICT LIBRARY",
@@ -80,7 +84,8 @@
         "49235",
         "49247",
         "49253"
-      ]
+      ],
+      "id": "hudson-carnegie-district-library-mi"
     },
     {
       "name": "JACKSON DISTRICT LIBRARY",
@@ -107,7 +112,8 @@
         "49277",
         "49283",
         "49284"
-      ]
+      ],
+      "id": "jackson-district-library-mi"
     },
     {
       "name": "JONESVILLE DISTRICT LIBRARY",
@@ -119,7 +125,8 @@
       "zipcodes": [
         "49227",
         "49250"
-      ]
+      ],
+      "id": "jonesville-district-library-mi"
     },
     {
       "name": "LENAWEE DISTRICT LIBRARY",
@@ -136,7 +143,8 @@
         "49279",
         "49287",
         "49289"
-      ]
+      ],
+      "id": "lenawee-district-library-mi"
     },
     {
       "name": "LITCHFIELD DISTRICT LIBRARY",
@@ -148,7 +156,8 @@
       "zipcodes": [
         "49227",
         "49252"
-      ]
+      ],
+      "id": "litchfield-district-library-mi"
     },
     {
       "name": "HILLSDALE COMMUNITY LIBRARY",
@@ -161,7 +170,8 @@
         "49227",
         "49242",
         "49266"
-      ]
+      ],
+      "id": "hillsdale-community-library-mi"
     },
     {
       "name": "NORTH ADAMS COMMUNITY MEMORIAL LIBRARY",
@@ -174,7 +184,8 @@
         "49249",
         "49262",
         "49266"
-      ]
+      ],
+      "id": "north-adams-community-memorial-library-mi"
     },
     {
       "name": "PITTSFORD PUBLIC LIBRARY",
@@ -186,7 +197,8 @@
       "zipcodes": [
         "49266",
         "49271"
-      ]
+      ],
+      "id": "pittsford-public-library-mi"
     },
     {
       "name": "READING COMMUNITY LIBRARY",
@@ -197,7 +209,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49274"
-      ]
+      ],
+      "id": "reading-community-library-mi"
     },
     {
       "name": "SOMERSET TOWNSHIP LIBRARY",
@@ -209,7 +222,8 @@
       "zipcodes": [
         "49249",
         "49282"
-      ]
+      ],
+      "id": "somerset-township-library-mi"
     },
     {
       "name": "STAIR DISTRICT LIBRARY",
@@ -222,7 +236,8 @@
         "49256",
         "49279",
         "49289"
-      ]
+      ],
+      "id": "stair-district-library-mi"
     },
     {
       "name": "TECUMSEH DISTRICT LIBRARY",
@@ -235,7 +250,8 @@
         "49229",
         "49286",
         "49287"
-      ]
+      ],
+      "id": "tecumseh-district-library-mi"
     },
     {
       "name": "WALDRON DISTRICT LIBRARY",
@@ -246,7 +262,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49288"
-      ]
+      ],
+      "id": "waldron-district-library-mi"
     },
     {
       "name": "ADRIAN DISTRICT LIBRARY",
@@ -262,7 +279,8 @@
         "49268",
         "49279",
         "49289"
-      ]
+      ],
+      "id": "adrian-district-library-mi"
     },
     {
       "name": "ALBION DISTRICT LIBRARY",
@@ -274,7 +292,8 @@
       "zipcodes": [
         "49224",
         "49245"
-      ]
+      ],
+      "id": "albion-district-library-mi"
     },
     {
       "name": "SCHULTZ-HOLMES MEMORIAL LIBRARY",
@@ -289,7 +308,8 @@
         "49248",
         "49268",
         "49276"
-      ]
+      ],
+      "id": "schultz-holmes-memorial-library-mi"
     },
     {
       "name": "CAPITAL AREA DISTRICT LIBRARY",
@@ -309,7 +329,8 @@
         "48915",
         "48933",
         "49264"
-      ]
+      ],
+      "id": "capital-area-district-library-mi-3"
     },
     {
       "name": "BRANCH DISTRICT LIBRARY",
@@ -325,7 +346,8 @@
         "49089",
         "49094",
         "49255"
-      ]
+      ],
+      "id": "branch-district-library-mi-2"
     },
     {
       "name": "TEKONSHA TOWNSHIP PUBLIC LIBRARY",
@@ -337,7 +359,8 @@
       "zipcodes": [
         "49092",
         "49245"
-      ]
+      ],
+      "id": "tekonsha-township-public-library-mi-2"
     },
     {
       "name": "MONROE COUNTY LIBRARY SYSTEM",
@@ -360,7 +383,8 @@
         "48182",
         "49267",
         "49270"
-      ]
+      ],
+      "id": "monroe-county-library-system-mi-2"
     }
   ]
 }

@@ -11,7 +11,8 @@
         "04008",
         "04287",
         "04579"
-      ]
+      ],
+      "id": "bowdoinham-public-library-me-3"
     },
     {
       "name": "BREMEN PUBLIC LIBRARY",
@@ -29,7 +30,8 @@
         "46536",
         "46537",
         "46595"
-      ]
+      ],
+      "id": "bremen-public-library-in"
     },
     {
       "name": "CUSHING PUBLIC LIBRARY",
@@ -43,7 +45,8 @@
         "04859",
         "74023",
         "74062"
-      ]
+      ],
+      "id": "cushing-public-library-ok"
     },
     {
       "name": "ISAAC F. UMBERHINE PUBLIC LIBRARY",
@@ -56,7 +59,8 @@
         "04287",
         "04357",
         "04579"
-      ]
+      ],
+      "id": "isaac-f-umberhine-public-library-me-3"
     },
     {
       "name": "BRIDGE ACADEMY PUBLIC LIBRARY",
@@ -68,7 +72,8 @@
       "zipcodes": [
         "04342",
         "04535"
-      ]
+      ],
+      "id": "bridge-academy-public-library-me-2"
     },
     {
       "name": "JACKSON MEMORIAL LIBRARY",
@@ -81,7 +86,8 @@
         "04563",
         "04859",
         "04860"
-      ]
+      ],
+      "id": "jackson-memorial-library-me"
     },
     {
       "name": "PATTEN FREE LIBRARY",
@@ -93,7 +99,8 @@
       "zipcodes": [
         "04530",
         "04579"
-      ]
+      ],
+      "id": "patten-free-library-me"
     },
     {
       "name": "BOOTHBAY HARBOR MEMORIAL LIBRARY",
@@ -108,7 +115,8 @@
         "04541",
         "04544",
         "04554"
-      ]
+      ],
+      "id": "boothbay-harbor-memorial-library-me"
     },
     {
       "name": "SKIDOMPHA PUBLIC LIBRARY",
@@ -127,7 +135,8 @@
         "04556",
         "04564",
         "04573"
-      ]
+      ],
+      "id": "skidompha-public-library-me"
     },
     {
       "name": "FRIENDSHIP PUBLIC LIBRARY",
@@ -139,7 +148,8 @@
       "zipcodes": [
         "04547",
         "04563"
-      ]
+      ],
+      "id": "friendship-public-library-me"
     },
     {
       "name": "LAURA E. RICHARDS LIBRARY",
@@ -150,7 +160,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04548"
-      ]
+      ],
+      "id": "laura-e-richards-library-me"
     },
     {
       "name": "ALBERT F. TOTMAN LIBRARY",
@@ -161,7 +172,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04562"
-      ]
+      ],
+      "id": "albert-f-totman-library-me"
     },
     {
       "name": "RUTHERFORD LIBRARY",
@@ -178,7 +190,8 @@
         "04564",
         "04568",
         "04573"
-      ]
+      ],
+      "id": "rutherford-library-me"
     },
     {
       "name": "WALDOBORO PUBLIC LIBRARY",
@@ -190,7 +203,8 @@
       "zipcodes": [
         "04555",
         "04572"
-      ]
+      ],
+      "id": "waldoboro-public-library-me"
     },
     {
       "name": "WISCASSET PUBLIC LIBRARY",
@@ -204,7 +218,8 @@
         "04553",
         "04556",
         "04578"
-      ]
+      ],
+      "id": "wiscasset-public-library-me"
     },
     {
       "name": "GIBBS LIBRARY",
@@ -215,7 +230,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04574"
-      ]
+      ],
+      "id": "gibbs-library-me"
     },
     {
       "name": "BRISTOL AREA LIBRARY",
@@ -234,7 +250,8 @@
         "04558",
         "04564",
         "04573"
-      ]
+      ],
+      "id": "bristol-area-library-me"
     },
     {
       "name": "SOUTHPORT MEMORIAL LIBRARY",
@@ -246,7 +263,8 @@
       "zipcodes": [
         "04544",
         "04576"
-      ]
+      ],
+      "id": "southport-memorial-library-me"
     }
   ]
 }

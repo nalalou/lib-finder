@@ -20,7 +20,8 @@
         "68326",
         "68335",
         "99122"
-      ]
+      ],
+      "id": "davenport-public-library-ia"
     },
     {
       "name": "IOWA CITY PUBLIC LIBRARY",
@@ -36,7 +37,8 @@
         "52245",
         "52246",
         "52755"
-      ]
+      ],
+      "id": "iowa-city-public-library-ia-2"
     },
     {
       "name": "LOST NATION PUBLIC LIBRARY",
@@ -49,7 +51,8 @@
         "52037",
         "52254",
         "52777"
-      ]
+      ],
+      "id": "lost-nation-public-library-ia-3"
     },
     {
       "name": "CURTIS MEMORIAL LIBRARY",
@@ -62,7 +65,8 @@
         "04011",
         "52751",
         "52777"
-      ]
+      ],
+      "id": "curtis-memorial-library-me-2"
     },
     {
       "name": "CLINTON PUBLIC LIBRARY",
@@ -83,7 +87,8 @@
         "53505",
         "53525",
         "53546"
-      ]
+      ],
+      "id": "clinton-public-library-wi-3"
     },
     {
       "name": "KECK MEMORIAL LIBRARY",
@@ -96,7 +101,8 @@
         "52646",
         "52653",
         "52752"
-      ]
+      ],
+      "id": "keck-memorial-library-ia-2"
     },
     {
       "name": "COLUMBUS JUNCTION PUBLIC LIBRARY",
@@ -109,7 +115,8 @@
         "52737",
         "52738",
         "52752"
-      ]
+      ],
+      "id": "columbus-junction-public-library-ia"
     },
     {
       "name": "LETTS PUBLIC LIBRARY",
@@ -122,7 +129,8 @@
         "52737",
         "52752",
         "52754"
-      ]
+      ],
+      "id": "letts-public-library-ia"
     },
     {
       "name": "MUSSER PUBLIC LIBRARY",
@@ -135,7 +143,8 @@
         "52749",
         "52760",
         "52761"
-      ]
+      ],
+      "id": "musser-public-library-ia"
     },
     {
       "name": "WEST LIBERTY PUBLIC LIBRARY",
@@ -150,7 +159,8 @@
         "52760",
         "52766",
         "52776"
-      ]
+      ],
+      "id": "west-liberty-public-library-ia"
     },
     {
       "name": "WILTON PUBLIC LIBRARY",
@@ -166,7 +176,8 @@
         "52778",
         "54648",
         "54670"
-      ]
+      ],
+      "id": "wilton-public-library-ia"
     },
     {
       "name": "BETTENDORF PUBLIC LIBRARY INFORMATION CENTER",
@@ -183,7 +194,8 @@
         "52804",
         "52806",
         "52807"
-      ]
+      ],
+      "id": "bettendorf-public-library-information-center-ia"
     },
     {
       "name": "SCOTT COUNTY LIBRARY SYSTEM",
@@ -203,7 +215,8 @@
         "52803",
         "52806",
         "52807"
-      ]
+      ],
+      "id": "scott-county-library-system-ia"
     },
     {
       "name": "BENNETT PUBLIC LIBRARY",
@@ -215,7 +228,8 @@
       "zipcodes": [
         "52721",
         "52747"
-      ]
+      ],
+      "id": "bennett-public-library-ia"
     },
     {
       "name": "CALAMUS PUBLIC LIBRARY",
@@ -228,7 +242,8 @@
         "52729",
         "52751",
         "52777"
-      ]
+      ],
+      "id": "calamus-public-library-ia"
     },
     {
       "name": "CAMANCHE PUBLIC LIBRARY",
@@ -241,7 +256,8 @@
         "52730",
         "52732",
         "52757"
-      ]
+      ],
+      "id": "camanche-public-library-ia"
     },
     {
       "name": "DEWITT COMMUNITY LIBRARY",
@@ -257,7 +273,8 @@
         "52751",
         "52757",
         "52774"
-      ]
+      ],
+      "id": "dewitt-community-library-ia"
     },
     {
       "name": "TIPTON PUBLIC LIBRARY",
@@ -268,7 +285,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52772"
-      ]
+      ],
+      "id": "tipton-public-library-ia"
     },
     {
       "name": "LE CLAIRE COMMUNITY LIBRARY",
@@ -281,7 +299,8 @@
         "52753",
         "52767",
         "52768"
-      ]
+      ],
+      "id": "le-claire-community-library-ia"
     }
   ]
 }

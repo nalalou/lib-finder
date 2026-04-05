@@ -9,7 +9,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51237"
-      ]
+      ],
+      "id": "george-public-library-ia"
     },
     {
       "name": "INWOOD PUBLIC LIBRARY",
@@ -21,7 +22,8 @@
       "zipcodes": [
         "51230",
         "51240"
-      ]
+      ],
+      "id": "inwood-public-library-ia"
     },
     {
       "name": "LARCHWOOD PUBLIC LIBRARY",
@@ -34,7 +36,8 @@
         "51230",
         "51241",
         "51242"
-      ]
+      ],
+      "id": "larchwood-public-library-ia"
     },
     {
       "name": "LITTLE ROCK PUBLIC LIBRARY",
@@ -45,7 +48,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51243"
-      ]
+      ],
+      "id": "little-rock-public-library-ia"
     },
     {
       "name": "ROCK RAPIDS PUBLIC LIBRARY",
@@ -57,7 +61,8 @@
       "zipcodes": [
         "51242",
         "51246"
-      ]
+      ],
+      "id": "rock-rapids-public-library-ia"
     },
     {
       "name": "PRIMGHAR PUBLIC LIBRARY",
@@ -69,7 +74,8 @@
       "zipcodes": [
         "51231",
         "51245"
-      ]
+      ],
+      "id": "primghar-public-library-ia"
     },
     {
       "name": "SANBORN PUBLIC LIBRARY",
@@ -81,7 +87,8 @@
       "zipcodes": [
         "51231",
         "51248"
-      ]
+      ],
+      "id": "sanborn-public-library-ia"
     },
     {
       "name": "ASHTON PUBLIC LIBRARY",
@@ -92,7 +99,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51232"
-      ]
+      ],
+      "id": "ashton-public-library-ia"
     },
     {
       "name": "SIBLEY PUBLIC LIBRARY",
@@ -103,7 +111,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51249"
-      ]
+      ],
+      "id": "sibley-public-library-ia"
     },
     {
       "name": "BOYDEN PUBLIC LIBRARY",
@@ -115,7 +124,8 @@
       "zipcodes": [
         "51234",
         "51244"
-      ]
+      ],
+      "id": "boyden-public-library-ia"
     },
     {
       "name": "HULL PUBLIC LIBRARY",
@@ -127,7 +137,8 @@
       "zipcodes": [
         "02045",
         "51239"
-      ]
+      ],
+      "id": "hull-public-library-ia-2"
     },
     {
       "name": "ROCK VALLEY PUBLIC LIBRARY",
@@ -138,7 +149,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "51247"
-      ]
+      ],
+      "id": "rock-valley-public-library-ia"
     },
     {
       "name": "SIOUX CENTER PUBLIC LIBRARY",
@@ -150,7 +162,8 @@
       "zipcodes": [
         "51036",
         "51250"
-      ]
+      ],
+      "id": "sioux-center-public-library-ia-2"
     },
     {
       "name": "SHELDON PUBLIC LIBRARY",
@@ -162,7 +175,8 @@
       "zipcodes": [
         "51201",
         "51231"
-      ]
+      ],
+      "id": "sheldon-public-library-ia"
     },
     {
       "name": "DOON PUBLIC LIBRARY",
@@ -174,7 +188,8 @@
       "zipcodes": [
         "51230",
         "51235"
-      ]
+      ],
+      "id": "doon-public-library-ia"
     },
     {
       "name": "HOSPERS PUBLIC LIBRARY",
@@ -186,7 +201,8 @@
       "zipcodes": [
         "51022",
         "51238"
-      ]
+      ],
+      "id": "hospers-public-library-ia-2"
     }
   ]
 }

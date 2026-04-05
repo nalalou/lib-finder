@@ -24,7 +24,8 @@
         "80018",
         "80103",
         "80105"
-      ]
+      ],
+      "id": "aurora-public-library-co-2"
     },
     {
       "name": "GILBERT PUBLIC LIBRARY",
@@ -37,7 +38,8 @@
         "55708",
         "55741",
         "68359"
-      ]
+      ],
+      "id": "gilbert-public-library-ne"
     },
     {
       "name": "EMILY PUBLIC LIBRARY",
@@ -53,7 +55,8 @@
         "56448",
         "56456",
         "56469"
-      ]
+      ],
+      "id": "emily-public-library-mn"
     },
     {
       "name": "ELY PUBLIC LIBRARY",
@@ -69,7 +72,8 @@
         "55725",
         "55731",
         "55790"
-      ]
+      ],
+      "id": "ely-public-library-ia-3"
     },
     {
       "name": "DULUTH PUBLIC LIBRARY",
@@ -93,7 +97,8 @@
         "55810",
         "55811",
         "55812"
-      ]
+      ],
+      "id": "duluth-public-library-mn"
     },
     {
       "name": "ARROWHEAD LIBRARY SYSTEM",
@@ -105,7 +110,8 @@
       "zipcodes": [
         "55710",
         "55768"
-      ]
+      ],
+      "id": "arrowhead-library-system-mn"
     },
     {
       "name": "BABBITT PUBLIC LIBRARY",
@@ -117,7 +123,8 @@
       "zipcodes": [
         "55706",
         "55782"
-      ]
+      ],
+      "id": "babbitt-public-library-mn"
     },
     {
       "name": "BOVEY PUBLIC LIBRARY",
@@ -134,7 +141,8 @@
         "56657",
         "56680",
         "56688"
-      ]
+      ],
+      "id": "bovey-public-library-mn"
     },
     {
       "name": "BUHL PUBLIC LIBRARY",
@@ -146,7 +154,8 @@
       "zipcodes": [
         "55713",
         "55751"
-      ]
+      ],
+      "id": "buhl-public-library-mn"
     },
     {
       "name": "CALUMET PUBLIC LIBRARY",
@@ -160,7 +169,8 @@
         "55742",
         "55775",
         "55784"
-      ]
+      ],
+      "id": "calumet-public-library-mn"
     },
     {
       "name": "CARLTON AREA PUBLIC LIBRARY",
@@ -173,7 +183,8 @@
         "55718",
         "55733",
         "55797"
-      ]
+      ],
+      "id": "carlton-area-public-library-mn"
     },
     {
       "name": "CHISHOLM PUBLIC LIBRARY",
@@ -185,7 +196,8 @@
       "zipcodes": [
         "55719",
         "55781"
-      ]
+      ],
+      "id": "chisholm-public-library-mn"
     },
     {
       "name": "CLOQUET PUBLIC LIBRARY",
@@ -198,7 +210,8 @@
         "55720",
         "55733",
         "55780"
-      ]
+      ],
+      "id": "cloquet-public-library-mn"
     },
     {
       "name": "COLERAINE PUBLIC LIBRARY",
@@ -211,7 +224,8 @@
         "55722",
         "55786",
         "55793"
-      ]
+      ],
+      "id": "coleraine-public-library-mn"
     },
     {
       "name": "COOK PUBLIC LIBRARY",
@@ -224,7 +238,8 @@
         "55703",
         "55723",
         "55771"
-      ]
+      ],
+      "id": "cook-public-library-mn"
     },
     {
       "name": "EVELETH PUBLIC LIBRARY",
@@ -239,7 +254,8 @@
         "55738",
         "55741",
         "55751"
-      ]
+      ],
+      "id": "eveleth-public-library-mn"
     },
     {
       "name": "GRAND RAPIDS AREA LIBRARY",
@@ -260,7 +276,8 @@
         "56663",
         "56681",
         "56683"
-      ]
+      ],
+      "id": "grand-rapids-area-library-mn"
     },
     {
       "name": "HIBBING PUBLIC LIBRARY",
@@ -273,7 +290,8 @@
         "55736",
         "55746",
         "55765"
-      ]
+      ],
+      "id": "hibbing-public-library-mn"
     },
     {
       "name": "HOYT LAKES PUBLIC LIBRARY",
@@ -287,7 +305,8 @@
         "55705",
         "55750",
         "55763"
-      ]
+      ],
+      "id": "hoyt-lakes-public-library-mn-2"
     },
     {
       "name": "KEEWATIN PUBLIC LIBRARY",
@@ -301,7 +320,8 @@
         "55769",
         "55775",
         "56639"
-      ]
+      ],
+      "id": "keewatin-public-library-mn"
     },
     {
       "name": "KINNEY PUBLIC LIBRARY",
@@ -314,7 +334,8 @@
         "55710",
         "55751",
         "55758"
-      ]
+      ],
+      "id": "kinney-public-library-mn"
     },
     {
       "name": "MARBLE PUBLIC LIBRARY",
@@ -327,7 +348,8 @@
         "55764",
         "55775",
         "55786"
-      ]
+      ],
+      "id": "marble-public-library-mn"
     },
     {
       "name": "MOOSE LAKE PUBLIC LIBRARY",
@@ -355,7 +377,8 @@
         "55798",
         "56342",
         "56350"
-      ]
+      ],
+      "id": "moose-lake-public-library-mn-2"
     },
     {
       "name": "MOUNTAIN IRON PUBLIC LIBRARY",
@@ -367,7 +390,8 @@
       "zipcodes": [
         "55710",
         "55768"
-      ]
+      ],
+      "id": "mountain-iron-public-library-mn"
     },
     {
       "name": "VIRGINIA PUBLIC LIBRARY",
@@ -380,7 +404,8 @@
         "55708",
         "55741",
         "55792"
-      ]
+      ],
+      "id": "virginia-public-library-mn"
     }
   ]
 }

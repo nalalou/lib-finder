@@ -16,7 +16,8 @@
         "64761",
         "65305",
         "65336"
-      ]
+      ],
+      "id": "trails-regional-library-mo-2"
     },
     {
       "name": "CEDAR COUNTY LIBRARY DISTRICT",
@@ -29,7 +30,8 @@
         "64744",
         "64756",
         "65785"
-      ]
+      ],
+      "id": "cedar-county-library-district-mo"
     },
     {
       "name": "NEVADA PUBLIC LIBRARY",
@@ -50,7 +52,8 @@
         "64783",
         "64784",
         "64790"
-      ]
+      ],
+      "id": "nevada-public-library-ia-2"
     },
     {
       "name": "APPLETON CITY PUBLIC LIBRARY",
@@ -61,7 +64,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "64724"
-      ]
+      ],
+      "id": "appleton-city-public-library-mo"
     },
     {
       "name": "RICH HILL MEMORIAL LIBRARY",
@@ -75,7 +79,8 @@
         "64752",
         "64779",
         "64780"
-      ]
+      ],
+      "id": "rich-hill-memorial-library-mo"
     },
     {
       "name": "CASS COUNTY PUBLIC LIBRARY",
@@ -98,7 +103,8 @@
         "64743",
         "64746",
         "64747"
-      ]
+      ],
+      "id": "cass-county-public-library-mo-2"
     },
     {
       "name": "HENRY COUNTY LIBRARY",
@@ -115,7 +121,8 @@
         "64788",
         "65323",
         "65360"
-      ]
+      ],
+      "id": "henry-county-library-mo"
     },
     {
       "name": "SAINT CLAIR COUNTY LIBRARY",
@@ -129,7 +136,8 @@
         "64763",
         "64776",
         "64781"
-      ]
+      ],
+      "id": "saint-clair-county-library-mo"
     },
     {
       "name": "BARTON COUNTY LIBRARY",
@@ -143,7 +151,8 @@
         "64759",
         "64762",
         "64769"
-      ]
+      ],
+      "id": "barton-county-library-mo"
     },
     {
       "name": "ADRIAN COMMUNITY LIBRARY",
@@ -157,7 +166,8 @@
         "64722",
         "64723",
         "64730"
-      ]
+      ],
+      "id": "adrian-community-library-mo"
     },
     {
       "name": "CARTHAGE PUBLIC LIBRARY",
@@ -175,7 +185,8 @@
         "64849",
         "64857",
         "64859"
-      ]
+      ],
+      "id": "carthage-public-library-mo"
     }
   ]
 }

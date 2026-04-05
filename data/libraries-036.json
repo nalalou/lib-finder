@@ -10,7 +10,8 @@
       "zipcodes": [
         "03605",
         "03607"
-      ]
+      ],
+      "id": "miner-memorial-library-nh"
     },
     {
       "name": "UNITY FREE PUBLIC LIBRARY",
@@ -22,7 +23,8 @@
       "zipcodes": [
         "03603",
         "03607"
-      ]
+      ],
+      "id": "unity-free-public-library-nh"
     },
     {
       "name": "WALPOLE TOWN LIBRARY",
@@ -34,7 +36,8 @@
       "zipcodes": [
         "03608",
         "03609"
-      ]
+      ],
+      "id": "walpole-town-library-nh"
     },
     {
       "name": "SILSBY FREE PUBLIC LIBRARY",
@@ -45,7 +48,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03603"
-      ]
+      ],
+      "id": "silsby-free-public-library-nh"
     },
     {
       "name": "SHEDD-PORTER MEMORIAL LIBRARY",
@@ -57,7 +61,8 @@
       "zipcodes": [
         "03602",
         "03609"
-      ]
+      ],
+      "id": "shedd-porter-memorial-library-nh"
     },
     {
       "name": "ACWORTH SILSBY PUBLIC LIBRARY",
@@ -69,7 +74,8 @@
       "zipcodes": [
         "03601",
         "03607"
-      ]
+      ],
+      "id": "acworth-silsby-public-library-nh"
     }
   ]
 }

@@ -19,7 +19,8 @@
         "99350",
         "99352",
         "99353"
-      ]
+      ],
+      "id": "richland-public-library-ia-2"
     },
     {
       "name": "RITZVILLE LIBRARY DISTRICT #2",
@@ -34,7 +35,8 @@
         "99341",
         "99344",
         "99371"
-      ]
+      ],
+      "id": "ritzville-library-district-2-wa-2"
     },
     {
       "name": "KITTITAS PUBLIC (GILMOUR MEMORIAL) LIBRARY",
@@ -48,7 +50,8 @@
         "98950",
         "99321",
         "99357"
-      ]
+      ],
+      "id": "kittitas-public-gilmour-memorial-library-wa-2"
     },
     {
       "name": "GRANDVIEW LIBRARY",
@@ -69,7 +72,8 @@
         "99322",
         "99349",
         "99356"
-      ]
+      ],
+      "id": "grandview-library-wa-3"
     },
     {
       "name": "POMEROY (DENNY ASHBY) LIBRARY",
@@ -80,7 +84,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99347"
-      ]
+      ],
+      "id": "pomeroy-denny-ashby-library-wa"
     },
     {
       "name": "WAITSBURG (WELLER) PUBLIC LIBRARY",
@@ -94,7 +99,8 @@
         "99335",
         "99348",
         "99361"
-      ]
+      ],
+      "id": "waitsburg-weller-public-library-wa"
     },
     {
       "name": "WALLA WALLA COUNTY RURAL LIBRARY DISTRICT",
@@ -109,7 +115,8 @@
         "99360",
         "99362",
         "99363"
-      ]
+      ],
+      "id": "walla-walla-county-rural-library-district-wa"
     },
     {
       "name": "WALLA WALLA PUBLIC LIBRARY",
@@ -121,7 +128,8 @@
       "zipcodes": [
         "99324",
         "99362"
-      ]
+      ],
+      "id": "walla-walla-public-library-wa"
     },
     {
       "name": "MID-COLUMBIA LIBRARIES",
@@ -137,7 +145,8 @@
         "99338",
         "99346",
         "99352"
-      ]
+      ],
+      "id": "mid-columbia-libraries-wa"
     },
     {
       "name": "COLUMBIA COUNTY RURAL LIBRARY DISTRICT",
@@ -149,7 +158,8 @@
       "zipcodes": [
         "99328",
         "99359"
-      ]
+      ],
+      "id": "columbia-county-rural-library-district-wa"
     }
   ]
 }

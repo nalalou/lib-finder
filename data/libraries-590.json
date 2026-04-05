@@ -50,7 +50,8 @@
         "87753",
         "88416",
         "88421"
-      ]
+      ],
+      "id": "carnegie-public-library-mt-6"
     },
     {
       "name": "BRIDGER PUBLIC LIBRARY",
@@ -62,7 +63,8 @@
       "zipcodes": [
         "59014",
         "59029"
-      ]
+      ],
+      "id": "bridger-public-library-mt"
     },
     {
       "name": "STILLWATER COUNTY LIBRARY",
@@ -79,7 +81,8 @@
         "59063",
         "59067",
         "59069"
-      ]
+      ],
+      "id": "stillwater-county-library-mt"
     },
     {
       "name": "BIG HORN COUNTY PUBLIC LIBRARY",
@@ -100,7 +103,8 @@
         "59066",
         "59075",
         "59089"
-      ]
+      ],
+      "id": "big-horn-county-public-library-mt"
     },
     {
       "name": "HARLOWTON PUBLIC LIBRARY",
@@ -115,7 +119,8 @@
         "59078",
         "59085",
         "59453"
-      ]
+      ],
+      "id": "harlowton-public-library-mt"
     },
     {
       "name": "LAUREL PUBLIC LIBRARY",
@@ -129,7 +134,8 @@
         "19956",
         "59044",
         "59057"
-      ]
+      ],
+      "id": "laurel-public-library-mt-2"
     },
     {
       "name": "LIVINGSTON-PARK COUNTY PUBLIC LIBRARY",
@@ -147,7 +153,8 @@
         "59065",
         "59081",
         "59086"
-      ]
+      ],
+      "id": "livingston-park-county-public-library-mt"
     },
     {
       "name": "RED LODGE CARNEGIE LIBRARY",
@@ -161,7 +168,8 @@
         "59008",
         "59068",
         "59071"
-      ]
+      ],
+      "id": "red-lodge-carnegie-library-mt"
     },
     {
       "name": "ROUNDUP SCHOOL-COMMUNITY LIBRARY",
@@ -175,7 +183,8 @@
         "59054",
         "59059",
         "59072"
-      ]
+      ],
+      "id": "roundup-school-community-library-mt"
     },
     {
       "name": "PETROLEUM COUNTY SCHOOL-COMMUNITY LIBRARY",
@@ -186,7 +195,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "59087"
-      ]
+      ],
+      "id": "petroleum-county-school-community-library-mt"
     },
     {
       "name": "JOLIET PUBLIC LIBRARY",
@@ -208,7 +218,8 @@
         "60435",
         "60436",
         "60441"
-      ]
+      ],
+      "id": "joliet-public-library-mt"
     },
     {
       "name": "BILLINGS PUBLIC LIBRARY",
@@ -230,7 +241,8 @@
         "59102",
         "59105",
         "59106"
-      ]
+      ],
+      "id": "billings-public-library-mt"
     },
     {
       "name": "MEAGHER COUNTY/CITY LIBRARY",
@@ -243,7 +255,8 @@
         "59053",
         "59642",
         "59645"
-      ]
+      ],
+      "id": "meagher-countycity-library-mt"
     },
     {
       "name": "GARFIELD COUNTY LIBRARY",
@@ -260,7 +273,8 @@
         "59337",
         "68637",
         "68823"
-      ]
+      ],
+      "id": "garfield-county-library-ne"
     },
     {
       "name": "LEWISTOWN PUBLIC LIBRARY",
@@ -273,7 +287,8 @@
         "59032",
         "59441",
         "59457"
-      ]
+      ],
+      "id": "lewistown-public-library-mt"
     },
     {
       "name": "HENRY A MALLEY MEMORIAL LIBRARY",
@@ -287,7 +302,8 @@
         "59314",
         "59317",
         "59343"
-      ]
+      ],
+      "id": "henry-a-malley-memorial-library-mt"
     },
     {
       "name": "ROSEBUD COUNTY LIBRARY",
@@ -307,7 +323,8 @@
         "59327",
         "59333",
         "59347"
-      ]
+      ],
+      "id": "rosebud-county-library-mt"
     }
   ]
 }

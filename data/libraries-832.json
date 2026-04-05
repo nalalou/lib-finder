@@ -10,7 +10,8 @@
       "zipcodes": [
         "83210",
         "83277"
-      ]
+      ],
+      "id": "aberdeen-district-id"
     },
     {
       "name": "AMERICAN FALLS DISTRICT",
@@ -21,7 +22,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83211"
-      ]
+      ],
+      "id": "american-falls-district-id"
     },
     {
       "name": "LOST RIVERS DISTRICT",
@@ -34,7 +36,8 @@
         "83213",
         "83244",
         "83255"
-      ]
+      ],
+      "id": "lost-rivers-district-id"
     },
     {
       "name": "BLACKFOOT PUBLIC",
@@ -45,7 +48,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83221"
-      ]
+      ],
+      "id": "blackfoot-public-id"
     },
     {
       "name": "SNAKE RIVER SCHOOL/COMMUNITY",
@@ -59,7 +63,8 @@
         "83215",
         "83221",
         "83262"
-      ]
+      ],
+      "id": "snake-river-schoolcommunity-id"
     },
     {
       "name": "CHALLIS PUBLIC",
@@ -71,7 +76,8 @@
       "zipcodes": [
         "83226",
         "83235"
-      ]
+      ],
+      "id": "challis-public-id"
     },
     {
       "name": "PORTNEUF DISTRICT",
@@ -83,7 +89,8 @@
       "zipcodes": [
         "83201",
         "83202"
-      ]
+      ],
+      "id": "portneuf-district-id"
     },
     {
       "name": "SOUTH BANNOCK DISTRICT",
@@ -98,7 +105,8 @@
         "83246",
         "83250",
         "83281"
-      ]
+      ],
+      "id": "south-bannock-district-id"
     },
     {
       "name": "GRACE DISTRICT",
@@ -110,7 +118,8 @@
       "zipcodes": [
         "83217",
         "83241"
-      ]
+      ],
+      "id": "grace-district-id"
     },
     {
       "name": "ONEIDA COUNTY DISTRICT",
@@ -122,7 +131,8 @@
       "zipcodes": [
         "83243",
         "83252"
-      ]
+      ],
+      "id": "oneida-county-district-id"
     },
     {
       "name": "MACKAY DISTRICT",
@@ -133,7 +143,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83251"
-      ]
+      ],
+      "id": "mackay-district-id"
     },
     {
       "name": "BEAR LAKE COUNTY DISTRICT",
@@ -151,7 +162,8 @@
         "83261",
         "83272",
         "83287"
-      ]
+      ],
+      "id": "bear-lake-county-district-id"
     },
     {
       "name": "MARSHALL PUBLIC",
@@ -164,7 +176,8 @@
         "83201",
         "83204",
         "83245"
-      ]
+      ],
+      "id": "marshall-public-id"
     },
     {
       "name": "LARSEN-SANT/FRANKLIN DISTRICT",
@@ -180,7 +193,8 @@
         "83263",
         "83283",
         "83286"
-      ]
+      ],
+      "id": "larsen-santfranklin-district-id"
     },
     {
       "name": "ROCKLAND SCHOOL/COMMUNITY",
@@ -192,7 +206,8 @@
       "zipcodes": [
         "83212",
         "83271"
-      ]
+      ],
+      "id": "rockland-schoolcommunity-id"
     },
     {
       "name": "NORTH BINGHAM COUNTY DISTRICT",
@@ -205,7 +220,8 @@
         "83218",
         "83236",
         "83274"
-      ]
+      ],
+      "id": "north-bingham-county-district-id"
     },
     {
       "name": "SODA SPRINGS PUBLIC",
@@ -217,7 +233,8 @@
       "zipcodes": [
         "83276",
         "83285"
-      ]
+      ],
+      "id": "soda-springs-public-id"
     },
     {
       "name": "STANLEY DISTRICT",
@@ -229,7 +246,8 @@
       "zipcodes": [
         "83227",
         "83278"
-      ]
+      ],
+      "id": "stanley-district-id"
     },
     {
       "name": "LEMHI COUNTY DISTRICT",
@@ -248,7 +266,8 @@
         "83467",
         "83468",
         "83469"
-      ]
+      ],
+      "id": "lemhi-county-district-id"
     }
   ]
 }

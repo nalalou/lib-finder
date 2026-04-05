@@ -20,7 +20,8 @@
         "78259",
         "78260",
         "78261"
-      ]
+      ],
+      "id": "universal-city-public-library-tx-2"
     },
     {
       "name": "CONVERSE PUBLIC LIBRARY",
@@ -44,7 +45,8 @@
         "78244",
         "78247",
         "78263"
-      ]
+      ],
+      "id": "converse-public-library-tx-2"
     },
     {
       "name": "LEON VALLEY PUBLIC LIBRARY",
@@ -87,7 +89,8 @@
         "78256",
         "78257",
         "78258"
-      ]
+      ],
+      "id": "leon-valley-public-library-tx-2"
     },
     {
       "name": "SAN ANTONIO PUBLIC LIBRARY",
@@ -133,7 +136,8 @@
         "78240",
         "78242",
         "78244"
-      ]
+      ],
+      "id": "san-antonio-public-library-tx"
     },
     {
       "name": "CITY OF GARDEN RIDGE LIBRARY",
@@ -144,7 +148,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78266"
-      ]
+      ],
+      "id": "city-of-garden-ridge-library-tx"
     },
     {
       "name": "BIBLIOTECH",
@@ -185,7 +190,8 @@
         "78242",
         "78252",
         "78264"
-      ]
+      ],
+      "id": "bibliotech-tx-3"
     }
   ]
 }

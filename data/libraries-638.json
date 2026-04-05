@@ -35,7 +35,8 @@
         "87412",
         "87413",
         "87415"
-      ]
+      ],
+      "id": "bloomfield-public-library-nj-10"
     },
     {
       "name": "STEELE PUBLIC LIBRARY",
@@ -50,7 +51,8 @@
         "63839",
         "63853",
         "63877"
-      ]
+      ],
+      "id": "steele-public-library-al-2"
     },
     {
       "name": "KELLER PUBLIC LIBRARY OF DEXTER",
@@ -64,7 +66,8 @@
         "63841",
         "63846",
         "63936"
-      ]
+      ],
+      "id": "keller-public-library-of-dexter-mo"
     },
     {
       "name": "HAYTI CONRAN MEMORIAL LIBRARY",
@@ -78,7 +81,8 @@
         "63827",
         "63851",
         "63879"
-      ]
+      ],
+      "id": "hayti-conran-memorial-library-mo"
     },
     {
       "name": "MISSISSIPPI COUNTY LIBRARY DISTRICT",
@@ -93,7 +97,8 @@
         "63834",
         "63845",
         "63882"
-      ]
+      ],
+      "id": "mississippi-county-library-district-mo"
     },
     {
       "name": "LILBOURN MEMORIAL LIBRARY",
@@ -112,7 +117,8 @@
         "63868",
         "63869",
         "63870"
-      ]
+      ],
+      "id": "lilbourn-memorial-library-mo"
     },
     {
       "name": "CARUTHERSVILLE PUBLIC LIBRARY",
@@ -124,7 +130,8 @@
       "zipcodes": [
         "63826",
         "63830"
-      ]
+      ],
+      "id": "caruthersville-public-library-mo"
     },
     {
       "name": "DUNKLIN COUNTY LIBRARY",
@@ -146,7 +153,8 @@
         "63876",
         "63880",
         "63933"
-      ]
+      ],
+      "id": "dunklin-county-library-mo"
     },
     {
       "name": "SIKESTON PUBLIC LIBRARY",
@@ -159,7 +167,8 @@
         "63784",
         "63801",
         "63824"
-      ]
+      ],
+      "id": "sikeston-public-library-mo-2"
     },
     {
       "name": "NEW MADRID COUNTY LIBRARY",
@@ -174,7 +183,8 @@
         "63873",
         "63874",
         "63878"
-      ]
+      ],
+      "id": "new-madrid-county-library-mo"
     },
     {
       "name": "BERNIE PUBLIC LIBRARY",
@@ -185,7 +195,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "63822"
-      ]
+      ],
+      "id": "bernie-public-library-mo"
     }
   ]
 }

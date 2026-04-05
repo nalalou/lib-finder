@@ -18,7 +18,8 @@
         "77855",
         "77865",
         "77871"
-      ]
+      ],
+      "id": "buffalo-public-library-tx"
     },
     {
       "name": "WOODWARD PUBLIC LIBRARY",
@@ -34,7 +35,8 @@
         "73841",
         "73857",
         "73859"
-      ]
+      ],
+      "id": "woodward-public-library-ia-3"
     },
     {
       "name": "BEAVER COUNTY PIONEER LIBRARY",
@@ -49,7 +51,8 @@
         "73932",
         "73938",
         "73950"
-      ]
+      ],
+      "id": "beaver-county-pioneer-library-ok"
     },
     {
       "name": "SHATTUCK PUBLIC LIBRARY",
@@ -65,7 +68,8 @@
         "73840",
         "73843",
         "73858"
-      ]
+      ],
+      "id": "shattuck-public-library-ok-2"
     },
     {
       "name": "WAYNOKA PUBLIC LIBRARY",
@@ -77,7 +81,8 @@
       "zipcodes": [
         "73842",
         "73860"
-      ]
+      ],
+      "id": "waynoka-public-library-ok"
     },
     {
       "name": "LAVERNE DELPHIAN PUBLIC LIBRARY",
@@ -89,7 +94,8 @@
       "zipcodes": [
         "73848",
         "73851"
-      ]
+      ],
+      "id": "laverne-delphian-public-library-ok"
     },
     {
       "name": "MOORELAND - BEYOND THE PAGES",
@@ -103,7 +109,8 @@
         "73835",
         "73852",
         "73853"
-      ]
+      ],
+      "id": "mooreland---beyond-the-pages-ok-2"
     },
     {
       "name": "FAIRVIEW CITY LIBRARY",
@@ -121,7 +128,8 @@
         "73760",
         "73768",
         "73838"
-      ]
+      ],
+      "id": "fairview-city-library-ok-3"
     }
   ]
 }

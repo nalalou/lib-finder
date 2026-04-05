@@ -13,7 +13,8 @@
         "76357",
         "76365",
         "76377"
-      ]
+      ],
+      "id": "edwards-public-library-ma-3"
     },
     {
       "name": "ELECTRA PUBLIC LIBRARY",
@@ -24,7 +25,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76360"
-      ]
+      ],
+      "id": "electra-public-library-tx"
     },
     {
       "name": "ARCHER PUBLIC LIBRARY",
@@ -39,7 +41,8 @@
         "76370",
         "76379",
         "76389"
-      ]
+      ],
+      "id": "archer-public-library-tx"
     },
     {
       "name": "TOM BURNETT MEMORIAL LIBRARY",
@@ -53,7 +56,8 @@
         "76309",
         "76311",
         "76367"
-      ]
+      ],
+      "id": "tom-burnett-memorial-library-tx"
     },
     {
       "name": "MUNDAY CITY-COUNTY LIBRARY",
@@ -67,7 +71,8 @@
         "76371",
         "79505",
         "79529"
-      ]
+      ],
+      "id": "munday-city-county-library-tx"
     },
     {
       "name": "OLNEY COMMUNITY LIBRARY AND ARTS CENTER",
@@ -79,7 +84,8 @@
       "zipcodes": [
         "76372",
         "76374"
-      ]
+      ],
+      "id": "olney-community-library-and-arts-center-tx"
     },
     {
       "name": "BAYLOR COUNTY FREE LIBRARY",
@@ -90,7 +96,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76380"
-      ]
+      ],
+      "id": "baylor-county-free-library-tx"
     },
     {
       "name": "CARNEGIE CITY-COUNTY LIBRARY",
@@ -104,7 +111,8 @@
         "76373",
         "76384",
         "79247"
-      ]
+      ],
+      "id": "carnegie-city-county-library-tx"
     },
     {
       "name": "WICHITA FALLS PUBLIC LIBRARY",
@@ -122,7 +130,8 @@
         "76309",
         "76310",
         "76311"
-      ]
+      ],
+      "id": "wichita-falls-public-library-tx"
     },
     {
       "name": "BURKBURNETT LIBRARY",
@@ -134,7 +143,8 @@
       "zipcodes": [
         "76311",
         "76354"
-      ]
+      ],
+      "id": "burkburnett-library-tx"
     },
     {
       "name": "HASKELL COUNTY LIBRARY",
@@ -150,7 +160,8 @@
         "79544",
         "79547",
         "79548"
-      ]
+      ],
+      "id": "haskell-county-library-tx"
     }
   ]
 }

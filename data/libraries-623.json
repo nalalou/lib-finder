@@ -24,7 +24,8 @@
         "69340",
         "69360",
         "69365"
-      ]
+      ],
+      "id": "rushville-public-library-in-3"
     },
     {
       "name": "HAMILTON PUBLIC LIBRARY",
@@ -53,7 +54,8 @@
         "76457",
         "76531",
         "76565"
-      ]
+      ],
+      "id": "hamilton-public-library-tx-3"
     },
     {
       "name": "WARSAW PUBLIC LIBRARY",
@@ -70,7 +72,8 @@
         "62341",
         "62373",
         "62379"
-      ]
+      ],
+      "id": "warsaw-public-library-ny-4"
     },
     {
       "name": "BARRY PUBLIC LIBRARY",
@@ -87,7 +90,8 @@
         "62356",
         "62357",
         "62370"
-      ]
+      ],
+      "id": "barry-public-library-il"
     },
     {
       "name": "CAMP POINT PUBLIC LIBRARY DISTRICT",
@@ -104,7 +108,8 @@
         "62346",
         "62347",
         "62359"
-      ]
+      ],
+      "id": "camp-point-public-library-district-il"
     },
     {
       "name": "CARTHAGE PUBLIC LIBRARY DISTRICT",
@@ -120,7 +125,8 @@
         "62336",
         "62341",
         "62380"
-      ]
+      ],
+      "id": "carthage-public-library-district-il"
     },
     {
       "name": "CLAYTON PUBLIC LIBRARY DISTRICT",
@@ -133,7 +139,8 @@
         "62324",
         "62339",
         "62346"
-      ]
+      ],
+      "id": "clayton-public-library-district-il"
     },
     {
       "name": "COLCHESTER DISTRICT LIBRARY",
@@ -145,7 +152,8 @@
       "zipcodes": [
         "62326",
         "62374"
-      ]
+      ],
+      "id": "colchester-district-library-il"
     },
     {
       "name": "NORTH PIKE DISTRICT LIBRARY",
@@ -160,7 +168,8 @@
         "62340",
         "62357",
         "62362"
-      ]
+      ],
+      "id": "north-pike-district-library-il"
     },
     {
       "name": "GREATER WEST CENTRAL PUBLIC LIBRARY DISTRICT",
@@ -173,7 +182,8 @@
         "62311",
         "62316",
         "62367"
-      ]
+      ],
+      "id": "greater-west-central-public-library-district-il"
     },
     {
       "name": "BROWN COUNTY PUBLIC LIBRARY DISTRICT",
@@ -186,7 +196,8 @@
         "62353",
         "62375",
         "62378"
-      ]
+      ],
+      "id": "brown-county-public-library-district-il"
     },
     {
       "name": "NAUVOO PUBLIC LIBRARY",
@@ -198,7 +209,8 @@
       "zipcodes": [
         "62354",
         "62358"
-      ]
+      ],
+      "id": "nauvoo-public-library-il"
     },
     {
       "name": "PITTSFIELD PUBLIC LIBRARY",
@@ -218,7 +230,8 @@
         "62361",
         "62363",
         "62366"
-      ]
+      ],
+      "id": "pittsfield-public-library-il-2"
     },
     {
       "name": "QUINCY PUBLIC LIBRARY",
@@ -232,7 +245,8 @@
         "62338",
         "62360",
         "62365"
-      ]
+      ],
+      "id": "quincy-public-library-il"
     },
     {
       "name": "FOUR STAR PUBLIC LIBRARY DISTRICT",
@@ -249,7 +263,8 @@
         "62351",
         "62359",
         "62376"
-      ]
+      ],
+      "id": "four-star-public-library-district-il"
     },
     {
       "name": "LAHARPE CARNEGIE PUBLIC LIBRARY DISTRICT",
@@ -261,7 +276,8 @@
       "zipcodes": [
         "61450",
         "62330"
-      ]
+      ],
+      "id": "laharpe-carnegie-public-library-district-il-2"
     }
   ]
 }

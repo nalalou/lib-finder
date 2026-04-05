@@ -19,7 +19,8 @@
         "62226",
         "66935",
         "66959"
-      ]
+      ],
+      "id": "belleville-public-library-nj-4"
     },
     {
       "name": "WASHINGTON PUBLIC LIBRARY",
@@ -52,7 +53,8 @@
         "66958",
         "66962",
         "66968"
-      ]
+      ],
+      "id": "washington-public-library-mo-5"
     },
     {
       "name": "RANDALL PUBLIC LIBRARY",
@@ -63,7 +65,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66963"
-      ]
+      ],
+      "id": "randall-public-library-ks"
     },
     {
       "name": "FORMOSO PUBLIC LIBRARY",
@@ -75,7 +78,8 @@
       "zipcodes": [
         "66942",
         "66970"
-      ]
+      ],
+      "id": "formoso-public-library-ks"
     },
     {
       "name": "RAE HOBSON MEMORIAL LIBRARY",
@@ -86,7 +90,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66964"
-      ]
+      ],
+      "id": "rae-hobson-memorial-library-ks"
     },
     {
       "name": "BURR OAK COMMUNITY LIBRARY",
@@ -98,7 +103,8 @@
       "zipcodes": [
         "66936",
         "66941"
-      ]
+      ],
+      "id": "burr-oak-community-library-ks"
     },
     {
       "name": "LEBANON COMMUNITY",
@@ -109,7 +115,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66952"
-      ]
+      ],
+      "id": "lebanon-community-ks"
     },
     {
       "name": "COURTLAND COMMUNITY LIBRARY",
@@ -120,7 +127,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66939"
-      ]
+      ],
+      "id": "courtland-community-library-ks"
     },
     {
       "name": "JAMESTOWN CITY LIBRARY",
@@ -131,7 +139,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66948"
-      ]
+      ],
+      "id": "jamestown-city-library-ks"
     },
     {
       "name": "SCANDIA CITY LIBRARY",
@@ -143,7 +152,8 @@
       "zipcodes": [
         "66935",
         "66966"
-      ]
+      ],
+      "id": "scandia-city-library-ks"
     },
     {
       "name": "JEWELL PUBLIC LIBRARY",
@@ -154,7 +164,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66949"
-      ]
+      ],
+      "id": "jewell-public-library-ks"
     },
     {
       "name": "KENSINGTON COMMUNITY/SCHOOL LIBRARY",
@@ -167,7 +178,8 @@
         "66932",
         "66951",
         "67628"
-      ]
+      ],
+      "id": "kensington-communityschool-library-ks"
     },
     {
       "name": "RANDOLPH-DECKER PUB. LIB.",
@@ -179,7 +191,8 @@
       "zipcodes": [
         "66938",
         "67466"
-      ]
+      ],
+      "id": "randolph-decker-pub-lib-ks"
     },
     {
       "name": "MANKATO CITY LIBRARY",
@@ -190,7 +203,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66956"
-      ]
+      ],
+      "id": "mankato-city-library-ks"
     },
     {
       "name": "SMITH CENTER PUBLIC LIBRARY",
@@ -202,7 +216,8 @@
       "zipcodes": [
         "66932",
         "66967"
-      ]
+      ],
+      "id": "smith-center-public-library-ks"
     },
     {
       "name": "FRANK CARLSON LIBRARY",
@@ -214,7 +229,8 @@
       "zipcodes": [
         "66901",
         "67417"
-      ]
+      ],
+      "id": "frank-carlson-library-ks"
     },
     {
       "name": "HANOVER PUBLIC",
@@ -226,7 +242,8 @@
       "zipcodes": [
         "66945",
         "66946"
-      ]
+      ],
+      "id": "hanover-public-ks"
     },
     {
       "name": "HILLCREST LIBRARY",
@@ -241,7 +258,8 @@
         "66940",
         "66959",
         "66960"
-      ]
+      ],
+      "id": "hillcrest-library-ks"
     }
   ]
 }

@@ -12,7 +12,8 @@
         "06336",
         "06380",
         "99032"
-      ]
+      ],
+      "id": "sprague-public-library-wa"
     },
     {
       "name": "WATERFORD PUBLIC LIBRARY",
@@ -36,7 +37,8 @@
         "53139",
         "53167",
         "53185"
-      ]
+      ],
+      "id": "waterford-public-library-pa"
     },
     {
       "name": "PRESTON PUBLIC LIBRARY",
@@ -54,7 +56,8 @@
         "55935",
         "55965",
         "55990"
-      ]
+      ],
+      "id": "preston-public-library-mn"
     },
     {
       "name": "STERLING PUBLIC LIBRARY",
@@ -75,7 +78,8 @@
         "80741",
         "80745",
         "80751"
-      ]
+      ],
+      "id": "sterling-public-library-ne"
     },
     {
       "name": "KILLINGLY PUBLIC LIBRARY",
@@ -88,7 +92,8 @@
         "06239",
         "06241",
         "06377"
-      ]
+      ],
+      "id": "killingly-public-library-ct-2"
     },
     {
       "name": "JONATHAN TRUMBULL LIBRARY",
@@ -100,7 +105,8 @@
       "zipcodes": [
         "06249",
         "06336"
-      ]
+      ],
+      "id": "jonathan-trumbull-library-ct-2"
     },
     {
       "name": "JANET CARLSON CALVERT LIBRARY",
@@ -114,7 +120,8 @@
         "06330",
         "06334",
         "06336"
-      ]
+      ],
+      "id": "janet-carlson-calvert-library-ct-2"
     },
     {
       "name": "CANTERBURY PUBLIC LIBRARY",
@@ -126,7 +133,8 @@
       "zipcodes": [
         "06331",
         "06374"
-      ]
+      ],
+      "id": "canterbury-public-library-ct"
     },
     {
       "name": "EAST LYME PUBLIC LIBRARY",
@@ -140,7 +148,8 @@
         "06357",
         "06376",
         "06385"
-      ]
+      ],
+      "id": "east-lyme-public-library-ct"
     },
     {
       "name": "SLATER LIBRARY",
@@ -153,7 +162,8 @@
         "06330",
         "06351",
         "06380"
-      ]
+      ],
+      "id": "slater-library-ct"
     },
     {
       "name": "BILL MEMORIAL LIBRARY",
@@ -166,7 +176,8 @@
         "06335",
         "06340",
         "06375"
-      ]
+      ],
+      "id": "bill-memorial-library-ct"
     },
     {
       "name": "MYSTIC & NOANK LIBRARY",
@@ -178,7 +189,8 @@
       "zipcodes": [
         "06355",
         "06379"
-      ]
+      ],
+      "id": "mystic-noank-library-ct"
     },
     {
       "name": "LEDYARD PUBLIC LIBRARIES",
@@ -192,7 +204,8 @@
         "06339",
         "06365",
         "06382"
-      ]
+      ],
+      "id": "ledyard-public-libraries-ct"
     },
     {
       "name": "LYME PUBLIC LIBRARY",
@@ -205,7 +218,8 @@
         "06333",
         "06371",
         "06420"
-      ]
+      ],
+      "id": "lyme-public-library-ct"
     },
     {
       "name": "RAYMOND LIBRARY",
@@ -219,7 +233,8 @@
         "06370",
         "06382",
         "06420"
-      ]
+      ],
+      "id": "raymond-library-ct"
     },
     {
       "name": "PUBLIC LIBRARY OF NEW LONDON",
@@ -232,7 +247,8 @@
         "06320",
         "06375",
         "06385"
-      ]
+      ],
+      "id": "public-library-of-new-london-ct"
     },
     {
       "name": "WHEELER LIBRARY",
@@ -244,7 +260,8 @@
       "zipcodes": [
         "06359",
         "06379"
-      ]
+      ],
+      "id": "wheeler-library-ct"
     },
     {
       "name": "OTIS LIBRARY",
@@ -259,7 +276,8 @@
         "06365",
         "06380",
         "06382"
-      ]
+      ],
+      "id": "otis-library-ct"
     },
     {
       "name": "PHOEBE GRIFFIN NOYES LIBRARY",
@@ -271,7 +289,8 @@
       "zipcodes": [
         "06371",
         "06376"
-      ]
+      ],
+      "id": "phoebe-griffin-noyes-library-ct"
     },
     {
       "name": "ALDRICH FREE PUBLIC LIBRARY",
@@ -285,7 +304,8 @@
         "06373",
         "06374",
         "06377"
-      ]
+      ],
+      "id": "aldrich-free-public-library-ct"
     },
     {
       "name": "STONINGTON FREE LIBRARY",
@@ -297,7 +317,8 @@
       "zipcodes": [
         "06378",
         "06379"
-      ]
+      ],
+      "id": "stonington-free-library-ct"
     },
     {
       "name": "VOLUNTOWN PUBLIC LIBRARY",
@@ -308,7 +329,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "06384"
-      ]
+      ],
+      "id": "voluntown-public-library-ct"
     },
     {
       "name": "FISHERS ISLAND LIBRARY ASSOCIATION",
@@ -320,7 +342,8 @@
       "zipcodes": [
         "06390",
         "11957"
-      ]
+      ],
+      "id": "fishers-island-library-association-ny"
     }
   ]
 }

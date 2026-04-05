@@ -9,7 +9,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76936"
-      ]
+      ],
+      "id": "schleicher-county-public-library-tx"
     },
     {
       "name": "CROCKETT COUNTY PUBLIC LIBRARY",
@@ -20,7 +21,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76943"
-      ]
+      ],
+      "id": "crockett-county-public-library-tx"
     },
     {
       "name": "COKE COUNTY LIBRARY",
@@ -34,7 +36,8 @@
         "76945",
         "76949",
         "76953"
-      ]
+      ],
+      "id": "coke-county-library-tx"
     },
     {
       "name": "TOM GREEN COUNTY LIBRARY SYSTEM",
@@ -54,7 +57,8 @@
         "76940",
         "76955",
         "76958"
-      ]
+      ],
+      "id": "tom-green-county-library-system-tx"
     },
     {
       "name": "REAGAN COUNTY LIBRARY",
@@ -65,7 +69,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76932"
-      ]
+      ],
+      "id": "reagan-county-library-tx"
     },
     {
       "name": "SUTTON COUNTY LIBRARY",
@@ -76,7 +81,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76950"
-      ]
+      ],
+      "id": "sutton-county-library-tx"
     },
     {
       "name": "MB NOELKE JR MEMORIAL LIBRARY",
@@ -88,7 +94,8 @@
       "zipcodes": [
         "76930",
         "76941"
-      ]
+      ],
+      "id": "mb-noelke-jr-memorial-library-tx"
     },
     {
       "name": "STERLING COUNTY PUBLIC LIBRARY",
@@ -99,7 +106,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76951"
-      ]
+      ],
+      "id": "sterling-county-public-library-tx"
     }
   ]
 }

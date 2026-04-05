@@ -16,7 +16,8 @@
         "86321",
         "86332",
         "86343"
-      ]
+      ],
+      "id": "prescott-public-library-ia-3"
     },
     {
       "name": "VENITO GARCIA LIBRARY AND ARCHIVES",
@@ -29,7 +30,8 @@
         "85321",
         "85633",
         "85634"
-      ]
+      ],
+      "id": "venito-garcia-library-and-archives-az"
     },
     {
       "name": "PARKER PUBLIC LIBRARY",
@@ -46,7 +48,8 @@
         "57047",
         "57053",
         "85344"
-      ]
+      ],
+      "id": "parker-public-library-az-2"
     },
     {
       "name": "AVONDALE PUBLIC LIBRARY",
@@ -64,7 +67,8 @@
         "85323",
         "85338",
         "85340"
-      ]
+      ],
+      "id": "avondale-public-library-az-2"
     },
     {
       "name": "BUCKEYE PUBLIC LIBRARY",
@@ -78,7 +82,8 @@
         "85338",
         "85340",
         "85354"
-      ]
+      ],
+      "id": "buckeye-public-library-az"
     },
     {
       "name": "GLENDALE PUBLIC LIBRARY",
@@ -118,7 +123,8 @@
         "85373",
         "85381",
         "85382"
-      ]
+      ],
+      "id": "glendale-public-library-az-2"
     },
     {
       "name": "TOLLESON PUBLIC LIBRARY",
@@ -140,7 +146,8 @@
         "85303",
         "85339",
         "85353"
-      ]
+      ],
+      "id": "tolleson-public-library-az-2"
     },
     {
       "name": "WICKENBURG PUBLIC LIBRARY AND LEARNING CENTER",
@@ -154,7 +161,8 @@
         "85342",
         "85361",
         "85390"
-      ]
+      ],
+      "id": "wickenburg-public-library-and-learning-center-az"
     },
     {
       "name": "YUMA COUNTY LIBRARY DISTRICT",
@@ -170,7 +178,8 @@
         "85364",
         "85365",
         "85367"
-      ]
+      ],
+      "id": "yuma-county-library-district-az"
     },
     {
       "name": "DESERT FOOTHILLS LIBRARY",
@@ -188,7 +197,8 @@
         "85087",
         "85262",
         "85331"
-      ]
+      ],
+      "id": "desert-foothills-library-az-3"
     },
     {
       "name": "PEORIA PUBLIC LIBRARY SYSTEM",
@@ -224,7 +234,8 @@
         "85379",
         "85381",
         "85382"
-      ]
+      ],
+      "id": "peoria-public-library-system-az-2"
     },
     {
       "name": "YOUNGTOWN PUBLIC LIBRARY",
@@ -251,7 +262,8 @@
         "85379",
         "85381",
         "85382"
-      ]
+      ],
+      "id": "youngtown-public-library-az"
     },
     {
       "name": "COLORADO RIVER INDIAN TRIBES LIBRARY/ARCHIVES",
@@ -262,7 +274,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "85344"
-      ]
+      ],
+      "id": "colorado-river-indian-tribes-libraryarchives-az"
     },
     {
       "name": "QUARTZSITE PUBLIC LIBRARY",
@@ -275,7 +288,8 @@
         "85328",
         "85334",
         "85346"
-      ]
+      ],
+      "id": "quartzsite-public-library-az"
     },
     {
       "name": "COCOPAH TRIBAL LIBRARY",
@@ -288,7 +302,8 @@
         "85336",
         "85349",
         "85350"
-      ]
+      ],
+      "id": "cocopah-tribal-library-az"
     },
     {
       "name": "LA PAZ COUNTY SERVICES",
@@ -301,7 +316,8 @@
         "85325",
         "85348",
         "85357"
-      ]
+      ],
+      "id": "la-paz-county-services-az"
     },
     {
       "name": "SAN LUCY LIBRARY",
@@ -313,7 +329,8 @@
       "zipcodes": [
         "85322",
         "85337"
-      ]
+      ],
+      "id": "san-lucy-library-az"
     },
     {
       "name": "MOHAVE COUNTY LIBRARY DISTRICT",
@@ -330,7 +347,8 @@
         "86431",
         "86438",
         "86441"
-      ]
+      ],
+      "id": "mohave-county-library-district-az"
     },
     {
       "name": "CAMP VERDE COMMUNITY LIBRARY",
@@ -344,7 +362,8 @@
         "86322",
         "86333",
         "86335"
-      ]
+      ],
+      "id": "camp-verde-community-library-az"
     }
   ]
 }

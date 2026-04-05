@@ -12,7 +12,8 @@
         "02892",
         "02898",
         "68351"
-      ]
+      ],
+      "id": "exeter-public-library-ne"
     },
     {
       "name": "NEWPORT PUBLIC LIBRARY",
@@ -35,7 +36,8 @@
         "17074",
         "97365",
         "97366"
-      ]
+      ],
+      "id": "newport-public-library-or"
     },
     {
       "name": "CUMBERLAND PUBLIC LIBRARY",
@@ -51,7 +53,8 @@
         "02865",
         "50274",
         "50843"
-      ]
+      ],
+      "id": "cumberland-public-library-ia"
     },
     {
       "name": "LINCOLN PUBLIC LIBRARY",
@@ -80,7 +83,8 @@
         "95746",
         "95747",
         "95765"
-      ]
+      ],
+      "id": "lincoln-public-library-ma-3"
     },
     {
       "name": "ADAMS PUBLIC LIBRARY",
@@ -95,7 +99,8 @@
         "02916",
         "97810",
         "97859"
-      ]
+      ],
+      "id": "adams-public-library-or"
     },
     {
       "name": "MIDDLETOWN PUBLIC LIBRARY",
@@ -115,7 +120,8 @@
         "17109",
         "17111",
         "17113"
-      ]
+      ],
+      "id": "middletown-public-library-pa"
     },
     {
       "name": "GREENVILLE PUBLIC LIBRARY",
@@ -149,7 +155,8 @@
         "62273",
         "62275",
         "62284"
-      ]
+      ],
+      "id": "greenville-public-library-oh"
     },
     {
       "name": "BARRINGTON PUBLIC LIBRARY",
@@ -163,7 +170,8 @@
         "03825",
         "03839",
         "03867"
-      ]
+      ],
+      "id": "barrington-public-library-nh"
     },
     {
       "name": "EAST PROVIDENCE PUBLIC LIBRARY",
@@ -179,7 +187,8 @@
         "02914",
         "02915",
         "02916"
-      ]
+      ],
+      "id": "east-providence-public-library-ri"
     },
     {
       "name": "MAYOR SALVATORE MANCINI UNION FREE LIBRARY",
@@ -193,7 +202,8 @@
         "02904",
         "02908",
         "02911"
-      ]
+      ],
+      "id": "mayor-salvatore-mancini-union-free-library-ri"
     },
     {
       "name": "EAST SMITHFIELD PUBLIC LIBRARY",
@@ -206,7 +216,8 @@
         "02828",
         "02911",
         "02917"
-      ]
+      ],
+      "id": "east-smithfield-public-library-ri"
     },
     {
       "name": "HOPE LIBRARY",
@@ -220,7 +231,8 @@
         "02831",
         "02921",
         "04847"
-      ]
+      ],
+      "id": "hope-library-me"
     },
     {
       "name": "CLARK MEMORIAL LIBRARY",
@@ -239,7 +251,8 @@
         "02894",
         "02898",
         "06524"
-      ]
+      ],
+      "id": "clark-memorial-library-ct"
     },
     {
       "name": "ROGERS FREE LIBRARY",
@@ -251,7 +264,8 @@
       "zipcodes": [
         "02806",
         "02809"
-      ]
+      ],
+      "id": "rogers-free-library-ri"
     },
     {
       "name": "JESSE M. SMITH MEMORIAL LIBRARY",
@@ -264,7 +278,8 @@
         "02830",
         "02839",
         "02858"
-      ]
+      ],
+      "id": "jesse-m-smith-memorial-library-ri"
     },
     {
       "name": "PASCOAG FREE PUBLIC LIBRARY",
@@ -277,7 +292,8 @@
         "02839",
         "02858",
         "02859"
-      ]
+      ],
+      "id": "pascoag-free-public-library-ri"
     },
     {
       "name": "CROSS' MILLS PUBLIC LIBRARY",
@@ -292,7 +308,8 @@
         "02813",
         "02836",
         "02875"
-      ]
+      ],
+      "id": "cross-mills-public-library-ri"
     },
     {
       "name": "COVENTRY PUBLIC LIBRARY",
@@ -304,7 +321,8 @@
       "zipcodes": [
         "02816",
         "02827"
-      ]
+      ],
+      "id": "coventry-public-library-ri"
     },
     {
       "name": "EAST GREENWICH FREE LIBRARY",
@@ -316,7 +334,8 @@
       "zipcodes": [
         "02818",
         "02888"
-      ]
+      ],
+      "id": "east-greenwich-free-library-ri"
     },
     {
       "name": "LIBRARIES OF FOSTER",
@@ -329,7 +348,8 @@
         "02815",
         "02825",
         "02831"
-      ]
+      ],
+      "id": "libraries-of-foster-ri"
     },
     {
       "name": "HARMONY LIBRARY",
@@ -341,7 +361,8 @@
       "zipcodes": [
         "02828",
         "02829"
-      ]
+      ],
+      "id": "harmony-library-ri"
     },
     {
       "name": "GLOCESTER MANTON FREE PUBLIC LIBRARY",
@@ -354,7 +375,8 @@
         "02814",
         "02839",
         "02858"
-      ]
+      ],
+      "id": "glocester-manton-free-public-library-ri"
     },
     {
       "name": "ASHAWAY FREE LIBRARY",
@@ -368,7 +390,8 @@
         "02808",
         "02833",
         "02894"
-      ]
+      ],
+      "id": "ashaway-free-library-ri"
     },
     {
       "name": "LANGWORTHY PUBLIC LIBRARY",
@@ -386,7 +409,8 @@
         "02875",
         "02894",
         "02898"
-      ]
+      ],
+      "id": "langworthy-public-library-ri"
     },
     {
       "name": "JAMESTOWN PHILOMENIAN LIBRARY",
@@ -399,7 +423,8 @@
         "02835",
         "02840",
         "02842"
-      ]
+      ],
+      "id": "jamestown-philomenian-library-ri"
     },
     {
       "name": "BROWNELL LIBRARY, HOME OF LITTLE COMPTON",
@@ -410,7 +435,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02837"
-      ]
+      ],
+      "id": "brownell-library-home-of-little-compton-ri"
     },
     {
       "name": "MAURY LOONTJENS MEMORIAL LIBRARY (NARRAGANSETT)",
@@ -422,7 +448,8 @@
       "zipcodes": [
         "02881",
         "02882"
-      ]
+      ],
+      "id": "maury-loontjens-memorial-library-narragansett-ri"
     },
     {
       "name": "ISLAND FREE LIBRARY",
@@ -433,7 +460,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02807"
-      ]
+      ],
+      "id": "island-free-library-ri"
     },
     {
       "name": "NORTH KINGSTOWN FREE LIBRARY",
@@ -444,7 +472,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02852"
-      ]
+      ],
+      "id": "north-kingstown-free-library-ri"
     },
     {
       "name": "WILLETT FREE LIBRARY",
@@ -456,7 +485,8 @@
       "zipcodes": [
         "02874",
         "02881"
-      ]
+      ],
+      "id": "willett-free-library-ri"
     },
     {
       "name": "NORTH SMITHFIELD PUBLIC LIBRARY",
@@ -468,7 +498,8 @@
       "zipcodes": [
         "02876",
         "02896"
-      ]
+      ],
+      "id": "north-smithfield-public-library-ri"
     },
     {
       "name": "PAWTUCKET PUBLIC LIBRARY",
@@ -483,7 +514,8 @@
         "02863",
         "02906",
         "02916"
-      ]
+      ],
+      "id": "pawtucket-public-library-ri"
     },
     {
       "name": "PORTSMOUTH FREE PUBLIC LIBRARY",
@@ -494,7 +526,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "02871"
-      ]
+      ],
+      "id": "portsmouth-free-public-library-ri"
     },
     {
       "name": "NORTH SCITUATE PUBLIC LIBRARY",
@@ -507,7 +540,8 @@
         "02815",
         "02831",
         "02857"
-      ]
+      ],
+      "id": "north-scituate-public-library-ri"
     },
     {
       "name": "SOUTH KINGSTOWN PUBLIC LIBRARY",
@@ -520,7 +554,8 @@
         "02879",
         "02881",
         "02892"
-      ]
+      ],
+      "id": "south-kingstown-public-library-ri"
     },
     {
       "name": "TIVERTON PUBLIC LIBRARY",
@@ -531,7 +566,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02878"
-      ]
+      ],
+      "id": "tiverton-public-library-ri"
     },
     {
       "name": "GEORGE HAIL FREE LIBRARY",
@@ -543,7 +579,8 @@
       "zipcodes": [
         "02806",
         "02885"
-      ]
+      ],
+      "id": "george-hail-free-library-ri"
     },
     {
       "name": "WARWICK PUBLIC LIBRARY",
@@ -555,7 +592,8 @@
       "zipcodes": [
         "02888",
         "02889"
-      ]
+      ],
+      "id": "warwick-public-library-ri"
     },
     {
       "name": "PONTIAC FREE LIBRARY",
@@ -567,7 +605,8 @@
       "zipcodes": [
         "02886",
         "02888"
-      ]
+      ],
+      "id": "pontiac-free-library-ri"
     },
     {
       "name": "LOUTTIT LIBRARY",
@@ -579,7 +618,8 @@
       "zipcodes": [
         "02817",
         "02827"
-      ]
+      ],
+      "id": "louttit-library-ri"
     },
     {
       "name": "WEST WARWICK PUBLIC LIBRARY",
@@ -590,7 +630,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02893"
-      ]
+      ],
+      "id": "west-warwick-public-library-ri"
     },
     {
       "name": "WESTERLY PUBLIC LIBRARY",
@@ -602,7 +643,8 @@
       "zipcodes": [
         "02808",
         "02891"
-      ]
+      ],
+      "id": "westerly-public-library-ri"
     },
     {
       "name": "WOONSOCKET HARRIS PUBLIC LIBRARY",
@@ -616,7 +658,8 @@
         "02864",
         "02895",
         "02896"
-      ]
+      ],
+      "id": "woonsocket-harris-public-library-ri"
     },
     {
       "name": "DAVISVILLE FREE LIBRARY",
@@ -627,7 +670,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02852"
-      ]
+      ],
+      "id": "davisville-free-library-ri"
     }
   ]
 }

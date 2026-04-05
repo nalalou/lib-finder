@@ -14,7 +14,8 @@
         "70535",
         "70554",
         "88231"
-      ]
+      ],
+      "id": "eunice-public-library-la-2"
     },
     {
       "name": "ARTESIA PUBLIC LIBRARY",
@@ -29,7 +30,8 @@
         "88253",
         "88254",
         "88255"
-      ]
+      ],
+      "id": "artesia-public-library-nm"
     },
     {
       "name": "CARLSBAD PUBLIC LIBRARY",
@@ -43,7 +45,8 @@
         "88256",
         "88263",
         "88268"
-      ]
+      ],
+      "id": "carlsbad-public-library-nm"
     },
     {
       "name": "HOBBS PUBLIC LIBRARY",
@@ -56,7 +59,8 @@
         "88240",
         "88242",
         "88265"
-      ]
+      ],
+      "id": "hobbs-public-library-nm"
     },
     {
       "name": "WOOLWORTH COMMUNITY LIBRARY",
@@ -67,7 +71,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "88252"
-      ]
+      ],
+      "id": "woolworth-community-library-nm"
     },
     {
       "name": "LOVINGTON PUBLIC LIBRARY",
@@ -79,7 +84,8 @@
       "zipcodes": [
         "88260",
         "88264"
-      ]
+      ],
+      "id": "lovington-public-library-nm"
     },
     {
       "name": "ROSWELL PUBLIC LIBRARY",
@@ -92,7 +98,8 @@
         "88201",
         "88230",
         "88232"
-      ]
+      ],
+      "id": "roswell-public-library-nm"
     },
     {
       "name": "TATUM COMMUNITY LIBRARY",
@@ -105,7 +112,8 @@
         "88114",
         "88262",
         "88267"
-      ]
+      ],
+      "id": "tatum-community-library-nm-2"
     }
   ]
 }

@@ -15,7 +15,8 @@
         "33418",
         "33477",
         "51347"
-      ]
+      ],
+      "id": "lake-park-public-library-fl-2"
     },
     {
       "name": "ESTHERVILLE PUBLIC LIBRARY",
@@ -27,7 +28,8 @@
       "zipcodes": [
         "51334",
         "51365"
-      ]
+      ],
+      "id": "estherville-public-library-ia"
     },
     {
       "name": "MELVIN PUBLIC LIBRARY",
@@ -42,7 +44,8 @@
         "60952",
         "60962",
         "61773"
-      ]
+      ],
+      "id": "melvin-public-library-ia"
     },
     {
       "name": "OCHEYEDAN PUBLIC LIBRARY",
@@ -54,7 +57,8 @@
       "zipcodes": [
         "51345",
         "51354"
-      ]
+      ],
+      "id": "ocheyedan-public-library-ia"
     },
     {
       "name": "RUTHVEN PUBLIC LIBRARY",
@@ -66,7 +70,8 @@
       "zipcodes": [
         "50515",
         "51358"
-      ]
+      ],
+      "id": "ruthven-public-library-ia-2"
     },
     {
       "name": "ROYAL PUBLIC LIBRARY",
@@ -78,7 +83,8 @@
       "zipcodes": [
         "51343",
         "51357"
-      ]
+      ],
+      "id": "royal-public-library-ia"
     },
     {
       "name": "SPENCER PUBLIC LIBRARY",
@@ -91,7 +97,8 @@
         "51301",
         "51333",
         "51343"
-      ]
+      ],
+      "id": "spencer-public-library-ia"
     },
     {
       "name": "WEBB PUBLIC LIBRARY",
@@ -104,7 +111,8 @@
         "51341",
         "51343",
         "51366"
-      ]
+      ],
+      "id": "webb-public-library-ia"
     },
     {
       "name": "ARNOLDS PARK PUBLIC LIBRARY",
@@ -116,7 +124,8 @@
       "zipcodes": [
         "51331",
         "51355"
-      ]
+      ],
+      "id": "arnolds-park-public-library-ia"
     },
     {
       "name": "MILFORD MEMORIAL LIBRARY",
@@ -128,7 +137,8 @@
       "zipcodes": [
         "51351",
         "51355"
-      ]
+      ],
+      "id": "milford-memorial-library-ia"
     },
     {
       "name": "SPIRIT LAKE PUBLIC LIBRARY",
@@ -141,7 +151,8 @@
         "51355",
         "51360",
         "51363"
-      ]
+      ],
+      "id": "spirit-lake-public-library-ia"
     },
     {
       "name": "TERRIL PUBLIC LIBRARY",
@@ -153,7 +164,8 @@
       "zipcodes": [
         "51363",
         "51364"
-      ]
+      ],
+      "id": "terril-public-library-ia"
     },
     {
       "name": "GRAETTINGER PUBLIC LIBRARY",
@@ -164,7 +176,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "51342"
-      ]
+      ],
+      "id": "graettinger-public-library-ia"
     },
     {
       "name": "HARTLEY PUBLIC LIBRARY",
@@ -175,7 +188,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51346"
-      ]
+      ],
+      "id": "hartley-public-library-ia"
     },
     {
       "name": "EVERLY PUBLIC LIBRARY",
@@ -186,7 +200,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51338"
-      ]
+      ],
+      "id": "everly-public-library-ia"
     }
   ]
 }

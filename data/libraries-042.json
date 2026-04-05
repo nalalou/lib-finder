@@ -18,7 +18,8 @@
         "94550",
         "94568",
         "94586"
-      ]
+      ],
+      "id": "livermore-public-library-ca"
     },
     {
       "name": "ANDOVER PUBLIC LIBRARY",
@@ -42,7 +43,8 @@
         "44093",
         "67002",
         "67017"
-      ]
+      ],
+      "id": "andover-public-library-oh-2"
     },
     {
       "name": "PARIS PUBLIC LIBRARY",
@@ -66,7 +68,8 @@
         "75473",
         "75477",
         "75486"
-      ]
+      ],
+      "id": "paris-public-library-tx"
     },
     {
       "name": "BOWDOINHAM PUBLIC LIBRARY",
@@ -79,7 +82,8 @@
         "04008",
         "04287",
         "04579"
-      ]
+      ],
+      "id": "bowdoinham-public-library-me-2"
     },
     {
       "name": "CHARLOTTE HOBBS MEMORIAL LIBRARY",
@@ -91,7 +95,8 @@
       "zipcodes": [
         "04051",
         "04231"
-      ]
+      ],
+      "id": "charlotte-hobbs-memorial-library-me-2"
     },
     {
       "name": "TOPSHAM PUBLIC LIBRARY",
@@ -103,7 +108,8 @@
       "zipcodes": [
         "04086",
         "04287"
-      ]
+      ],
+      "id": "topsham-public-library-me-2"
     },
     {
       "name": "WATERFORD LIBRARY ASSOCIATION",
@@ -115,7 +121,8 @@
       "zipcodes": [
         "04088",
         "04231"
-      ]
+      ],
+      "id": "waterford-library-association-me-2"
     },
     {
       "name": "AUBURN PUBLIC LIBRARY",
@@ -134,7 +141,8 @@
         "36849",
         "36879",
         "51433"
-      ]
+      ],
+      "id": "auburn-public-library-ia"
     },
     {
       "name": "BETHEL LIBRARY ASSN.",
@@ -148,7 +156,8 @@
         "04237",
         "04255",
         "04261"
-      ]
+      ],
+      "id": "bethel-library-assn-me"
     },
     {
       "name": "ZADOC LONG FREE LIBRARY",
@@ -161,7 +170,8 @@
         "04220",
         "04238",
         "04292"
-      ]
+      ],
+      "id": "zadoc-long-free-library-me"
     },
     {
       "name": "LUDDEN MEMORIAL LIBRARY",
@@ -174,7 +184,8 @@
         "04221",
         "04224",
         "04290"
-      ]
+      ],
+      "id": "ludden-memorial-library-me"
     },
     {
       "name": "JAY-NILES MEMORIAL LIBRARY",
@@ -185,7 +196,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04239"
-      ]
+      ],
+      "id": "jay-niles-memorial-library-me"
     },
     {
       "name": "LEWISTON PUBLIC LIBRARY",
@@ -205,7 +217,8 @@
         "84320",
         "84333",
         "84338"
-      ]
+      ],
+      "id": "lewiston-public-library-me"
     },
     {
       "name": "LISBON LIBRARY DEPT",
@@ -219,7 +232,8 @@
         "04250",
         "04252",
         "04280"
-      ]
+      ],
+      "id": "lisbon-library-dept-me"
     },
     {
       "name": "TREAT MEMORIAL LIBRARY",
@@ -232,7 +246,8 @@
         "04228",
         "04253",
         "04254"
-      ]
+      ],
+      "id": "treat-memorial-library-me"
     },
     {
       "name": "MECHANIC FALLS PUBLIC LIBRARY",
@@ -245,7 +260,8 @@
         "04210",
         "04256",
         "04258"
-      ]
+      ],
+      "id": "mechanic-falls-public-library-me"
     },
     {
       "name": "CUMSTON PUBLIC LIBRARY",
@@ -258,7 +274,8 @@
         "04259",
         "04265",
         "04350"
-      ]
+      ],
+      "id": "cumston-public-library-me"
     },
     {
       "name": "NEW GLOUCESTER PUBLIC LIBRARY",
@@ -270,7 +287,8 @@
       "zipcodes": [
         "04069",
         "04260"
-      ]
+      ],
+      "id": "new-gloucester-public-library-me-2"
     },
     {
       "name": "NORWAY MEMORIAL LIBRARY",
@@ -281,7 +299,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04268"
-      ]
+      ],
+      "id": "norway-memorial-library-me"
     },
     {
       "name": "FREELAND HOLMES LIBRARY",
@@ -292,7 +311,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "04270"
-      ]
+      ],
+      "id": "freeland-holmes-library-me"
     },
     {
       "name": "HAMLIN MEMORIAL LIBRARY",
@@ -314,7 +334,8 @@
         "16745",
         "16749",
         "16750"
-      ]
+      ],
+      "id": "hamlin-memorial-library-me"
     },
     {
       "name": "RICKER MEMORIAL LIBRARY",
@@ -326,7 +347,8 @@
       "zipcodes": [
         "04258",
         "04274"
-      ]
+      ],
+      "id": "ricker-memorial-library-me"
     },
     {
       "name": "RUMFORD PUBLIC LIBRARY",
@@ -339,7 +361,8 @@
         "04226",
         "04276",
         "04290"
-      ]
+      ],
+      "id": "rumford-public-library-me"
     },
     {
       "name": "TURNER PUBLIC LIBRARY",
@@ -352,7 +375,8 @@
         "04253",
         "04263",
         "04282"
-      ]
+      ],
+      "id": "turner-public-library-me"
     },
     {
       "name": "CARY MEMORIAL LIBRARY-WAYNE",
@@ -364,7 +388,8 @@
       "zipcodes": [
         "04265",
         "04284"
-      ]
+      ],
+      "id": "cary-memorial-library-wayne-me"
     },
     {
       "name": "WEST PARIS PUBLIC LIBRARY",
@@ -377,7 +402,8 @@
         "04255",
         "04289",
         "04292"
-      ]
+      ],
+      "id": "west-paris-public-library-me"
     },
     {
       "name": "WILTON FREE PUBLIC LIBRARY",
@@ -390,7 +416,8 @@
         "04294",
         "04938",
         "04984"
-      ]
+      ],
+      "id": "wilton-free-public-library-me"
     },
     {
       "name": "WHITMAN MEMORIAL LIBRARY",
@@ -403,7 +430,8 @@
         "04219",
         "04237",
         "04255"
-      ]
+      ],
+      "id": "whitman-memorial-library-me"
     },
     {
       "name": "MEXICO FREE PUBLIC LIBRARY",
@@ -416,7 +444,8 @@
         "04226",
         "04257",
         "04290"
-      ]
+      ],
+      "id": "mexico-free-public-library-me"
     },
     {
       "name": "WELD FREE PUBLIC LIBRARY",
@@ -429,7 +458,8 @@
         "04285",
         "04966",
         "04984"
-      ]
+      ],
+      "id": "weld-free-public-library-me"
     },
     {
       "name": "JULIA ADAMS MORSE MEMORIAL LIBRARY",
@@ -442,7 +472,8 @@
         "04236",
         "04263",
         "04280"
-      ]
+      ],
+      "id": "julia-adams-morse-memorial-library-me"
     },
     {
       "name": "CHARLES M. BAILEY PUBLIC LIBRARY",
@@ -456,7 +487,8 @@
         "04350",
         "04351",
         "04364"
-      ]
+      ],
+      "id": "charles-m-bailey-public-library-me"
     },
     {
       "name": "ISAAC F. UMBERHINE PUBLIC LIBRARY",
@@ -469,7 +501,8 @@
         "04287",
         "04357",
         "04579"
-      ]
+      ],
+      "id": "isaac-f-umberhine-public-library-me"
     }
   ]
 }

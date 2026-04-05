@@ -22,7 +22,8 @@
         "85533",
         "85540",
         "85922"
-      ]
+      ],
+      "id": "clifton-public-library-nj-6"
     },
     {
       "name": "HOLBROOK PUBLIC LIBRARY",
@@ -38,7 +39,8 @@
         "86025",
         "86031",
         "86032"
-      ]
+      ],
+      "id": "holbrook-public-library-az-3"
     },
     {
       "name": "FLAGSTAFF CITY-COCONINO COUNTY PUBLIC LIBRARY",
@@ -58,7 +60,8 @@
         "86020",
         "86024",
         "86035"
-      ]
+      ],
+      "id": "flagstaff-city-coconino-county-public-library-az"
     },
     {
       "name": "APACHE COUNTY LIBRARY DISTRICT OFFICE",
@@ -77,7 +80,8 @@
         "85936",
         "85938",
         "85940"
-      ]
+      ],
+      "id": "apache-county-library-district-office-az"
     },
     {
       "name": "WHITERIVER PUBLIC LIBRARY",
@@ -89,7 +93,8 @@
       "zipcodes": [
         "85926",
         "85941"
-      ]
+      ],
+      "id": "whiteriver-public-library-az"
     },
     {
       "name": "PINETOP-LAKESIDE PUBLIC LIBRARY",
@@ -101,7 +106,8 @@
       "zipcodes": [
         "85929",
         "85935"
-      ]
+      ],
+      "id": "pinetop-lakeside-public-library-az"
     },
     {
       "name": "SHOW LOW PUBLIC LIBRARY",
@@ -115,7 +121,8 @@
         "85911",
         "85923",
         "85934"
-      ]
+      ],
+      "id": "show-low-public-library-az"
     },
     {
       "name": "SNOWFLAKE-TAYLOR PUBLIC LIBRARY",
@@ -129,7 +136,8 @@
         "85933",
         "85937",
         "85939"
-      ]
+      ],
+      "id": "snowflake-taylor-public-library-az"
     }
   ]
 }

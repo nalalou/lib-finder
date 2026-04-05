@@ -11,7 +11,8 @@
         "81101",
         "81136",
         "81146"
-      ]
+      ],
+      "id": "alamosa-public-library-co"
     },
     {
       "name": "UPPER SAN JUAN LIBRARY DISTRICT",
@@ -24,7 +25,8 @@
         "81121",
         "81128",
         "81147"
-      ]
+      ],
+      "id": "upper-san-juan-library-district-co"
     },
     {
       "name": "PINE RIVER PUBLIC LIBRARY DISTRICT/BAYFIELD",
@@ -35,7 +37,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "81122"
-      ]
+      ],
+      "id": "pine-river-public-library-districtbayfield-co"
     },
     {
       "name": "CONEJOS COUNTY LIBRARY DISTRICT",
@@ -51,7 +54,8 @@
         "81141",
         "81148",
         "81151"
-      ]
+      ],
+      "id": "conejos-county-library-district-co"
     },
     {
       "name": "COSTILLA COUNTY PUBLIC LIBRARY",
@@ -65,7 +69,8 @@
         "81126",
         "81133",
         "81152"
-      ]
+      ],
+      "id": "costilla-county-public-library-co"
     },
     {
       "name": "MINERAL COUNTY SCHOOL/REGIONAL PUBLIC LIBRARY",
@@ -76,7 +81,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "81130"
-      ]
+      ],
+      "id": "mineral-county-schoolregional-public-library-co"
     },
     {
       "name": "NORTHERN SAGUACHE COUNTY LIBRARY DISTRICT",
@@ -92,7 +98,8 @@
         "81149",
         "81155",
         "81248"
-      ]
+      ],
+      "id": "northern-saguache-county-library-district-co"
     },
     {
       "name": "IGNACIO COMMUNITY LIBRARY DISTRICT",
@@ -103,7 +110,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "81137"
-      ]
+      ],
+      "id": "ignacio-community-library-district-co"
     },
     {
       "name": "RIO GRANDE COUNTY LIBRARY DISTRICT",
@@ -116,7 +124,8 @@
         "81132",
         "81144",
         "81154"
-      ]
+      ],
+      "id": "rio-grande-county-library-district-co"
     }
   ]
 }

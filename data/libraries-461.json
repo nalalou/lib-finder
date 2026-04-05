@@ -14,7 +14,8 @@
         "46184",
         "68304",
         "68366"
-      ]
+      ],
+      "id": "greenwood-public-library-ne"
     },
     {
       "name": "LEBANON PUBLIC LIBRARY",
@@ -42,7 +43,8 @@
         "62289",
         "97355",
         "97389"
-      ]
+      ],
+      "id": "lebanon-public-library-or-4"
     },
     {
       "name": "KNIGHTSTOWN PUBLIC LIBRARY",
@@ -58,7 +60,8 @@
         "47351",
         "47352",
         "47384"
-      ]
+      ],
+      "id": "knightstown-public-library-in"
     },
     {
       "name": "HENRY HENLEY PUBLIC LIBRARY",
@@ -71,7 +74,8 @@
         "46104",
         "46115",
         "46155"
-      ]
+      ],
+      "id": "henry-henley-public-library-in"
     },
     {
       "name": "RUSHVILLE PUBLIC LIBRARY",
@@ -97,7 +101,8 @@
         "69340",
         "69360",
         "69365"
-      ]
+      ],
+      "id": "rushville-public-library-in"
     },
     {
       "name": "PUTNAM COUNTY PUBLIC LIBRARY",
@@ -117,7 +122,8 @@
         "63567",
         "64655",
         "64672"
-      ]
+      ],
+      "id": "putnam-county-public-library-in"
     },
     {
       "name": "ROACHDALE-FRANKLIN TOWNSHIP PUBLIC LIBRARY",
@@ -130,7 +136,8 @@
         "46105",
         "46172",
         "46175"
-      ]
+      ],
+      "id": "roachdale-franklin-township-public-library-in"
     },
     {
       "name": "HANCOCK COUNTY PUBLIC LIBRARY",
@@ -150,7 +157,8 @@
         "46140",
         "46163",
         "46186"
-      ]
+      ],
+      "id": "hancock-county-public-library-in-5"
     },
     {
       "name": "COATESVILLE-CLAY TOWNSHIP PUBLIC LIBRARY",
@@ -163,7 +171,8 @@
         "46103",
         "46121",
         "46180"
-      ]
+      ],
+      "id": "coatesville-clay-township-public-library-in"
     },
     {
       "name": "BROWNSBURG PUBLIC LIBRARY",
@@ -176,7 +185,8 @@
         "46112",
         "46149",
         "46167"
-      ]
+      ],
+      "id": "brownsburg-public-library-in"
     },
     {
       "name": "DANVILLE-CENTER TOWNSHIP PUBLIC LIBRARY",
@@ -191,7 +201,8 @@
         "46149",
         "46165",
         "46167"
-      ]
+      ],
+      "id": "danville-center-township-public-library-in"
     },
     {
       "name": "CLAYTON-LIBERTY TOWNSHIP PUBLIC LIBRARY",
@@ -204,7 +215,8 @@
         "46103",
         "46118",
         "46180"
-      ]
+      ],
+      "id": "clayton-liberty-township-public-library-in"
     },
     {
       "name": "AVON-WASHINGTON TOWNSHIP PUBLIC LIBRARY",
@@ -216,7 +228,8 @@
       "zipcodes": [
         "46123",
         "46167"
-      ]
+      ],
+      "id": "avon-washington-township-public-library-in"
     },
     {
       "name": "PLAINFIELD-GUILFORD TOWNSHIP PUBLIC LIBRARY",
@@ -227,7 +240,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46168"
-      ]
+      ],
+      "id": "plainfield-guilford-township-public-library-in"
     },
     {
       "name": "JOHNSON COUNTY PUBLIC LIBRARY",
@@ -264,7 +278,8 @@
         "46143",
         "46181",
         "46184"
-      ]
+      ],
+      "id": "johnson-county-public-library-in-3"
     },
     {
       "name": "EDINBURGH WRIGHT-HAGEMAN PUBLIC LIBRARY",
@@ -275,7 +290,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46124"
-      ]
+      ],
+      "id": "edinburgh-wright-hageman-public-library-in"
     },
     {
       "name": "MORGAN COUNTY PUBLIC LIBRARY",
@@ -296,7 +312,8 @@
         "46125",
         "46151",
         "46166"
-      ]
+      ],
+      "id": "morgan-county-public-library-in-4"
     },
     {
       "name": "MOORESVILLE PUBLIC LIBRARY",
@@ -313,7 +330,8 @@
         "46113",
         "46157",
         "46158"
-      ]
+      ],
+      "id": "mooresville-public-library-in-2"
     },
     {
       "name": "SHELBY COUNTY PUBLIC LIBRARY",
@@ -332,7 +350,8 @@
         "46176",
         "46182",
         "47234"
-      ]
+      ],
+      "id": "shelby-county-public-library-in"
     },
     {
       "name": "BROWN COUNTY PUBLIC LIBRARY",
@@ -352,7 +371,8 @@
         "46160",
         "46164",
         "47448"
-      ]
+      ],
+      "id": "brown-county-public-library-oh-2"
     },
     {
       "name": "FAYETTE COUNTY PUBLIC LIBRARY",
@@ -400,7 +420,8 @@
         "26680",
         "46133",
         "47331"
-      ]
+      ],
+      "id": "fayette-county-public-library-wv-6"
     },
     {
       "name": "INDIANAPOLIS PUBLIC LIBRARY",
@@ -444,7 +465,8 @@
         "46259",
         "46260",
         "46268"
-      ]
+      ],
+      "id": "indianapolis-public-library-in"
     }
   ]
 }

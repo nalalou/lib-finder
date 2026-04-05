@@ -13,7 +13,8 @@
         "59747",
         "59749",
         "97378"
-      ]
+      ],
+      "id": "sheridan-public-library-or-2"
     },
     {
       "name": "JEFFERSON COUNTY LIBRARY - BOULDER",
@@ -27,7 +28,8 @@
         "59632",
         "59721",
         "59759"
-      ]
+      ],
+      "id": "jefferson-county-library---boulder-mt-2"
     },
     {
       "name": "BELGRADE COMMUNITY LIBRARY",
@@ -38,7 +40,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "59714"
-      ]
+      ],
+      "id": "belgrade-community-library-mt"
     },
     {
       "name": "BOZEMAN PUBLIC LIBRARY",
@@ -51,7 +54,8 @@
         "59715",
         "59718",
         "59730"
-      ]
+      ],
+      "id": "bozeman-public-library-mt"
     },
     {
       "name": "BUTTE-SILVER BOW PUBLIC LIBRARY",
@@ -66,7 +70,8 @@
         "59743",
         "59748",
         "59750"
-      ]
+      ],
+      "id": "butte-silver-bow-public-library-mt"
     },
     {
       "name": "WILLIAM K. KOHRS MEMORIAL LIBRARY",
@@ -83,7 +88,8 @@
         "59733",
         "59843",
         "59854"
-      ]
+      ],
+      "id": "william-k-kohrs-memorial-library-mt"
     },
     {
       "name": "DILLON PUBLIC LIBRARY",
@@ -99,7 +105,8 @@
         "59746",
         "59761",
         "59762"
-      ]
+      ],
+      "id": "dillon-public-library-mt"
     },
     {
       "name": "MADISON VALLEY PUBLIC LIBRARY",
@@ -112,7 +119,8 @@
         "59729",
         "59740",
         "59745"
-      ]
+      ],
+      "id": "madison-valley-public-library-mt"
     },
     {
       "name": "MANHATTAN COMMUNITY SCHOOL LIBRARY",
@@ -123,7 +131,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "59741"
-      ]
+      ],
+      "id": "manhattan-community-school-library-mt"
     },
     {
       "name": "THREE FORKS COMMUNITY LIBRARY",
@@ -134,7 +143,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "59752"
-      ]
+      ],
+      "id": "three-forks-community-library-mt"
     },
     {
       "name": "TWIN BRIDGES PUBLIC LIBRARY",
@@ -146,7 +156,8 @@
       "zipcodes": [
         "59751",
         "59754"
-      ]
+      ],
+      "id": "twin-bridges-public-library-mt"
     },
     {
       "name": "THOMPSON-HICKMAN MADISON COUNTY LIBRARY",
@@ -159,7 +170,8 @@
         "59710",
         "59720",
         "59755"
-      ]
+      ],
+      "id": "thompson-hickman-madison-county-library-mt"
     },
     {
       "name": "WEST YELLOWSTONE PUBLIC LIBRARY",
@@ -171,7 +183,8 @@
       "zipcodes": [
         "59716",
         "59758"
-      ]
+      ],
+      "id": "west-yellowstone-public-library-mt"
     },
     {
       "name": "HEARST FREE LIBRARY",
@@ -183,7 +196,8 @@
       "zipcodes": [
         "59711",
         "59756"
-      ]
+      ],
+      "id": "hearst-free-library-mt"
     }
   ]
 }

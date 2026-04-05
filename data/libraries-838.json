@@ -12,7 +12,8 @@
         "83826",
         "83845",
         "83847"
-      ]
+      ],
+      "id": "boundary-county-district-id"
     },
     {
       "name": "COEUR D`ALENE PUBLIC",
@@ -31,7 +32,8 @@
         "83835",
         "83842",
         "83876"
-      ]
+      ],
+      "id": "coeur-dalene-public-id"
     },
     {
       "name": "CLARKIA DISTRICT",
@@ -42,7 +44,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83812"
-      ]
+      ],
+      "id": "clarkia-district-id"
     },
     {
       "name": "ELK RIVER DISTRICT",
@@ -55,7 +58,8 @@
         "83520",
         "83541",
         "83827"
-      ]
+      ],
+      "id": "elk-river-district-id-2"
     },
     {
       "name": "LATAH COUNTY DISTRICT",
@@ -76,7 +80,8 @@
         "83857",
         "83871",
         "83872"
-      ]
+      ],
+      "id": "latah-county-district-id-2"
     },
     {
       "name": "MULLAN PUBLIC",
@@ -90,7 +95,8 @@
         "83846",
         "83867",
         "83874"
-      ]
+      ],
+      "id": "mullan-public-id"
     },
     {
       "name": "OSBURN PUBLIC",
@@ -103,7 +109,8 @@
         "83849",
         "83867",
         "83868"
-      ]
+      ],
+      "id": "osburn-public-id"
     },
     {
       "name": "PLUMMER PUBLIC",
@@ -115,7 +122,8 @@
       "zipcodes": [
         "83824",
         "83851"
-      ]
+      ],
+      "id": "plummer-public-id"
     },
     {
       "name": "WEST BONNER DISTRICT",
@@ -130,7 +138,8 @@
         "83822",
         "83841",
         "83856"
-      ]
+      ],
+      "id": "west-bonner-district-id"
     },
     {
       "name": "EAST BONNER COUNTY DISTRICT",
@@ -147,7 +156,8 @@
         "83852",
         "83860",
         "83864"
-      ]
+      ],
+      "id": "east-bonner-county-district-id"
     },
     {
       "name": "ST MARIES PUBLIC",
@@ -160,7 +170,8 @@
         "83830",
         "83861",
         "83866"
-      ]
+      ],
+      "id": "st-maries-public-id"
     },
     {
       "name": "WALLACE PUBLIC",
@@ -173,7 +184,8 @@
         "83808",
         "83867",
         "83873"
-      ]
+      ],
+      "id": "wallace-public-id"
     },
     {
       "name": "KELLOGG PUBLIC",
@@ -187,7 +199,8 @@
         "83839",
         "83850",
         "83868"
-      ]
+      ],
+      "id": "kellogg-public-id"
     },
     {
       "name": "BENEWAH DISTRICT",
@@ -198,7 +211,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "83870"
-      ]
+      ],
+      "id": "benewah-district-id"
     },
     {
       "name": "COMMUNITY LIBRARY NETWORK",
@@ -212,7 +226,8 @@
         "83854",
         "83858",
         "83869"
-      ]
+      ],
+      "id": "community-library-network-id"
     },
     {
       "name": "PRIEST LAKE DISTRICT",
@@ -225,7 +240,8 @@
         "83821",
         "83848",
         "83856"
-      ]
+      ],
+      "id": "priest-lake-district-id"
     }
   ]
 }

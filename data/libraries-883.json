@@ -12,7 +12,8 @@
         "88325",
         "88330",
         "88337"
-      ]
+      ],
+      "id": "alamogordo-public-library-nm"
     },
     {
       "name": "RUIDOSO PUBLIC LIBRARY",
@@ -28,7 +29,8 @@
         "88343",
         "88345",
         "88346"
-      ]
+      ],
+      "id": "ruidoso-public-library-nm"
     },
     {
       "name": "CAPITAN PUBLIC LIBRARY",
@@ -43,7 +45,8 @@
         "88338",
         "88348",
         "88351"
-      ]
+      ],
+      "id": "capitan-public-library-nm"
     },
     {
       "name": "MICHAEL NIVISON PUBLIC LIBRARY",
@@ -61,7 +64,8 @@
         "88347",
         "88350",
         "88354"
-      ]
+      ],
+      "id": "michael-nivison-public-library-nm"
     },
     {
       "name": "MESCALERO COMMUNITY LIBRARY",
@@ -73,7 +77,8 @@
       "zipcodes": [
         "88314",
         "88340"
-      ]
+      ],
+      "id": "mescalero-community-library-nm"
     },
     {
       "name": "TULAROSA PUBLIC LIBRARY",
@@ -86,7 +91,8 @@
         "88314",
         "88337",
         "88352"
-      ]
+      ],
+      "id": "tularosa-public-library-nm"
     },
     {
       "name": "VILLAGE OF CORONA PUBLIC LIBRARY",
@@ -97,7 +103,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "88318"
-      ]
+      ],
+      "id": "village-of-corona-public-library-nm"
     },
     {
       "name": "CARRIZOZO COMMUNITY PUBLIC LIBRARY",
@@ -109,7 +116,8 @@
       "zipcodes": [
         "88301",
         "88341"
-      ]
+      ],
+      "id": "carrizozo-community-public-library-nm"
     },
     {
       "name": "MOISE MEMORIAL LIBRARY",
@@ -123,7 +131,8 @@
         "88417",
         "88431",
         "88435"
-      ]
+      ],
+      "id": "moise-memorial-library-nm"
     },
     {
       "name": "ESTANCIA PUBLIC LIBRARY",
@@ -137,7 +146,8 @@
         "87032",
         "87063",
         "88321"
-      ]
+      ],
+      "id": "estancia-public-library-nm-2"
     }
   ]
 }
