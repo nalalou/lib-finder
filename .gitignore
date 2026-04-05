@@ -11,3 +11,5 @@ tests/__pycache__/
 .env
 .env.local
 .vercel
+.DS_Store
+scripts/scraper_results_*.json
