@@ -3,6 +3,8 @@ import json
 import os
 import re
 
+from scripts.generate_ids import generate_id
+
 
 def normalize_name(name):
     """Normalize a library name for fuzzy matching."""
@@ -112,11 +114,19 @@ def write_prefix_files(libraries, output_dir):
     """Write 3-digit prefix JSON files to output_dir."""
     os.makedirs(output_dir, exist_ok=True)
     groups = group_by_prefix(libraries)
-    for prefix, libs in groups.items():
-        # Remove internal tracking field before writing
+    seen = {}
+    for prefix, libs in sorted(groups.items()):
         clean_libs = []
         for lib in libs:
             clean = {k: v for k, v in lib.items() if k != "hasRealWebsite"}
+            base_id = generate_id(clean["name"], clean["address"])
+            final_id = base_id
+            counter = 2
+            while final_id in seen:
+                final_id = f"{base_id}-{counter}"
+                counter += 1
+            seen[final_id] = True
+            clean["id"] = final_id
             clean_libs.append(clean)
         filepath = os.path.join(output_dir, f"libraries-{prefix}.json")
         with open(filepath, "w") as f:

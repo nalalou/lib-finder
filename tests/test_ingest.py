@@ -103,3 +103,26 @@ def test_write_prefix_files_creates_correct_files():
             data = json.load(f)
         assert len(data["libraries"]) == 1
         assert data["libraries"][0]["name"] == "Lib B"
+
+
+def test_write_prefix_files_includes_ids():
+    """Libraries should get stable IDs when written to prefix files."""
+    libraries = [
+        {"name": "Lib A", "system": "Lib A", "address": "1 Main St, City, CA",
+         "website": "https://a.org", "formUrl": None, "formStatus": "unknown",
+         "zipcodes": ["90012"]},
+        {"name": "Lib B", "system": "Lib B", "address": "2 Oak Ave, Town, NY",
+         "website": "https://b.org", "formUrl": None, "formStatus": "unknown",
+         "zipcodes": ["10018"]},
+    ]
+    with tempfile.TemporaryDirectory() as tmpdir:
+        write_prefix_files(libraries, tmpdir)
+
+        with open(os.path.join(tmpdir, "libraries-900.json")) as f:
+            data = json.load(f)
+        assert "id" in data["libraries"][0]
+        assert data["libraries"][0]["id"] == "lib-a-ca"
+
+        with open(os.path.join(tmpdir, "libraries-100.json")) as f:
+            data = json.load(f)
+        assert data["libraries"][0]["id"] == "lib-b-ny"
