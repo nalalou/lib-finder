@@ -1,0 +1,3670 @@
+[
+  {
+    "website": "https://hvlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HUNTINGDON VALLEY LIBRARY"
+  },
+  {
+    "website": "http://narberthlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NARBERTH COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://upperdublinlibrary.org/",
+    "formUrl": "https://www.upperdublinlibrary.org/books-more/purchase-request",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/books-more/purchase-request'",
+    "libraryName": "UPPER DUBLIN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.uppermorelandlibrary.org/",
+    "formUrl": "https://www.uppermorelandlibrary.org/using-the-library/library-suggestions-box-submissions/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.uppermorelandlibrary.org/using-the-library/library-suggestions-box-submissions/'",
+    "libraryName": "UPPER MORELAND FR PUB LIBRARY"
+  },
+  {
+    "website": "https://cheltenhamlibraries.org/locations-hours/glenside/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHELTENHAM TWNSHP LIB SYSTEM"
+  },
+  {
+    "website": "https://lmls.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LOWER MERION LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.springfieldmontco.org/departments/free-library-of-springfield-township/",
+    "formUrl": "https://www.springfieldmontco.org/departments/free-library-of-springfield-township/services/record-requests/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/services/record-requests/'",
+    "libraryName": "FREE LIBRARY OF SPRINGFIELD TOWNSHIP"
+  },
+  {
+    "website": "https://www.horshamlibrary.org/",
+    "formUrl": "https://www.horshamlibrary.org/interlibrary-loans",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loans'",
+    "libraryName": "HORSHAM TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://buckslib.org/",
+    "formUrl": "https://buckslib.org/request/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "BUCKS COUNTY FREE LIBRARY"
+  },
+  {
+    "website": "https://www.nhslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FREE LIBRARY OF NEW HOPE & SOLEBURY"
+  },
+  {
+    "website": "https://freelibrarynt.org/",
+    "formUrl": "https://freelibrarynt.org/services/suggest-a-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "FREE LIB OF NORTHAMPTON TWP"
+  },
+  {
+    "website": "https://southamptonfreelibrary.org/",
+    "formUrl": "https://southamptonfreelibrary.org/services/holds-and-interlibrary-loans/",
+    "confidence": "high",
+    "note": "Found form via link text: 'HOLDS AND INTERLIBRARY LOANS'",
+    "libraryName": "SOUTHAMPTON FREE LIBRARY"
+  },
+  {
+    "website": "https://warminstertownship.org/library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WARMINSTER TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://wrightstownlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VILLAGE LIBRARY OF WRIGHTSTOWN"
+  },
+  {
+    "website": "https://www.ivpl.org/",
+    "formUrl": "https://www.ivpl.org/interlibrary-loans",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'INTERLIBRARY LOANS'",
+    "libraryName": "INDIAN VALLEY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.hamburg.lib.ia.us/",
+    "formUrl": "https://www.hamburg.lib.ia.us/reading-suggestions",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'reading suggestions'",
+    "libraryName": "HAMBURG PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.poconolibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "POCONO MOUNTAIN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.berkslibraries.org/branch/bethel-tulpehocken",
+    "formUrl": "https://www.berkslibraries.org/branch/bethel-tulpehocken/services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "BETHEL TULPEHOCKEN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.berkslibraries.org/branch/boone",
+    "formUrl": "https://www.berkslibraries.org/branch/boone/services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "BOONE AREA LIBRARY"
+  },
+  {
+    "website": "https://www.berkslibraries.org/branch/village",
+    "formUrl": "https://www.berkslibraries.org/branch/village/services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "VILLAGE LIBRARY OF MORGANTOWN"
+  },
+  {
+    "website": "https://www.berkslibraries.org/branch/robesonia",
+    "formUrl": "https://www.berkslibraries.org/branch/robesonia/services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "ROBESONIA COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.berkslibraries.org/branch/wernersville",
+    "formUrl": "https://www.berkslibraries.org/branch/wernersville/services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "WERNERSVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.berkslibraries.org/branch/kutztown",
+    "formUrl": "https://www.berkslibraries.org/branch/kutztown/services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "KUTZTOWN COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.berkslibraries.org/branch/schuylkill-valley",
+    "formUrl": "https://www.berkslibraries.org/branch/schuylkill-valley/services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "SCHUYLKILL VALLEY COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.berkslibraries.org/branch/boyertown",
+    "formUrl": "https://www.berkslibraries.org/branch/boyertown/services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "BOYERTOWN COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.berkslibraries.org/branch/fleetwood",
+    "formUrl": "https://www.berkslibraries.org/branch/fleetwood/services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "FLEETWOOD AREA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.berkslibraries.org/branch/brandywine",
+    "formUrl": "https://www.berkslibraries.org/branch/brandywine/services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "BRANDYWINE COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.berkslibraries.org/branch/bernville",
+    "formUrl": "https://www.berkslibraries.org/branch/bernville/services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "BERNVILLE AREA COMMUNITY LIB"
+  },
+  {
+    "website": "https://www.berkslibraries.org/branch/womelsdorf",
+    "formUrl": "https://www.berkslibraries.org/branch/womelsdorf/services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "WOMELSDORF COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://oleyvalleylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OLEY VALLEY"
+  },
+  {
+    "website": "https://www.barrettlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BARRETT FRIENDLY LIBRARY"
+  },
+  {
+    "website": "https://www.westernpoconocommunitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WESTERN POCONO COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://monroepl.org/",
+    "formUrl": "https://monroepl.org/catalog/request-book-item/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a book or item'",
+    "libraryName": "EASTERN MONROE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.clymerlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CLYMER LIBRARY ASSOCIATION"
+  },
+  {
+    "website": "http://www.dimmicklibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DIMMICK MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://lehightonlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LEHIGHTON AREA MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.wvpl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WISSAHICKON VALLEY PUB LIBRARY"
+  },
+  {
+    "website": "https://lowerprovidencelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LOWER PROVIDENCE COM LIBRARY"
+  },
+  {
+    "website": "https://mcnpl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MONT CO-NORRISTOWN PUB LIB"
+  },
+  {
+    "website": "https://pottstownregionalpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "POTTSTOWN REGIONAL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.umtownship.org/departments/library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "UPPER MERION TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://jeaneslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WILLIAM JEANES MEM LIBRARY"
+  },
+  {
+    "website": "https://www.northwaleslibrary.org/",
+    "formUrl": "https://forms.office.com/pages/responsepage.aspx?id=olZ2TGqj60aUpstTaL2DkiESUwLFVcxJp2IjQBKqLlRUQzFFQTVCWDE0NDA5S1c2STlROU1NT05EQiQlQCN0PWcu&route=shorturl",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Request a Book'",
+    "libraryName": "NORTH WALES AREA LIBRARY"
+  },
+  {
+    "website": "http://www.saginawlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HOYT LIBRARY"
+  },
+  {
+    "website": "https://www.kirbylib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARIAN SUTHERLAND KIRBY LIB"
+  },
+  {
+    "website": "https://hoyt.luzernelibraries.org/osterhout-branches/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OSTERHOUT FREE LIBRARY"
+  },
+  {
+    "website": "https://backmt.luzernelibraries.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BACK MOUNTAIN MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://millmemoriallibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MILL MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.pittstoncity.gov/pittston-memorial-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PITTSTON MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://westpittston.luzernelibraries.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WEST PITTSTON LIBRARY"
+  },
+  {
+    "website": "https://libwww.freelibrary.org/locations/wyoming-library",
+    "formUrl": "https://libwww.freelibrary.org/locations/wyoming-library",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://support.freelibrary.org/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&SURVEY_ID=1020'",
+    "libraryName": "WYOMING FREE LIBRARY"
+  },
+  {
+    "website": "https://www.hazletonlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HAZLETON AREA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://evergreen.lib.in.us/eg/opac/library/PIKEC-PET",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PIKE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.visitwaynecountyohio.com/listing/wayne-county-public-library/93/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WAYNE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.tunkhannocklibrary.org/",
+    "formUrl": "https://www.tunkhannocklibrary.org/resourcesharing-interlibraryloan",
+    "confidence": "high",
+    "note": "Found form via link text: 'Resource Sharing & Interlibrary Loans'",
+    "libraryName": "TUNKHANNOCK PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://carbondalepubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CARBONDALE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://lclshome.org/libraries/albright-memorial-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SCRANTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://taylor.lib.mi.us/",
+    "formUrl": "https://taylor.lib.mi.us/recommendations/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://taylor.lib.mi.us/recommendations/'",
+    "libraryName": "TAYLOR COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://bethanymo.com/community/library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BETHANY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://lclshome.org/libraries/abington-community-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ABINGTON COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://lclshome.org/libraries/dalton-community-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DALTON COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://lclshome.org/libraries/valley-community-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VALLEY COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://lackawannacounty.com/directory/north-pocono-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NORTH POCONO PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.waynelibraries.org/newfoundland.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEWFOUNDLAND AREA PUB LIBRARY"
+  },
+  {
+    "website": "https://www.hawleylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HAWLEY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.waynelibraries.org/lakewood.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NORTHERN WAYNE COMMUNITY LIB"
+  },
+  {
+    "website": "https://www.waynelibraries.org/pleasant-mount.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PLEASANT MOUNT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.libraryhamlin.org/",
+    "formUrl": "https://www.libraryhamlin.org/resources/reading/suggestions",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Suggestions'",
+    "libraryName": "HAMLIN COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.susqcolibrary.org/",
+    "formUrl": "https://www.susqcolibrary.org/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request books on the Coming Soon list here'",
+    "libraryName": "SUS QUE CO HIST SOC & FREE LIB"
+  },
+  {
+    "website": "https://www.springfield.michlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SPRINGFIELD TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://www.tredyffrin.org/Departments/Libraries",
+    "formUrl": "https://www.tredyffrin.org/Departments/Police/Police-Records-Requests",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.tredyffrin.org/Departments/Police/Police-Records-Requests'",
+    "libraryName": "TREDYFFRIN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://astonlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ASTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://crozerlibrary.org/",
+    "formUrl": "https://crozerlibrary.org/books-and-more/suggest-a-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "J. LEWIS CROZER LIBRARY"
+  },
+  {
+    "website": "https://www.collingdalelibrary.net/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "COLLINGDALE PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://darbylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DARBY LIBRARY"
+  },
+  {
+    "website": "https://delcoresources.org/resources/folcroft-public-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BOROUGH OF FOLCROFT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://delcoresources.org/resources/glenolden-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GLENOLDEN LIBRARY"
+  },
+  {
+    "website": "https://haverfordlibrary.org/",
+    "formUrl": "https://haverfordlibrary.org/services/ill/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "HAVERFORD TOWNSHIP FREE LIBRARY ASSOCIATION"
+  },
+  {
+    "website": "https://lansdownelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LANSDOWNE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://marcushookboro.org/library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARY M CAMPBELL LIBRARY"
+  },
+  {
+    "website": "https://mediauplibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MEDIA UPPER PROVIDENCE FREE LIBRARY"
+  },
+  {
+    "website": "https://middletownfreelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MIDDLETOWN FREE LIBRARY"
+  },
+  {
+    "website": "https://www.hkflibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HELEN KATE FURNESS FR LIBRARY"
+  },
+  {
+    "website": "https://newtownlibrary.org/",
+    "formUrl": "https://newtownlibrary.org/interlibrary-loan-ill-request-form/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan (ILL) Request Form'",
+    "libraryName": "NEWTOWN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://prospectparklibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PROSPECT PARK FREE LIBRARY"
+  },
+  {
+    "website": "https://radnorlibrary.org/",
+    "formUrl": "https://radnorlibrary.org/circulation-information/#request",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Item'",
+    "libraryName": "MEM LIBRARY OF RADNOR TWNSHP"
+  },
+  {
+    "website": "https://ridleyparklibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RIDLEY PARK PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://ridleylibrary.org/",
+    "formUrl": "https://ridleylibrary.org/suggest-a-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "RIDLEY TOWNSHIP PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.sharonhillpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SHARON HILL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://swarthmorepubliclibrary.org/",
+    "formUrl": "https://swarthmorepubliclibrary.org/recommended-reads-2/",
+    "confidence": "high",
+    "note": "Found form via link text: 'New & Recommended Books'",
+    "libraryName": "SWARTHMORE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://tinicumlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TINICUM MEMORIAL PUB LIBRARY"
+  },
+  {
+    "website": "https://www.upperdarby.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "UPPER DARBY TOWNSHIP & SELLERS MEMORIAL FREE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://yeadonlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "YEADON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://marplelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARPLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.kohllibrary.org/",
+    "formUrl": "https://www.kohllibrary.org/inter-library-loan/",
+    "confidence": "high",
+    "note": "Found form via link text: 'InterLibrary Loan'",
+    "libraryName": "RACHEL KOHL COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.freelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "FREE LIBRARY OF PHILADELPHIA"
+  },
+  {
+    "website": "https://www.chamberofcommerce.com/united-states/iowa/malvern/public-library/2000194553-malvern-public-library",
+    "formUrl": "https://www.chamberofcommerce.com/united-states/iowa/malvern/public-library/2000194553-malvern-public-library/request-contact",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Contact'",
+    "libraryName": "MALVERN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://atglenpubliclibrary.org/",
+    "formUrl": "https://atglenpubliclibrary.org/books-resources/request-item.html",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Item'",
+    "libraryName": "ATGLEN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://coatesvillelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "COATESVILLE PUBLIC LIBRARY ASSOCIATION"
+  },
+  {
+    "website": "https://downingtownlibrary.org/home/",
+    "formUrl": "https://downingtownlibrary.org/request-an-item/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Item'",
+    "libraryName": "DOWNINGTOWN LIBRARY COMPANY"
+  },
+  {
+    "website": "https://www.easttownlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "EASTTOWN LIBRARY"
+  },
+  {
+    "website": "https://honeybrooklibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HONEY BROOK COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://kennettlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KENNETT LIBRARY"
+  },
+  {
+    "website": "https://www.parkesburglibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PARKESBURG FREE LIBRARY"
+  },
+  {
+    "website": "https://www.wcpubliclibrary.org/",
+    "formUrl": "https://www.wcpubliclibrary.org/services#dataItem-kcnjhq94",
+    "confidence": "high",
+    "note": "Found form via link text: 'InterLibrary Loan'",
+    "libraryName": "WEST CHESTER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.avongrovelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "AVON GROVE LIBRARY"
+  },
+  {
+    "website": "https://phoenixvillelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PHOENIXVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://springcitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SPRING CITY FR PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.chesterspringslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHESTER SPRINGS LIBRARY"
+  },
+  {
+    "website": "https://corbitcalloway.lib.de.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CORBIT-CALLOWAY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://delawarecity.lib.de.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DELAWARE CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.newcastlede.gov/2423/New-Castle-County-Public-Libraries---Old",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DEPARTMENT OF COMMUNITY SERVICES"
+  },
+  {
+    "website": "https://wilmington.lib.de.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WILMINGTON INSTITUTE LIBRARY"
+  },
+  {
+    "website": "https://www.laurelpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LAUREL PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.milfordnjlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://www.milfordnjlibrary.org/\",",
+    "libraryName": "MILFORD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.harrington.lib.wa.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HARRINGTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://kentcountylibrary.org/",
+    "formUrl": "https://kentcountylibrary.org/catalog/suggest-a-title.php",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "KENT COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.doverlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DOVER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://frankford.lib.de.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FRANKFORD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://lewes.lib.de.us/",
+    "formUrl": "https://lewes.lib.de.us/services/request-an-item/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Item'",
+    "libraryName": "LEWES PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://millsboro.lib.de.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MILLSBORO PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://rehoboth.lib.de.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "REHOBOTH BEACH PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://seaford.lib.de.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SEAFORD DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://www.selbyvillelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SELBYVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://delmar.lib.de.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DELMAR PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://sussexcounty.lib.de.us/libraries/",
+    "formUrl": "https://sussexcounty.lib.de.us/interlibraryloan/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "SUSSEX COUNTY DEPT. OF LIBRARIES"
+  },
+  {
+    "website": "https://www.dclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DISTRICT OF COLUMBIA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.cclva.org/",
+    "formUrl": "https://www.cclva.org/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "CULPEPER COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.fairfaxcounty.gov/library/",
+    "formUrl": "https://research.fairfaxcounty.gov/find-your-next-book/suggest-a-title",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "FAIRFAX COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.fauquierlibrary.org/",
+    "formUrl": "https://us.openforms.com/Form/e04fc02f-ca67-4fd4-a0d6-dac4f3dea935",
+    "confidence": "high",
+    "note": "Found form via link text: 'InterLibrary Loans'",
+    "libraryName": "FAUQUIER COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://library.loudoun.gov/",
+    "formUrl": "https://catalog.library.loudoun.gov/responsive?section=sap",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "LOUDOUN COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://manassasparkcitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MANASSAS PARK CITY LIBRARY"
+  },
+  {
+    "website": "https://www.pwcva.gov/department/library",
+    "formUrl": "https://www.pwcva.gov/404?s=department%20library%20department%20library%20suggest%20title",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "PRINCE WILLIAM PUBLIC LIBRARIES"
+  },
+  {
+    "website": "https://calvertlibrary.info/",
+    "formUrl": "https://calvertlibrary.info/request-to-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request to Purchase'",
+    "libraryName": "CALVERT LIBRARY"
+  },
+  {
+    "website": "https://ccplonline.org/",
+    "formUrl": "https://ccplonline.org/suggest-a-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "CHARLES COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.stmalib.org/",
+    "formUrl": "https://www.stmalib.org/read-listen-watch/suggest-a-title-for-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title for Purchase'",
+    "libraryName": "ST. MARY`S COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.hclibrary.org/locations/miller/",
+    "formUrl": "https://www.hclibrary.org/interlibrary/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "HOWARD COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://pgcmls.libnet.info/branch/",
+    "formUrl": "https://www.pgcmls.info/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "PRINCE GEORGE`S COUNTY MEMORIAL LIBRARY SYSTE"
+  },
+  {
+    "website": "https://www.fcpl.org/",
+    "formUrl": "https://www.fcpl.org/find-books-more/suggest-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest A Purchase'",
+    "libraryName": "FREDERICK COUNTY PUBLIC LIBRARIES"
+  },
+  {
+    "website": "https://www.montgomerycountymd.gov/library/branches/rockville.html",
+    "formUrl": "https://montgomerycountymd.gov/library/services/interlibraryloan.html",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "MONTGOMERY COUNTY PUBLIC LIBRARIES"
+  },
+  {
+    "website": "https://takomaparkmd.gov/1441/Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TAKOMA PARK MARYLAND LIBRARY"
+  },
+  {
+    "website": "https://hcplonline.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HARFORD COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://library.carr.org/",
+    "formUrl": "https://library.carr.org/collections/suggest",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a title for purchase'",
+    "libraryName": "CARROLL COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://catalog.bcpl.lib.md.us/polaris/library/hours.aspx?ctx=20.1033.0.0.5",
+    "formUrl": "https://www.bcpl.info/books-and-more/suggest-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "BALTIMORE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.prattlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ENOCH PRATT FREE LIBRARY"
+  },
+  {
+    "website": "https://www.aacpl.net",
+    "formUrl": "https://www.aacpl.net/books-more/book-recommendations",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/books-more/book-recommendations'",
+    "libraryName": "ANNE ARUNDEL COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.alleganycountylibrary.info/",
+    "formUrl": "https://maryland.relaisd2d.com/?LS=ALLE",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Interlibrary Loan (MARINA)'",
+    "libraryName": "ALLEGANY COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://relib.net/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: net::ERR_ABORTED at https://relib.net/\nCall log:\n  - navigating to \"https://relib.net/\", ",
+    "libraryName": "RUTH ENLOW LIBRARY OF GARRETT COUNTY"
+  },
+  {
+    "website": "https://eshore.polarislibrary.com/polaris/default.aspx?ctx=3.1033.0.0.1",
+    "formUrl": "https://eshore.polarislibrary.com/polaris/default.aspx?ctx=3.1033.0.0.1/javascript:showModalBasicWithIframe(%27https://eshore.polarislibrary.com/polaris/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "CAROLINE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.dorchesterlibrary.org/",
+    "formUrl": "https://www.dorchesterlibrary.org/recommended-resources",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Recommended Resources'",
+    "libraryName": "DORCHESTER COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.qaclibrary.org/",
+    "formUrl": "https://www.qaclibrary.org/make-a-purchase-suggestion",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest Purchases'",
+    "libraryName": "QUEEN ANNE`S COUNTY FREE LIBRARY"
+  },
+  {
+    "website": "https://www.tcfl.org/",
+    "formUrl": "https://www.tcfl.org/find/?content=suggest",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest A Title'",
+    "libraryName": "TALBOT COUNTY FREE LIBRARY"
+  },
+  {
+    "website": "https://www.washcolibrary.org/",
+    "formUrl": "https://www.washcolibrary.org/purchase-suggestion",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request a Purchase'",
+    "libraryName": "WASHINGTON COUNTY FREE LIBRARY"
+  },
+  {
+    "website": "https://www.wicomicolibrary.org/",
+    "formUrl": "https://www.wicomicolibrary.org/form/suggest-new-materials",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "WICOMICO COUNTY FREE LIBRARY"
+  },
+  {
+    "website": "https://www.worcesterlibrary.org/branches/snow-hill",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: net::ERR_ABORTED at https://www.worcesterlibrary.org/branches/snow-hill\nCall log:\n  - nav",
+    "libraryName": "WORCESTER COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.cecilcountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.cecilcountylibrary.org",
+    "libraryName": "CECIL COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.mrspl.org/",
+    "formUrl": "https://www.mrspl.org/suggest-title",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "MARY RILEY STYLES PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://library.arlingtonva.us/",
+    "formUrl": "https://library.arlingtonva.us/request-reading-recommendations/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/explore/for-readers/request-reading-recommendations/'",
+    "libraryName": "ARLINGTON DEPT. OF LIBRARIES"
+  },
+  {
+    "website": "https://alexlibraryva.org/",
+    "formUrl": "https://alexlibraryva.org/suggest-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest A Purchase'",
+    "libraryName": "ALEXANDRIA LIBRARY"
+  },
+  {
+    "website": "https://rvalibrary.org/",
+    "formUrl": "https://rvalibrary.org/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://rvalibrary.org/shelf-respect/tag/rplrecommends/'",
+    "libraryName": "RICHMOND PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.chamberofcommerce.com/united-states/new-hampshire/groveton/public-library/12025245-northumberland-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "NORTHUMBERLAND PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.librarypoint.org/",
+    "formUrl": "https://www.librarypoint.org/cant-find-it/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "CENTRAL RAPPAHANNOCK REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.lancasterlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LANCASTER COMMUNITY LIBRARY"
+  },
+  {
+    "website": "http://smoot.org/1150/L-E-Smoot-Memorial-Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://smoot.org/1150/L-E-Smoot-Me",
+    "libraryName": "LEWIS EGERTON SMOOT MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.orangecountync.gov/3009/Library",
+    "formUrl": "https://www.orangecountync.gov/3009/Library",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://nc-orangecounty.civicplus.com/FormCenter/Library-13/Main-Library-Field-Trip-Request-66'",
+    "libraryName": "ORANGE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://carolinelibrary.org/",
+    "formUrl": "https://carolinelibrary.org/about-us/contact-us/make-a-purchase-request/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Make a purchase request'",
+    "libraryName": "CAROLINE COUNTY LIBRARY"
+  },
+  {
+    "website": "https://eplva.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ESSEX PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://rcplva.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RICHMOND COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.handleyregional.org/",
+    "formUrl": "https://www.handleyregional.org/services/request/ill",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "HANDLEY REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://samuelslibrary.net/",
+    "formUrl": "https://samuelslibrary.net/index.php/services/request-an-item",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Item'",
+    "libraryName": "SAMUELS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://rappahannocklibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RAPPAHANNOCK COUNTY LIBRARY"
+  },
+  {
+    "website": "https://countylib.org/county-library.html",
+    "formUrl": "https://countylib.org/patron-requests.html",
+    "confidence": "high",
+    "note": "Found form via link text: 'Patron Requests'",
+    "libraryName": "SHENANDOAH COUNTY LIBRARY"
+  },
+  {
+    "website": "https://madisoncountyvalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MADISON COUNTY LIBRARY, INC."
+  },
+  {
+    "website": "https://mrlib.org/",
+    "formUrl": "https://mrlib.org/our-collections/request-purchase.html",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Purchase'",
+    "libraryName": "MASSANUTTEN REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://augustacountylibrary.org/fishersville-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "AUGUSTA COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.fluvannacounty.org/library/page/fluvanna-county-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FLUVANNA COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://jmrl.org/",
+    "formUrl": "https://jmrl.org/suggest-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a book purchase'",
+    "libraryName": "JEFFERSON-MADISON REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.waynesboro.va.us/354/Library---Old-Do-Not-Delete",
+    "formUrl": "https://www.waynesboro.va.us/1199/Library",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "WAYNESBORO PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://cumberlandcountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CUMBERLAND COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://gloucesterva.gov/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GLOUCESTER COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://hamnerlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "JAMES L. HAMNER PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.pamunkeylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PAMUNKEY REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://mathewslibrary.org/",
+    "formUrl": "https://mathewslibrary.org/materials-request",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Request Library Materials'",
+    "libraryName": "MATHEWS MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://yourmiddlesexlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MIDDLESEX COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://henricolibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HENRICO COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://powhatanlibrary.net/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Could not follow link: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.powhatanva.gov/FormCen",
+    "libraryName": "POWHATAN COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.wrl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WILLIAMSBURG REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.chesterfield.gov/Library",
+    "formUrl": "https://www.chesterfield.gov/5945/Reading-Recommendations",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/Library/ReadingRecommendations'",
+    "libraryName": "CHESTERFIELD COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://espl.org/",
+    "formUrl": "https://espl.org/about-us/interlibrary-loan/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "EASTERN SHORE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://chesapeakelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHESAPEAKE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.suffolkpubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SUFFOLK PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://libraries.virginiabeach.gov/",
+    "formUrl": "https://libraries.virginiabeach.gov/books-more/interlibrary-loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "VIRGINIA BEACH PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://norfolkpl.org/",
+    "formUrl": "https://norfolkpl.org/services/request-a-3d-print/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://norfolkpl.org/services/request-a-3d-print/'",
+    "libraryName": "NORFOLK PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.hampton.lib.ia.us/",
+    "formUrl": "https://www.hampton.lib.ia.us/services/interlibrary-loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "HAMPTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://library.nnva.gov/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEWPORT NEWS PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.ci.poquoson.va.us/190/Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "POQUOSON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.yorkcounty.gov/4494/Public-Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "YORK COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.arls.org/hopewell/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "APPOMATTOX REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "http://colonialheightsva.gov/211/Library",
+    "formUrl": "https://www.colonialheightsva.gov/FormCenter/Library-6-6/Book-Request-Form-71-71",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.colonialheightsva.gov/FormCenter/Library-6-6/Book-Request-Form-71-71'",
+    "libraryName": "COLONIAL HEIGHTS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.meherrinlib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MEHERRIN REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://blackwaterlib.org/library-branch/courtland/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BLACKWATER REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://nottlib.org/",
+    "formUrl": "https://www.surveymonkey.com/r/G7H7LX3",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request a Book'",
+    "libraryName": "NOTTOWAY COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://cclibrary.net/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHARLOTTE COUNTY LIBRARY"
+  },
+  {
+    "website": "https://cvrl.net/library-branch/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CENTRAL VIRGINIA REGIONAL LIBRARY"
+  },
+  {
+    "website": "http://www.lunenburglibraries.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LUNENBURG COUNTY PUBLIC LIBRARY SYSTEM, INC"
+  },
+  {
+    "website": "https://librarytechnology.org/library/25157",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MECKLENBURG COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.jrjml.org/library-branch/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "J. ROBERT JAMERSON MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.franklincountylibrary.org/index.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FRANKLIN COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://irisbrammerlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "IRIS BRAMMER LIBRARY"
+  },
+  {
+    "website": "https://pearisburglibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PEARISBURG PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.botetourtva.gov/libraries",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BOTETOURT COUNTY LIBRARY"
+  },
+  {
+    "website": "https://mfrl.org/",
+    "formUrl": "https://mfrl.org/request.php?ineed=items",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Suggestion'",
+    "libraryName": "MONTGOMERY-FLOYD REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://libraryhours.org/va/roanoke/roanoke-city-public-library/6225/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ROANOKE CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://roanokecountyva.gov/3110/Library",
+    "formUrl": "https://roanokecountyva.gov/3110/Library",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.roanokecountyva.gov/FormCenter/Library-8/Materials-Suggestion-Form-159'",
+    "libraryName": "ROANOKE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://pclibs.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PULASKI COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.bplsonline.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BEDFORD PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://pcplib.org/locations/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PITTSYLVANIA COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.brrl.lib.va.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BLUE RIDGE REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.radfordva.gov/326/Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RADFORD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://craigcountypubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CRAIG COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.wcplib.info/marietta-branch",
+    "formUrl": "https://www.wcplib.info/interlibrary-loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "WASHINGTON COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://bcplnet.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BUCHANAN COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://russellcountylibrary.com/",
+    "formUrl": "https://russellcountylibrary.com/suggest-an-item/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest an Item'",
+    "libraryName": "RUSSELL COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://wythegrayson.lib.va.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WYTHE-GRAYSON REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.lprlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LONESOME PINE REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://tcplweb.org/",
+    "formUrl": "https://tcplweb.org/item-request/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request a Book'",
+    "libraryName": "TAZEWELL COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://galaxcarroll.lib.va.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GALAX-CARROLL REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.findglocal.com/US/Marion/303309799737928/Smyth-County-Public-Library:-Marion-Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SMYTH COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://citylibrary.com/states/virginia/bland/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BLAND COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.cityofstauntonil.com/our-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "STAUNTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://ahrlib.org/",
+    "formUrl": "https://ahrlib.org/services/interlibrary-loans/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loans'",
+    "libraryName": "ALLEGHANY HIGHLANDS REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.cliftonforgelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CLIFTON FORGE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.highlandcova.org/highland-county-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HIGHLAND COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.rrlib.net/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ROCKBRIDGE REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://acpl.us/Amherst",
+    "formUrl": "https://acpl.us/Amherst/MaterialsRequest/MyRequests",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Purchase Requests'",
+    "libraryName": "AMHERST COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://campbellcountylibraries.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CAMPBELL COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://halifaxlibrary.org/",
+    "formUrl": "https://docs.google.com/forms/d/19pi_1vKG-fwBBVt2B_nPrsD_QW99XiXdhNwFX_j7-uM/viewform?edit_requested=true",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Item'",
+    "libraryName": "HALIFAX COUNTY-SOUTH BOSTON LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://lynchburgpubliclibrary.org/",
+    "formUrl": "https://lynchburgpubliclibrary.org/purchase-suggestion/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Suggestion'",
+    "libraryName": "LYNCHBURG PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Craft+Memorial+Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CRAFT MEMORIAL LIBRARY"
+  },
+  {
+    "website": "http://www.princetonpl.lib.in.us/",
+    "formUrl": "https://www.princetonpl.lib.in.us/contact-us/suggest-title",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/contact-us/suggest-title'",
+    "libraryName": "PRINCETON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Wyoming+County+Public+Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WYOMING COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Williamson Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WILLIAMSON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Mingo County Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MINGO COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=McDowell County Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MCDOWELL PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.mcpl.info",
+    "formUrl": "https://mcpl.info/suggest?utm_source=home&utm_medium=square&utm_campaign=suggestion",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "MONROE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.rainellepubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RAINELLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.rupertpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RUPERT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://summerscountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://summerscountylibrary.org/\"",
+    "libraryName": "SUMMERS COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.rupertpubliclibrary.org/home",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ALDERSON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.greenbriercountylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GREENBRIER COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.roncevertelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RONCEVERTE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.whitesulphurspringspubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WHITE SULPHUR SPRINGS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Peterstown Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PETERSTOWN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.pocahontaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "POCAHONTAS COUNTY LIBRARIES & VISITOR INFORMA"
+  },
+  {
+    "website": "https://www.kcpls.org/hours-locations/nitro-public-library",
+    "formUrl": "https://www.kcpls.org/hours-locations/nitro-public-library/material-request",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/material-request'",
+    "libraryName": "NITRO PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.bcplwv.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BOONE-MADISON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://summersvillepubliclibrary.org/",
+    "formUrl": "https://summersvillepubliclibrary.org/faq/#interlibrary-loans",
+    "confidence": "high",
+    "note": "Found form via link text: 'INTERLIBRARY LOANS'",
+    "libraryName": "SUMMERSVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.claycountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CLAY COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Buffalo Creek Memorial Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BUFFALO CREEK MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Logan Area Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LOGAN AREA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.fayettelibrary.org/",
+    "formUrl": "https://www.fayettelibrary.org/request-title",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request a Title'",
+    "libraryName": "FAYETTE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://pclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PUTNAM COUNTY LIBRARY"
+  },
+  {
+    "website": "https://lincolib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HAMLIN-LINCOLN COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.chapmanvillepubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHAPMANVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.rcplwv.org/",
+    "formUrl": "https://www.rcplwv.org/inter-library-loans",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loans'",
+    "libraryName": "RALEIGH COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.craigsvillepubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CRAIGSVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Richwood Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RICHWOOD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.kcpls.org/",
+    "formUrl": "https://www.kcpls.org/material-request",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/material-request'",
+    "libraryName": "KANAWHA COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.scplwv.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SOUTH CHARLESTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.roanewvlib.com/spencer/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ROANE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.masoncountylibrary.com/",
+    "formUrl": "https://www.masoncountylibrary.com/form/suggest-a-title",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "MASON COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://cclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CALHOUN COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://gilmerpublib.org/about/",
+    "formUrl": "https://gilmerpublib.org/onlinecatalog/interlibrary-loans/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loans'",
+    "libraryName": "GILMER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.myjclibrary.org/",
+    "formUrl": "https://www.myjclibrary.org/request-materials/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials and ILL'",
+    "libraryName": "JACKSON COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://morgancountylibrary.info",
+    "formUrl": "https://morgancountylibrary.info/purchase-suggestion/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Suggestion'",
+    "libraryName": "MORGAN COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://hampshirecopubliclib.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HAMPSHIRE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://lib-kmcpl.wvnet.edu/caponbridge/about-us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CAPON BRIDGE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.mbcpl.org/",
+    "formUrl": "https://www.mbcpl.org/inter-library-loan-f-a-q",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Interlibrary Loan'",
+    "libraryName": "MARTINSBURG-BERKELEY CO. PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.bolivarharpersferrylibrary.com/",
+    "formUrl": "https://www.bolivarharpersferrylibrary.com/about-us/faqs/how-do-i-request-hold-an-item/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request/hold an item?'",
+    "libraryName": "BOLIVAR-HARPERS FERRY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.sojeffersonlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SOUTH JEFFERSON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.sheplibrary.org/",
+    "formUrl": "https://www.sheplibrary.org/how-do-i-2/#request_item_place_hold",
+    "confidence": "high",
+    "note": "Found form via link text: 'Renew, request, or place a hold on an item?'",
+    "libraryName": "SHEPHERDSTOWN PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://pawpawpubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PAW PAW PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Cabell County Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CABELL COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://ocpl.lib.in.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OHIO COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://moundsville.lib.wv.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MOUNDSVILLE-MARSHALL COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.weirton.lib.wv.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARY H. WEIR PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://newcumberland.lib.wv.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SWANEY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Lynn Murray Memorial Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LYNN MURRAY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "http://wellsburg.lib.wv.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BROOKE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://dorablib.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DORA BEE WOODYARD MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://parkwoodlib.com/",
+    "formUrl": "https://parkwoodlib.com/request/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest Materials'",
+    "libraryName": "PARKERSBURG/WOOD CO. PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.pleasantslib.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PLEASANTS COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://viennapubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VIENNA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://newmartinsville.lib.wv.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEW MARTINSVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.padencitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PADEN CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.cityofsistersville.com/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SISTERSVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Tyler County Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TYLER COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.ritchielibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RITCHIE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Hundred Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HUNDRED PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://citylibrary.com/public-libraries/pine-grove-public-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PINE GROVE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://upshur.wvlibrary.info/",
+    "formUrl": "https://mlnapp.raleigh.lib.wv.us/patroninfo~S118?/0/redirect=/acquire",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "UPSHUR COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Belington Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BELINGTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Charles W. Gibson Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHARLES W. GIBSON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://elkinslibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ELKINS-RANDOLPH PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Helvetia+Public+Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HELVETIA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Valley Head Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VALLEY HEAD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Russell Memorial Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RUSSELL MEMORIAL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Pioneer Memorial Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PIONEER MEMORIAL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/25898",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FIVE RIVERS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://mountaintop.wvlibrary.info/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "MOUNTAINTOP PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Webster-Addison Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WEBSTER-ADDISON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.cowenpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "COWEN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://philippi.wvlibrary.info/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "PHILIPPI PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://bportlibrary.org/",
+    "formUrl": "https://bportlibrary.org/books/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Recommended Web Sites \u2013 Books and Reading'",
+    "libraryName": "BRIDGEPORT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Terra Alta Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TERRA ALTA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.tcplibrary.org/",
+    "formUrl": "https://www.tcplibrary.org/form/suggest-a-title",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "TAYLOR COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Burnsville Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BURNSVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://clarksburglibrary.info/home",
+    "formUrl": "https://www.clarksburglibrary.org/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/contact-us/article-obituary-requests'",
+    "libraryName": "CLARKSBURG-HARRISON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Southern Area Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SOUTHERN AREA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://townofnutterfort.gov/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NUTTER FORT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://kingwoodpubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KINGWOOD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://doddridge.lib.wv.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DODDRIDGE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Lowe Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LOWE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Louis Bennett Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LOUIS BENNETT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.marioncopublic.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARION COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.mympls.org/",
+    "formUrl": "https://www.mympls.org/check-it-out/request-materials/?__cf_chl_rt_tk=2RtHwljOwf4W4iFv4_zDQD7PHVxytrf3nFjx0BNSHMw-1775415659-1.0.1.1-u.nrvCCZQJUZ0dII6rq5f7dfkwLzPpmdeKEed1XDD7k",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Request Materials'",
+    "libraryName": "MORGANTOWN PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://gassaway.lib.wv.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "GASSAWAY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.chamberofcommerce.com/united-states/west-virginia/sutton/public-library/10011923-sutton-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "SUTTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Keyser-Mineral County Public Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KEYSER-MINERAL COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.cityofpiedmont.com/community-profile/page/public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PIEDMONT PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://grantlib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GRANT COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.pcplibrary.org/",
+    "formUrl": "https://www.pcplibrary.org/request-an-item",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Item'",
+    "libraryName": "PENDLETON COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://hardycounty.martin.lib.wv.us",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HARDY COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.chamberofcommerce.com/united-states/iowa/rowan/public-library/29437114-rowan-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "ROWAN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.forsythpl.org/cumming-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FORSYTH COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.daviecountync.gov/896/Public-Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DAVIE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.elkinnc.org/residents/town_facilities_and_services/library.php",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NORTHWESTERN REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.co.davidson.nc.us/284/Lexington-Public-Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DAVIDSON COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://rcpl.libguides.com/EdenLibrary/Home",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ROCKINGHAM COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.southernpines.net/399/Library",
+    "formUrl": "https://www.southernpines.net/FormCenter/Library-11/Educator-Services-Request-Form-111",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.southernpines.net/FormCenter/Library-11/Educator-Services-Request-Form-111'",
+    "libraryName": "SOUTHERN PINES PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.vopnc.org/our-government/library-home/",
+    "formUrl": "https://www.vopnc.org/our-community/living-in-pinehurst/service-request-center-my-vop",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/connect-with-us/request-a-service-my-vop'",
+    "libraryName": "GIVEN MEMORIAL LIBRARY & TUFTS ARCHIVE"
+  },
+  {
+    "website": "https://www.chapelhillpubliclibrary.org/",
+    "formUrl": "https://www.chapelhillpubliclibrary.org/suggest-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a purchase'",
+    "libraryName": "CHAPEL HILL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://library.greensboro-nc.gov/",
+    "formUrl": "https://library.greensboro-nc.gov/services/suggest-a-library-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest A Purchase'",
+    "libraryName": "GREENSBORO PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.chathamcountync.gov/government/departments-programs-i-z/library",
+    "formUrl": "https://www.chathamcountync.gov/government/departments-programs-i-z/library/purchase-suggestions",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Suggestions'",
+    "libraryName": "CHATHAM COUNTY PUBLIC LIBRARIES"
+  },
+  {
+    "website": "https://www.caswellcountync.gov/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CASWELL COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.highpointnc.gov/799/The-High-Point-Library",
+    "formUrl": "https://www.highpointnc.gov/799/The-High-Point-Library/FormCenter/Library-14/Request-Further-Information-63",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/FormCenter/Library-14/Request-Further-Information-63'",
+    "libraryName": "HIGH POINT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://library.alamancecountync.gov/",
+    "formUrl": "https://alamance.tlcdelivers.com/#/login?from=%2Fmyaccount%2Fsummary",
+    "confidence": "high",
+    "note": "Found form via link text: 'Renew/Request a Book'",
+    "libraryName": "ALAMANCE COUNTY PUBLIC LIBRARIES"
+  },
+  {
+    "website": "https://www.giblib.org/locations/gibsonville-public-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GIBSONVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.personcountync.gov/government/public-library",
+    "formUrl": "https://www.personcountync.gov/government/public-library/government/public-records-information/public-records-request-form",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/government/public-records-information/public-records-request-form'",
+    "libraryName": "PERSON COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://library.leecountync.gov/home",
+    "formUrl": "https://library.leecountync.gov/home",
+    "confidence": "high",
+    "note": "Found form via link text: 'SUGGEST AN ITEM'",
+    "libraryName": "LEE COUNTY LIBRARY"
+  },
+  {
+    "website": "https://durhamcountylibrary.org/",
+    "formUrl": "https://durhamcountylibrary.org/suggest-a-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a purchase'",
+    "libraryName": "DURHAM COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.franklincolibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FRANKLIN COUNTY LIBRARY"
+  },
+  {
+    "website": "https://wakegov.libcal.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WAKE COUNTY PUBLIC LIBRARIES"
+  },
+  {
+    "website": "https://www.granvillecounty.org/157/Library-System",
+    "formUrl": "https://www.granvillecounty.org/461/Interlibrary-Loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "GRANVILLE COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://harnett.libguides.com/hcpl",
+    "formUrl": "https://harnett.libguides.com/services/ill",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "HARNETT COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.pljcs.org/",
+    "formUrl": "https://www.pljcs.org/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "PUBLIC LIBRARY OF JOHNSTON COUNTY & SMITHFIELD"
+  },
+  {
+    "website": "https://www.perrylibrary.org/home",
+    "formUrl": "https://www.perrylibrary.org/home/using-the-library/online-book-request",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/using-the-library/online-book-request'",
+    "libraryName": "H. LESLIE PERRY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.wcmlibrary.org/",
+    "formUrl": "https://www.wcmlibrary.org/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan/Catalog'",
+    "libraryName": "WARREN COUNTY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.townofclaytonnc.org/745/Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.townofclaytonnc.org/74",
+    "libraryName": "HOCUTT ELLINGTON MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://braswell-library.libguides.com/home",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BRASWELL MEMORIAL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.townofnashville.com/Departments/Harold-D-Cooley-Library",
+    "formUrl": "https://www.townofnashville.com/Services/Accessibility/Request-for-Assistance",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.townofnashville.com/Services/Accessibility/Request-for-Assistance'",
+    "libraryName": "HAROLD D. COOLEY LIBRARY"
+  },
+  {
+    "website": "https://arlnc.libguides.com/home",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ALBEMARLE REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://bhmlib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BEAUFORT-HYDE-MARTIN REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://chamber.tarborochamber.com/list/member/edgecombe-county-memorial-library-61",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "EDGECOMBE COUNTY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.halifaxnc.com/232/Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HALIFAX COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.sheppardlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SHEPPARD MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.wilsoncountypubliclibrary.org/locations-hours/main-library",
+    "formUrl": "https://www.wilsoncountypubliclibrary.org/locations-hours/main-library/books-media/suggest-a-title",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "WILSON COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.farmvillenc.gov/departments/library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FARMVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://roanokerapidslibrary.org/index.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ROANOKE RAPIDS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.washingtonnc.gov/departments/brown_library/index.php",
+    "formUrl": "https://www.washingtonnc.gov/departments/brown_library/index.php/departments/inspections_division/inspection__request_guide_.php",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Request Guide'",
+    "libraryName": "GEORGE H. AND LAURA E. BROWN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.earlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "EAST ALBEMARLE REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://pettigrewlibraries.org/PRL",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PETTIGREW REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.cmlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHARLOTTE MECKLENBURG LIBRARY"
+  },
+  {
+    "website": "https://www.mountainregionallibrary.org/union-county-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "UNION COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.cabarruscounty.us/Government/Departments/Library",
+    "formUrl": "https://forms.cabarruscounty.us/Forms/InterLibrary-Loan-Request",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan Request'",
+    "libraryName": "CABARRUS COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://stanlycountylibrary.org/420/Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "STANLY COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://mauneylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "JACOB MAUNEY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "http://gastonlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GASTON COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://lcplinfo.org/",
+    "formUrl": "https://lcplinfo.org/interlibrary-loan-request-form/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan Request Form'",
+    "libraryName": "LINCOLN COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.clevelandcounty.com/main/departments/library/index.php",
+    "formUrl": "https://www.clevelandcounty.com/main/departments/library/index.php/community/media_center/public_records_requests.php",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'community/media_center/public_records_requests.php'",
+    "libraryName": "CLEVELAND COUNTY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://rutherfordcountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RUTHERFORD COUNTY LIBRARY"
+  },
+  {
+    "website": "https://mooresvillelib.org/",
+    "formUrl": "https://mooresvillelib.org/catalog/recommended-reading/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://mooresvillelib.org/catalog/recommended-reading/'",
+    "libraryName": "MOORESVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.iredell.lib.nc.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "IREDELL COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.richmondnc.com/174/Library-System",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SANDHILL REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.chamberofcommerce.com/business-directory/north-carolina/elizabethtown/public-library/2002457396-bladen-county-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "BLADEN COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.duplinnc.gov/205/Libraries",
+    "formUrl": "https://www.duplinnc.gov/205/Libraries/412/Extra---Patrol-Request",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/412/Extra---Patrol-Request'",
+    "libraryName": "DUPLIN COUNTY LIBRARY"
+  },
+  {
+    "website": "https://robesoncountylibrary.org/",
+    "formUrl": "https://robesoncountylibrary.org/suggest-a-title/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "ROBESON COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.sampsoncountync.gov/Government/Departments-A-Z/Library",
+    "formUrl": "https://www.sampsoncountync.gov/Government/Public-Communications/Public-Records-Request",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.sampsoncountync.gov/Government/Public-Communications/Public-Records-Request'",
+    "libraryName": "SAMPSON-CLINTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://scotland.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SCOTLAND COUNTY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.brunswickcountync.gov/160/Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BRUNSWICK COUNTY LIBRARY"
+  },
+  {
+    "website": "http://catalog.library.columbusco.org/Polaris/Library/hours.aspx?ctx=1.1033.0.0.1",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://catalog.library.columbusco.",
+    "libraryName": "COLUMBUS COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://libguides.nhcgov.com/library",
+    "formUrl": "https://www.nhcgov.com/1254/Suggest-a-Purchase-Interlibrary-Loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase / Interlibrary Loan'",
+    "libraryName": "NEW HANOVER COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://penderpubliclibrary.org/",
+    "formUrl": "https://penderpubliclibrary.org/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "PENDER COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.onslowcountync.gov/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ONSLOW COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.mycprl.org/library-directory",
+    "formUrl": "https://www.mycprl.org/library-directory/my-cprl/purchase-suggestion",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Purchase Suggestion'",
+    "libraryName": "CRAVEN-PAMLICO REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.neuselibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEUSE REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://carteretcountync.libguides.com/mainpage",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CARTERET COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.arlibrary.org/",
+    "formUrl": "https://www.arlibrary.org/about/request",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Material'",
+    "libraryName": "APPALACHIAN REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://alexanderlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ALEXANDER COUNTY LIBRARY"
+  },
+  {
+    "website": "https://bcpls.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BURKE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://caldwell-library.edan.io/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CALDWELL COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://catawbacountync.gov/county-services/library/",
+    "formUrl": "https://catawbacountync.gov/county-services/library/county-services/library/reading/suggest-an-item/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest an Item'",
+    "libraryName": "CATAWBA COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.hickorync.gov/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HICKORY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.buncombenc.gov/161/Libraries",
+    "formUrl": "https://www.buncombenc.gov/161/Libraries/317/Request-Materials",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "BUNCOMBE COUNTY PUBLIC LIBRARIES"
+  },
+  {
+    "website": "https://www.hcpl.org/",
+    "formUrl": "https://www.hcpl.org/form/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "HENDERSON COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.madisonlibrary.org/locations/richmond",
+    "formUrl": "https://www.madisonlibrary.org/locations/richmond/services/request-item",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Item'",
+    "libraryName": "MADISON COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://yanceycountync.gov/201/Public-Library",
+    "formUrl": "https://yanceycountync.gov/201/Public-Library",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.freesuggestionbox.com/pub/opbszim'",
+    "libraryName": "AVERY-MITCHELL-YANCEY REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://fontanalib.org/",
+    "formUrl": "https://fontanalib.org/book-suggestions",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/book-suggestions'",
+    "libraryName": "FONTANA REGIONAL LIBRARY"
+  },
+  {
+    "website": "http://haywoodlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HAYWOOD COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://mcdowellpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MCDOWELL COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://polklibrary.org/",
+    "formUrl": "https://polklibrary.org/request/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "POLK COUNTY PUBLIC LIBRARIES"
+  },
+  {
+    "website": "https://library.transylvaniacounty.org/",
+    "formUrl": "https://library.transylvaniacounty.org/suggestions/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://library.transylvaniacounty.org/suggestions/'",
+    "libraryName": "TRANSYLVANIA COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.nrlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NANTAHALA REGIONAL LIBRARY"
+  },
+  {
+    "website": "http://www.richlandlibrary.com/",
+    "formUrl": "https://www.richlandlibrary.com/user/login?destination=/services/suggest-title",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "RICHLAND COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://unioncountylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "UNION COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.colletonlibrary.org/",
+    "formUrl": "https://www.colletonlibrary.org/interlibrary-loan",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Interlibrary Loan'",
+    "libraryName": "COLLETON COUNTY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://darlington-lib.org/",
+    "formUrl": "https://darlington-lib.org/request-for-reconsideration-of-library-materials/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request for Reconsideration of Library Materials'",
+    "libraryName": "DARLINGTON COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.mywcl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WILLIAMSBURG COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.lanclib.org/",
+    "formUrl": "https://www.lanclib.org/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Request'",
+    "libraryName": "LANCASTER COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.kershawcountylibrary.org/about/locations/camden-branch/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KERSHAW COUNTY LIBRARY"
+  },
+  {
+    "website": "https://leecountylibrarysc.org/",
+    "formUrl": "https://leecountylibrarysc.org/request-a-book/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request A Book'",
+    "libraryName": "LEE COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://lexcolibrary.com/using-the-library/hours-and-locations/",
+    "formUrl": "https://lexcolibrary.com/books-and-more/purchase-request/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Request'",
+    "libraryName": "LEXINGTON COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.calhouncountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CALHOUN COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.clarendoncountylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CLARENDON COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://fairfieldcountylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FAIRFIELD COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.orangeburgcounty.org/161/Library---Old-URL-Do-Not-Delete",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ORANGEBURG COUNTY LIBRARY COMMISSION"
+  },
+  {
+    "website": "https://www.sumtercountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SUMTER COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://librarytechnology.org/library/8894",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEWBERRY COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.abbe-lib.org/",
+    "formUrl": "https://www.abbe-lib.org/request-for-reconsideration-of-library-material/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request for Reconsideration of Library Material'",
+    "libraryName": "ABBE REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.florencelibrary.org/",
+    "formUrl": "https://www.florencelibrary.org/books-borrow/request-materials",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials/ILL'",
+    "libraryName": "FLORENCE COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.cclssc.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHESTERFIELD COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.saludalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SALUDA COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://cherokeecountypubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHEROKEE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.lcpl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LAURENS COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.spartanburglibraries.org/",
+    "formUrl": "https://www.spartanburglibraries.org/Using-the-Library/SCPL-Recommends",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/Using-the-Library/SCPL-Recommends'",
+    "libraryName": "SPARTANBURG COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://berkeleylibrarysc.org/locations-and-hours/administration-building/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BERKELEY COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.ccpl.org/",
+    "formUrl": "https://www.ccpl.org/suggest-title?__cf_chl_rt_tk=fCJhqcrDEushOgjHbbpKEvO1DmGnhfZXgPUswW_SfwM-1775417231-1.0.1.1-W331Xkrczgs.WYDcy.F5HT_wVHbFMqZjVOaX2GdDhIQ",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Suggest a Title'",
+    "libraryName": "CHARLESTON COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.dorchesterlibrarysc.org/",
+    "formUrl": "https://www.dorchesterlibrarysc.org/about/?suggestionsforpurchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggestions for Purchase'",
+    "libraryName": "DORCHESTER COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://gtcounty.org/187/Georgetown-County-Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GEORGETOWN COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.chapinlibrary.org/",
+    "formUrl": "https://www.chapinlibrary.org/services/request-purchase",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/services/request-purchase'",
+    "libraryName": "CHAPIN MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.dillon.lib.sc.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DILLON COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.statelibrary.sc.gov/node/4207",
+    "formUrl": "https://www.statelibrary.sc.gov/node/4207/south-carolinians/interlibrary-loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan (ILL)'",
+    "libraryName": "HORRY COUNTY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://marionsc.gov/visting-marion-south-carolina/the-marion-county-library-marion-sc/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARION COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://edelmanpubliclibrary.org/index.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARLBORO COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.andersonlibrary.org/locations/main",
+    "formUrl": "https://www.andersonlibrary.org/locations/main/requests",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/requests'",
+    "libraryName": "ANDERSON COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.greenvillelibrary.org/",
+    "formUrl": "https://www.greenvillelibrary.org/interlibrary-loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'InterLibrary Loan'",
+    "libraryName": "GREENVILLE COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://oconeelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OCONEE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://pickenscountylibrarysystem.com/",
+    "formUrl": "https://pickenscountylibrarysystem.com/services/interlibrary-loan/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "PICKENS COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://abbevillecounty.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ABBEVILLE COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.gwdlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GREENWOOD COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.yclibrary.org/",
+    "formUrl": "https://www.yclibrary.org/interlibrary-loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "YORK COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://ahjlibrary.org/",
+    "formUrl": "https://ahjlibrary.org/request-a-meeting-room/",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Request a Meeting Room'",
+    "libraryName": "ALLENDALE HAMPTON JASPER REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://mccormicklibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MCCORMICK COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.beaufortcountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BEAUFORT COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.fulcolibrary.org/",
+    "formUrl": "https://www.fulcolibrary.org/suggest-a-title-for-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a title for Purchase'",
+    "libraryName": "FULTON COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.cobbcounty.gov/library",
+    "formUrl": "https://www.cobbcounty.gov/library/library-cards-accounts/suggest-new-material",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest New Material'",
+    "libraryName": "COBB COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://dekalblibrary.org/",
+    "formUrl": "https://dekalblibrary.org/using-the-library/interlibrary-loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "DEKALB COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.gwinnettpl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GWINNETT COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://newtonlibraries.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEWTON COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.conyersrockdalelibrary.org/",
+    "formUrl": "https://www.conyersrockdalelibrary.org/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "CONYERS-ROCKDALE LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://bartowlibrary.org/",
+    "formUrl": "https://bartowlibrary.org/what_we_offer/interlibrary_loan.php",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "BARTOW COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://wgrls.org/",
+    "formUrl": "https://wgrls.org/services/purchase-suggestion/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Suggestion'",
+    "libraryName": "WEST GEORGIA REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.sequoyahregionallibrary.org/",
+    "formUrl": "https://www.sequoyahregionallibrary.org/interlibrary-loans",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loans'",
+    "libraryName": "SEQUOYAH REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://shrls.org/",
+    "formUrl": "https://shrls.org/contact_us/title_request.php",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'contact_us/title_request.php'",
+    "libraryName": "SARA HIGHTOWER REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://claytonpl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CLAYTON COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://public-libraries.com/spalding/griffin/flint-river-regional-library-spalding-griffin/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FLINT RIVER REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://thrl.org/",
+    "formUrl": "https://thrl.org/borrowing/suggest_a_purchase.php",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Material'",
+    "libraryName": "TROUP-HARRIS REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://henrylibraries.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HENRY COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.coweta.ga.us/departments-services/departments-f-q/library-system",
+    "formUrl": "https://www.coweta.ga.us/departments-services/departments-f-q/library-system/government/how-do-i/make-an-open-records-request",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/government/how-do-i/make-an-open-records-request'",
+    "libraryName": "COWETA COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.pinemtnlibrary.org/",
+    "formUrl": "https://www.pinemtnlibrary.org/about_us/open_records_requests.php",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'about_us/open_records_requests.php'",
+    "libraryName": "PINE MOUNTAIN REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://cityofbrooklet.org/library",
+    "formUrl": "https://cityofbrooklet.org/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request'",
+    "libraryName": "STATESBORO REGIONAL PUBLIC LIBRARIES"
+  },
+  {
+    "website": "https://www.jeffersoncls.org/index.php",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "JEFFERSON COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "http://www.sjrls.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SCREVEN-JENKINS REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://ohoopeelibrary.org/",
+    "formUrl": "https://ohoopeelibrary.org/request_for_proposals/index.php",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'request_for_proposals/index.php'",
+    "libraryName": "OHOOPEE REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "http://www.ocrl.org/lc-home/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OCONEE REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.prlib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PIEDMONT REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://negeorgialibraries.org/",
+    "formUrl": "https://negeorgialibraries.org/request-for-proposals/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://negeorgialibraries.org/request-for-proposals/'",
+    "libraryName": "NORTHEAST GEORGIA REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://chestateelibrary.org/",
+    "formUrl": "https://chestateelibrary.org/services/interlibrary_loan.php",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "CHESTATEE REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.mountainlibrary.com/locations/mrl/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MOUNTAIN REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.hallcountylibrary.org/",
+    "formUrl": "https://www.hallcountylibrary.org/services/community/suggest_a_title.php",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "HALL COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.hartcountylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HART COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://athenslibrary.org/",
+    "formUrl": "https://athenslibrary.org/borrowing/purchase-suggestion-form/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Suggestion Form'",
+    "libraryName": "ATHENS REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "http://elbertlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ELBERT COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.azalealibraries.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "AZALEA REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://librarytechnology.org/library/863",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BARTRAM TRAIL REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.chrl.org/locations/lafayette_walker_county_public_library/index.php",
+    "formUrl": "https://www.chrl.org/locations/lafayette_walker_county_public_library/index.php/locations/dade_county_public_library/electronic_sign_request.php",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Electronic Sign Request'",
+    "libraryName": "CHEROKEE REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "http://ngrl.org/",
+    "formUrl": "https://ngrl.org/using-the-library/recommend-items-for-purchase/",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Recommend Items for Purchase'",
+    "libraryName": "NORTHWEST GEORGIA REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.catoosacountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CATOOSA COUNTY LIBRARY"
+  },
+  {
+    "website": "https://columbiacountylibrarysystem.org/160/Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://columbiacountylibrarysyste",
+    "libraryName": "GREATER CLARKS HILL REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://arcpls.org/",
+    "formUrl": "https://arcpls.org/bookmobile-request/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://arcpls.org/bookmobile-request/'",
+    "libraryName": "AUGUSTA-RICHMOND COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://bibblib.org/",
+    "formUrl": "https://bibblib.org/services/interlibrary_loan_program.php",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan Program'",
+    "libraryName": "MIDDLE GEORGIA REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://orls.org/",
+    "formUrl": "https://orls.org/services/specialty/interlibrary-loan/",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Interlibrary Loan'",
+    "libraryName": "OCMULGEE REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "http://peachpubliclibraries.org/",
+    "formUrl": "http://peachpubliclibraries.org/about-the-library/library-policies/request-for-reconsideration-of-library-materials/",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'REQUEST FOR RECONSIDERATION OF LIBRARY MATERIALS'",
+    "libraryName": "PEACH PUBLIC LIBRARIES"
+  },
+  {
+    "website": "https://www.liveoakpl.org/",
+    "formUrl": "https://liveoakpl.org/explore/suggest",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "LIVE OAK PUBLIC LIBRARIES"
+  },
+  {
+    "website": "https://librarytechnology.org/library/8373",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SATILLA REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "http://3riverslibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "THREE RIVERS REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://okrls.org/",
+    "formUrl": "https://okrls.org/resources/request_an_interlibrary_loan.php",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Interlibrary Loan'",
+    "libraryName": "OKEFENOKEE REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://moglibraries.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARSHES OF GLYNN LIBRARIES"
+  },
+  {
+    "website": "http://brooks.public.lib.ga.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BROOKS COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://sgrl.org/",
+    "formUrl": "https://sgrl.org/collections/requests/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://sgrl.org/collections/requests/'",
+    "libraryName": "SOUTH GEORGIA REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://tcpls.org/",
+    "formUrl": "https://tcpls.org/use_the_library/suggest_a_purchase.php",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "THOMAS COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18565",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LEE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.swgrl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SOUTHWEST GEORGIA REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://rmlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RODDENBERY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.krlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KINCHAFOONEE REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.mccls.org/",
+    "formUrl": "https://www.mccls.org/borrow/reader_services/suggest_a_purchase.php",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest A Purchase'",
+    "libraryName": "MOULTRIE-COLQUITT COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.docolib.org/",
+    "formUrl": "https://www.docolib.org/about_us/contact_us/suggest_a_title.php",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "DOUGHERTY COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.desototrail.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DE SOTO TRAIL REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.lbrls.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LAKE BLACKSHEAR REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.cprl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "COASTAL PLAIN REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://worthlib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WORTH COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.cvlga.org/",
+    "formUrl": "https://www.cvlga.org/borrow/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "CHATTAHOOCHEE VALLEY LIBRARIES"
+  },
+  {
+    "website": "https://srrlib.org/client/en_US/default",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SUWANNEE RIVER REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.claycountygov.com/community/library/library-locations-and-hours",
+    "formUrl": "https://www.claycountygov.com/community/library/library-services/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "CLAY COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://ccpl.aspendiscovery.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "COLUMBIA COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://sjcpls.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ST. JOHNS COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.newriverlibrary.org/ucpl/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEW RIVER PUBLIC LIBRARY COOPERATIVE"
+  },
+  {
+    "website": "https://nassaureads.polarislibrary.com/library/hours.aspx?ctx=3.1033.0.0.1",
+    "formUrl": "https://nassaureads.polarislibrary.com/library/hours.aspx?ctx=3.1033.0.0.1/javascript:showModalBasicWithIframe(%27https://nassaureads.polarislibrary.com/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "NASSAU COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://library.marionfl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARION COUNTY PUBLIC LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.mylakelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LAKE COUNTY LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.cityofflaglerbeach.com/125/Library",
+    "formUrl": "https://www.cityofflaglerbeach.com/requesttracker.aspx",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/requesttracker.aspx'",
+    "libraryName": "FLAGLER BEACH PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://flaglerlibrary.org/",
+    "formUrl": "https://flaglerlibrary.org/suggest-an-item-for-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request for Purchase'",
+    "libraryName": "FLAGLER COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://volusialibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VOLUSIA COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.gadsdencountyfl.gov/departments/library-services",
+    "formUrl": "https://www.gadsdencountyfl.gov/departments/library-services/departments/building-department/permit-inspection-request-form",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/departments/building-department/permit-inspection-request-form'",
+    "libraryName": "GADSDEN COUNTY PUBLIC LIBRARY"
+  }
+]

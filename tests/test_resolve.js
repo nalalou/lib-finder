@@ -6,7 +6,7 @@ const nodePath = require("node:path");
 let validateAuth, validatePayload, mapLibrary;
 
 before(async () => {
-  const mod = await import("../api/v1/library-requests/resolve.js");
+  const mod = await import("../api/resolve.js");
   validateAuth = mod.validateAuth;
   validatePayload = mod.validatePayload;
   mapLibrary = mod.mapLibrary;

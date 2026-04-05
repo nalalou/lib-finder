@@ -1,7 +1,7 @@
 {
   "rewrites": [
     { "source": "/api/submit", "destination": "/api/submit" },
-    { "source": "/v1/:path*", "destination": "/api/v1/:path*" }
+    { "source": "/v1/library-requests/resolve", "destination": "/api/resolve" }
   ],
   "headers": [
     {

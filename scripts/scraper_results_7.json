@@ -1,0 +1,4531 @@
+[
+  {
+    "website": "https://eastmolinelibrary.org/",
+    "formUrl": "https://eastmolinelibrary.org/suggestion-for-collection/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://eastmolinelibrary.org/suggestion-for-collection/'",
+    "libraryName": "EAST MOLINE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.geneseo.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GENESEO PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.edwardsriverlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "EDWARDS RIVER PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarylearning.org/moore-memorial-library-district",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MOORE MEMORIAL LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.rivervalleylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RIVER VALLEY DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://www.robertrjoneslibrary.org/",
+    "formUrl": "https://www.robertrjoneslibrary.org/suggest",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest an Item'",
+    "libraryName": "ROBERT R. JONES PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.rockislandlibrary.org/",
+    "formUrl": "https://www.rockislandlibrary.org/recommended-reads",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/recommended-reads'",
+    "libraryName": "ROCK ISLAND PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.sherrardlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.sherrardlibrary.org/\",",
+    "libraryName": "SHERRARD PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://silvislibrary.org/",
+    "formUrl": "https://silvislibrary.org/how-do-i.php#request",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Material not in PrairieCat'",
+    "libraryName": "SILVIS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.colonalibrary.com/",
+    "formUrl": "https://www.colonalibrary.com/how-to-file-a-freedom-of-information-act-request",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/how-to-file-a-freedom-of-information-act-request'",
+    "libraryName": "COLONA DISTRICT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.westerndistrictlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WESTERN DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://cloverlibrarywoodhull.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CLOVER PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://galvalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GALVA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://kewaneelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KEWANEE PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://newwindsoril.gov/library",
+    "formUrl": "https://newwindsoril.gov/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request'",
+    "libraryName": "NEW WINDSOR PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.violapubliclibrarydistrict.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VIOLA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarylearning.org/mason-memorial-district-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MASON MEMORIAL LIBRARY DISTRICT"
+  },
+  {
+    "website": "http://leepertown.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LEEPERTOWN TOWNSHIP PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.villageofladd.com/locations/ladd-public-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LADD PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "http://lamoilleclarionlibrary.com/index.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://lamoilleclarionlibrary.com/",
+    "libraryName": "LAMOILLE-CLARION PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarytechnology.org/library/17525",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MINERAL-GOLD PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://neponsetpubliclibrary.wordpress.com/",
+    "formUrl": "https://neponsetlibrary.org/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://mhl.org/borrow/recommendations/new-york-times-best-seller-lists'",
+    "libraryName": "NEPONSET PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://ohiolibrarybc.com/",
+    "formUrl": "https://rail.agshareit.com/home?cid=rail&lid=rail",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Interlibrary Loan Service'",
+    "libraryName": "OHIO PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://putnamcountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 500",
+    "libraryName": "PUTNAM COUNTY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarylearning.org/selby-township-library-district",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SELBY TOWNSHIP LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.chamberofcommerce.com/united-states/illinois/spring-valley/public-library/2000219821-richard-a-mautino-memorial-library",
+    "formUrl": "https://www.chamberofcommerce.com/united-states/illinois/spring-valley/public-library/2000219821-richard-a-mautino-memorial-library/request-contact",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Contact'",
+    "libraryName": "RICHARD A. MAUTINO MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.tisklib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TISKILWA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarylearning.org/toluca-public-library-district-toluca-public-library-district",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TOLUCA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.walnutpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WALNUT PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://cityofwenona.org/community_post/wenona-bond-public-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BOND PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarylearning.org/raymond-sapp-memorial-township-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RAYMOND A SAPP MEMORIAL TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "http://www.henry.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HENRY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/17461",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LACON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "http://alphapark.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ALPHA PARK PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://peoriapubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PEORIA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.peoriaheightslibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PEORIA HEIGHTS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarylearning.org/astoria-public-library-district",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ASTORIA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://brimfieldlibrary.org/",
+    "formUrl": "https://brimfieldlibrary.org/books-more/recommendations/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://brimfieldlibrary.org/books-more/recommendations/'",
+    "libraryName": "BRIMFIELD PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.parliningersoll.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PARLIN-INGERSOLL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.chillicothepubliclibrary.org/",
+    "formUrl": "https://www.chillicothepubliclibrary.org/book-recommendations/april-2026/",
+    "confidence": "low",
+    "note": "Link matched but no form detected: ''",
+    "libraryName": "CHILLICOTHE PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.dunlaplibrary.org/",
+    "formUrl": "https://www.dunlaplibrary.org/purchase-suggestion/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Suggestion'",
+    "libraryName": "DUNLAP PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://morrisonkids.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MORRISON & MARY WILEY LIBRARY"
+  },
+  {
+    "website": "https://www.farmingtonpublic.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FARMINGTON AREA LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://lewistowncarnegiepubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LEWISTOWN CARNEGIE PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.lmelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LILLIE M. EVANS LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://salemtownshiplibrary.com/",
+    "formUrl": "https://salemtownshiplibrary.com/book-request/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://salemtownshiplibrary.com/book-request/'",
+    "libraryName": "SALEM TOWNSHIP PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.colchesterlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "COLCHESTER DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://johnmosserpubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "JOHN MOSSER PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarylearning.org/ransom-memorial-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RANSOM MEMORIAL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.chamberofcommerce.com/united-states/illinois/avon/public-library/2000219937-village-of-avon-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "VILLAGE OF AVON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.bhpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BLANDINSVILLE-HIRE LIBRARY DISTRICT"
+  },
+  {
+    "website": "http://bpld.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BRADFORD PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarytechnology.org/library/17282",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BUSHNELL PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://galesburglibrary.org/",
+    "formUrl": "https://galesburglibrary.org/getting-involved/#suggestions",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://galesburglibrary.org/getting-involved/#suggestions'",
+    "libraryName": "GALESBURG PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.hendersoncolibrary.com/",
+    "formUrl": "https://www.hendersoncolibrary.com/borrow/interlibrary-loans/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loans'",
+    "libraryName": "HENDERSON COUNTY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.laharpelibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LAHARPE CARNEGIE PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.macomblibrary.com/",
+    "formUrl": "https://www.macomblibrary.com/services/interlibrary-loans/",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Interlibrary Loans'",
+    "libraryName": "MACOMB PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarytechnology.org/library/17503",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MAQUON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.greigmemlibrary.com/home",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GREIG MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.cubaspoonriverlibrary.org/",
+    "formUrl": "https://www.cubaspoonriverlibrary.org/interlibrary-loan-request",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan Request'",
+    "libraryName": "SPOON RIVER LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.toulonpld.org/",
+    "formUrl": "https://www.toulonpld.org/library-services",
+    "confidence": "high",
+    "note": "Found form via link text: 'Library Services\n\nComputers for Patron use with limited assistance if requested\nPublic WI-FI\nPhotocopying & Faxing available for small fee\nInterlibrary loan\nInformation & Reference Service\nMeeting and study rooms\u2026\n\nREAD MORE \u00bb'",
+    "libraryName": "TOULON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://valleydistrictlibrary.weebly.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VALLEY DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://www.vermontpubliclibrary.net/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VERMONT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarylearning.org/victoria-public-library-district",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VICTORIA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.cityofmonmouth.com/residents/pages/warren-county-public-library",
+    "formUrl": "https://www.cityofmonmouth.com/residents/pages/warren-county-public-library/publications/pages/requests-proposals",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/publications/pages/requests-proposals'",
+    "libraryName": "WARREN COUNTY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.wyomingpubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WYOMING PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.wpld.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WILLIAMSFIELD PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.deercreeklibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DEER CREEK DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/17351",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "AYER PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.elpasodistrictlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "EL PASO DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://mackinawpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MACKINAW DISTRICT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.minierlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "H.A. PEINE DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://minonklibrary.wordpress.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FILGER PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.crevecoeurlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CREVE COEUR PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.fondulaclibrary.org/",
+    "formUrl": "https://www.fondulaclibrary.org/library-service/reserve-and-request-items",
+    "confidence": "high",
+    "note": "Found form via link text: 'Reserve & Request Items'",
+    "libraryName": "FONDULAC PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.havanalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HAVANA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.masoncitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MASON CITY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.eurekapl.org/",
+    "formUrl": "https://www.eurekapl.org/interlibrary-loans.html",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loans'",
+    "libraryName": "EUREKA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.ipdpl.org/locations-hours/metamora/",
+    "formUrl": "https://www.ipdpl.org/locations-hours/metamora/index.php/request-an-item",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Item'",
+    "libraryName": "ILLINOIS PRAIRIE DISTRICT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://formanvalleylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FORMAN VALLEY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "http://www.mhlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARQUETTE HEIGHTS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://mortonlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MORTON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "http://www.pekinpubliclibrary.org",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PEKIN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.tremontlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TREMONT DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://washingtondl.org/",
+    "formUrl": "https://washingtondl.org/at-the-library/interlibrary-loan-request/",
+    "confidence": "high",
+    "note": "Found form via link text: 'INTERLIBRARY LOAN REQUEST\nINTERLIBRARY LOAN REQUEST'",
+    "libraryName": "WASHINGTON DISTRICT LIBRARY"
+  },
+  {
+    "website": "http://www.atlantapld.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ATLANTA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://chenoalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHENOA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarylearning.org/martin-township-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARTIN TOWNSHIP PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://danverstownshiplibrary.com/contact",
+    "formUrl": "https://alsi.sdp.sirsi.net/client/en_US/DanversTownship/?dt=list",
+    "confidence": "high",
+    "note": "Found form via link text: 'Browse our catalog or request your items here!'",
+    "libraryName": "DANVERS TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://gridleylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GRIDLEY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://heyworthlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HEYWORTH PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.lexington.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LEXINGTON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.mhfglibrary.org/",
+    "formUrl": "https://www.mhfglibrary.org/purchase-suggestion",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Suggestion'",
+    "libraryName": "MOUNT HOPE-FUNK'S GROVE TOWNSHIPS PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.maroa.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MAROA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.normalpl.org/",
+    "formUrl": "https://www.normalpl.org/form/request-an-item-for-loan-or-purc",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest an Item'",
+    "libraryName": "NORMAL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.allintownshiplibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ALLIN TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://towandalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TOWANDA DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://waynesvillevillage.com/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WAYNESVILLE TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://www.carlocklibrary.com/",
+    "formUrl": "https://www.carlocklibrary.com/interlibrary-loan-and-placing-a-hold",
+    "confidence": "high",
+    "note": "Found form via link text: 'Place a hold or request items not owned by Carlock Public Library District'",
+    "libraryName": "CARLOCK PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.vwarner.org/",
+    "formUrl": "https://www.vwarner.org/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "VESPASIAN WARNER PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://hudsonarealibrary.com/",
+    "formUrl": "https://hudsonarealibrary.com/reading-recommendations/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://hudsonarealibrary.com/reading-recommendations/'",
+    "libraryName": "HUDSON AREA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarylearning.org/cheneys-grove-township-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHENEYS GROVE TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://www.farmercitypubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FARMER CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.weldon.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WELDON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://georgetowntexas.gov/library/",
+    "formUrl": "https://css.georgetowntexas.gov/moveinrequest?ui_locales=en",
+    "confidence": "low",
+    "note": "Link matched but no form detected: ''",
+    "libraryName": "GEORGETOWN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://danvillepubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DANVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.atwoodhammondlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ATWOOD-HAMMOND PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://bementpubliclibrary.specialdistrict.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BEMENT PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://hopeweltylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HOPE WELTY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarylearning.org/willow-branch-township-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WILLOW BRANCH TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=665.1033.0.0.3",
+    "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=665.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "GOOSE CREEK DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://www.arcola.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ARCOLA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.arthurlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ARTHUR PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://charlestonlibrary.org/",
+    "formUrl": "https://charlestonlibrary.org/request-or-renew-items",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Request or Renew Items'",
+    "libraryName": "CHARLESTON CARNEGIE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://chrismanpubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHRISMAN PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.kansaslibrary.jigsy.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KANSAS COMMUNITY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "http://www.lovingtonpld.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LOVINGTON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.villageofbethany.com/library",
+    "formUrl": "https://www.villageofbethany.com/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request'",
+    "libraryName": "MARROWBONE PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://mattoonlibrary.org/",
+    "formUrl": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&redirect_uri=https%3A%2F%2Fwww.office.com%2Flanding&response_type=code%20id_token&scope=openid%20profile&response_mode=form_post&nonce=637154887287404600.OTI2MWQwNmEtMWU2MS00Mjk4LTlkZTYtN2I4Y2RmOTliOGRhNTAwMWQ5YjYtNGQ5My00ZDM2LWI4YTItY2JlMDI2ZmIwYzdk&ui_locales=en-US&mkt=en-US&client-request-id=e3917ea5-a3b8-48a3-b3e9-d8a98ab4f04b&state=cOLxZjWrMMSInYPNfioi3zu1XiFRTKKPzbhcnHNLdTaeJosLvewTdBbIQ13N3mm_LeFChqvBEDyYD7a5MKQ-TaChqsNdO6ZxdNvAhJMm6HgsGGJwv5PjMQrU-eq6q7lB6seg3p2nvkKsA7U7NJvDN3w7vIsxOU1d2j7E_maK5_Jf_W7869E2R4uRInS_YmiXuc19qUAqYCKg9ogxWN5SFhQuBL_N64mKmrPPn5XHiJrvSKhMz2XtzbdE-SKSnWivHq846fXE5yOVKUNoFR6K8FYkSDIZh6TBNZPUtaxIsJA&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.2.0.0",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Staff Email'",
+    "libraryName": "MATTOON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.parispubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PARIS CARNEGIE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.sullivanil.us/departments/library/index.php",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ELIZABETH TITUS MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.tuscolalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TUSCOLA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://camargotownship.org/",
+    "formUrl": "https://camargotownship.org/interlibrary-loan/",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Interlibrary Loan'",
+    "libraryName": "CAMARGO TOWNSHIP DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://windsor.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WINDSOR STORM MEMORIAL PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.newmanlibrary.org/",
+    "formUrl": "https://www.newmanlibrary.org/about/policies/personnel-policies/personnel-records-request-form",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Personnel Records Request Form'",
+    "libraryName": "NEWMAN REGIONAL LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.bethaltolibrary.org/",
+    "formUrl": "https://www.bethaltolibrary.org/",
+    "confidence": "high",
+    "note": "Found form via link text: 'suggestion for purchase.'",
+    "libraryName": "BETHALTO PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.bunkerhilllibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BUNKER HILL PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.eastaltonlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "EAST ALTON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.edwardsvillelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "EDWARDSVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.gillespiepubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GILLESPIE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.smrld.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.smrld.org/\", waiting u",
+    "libraryName": "SIX MILE REGIONAL LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.hartfordpubliclibrarydistrict.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HARTFORD PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.haynerlibrary.org/",
+    "formUrl": "https://www.haynerlibrary.org/how-do-i/library-services/recommend-a-purchase/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.haynerlibrary.org/how-do-i/library-services/recommend-a-purchase/'",
+    "libraryName": "HAYNER PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.hillsborolibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HILLSBORO AREA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.jerseyvillelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "JERSEYVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.litchfieldpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LITCHFIELD PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "http://www.nokomispl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NOKOMIS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=265.1033.0.0.3",
+    "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=265.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "ROODHOUSE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://roxanalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ROXANA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarytechnology.org/library/12941",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SOUTH COUNTY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarytechnology.org/library/12945",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VENICE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.whitehalltownshiplibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WHITE HALL TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://librarylearning.org/witt-township-memorial-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WITT TOWNSHIP MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.woodriverlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WOOD RIVER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=284.1033.0.0.3",
+    "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=284.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "WORDEN PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://brightonpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BRIGHTON MEMORIAL LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarylearning.org/ramsey-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RAMSEY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://glencarbonlibrary.org/",
+    "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScI4szQ-Hv_VS-l8uEGA9zBTsYlzI1QPSBxtpFofx5xQHIqzA/viewform?formkey=dHRFUUlxQ0hwQWhJb1JoYXRnSVItckE6MA#gid=0",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "GLEN CARBON CENTENNIAL LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.maryville.lib.il.us/",
+    "formUrl": "https://www.maryville.lib.il.us/about-us/freedom-of-information-request-foia/",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Freedom of Information Request (FOIA)'",
+    "libraryName": "MARYVILLE COMMUNITY LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.benldlibrary.org/",
+    "formUrl": "https://www.benldlibrary.org/foia-request",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/foia-request'",
+    "libraryName": "FRANK BERTETTI BENLD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.carlinvillelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CARLINVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.girardtownshiplibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GIRARD TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://virden.municipalimpact.com/library-grand-prairie-of-the-west",
+    "formUrl": "https://virden.municipalimpact.com/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request-foia'",
+    "libraryName": "GRAND PRAIRIE OF THE WEST PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://cityofassumption.org/library",
+    "formUrl": "https://cityofassumption.org/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/freedom-of-information-act-foia-requests'",
+    "libraryName": "ASSUMPTION PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.morrisonvillekml.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KITCHELL MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://panalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CARNEGIE-SCHUYLER LIBRARY"
+  },
+  {
+    "website": "https://librarylearning.org/stonington-township-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "STONINGTON TOWNSHIP PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.taylorvillelibrary.org/",
+    "formUrl": "https://www.taylorvillelibrary.org/collection-suggestions",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Collection Suggestions'",
+    "libraryName": "TAYLORVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarylearning.org/farmersville-waggoner-public-library-district",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FARMERSVILLE-WAGGONER PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.doylepubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DOYLE PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://stelmo.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SAINT ELMO PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://evanspubliclibrary.org/",
+    "formUrl": "https://evanspubliclibrary.org/contact-us-2/purchase-request/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Request'",
+    "libraryName": "EVANS PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.cahokialibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CAHOKIA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.caseyvillelibrary.org/",
+    "formUrl": "https://www.caseyvillelibrary.org/readingsuggestions",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.caseyvillelibrary.org/readingsuggestions'",
+    "libraryName": "CASEYVILLE PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://mvld.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MISSISSIPPI VALLEY LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.dupolibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DAUGHERTY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://eslpl.org/",
+    "formUrl": "https://eslpl.org/pages/services/book-request",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request a Book'",
+    "libraryName": "EAST SAINT LOUIS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://fairviewheightslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://fairviewheightslibrary.org",
+    "libraryName": "FAIRVIEW HEIGHTS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://highlandillibrary.org/",
+    "formUrl": "https://highlandillibrary.org/join-the-library/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loans'",
+    "libraryName": "LOUIS LATZER MEMORIAL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.marissalibrary.org/",
+    "formUrl": "https://www.marissalibrary.org/request-a-book",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request A Book'",
+    "libraryName": "MARISSA AREA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.mascoutahlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MASCOUTAH PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.millstadt-library.org/",
+    "formUrl": "https://www.millstadt-library.org/check-out-items",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Item'",
+    "libraryName": "MILLSTADT LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://newathenslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEW ATHENS DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://public-libraries.com/illinois/ofallon/ofallon-public-library-illinois-ofallon/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "O'FALLON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://troylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TRI-TOWNSHIP PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.smithtonpl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SMITHTON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.freeburglibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FREEBURG AREA LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://lebanonlibrary.org/",
+    "formUrl": "https://lebanonlibrary.org/teacher-services-requests/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://lebanonlibrary.org/teacher-services-requests/'",
+    "libraryName": "LEBANON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/21300",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TRENTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://breeselibrary.org/",
+    "formUrl": "https://breeselibrary.org/",
+    "confidence": "high",
+    "note": "Found form via link text: 'REQUEST A BOOK'",
+    "libraryName": "BREESE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://casehalstead.org/contact-us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 404",
+    "libraryName": "CASE-HALSTEAD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/17299",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CENTRAL PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.coultervilledistrictlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "COULTERVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.chamberofcommerce.com/business-directory/illinois/cutler/public-library/2030653564-cutler-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "CUTLER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://newbadenlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEW BADEN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://pinckneyvillelibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PINCKNEYVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://redbudpubliclibrary.weebly.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RED BUD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.steelevillelibrary.org/",
+    "formUrl": "https://www.steelevillelibrary.org/request-form",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.steelevillelibrary.org/request-form'",
+    "libraryName": "STEELEVILLE AREA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.valmeyerlibrary.com/",
+    "formUrl": "https://www.valmeyerlibrary.com/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "VALMEYER PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://waterloolibrary.org/",
+    "formUrl": "https://waterloolibrary.org/book-recommendations/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://waterloolibrary.org/book-recommendations/'",
+    "libraryName": "MORRISON-TALBOTT LIBRARY"
+  },
+  {
+    "website": "http://www.gtownlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://www.gtownlibrary.org/\", wai",
+    "libraryName": "GERMANTOWN PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://villageoftilden.com/library",
+    "formUrl": "https://villageoftilden.com/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request'",
+    "libraryName": "TILDEN PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.hamiltonpubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HAMILTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.barrypubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BARRY PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.camppointpubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CAMP POINT PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.carthagepubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CARTHAGE PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.claytonpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CLAYTON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.northpikedistrictlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NORTH PIKE DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://www.greaterwestcentral.org/",
+    "formUrl": "https://www.greaterwestcentral.org/interlibrary-loan-resources",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Interlibrary Loan Resources'",
+    "libraryName": "GREATER WEST CENTRAL PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.bcpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BROWN COUNTY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.nauvoopubliclibrary.com/contact",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NAUVOO PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.quincylibrary.org/",
+    "formUrl": "https://www.quincylibrary.org/ill",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "QUINCY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.fourstarlibrary.org/",
+    "formUrl": "https://www.fourstarlibrary.org/recommend-a-purchase",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/recommend-a-purchase'",
+    "libraryName": "FOUR STAR PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=419.1033.0.0.3&lp=0",
+    "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=419.1033.0.0.3&lp=0/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "MOWEAQUA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.shelbyvillelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SHELBYVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://marshallpl.org/",
+    "formUrl": "https://marshallpl.org/interlibrary-loan/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "MARSHALL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://florapubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FLORA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://villageofwaynecity.com/library",
+    "formUrl": "https://villageofwaynecity.com/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request'",
+    "libraryName": "WAYNE CITY KISSNER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.cityofcaseyil.org/community/casey-township-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CASEY TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://www.drypointtownshiplibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DRY POINT TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://www.greenup.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GREENUP TOWNSHIP PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarylearning.org/herrick-township-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HERRICK TOWNSHIP PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://lawpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LAWRENCE PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=681.1033.0.0.3",
+    "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=681.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "MARTINSVILLE PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.neoga.lib.il.us/",
+    "formUrl": "https://www.neoga.lib.il.us/new-at-neoga-library/staff-recommendations.html",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.neoga.lib.il.us/new-at-neoga-library/staff-recommendations.html'",
+    "libraryName": "NEOGA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarylearning.org/newton-public-library-district",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEWTON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.olneypubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OLNEY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://palestinepubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PALESTINE PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://robinsonpubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ROBINSON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarylearning.org/sumpter-township-library-sumpter-township-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SUMPTER TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://librarylearning.org/west-salem-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WEST SALEM PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=943.1033.0.0.3",
+    "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=943.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "WEST UNION DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://www.auburnpubliclibraryil.org/",
+    "formUrl": "https://www.auburnpubliclibraryil.org/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request & Renew Items\nREAD MORE \u00bb'",
+    "libraryName": "AUBURN PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.chathamlib.org/",
+    "formUrl": "https://www.chathamlib.org/suggest-a-purchase",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/suggest-a-purchase'",
+    "libraryName": "CHATHAM AREA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.elkhartlibrary.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ELKHART PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://lincolnpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LINCOLN PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.shermanlibrary.net/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SHERMAN PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.williamsvillelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WILLIAMSVILLE PUBLIC LIBRARY AND MUSEUM"
+  },
+  {
+    "website": "https://librarylearning.org/west-sangamon-public-library-district",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WEST SANGAMON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://barclay.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BARCLAY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.bluemoundlibrary.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BLUE MOUND MEMORIAL LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://divernontownshiplibrary.org/about-us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DIVERNON TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://www.forsythlibrary.com/",
+    "formUrl": "https://forp.illshareit.com/?browseCategory=top_requested",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'FIND A BOOK'",
+    "libraryName": "FORSYTH PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.illiopolisniantic.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ILLIOPOLIS/NIANTIC PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.southmaconlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SOUTH MACON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://mplibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MOUNT PULASKI PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.mtzion.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MOUNT ZION DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://www.rochesterlibrary.org/",
+    "formUrl": "https://www.rochesterlibrary.org/reading-recommendations/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.rochesterlibrary.org/reading-recommendations/'",
+    "libraryName": "ROCHESTER PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://aopld.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ARGENTA-OREANA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.rivertonvillagelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RIVERTON VILLAGE LIBRARY"
+  },
+  {
+    "website": "https://www.tricitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TRI-CITY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://rushvilleillinois.us/library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RUSHVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.ashlandil.com/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PRAIRIE SKIES PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://cityofbeardstown.org/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BEARDSTOWN HOUSTON MEMORIAL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/17273",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BLUFFS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarylearning.org/m-c-river-valley-public-library-district",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "M-C RIVER VALLEY PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://virginiamemorialpubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VIRGINIA MEMORIAL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.athens.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ATHENS MUNICIPAL LIBRARY"
+  },
+  {
+    "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=947.1033.0.0.3",
+    "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=947.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "ROYALTON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.shawneetownlibrary.org/",
+    "formUrl": "https://www.shawneetownlibrary.org/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'http://login.ebsco.com/?custId=s8856103&groupId=main&requestIdentifier=05a1b0dc-b747-4583-ae4f-59af13f74d94&acrValues=uid&ui_locales&redirect_uri=https://logon.ebsco.zone/api/dispatcher/continue/prompted?state=MTg5NWExYmYxMTRiNDFmNTk3ZWZkYjJkODk1NGY5Nzg=&authRequest=eyJraWQiOiIxNjg2MTQ5MjEzNjMxIiwiYWxnIjoiUlMyNTYifQ.eyJpc3MiOiJodHRwczpcL1wvYXV0aC5lYnNjby56b25lXC9hcGlcL2Rpc3BhdGNoZXIiLCJhdXRoUmVxdWVzdCI6eyJsb2dpbl9oaW50IjoiZ2VvY3VzdGlkOnM4ODU2MTAzLGdyb3VwSWQ6bWFpbixjdXN0SWQ6czg4NTYxMDMiLCJncmFudF90eXBlIjoiYXV0aG9yaXphdGlvbl9jb2RlIiwic2NvcGUiOiJvcGVuaWQgZW1haWwgYWZmaWxpYXRpb24iLCJhY3JfdmFsdWVzIjoidWlkIiwicmVzcG9uc2VfdHlwZSI6ImNvZGUiLCJyZWRpcmVjdF91cmkiOiJodHRwczpcL1wvc2VhcmNoLmVic2NvaG9zdC5jb21cL3dlYmF1dGhcL1Byb21wdGVkQ2FsbGJhY2suYXNweCIsInN0YXRlIjoiQXdaS0gxMEljZFJPdjJUbFRHa1c0RzZRbEZGcHpfdXVkWHVYWW9BNC01QVJtX1owT1MzRXEzcUQ3QlZ4aUNRSmxieGsxWFlBMmF0VHZWWHN6LXFWcFgtSUZ1ZHhlbXpqZ0J4ZVRXSzhrQjg4Q05FeWhvOFdzTV83X093RXp2RWU5R1dERVNPV2RIdEpLLVZrN0pPdVdFLWxOSWotaTM0NTJFQlhidGdNM3BCRG5jcHkyTlZlQXh5dmlWMVBFNGo2N3p1amkxMXJtV0dSZkg3SEROa25kZHZKdGRyd2YtSXRNNFNBVDFxblJEaVdZWlZQb3lzaXJYc2JQbTZoUkNwUENoamVqaGZOdGU5N05jbUtKNVZpQng1dzJuNEtKblNVSGw4aTlSekdBYzh2emVaRjhaQ0lIaTZha3ZPdVp3VjdhaGpsU3ZBdk8wc20yWWZDM3k3TXEzOE9ubjNSbW9iMGNRUnFkVDBfd093Ym1SbHBsRENiUGtQWSIsImNsaWVudF9pZCI6ImF3Z3ljSXg1N01yd25EUTVoNFVlNnlDVkVQMHI1TXQ5IiwicmVzcG9uc2VfbW9kZSI6InF1ZXJ5IiwicmVxSWQiOiIwNWExYjBkYy1iNzQ3LTQ1ODMtYWU0Zi01OWFmMTNmNzRkOTQifSwiaWF0IjoxNzQ2NTc0MzMyLCJqdGkiOiJkMmQ3NDZjYS1kZTYyLTQ2Y2EtYWVkNi02NTJiNDIyMWYzNjkiLCJyZXFJZCI6IjA1YTFiMGRjLWI3NDctNDU4My1hZTRmLTU5YWYxM2Y3NGQ5NCJ9.YEUtqEvw5u_Eai4fU8sUjE0B1gCBeasDvJLQDtFeGTsFInRmnvTrd20EX6h2g4zXIKHxIf6ZwKlgOyYVIdNUIZBpjyk98yr5UmafO2Cb6ZVnBpSwvsSrKoxdtbFa1peJY57Ex_cyMvd-tggyAaXwX3Irq_N7uC9nQyRuX07BxX4RV7df2YFVIOEQbe2y_lOLjU0h-6M6sfOBr6WInlR1p0BWnNceSSW98UGUQVmNBoWFwA-IRx7QrzKmSay5UiMukE7MBZVexrUJitF-JKO_gKgdRAx1-Nv317nvxnge4HE6Kno6WdjuX4X7cKczT3TbOVNJCYjSZsYmNlEGSVdIOg'",
+    "libraryName": "SHAWNEETOWN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://zeiglerlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ZEIGLER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.bentonlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BENTON PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=27.1033.0.0.3",
+    "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=27.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "CARMI PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.centralialibrary.org/",
+    "formUrl": "https://www.centralialibrary.org/about-us/freedom-of-information-act-requests/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.centralialibrary.org/about-us/freedom-of-information-act-requests/'",
+    "libraryName": "CENTRALIA REGIONAL LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://cityofchristopher.org/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHRISTOPHER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://duquoinlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DUQUOIN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.grofflibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GROFF MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://mccoylibrary.wixsite.com/mccoylibrary",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MCCOY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://mtvbrehm.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "C.E. BREHM MEMORIAL PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=78.1033.0.0.3",
+    "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=78.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "NORRIS CITY MEMORIAL PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=889.1033.0.0.3",
+    "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=889.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "PATOKA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://salembbl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BRYAN-BENNETT LIBRARY"
+  },
+  {
+    "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=885.1033.0.0.3&lp=1",
+    "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=885.1033.0.0.3&lp=1/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "SESSER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://westfrankfortpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WEST FRANKFORT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarylearning.org/kinmundy-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KINMUNDY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://stinsonlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "STINSON MEMORIAL PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.visitcarterville.com/community/anne-west-lindsey-district-library/",
+    "formUrl": "https://www.visitcarterville.com/foia-request/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.visitcarterville.com/foia-request/'",
+    "libraryName": "ANNE WEST LINDSEY DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://craborchardlibrary.com/",
+    "formUrl": "https://craborchardlibrary.com/services/make-a-suggestion/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://craborchardlibrary.com/services/make-a-suggestion/'",
+    "libraryName": "CRAB ORCHARD PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarylearning.org/dodge-memorial-public-library-district",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DODGE MEMORIAL PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.dongolaillinois.com/dongola-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DONGOLA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.eldoradomemoriallibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ELDORADO MEMORIAL PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.rickwarren.lib.il.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RICK WARREN MEMORIAL PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://golcondalibrary.wixsite.com/publiclibrary",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GOLCONDA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://harrisburglibrary.org/",
+    "formUrl": "https://harrisburglibrary.org/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://hbgp.illshareit.com/?browseCategory=hbgp_staff_recommendations'",
+    "libraryName": "HARRISBURG PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://herrincitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HERRIN CITY LIBRARY"
+  },
+  {
+    "website": "https://www.johnstoncitylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "JOHNSTON CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.marioncarnegielibrary.org/",
+    "formUrl": "https://www.marioncarnegielibrary.org/foia-requests/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.marioncarnegielibrary.org/foia-requests/'",
+    "libraryName": "MARION CARNEGIE LIBRARY"
+  },
+  {
+    "website": "https://www.metropolispubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "METROPOLIS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://sallieloganlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SALLIE LOGAN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.rosiclarelibrary.net/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ROSICLARE MEMORIAL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://viennacarnegiepubliclibrary.wordpress.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VIENNA CARNEGIE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarylearning.org/carrier-mills-stonefort-public-library-district",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CARRIER MILLS-STONEFORT PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://galatiapubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GALATIA PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://desloge-mo.gov/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DESLOGE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.parkhillspl.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PARK HILLS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.bonneterrelibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BONNE TERRE MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.maplewoodpubliclibrary.org/",
+    "formUrl": "https://www.maplewoodpubliclibrary.org/interlibrary-loan/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "MAPLEWOOD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.slcl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SAINT LOUIS COUNTY LIBRARY"
+  },
+  {
+    "website": "http://www.ucpl.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "UNIVERSITY CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://ferguson.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://ferguson.lib.mo.us/\", waiti",
+    "libraryName": "FERGUSON MUNICIPAL PUBLIC LIBRARY DISTRICT"
+  },
+  {
+    "website": "http://kirkwoodpubliclibrary.org",
+    "formUrl": "https://kirkwoodpubliclibrary.org/books-and-media/cant-find-it/#purchaserequest",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://kirkwoodpubliclibrary.org/books-and-media/cant-find-it/#purchaserequest'",
+    "libraryName": "KIRKWOOD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.richmondheightslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.richmondheightslibrary",
+    "libraryName": "RICHMOND HEIGHTS MEMORIAL LIBRARY"
+  },
+  {
+    "website": "http://www.wgpl.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://www.wgpl.org/\", waiting unt",
+    "libraryName": "WEBSTER GROVES PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.rockhillpubliclibrary.org/",
+    "formUrl": "https://www.rockhillpubliclibrary.org/recommend-a-purchase/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.rockhillpubliclibrary.org/recommend-a-purchase/'",
+    "libraryName": "ROCK HILL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://scenicregional.org/",
+    "formUrl": "https://scenicregional.org/wp-content/uploads/PurchaseRequestDirections-1.pdf",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Suggest a Purchase'",
+    "libraryName": "SCENIC REGIONAL LIBRARY"
+  },
+  {
+    "website": "http://crystalcitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CRYSTAL CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.festusmo.gov/221/Festus-Public-Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FESTUS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.valleyparklibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VALLEY PARK COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.slpl.org/",
+    "formUrl": "https://www.slpl.org/suggest-a-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest A Purchase'",
+    "libraryName": "CITY OF ST. LOUIS MUNICIPAL LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.montgomerycitymo.org/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MONTGOMERY CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.stchlibrary.org/",
+    "formUrl": "https://ask-us.mylibrary.org/form?queue_id=2070",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "SAINT CHARLES CITY-COUNTY LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.wellsvillelibrary.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CITY OF WELLSVILLE MUNICIPAL LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.louisiana.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LOUISIANA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://bowlinggreen-mo.gov/public-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BOWLING GREEN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.mexico-audrain.lib.mo.us/",
+    "formUrl": "https://www.mexico-audrain.lib.mo.us/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://research.ebsco.com/c/jdr6kd/recommends?auth-callid=f5478956-1f02-4df1-b8ba-1c16e260e841'",
+    "libraryName": "MEXICO-AUDRAIN COUNTY LIBRARY DISTRICT"
+  },
+  {
+    "website": "http://www.maconlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MACON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.laplatapubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LAPLATA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.marioncounty1.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARION COUNTY LIBRARY SUB-DISTRICT #1"
+  },
+  {
+    "website": "http://www.hannibal.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HANNIBAL FREE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.monroecity.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MONROE CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.rallscountylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RALLS COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.putnamcl.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PUTNAM COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.marcelinelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARCELINE CARNEGIE LIBRARY"
+  },
+  {
+    "website": "https://www.adairco.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ADAIR COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.dulanylibrary.org/",
+    "formUrl": "https://www.dulanylibrary.org/services/interlibrary-loan-services",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loans'",
+    "libraryName": "DULANY MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.schuylercounty.lib.mo.us/",
+    "formUrl": "https://www.schuylercounty.lib.mo.us/how-do-i/request-a-title-for-purchase",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.schuylercounty.lib.mo.us/how-do-i/request-a-title-for-purchase'",
+    "libraryName": "SCHUYLER COUNTY LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://bocolib.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BOLLINGER COUNTY LIBRARY"
+  },
+  {
+    "website": "https://ozarkregional.org/",
+    "formUrl": "https://form.jotform.com/242564494742060",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest for Purchase'",
+    "libraryName": "OZARK REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.reynoldscountylibrary.missouri.org/",
+    "formUrl": "https://www.reynoldscountylibrary.missouri.org/services/book-requests",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.reynoldscountylibrary.missouri.org/services/book-requests'",
+    "libraryName": "REYNOLDS COUNTY LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.capelibrary.org/",
+    "formUrl": "https://www.capelibrary.org/request-an-item",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Item'",
+    "libraryName": "MUNICIPAL LIBRARY DISTRICT OF THE CITY OF CAPE GIRARDEAU"
+  },
+  {
+    "website": "https://riversideregionallibrary.org/",
+    "formUrl": "https://docs.google.com/forms/d/1Aen_WbcD8ovLbsVvXue57LmH2kGrvJr-6QTL-R1mnkA/viewform?edit_requested=true",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request new book or DVD'",
+    "libraryName": "RIVERSIDE REGIONAL LIBRARY"
+  },
+  {
+    "website": "http://www.cityofchaffee.com/chflibrary/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHAFFEE PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.advancecommunitylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ADVANCE COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.puxico.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PUXICO PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.kellerpl.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KELLER PUBLIC LIBRARY OF DEXTER"
+  },
+  {
+    "website": "http://sikeston.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SIKESTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://bernie-public-library.ploud.net/our-locations-and-hours",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BERNIE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.steelepl.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "STEELE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/20147",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HAYTI CONRAN MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.missco.lib.mo.us/",
+    "formUrl": "https://www.missco.lib.mo.us/services/interlibrary-loan-oclc",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan (OCLC)'",
+    "libraryName": "MISSISSIPPI COUNTY LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://librarytechnology.org/library/20353",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LILBOURN MEMORIAL LIBRARY"
+  },
+  {
+    "website": "http://cville.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CARUTHERSVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.dunklin-co.lib.mo.us/",
+    "formUrl": "https://www.dunklin-co.lib.mo.us/about-us/library-policies/challenge-policy",
+    "confidence": "high",
+    "note": "Found form via link text: 'Patron Request for Reconsideration of Library Material'",
+    "libraryName": "DUNKLIN COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.newmadridcountylibrary.com/",
+    "formUrl": "https://www.newmadridcountylibrary.com/recommended.php",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'recommended.php'",
+    "libraryName": "NEW MADRID COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.poplarbluff.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "POPLAR BLUFF MUNICIPAL LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.ripleyco.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DONIPHAN-RIPLEY COUNTY LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://cartercountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CARTER COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.mymcpl.org/locations/north-independence",
+    "formUrl": "https://www.mymcpl.org/about/get-help/suggest-title",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Title'",
+    "libraryName": "MID-CONTINENT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.trailslibrary.org/about/hours-locations/warrensburg-branch/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.trailslibrary.org/abou",
+    "libraryName": "TRAILS REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.raycountylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RAY COUNTY LIBRARY"
+  },
+  {
+    "website": "https://kclibrary.org",
+    "formUrl": "https://kclibrary.org/services/purchase-suggestion",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "KANSAS CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.nkcpl.org/",
+    "formUrl": "https://www.nkcpl.org/requests",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Item'",
+    "libraryName": "NORTH KANSAS CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.casscolibrary.org/locations/harrisonville/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CASS COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.gentrycountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GENTRY COUNTY LIBRARY"
+  },
+  {
+    "website": "https://maryvillepubliclibrary.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARYVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.carnegie.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://www.carnegie.lib.mo.us/\", w",
+    "libraryName": "ALBANY CARNEGIE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://moundcitypubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://moundcitypubliclibrary.org",
+    "libraryName": "MOUND CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.wocolibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WORTH COUNTY LIBRARY"
+  },
+  {
+    "website": "https://rhcl.org/",
+    "formUrl": "https://rhcl.org/title-request-3942",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request a Title'",
+    "libraryName": "ROLLING HILLS CONSOLIDATED"
+  },
+  {
+    "website": "https://sjpl.lib.mo.us/",
+    "formUrl": "https://sjpl.lib.mo.us/genealogy/research-request/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://sjpl.lib.mo.us/genealogy/research-request/'",
+    "libraryName": "SAINT JOSEPH PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.daviesscountylibrary.org/",
+    "formUrl": "https://www.daviesscountylibrary.org/how-do-i/request-inter-library-loans-ill",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Inter-Library Loans (ILL)/Material Not Owned'",
+    "libraryName": "DAVIESS COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.grundycountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GRUNDY COUNTY-JEWETT NORRIS LIBRARY"
+  },
+  {
+    "website": "https://www.livcolib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Could not follow link: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.livcolib.org/suggestio",
+    "libraryName": "LIVINGSTON COUNTY LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/20334",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NORBORNE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.caldwellcountylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CALDWELL COUNTY LIBRARY"
+  },
+  {
+    "website": "http://cedarcountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CEDAR COUNTY LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.nplmo.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEVADA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.acmopl.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "APPLETON CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.rhmemoriallibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RICH HILL MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.henrycolib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HENRY COUNTY LIBRARY"
+  },
+  {
+    "website": "http://mostclair.lib.mo.us/",
+    "formUrl": "http://mostclair.lib.mo.us/services.htm",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "SAINT CLAIR COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.bclib.info/",
+    "formUrl": "https://www.bclib.info/about-us/library-policies/collection-development-policy-and-requests-for-reconsideration-of-library-materials",
+    "confidence": "high",
+    "note": "Found form via link text: 'Collection Development Policy and Requests for Reconsideration of Library Materials'",
+    "libraryName": "BARTON COUNTY LIBRARY"
+  },
+  {
+    "website": "https://adrian.municipalimpact.com/library",
+    "formUrl": "https://adrian.municipalimpact.com/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-sunshine-law-request'",
+    "libraryName": "ADRIAN COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.sarcoxiemo.gov/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SARCOXIE PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.joplinpubliclibrary.org/",
+    "formUrl": "https://www.joplinpubliclibrary.org/personalized-recommendations/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.joplinpubliclibrary.org/personalized-recommendations/'",
+    "libraryName": "JOPLIN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.webbcitylibrary.org/",
+    "formUrl": "https://www.webbcitylibrary.org/suggest-a-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "WEBB CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.carthage.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://www.carthage.lib.mo.us/\", w",
+    "libraryName": "CARTHAGE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.blrlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BARRY-LAWRENCE REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.newtoncolib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEOSHO/NEWTON COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.mcdonaldcountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MCDONALD COUNTY LIBRARY"
+  },
+  {
+    "website": "https://morgancountylibrary.org/",
+    "formUrl": "https://morgancountylibrary.org/services/requesting-an-item/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Requesting an item'",
+    "libraryName": "MORGAN COUNTY LIBRARY"
+  },
+  {
+    "website": "https://moniteaucountylibrary.org/",
+    "formUrl": "https://moniteaucountylibrary.org/interlibary-loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "MONITEAU COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.pricejames.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PRICE JAMES MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.mrrl.org/",
+    "formUrl": "https://www.mrrl.org/services/interlibrary-loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request an Item'",
+    "libraryName": "MISSOURI RIVER REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.dbrl.org/",
+    "formUrl": "https://www.dbrl.org/suggest-for-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest for Purchase'",
+    "libraryName": "DANIEL BOONE REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://www.centraliapubliclibrary.com/",
+    "formUrl": "https://www.centraliapubliclibrary.com/material-request-form.html",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/material-request-form.html'",
+    "libraryName": "CENTRALIA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.heartland.lib.mo.us/",
+    "formUrl": "https://www.heartland.lib.mo.us/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Request Form'",
+    "libraryName": "HEARTLAND REGIONAL LIBRARY SYSTEM"
+  },
+  {
+    "website": "https://www.lewislibraryofglasgow.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LEWIS LIBRARY OF GLASGOW"
+  },
+  {
+    "website": "https://www.little-dixie.lib.mo.us/?page_id=173",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LITTLE DIXIE REGIONAL LIBRARIES"
+  },
+  {
+    "website": "http://www.hclibrary.org/",
+    "formUrl": "https://www.hclibrary.org/interlibrary/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "HOWARD COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://slaterlibmo.ploud.net/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SLATER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.boonslickregionallibrary.com/Sedalia/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.boonslickregionallibra",
+    "libraryName": "BOONSLICK REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://sedalialibrary.com/",
+    "formUrl": "https://sedalialibrary.com/services/#bookrequest",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/services/#bookrequest'",
+    "libraryName": "SEDALIA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://sweetsprings.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SWEET SPRINGS PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://texascountylibrary.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://texascountylibrary.lib.mo.u",
+    "libraryName": "TEXAS COUNTY LIBRARY"
+  },
+  {
+    "website": "https://crawfordcountylibrarydistrict.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CRAWFORD COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.stjamesmo.org/departments/library.php",
+    "formUrl": "https://www.stjamesmo.org/departments/library.php/departments/police_department/report_request.php",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Report Request'",
+    "libraryName": "JAMES MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.lebanon-laclede.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LEBANON-LACLEDE COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.pulaskicounty.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PULASKI COUNTY LIBRARY"
+  },
+  {
+    "website": "http://www.dallascountylibrary.missouri.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://www.dallascountylibrary.mis",
+    "libraryName": "DALLAS COUNTY LIBRARY"
+  },
+  {
+    "website": "https://salempl.org/",
+    "formUrl": "https://salempl.org/purchase-suggestion/",
+    "confidence": "high",
+    "note": "Found form via link text: 'submit a book purchase suggestion?'",
+    "libraryName": "SALEM PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://mtnviewlibmo.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MOUNTAIN VIEW PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://wgrls.org/douglas-county-public-library/",
+    "formUrl": "https://wgrls.org/services/purchase-suggestion/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Suggestion'",
+    "libraryName": "DOUGLAS COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.wrightcounty.lib.mo.us/",
+    "formUrl": "http://www.wrightcounty.lib.mo.us/index.php/interlibrary-loan-program/",
+    "confidence": "high",
+    "note": "Found form via link text: 'InterLibrary Loan'",
+    "libraryName": "WRIGHT COUNTY LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/20159",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LOCKWOOD PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.stonecountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "STONE COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.ocld.lib.mo.us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OREGON COUNTY LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.dadecolib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DADE COUNTY LIBRARY"
+  },
+  {
+    "website": "https://hickorylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HICKORY COUNTY LIBRARY"
+  },
+  {
+    "website": "http://www.polkcolibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://www.polkcolibrary.org/\", wa",
+    "libraryName": "POLK COUNTY LIBRARY"
+  },
+  {
+    "website": "https://seymour.lib.mo.us/",
+    "formUrl": "https://seymour.lib.mo.us/services/other-services",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request a Book'",
+    "libraryName": "SEYMOUR COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.willowspringslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WILLOW SPRINGS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://westplains.gov/departments/community-services/west-plains-public-library/",
+    "formUrl": "https://westplains.gov/departments/community-services/west-plains-public-library/materials-request/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://westplains.gov/departments/community-services/west-plains-public-library/materials-request/'",
+    "libraryName": "WEST PLAINS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.christiancountylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHRISTIAN COUNTY LIBRARY"
+  },
+  {
+    "website": "https://krlibrary.org/?page_id=10",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WEBSTER COUNTY LIBRARY"
+  },
+  {
+    "website": "https://thelibrary.org/",
+    "formUrl": "https://www.thelibrary.org/standard-pages/interlibrary-loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "SPRINGFIELD-GREENE COUNTY LIBRARY DISTRICT"
+  },
+  {
+    "website": "https://www.effinghamlibrary.net/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "EFFINGHAM COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://nortonville.nextkansas.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NORTONVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.wellsvillelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WELLSVILLE CITY LIBRARY"
+  },
+  {
+    "website": "https://linwoodcommunitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LINWOOD COMMUNITY LIBRARY DISTRICT #1"
+  },
+  {
+    "website": "https://www.valleyfalls.org/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DELAWARE TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://tonganoxielibrary.org/",
+    "formUrl": "https://tonganoxielibrary.org/resources/#interlibrary-loan",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Interlibrary Loan'",
+    "libraryName": "TONGANOXIE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://baldwin.mykansaslibrary.org/",
+    "formUrl": "https://en.wikipedia.org/wiki/Interlibrary_loan",
+    "confidence": "high",
+    "note": "Found form via link text: 'interlibrary loan'",
+    "libraryName": "BALDWIN CITY LIBRARY"
+  },
+  {
+    "website": "https://basehorlibrary.com/",
+    "formUrl": "https://login.ebsco.com/?custId=ns257120&requestIdentifier=e9ccb6f4-d03a-44e7-9fcb-9ac1c602d481&acrValues=cpid&ui_locales&redirect_uri=https://logon.ebsco.zone/api/dispatcher/continue/prompted?state=YjMyMjIyODE4NmNlNDdiOGI5YTQ3ZWFhMDBjYjhjNDc=&authRequest=eyJraWQiOiIxNzY5MTEwMjQ0MDQ3IiwiYWxnIjoiUlMyNTYifQ.eyJpc3MiOiJodHRwczpcL1wvYXV0aC5lYnNjby56b25lXC9hcGlcL2Rpc3BhdGNoZXIiLCJhdXRoUmVxdWVzdCI6eyJsb2dpbl9oaW50IjoiY3VzdGlkOm5zMjU3MTIwIiwiZ3JhbnRfdHlwZSI6ImF1dGhvcml6YXRpb25fY29kZSIsInNjb3BlIjoib3BlbmlkIGVtYWlsIGFmZmlsaWF0aW9uIiwiYWNyX3ZhbHVlcyI6ImNwaWQiLCJyZXNwb25zZV90eXBlIjoiY29kZSIsInJlZGlyZWN0X3VyaSI6Imh0dHBzOlwvXC9zZWFyY2guZWJzY29ob3N0LmNvbVwvd2ViYXV0aFwvUHJvbXB0ZWRDYWxsYmFjay5hc3B4Iiwic3RhdGUiOiJBeEpHbV9oQlplbU51cHdnUWRlZ2o3MlZ0MnlYeWpVZG5sSUNGRDdNX1NCOUxCN2xDSEIzWG40SXdKX1hHWDhpVDZzYmJmYk91R1hVM0p3akNCLU50SzNmb0ZIMFhyZ0NRTmVlbHpDSXZ3QWFVdWRPNXdQbTNyakd1OTdZcTl3VUNad3ZkVE1MTHVvTVBHQ0ptZXc1c2o5Tk1YOWdtSFQ5QmJzSTdCSnB1QVlHeE4yVXR6bHp1NHBHQVdrNFBPY1lXcGtCZ0REdjUteWVrUHUxcXFGbE5yVjU3ckd3bFlDSzNnZWlyVU9IVjBOTGdFMkFReGptbzAxSnNIQ3RtbmFSUXRwYnd0ZHlKTFZVSUJHVUtXSFNjek42dUdaek1vamxMNFV6TnI3d3BVaHUxNTdoV3IxNmR6OHlpeDlicTNLMkNOVW1rN2ZzLW13ZmN1NlI2U3UxaEJHd2NMMFNSbzlETHVIT25jZ21RUk9XIiwiY2xpZW50X2lkIjoiYXdneWNJeDU3TXJ3bkRRNWg0VWU2eUNWRVAwcjVNdDkiLCJyZXNwb25zZV9tb2RlIjoicXVlcnkiLCJyZXFJZCI6ImU5Y2NiNmY0LWQwM2EtNDRlNy05ZmNiLTlhYzFjNjAyZDQ4MSJ9LCJpYXQiOjE3NzU0MTYzMzQsImp0aSI6IjE4MTQwNTFkLWRkZjItNDdhNy1iNmZiLTk0OGM4MWYwOTAyMSIsInJlcUlkIjoiZTljY2I2ZjQtZDAzYS00NGU3LTlmY2ItOWFjMWM2MDJkNDgxIn0.Yt-me6V0rofzMv3LdeV2q0HX9uuOa2RhVaMXv9Xm83Rga7FFxjyCLtKdi6yhxZ3dH5CTqf0865vwAwRrLOAmcWqMOT8SO5GfVjN2TpaWHOmHJZPwW8cMzVapYV0AuREgrvuN5ywgpvcv8xUULQ3fFpAuEnw0IOQYlTXeQI6X_lN2AlL930RBevj-B-rAWk2xKq043DueBsO2y0T0Gl5Sc-lqmbMlvooNIi6XFno5sBXRuH-TrBTjL9ggGUemTYzaYUxB3eFyjpPNQgeVtrW-qsvh_UaJjNaUD7LebDLmtStiDo1U38gebI0pr_NWqN6AaF4LXXOFhoxL1Nt6XdFKMw",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://login.ebsco.com/?custId=ns257120&groupId=main&profId=eon&requestIdentifier=b8b92f6f-3119-480c-b9b2-7f01f1f1cd86&acrValues=cpid&ui_locales&redirect_uri=https://logon.ebsco.zone/api/dispatcher/continue/prompted?state=YWYyZTRhN2Y3NGE3NDY0YThiODY4MDQ4'",
+    "libraryName": "BASEHOR COMMUNITY LIBRARY, DIST #2, LV. CO."
+  },
+  {
+    "website": "https://www.eudoralibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "EUDORA COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.paolalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PAOLA FREE LIBRARY"
+  },
+  {
+    "website": "https://www.osawatomieks.org/public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OSAWATOMIE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://lacygnelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LINN COUNTY LIBRARY DISTRICT #1"
+  },
+  {
+    "website": "https://www.bonnerlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.bonnerlibrary.org/\", w",
+    "libraryName": "BONNER SPRINGS CITY LIBRARY"
+  },
+  {
+    "website": "https://www.ottawalibrary.org/",
+    "formUrl": "https://www.ottawalibrary.org/explore/services/suggest-a-purchase",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Suggest A Purchase'",
+    "libraryName": "OTTAWA LIBRARY"
+  },
+  {
+    "website": "http://www.atchisonlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ATCHISON LIBRARY"
+  },
+  {
+    "website": "https://leavenworth.nextkansas.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "LEAVENWORTH PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.olathelibrary.org/",
+    "formUrl": "https://www.olathelibrary.org/services/suggestion-for-purchase",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggestion for Purchase'",
+    "libraryName": "OLATHE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://colonycity.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "COLONY CITY LIBRARY"
+  },
+  {
+    "website": "https://kscourts.gov/About-the-Courts/District-Courts/Districts/6th-Judicial-District",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MOUND CITY/LINN COUNTY DIST. #4"
+  },
+  {
+    "website": "https://garnettpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GARNETT PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.williamsburgcommunitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WILLIAMSBURG COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://pomona.mykansaslibrary.org/library-services/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "POMONA COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://mclouth.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MCLOUTH PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://kincaidlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KINCAID COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.loc8nearme.com/kansas/prescott/prescott-city-library/8645364/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PRESCOTT CITY LIBRARY"
+  },
+  {
+    "website": "https://meriden-ozawkie.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MERIDEN-OZAWKIE PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.jocolibrary.org",
+    "formUrl": "https://www.jocolibrary.org/suggest-for-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest for Purchase'",
+    "libraryName": "JOHNSON COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.kckpl.org/",
+    "formUrl": "https://www.kckpl.org/request-materials",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request Materials'",
+    "libraryName": "KANSAS CITY, KANSAS PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://tscpl.org",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TOPEKA AND SHAWNEE COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://libraries.ne.gov/axtell/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "AXTELL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://leonardville.municipalimpact.com/library",
+    "formUrl": "https://leonardville.municipalimpact.com/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request'",
+    "libraryName": "LEONARDVILLE CITY LIBRARY"
+  },
+  {
+    "website": "https://www.loc8nearme.com/kansas/frankfort/frankfort-city-library/8180192/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FRANKFORT CITY LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18218",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BLUE RAPIDS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://jclib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DOROTHY BRAMLAGE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://corning.nextkansas.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "CORNING CITY LIBRARY"
+  },
+  {
+    "website": "https://centralialibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CENTRALIA COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://everest.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BARNES READING ROOM"
+  },
+  {
+    "website": "https://burlingame.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "BURLINGAME COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://carbondale.nextkansas.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "CARBONDALE CITY LIBRARY"
+  },
+  {
+    "website": "https://lyndonlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LYNDON CARNEGIE LIBRARY"
+  },
+  {
+    "website": "https://www.hortonlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HORTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://hiawathalibrary.nextkansas.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "HIAWATHA/MORRILL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://bern.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BERN COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://holton.nextkansas.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "BECK-BOOKMAN LIBRARY"
+  },
+  {
+    "website": "https://wamego.lib.nckls.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WAMEGO PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18231",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "POTTAWATOMIE WABAUNSEE REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://mhklibrary.org/",
+    "formUrl": "https://mhklibrary.org/suggest-a-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest A Purchase'",
+    "libraryName": "MANHATTAN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://wetmore.nextkansas.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "WETMORE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.rossvillelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ROSSVILLE COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://silverlakelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SILVER LAKE LIBRARY"
+  },
+  {
+    "website": "https://www.sabethalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARY COTTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://seneca.nextkansas.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "SENECA FREE LIBRARY"
+  },
+  {
+    "website": "https://riley.lib.nckls.org/",
+    "formUrl": "https://riley.lib.nckls.org/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://riley.lib.nckls.org/inter-library-loan-request-form/'",
+    "libraryName": "RILEY CITY LIBRARY"
+  },
+  {
+    "website": "https://overbrook.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OVERBROOK PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://osagecitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OSAGE CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.fredoniapubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FREDONIA PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://walnut.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WALNUT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://savonburglibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SAVONBURG PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://hepler.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HEPLER CITY LIBRARY"
+  },
+  {
+    "website": "https://www.sekls.org/business/bronson-public-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BRONSON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://toronto.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TORONTO PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://mccunelibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MCCUNE OSAGE TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://www.findglocal.com/US/Thayer/107308945992887/Thayer-Friday-Reading-Club-City-Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "THAYER FRIDAY READING CLUB CITY LIBRARY"
+  },
+  {
+    "website": "https://moranlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MORAN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://weirpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WEIR PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://gravesmemoriallibrary.org/about-us/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GRAVES MEMORIAL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://eriecitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ERIE CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://yatescenterpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "YATES CENTER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://girardpubliclibrary.net/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GIRARD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://neodeshapubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NEODESHA/W.A. RANKIN MEMORIAL"
+  },
+  {
+    "website": "https://galenapubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GALENA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://iolapubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "IOLA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://fortscottpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FORT SCOTT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://chanutepubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHANUTE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://pplonline.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PITTSBURG PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.armalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ARMA CITY LIBRARY"
+  },
+  {
+    "website": "https://florenceks.com/text/city/city_library.htm",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FLORENCE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18204",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GOESSEL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://douglass.scklslibrary.info/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DOUGLASS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.augustapubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "AUGUSTA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://bradford.scklslibrary.info/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "BRADFORD MEMORIAL LIBRARY"
+  },
+  {
+    "website": "http://eurekapubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "EUREKA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://potwinks.com/library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "POTWIN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://whitewaterks.gov/whitewater-memorial-library",
+    "formUrl": "https://whitewaterks.gov/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request'",
+    "libraryName": "WHITEWATER MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://rosehill.scklslibrary.info/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "ROSE HILL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.chamberofcommerce.com/united-states/kansas/burns/public-library/2000902030-burns-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "BURNS PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://dwightks.net/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DWIGHT PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18201",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ELM CREEK TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://www.chamberofcommerce.com/business-directory/kansas/white-city/public-library/2029213213-white-city-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "WHITE CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.findglocal.com/US/Cottonwood-Falls/263182893005/Burnley-Memorial-Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BURNLEY MEMORIAL/FALLS TOWNSHIP"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18220",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HARTFORD/ELMENDARO TOWNSHIP"
+  },
+  {
+    "website": "https://cityofamericus.municipalimpact.com/library",
+    "formUrl": "https://cityofamericus.municipalimpact.com/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request'",
+    "libraryName": "AMERICUS TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "http://peabody.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PEABODY TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://www.marionks.net/1292/Library",
+    "formUrl": "https://www.marionks.net/1292/Library/DocumentCenter/View/606/Open-Records-Request-PDF",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/DocumentCenter/View/606/Open-Records-Request-PDF'",
+    "libraryName": "MARION CITY LIBRARY"
+  },
+  {
+    "website": "https://www.councilgrove.com/business-directory/council-grove-public-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "COUNCIL GROVE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.emporialibrary.org/",
+    "formUrl": "https://www.emporialibrary.org/service-request",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.emporialibrary.org/service-request'",
+    "libraryName": "EMPORIA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18215",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LYON COUNTY LIBRARY DIST. #1"
+  },
+  {
+    "website": "https://hamiltoncitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HAMILTON CITY LIBRARY"
+  },
+  {
+    "website": "https://cclibks.org/burlington/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "COFFEY COUNTY LIBRARY"
+  },
+  {
+    "website": "http://www.gaylordkansas.com/library.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GAYLORD CITY LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18147",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RANDALL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://formoso.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://formoso.mykansaslibrary.or",
+    "libraryName": "FORMOSO PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://raehobson.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://raehobson.mykansaslibrary.o",
+    "libraryName": "RAE HOBSON MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://pathfinder.catalog.ckls.org/publiclibrarydirectory",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BURR OAK COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18160",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LEBANON COMMUNITY"
+  },
+  {
+    "website": "https://courtland.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://courtland.mykansaslibrary.",
+    "libraryName": "COURTLAND COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://jamestown.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://jamestown.mykansaslibrary.",
+    "libraryName": "JAMESTOWN CITY LIBRARY"
+  },
+  {
+    "website": "https://scandiacitylibrary.blogspot.com/",
+    "formUrl": "http://scandiacitylibrary.blogspot.com/p/request-book-from-another-library.html",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request a Book'",
+    "libraryName": "SCANDIA CITY LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18168",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "JEWELL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.kensingtonks.net/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KENSINGTON COMMUNITY/SCHOOL LIBRARY"
+  },
+  {
+    "website": "https://clyde.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://clyde.mykansaslibrary.org/",
+    "libraryName": "RANDOLPH-DECKER PUB. LIB."
+  },
+  {
+    "website": "https://mankato.catalog.ckls.org/AJAX/JSON?method=getHoursAndLocations",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "MANKATO CITY LIBRARY"
+  },
+  {
+    "website": "https://smithcenterks.com/library",
+    "formUrl": "https://smithcenterks.com/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request'",
+    "libraryName": "SMITH CENTER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://fcarlsonlib.org/",
+    "formUrl": "https://fcarlsonlib.org/interlibrary-loan-request/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan Request'",
+    "libraryName": "FRANK CARLSON LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18210",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HANOVER PUBLIC"
+  },
+  {
+    "website": "https://www.queenslibrary.org/about-us/locations/hillcrest",
+    "formUrl": "https://www.queenslibrary.org/about-us/locations",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "HILLCREST LIBRARY"
+  },
+  {
+    "website": "http://claycenter.lib.nckls.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CLAY CENTER CARNEGIE LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/?show=78",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LINCOLN LIBRARY"
+  },
+  {
+    "website": "https://cityofhardtner.com/Departments/Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HARDTNER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/60",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CUNNINGHAM PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18329",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ATTICA CITY LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/45",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DIXON TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/52",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "RUTH DOLE MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.kiowaks.org/pview.aspx?id=21208&catid=578",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KIOWA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.conwayspringsks.com/nav/new_page/library.php",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CONWAY SPRINGS CITY LIBRARY"
+  },
+  {
+    "website": "https://cheneyks.org/services/library.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHENEY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/68",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HARPER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.colwichks.org/residents/library.php",
+    "formUrl": "https://www.colwichks.org/residents/library.php/city_departments/police_department/extra_watch_request.php",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Extra Watch Request'",
+    "libraryName": "COLWICH COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/50",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BELLE PLAINE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.goddardlibrary.com/",
+    "formUrl": "https://www.goddardlibrary.com/blog/categories/book-recommendations",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Book Recommendations'",
+    "libraryName": "GODDARD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.halsteadks.gov/page/library",
+    "formUrl": "https://www.halsteadks.gov/page/library/forms/information-request-form",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/forms/information-request-form'",
+    "libraryName": "HALSTEAD PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.hesstonks.gov/community/library.php",
+    "formUrl": "https://www.hesstonks.gov/community/library.php/how_do_i/download_documents/open_records_request.php",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Open Records Request'",
+    "libraryName": "HESSTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://citylibrary.com/public-libraries/kingman-carnegie-library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KINGMAN CARNEGIE LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18366",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KIOWA COUNTY LIBRARY"
+  },
+  {
+    "website": "https://www.haysvillecommunitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HAYSVILLE COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://arkcity.scklslibrary.info/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "ARKANSAS CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://cedarvalekslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CEDAR VALE MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.coldwaterks.org/library.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "COLDWATER-WILMORE REGIONAL LIBRARY"
+  },
+  {
+    "website": "https://gardenplain.com/__version-1/government/library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GARDEN PLAIN COMMUNITY LIBRARY"
+  },
+  {
+    "website": "http://www.andalelibrary.info/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ANDALE DISTRICT LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/324",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "VIOLA TOWNSHIP"
+  },
+  {
+    "website": "https://directory.sckls.info/library/91",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SOUTH HAVEN TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://www.udallpubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "UDALL PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18335",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MT. HOPE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://valleycenter.scklslibrary.info/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "VALLEY CENTER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.mulvanelibrary.org/",
+    "formUrl": "https://www.mulvanelibrary.org/request",
+    "confidence": "high",
+    "note": "Found form via link text: 'Request a Title'",
+    "libraryName": "MULVANE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/99",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WELLINGTON PUBLIC"
+  },
+  {
+    "website": "https://prattpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PRATT PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.wichitalibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Could not follow link: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://www.wichitalibrary.org/Book",
+    "libraryName": "WICHITA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://parkcitypubliclibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PARK CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.newtonplks.org/",
+    "formUrl": "https://www.newtonplks.org/books-and-more/suggest-a-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "NEWTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/111",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ZENDA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/98",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WALTON COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://moundridge.scklslibrary.info/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "MOUNDRIDGE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.cityofsedgwick.org/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SEDGWICK/LILLIAN TEAR"
+  },
+  {
+    "website": "https://www.protectionlibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PROTECTION TOWNSHIP LIBRARY"
+  },
+  {
+    "website": "https://molinepubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MOLINE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://moundvalleylibrary.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MOUND VALLEY LIBRARY"
+  },
+  {
+    "website": "https://grenolapubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GRENOLA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://ednapubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "EDNA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://howardlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HOWARD CITY LIBRARY"
+  },
+  {
+    "website": "https://sedanpubliclibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SEDAN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://chetopacitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHETOPA CITY LIBRARY"
+  },
+  {
+    "website": "https://oswego.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OSWEGO PUBLIC"
+  },
+  {
+    "website": "https://caneycitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CANEY CITY LIBRARY"
+  },
+  {
+    "website": "https://cherryvalelibrary.org/wp/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHERRYVALE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.coffeyvillepl.org/",
+    "formUrl": "https://www.coffeyvillepl.org/request-form/",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: 'https://www.coffeyvillepl.org/request-form/'",
+    "libraryName": "COFFEYVILLE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://longton.mykansaslibrary.org/?page_id=6",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LONGTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://enterprise.lib.nckls.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ENTERPRISE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://salinapubliclibrary.org/",
+    "formUrl": "https://salinapubliclibrary.org/books-media/interlibrary-loan-request/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan Request'",
+    "libraryName": "SALINA PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://abilene.lib.nckls.org/",
+    "formUrl": "http://abilene.lib.nckls.org/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "ABILENE PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://abilene.lib.nckls.org/",
+    "libraryName": "ABILENE PUBLIC LIBRARY",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Error: Page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for font"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18158",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SYLVAN GROVE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18163",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GYPSUM COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.glenelder.com/city-library.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GLEN ELDER LIBRARY"
+  },
+  {
+    "website": "https://www.glascokansas.org/library.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GLASCO CITY LIBRARY"
+  },
+  {
+    "website": "https://www.cawkercitykansas.com/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CAWKER CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18173",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KANOPOLIS PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://www.wilsonks.com/library.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LANG MEMORIAL"
+  },
+  {
+    "website": "https://downs.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "DOWNS CARNEGIE LIBRARY"
+  },
+  {
+    "website": "https://lincolnks.org/library",
+    "formUrl": "https://lincolnks.org/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request'",
+    "libraryName": "LINCOLN CARNEGIE LIBRARY"
+  },
+  {
+    "website": "https://www.ospublib.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OSBORNE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://mplslibrary.com/",
+    "formUrl": "https://mplslibrary.com/purchase-request/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Purchase Request'",
+    "libraryName": "MINNEAPOLIS PUBLIC"
+  },
+  {
+    "website": "https://ellsworthlib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://ellsworthlib.org/\", waitin",
+    "libraryName": "J.H. ROBBINS MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://www.portlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PORT LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18205",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HOPE COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://solomon-ks.com/library",
+    "formUrl": "https://solomon-ks.com/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request'",
+    "libraryName": "SOLOMON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.localoffices.org/libraries/kansas/chapman",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CHAPMAN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18226",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HERINGTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.findglocal.com/US/Geneseo/357913330742907/Geneseo-Public-Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GENESEO PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/74",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LITTLE RIVER COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/53",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "FARMER TOWNSHIP/CPMS LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/77",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MARQUETTE COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/55",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "CANTON TOWNSHIP"
+  },
+  {
+    "website": "http://lindsborglibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LINDSBORG COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://macpl.org/",
+    "formUrl": "https://macpl.org/readersservices/suggest/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest A Book'",
+    "libraryName": "MCPHERSON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18334",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "INMAN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.findglocal.com/US/McCracken/519127464775627/Mccracken-Public-Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MCCRACKEN PUBLIC LIBRARY"
+  },
+  {
+    "website": "http://bison.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://bison.mykansaslibrary.org/\"",
+    "libraryName": "BISON COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://otiscommunitylibrary.wordpress.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OTIS COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.cityofclaflin.com/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "INDEPENDENT TOWNSHIP"
+  },
+  {
+    "website": "https://www.cityoflacrosseks.com/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BARNARD LIBRARY"
+  },
+  {
+    "website": "https://hslibrary.usd355.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ELLINWOOD SCHOOL COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://www.hoisingtonlibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "HOISINGTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://jordaanmemoriallibrary.wordpress.com/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "JORDAAN MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://public-libraries.com/kansas/great-bend/great-bend-public-library-kansas-great-bend/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GREAT BEND PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://partridge.scklslibrary.info/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "PARTRIDGE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/4",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SYLVIA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/96",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "TURON COMMUNITY LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18322",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ARLINGTON CITY LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/76",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MACKSVILLE CITY LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18324",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "PRETTY PRAIRIE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://haven.scklslibrary.info/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "HAVEN PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://buhlerks.org/library/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "BUHLER PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/83",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NICKERSON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://directory.sckls.info/library/93",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NORA E. LARABEE MEMORIAL LIBRARY"
+  },
+  {
+    "website": "http://www.stjohnkansas.org/library.html",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "IDA LONG GOODMAN MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://sterling-kansas.com/379/Library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "STERLING FREE PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.hutchpl.org/",
+    "formUrl": "https://www.hutchpl.org/services/interlibrary-loan/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Interlibrary Loan'",
+    "libraryName": "HUTCHINSON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://ransomlibrary.info/",
+    "formUrl": "https://ransomlibrary.info/services/interlibrary-loan/?__cf_chl_rt_tk=QZLBUBd4hPE_DbQ_URHQfFO0IREp4nrHt_U.GLGYMSQ-1775418225-1.0.1.1-M0QH0DrgTNk2HQE8c4VzJ6tt9YuVN4CVmgnNWF_imOg",
+    "confidence": "low",
+    "note": "Link matched but no form detected: 'Interlibrary Loan'",
+    "libraryName": "RANSOM PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18454",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "MEADOWLARK LIBRARY/LEWIS"
+  },
+  {
+    "website": "https://kinsleylibrary.info/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KINSLEY"
+  },
+  {
+    "website": "https://nesscitylibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "NESS CITY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18148",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "SUNSHINE CITY LIBRARY"
+  },
+  {
+    "website": "https://cityofkirwin.net/library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "KIRWIN CITY LIBRARY"
+  },
+  {
+    "website": "https://palco.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://palco.mykansaslibrary.org/",
+    "libraryName": "PALCO PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18166",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LUCAS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://stockton.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://stockton.mykansaslibrary.o",
+    "libraryName": "STOCKTON PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18186",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "ELLIS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://plainville.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://plainville.mykansaslibrary",
+    "libraryName": "PLAINVILLE MEMORIAL LIBRARY"
+  },
+  {
+    "website": "https://phillipsburg.mykansaslibrary.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "Failed to load: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://phillipsburg.mykansaslibra",
+    "libraryName": "PHILLIPSBURG CITY LIBRARY"
+  },
+  {
+    "website": "https://hayslibrary.org/",
+    "formUrl": "https://hayslibrary.org/suggest-a-purchase/",
+    "confidence": "high",
+    "note": "Found form via link text: 'Suggest a Purchase'",
+    "libraryName": "HAYS PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18291",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "JENNINGS CITY LIBRARY"
+  },
+  {
+    "website": "https://www.librarytechnology.org/library/18295",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LENORA PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://www.cityofalmena.com/library",
+    "formUrl": "https://www.cityofalmena.com/404.html?",
+    "confidence": "medium",
+    "note": "Found form via URL pattern: '/public-information-request'",
+    "libraryName": "ALMENA CITY LIBRARY"
+  },
+  {
+    "website": "https://ghcopublib.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GRAHAM COUNTY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://wakeeney-public-library.locable.com/profile/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "WAKEENEY PUBLIC LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18492",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "LURAY CITY LIBRARY"
+  },
+  {
+    "website": "https://oberlin.nwkls.org/",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "OBERLIN CITY LIBRARY"
+  },
+  {
+    "website": "https://librarytechnology.org/library/18290",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "No matching links found on homepage",
+    "libraryName": "GOVE CITY LIBRARY"
+  },
+  {
+    "website": "https://www.chamberofcommerce.com/united-states/kansas/grinnell/public-library/2004627982-moore-family-library",
+    "formUrl": null,
+    "confidence": "none",
+    "note": "HTTP 403",
+    "libraryName": "MOORE FAMILY LIBRARY"
+  }
+]
