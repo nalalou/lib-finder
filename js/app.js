@@ -77,8 +77,13 @@
     }
   }
 
+  var pickerLabel = document.getElementById("picker-label");
+
   function renderPicker(libraries) {
     libraryList.innerHTML = "";
+    pickerLabel.textContent = libraries.length === 1
+      ? "Your library:"
+      : "We found " + libraries.length + " library systems serving your area:";
     libraries.forEach(function (lib) {
       var li = document.createElement("li");
       var a = document.createElement("a");
