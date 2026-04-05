@@ -4,7 +4,7 @@
       "name": "RAPID CITY PUBLIC LIBRARY",
       "system": "RAPID CITY PUBLIC LIBRARY",
       "address": "610 QUINCY STREET, RAPID CITY, SD",
-      "website": "https://www.google.com/search?q=RAPID+CITY+PUBLIC+LIBRARY+RAPID+CITY+SD+library",
+      "website": "https://www.rapidcitylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -15,7 +15,7 @@
       "name": "NORTHWEST REGIONAL LIBRARY",
       "system": "NORTHWEST REGIONAL LIBRARY",
       "address": "410 RAMSLAND ST, BUFFALO, SD",
-      "website": "https://www.google.com/search?q=NORTHWEST+REGIONAL+LIBRARY+BUFFALO+SD+library",
+      "website": "https://nwregional.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -26,7 +26,7 @@
       "name": "BELLE FOURCHE PUBLIC LIBRARY",
       "system": "BELLE FOURCHE PUBLIC LIBRARY",
       "address": "905 5TH AVE, BELLE FOURCHE, SD",
-      "website": "https://www.google.com/search?q=BELLE+FOURCHE+PUBLIC+LIBRARY+BELLE+FOURCHE+SD+library",
+      "website": "https://bellefourche.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -37,7 +37,7 @@
       "name": "CUSTER COUNTY LIBRARY",
       "system": "CUSTER COUNTY LIBRARY",
       "address": "447 CROOK STREET SUITE 4, CUSTER, SD",
-      "website": "https://www.google.com/search?q=CUSTER+COUNTY+LIBRARY+CUSTER+SD+library",
+      "website": "https://custercountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -48,7 +48,7 @@
       "name": "DEADWOOD PUBLIC LIBRARY",
       "system": "DEADWOOD PUBLIC LIBRARY",
       "address": "435 WILLIAMS ST, DEADWOOD, SD",
-      "website": "https://www.google.com/search?q=DEADWOOD+PUBLIC+LIBRARY+DEADWOOD+SD+library",
+      "website": "https://www.cityofdeadwood.com/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -59,7 +59,7 @@
       "name": "EDGEMONT PUBLIC LIBRARY",
       "system": "EDGEMONT PUBLIC LIBRARY",
       "address": "412 2ND AVE, EDGEMONT, SD",
-      "website": "https://www.google.com/search?q=EDGEMONT+PUBLIC+LIBRARY+EDGEMONT+SD+library",
+      "website": "https://edgemontpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -70,7 +70,7 @@
       "name": "HILL CITY PUBLIC LIBRARY",
       "system": "HILL CITY PUBLIC LIBRARY",
       "address": "341 MAIN ST, HILL CITY, SD",
-      "website": "https://www.google.com/search?q=HILL+CITY+PUBLIC+LIBRARY+HILL+CITY+SD+library",
+      "website": "https://www.hillcitysd.org/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -81,7 +81,7 @@
       "name": "HOT SPRINGS PUBLIC LIBRARY",
       "system": "HOT SPRINGS PUBLIC LIBRARY",
       "address": "2005 LIBRARY DRIVE, HOT SPRINGS, SD",
-      "website": "https://www.google.com/search?q=HOT+SPRINGS+PUBLIC+LIBRARY+HOT+SPRINGS+SD+library",
+      "website": "https://hotspringspubliclibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -92,7 +92,7 @@
       "name": "KEYSTONE TOWN LIBRARY",
       "system": "KEYSTONE TOWN LIBRARY",
       "address": "1101 MADILL ST, KEYSTONE, SD",
-      "website": "https://www.google.com/search?q=KEYSTONE+TOWN+LIBRARY+KEYSTONE+SD+library",
+      "website": "https://keystone.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -103,7 +103,7 @@
       "name": "PHOEBE APPERSON HEARST FREE LIBRARY",
       "system": "PHOEBE APPERSON HEARST FREE LIBRARY",
       "address": "315 WEST MAIN, LEAD, SD",
-      "website": "https://www.google.com/search?q=PHOEBE+APPERSON+HEARST+FREE+LIBRARY+LEAD+SD+library",
+      "website": "https://lead.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -114,7 +114,7 @@
       "name": "NEWELL PUBLIC LIBRARY",
       "system": "NEWELL PUBLIC LIBRARY",
       "address": "208 GIRARD, NEWELL, SD",
-      "website": "https://www.google.com/search?q=NEWELL+PUBLIC+LIBRARY+NEWELL+SD+library",
+      "website": "https://newellpublic.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -125,7 +125,7 @@
       "name": "GRACE BALLOCH MEMORIAL LIBRARY",
       "system": "GRACE BALLOCH MEMORIAL LIBRARY",
       "address": "625 NORTH FIFTH STREET, SPEARFISH, SD",
-      "website": "https://www.google.com/search?q=GRACE+BALLOCH+MEMORIAL+LIBRARY+SPEARFISH+SD+library",
+      "website": "https://www.spearfish.gov/220/Digital-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -136,7 +136,7 @@
       "name": "STURGIS PUBLIC LIBRARY",
       "system": "STURGIS PUBLIC LIBRARY",
       "address": "1040 HARLEY-DAVIDSON WAY, SUITE 101, STURGIS, SD",
-      "website": "https://www.google.com/search?q=STURGIS+PUBLIC+LIBRARY+STURGIS+SD+library",
+      "website": "https://www.sturgis-sd.gov/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -147,7 +147,7 @@
       "name": "WALL COMMUNITY LIBRARY",
       "system": "WALL COMMUNITY LIBRARY",
       "address": "407 MAIN ST, WALL, SD",
-      "website": "https://www.google.com/search?q=WALL+COMMUNITY+LIBRARY+WALL+SD+library",
+      "website": "https://wall.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -158,7 +158,7 @@
       "name": "WHITEWOOD PUBLIC LIBRARY",
       "system": "WHITEWOOD PUBLIC LIBRARY",
       "address": "1201 ASH ST, WHITEWOOD, SD",
-      "website": "https://www.google.com/search?q=WHITEWOOD+PUBLIC+LIBRARY+WHITEWOOD+SD+library",
+      "website": "https://whitewoodpublic.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -169,7 +169,7 @@
       "name": "OGLALA LAKOTA COLLEGE WOKSAPE TIPI ACADEMIC & PUBLIC LIBRARY",
       "system": "OGLALA LAKOTA COLLEGE WOKSAPE TIPI ACADEMIC & PUBLIC LIBRARY",
       "address": "3-MILE CREEK ROAD, KYLE, SD",
-      "website": "https://www.google.com/search?q=OGLALA+LAKOTA+COLLEGE+WOKSAPE+TIPI+ACADEMIC+&+PUBLIC+LIBRARY+KYLE+SD+library",
+      "website": "https://library.olc.edu/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -180,7 +180,7 @@
       "name": "PIEDMONT VALLEY LIBRARY",
       "system": "PIEDMONT VALLEY LIBRARY",
       "address": "111 2ND STREET, PIEDMONT, SD",
-      "website": "https://www.google.com/search?q=PIEDMONT+VALLEY+LIBRARY+PIEDMONT+SD+library",
+      "website": "https://www.piedmontlibrary.net/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [

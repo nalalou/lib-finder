@@ -4,7 +4,7 @@
       "name": "BIG LAKE PUBLIC LIBRARY",
       "system": "BIG LAKE PUBLIC LIBRARY",
       "address": "3140 SOUTH BIG LAKE ROAD, WASILLA, AK",
-      "website": "https://www.google.com/search?q=BIG+LAKE+PUBLIC+LIBRARY+WASILLA+AK+library",
+      "website": "https://matsu.gov/facilities/big-lake-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -15,7 +15,7 @@
       "name": "CHINIAK PUBLIC LIBRARY",
       "system": "CHINIAK PUBLIC LIBRARY",
       "address": "43318 SPRUCE WAY, CHINIAK, AK",
-      "website": "https://www.google.com/search?q=CHINIAK+PUBLIC+LIBRARY+CHINIAK+AK+library",
+      "website": "https://www.chiniaklibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -26,7 +26,7 @@
       "name": "HOMER PUBLIC LIBRARY",
       "system": "HOMER PUBLIC LIBRARY",
       "address": "500 HAZEL AVENUE, HOMER, AK",
-      "website": "https://www.google.com/search?q=HOMER+PUBLIC+LIBRARY+HOMER+AK+library",
+      "website": "https://www.cityofhomer-ak.gov/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -37,7 +37,7 @@
       "name": "HOPE SUNRISE COMMUNITY LIBRARY",
       "system": "HOPE SUNRISE COMMUNITY LIBRARY",
       "address": "18487 A AVENUE, HOPE, AK",
-      "website": "https://www.google.com/search?q=HOPE+SUNRISE+COMMUNITY+LIBRARY+HOPE+AK+library",
+      "website": "https://librarytechnology.org/library/14283",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -48,7 +48,7 @@
       "name": "KASILOF PUBLIC LIBRARY",
       "system": "KASILOF PUBLIC LIBRARY",
       "address": "58231 STERLING HIGHWAY, KASILOF, AK",
-      "website": "https://www.google.com/search?q=KASILOF+PUBLIC+LIBRARY+KASILOF+AK+library",
+      "website": "https://librarytechnology.org/library/14286",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -59,7 +59,7 @@
       "name": "KENAI COMMUNITY LIBRARY",
       "system": "KENAI COMMUNITY LIBRARY",
       "address": "163 MAIN STREET LOOP, KENAI, AK",
-      "website": "https://www.google.com/search?q=KENAI+COMMUNITY+LIBRARY+KENAI+AK+library",
+      "website": "https://www.kenai.city/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -70,7 +70,7 @@
       "name": "KODIAK PUBLIC LIBRARY",
       "system": "KODIAK PUBLIC LIBRARY",
       "address": "612 EGAN WAY, KODIAK, AK",
-      "website": "https://www.google.com/search?q=KODIAK+PUBLIC+LIBRARY+KODIAK+AK+library",
+      "website": "https://www.city.kodiak.ak.us/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -81,7 +81,7 @@
       "name": "MCGRATH COMMUNITY LIBRARY",
       "system": "MCGRATH COMMUNITY LIBRARY",
       "address": "249 F STREET, MCGRATH, AK",
-      "website": "https://www.google.com/search?q=MCGRATH+COMMUNITY+LIBRARY+MCGRATH+AK+library",
+      "website": "https://www.cityofmcgrath.org/Community/Library.aspx",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -92,7 +92,7 @@
       "name": "MARTIN MONSEN REGIONAL LIBRARY",
       "system": "MARTIN MONSEN REGIONAL LIBRARY",
       "address": "101 MAIN STREET, NAKNEK, AK",
-      "website": "https://www.google.com/search?q=MARTIN+MONSEN+REGIONAL+LIBRARY+NAKNEK+AK+library",
+      "website": "https://www.bristolbayboroughak.us/departments/libraries.php",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -103,7 +103,7 @@
       "name": "NINILCHIK COMMUNITY LIBRARY",
       "system": "NINILCHIK COMMUNITY LIBRARY",
       "address": "15850 STERLING HIGHWAY, NINILCHIK, AK",
-      "website": "https://www.google.com/search?q=NINILCHIK+COMMUNITY+LIBRARY+NINILCHIK+AK+library",
+      "website": "https://www.ninilchiklibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -114,7 +114,7 @@
       "name": "PALMER PUBLIC LIBRARY",
       "system": "PALMER PUBLIC LIBRARY",
       "address": "655 SOUTH VALLEY WAY, PALMER, AK",
-      "website": "https://www.google.com/search?q=PALMER+PUBLIC+LIBRARY+PALMER+AK+library",
+      "website": "https://www.palmerlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -125,7 +125,7 @@
       "name": "SELDOVIA PUBLIC LIBRARY",
       "system": "SELDOVIA PUBLIC LIBRARY",
       "address": "260 SELDOVIA STREET, SELDOVIA, AK",
-      "website": "https://www.google.com/search?q=SELDOVIA+PUBLIC+LIBRARY+SELDOVIA+AK+library",
+      "website": "https://www.cityofseldovia.com/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -136,7 +136,7 @@
       "name": "SEWARD COMMUNITY LIBRARY AND MUSEUM",
       "system": "SEWARD COMMUNITY LIBRARY AND MUSEUM",
       "address": "239 6TH AVENUE, SEWARD, AK",
-      "website": "https://www.google.com/search?q=SEWARD+COMMUNITY+LIBRARY+AND+MUSEUM+SEWARD+AK+library",
+      "website": "https://www.cityofseward.us/departments/library-museum",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -147,7 +147,7 @@
       "name": "JOYCE K. CARVER MEMORIAL SOLDOTNA PUBLIC LIBRARY",
       "system": "JOYCE K. CARVER MEMORIAL SOLDOTNA PUBLIC LIBRARY",
       "address": "235 NORTH BINKLEY ST., SOLDOTNA, AK",
-      "website": "https://www.google.com/search?q=JOYCE+K.+CARVER+MEMORIAL+SOLDOTNA+PUBLIC+LIBRARY+SOLDOTNA+AK+library",
+      "website": "https://www.soldotna.org/departments/library/about_us/index.php",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -158,7 +158,7 @@
       "name": "SUTTON PUBLIC LIBRARY/COMMUNITY RESOURCE CENTER",
       "system": "SUTTON PUBLIC LIBRARY/COMMUNITY RESOURCE CENTER",
       "address": "11301 NORTH CHICKALOON WAY, SUTTON, AK",
-      "website": "https://www.google.com/search?q=SUTTON+PUBLIC+LIBRARY/COMMUNITY+RESOURCE+CENTER+SUTTON+AK+library",
+      "website": "https://libraries.matsugov.us/pages/sutton-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -169,7 +169,7 @@
       "name": "TALKEETNA PUBLIC LIBRARY",
       "system": "TALKEETNA PUBLIC LIBRARY",
       "address": "24645 SOUTH TALKEETNA SPUR ROAD, TALKEETNA, AK",
-      "website": "https://www.google.com/search?q=TALKEETNA+PUBLIC+LIBRARY+TALKEETNA+AK+library",
+      "website": "https://libraries.matsugov.us/pages/talkeetna-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -180,7 +180,7 @@
       "name": "VALDEZ CONSORTIUM LIBRARY",
       "system": "VALDEZ CONSORTIUM LIBRARY",
       "address": "212 FAIRBANKS DRIVE, VALDEZ, AK",
-      "website": "https://www.google.com/search?q=VALDEZ+CONSORTIUM+LIBRARY+VALDEZ+AK+library",
+      "website": "https://www.valdezak.gov/148/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -191,7 +191,7 @@
       "name": "WASILLA PUBLIC LIBRARY",
       "system": "WASILLA PUBLIC LIBRARY",
       "address": "500 N CRUSEY STREET, WASILLA, AK",
-      "website": "https://www.google.com/search?q=WASILLA+PUBLIC+LIBRARY+WASILLA+AK+library",
+      "website": "https://www.cityofwasilla.gov/189/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -202,7 +202,7 @@
       "name": "WILLOW PUBLIC LIBRARY",
       "system": "WILLOW PUBLIC LIBRARY",
       "address": "23557 WEST WILLOW COMMUNITY CENTER, WILLOW, AK",
-      "website": "https://www.google.com/search?q=WILLOW+PUBLIC+LIBRARY+WILLOW+AK+library",
+      "website": "https://libraries.matsugov.us/pages/willow-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -213,7 +213,7 @@
       "name": "MOOSE PASS PUBLIC LIBRARY",
       "system": "MOOSE PASS PUBLIC LIBRARY",
       "address": "33675 DEPOT ROAD, MOOSE PASS, AK",
-      "website": "https://www.google.com/search?q=MOOSE+PASS+PUBLIC+LIBRARY+MOOSE+PASS+AK+library",
+      "website": "https://www.library.moosepassalaska.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -224,7 +224,7 @@
       "name": "TRAPPER CREEK PUBLIC LIBRARY",
       "system": "TRAPPER CREEK PUBLIC LIBRARY",
       "address": "8901 EAST DEVONSHIRE DRIVE, TRAPPER CREEK, AK",
-      "website": "https://www.google.com/search?q=TRAPPER+CREEK+PUBLIC+LIBRARY+TRAPPER+CREEK+AK+library",
+      "website": "https://libraries.matsugov.us/pages/trapper-creek-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -235,7 +235,7 @@
       "name": "OUZINKIE TRIBAL MEDIA CENTER",
       "system": "OUZINKIE TRIBAL MEDIA CENTER",
       "address": "216 THIRD STREET, OUZINKIE, AK",
-      "website": "https://www.google.com/search?q=OUZINKIE+TRIBAL+MEDIA+CENTER+OUZINKIE+AK+library",
+      "website": "https://librarytechnology.org/library/14332",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -246,7 +246,7 @@
       "name": "UNALASKA PUBLIC LIBRARY",
       "system": "UNALASKA PUBLIC LIBRARY",
       "address": "64 ELEANOR DRIVE, UNALASKA, AK",
-      "website": "https://www.google.com/search?q=UNALASKA+PUBLIC+LIBRARY+UNALASKA+AK+library",
+      "website": "https://www.akuncl.us/client/en_US/home",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -257,7 +257,7 @@
       "name": "IGIUGIG TRIBAL LIBRARY",
       "system": "IGIUGIG TRIBAL LIBRARY",
       "address": "1 AIRPORT WAY, IGIUGIG, AK",
-      "website": "https://www.google.com/search?q=IGIUGIG+TRIBAL+LIBRARY+IGIUGIG+AK+library",
+      "website": "https://librarytechnology.org/library/14342",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -268,7 +268,7 @@
       "name": "SAMUEL B. FOSS LIBRARY",
       "system": "SAMUEL B. FOSS LIBRARY",
       "address": "1 WATERFRONT WAY, PEDRO BAY, AK",
-      "website": "https://www.google.com/search?q=SAMUEL+B.+FOSS+LIBRARY+PEDRO+BAY+AK+library",
+      "website": "https://www.imls.gov/grants/awarded/nab-250316-ols-21",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
