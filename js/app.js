@@ -86,18 +86,48 @@
       : "We found " + libraries.length + " library systems serving your area:";
     libraries.forEach(function (lib) {
       var li = document.createElement("li");
+      var hasForm = lib.formStatus === "verified";
+      var url = getLibraryUrl(lib);
+
       var a = document.createElement("a");
-      a.href = getLibraryUrl(lib);
+      a.href = url;
       a.target = "_blank";
       a.rel = "noopener";
-      a.innerHTML =
-        '<span class="lib-name">' + lib.name + "</span><br>" +
-        '<span class="lib-address">' + lib.address + "</span>";
+
+      if (hasForm) {
+        a.innerHTML =
+          '<span class="lib-name">' + lib.name + "</span><br>" +
+          '<span class="lib-address">' + lib.address + "</span>";
+      } else {
+        a.innerHTML =
+          '<span class="lib-name">' + lib.name + "</span><br>" +
+          '<span class="lib-address">' + lib.address + '</span><br>' +
+          '<span class="lib-action">Ask your librarian</span>';
+      }
+
       a.addEventListener("click", function (e) {
         e.preventDefault();
         openLibrary(lib);
       });
       li.appendChild(a);
+
+      if (!hasForm) {
+        var submitLink = document.createElement("button");
+        submitLink.type = "button";
+        submitLink.className = "link-btn lib-submit-link";
+        submitLink.textContent = "Know the direct link? Submit it here.";
+        submitLink.addEventListener("click", function () {
+          currentLibraries = [lib];
+          submitContext.textContent = "Submitting for: " + lib.name;
+          searchBox.hidden = true;
+          multiPicker.hidden = true;
+          submitPrompt.hidden = false;
+          submitFormContainer.hidden = false;
+          submitUrl.focus();
+        });
+        li.appendChild(submitLink);
+      }
+
       libraryList.appendChild(li);
     });
     multiPicker.hidden = false;
