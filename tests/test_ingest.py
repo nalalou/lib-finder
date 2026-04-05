@@ -2,21 +2,34 @@ import json
 import os
 import tempfile
 import pytest
-from scripts.ingest_imls import parse_imls_csv, write_prefix_files
+from scripts.ingest_imls import parse_imls_csv, write_prefix_files, load_wikidata_urls, normalize_name
 
-SAMPLE_CSV = """STABR,LIBNAME,ADDRESS,CITY,ZIP,GEOCODE,WEBSITE
-CA,Los Angeles Public Library,630 W 5th St,Los Angeles,90071,0637000,https://lapl.org
-CA,Santa Monica Public Library,601 Santa Monica Blvd,Santa Monica,90401,0670000,https://smpl.org
-NY,New York Public Library,476 5th Ave,New York,10018,3651000,https://nypl.org
-NY,Brooklyn Public Library,10 Grand Army Plaza,Brooklyn,11238,3651000,https://bklynlibrary.org
+# IMLS-style CSV (no WEBSITE column — matches real data)
+SAMPLE_CSV = """STABR,LIBNAME,ADDRESS,CITY,ZIP,GEOCODE
+CA,Los Angeles Public Library,630 W 5th St,Los Angeles,90071,0637000
+CA,Santa Monica Public Library,601 Santa Monica Blvd,Santa Monica,90401,0670000
+NY,New York Public Library,476 5th Ave,New York,10018,3651000
+NY,Brooklyn Public Library,10 Grand Army Plaza,Brooklyn,11238,3651000
 """
+
+SAMPLE_WIKIDATA = {
+    "results": {
+        "bindings": [
+            {"libraryLabel": {"value": "Los Angeles Public Library"}, "website": {"value": "https://lapl.org"}},
+            {"libraryLabel": {"value": "New York Public Library"}, "website": {"value": "https://nypl.org"}},
+        ]
+    }
+}
 
 
 def test_parse_imls_csv_returns_library_list():
+    wikidata_urls = {normalize_name(b["libraryLabel"]["value"]): b["website"]["value"]
+                     for b in SAMPLE_WIKIDATA["results"]["bindings"]}
+
     with tempfile.NamedTemporaryFile(mode="w", suffix=".csv", delete=False) as f:
         f.write(SAMPLE_CSV)
         f.flush()
-        libraries = parse_imls_csv(f.name)
+        libraries = parse_imls_csv(f.name, wikidata_urls)
 
     assert len(libraries) == 4
     assert libraries[0]["name"] == "Los Angeles Public Library"
@@ -28,10 +41,24 @@ def test_parse_imls_csv_returns_library_list():
     os.unlink(f.name)
 
 
-def test_parse_imls_csv_skips_rows_without_website():
-    csv_content = """STABR,LIBNAME,ADDRESS,CITY,ZIP,GEOCODE,WEBSITE
-CA,No Website Library,123 Main St,Nowhere,90000,0000000,
-CA,Has Website Library,456 Oak Ave,Somewhere,90001,0000001,https://example.org
+def test_parse_imls_csv_includes_libraries_without_wikidata_match():
+    """Libraries without Wikidata URLs get a Google search fallback."""
+    with tempfile.NamedTemporaryFile(mode="w", suffix=".csv", delete=False) as f:
+        f.write(SAMPLE_CSV)
+        f.flush()
+        libraries = parse_imls_csv(f.name, wikidata_urls={})
+
+    assert len(libraries) == 4
+    # All should have Google search fallback URLs
+    for lib in libraries:
+        assert lib["website"].startswith("https://www.google.com/search")
+    os.unlink(f.name)
+
+
+def test_parse_imls_csv_skips_rows_without_zipcode():
+    csv_content = """STABR,LIBNAME,ADDRESS,CITY,ZIP,GEOCODE
+CA,No Zip Library,123 Main St,Nowhere,,0000000
+CA,Has Zip Library,456 Oak Ave,Somewhere,90001,0000001
 """
     with tempfile.NamedTemporaryFile(mode="w", suffix=".csv", delete=False) as f:
         f.write(csv_content)
@@ -39,7 +66,18 @@ CA,Has Website Library,456 Oak Ave,Somewhere,90001,0000001,https://example.org
         libraries = parse_imls_csv(f.name)
 
     assert len(libraries) == 1
-    assert libraries[0]["name"] == "Has Website Library"
+    assert libraries[0]["name"] == "Has Zip Library"
+    os.unlink(f.name)
+
+
+def test_load_wikidata_urls():
+    with tempfile.NamedTemporaryFile(mode="w", suffix=".json", delete=False) as f:
+        json.dump(SAMPLE_WIKIDATA, f)
+        f.flush()
+        urls = load_wikidata_urls(f.name)
+
+    assert len(urls) == 2
+    assert urls[normalize_name("Los Angeles Public Library")] == "https://lapl.org"
     os.unlink(f.name)
 
 
