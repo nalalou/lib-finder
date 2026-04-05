@@ -3,102 +3,38 @@
     {
       "name": "BRIDGEPORT PUBLIC LIBRARY",
       "system": "BRIDGEPORT PUBLIC LIBRARY",
-      "address": "3399 WILLIAMSON ROAD, SAGINAW, MI",
+      "address": "925 BROAD ST., BRIDGEPORT, CT",
       "website": "https://bportlibrary.org/",
       "formUrl": "https://bportlibrary.org/books/",
       "formStatus": "verified",
       "zipcodes": [
-        "26302",
+        "06604",
+        "06605",
+        "06606",
+        "06607",
+        "06608",
+        "06610",
+        "06614",
         "26323",
         "26330",
-        "26332",
         "26361",
         "26366",
         "26369",
         "26386",
         "26404",
-        "26408",
         "26422",
-        "26426",
         "26438",
-        "26448",
-        "26451",
-        "26463",
         "26568",
-        "48601"
-      ]
-    },
-    {
-      "name": "TERRA ALTA PUBLIC LIBRARY",
-      "system": "TERRA ALTA PUBLIC LIBRARY",
-      "address": "701B EAST STATE AVENUE, TERRA ALTA, WV",
-      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Terra Alta Public Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26374",
-        "26410",
-        "26425",
-        "26444",
-        "26519",
-        "26520",
-        "26525",
-        "26542",
-        "26547",
-        "26705",
-        "26716",
-        "26764"
-      ]
-    },
-    {
-      "name": "NEW MARTINSVILLE PUBLIC LIBRARY",
-      "system": "NEW MARTINSVILLE PUBLIC LIBRARY",
-      "address": "160 WASHINGTON STREET, NEW MARTINSVILLE, WV",
-      "website": "https://newmartinsville.lib.wv.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26155",
-        "26162",
-        "26167",
-        "26186",
-        "26348",
-        "26377",
-        "26437",
-        "26562",
-        "26581"
-      ]
-    },
-    {
-      "name": "PADEN CITY PUBLIC LIBRARY",
-      "system": "PADEN CITY PUBLIC LIBRARY",
-      "address": "114 S. 4TH AVENUE, PADEN CITY, WV",
-      "website": "https://www.padencitylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26159",
-        "26162",
-        "26167",
-        "26186",
-        "26348",
-        "26377",
-        "26437",
-        "26562",
-        "26581"
-      ]
-    },
-    {
-      "name": "SISTERSVILLE PUBLIC LIBRARY",
-      "system": "SISTERSVILLE PUBLIC LIBRARY",
-      "address": "518 WELLS STREET, SISTERSVILLE, WV",
-      "website": "https://www.cityofsistersville.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26146",
-        "26175",
-        "26320"
+        "48601",
+        "48602",
+        "48603",
+        "48604",
+        "48722",
+        "48724",
+        "69331",
+        "69336",
+        "76073",
+        "76426"
       ]
     },
     {
@@ -117,7 +53,7 @@
     {
       "name": "TAYLOR COUNTY PUBLIC LIBRARY",
       "system": "TAYLOR COUNTY PUBLIC LIBRARY",
-      "address": "200 BEECH ST., GRAFTON, WV",
+      "address": "1316 EAST BROADWAY STREET, CAMPBELLSVILLE, KY",
       "website": "https://www.tcplibrary.org/",
       "formUrl": "https://www.tcplibrary.org/form/suggest-a-title",
       "formStatus": "verified",
@@ -126,7 +62,9 @@
         "26354",
         "26424",
         "26435",
-        "26440"
+        "26440",
+        "42718",
+        "42733"
       ]
     },
     {
@@ -160,13 +98,8 @@
         "26335",
         "26615",
         "26619",
-        "26621",
-        "26623",
         "26627",
-        "26629",
-        "26631",
-        "26639",
-        "26641"
+        "26631"
       ]
     },
     {
@@ -178,10 +111,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "26301",
-        "26302",
         "26323",
         "26330",
-        "26332",
         "26361",
         "26366",
         "26369",
@@ -191,10 +122,7 @@
         "26422",
         "26426",
         "26438",
-        "26448",
-        "26451",
-        "26463",
-        "26568"
+        "26451"
       ]
     },
     {
@@ -205,24 +133,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26302",
-        "26323",
-        "26330",
-        "26332",
-        "26361",
-        "26366",
-        "26369",
         "26385",
-        "26386",
-        "26404",
         "26408",
-        "26422",
-        "26426",
-        "26438",
-        "26448",
-        "26451",
-        "26463",
-        "26568"
+        "26451"
       ]
     },
     {
@@ -234,23 +147,11 @@
       "formStatus": "unknown",
       "zipcodes": [
         "26301",
-        "26302",
         "26323",
         "26330",
-        "26332",
-        "26361",
-        "26366",
-        "26369",
-        "26386",
-        "26404",
         "26408",
         "26422",
-        "26426",
-        "26438",
-        "26448",
-        "26451",
-        "26463",
-        "26568"
+        "26451"
       ]
     },
     {
@@ -268,27 +169,8 @@
         "26430",
         "26443",
         "26611",
-        "26634",
         "26636",
         "26638"
-      ]
-    },
-    {
-      "name": "BELINGTON PUBLIC LIBRARY",
-      "system": "BELINGTON PUBLIC LIBRARY",
-      "address": "88 ELLIOTT AVE., BELINGTON, WV",
-      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Belington Public Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26238",
-        "26250",
-        "26275",
-        "262HH",
-        "26334",
-        "26349",
-        "26405",
-        "264HH"
       ]
     },
     {
@@ -308,28 +190,7 @@
         "26525",
         "26537",
         "26542",
-        "26547",
-        "26705",
-        "26716"
-      ]
-    },
-    {
-      "name": "HUNDRED PUBLIC LIBRARY",
-      "system": "HUNDRED PUBLIC LIBRARY",
-      "address": "3527 HORNET HIGHWAY, HUNDRED, WV",
-      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Hundred Public Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26162",
-        "26167",
-        "26186",
-        "26348",
-        "26377",
-        "26437",
-        "26562",
-        "26575",
-        "26581"
+        "26547"
       ]
     },
     {
@@ -355,13 +216,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "26238",
-        "26275",
-        "262HH",
-        "26334",
         "26349",
         "26405",
-        "26416",
-        "264HH"
+        "26416"
       ]
     },
     {
@@ -372,23 +229,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26302",
-        "26323",
-        "26330",
-        "26332",
         "26361",
         "26366",
         "26369",
         "26386",
         "26404",
-        "26408",
-        "26422",
-        "26426",
         "26431",
         "26438",
         "26448",
-        "26451",
-        "26463",
         "26568"
       ]
     },
@@ -400,14 +248,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26162",
         "26167",
-        "26186",
         "26348",
         "26377",
         "26419",
         "26437",
-        "26562",
         "26581"
       ]
     },
@@ -425,7 +270,6 @@
         "26372",
         "26376",
         "26378",
-        "263HH",
         "26412",
         "26447",
         "26452"

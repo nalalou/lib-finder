@@ -3,7 +3,7 @@
     {
       "name": "ADAMS COUNTY LIBRARY",
       "system": "ADAMS COUNTY LIBRARY",
-      "address": "569 N. CEDAR ST., SUITE 1, ADAMS, WI",
+      "address": "103 N 6TH STREET, HETTINGER, ND",
       "website": "https://adamscountyndlibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -11,51 +11,21 @@
         "53910",
         "53934",
         "53936",
-        "539HH",
-        "544HH",
         "54613",
-        "546HH"
-      ]
-    },
-    {
-      "name": "INDEPENDENCE PUBLIC LIBRARY",
-      "system": "INDEPENDENCE PUBLIC LIBRARY",
-      "address": "805 1ST ST E, INDEPENDENCE, IA",
-      "website": "http://iplks.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50644",
-        "54625",
-        "54747",
-        "54760"
-      ]
-    },
-    {
-      "name": "LESTER PUBLIC LIBRARY OF ROME",
-      "system": "LESTER PUBLIC LIBRARY OF ROME",
-      "address": "1157 ROME CENTER DR., NEKOOSA, WI",
-      "website": "https://www.romepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53934",
-        "53936",
-        "539HH",
-        "54457",
-        "544HH",
-        "54613",
-        "546HH"
+        "58639",
+        "58649"
       ]
     },
     {
       "name": "ALMA PUBLIC LIBRARY",
       "system": "ALMA PUBLIC LIBRARY",
-      "address": "312 N. MAIN ST., ALMA, WI",
+      "address": "500 EAST SUPERIOR ST., ALMA, MI",
       "website": "https://www.almalibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "48801",
+        "48832",
         "54610",
         "54622",
         "54629",
@@ -65,15 +35,18 @@
     {
       "name": "HILLSBORO PUBLIC LIBRARY",
       "system": "HILLSBORO PUBLIC LIBRARY",
-      "address": "819 HIGH AVE., HILLSBORO, WI",
-      "website": "https://librarytechnology.org/library/18225",
+      "address": "120 E. GRAND AVE., HILLSBORO, KS",
+      "website": "https://www.hillsboro-oregon.gov/departments/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54621",
-        "54632",
         "54634",
-        "54658"
+        "67063",
+        "67073",
+        "67438",
+        "67483",
+        "97123",
+        "97124"
       ]
     },
     {
@@ -86,41 +59,19 @@
       "zipcodes": [
         "53821",
         "53826",
-        "538HH",
-        "54626",
-        "54628",
-        "54640",
-        "54645",
-        "54654",
-        "54657"
-      ]
-    },
-    {
-      "name": "WHITEHALL PUBLIC LIBRARY",
-      "system": "WHITEHALL PUBLIC LIBRARY",
-      "address": "36351 MAIN ST., WHITEHALL, WI",
-      "website": "https://whtlpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54625",
-        "54747",
-        "54760",
-        "54773"
+        "54626"
       ]
     },
     {
       "name": "ONTARIO PUBLIC LIBRARY",
       "system": "ONTARIO PUBLIC LIBRARY",
-      "address": "313 MAIN ST., ONTARIO, WI",
+      "address": "1850 RIDGE ROAD, ONTARIO, NY",
       "website": "https://ontariolibrary.wrlsweb.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54621",
-        "54632",
-        "54651",
-        "54658"
+        "14519",
+        "54651"
       ]
     },
     {
@@ -132,27 +83,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53929",
-        "53944",
-        "53948",
-        "53962",
-        "54618",
         "54637"
-      ]
-    },
-    {
-      "name": "HATCH PUBLIC LIBRARY",
-      "system": "HATCH PUBLIC LIBRARY",
-      "address": "530 E. HALL, HATCH, NM",
-      "website": "https://hatchpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53944",
-        "53948",
-        "53962",
-        "54618",
-        "54637",
-        "87937"
       ]
     },
     {
@@ -163,26 +94,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53944",
-        "53948",
         "53950",
-        "53962",
-        "54618",
-        "54637"
-      ]
-    },
-    {
-      "name": "WONEWOC PUBLIC LIBRARY",
-      "system": "WONEWOC PUBLIC LIBRARY",
-      "address": "305 CENTER ST., WONEWOC, WI",
-      "website": "https://wonewoclibrary.wrlsweb.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53944",
-        "53948",
-        "53962",
-        "53968",
         "54618",
         "54637"
       ]
@@ -190,116 +102,83 @@
     {
       "name": "DE SOTO PUBLIC LIBRARY",
       "system": "DE SOTO PUBLIC LIBRARY",
-      "address": "111 S. HOUGHTON ST., DE SOTO, WI",
+      "address": "712 S MAIN ST, DE SOTO, MO",
       "website": "https://www.dspl.missouri.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54621",
+        "50038",
+        "50069",
         "54624",
         "54632",
-        "54658"
+        "63020",
+        "63023",
+        "63050"
       ]
     },
     {
       "name": "NORWALK PUBLIC LIBRARY",
       "system": "NORWALK PUBLIC LIBRARY",
-      "address": "101 RAILROAD ST., NORWALK, WI",
+      "address": "46 W. MAIN ST., NORWALK, OH",
       "website": "http://norwalkpl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "06850",
+        "06851",
+        "06854",
+        "44826",
+        "44847",
+        "44855",
+        "44857",
         "54648",
-        "54666"
-      ]
-    },
-    {
-      "name": "MONDOVI PUBLIC LIBRARY",
-      "system": "MONDOVI PUBLIC LIBRARY",
-      "address": "146 W. HUDSON ST., MONDOVI, WI",
-      "website": "https://mondovilibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54622",
-        "54629",
-        "54755",
-        "54756"
-      ]
-    },
-    {
-      "name": "HAUGE MEMORIAL LIBRARY",
-      "system": "HAUGE MEMORIAL LIBRARY",
-      "address": "50655 CHARLES ST., OSSEO, WI",
-      "website": "https://osseopubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54625",
-        "54747",
-        "54758",
-        "54760"
-      ]
-    },
-    {
-      "name": "STRUM PUBLIC LIBRARY",
-      "system": "STRUM PUBLIC LIBRARY",
-      "address": "114 5TH AVE. S., STRUM, WI",
-      "website": "https://strumlibrary.wrlsweb.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54625",
-        "54747",
-        "54760",
-        "54770"
+        "54670"
       ]
     },
     {
       "name": "LA CROSSE PUBLIC LIBRARY",
       "system": "LA CROSSE PUBLIC LIBRARY",
-      "address": "800 MAIN ST., LA CROSSE, WI",
+      "address": "307 E MAIN STREET, LA CROSSE, IN",
       "website": "https://www.lacrosselibrary.org",
       "formUrl": "https://www.lacrosselibrary.org/purchase-suggestions",
       "formStatus": "verified",
       "zipcodes": [
+        "46340",
+        "46348",
         "54601",
         "54603",
-        "54614",
-        "54644",
         "54650",
-        "54653",
-        "54669"
+        "54653"
       ]
     },
     {
       "name": "WILTON PUBLIC LIBRARY",
       "system": "WILTON PUBLIC LIBRARY",
-      "address": "400 EAST ST., STE. 102, WILTON, WI",
+      "address": "1215 CYPRESS ST, WILTON, IA",
       "website": "https://wiltonlibrary.wrlsweb.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54666",
+        "52720",
+        "52760",
+        "52769",
+        "52778",
+        "54648",
         "54670"
       ]
     },
     {
       "name": "TAYLOR MEMORIAL LIBRARY",
       "system": "TAYLOR MEMORIAL LIBRARY",
-      "address": "420 2ND ST., TAYLOR, WI",
+      "address": "155 MAIN STREET, HANCOCK, MA",
       "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=1000",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "544XX",
-        "54611",
+        "01237",
         "54635",
         "54642",
-        "54659",
-        "546XX",
-        "54754",
-        "547XX"
+        "54659"
       ]
     },
     {
@@ -311,9 +190,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54612",
-        "54625",
-        "54747",
-        "54760"
+        "54625"
       ]
     },
     {
@@ -324,14 +201,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "544XX",
         "54611",
         "54615",
-        "54635",
-        "54642",
-        "546XX",
-        "54754",
-        "547XX"
+        "54754"
       ]
     },
     {
@@ -343,9 +215,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54625",
-        "54630",
-        "54747",
-        "54760"
+        "54630"
       ]
     },
     {
@@ -356,12 +226,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53826",
-        "538HH",
-        "54626",
         "54628",
         "54631",
-        "54640",
         "54645",
         "54654",
         "54657"
@@ -376,7 +242,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54638",
-        "54666"
+        "54670"
       ]
     },
     {
@@ -387,10 +253,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54621",
-        "54632",
-        "54639",
-        "54658"
+        "54639"
       ]
     },
     {
@@ -401,11 +264,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53944",
-        "53948",
-        "53962",
-        "54618",
-        "54637",
         "54646"
       ]
     },
@@ -417,15 +275,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53826",
-        "538HH",
-        "54626",
-        "54628",
-        "54640",
         "54645",
-        "54654",
-        "54655",
-        "54657"
+        "54655"
       ]
     },
     {
@@ -436,8 +287,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54656",
-        "54666"
+        "54656"
       ]
     },
     {
@@ -460,10 +310,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54625",
-        "54661",
-        "54747",
-        "54760"
+        "54661"
       ]
     },
     {
@@ -474,10 +321,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53518",
-        "53540",
-        "53581",
-        "53924",
         "54664"
       ]
     },
@@ -489,9 +332,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54621",
-        "54632",
-        "54658",
         "54665"
       ]
     },
@@ -503,9 +343,6 @@
       "formUrl": "https://www.wrlsweb.org/future-home-page/suggest-a-purchase/",
       "formStatus": "verified",
       "zipcodes": [
-        "54621",
-        "54632",
-        "54658",
         "54667"
       ]
     },
@@ -518,9 +355,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54616",
-        "54625",
-        "54747",
-        "54760"
+        "54760",
+        "54773"
       ]
     },
     {
@@ -536,7 +372,6 @@
         "54636",
         "54644",
         "54650",
-        "54653",
         "54669"
       ]
     },
@@ -548,10 +383,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54621",
-        "54632",
-        "54652",
-        "54658"
+        "54652"
       ]
     },
     {
@@ -563,7 +395,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54619",
-        "54666"
+        "54648"
       ]
     },
     {
@@ -574,10 +406,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54625",
-        "54627",
-        "54747",
-        "54760"
+        "54627"
       ]
     },
     {
@@ -590,7 +419,6 @@
       "zipcodes": [
         "54621",
         "54623",
-        "54632",
         "54658"
       ]
     }

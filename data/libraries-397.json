@@ -8,15 +8,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "38844",
         "39701",
         "39702",
-        "39704",
         "39705",
         "39736",
         "39740",
         "39743",
-        "39766",
-        "397HH"
+        "39766"
       ]
     },
     {
@@ -27,9 +26,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "39750",
+        "39751",
         "39759",
         "39762",
-        "39769"
+        "39769",
+        "39776"
       ]
     },
     {
@@ -40,7 +42,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "38848",
+        "39730",
         "39741",
+        "39746",
         "39755",
         "39756",
         "39773"
@@ -54,8 +59,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "39339",
         "39735",
+        "39744",
         "39745",
+        "39752",
+        "39767",
+        "39771",
         "39772"
       ]
     },
@@ -68,8 +78,26 @@
       "formStatus": "verified",
       "zipcodes": [
         "39341",
+        "39358",
         "39361",
         "39739"
+      ]
+    },
+    {
+      "name": "CARROLL COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "CARROLL COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "1102 LEXINGTON AVENUE, CARROLLTON, MS",
+      "website": "https://www.carroll.lib.ms.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38917",
+        "38923",
+        "38943",
+        "38947",
+        "38967",
+        "39176",
+        "39747"
       ]
     }
   ]

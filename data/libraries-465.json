@@ -1,20 +1,47 @@
 {
   "libraries": [
     {
+      "name": "MILFORD PUBLIC LIBRARY",
+      "system": "MILFORD PUBLIC LIBRARY",
+      "address": "40 FRENCHTOWN ROAD, MILFORD, NJ",
+      "website": "http://www.milfordnjlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06460",
+        "08802",
+        "08804",
+        "08827",
+        "08848",
+        "08867",
+        "19941",
+        "19960",
+        "19963",
+        "46538",
+        "46542",
+        "46582",
+        "48165",
+        "48357",
+        "48380",
+        "48381",
+        "84751"
+      ]
+    },
+    {
       "name": "GOSHEN PUBLIC LIBRARY",
       "system": "GOSHEN PUBLIC LIBRARY",
-      "address": "601 SOUTH 5TH STREET, GOSHEN, IN",
+      "address": "42 NORTH ST., GOSHEN, CT",
       "website": "https://www.goshenpublib.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46514",
+        "06756",
+        "06796",
         "46517",
         "46526",
         "46528",
         "46543",
-        "46553",
-        "465HH"
+        "46553"
       ]
     },
     {
@@ -33,6 +60,56 @@
       ]
     },
     {
+      "name": "PLYMOUTH PUBLIC LIBRARY",
+      "system": "PLYMOUTH PUBLIC LIBRARY",
+      "address": "103 NORTH JEFFERSON AVENUE, PLYMOUTH, NE",
+      "website": "https://plymouthpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02360",
+        "02366",
+        "18617",
+        "18618",
+        "18621",
+        "18651",
+        "18706",
+        "18708",
+        "46537",
+        "46563",
+        "53011",
+        "53023",
+        "53073",
+        "53093",
+        "68377",
+        "68424"
+      ]
+    },
+    {
+      "name": "ST JOSEPH COUNTY PUBLIC LIBRARY",
+      "system": "ST JOSEPH COUNTY PUBLIC LIBRARY",
+      "address": "304 SOUTH MAIN STREET, SOUTH BEND, IN",
+      "website": "https://sjcpl.org/",
+      "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeTBeIUvjLlr03g9qcEEYdDiKb_EkN5UmFurQADOZdAt1UsOA/viewform?gxids=7628",
+      "formStatus": "verified",
+      "zipcodes": [
+        "46530",
+        "46545",
+        "46556",
+        "46561",
+        "46601",
+        "46613",
+        "46614",
+        "46615",
+        "46616",
+        "46617",
+        "46619",
+        "46628",
+        "46635",
+        "46637"
+      ]
+    },
+    {
       "name": "STARKE COUNTY PUBLIC LIBRARY SYSTEM",
       "system": "STARKE COUNTY PUBLIC LIBRARY SYSTEM",
       "address": "152 WEST CULVER ROAD, KNOX, IN",
@@ -40,7 +117,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46374",
         "46531",
         "46532",
         "46534",
@@ -58,10 +134,9 @@
         "46514",
         "46516",
         "46517",
-        "46528",
-        "46543",
-        "46553",
-        "465HH"
+        "46530",
+        "46545",
+        "46561"
       ]
     },
     {
@@ -72,13 +147,11 @@
       "formUrl": "https://www.wakarusapubliclibrary.org/family-dinner-book-club",
       "formStatus": "verified",
       "zipcodes": [
-        "46514",
         "46517",
-        "46528",
-        "46543",
+        "46526",
         "46553",
         "46573",
-        "465HH"
+        "46595"
       ]
     },
     {
@@ -89,13 +162,8 @@
       "formUrl": "https://www.nappaneelibrary.org/item-purchase-requests/",
       "formStatus": "verified",
       "zipcodes": [
-        "46514",
-        "46517",
-        "46528",
-        "46543",
         "46550",
-        "46553",
-        "465HH"
+        "46553"
       ]
     },
     {
@@ -108,11 +176,7 @@
       "zipcodes": [
         "46507",
         "46514",
-        "46517",
-        "46528",
-        "46543",
-        "46553",
-        "465HH"
+        "46528"
       ]
     },
     {
@@ -123,13 +187,9 @@
       "formUrl": "https://www.middleburylibrary.org/inter-library-loan-request-form/",
       "formStatus": "verified",
       "zipcodes": [
-        "46514",
-        "46517",
         "46528",
         "46540",
-        "46543",
-        "46553",
-        "465HH"
+        "46543"
       ]
     },
     {
@@ -144,12 +204,7 @@
         "46508",
         "46510",
         "46524",
-        "46538",
         "46539",
-        "46542",
-        "46566",
-        "46582",
-        "46590",
         "46982"
       ]
     },
@@ -166,12 +221,9 @@
         "46510",
         "46524",
         "46538",
-        "46542",
-        "46566",
         "46580",
         "46582",
-        "46590",
-        "46982"
+        "46590"
       ]
     },
     {
@@ -182,17 +234,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46502",
-        "46508",
-        "46510",
-        "46524",
-        "46538",
         "46542",
-        "46566",
-        "46567",
-        "46582",
-        "46590",
-        "46982"
+        "46567"
       ]
     },
     {
@@ -203,17 +246,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46502",
-        "46508",
-        "46510",
-        "46524",
-        "46538",
-        "46542",
         "46562",
-        "46566",
-        "46582",
-        "46590",
-        "46982"
+        "46590"
       ]
     },
     {
@@ -224,26 +258,36 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46511"
+      ]
+    },
+    {
+      "name": "BREMEN PUBLIC LIBRARY",
+      "system": "BREMEN PUBLIC LIBRARY",
+      "address": "304 NORTH JACKSON STREET, BREMEN, IN",
+      "website": "https://bremenlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04539",
+        "04551",
+        "04553",
+        "04555",
         "46506",
-        "46511",
-        "46513",
+        "46536",
         "46537",
-        "46563",
-        "46570"
+        "46595"
       ]
     },
     {
       "name": "ARGOS PUBLIC LIBRARY",
       "system": "ARGOS PUBLIC LIBRARY",
       "address": "142 NORTH MICHIGAN STREET, ARGOS, IN",
-      "website": "https://argospubliclibrary.com/",
+      "website": "http://www.argos.lib.in.us/index.html",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "46501",
-        "46506",
-        "46513",
-        "46537",
         "46563",
         "46570"
       ]
@@ -257,10 +301,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46504",
-        "46506",
-        "46513",
-        "46537",
-        "46563",
         "46570"
       ]
     },
@@ -272,7 +312,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46552"
+        "46552",
+        "46619",
+        "46628"
       ]
     },
     {
@@ -283,6 +325,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46554",
         "46574"
       ]
     },
@@ -294,7 +337,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46544"
+        "46530",
+        "46544",
+        "46545",
+        "46556",
+        "46561",
+        "46595",
+        "46613",
+        "46614",
+        "46615",
+        "46616",
+        "46617",
+        "46619",
+        "46628",
+        "46635",
+        "46637"
       ]
     },
     {
@@ -305,32 +362,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46502",
-        "46508",
-        "46510",
-        "46524",
         "46538",
-        "46542",
         "46555",
-        "46566",
         "46582",
-        "46590",
-        "46982"
-      ]
-    },
-    {
-      "name": "NORTH JUDSON-WAYNE TOWNSHIP PUBLIC LIBRARY",
-      "system": "NORTH JUDSON-WAYNE TOWNSHIP PUBLIC LIBRARY",
-      "address": "208 KELLER AVENUE, NORTH JUDSON, IN",
-      "website": "https://www.njwtpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46366",
-        "46374",
-        "46531",
-        "46532",
-        "46968"
+        "46590"
       ]
     }
   ]

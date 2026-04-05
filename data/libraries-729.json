@@ -13,14 +13,7 @@
         "72904",
         "72908",
         "72916",
-        "72923",
-        "72937",
-        "72938",
-        "72940",
-        "72941",
-        "72944",
-        "72945",
-        "729XX"
+        "72923"
       ]
     },
     {
@@ -31,19 +24,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72901",
-        "72904",
-        "72908",
+        "72821",
+        "72826",
         "72916",
         "72923",
+        "72927",
+        "72928",
+        "72933",
         "72936",
         "72937",
         "72938",
         "72940",
         "72941",
+        "72943",
         "72944",
         "72945",
-        "729XX"
+        "72951",
+        "72958"
       ]
     },
     {
@@ -55,41 +52,81 @@
       "formStatus": "unknown",
       "zipcodes": [
         "72921",
+        "72930",
         "72932",
         "72934",
         "72935",
         "72946",
         "72947",
         "72948",
+        "72949",
         "72952",
         "72955",
-        "72956",
-        "729HH"
+        "72956"
       ]
     },
     {
-      "name": "FAYETTEVILLE PUBLIC LIBRARY",
-      "system": "FAYETTEVILLE PUBLIC LIBRARY",
-      "address": "401 W. MOUNTAIN STREET, FAYETTEVILLE, AR",
-      "website": "https://www.faylib.org/",
+      "name": "OUACHITA MOUNTAINS REGIONAL LIBRARY",
+      "system": "OUACHITA MOUNTAINS REGIONAL LIBRARY",
+      "address": "145A WHITTINGTON STREET, MT. IDA, AR",
+      "website": "https://ouachitamountainsregionallibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72701",
+        "71935",
+        "71943",
+        "71950",
+        "71952",
+        "71953",
+        "71957",
+        "71960",
+        "71961",
+        "71965",
+        "71969",
+        "71970",
+        "72841",
+        "72926",
+        "72950"
+      ]
+    },
+    {
+      "name": "WASHINGTON COUNTY LIBRARY SYSTEM",
+      "system": "WASHINGTON COUNTY LIBRARY SYSTEM",
+      "address": "88 WEST 100 SOUTH, ST. GEORGE, UT",
+      "website": "https://library.washco.utah.gov/st-george/",
+      "formUrl": "https://library.washco.utah.gov/patron-request-for-purchase/",
+      "formStatus": "verified",
+      "zipcodes": [
         "72703",
         "72704",
         "72717",
+        "72721",
         "72727",
         "72729",
         "72730",
         "72744",
         "72749",
         "72753",
-        "72762",
-        "72764",
+        "72760",
         "72769",
         "72774",
-        "72959"
+        "72959",
+        "84722",
+        "84725",
+        "84733",
+        "84737",
+        "84738",
+        "84745",
+        "84757",
+        "84765",
+        "84770",
+        "84774",
+        "84779",
+        "84780",
+        "84781",
+        "84782",
+        "84783",
+        "84790"
       ]
     }
   ]

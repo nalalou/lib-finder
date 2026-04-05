@@ -41,8 +41,7 @@
         "81222",
         "81223",
         "81233",
-        "81244",
-        "812HH"
+        "81244"
       ]
     },
     {
@@ -65,12 +64,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "81221",
-        "81222",
-        "81223",
         "81226",
-        "81233",
-        "81244",
-        "812HH"
+        "81244"
       ]
     },
     {
@@ -100,8 +95,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "81235",
-        "812XX"
+        "81235"
       ]
     },
     {
@@ -113,12 +107,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "81221",
-        "81222",
-        "81223",
-        "81233",
         "81240",
-        "81244",
-        "812HH"
+        "81244"
       ]
     },
     {
@@ -129,8 +119,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "81201",
-        "81236"
+        "81201"
       ]
     },
     {
@@ -142,6 +131,30 @@
       "formStatus": "unknown",
       "zipcodes": [
         "81253"
+      ]
+    },
+    {
+      "name": "LAKE COUNTY PUBLIC LIBRARY",
+      "system": "LAKE COUNTY PUBLIC LIBRARY",
+      "address": "1115 HARRISON AVE, LEADVILLE, CO",
+      "website": "https://www.lakecountypubliclibrary.org/",
+      "formUrl": "https://www.lakecountypubliclibrary.org/request-our-book-bike-mobile-checkout",
+      "formStatus": "verified",
+      "zipcodes": [
+        "46303",
+        "46311",
+        "46319",
+        "46321",
+        "46342",
+        "46373",
+        "46375",
+        "46405",
+        "46407",
+        "46408",
+        "46409",
+        "46410",
+        "80461",
+        "81251"
       ]
     }
   ]

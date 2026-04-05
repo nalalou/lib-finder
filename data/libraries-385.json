@@ -1,6 +1,37 @@
 {
   "libraries": [
     {
+      "name": "CLAY COUNTY PUBLIC LIBRARY",
+      "system": "CLAY COUNTY PUBLIC LIBRARY",
+      "address": "614 MAIN STREET, CLAY, WV",
+      "website": "https://www.claycountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25019",
+        "25030",
+        "25043",
+        "25063",
+        "25088",
+        "25111",
+        "25113",
+        "25125",
+        "25133",
+        "25141",
+        "25164",
+        "25211",
+        "25285",
+        "26617",
+        "38551",
+        "38575",
+        "40914",
+        "40941",
+        "40962",
+        "40972",
+        "40983"
+      ]
+    },
+    {
       "name": "MAGNESS COMMUNITY HOUSE & LIBRARY",
       "system": "MAGNESS COMMUNITY HOUSE & LIBRARY",
       "address": "118 WEST MAIN STREET, MCMINNVILLE, TN",
@@ -17,7 +48,7 @@
     {
       "name": "PUTNAM COUNTY LIBRARY",
       "system": "PUTNAM COUNTY LIBRARY",
-      "address": "50 EAST BROAD STREET, COOKEVILLE, TN",
+      "address": "4219 STATE RT. 34, HURRICANE, WV",
       "website": "https://pclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -33,7 +64,12 @@
         "25213",
         "25526",
         "25560",
-        "38501"
+        "38501",
+        "38506",
+        "38544",
+        "38548",
+        "38574",
+        "38582"
       ]
     },
     {
@@ -71,8 +107,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38585",
-        "385XX"
+        "38585"
       ]
     },
     {

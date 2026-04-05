@@ -1,6 +1,24 @@
 {
   "libraries": [
     {
+      "name": "SUMTER COUNTY LIBRARY SYSTEM",
+      "system": "SUMTER COUNTY LIBRARY SYSTEM",
+      "address": "7375 POWELL ROAD, SUITE 150, WILDWOOD, FL",
+      "website": "https://sumter.librarycatalog.info/polaris/library/hours.aspx?ctx=1.1033.0.0.7",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "33513",
+        "33514",
+        "33521",
+        "33538",
+        "33585",
+        "33597",
+        "34484",
+        "34785"
+      ]
+    },
+    {
       "name": "MARION COUNTY PUBLIC LIBRARY SYSTEM",
       "system": "MARION COUNTY PUBLIC LIBRARY SYSTEM",
       "address": "2720 EAST SILVER SPRINGS BOULEVARD, OCALA, FL",
@@ -10,11 +28,11 @@
       "zipcodes": [
         "32113",
         "32134",
+        "32148",
         "32179",
-        "32182",
-        "32183",
         "32195",
         "32617",
+        "32640",
         "32664",
         "32681",
         "32686",
@@ -44,7 +62,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "34428",
         "34429",
         "34433",
         "34436",
@@ -55,8 +72,7 @@
         "34452",
         "34453",
         "34461",
-        "34465",
-        "344HH"
+        "34465"
       ]
     },
     {
@@ -68,18 +84,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "34428",
-        "34429",
         "34433",
         "34434",
-        "34436",
         "34442",
-        "34446",
-        "34448",
-        "34450",
-        "34452",
-        "34453",
-        "34461",
-        "344HH"
+        "34461"
       ]
     },
     {
@@ -90,35 +98,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "32601",
+        "32603",
+        "32605",
+        "32606",
+        "32607",
+        "32608",
+        "32618",
+        "32619",
         "32621",
         "32625",
         "32626",
         "32639",
+        "32648",
+        "32667",
         "32668",
+        "32669",
+        "32680",
         "32683",
+        "32692",
+        "32693",
         "32696",
         "34449",
-        "34498",
-        "344XX"
-      ]
-    },
-    {
-      "name": "SUMTER COUNTY LIBRARY SYSTEM",
-      "system": "SUMTER COUNTY LIBRARY SYSTEM",
-      "address": "7375 POWELL ROAD, SUITE 150, WILDWOOD, FL",
-      "website": "https://sumter.librarycatalog.info/polaris/library/hours.aspx?ctx=1.1033.0.0.7",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "33513",
-        "33514",
-        "33521",
-        "33538",
-        "33585",
-        "33597",
-        "335XX",
-        "34484",
-        "34785"
+        "34498"
       ]
     }
   ]

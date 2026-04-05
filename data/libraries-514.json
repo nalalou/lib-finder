@@ -1,125 +1,6 @@
 {
   "libraries": [
     {
-      "name": "SOMERS PUBLIC LIBRARY",
-      "system": "SOMERS PUBLIC LIBRARY",
-      "address": "2 VISION BOULEVARD, SOMERS, CT",
-      "website": "https://www.somerspubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06071",
-        "50551",
-        "50552",
-        "50586",
-        "51449",
-        "514HH"
-      ]
-    },
-    {
-      "name": "SAC CITY PUBLIC LIBRARY",
-      "system": "SAC CITY PUBLIC LIBRARY",
-      "address": "1001 W MAIN ST, SAC CITY, IA",
-      "website": "https://www.saccity.lib.ia.us/",
-      "formUrl": "https://www.saccity.lib.ia.us/services/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "50567",
-        "50583",
-        "51433"
-      ]
-    },
-    {
-      "name": "EARLY PUBLIC LIBRARY",
-      "system": "EARLY PUBLIC LIBRARY",
-      "address": "107 MAIN ST, EARLY, IA",
-      "website": "https://www.early.lib.ia.us/",
-      "formUrl": "https://www.early.lib.ia.us/services/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "50535",
-        "50567",
-        "51433"
-      ]
-    },
-    {
-      "name": "MANSON PUBLIC LIBRARY",
-      "system": "MANSON PUBLIC LIBRARY",
-      "address": "1312 10TH AVE, MANSON, IA",
-      "website": "https://www.manson.lib.ia.us/",
-      "formUrl": "https://www.manson.lib.ia.us/services/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "50551",
-        "50552",
-        "50563",
-        "50586",
-        "51449",
-        "514HH"
-      ]
-    },
-    {
-      "name": "ROCKWELL CITY PUBLIC LIBRARY",
-      "system": "ROCKWELL CITY PUBLIC LIBRARY",
-      "address": "424 MAIN ST, ROCKWELL CITY, IA",
-      "website": "https://www.rockwellcity.lib.ia.us/",
-      "formUrl": "https://www.rockwellcity.lib.ia.us/services/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "50551",
-        "50552",
-        "50579",
-        "50586",
-        "51449",
-        "514HH"
-      ]
-    },
-    {
-      "name": "LYTTON PUBLIC LIBRARY",
-      "system": "LYTTON PUBLIC LIBRARY",
-      "address": "118 MAIN AST, LYTTON, IA",
-      "website": "https://www.lytton.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50561",
-        "50567",
-        "51433"
-      ]
-    },
-    {
-      "name": "POMEROY PUBLIC LIBRARY",
-      "system": "POMEROY PUBLIC LIBRARY",
-      "address": "114 S ONTARIO ST, POMEROY, IA",
-      "website": "https://www.pomeroy.lib.ia.us/",
-      "formUrl": "https://www.pomeroy.lib.ia.us/services/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "50551",
-        "50552",
-        "50575",
-        "50586",
-        "51449",
-        "514HH"
-      ]
-    },
-    {
-      "name": "FARNHAMVILLE PUBLIC LIBRARY",
-      "system": "FARNHAMVILLE PUBLIC LIBRARY",
-      "address": "240 HARDIN, FARNHAMVILLE, IA",
-      "website": "https://www.farnhamville.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50538",
-        "50551",
-        "50552",
-        "50586",
-        "51449",
-        "514HH"
-      ]
-    },
-    {
       "name": "MANNING PUBLIC LIBRARY",
       "system": "MANNING PUBLIC LIBRARY",
       "address": "123 MAIN ST, MANNING, IA",
@@ -127,14 +8,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51430",
-        "51436",
-        "51440",
         "51444",
-        "51451",
-        "51452",
         "51455",
-        "51459",
         "51463"
       ]
     },
@@ -146,8 +21,6 @@
       "formUrl": "https://www.odebolt.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50567",
-        "51433",
         "51458"
       ]
     },
@@ -159,8 +32,6 @@
       "formUrl": "https://www.lakeview.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50567",
-        "51433",
         "51450"
       ]
     },
@@ -172,8 +43,6 @@
       "formUrl": "https://www.walllake.lib.ia.us/services/suggestions-purchase",
       "formStatus": "verified",
       "zipcodes": [
-        "50567",
-        "51433",
         "51466"
       ]
     },
@@ -188,12 +57,7 @@
         "51401",
         "51430",
         "51436",
-        "51440",
-        "51444",
-        "51451",
-        "51452",
-        "51459",
-        "51463"
+        "51444"
       ]
     },
     {
@@ -206,7 +70,6 @@
       "zipcodes": [
         "51441",
         "51442",
-        "51448",
         "51465",
         "51520"
       ]
@@ -221,9 +84,7 @@
       "zipcodes": [
         "51441",
         "51448",
-        "51461",
-        "51465",
-        "51520"
+        "51461"
       ]
     },
     {
@@ -235,9 +96,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51439",
-        "51441",
-        "51448",
-        "51465",
         "51520"
       ]
     },
@@ -271,12 +129,7 @@
       "formUrl": "https://www.lohrville.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50551",
-        "50552",
-        "50586",
-        "51449",
-        "51453",
-        "514HH"
+        "51453"
       ]
     },
     {
@@ -287,9 +140,40 @@
       "formUrl": "https://www.scranton.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50059",
-        "50064",
+        "50129",
         "51462"
+      ]
+    },
+    {
+      "name": "LAKE CITY PUBLIC LIBRARY",
+      "system": "LAKE CITY PUBLIC LIBRARY",
+      "address": "110 E WASHINGTON ST, LAKE CITY, IA",
+      "website": "http://www.lcplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51449",
+        "55041",
+        "55956"
+      ]
+    },
+    {
+      "name": "AUBURN PUBLIC LIBRARY",
+      "system": "AUBURN PUBLIC LIBRARY",
+      "address": "209 PINE ST, AUBURN, IA",
+      "website": "http://www.auburn.lib.me.us",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04210",
+        "04250",
+        "04258",
+        "36804",
+        "36830",
+        "36832",
+        "36849",
+        "36879",
+        "51433"
       ]
     },
     {
@@ -300,15 +184,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51430",
-        "51436",
-        "51440",
         "51443",
-        "51444",
         "51451",
-        "51452",
-        "51459",
-        "51463"
+        "51459"
       ]
     },
     {
@@ -319,11 +197,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51441",
-        "51448",
-        "51454",
-        "51465",
-        "51520"
+        "51454"
       ]
     },
     {
@@ -334,11 +208,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51441",
-        "51448",
         "51465",
-        "51467",
-        "51520"
+        "51467"
       ]
     },
     {
@@ -351,32 +222,7 @@
       "zipcodes": [
         "51446",
         "51447",
-        "51527",
-        "51530",
-        "51562",
-        "51565",
-        "51570",
-        "51574",
-        "51578"
-      ]
-    },
-    {
-      "name": "ELK HORN PUBLIC LIBRARY",
-      "system": "ELK HORN PUBLIC LIBRARY",
-      "address": "2027 WASHINGTON, ELK HORN, IA",
-      "website": "https://www.elkhorn.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51447",
-        "51527",
-        "51530",
-        "51531",
-        "51562",
-        "51565",
-        "51570",
-        "51574",
-        "51578"
+        "51527"
       ]
     },
     {
@@ -388,29 +234,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51447",
-        "51527",
         "51530",
         "51537",
         "51562",
         "51565",
         "51570",
-        "51574",
         "51578"
-      ]
-    },
-    {
-      "name": "DOW CITY PUBLIC LIBRARY",
-      "system": "DOW CITY PUBLIC LIBRARY",
-      "address": "104 S FRANKLIN ST, DOW CITY, IA",
-      "website": "https://librarytechnology.org/library/17055",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51441",
-        "51448",
-        "51465",
-        "51520",
-        "51528"
       ]
     },
     {
@@ -422,27 +251,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "50058",
-        "51430",
-        "51436",
-        "51440",
-        "51444",
-        "51451",
-        "51452",
-        "51459",
-        "51463"
-      ]
-    },
-    {
-      "name": "SCHALLER PUBLIC LIBRARY",
-      "system": "SCHALLER PUBLIC LIBRARY",
-      "address": "103 S MAIN, SCHALLER, IA",
-      "website": "https://www.schaller.lib.ia.us/",
-      "formUrl": "https://www.schaller.lib.ia.us/services/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "50567",
-        "51053",
-        "51433"
+        "51440"
       ]
     }
   ]

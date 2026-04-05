@@ -20,12 +20,30 @@
     {
       "name": "SALEM PUBLIC LIBRARY",
       "system": "SALEM PUBLIC LIBRARY",
-      "address": "403 N JACKSON ST, SALEM, MO",
+      "address": "585 LIBERTY ST SE, SALEM, OR",
       "website": "https://salempl.org/",
       "formUrl": "https://salempl.org/purchase-suggestion/",
       "formStatus": "verified",
       "zipcodes": [
-        "65560"
+        "01960",
+        "01970",
+        "24015",
+        "24017",
+        "24153",
+        "44408",
+        "44460",
+        "44490",
+        "44625",
+        "44634",
+        "65440",
+        "65501",
+        "65541",
+        "65560",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306"
       ]
     },
     {
@@ -40,6 +58,7 @@
         "63621",
         "63623",
         "63636",
+        "63645",
         "63650",
         "63656",
         "63663",
@@ -49,19 +68,91 @@
       ]
     },
     {
+      "name": "CAMDEN COUNTY LIBRARY",
+      "system": "CAMDEN COUNTY LIBRARY",
+      "address": "89 RODEO RD, CAMDENTON, MO",
+      "website": "http://www.camden.lib.nj.us",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08003",
+        "08043",
+        "08045",
+        "08049",
+        "08083",
+        "08084",
+        "65017",
+        "65020",
+        "65047",
+        "65049",
+        "65052",
+        "65065",
+        "65079",
+        "65082",
+        "65083",
+        "65324",
+        "65567",
+        "65591",
+        "65786",
+        "65787"
+      ]
+    },
+    {
+      "name": "ROLLA PUBLIC LIBRARY",
+      "system": "ROLLA PUBLIC LIBRARY",
+      "address": "14 FIRST STREET SE, ROLLA, ND",
+      "website": "https://rollapubliclibrary.org/",
+      "formUrl": "https://rollapubliclibrary.org/services/suggest-a-purchase/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "58316",
+        "58367",
+        "58369",
+        "65401",
+        "65436",
+        "65462",
+        "65529",
+        "65550"
+      ]
+    },
+    {
       "name": "MOUNTAIN VIEW PUBLIC LIBRARY",
       "system": "MOUNTAIN VIEW PUBLIC LIBRARY",
-      "address": "125 S OAK ST, MOUNTAIN VIEW, MO",
+      "address": "585 FRANKLIN ST., MOUNTAIN VIEW, CA",
       "website": "https://mtnviewlibmo.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "65438",
         "65548",
-        "65626",
-        "65777",
-        "65788",
-        "65789",
-        "65790"
+        "94022",
+        "94024",
+        "94040",
+        "94041",
+        "94043",
+        "94087",
+        "94089",
+        "94304",
+        "94305",
+        "94306",
+        "95002",
+        "95014"
+      ]
+    },
+    {
+      "name": "CARTER COUNTY LIBRARY",
+      "system": "CARTER COUNTY LIBRARY",
+      "address": "403 ASH ST, VAN BUREN, MO",
+      "website": "https://cartercountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63937",
+        "63941",
+        "63943",
+        "63965",
+        "65466",
+        "65588"
       ]
     },
     {
@@ -92,11 +183,13 @@
     {
       "name": "CRAWFORD COUNTY LIBRARY",
       "system": "CRAWFORD COUNTY LIBRARY",
-      "address": "510 WEST MAIN STREET, STEELVILLE, MO",
+      "address": "201 PLUM STREET, GRAYLING, MI",
       "website": "https://crawfordcountylibrarydistrict.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "49733",
+        "49738",
         "65441",
         "65446",
         "65449",
@@ -114,10 +207,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65436",
-        "65462",
-        "65529",
-        "65550",
+        "65066",
         "65559"
       ]
     },
@@ -129,13 +219,18 @@
       "formUrl": "https://www.heartland.lib.mo.us/",
       "formStatus": "verified",
       "zipcodes": [
+        "65001",
         "65013",
+        "65014",
+        "65035",
+        "65048",
+        "65051",
         "65058",
+        "65062",
+        "65075",
         "65443",
-        "654HH",
         "65580",
-        "65582",
-        "655HH"
+        "65582"
       ]
     },
     {
@@ -167,6 +262,7 @@
         "65459",
         "65461",
         "65473",
+        "65486",
         "65534",
         "65556",
         "65583"

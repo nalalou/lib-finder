@@ -3,7 +3,7 @@
     {
       "name": "CALHOUN COUNTY PUBLIC LIBRARY",
       "system": "CALHOUN COUNTY PUBLIC LIBRARY",
-      "address": "200 W MAHAN ST, PORT LAVACA, TX",
+      "address": "250 MILL STREET, GRANTSVILLE, WV",
       "website": "https://cclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -18,7 +18,10 @@
         "26147",
         "26151",
         "26152",
-        "77979"
+        "77978",
+        "77979",
+        "77982",
+        "77983"
       ]
     },
     {
@@ -76,13 +79,8 @@
       "zipcodes": [
         "26101",
         "26105",
-        "26133",
         "26142",
-        "26150",
-        "26169",
-        "26180",
         "26181",
-        "26184",
         "26187"
       ]
     },
@@ -95,14 +93,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "26155",
-        "26162",
-        "26167",
-        "26186",
-        "26348",
-        "26377",
-        "26437",
-        "26562",
-        "26581"
+        "26167"
       ]
     },
     {
@@ -113,15 +104,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26159",
-        "26162",
-        "26167",
-        "26186",
-        "26348",
-        "26377",
-        "26437",
-        "26562",
-        "26581"
+        "26159"
       ]
     },
     {
@@ -133,8 +116,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "26146",
-        "26175",
-        "26320"
+        "26175"
       ]
     },
     {
@@ -173,12 +155,11 @@
     {
       "name": "JACKSON COUNTY PUBLIC LIBRARY",
       "system": "JACKSON COUNTY PUBLIC LIBRARY",
-      "address": "208 N. CHURCH ST., RIPLEY, WV",
+      "address": "338 NORTH MAIN STREET, MCKEE, KY",
       "website": "https://www.myjclibrary.org/",
       "formUrl": "https://www.myjclibrary.org/request-materials/",
       "formStatus": "verified",
       "zipcodes": [
-        "25231",
         "25239",
         "25241",
         "25244",
@@ -189,29 +170,16 @@
         "25264",
         "25271",
         "25275",
-        "25279",
-        "252HH",
         "26164",
-        "261HH"
-      ]
-    },
-    {
-      "name": "HUNDRED PUBLIC LIBRARY",
-      "system": "HUNDRED PUBLIC LIBRARY",
-      "address": "3527 HORNET HIGHWAY, HUNDRED, WV",
-      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Hundred Public Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26162",
-        "26167",
-        "26186",
-        "26348",
-        "26377",
-        "26437",
-        "26562",
-        "26575",
-        "26581"
+        "40402",
+        "40447",
+        "40481",
+        "40486",
+        "47229",
+        "47274",
+        "80434",
+        "80473",
+        "80480"
       ]
     },
     {
@@ -222,14 +190,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26162",
         "26167",
-        "26186",
         "26348",
         "26377",
         "26419",
         "26437",
-        "26562",
         "26581"
       ]
     }

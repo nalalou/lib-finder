@@ -1,22 +1,71 @@
 {
   "libraries": [
     {
+      "name": "MARION COUNTY PUBLIC LIBRARY",
+      "system": "MARION COUNTY PUBLIC LIBRARY",
+      "address": "201 EAST MAIN STREET, LEBANON, KY",
+      "website": "https://www.marioncopublic.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26554",
+        "26559",
+        "26563",
+        "26570",
+        "26571",
+        "26572",
+        "26574",
+        "26576",
+        "26582",
+        "26585",
+        "26586",
+        "26587",
+        "26588",
+        "26591",
+        "40009",
+        "40033",
+        "40037",
+        "40060",
+        "40062",
+        "40328"
+      ]
+    },
+    {
       "name": "SCOTT COUNTY PUBLIC LIBRARY",
       "system": "SCOTT COUNTY PUBLIC LIBRARY",
-      "address": "104 SOUTH BRADFORD LANE, GEORGETOWN, KY",
+      "address": "108 SOUTH MAIN STREET, SCOTTSBURG, IN",
       "website": "https://scott.lib.in.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "40324",
         "40370",
-        "40379"
+        "40379",
+        "47102",
+        "47138",
+        "47170"
+      ]
+    },
+    {
+      "name": "MADISON COUNTY PUBLIC LIBRARY",
+      "system": "MADISON COUNTY PUBLIC LIBRARY",
+      "address": "507 WEST MAIN STREET, RICHMOND, KY",
+      "website": "https://www.madisonlibrary.org/locations/richmond",
+      "formUrl": "https://www.madisonlibrary.org/locations/richmond/services/request-item",
+      "formStatus": "verified",
+      "zipcodes": [
+        "28743",
+        "28753",
+        "28754",
+        "40385",
+        "40403",
+        "40475"
       ]
     },
     {
       "name": "CLARK COUNTY PUBLIC LIBRARY",
       "system": "CLARK COUNTY PUBLIC LIBRARY",
-      "address": "370 SOUTH BURNS AVENUE, WINCHESTER, KY",
+      "address": "201 S. FOUNTAIN AVE., SPRINGFIELD, OH",
       "website": "https://www.ccplohio.org/",
       "formUrl": "https://www.ccplohio.org/suggest-a-purchase/",
       "formStatus": "verified",
@@ -24,7 +73,6 @@
         "40391",
         "43010",
         "45323",
-        "45341",
         "45349",
         "45368",
         "45369",
@@ -32,22 +80,27 @@
         "45503",
         "45504",
         "45505",
-        "45506",
-        "455HH"
+        "45506"
       ]
     },
     {
       "name": "OWEN COUNTY PUBLIC LIBRARY",
       "system": "OWEN COUNTY PUBLIC LIBRARY",
-      "address": "1370 HIGHWAY 22 EAST, OWENTON, KY",
+      "address": "10 SOUTH MONTGOMERY STREET, SPENCER, IN",
       "website": "https://owenlib.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40355",
         "40359",
         "40363",
-        "41098"
+        "41098",
+        "47427",
+        "47431",
+        "47433",
+        "47455",
+        "47456",
+        "47460",
+        "47868"
       ]
     },
     {
@@ -58,8 +111,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40342",
-        "403HH"
+        "40342"
       ]
     },
     {

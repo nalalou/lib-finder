@@ -3,12 +3,26 @@
     {
       "name": "DOUGLAS COUNTY PUBLIC LIBRARY",
       "system": "DOUGLAS COUNTY PUBLIC LIBRARY",
-      "address": "301 W. WEBSTER AVENUE, AVA, MO",
+      "address": "1625 LIBRARY LANE, MINDEN, NV",
       "website": "https://wgrls.org/douglas-county-public-library/",
       "formUrl": "https://wgrls.org/services/purchase-suggestion/",
       "formStatus": "verified",
       "zipcodes": [
         "65608",
+        "65614",
+        "65618",
+        "65638",
+        "65655",
+        "65676",
+        "65715",
+        "65729",
+        "65733",
+        "65744",
+        "65755",
+        "65761",
+        "65762",
+        "65768",
+        "65773",
         "89410",
         "89411",
         "89413",
@@ -16,7 +30,6 @@
         "89444",
         "89448",
         "89449",
-        "894HH",
         "89705"
       ]
     },
@@ -37,7 +50,6 @@
         "89439",
         "89442",
         "89451",
-        "894XX",
         "89501",
         "89502",
         "89503",
@@ -48,7 +60,6 @@
         "89511",
         "89512",
         "89523",
-        "895XX",
         "89704"
       ]
     },
@@ -60,11 +71,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "89440",
         "89701",
         "89703",
-        "89706",
-        "897HH",
-        "897XX"
+        "89706"
       ]
     }
   ]

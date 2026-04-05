@@ -11,7 +11,6 @@
         "47106",
         "47111",
         "47126",
-        "47129",
         "47130",
         "47141",
         "47143",
@@ -19,8 +18,7 @@
         "47162",
         "47163",
         "47172",
-        "47177",
-        "471HH"
+        "47177"
       ]
     },
     {
@@ -31,26 +29,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47106",
-        "47126",
         "47129",
         "47130",
         "47131",
-        "47141",
-        "47143",
-        "47147",
-        "47162",
-        "47163",
-        "47172",
-        "47177",
-        "471HH"
+        "47172"
       ]
     },
     {
       "name": "CRAWFORD COUNTY PUBLIC LIBRARY",
       "system": "CRAWFORD COUNTY PUBLIC LIBRARY",
       "address": "203 INDIANA AVENUE, ENGLISH, IN",
-      "website": "https://www.ccpl.lib.in.us/",
+      "website": "http://bibblib.org/locations/crawford-county-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -60,7 +49,6 @@
         "47137",
         "47140",
         "47145",
-        "47174",
         "47175"
       ]
     },
@@ -100,6 +88,22 @@
       ]
     },
     {
+      "name": "SCOTT COUNTY PUBLIC LIBRARY",
+      "system": "SCOTT COUNTY PUBLIC LIBRARY",
+      "address": "108 SOUTH MAIN STREET, SCOTTSBURG, IN",
+      "website": "https://scott.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40324",
+        "40370",
+        "40379",
+        "47102",
+        "47138",
+        "47170"
+      ]
+    },
+    {
       "name": "SALEM-WASHINGTON TOWNSHIP PUBLIC LIBRARY",
       "system": "SALEM-WASHINGTON TOWNSHIP PUBLIC LIBRARY",
       "address": "212 NORTH MAIN STREET, SALEM, IN",
@@ -110,7 +114,6 @@
         "47108",
         "47120",
         "47125",
-        "47139",
         "47165",
         "47167"
       ]

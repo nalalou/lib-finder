@@ -1,30 +1,6 @@
 {
   "libraries": [
     {
-      "name": "PINE RIVER PUBLIC LIBRARY DISTRICT/BAYFIELD",
-      "system": "PINE RIVER PUBLIC LIBRARY DISTRICT/BAYFIELD",
-      "address": "395 BAYFIELD CENTER DRIVE, BAYFIELD, CO",
-      "website": "https://www.prlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "81122",
-        "81326"
-      ]
-    },
-    {
-      "name": "IGNACIO COMMUNITY LIBRARY DISTRICT",
-      "system": "IGNACIO COMMUNITY LIBRARY DISTRICT",
-      "address": "470 GODDARD AVE, IGNACIO, CO",
-      "website": "https://www.ignaciolibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "81137",
-        "81326"
-      ]
-    },
-    {
       "name": "CORTEZ PUBLIC LIBRARY",
       "system": "CORTEZ PUBLIC LIBRARY",
       "address": "202 NORTH PARK, CORTEZ, CO",
@@ -33,7 +9,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "81321",
-        "81327",
         "81330",
         "81331",
         "81334",
@@ -50,8 +25,7 @@
       "zipcodes": [
         "81320",
         "81324",
-        "81332",
-        "813XX"
+        "81332"
       ]
     },
     {
@@ -63,11 +37,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "81323",
-        "81327",
-        "81330",
-        "81331",
-        "81334",
-        "81335"
+        "81327"
       ]
     },
     {
@@ -78,8 +48,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "81301",
-        "81326"
+        "81301"
       ]
     },
     {
@@ -90,12 +59,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "81327",
-        "81328",
-        "81330",
-        "81331",
-        "81334",
-        "81335"
+        "81328"
       ]
     },
     {
@@ -119,23 +83,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "81325",
-        "81423",
-        "81426",
-        "81430"
-      ]
-    },
-    {
-      "name": "SAN MIGUEL LIBRARY DISTRICT # 1 (TELLURIDE)",
-      "system": "SAN MIGUEL LIBRARY DISTRICT # 1 (TELLURIDE)",
-      "address": "100 W. PACIFIC AVE., TELLURIDE, CO",
-      "website": "https://telluridelibrary.org/",
-      "formUrl": "https://telluridelibrary.org/books-more/purchase-suggestion-form/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "81325",
-        "81426",
-        "81430",
-        "81435"
+        "81423"
       ]
     }
   ]

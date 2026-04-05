@@ -3,15 +3,25 @@
     {
       "name": "RUSHVILLE PUBLIC LIBRARY",
       "system": "RUSHVILLE PUBLIC LIBRARY",
-      "address": "514 MAPLE AVE, RUSHVILLE, IL",
+      "address": "130 WEST THIRD STREET, RUSHVILLE, IN",
       "website": "https://rushvilleillinois.us/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46104",
+        "46127",
+        "46150",
+        "46155",
+        "46156",
+        "46173",
+        "61452",
+        "62319",
+        "62344",
+        "62624",
+        "62639",
         "62681",
         "69335",
         "69340",
-        "69351",
         "69360",
         "69365"
       ]
@@ -19,15 +29,72 @@
     {
       "name": "MITCHELL PUBLIC LIBRARY",
       "system": "MITCHELL PUBLIC LIBRARY",
-      "address": "1449 CENTER AVENUE, MITCHELL, NE",
+      "address": "221 N DUFF STREET, MITCHELL, SD",
       "website": "https://www.cityofmitchellsd.gov/156/Library",
       "formUrl": "https://www.cityofmitchellsd.gov/156/Library/161/Interlibrary-Loans",
       "formStatus": "verified",
       "zipcodes": [
         "57301",
+        "57311",
         "57334",
+        "57340",
         "57363",
         "69357"
+      ]
+    },
+    {
+      "name": "BRIDGEPORT PUBLIC LIBRARY",
+      "system": "BRIDGEPORT PUBLIC LIBRARY",
+      "address": "925 BROAD ST., BRIDGEPORT, CT",
+      "website": "https://bportlibrary.org/",
+      "formUrl": "https://bportlibrary.org/books/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "06604",
+        "06605",
+        "06606",
+        "06607",
+        "06608",
+        "06610",
+        "06614",
+        "26323",
+        "26330",
+        "26361",
+        "26366",
+        "26369",
+        "26386",
+        "26404",
+        "26422",
+        "26438",
+        "26568",
+        "48601",
+        "48602",
+        "48603",
+        "48604",
+        "48722",
+        "48724",
+        "69331",
+        "69336",
+        "76073",
+        "76426"
+      ]
+    },
+    {
+      "name": "BAYARD PUBLIC LIBRARY",
+      "system": "BAYARD PUBLIC LIBRARY",
+      "address": "509 AVENUE A, BAYARD, NE",
+      "website": "https://www.bayard.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50029",
+        "69334",
+        "88022",
+        "88023",
+        "88026",
+        "88041",
+        "88043",
+        "88049"
       ]
     },
     {
@@ -38,9 +105,7 @@
       "formUrl": "https://chadron-nebraska.com/274/Public-Library/FormCenter/Library-5/Interlibrary-Loan-Purchase-Request-45",
       "formStatus": "verified",
       "zipcodes": [
-        "69337",
-        "69354",
-        "69367"
+        "69337"
       ]
     },
     {
@@ -65,7 +130,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69341",
-        "69349",
+        "69345",
         "69355"
       ]
     },
@@ -77,12 +142,7 @@
       "formUrl": "https://gordoncitylibrary.org/using-the-library/interlibrary-loan/",
       "formStatus": "verified",
       "zipcodes": [
-        "69335",
-        "69340",
-        "69343",
-        "69351",
-        "69360",
-        "69365"
+        "69343"
       ]
     },
     {
@@ -93,12 +153,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69335",
-        "69340",
         "69347",
-        "69351",
-        "69360",
-        "69365"
+        "69351"
       ]
     },
     {
@@ -113,6 +169,30 @@
       ]
     },
     {
+      "name": "GRANT COUNTY LIBRARY",
+      "system": "GRANT COUNTY LIBRARY",
+      "address": "105 E HARRISON ST., HYANNIS, NE",
+      "website": "https://www.grantcolib.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67880",
+        "69333",
+        "69350",
+        "69366",
+        "97817",
+        "97820",
+        "97825",
+        "97845",
+        "97848",
+        "97856",
+        "97864",
+        "97865",
+        "97869",
+        "97873"
+      ]
+    },
+    {
       "name": "LYMAN PUBLIC LIBRARY",
       "system": "LYMAN PUBLIC LIBRARY",
       "address": "313 JEFFERS STREET, LYMAN, NE",
@@ -120,9 +200,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69349",
-        "69352",
-        "69355"
+        "69352"
       ]
     },
     {
@@ -133,7 +211,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69349",
         "69355",
         "69356"
       ]
@@ -146,8 +223,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69349",
-        "69355",
         "69358"
       ]
     },
@@ -159,7 +234,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69349",
         "69355",
         "69361"
       ]
@@ -184,20 +258,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69346"
-      ]
-    },
-    {
-      "name": "BROADWATER PUBLIC LIBRARY",
-      "system": "BROADWATER PUBLIC LIBRARY",
-      "address": "251 N STARR ST, BROADWATER, NE",
-      "website": "https://libs.ne.gov/broadwater",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "69125",
-        "69331",
-        "69334",
-        "69336"
       ]
     }
   ]

@@ -1,24 +1,9 @@
 {
   "libraries": [
     {
-      "name": "STRATFORD - CHANDLER-WATTS LIBRARY",
-      "system": "STRATFORD - CHANDLER-WATTS LIBRARY",
-      "address": "340 N OAK, STRATFORD, OK",
-      "website": "https://cwlibrary.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73074",
-        "73433",
-        "73434",
-        "73444",
-        "74872"
-      ]
-    },
-    {
       "name": "DUNCAN PUBLIC LIBRARY",
       "system": "DUNCAN PUBLIC LIBRARY",
-      "address": "122 N HWY 75, DUNCAN, AZ",
+      "address": "3785 N. HIGHWAY 81, DUNCAN, OK",
       "website": "https://greenleelibraries.org/duncan-library-information/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -28,8 +13,22 @@
         "73491",
         "73529",
         "73533",
-        "73548",
-        "85534"
+        "73548"
+      ]
+    },
+    {
+      "name": "ARDMORE PUBLIC LIBRARY",
+      "system": "ARDMORE PUBLIC LIBRARY",
+      "address": "320 E STREET NW, ARDMORE, OK",
+      "website": "https://ardmore.okpls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38449",
+        "38477",
+        "73032",
+        "73401",
+        "73443"
       ]
     },
     {
@@ -41,15 +40,17 @@
       "formStatus": "unknown",
       "zipcodes": [
         "73401",
-        "73435",
+        "73430",
         "73437",
         "73438",
         "73443",
+        "73448",
+        "73453",
         "73458",
+        "73459",
         "73463",
         "73481",
-        "73487",
-        "73488"
+        "73487"
       ]
     },
     {
@@ -62,7 +63,12 @@
       "zipcodes": [
         "73439",
         "73440",
-        "73446"
+        "73446",
+        "73447",
+        "73450",
+        "73455",
+        "73460",
+        "74856"
       ]
     },
     {
@@ -73,10 +79,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73441",
         "73456",
-        "73520",
-        "73561",
-        "73565",
         "73569"
       ]
     },
@@ -89,42 +93,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "73052",
-        "73074",
-        "73433",
-        "73434",
-        "73444"
-      ]
-    },
-    {
-      "name": "MARLOW - GARLAND SMITH PUBLIC LIBRARY",
-      "system": "MARLOW - GARLAND SMITH PUBLIC LIBRARY",
-      "address": "702 W. MAIN, MARLOW, OK",
-      "website": "https://www.garlandsmithpubliclibrary.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73055",
-        "73425",
-        "73442",
-        "73491",
-        "73529",
-        "73533",
-        "73548"
-      ]
-    },
-    {
-      "name": "MAYSVILLE PUBLIC LIBRARY",
-      "system": "MAYSVILLE PUBLIC LIBRARY",
-      "address": "506 WILLIAMS, MAYSVILLE, OK",
-      "website": "https://maysvillelibrary.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73057",
-        "73074",
-        "73433",
-        "73434",
-        "73444"
+        "73434"
       ]
     },
     {
@@ -137,9 +106,7 @@
       "zipcodes": [
         "73074",
         "73075",
-        "73433",
-        "73434",
-        "73444"
+        "73433"
       ]
     },
     {
@@ -150,10 +117,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73074",
+        "73030",
+        "73086",
         "73098",
-        "73433",
-        "73434",
         "73444"
       ]
     },
@@ -165,11 +131,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73432",
         "73449",
-        "734HH",
+        "73461",
+        "74533",
         "74701",
         "74720",
-        "74721",
         "74723",
         "74726",
         "74729",
@@ -178,8 +145,8 @@
         "74733",
         "74741",
         "74747",
-        "74753",
-        "747HH"
+        "74748",
+        "74753"
       ]
     }
   ]

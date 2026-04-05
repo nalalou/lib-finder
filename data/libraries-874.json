@@ -1,31 +1,66 @@
 {
   "libraries": [
     {
+      "name": "BLOOMFIELD PUBLIC LIBRARY",
+      "system": "BLOOMFIELD PUBLIC LIBRARY",
+      "address": "90 BROAD STREET, BLOOMFIELD, NJ",
+      "website": "https://www.bplnj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06002",
+        "06089",
+        "06117",
+        "07003",
+        "07017",
+        "07107",
+        "14475",
+        "14585",
+        "17020",
+        "17024",
+        "17040",
+        "17062",
+        "17068",
+        "17074",
+        "17090",
+        "52537",
+        "52552",
+        "52560",
+        "52584",
+        "63735",
+        "63825",
+        "63846",
+        "68718",
+        "87037",
+        "87412",
+        "87413",
+        "87415"
+      ]
+    },
+    {
       "name": "FARMINGTON PUBLIC LIBRARY",
       "system": "FARMINGTON PUBLIC LIBRARY",
-      "address": "117 ACADEMY STREET, FARMINGTON, ME",
+      "address": "101 NORTH A STREET, FARMINGTON, MO",
       "website": "http://www.infoway.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "04938",
-        "87037",
+        "04984",
+        "63637",
+        "63640",
+        "63670",
+        "63673",
         "87364",
         "87401",
         "87402",
-        "87412",
-        "87413",
         "87415",
         "87416",
         "87417",
-        "87418",
-        "87419",
         "87420",
         "87421",
         "87455",
-        "87461",
-        "874HH",
-        "874XX"
+        "87461"
       ]
     },
     {
@@ -36,24 +71,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87037",
-        "87364",
-        "87401",
         "87402",
         "87410",
-        "87412",
-        "87413",
         "87415",
-        "87416",
-        "87417",
         "87418",
-        "87419",
-        "87420",
-        "87421",
-        "87455",
-        "87461",
-        "874HH",
-        "874XX"
+        "87419"
       ]
     }
   ]

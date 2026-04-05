@@ -3,29 +3,29 @@
     {
       "name": "WESTCHESTER PUBLIC LIBRARY",
       "system": "WESTCHESTER PUBLIC LIBRARY",
-      "address": "200 WEST INDIANA AVENUE, CHESTERTON, IN",
+      "address": "10700 CANTERBURY STREET, WESTCHESTER, IL",
       "website": "https://wpl.lib.in.us/",
       "formUrl": "https://wpl.lib.in.us/suggest-a-purchase/",
       "formStatus": "verified",
       "zipcodes": [
         "46301",
         "46304",
-        "46341",
-        "46347",
         "46368",
-        "46385",
-        "46393"
+        "46393",
+        "60154"
       ]
     },
     {
       "name": "NEWTON COUNTY PUBLIC LIBRARY",
       "system": "NEWTON COUNTY PUBLIC LIBRARY",
-      "address": "9444 NORTH 315 WEST, LAKE VILLAGE, IN",
+      "address": "212 HIGH ST, NEWTON, TX",
       "website": "https://www.newtoncountypubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "46349",
+        "46379",
+        "46381",
         "75928",
         "75932",
         "75933",
@@ -35,24 +35,9 @@
       ]
     },
     {
-      "name": "STARKE COUNTY PUBLIC LIBRARY SYSTEM",
-      "system": "STARKE COUNTY PUBLIC LIBRARY SYSTEM",
-      "address": "152 WEST CULVER ROAD, KNOX, IN",
-      "website": "https://scpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46374",
-        "46531",
-        "46532",
-        "46534",
-        "46968"
-      ]
-    },
-    {
       "name": "LAKE COUNTY PUBLIC LIBRARY",
       "system": "LAKE COUNTY PUBLIC LIBRARY",
-      "address": "1919 WEST 81ST AVENUE, MERRILLVILLE, IN",
+      "address": "1115 HARRISON AVE, LEADVILLE, CO",
       "website": "https://www.lakecountypubliclibrary.org/",
       "formUrl": "https://www.lakecountypubliclibrary.org/request-our-book-bike-mobile-checkout",
       "formStatus": "verified",
@@ -61,25 +46,16 @@
         "46311",
         "46319",
         "46321",
-        "46322",
-        "46323",
-        "46324",
-        "46327",
         "46342",
         "46373",
         "46375",
-        "46376",
-        "46377",
-        "463HH",
-        "46403",
-        "46404",
         "46405",
-        "46406",
         "46407",
         "46408",
         "46409",
         "46410",
-        "464HH"
+        "80461",
+        "81251"
       ]
     },
     {
@@ -90,20 +66,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46303",
-        "46311",
         "46319",
-        "46321",
         "46322",
         "46323",
-        "46324",
-        "46327",
         "46342",
-        "46373",
-        "46375",
-        "46376",
-        "46377",
-        "463HH",
         "46402",
         "46403",
         "46404",
@@ -112,54 +78,21 @@
         "46407",
         "46408",
         "46409",
-        "464HH"
+        "46410"
       ]
     },
     {
       "name": "WHITING PUBLIC LIBRARY",
       "system": "WHITING PUBLIC LIBRARY",
-      "address": "1735 OLIVER STREET, WHITING, IN",
+      "address": "407 WHITTIER ST, WHITING, IA",
       "website": "https://www.whiting.lib.ia.us/",
       "formUrl": "https://www.whiting.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "46303",
-        "46311",
-        "46319",
-        "46321",
-        "46322",
-        "46323",
         "46324",
         "46327",
-        "46342",
-        "46373",
-        "46375",
-        "46376",
-        "46377",
         "46394",
-        "463HH",
-        "46403",
-        "46404",
-        "46405",
-        "46406",
-        "46407",
-        "46408",
-        "46409",
-        "464HH"
-      ]
-    },
-    {
-      "name": "REMINGTON-CARPENTER TOWNSHIP PUBLIC LIBRARY",
-      "system": "REMINGTON-CARPENTER TOWNSHIP PUBLIC LIBRARY",
-      "address": "105 NORTH OHIO STREET, REMINGTON, IN",
-      "website": "http://rctpl.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46310",
-        "46392",
-        "47943",
-        "47977"
+        "51063"
       ]
     },
     {
@@ -177,51 +110,6 @@
       ]
     },
     {
-      "name": "BROOK-IROQUOIS-WASHINGTON TOWNSHIP PUBLIC LIBRARY",
-      "system": "BROOK-IROQUOIS-WASHINGTON TOWNSHIP PUBLIC LIBRARY",
-      "address": "100 WEST MAIN STREET, BROOK, IN",
-      "website": "https://www.brook.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46379",
-        "46381",
-        "47922",
-        "47963",
-        "47964"
-      ]
-    },
-    {
-      "name": "KENTLAND-JEFFERSON TOWNSHIP PUBLIC LIBRARY",
-      "system": "KENTLAND-JEFFERSON TOWNSHIP PUBLIC LIBRARY",
-      "address": "201 EAST GRAHAM STREET, KENTLAND, IN",
-      "website": "https://www.kentland.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46379",
-        "46381",
-        "47951",
-        "47963",
-        "47964"
-      ]
-    },
-    {
-      "name": "GOODLAND & GRANT TOWNSHIP PUBLIC LIBRARY",
-      "system": "GOODLAND & GRANT TOWNSHIP PUBLIC LIBRARY",
-      "address": "111 SOUTH NEWTON STREET, GOODLAND, IN",
-      "website": "https://www.google.com/search?q=GOODLAND+&+GRANT+TOWNSHIP+PUBLIC+LIBRARY+GOODLAND+IN+library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46379",
-        "46381",
-        "47948",
-        "47963",
-        "47964"
-      ]
-    },
-    {
       "name": "EAST CHICAGO PUBLIC LIBRARY",
       "system": "EAST CHICAGO PUBLIC LIBRARY",
       "address": "2401 EAST COLUMBUS DRIVE, EAST CHICAGO, IN",
@@ -229,8 +117,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46303",
-        "46311",
         "46312",
         "46319",
         "46321",
@@ -238,20 +124,13 @@
         "46323",
         "46324",
         "46327",
-        "46342",
-        "46373",
-        "46375",
-        "46376",
-        "46377",
-        "463HH",
+        "46394",
         "46403",
         "46404",
-        "46405",
         "46406",
         "46407",
         "46408",
-        "46409",
-        "464HH"
+        "46409"
       ]
     },
     {
@@ -262,29 +141,16 @@
       "formUrl": "https://www.hammondlibrary.org/suggest-a-purchase",
       "formStatus": "verified",
       "zipcodes": [
-        "46303",
-        "46311",
-        "46319",
         "46320",
         "46321",
         "46322",
         "46323",
         "46324",
         "46327",
-        "46342",
-        "46373",
         "46375",
-        "46376",
-        "46377",
-        "463HH",
-        "46403",
+        "46394",
         "46404",
-        "46405",
-        "46406",
-        "46407",
-        "46408",
-        "46409",
-        "464HH"
+        "46406"
       ]
     },
     {
@@ -298,26 +164,10 @@
         "46303",
         "46307",
         "46311",
-        "46319",
-        "46321",
-        "46322",
-        "46323",
-        "46324",
-        "46327",
         "46342",
         "46373",
         "46375",
-        "46376",
-        "46377",
-        "463HH",
-        "46403",
-        "46404",
-        "46405",
-        "46406",
-        "46407",
-        "46408",
-        "46409",
-        "464HH"
+        "46410"
       ]
     },
     {
@@ -351,13 +201,24 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46340",
-        "46345",
-        "46346",
-        "46348",
-        "46365",
-        "46371",
         "46382",
         "46390"
+      ]
+    },
+    {
+      "name": "LA CROSSE PUBLIC LIBRARY",
+      "system": "LA CROSSE PUBLIC LIBRARY",
+      "address": "307 E MAIN STREET, LA CROSSE, IN",
+      "website": "https://www.lacrosselibrary.org",
+      "formUrl": "https://www.lacrosselibrary.org/purchase-suggestions",
+      "formStatus": "verified",
+      "zipcodes": [
+        "46340",
+        "46348",
+        "54601",
+        "54603",
+        "54650",
+        "54653"
       ]
     },
     {
@@ -368,14 +229,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46340",
         "46345",
         "46346",
-        "46348",
         "46350",
         "46365",
-        "46371",
-        "46382"
+        "46371"
       ]
     },
     {
@@ -386,10 +244,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46301",
         "46341",
         "46347",
-        "46368",
         "46383",
         "46385",
         "46393"
@@ -404,10 +260,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46366",
-        "46374",
-        "46531",
-        "46532",
-        "46968"
+        "46374"
       ]
     },
     {
@@ -419,28 +272,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46303",
-        "46311",
-        "46319",
-        "46321",
-        "46322",
-        "46323",
-        "46324",
-        "46327",
-        "46342",
         "46356",
-        "46373",
-        "46375",
         "46376",
-        "46377",
-        "463HH",
-        "46403",
-        "46404",
-        "46405",
-        "46406",
-        "46407",
-        "46408",
-        "46409",
-        "464HH"
+        "46377"
       ]
     }
   ]

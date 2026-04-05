@@ -3,31 +3,118 @@
     {
       "name": "GENEVA PUBLIC LIBRARY",
       "system": "GENEVA PUBLIC LIBRARY",
-      "address": "244 MAIN STREET, GENEVA, NY",
+      "address": "1043 G STREET, GENEVA, NE",
       "website": "http://www.genevane.org/379/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14425",
         "14456",
-        "14466",
-        "14475",
-        "14548",
         "14561",
-        "14585"
+        "68361",
+        "68365",
+        "68444"
+      ]
+    },
+    {
+      "name": "LYONS PUBLIC LIBRARY",
+      "system": "LYONS PUBLIC LIBRARY",
+      "address": "279 8TH ST, LYONS, OR",
+      "website": "https://lyonsne.com/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "14489",
+        "14513",
+        "60534",
+        "67524",
+        "67554",
+        "68020",
+        "68038",
+        "68045",
+        "97350",
+        "97358",
+        "97360"
+      ]
+    },
+    {
+      "name": "BLOOMFIELD PUBLIC LIBRARY",
+      "system": "BLOOMFIELD PUBLIC LIBRARY",
+      "address": "90 BROAD STREET, BLOOMFIELD, NJ",
+      "website": "https://www.bplnj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06002",
+        "06089",
+        "06117",
+        "07003",
+        "07017",
+        "07107",
+        "14475",
+        "14585",
+        "17020",
+        "17024",
+        "17040",
+        "17062",
+        "17068",
+        "17074",
+        "17090",
+        "52537",
+        "52552",
+        "52560",
+        "52584",
+        "63735",
+        "63825",
+        "63846",
+        "68718",
+        "87037",
+        "87412",
+        "87413",
+        "87415"
+      ]
+    },
+    {
+      "name": "MARION PUBLIC LIBRARY",
+      "system": "MARION PUBLIC LIBRARY",
+      "address": "120 N. MAIN ST., MARION, WI",
+      "website": "https://marionpubliclibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "14505",
+        "14513",
+        "43302",
+        "43314",
+        "43322",
+        "43332",
+        "43337",
+        "43341",
+        "43342",
+        "43356",
+        "46952",
+        "46953",
+        "46987",
+        "52302",
+        "52328",
+        "52341",
+        "52402",
+        "52403",
+        "52411",
+        "54933",
+        "54950"
       ]
     },
     {
       "name": "WEBSTER PUBLIC LIBRARY",
       "system": "WEBSTER PUBLIC LIBRARY",
-      "address": "WEBSTER PLAZA, 980 RIDGE ROAD, WEBSTER, NY",
+      "address": "800 MAIN STREET, WEBSTER, SD",
       "website": "https://webster.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "14580",
+        "14622",
         "57219",
-        "57239",
         "57261",
         "57274",
         "57422",
@@ -37,75 +124,57 @@
     {
       "name": "WOLCOTT PUBLIC LIBRARY",
       "system": "WOLCOTT PUBLIC LIBRARY",
-      "address": "5890 NEW HARTFORD STREET, WOLCOTT, NY",
+      "address": "469 BOUND LINE ROAD, WOLCOTT, CT",
       "website": "https://wolcottlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "06704",
+        "06705",
+        "06710",
+        "06716",
         "13146",
-        "14489",
-        "14505",
-        "14513",
         "14516",
-        "14519",
         "14555",
-        "14589",
         "14590"
+      ]
+    },
+    {
+      "name": "NEWARK PUBLIC LIBRARY",
+      "system": "NEWARK PUBLIC LIBRARY",
+      "address": "5 WASHINGTON STREET, NEWARK, NJ",
+      "website": "https://www.npl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07102",
+        "07103",
+        "07104",
+        "07105",
+        "07107",
+        "07108",
+        "07112",
+        "07114",
+        "14489",
+        "14513",
+        "76023",
+        "76071"
       ]
     },
     {
       "name": "PERRY PUBLIC LIBRARY",
       "system": "PERRY PUBLIC LIBRARY",
-      "address": "70 NORTH MAIN STREET, PERRY, NY",
+      "address": "3753 MAIN ST., PERRY, OH",
       "website": "https://houpl.org/?page_id=11",
       "formUrl": "https://houpl.org/?page_id=11/services/interlibrary_loan_program.php",
       "formStatus": "verified",
       "zipcodes": [
         "14530",
         "44057",
-        "44081"
-      ]
-    },
-    {
-      "name": "DUNDEE LIBRARY",
-      "system": "DUNDEE LIBRARY",
-      "address": "32 WATER STREET, DUNDEE, NY",
-      "website": "https://dundeelib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14415",
-        "14441",
-        "14478",
-        "14507",
-        "14544",
-        "14837",
-        "14842",
-        "14857"
-      ]
-    },
-    {
-      "name": "INTERLAKEN PUBLIC LIBRARY",
-      "system": "INTERLAKEN PUBLIC LIBRARY",
-      "address": "8390 MAIN STREET, INTERLAKEN, NY",
-      "website": "https://www.interlaken-ny.us/library.html",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14541",
-        "14847"
-      ]
-    },
-    {
-      "name": "LODI WHITTIER LIBRARY",
-      "system": "LODI WHITTIER LIBRARY",
-      "address": "8484 SOUTH MAIN STREET, LODI, NY",
-      "website": "https://www.lodilibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14541",
-        "14860"
+        "44081",
+        "50039",
+        "50066",
+        "50220"
       ]
     },
     {
@@ -116,14 +185,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14415",
         "14418",
-        "14441",
         "14478",
         "14507",
-        "14544",
-        "14842",
-        "14857"
+        "14842"
       ]
     },
     {
@@ -141,20 +206,6 @@
       ]
     },
     {
-      "name": "COMMUNITY FREE LIBRARY",
-      "system": "COMMUNITY FREE LIBRARY",
-      "address": "86 PUBLIC SQUARE, HOLLEY, NY",
-      "website": "http://www.holleylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14470",
-        "14476",
-        "14477",
-        "14571"
-      ]
-    },
-    {
       "name": "AVON FREE LIBRARY",
       "system": "AVON FREE LIBRARY",
       "address": "143 GENESEE STREET, AVON, NY",
@@ -163,43 +214,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "14414",
-        "14435",
-        "14462",
         "14480",
-        "14481",
-        "14485",
-        "14487",
-        "144HH",
-        "14533",
-        "14545",
-        "14560",
-        "145HH",
-        "14836",
-        "14846"
-      ]
-    },
-    {
-      "name": "CALEDONIA LIBRARY ASSOCIATION",
-      "system": "CALEDONIA LIBRARY ASSOCIATION",
-      "address": "3108 MAIN STREET, CALEDONIA, NY",
-      "website": "https://caledonialibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14423",
-        "14435",
-        "14462",
-        "14480",
-        "14481",
-        "14485",
-        "14487",
-        "144HH",
-        "14533",
-        "14545",
-        "14560",
-        "145HH",
-        "14836",
-        "14846"
+        "14533"
       ]
     },
     {
@@ -210,20 +226,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14435",
         "14437",
         "14462",
-        "14480",
-        "14481",
-        "14485",
-        "14487",
-        "144HH",
-        "14533",
         "14545",
         "14560",
-        "145HH",
-        "14836",
-        "14846"
+        "14836"
       ]
     },
     {
@@ -239,74 +246,7 @@
         "14462",
         "14480",
         "14481",
-        "14485",
-        "14487",
-        "144HH",
-        "14533",
-        "14545",
-        "14560",
-        "145HH",
-        "14836",
-        "14846"
-      ]
-    },
-    {
-      "name": "LIVONIA PUBLIC LIBRARY",
-      "system": "LIVONIA PUBLIC LIBRARY",
-      "address": "32777 FIVE MILE ROAD, LIVONIA, MI",
-      "website": "https://livonialibrary.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14435",
-        "14462",
-        "14480",
-        "14481",
-        "14485",
-        "14487",
-        "144HH",
-        "14533",
-        "14545",
-        "14560",
-        "145HH",
-        "14836",
-        "14846",
-        "48154"
-      ]
-    },
-    {
-      "name": "SEYMOUR LIBRARY",
-      "system": "SEYMOUR LIBRARY",
-      "address": "161 EAST AVE, BROCKPORT, NY",
-      "website": "https://seymourlibraryweb.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14420",
-        "14445",
-        "14467",
-        "14506",
-        "14514",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "14533"
       ]
     },
     {
@@ -318,135 +258,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "14428",
-        "14445",
-        "14467",
-        "14506",
-        "14514",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
-      ]
-    },
-    {
-      "name": "EAST ROCHESTER PUBLIC LIBRARY",
-      "system": "EAST ROCHESTER PUBLIC LIBRARY",
-      "address": "935 PORTLAND STREET, EAST ROCHESTER, NH",
-      "website": "https://librarytechnology.org/library/21455",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03868",
-        "14445",
-        "14467",
-        "14506",
-        "14514",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
-      ]
-    },
-    {
-      "name": "FAIRPORT PUBLIC LIBRARY",
-      "system": "FAIRPORT PUBLIC LIBRARY",
-      "address": "1 VILLAGE LANDING, FAIRPORT, NY",
-      "website": "https://www.fairportlibrary.org/",
-      "formUrl": "https://www.fairportlibrary.org/catalog/suggest-a-title/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "14445",
-        "14450",
-        "14467",
-        "14506",
-        "14514",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
-      ]
-    },
-    {
-      "name": "PARMA PUBLIC LIBRARY",
-      "system": "PARMA PUBLIC LIBRARY",
-      "address": "7 WEST AVENUE, HILTON, NY",
-      "website": "https://www.parmapubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14445",
-        "14467",
-        "14468",
-        "14506",
-        "14514",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "14514"
       ]
     },
     {
@@ -457,31 +269,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14445",
         "14467",
         "14472",
-        "14506",
-        "14514",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "14506"
       ]
     },
     {
@@ -492,29 +282,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14425",
         "14466",
         "14469",
         "14475",
-        "14548",
-        "14561",
-        "14585"
-      ]
-    },
-    {
-      "name": "BRISTOL LIBRARY",
-      "system": "BRISTOL LIBRARY",
-      "address": "6750 COUNTY ROAD 32, CANANDAIGUA, NY",
-      "website": "https://www.thebristollibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14424",
-        "14425",
-        "14466",
-        "14475",
-        "14548",
-        "14561",
         "14585"
       ]
     },
@@ -528,11 +298,8 @@
       "zipcodes": [
         "14424",
         "14425",
-        "14466",
-        "14475",
         "14548",
-        "14561",
-        "14585"
+        "14561"
       ]
     },
     {
@@ -543,13 +310,8 @@
       "formUrl": "https://cliftonspringslibrary.com/suggest-a-book/",
       "formStatus": "verified",
       "zipcodes": [
-        "14425",
         "14432",
-        "14466",
-        "14475",
-        "14548",
-        "14561",
-        "14585"
+        "14548"
       ]
     },
     {
@@ -560,13 +322,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14425",
+        "14456",
         "14461",
-        "14466",
-        "14475",
-        "14548",
-        "14561",
-        "14585"
+        "14561"
       ]
     },
     {
@@ -577,88 +335,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14425",
         "14466",
         "14471",
-        "14475",
-        "14548",
-        "14561",
         "14585"
-      ]
-    },
-    {
-      "name": "CLYDE-SAVANNAH PUBLIC LIBRARY",
-      "system": "CLYDE-SAVANNAH PUBLIC LIBRARY",
-      "address": "204 GLASGOW STREET, CLYDE, NY",
-      "website": "https://clyde.owwl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "13146",
-        "14433",
-        "14489",
-        "14505",
-        "14513",
-        "14516",
-        "14519",
-        "14555",
-        "14589"
       ]
     },
     {
       "name": "CORDELIA A. GREENE LIBRARY",
       "system": "CORDELIA A. GREENE LIBRARY",
       "address": "11 SOUTH MAIN STREET, CASTILE, NY",
-      "website": "https://castile.owwl.org/",
+      "website": "https://owwl.org/library/castile",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14037",
-        "14039",
-        "14066",
-        "14082",
-        "14083",
-        "14113",
-        "14145",
-        "14167",
         "14427",
-        "14536",
-        "14569"
-      ]
-    },
-    {
-      "name": "HAMLIN PUBLIC LIBRARY",
-      "system": "HAMLIN PUBLIC LIBRARY",
-      "address": "1680 LAKE ROAD, HAMLIN, NY",
-      "website": "https://hamlinlibraryny.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14445",
-        "14464",
-        "14467",
-        "14506",
-        "14514",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "14536"
       ]
     },
     {
@@ -669,16 +360,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14572",
-        "14819",
-        "14820",
-        "14821",
-        "14839",
-        "14858",
-        "14870",
-        "14877",
-        "14885",
-        "14898"
+        "14572"
       ]
     },
     {
@@ -692,11 +374,9 @@
         "14415",
         "14441",
         "14478",
-        "14507",
         "14527",
         "14544",
-        "14842",
-        "14857"
+        "14842"
       ]
     },
     {
@@ -719,14 +399,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14005",
-        "14013",
-        "14020",
-        "14040",
         "14054",
-        "14058",
         "14143",
-        "14422",
         "14525"
       ]
     },
@@ -738,20 +412,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14435",
         "14462",
-        "14480",
         "14481",
-        "14485",
-        "14487",
-        "144HH",
         "14510",
         "14533",
-        "14545",
-        "14560",
-        "145HH",
-        "14836",
-        "14846"
+        "14545"
       ]
     },
     {
@@ -762,18 +427,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14435",
-        "14462",
-        "14480",
-        "14481",
-        "14485",
-        "14487",
-        "144HH",
         "14517",
-        "14533",
-        "14545",
-        "14560",
-        "145HH",
         "14836",
         "14846"
       ]
@@ -786,31 +440,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14445",
-        "14467",
-        "14506",
-        "14514",
         "14526",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "14580",
+        "14625"
       ]
     },
     {
@@ -821,31 +453,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14445",
-        "14467",
         "14506",
-        "14514",
-        "14534",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "14534"
       ]
     },
     {
@@ -856,31 +465,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14445",
         "14467",
         "14506",
-        "14514",
         "14543",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "14586"
       ]
     },
     {
@@ -891,31 +479,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14445",
-        "14467",
-        "14506",
-        "14514",
         "14546",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "14586"
       ]
     },
     {
@@ -926,31 +491,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14445",
-        "14467",
-        "14506",
         "14514",
         "14559",
-        "14586",
-        "14604",
-        "14605",
         "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "14626"
       ]
     },
     {
@@ -961,13 +505,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14425",
-        "14466",
-        "14475",
-        "14512",
-        "14548",
-        "14561",
-        "14585"
+        "14512"
       ]
     },
     {
@@ -978,13 +516,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14425",
-        "14466",
-        "14475",
-        "14532",
-        "14548",
-        "14561",
-        "14585"
+        "14456",
+        "14532"
       ]
     },
     {
@@ -996,12 +529,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "14425",
-        "14466",
         "14475",
-        "14548",
-        "14561",
-        "14564",
-        "14585"
+        "14564"
       ]
     },
     {
@@ -1012,15 +541,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13146",
-        "14489",
-        "14502",
-        "14505",
-        "14513",
-        "14516",
+        "14502"
+      ]
+    },
+    {
+      "name": "ONTARIO PUBLIC LIBRARY",
+      "system": "ONTARIO PUBLIC LIBRARY",
+      "address": "1850 RIDGE ROAD, ONTARIO, NY",
+      "website": "https://ontariolibrary.wrlsweb.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
         "14519",
-        "14555",
-        "14589"
+        "54651"
       ]
     },
     {
@@ -1031,15 +564,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13146",
-        "14489",
-        "14505",
-        "14513",
-        "14516",
-        "14519",
-        "14522",
-        "14555",
-        "14589"
+        "14522"
       ]
     },
     {
@@ -1051,14 +576,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "13146",
-        "14489",
-        "14505",
-        "14513",
         "14516",
-        "14519",
         "14542",
         "14555",
-        "14589"
+        "14590"
       ]
     },
     {
@@ -1069,15 +590,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13146",
-        "14489",
-        "14505",
-        "14513",
         "14516",
-        "14519",
         "14551",
-        "14555",
-        "14589"
+        "14555"
       ]
     },
     {
@@ -1088,15 +603,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13146",
-        "14489",
         "14505",
-        "14513",
-        "14516",
-        "14519",
-        "14555",
-        "14568",
-        "14589"
+        "14568"
+      ]
+    },
+    {
+      "name": "WILLIAMSON PUBLIC LIBRARY",
+      "system": "WILLIAMSON PUBLIC LIBRARY",
+      "address": "6380 ROUTE 21, SUITE 1, WILLIAMSON, NY",
+      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Williamson Public Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "14505",
+        "14589",
+        "25661",
+        "25674",
+        "25688",
+        "25692",
+        "25696"
       ]
     },
     {
@@ -1107,37 +632,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14037",
-        "14039",
         "14066",
-        "14082",
-        "14083",
-        "14113",
-        "14145",
-        "14167",
+        "14530",
         "14536",
-        "14550",
-        "14569"
+        "14550"
       ]
     },
     {
       "name": "WARSAW PUBLIC LIBRARY",
       "system": "WARSAW PUBLIC LIBRARY",
-      "address": "1025 WEBSTER STREET, WARSAW, IL",
+      "address": "130 NORTH MAIN STREET, WARSAW, NY",
       "website": "http://warsawlib.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14037",
         "14039",
-        "14066",
-        "14082",
-        "14083",
-        "14113",
-        "14145",
         "14167",
-        "14536",
+        "14530",
         "14569",
+        "62341",
+        "62373",
         "62379"
       ]
     },
@@ -1149,16 +663,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14037",
         "14039",
-        "14066",
-        "14082",
-        "14083",
-        "14113",
-        "14145",
-        "14167",
-        "14536",
-        "14569",
         "14591"
       ]
     },
@@ -1171,24 +676,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "14425",
-        "14466",
-        "14475",
         "14504",
-        "14548",
-        "14561",
-        "14585"
-      ]
-    },
-    {
-      "name": "SENECA FALLS LIBRARY",
-      "system": "SENECA FALLS LIBRARY",
-      "address": "47 CAYUGA STREET, SENECA FALLS, NY",
-      "website": "http://senecafallslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "13148",
-        "14541"
+        "14548"
       ]
     },
     {
@@ -1212,49 +701,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "13143",
-        "13146",
-        "14489",
-        "14505",
-        "14513",
-        "14516",
-        "14519",
-        "14555",
-        "14589"
-      ]
-    },
-    {
-      "name": "BRIGHTON MEMORIAL LIBRARY",
-      "system": "BRIGHTON MEMORIAL LIBRARY",
-      "address": "2300 ELMWOOD AVENUE, ROCHESTER, NY",
-      "website": "https://www.brightonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14445",
-        "14467",
-        "14506",
-        "14514",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14618",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "14590"
       ]
     },
     {
@@ -1265,101 +712,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14445",
-        "14467",
-        "14506",
         "14514",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14624",
-        "14625",
-        "14626",
-        "146HH"
-      ]
-    },
-    {
-      "name": "GATES PUBLIC LIBRARY",
-      "system": "GATES PUBLIC LIBRARY",
-      "address": "902 ELMGROVE ROAD, ROCHESTER, NY",
-      "website": "https://gateslibrary.org/",
-      "formUrl": "https://gateslibrary.org/suggest-an-item/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "14445",
-        "14467",
-        "14506",
-        "14514",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14624",
-        "14625",
-        "14626",
-        "146HH"
-      ]
-    },
-    {
-      "name": "GREECE PUBLIC LIBRARY",
-      "system": "GREECE PUBLIC LIBRARY",
-      "address": "2 VINCE TOFANY BOULEVARD, GREECE, NY",
-      "website": "https://greecepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14445",
-        "14467",
-        "14506",
-        "14514",
-        "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14612",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
-        "14620",
-        "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "14624"
       ]
     },
     {
@@ -1370,31 +724,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14445",
         "14467",
-        "14506",
-        "14514",
         "14586",
-        "14604",
-        "14605",
-        "14606",
-        "14607",
-        "14608",
-        "14609",
-        "14610",
-        "14611",
-        "14613",
-        "14614",
-        "14615",
-        "14616",
-        "14619",
         "14620",
-        "14621",
-        "14622",
-        "14623",
-        "14625",
-        "14626",
-        "146HH"
+        "14623"
       ]
     },
     {
@@ -1405,31 +738,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14445",
-        "14467",
-        "14506",
-        "14514",
-        "14586",
+        "14580",
         "14604",
         "14605",
-        "14606",
         "14607",
         "14608",
         "14609",
-        "14610",
-        "14611",
         "14613",
         "14614",
         "14615",
         "14616",
         "14617",
-        "14619",
-        "14620",
         "14621",
-        "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "14622"
       ]
     },
     {
@@ -1441,85 +762,6 @@
       "formStatus": "verified",
       "zipcodes": [
         "14098",
-        "14476",
-        "14477",
-        "14571"
-      ]
-    },
-    {
-      "name": "ARCADE FREE LIBRARY",
-      "system": "ARCADE FREE LIBRARY",
-      "address": "365 WEST MAIN STREET, ARCADE, NY",
-      "website": "https://owwl.org/library/arcade-free-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14009",
-        "14037",
-        "14039",
-        "14066",
-        "14082",
-        "14083",
-        "14113",
-        "14145",
-        "14167",
-        "14536",
-        "14569"
-      ]
-    },
-    {
-      "name": "STEVENS MEMORIAL COMMUNITY LIBRARY",
-      "system": "STEVENS MEMORIAL COMMUNITY LIBRARY",
-      "address": "146 MAIN STREET, ATTICA, NY",
-      "website": "https://attica.owwl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14011",
-        "14037",
-        "14039",
-        "14066",
-        "14082",
-        "14083",
-        "14113",
-        "14145",
-        "14167",
-        "14536",
-        "14569"
-      ]
-    },
-    {
-      "name": "EAGLE FREE LIBRARY",
-      "system": "EAGLE FREE LIBRARY",
-      "address": "3413 SCHOOL STREET, BLISS, NY",
-      "website": "https://eaglelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14024",
-        "14037",
-        "14039",
-        "14066",
-        "14082",
-        "14083",
-        "14113",
-        "14145",
-        "14167",
-        "14536",
-        "14569"
-      ]
-    },
-    {
-      "name": "LEE-WHEDON MEMORIAL LIBRARY",
-      "system": "LEE-WHEDON MEMORIAL LIBRARY",
-      "address": "620 WEST AVENUE, MEDINA, NY",
-      "website": "https://leewhedon.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14103",
-        "14476",
-        "14477",
         "14571"
       ]
     },
@@ -1531,17 +773,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14037",
-        "14039",
         "14066",
-        "14082",
-        "14083",
-        "14113",
         "14130",
-        "14145",
-        "14167",
-        "14536",
-        "14569"
+        "14536"
       ]
     }
   ]

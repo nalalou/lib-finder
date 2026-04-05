@@ -3,50 +3,94 @@
     {
       "name": "MOUNT CARMEL PUBLIC LIBRARY",
       "system": "MOUNT CARMEL PUBLIC LIBRARY",
-      "address": "727 NORTH MULBERRY STREET, MOUNT CARMEL, IL",
+      "address": "30 SOUTH OAK ST, MOUNT CARMEL, PA",
       "website": "https://mtcarmelpubliclibrary.weebly.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17017",
-        "17730",
-        "17772",
-        "17777",
-        "17823",
-        "17825",
-        "17830",
         "17832",
         "17834",
-        "17836",
         "17840",
-        "17847",
-        "17850",
         "17851",
-        "17860",
-        "17865",
         "17866",
-        "17867",
-        "17868",
-        "17881",
+        "62410",
+        "62811",
+        "62852",
         "62863"
       ]
     },
     {
-      "name": "RAMSEY PUBLIC LIBRARY",
-      "system": "RAMSEY PUBLIC LIBRARY",
-      "address": "401 SOUTH SUPERIOR STREET, RAMSEY, IL",
-      "website": "https://librarylearning.org/ramsey-public-library",
+      "name": "FAIRFIELD PUBLIC LIBRARY",
+      "system": "FAIRFIELD PUBLIC LIBRARY",
+      "address": "104 W ADAMS AVE, FAIRFIELD, IA",
+      "website": "https://www.fairfield.lib.ia.us/",
+      "formUrl": "https://fairfieldia.bywatersolutions.com/cgi-bin/koha/opac-suggestions.pl?op=add_form",
+      "formStatus": "verified",
+      "zipcodes": [
+        "06605",
+        "06607",
+        "06608",
+        "52556",
+        "52567",
+        "52580",
+        "52635",
+        "62446",
+        "62809",
+        "62823",
+        "62833",
+        "62837",
+        "62842",
+        "62843",
+        "62878",
+        "62886",
+        "68452",
+        "68934",
+        "68935",
+        "68938",
+        "68941"
+      ]
+    },
+    {
+      "name": "NASHVILLE PUBLIC LIBRARY",
+      "system": "NASHVILLE PUBLIC LIBRARY",
+      "address": "615 CHURCH STREET, NASHVILLE, TN",
+      "website": "https://library.nashville.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62011",
-        "62080",
-        "62418",
-        "62838",
-        "62857",
-        "62880",
-        "62885",
-        "628HH"
+        "37013",
+        "37076",
+        "37080",
+        "37115",
+        "37138",
+        "37189",
+        "37201",
+        "37203",
+        "37204",
+        "37205",
+        "37206",
+        "37207",
+        "37208",
+        "37209",
+        "37210",
+        "37211",
+        "37212",
+        "37213",
+        "37214",
+        "37215",
+        "37216",
+        "37217",
+        "37218",
+        "37219",
+        "37220",
+        "37221",
+        "37228",
+        "62214",
+        "62263",
+        "62268",
+        "62271",
+        "62803",
+        "62877"
       ]
     },
     {
@@ -57,15 +101,7 @@
       "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=947.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
       "formStatus": "verified",
       "zipcodes": [
-        "62819",
-        "62825",
-        "62836",
-        "62860",
         "62865",
-        "62874",
-        "62890",
-        "62891",
-        "62897",
         "62983"
       ]
     },
@@ -95,14 +131,24 @@
       "zipcodes": [
         "62819",
         "62825",
-        "62836",
-        "62860",
         "62865",
         "62874",
-        "62890",
-        "62891",
-        "62897",
         "62999"
+      ]
+    },
+    {
+      "name": "ALBION PUBLIC LIBRARY",
+      "system": "ALBION PUBLIC LIBRARY",
+      "address": "6 NORTH FOURTH STREET, ALBION, IL",
+      "website": "https://townofalbionmaine.com/community/albion-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04910",
+        "62806",
+        "62815",
+        "62818",
+        "68620"
       ]
     },
     {
@@ -113,10 +159,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62214",
-        "62268",
-        "62271",
-        "62803",
         "62808",
         "62831",
         "62848",
@@ -134,12 +176,8 @@
       "zipcodes": [
         "62812",
         "62819",
-        "62825",
         "62836",
         "62860",
-        "62865",
-        "62874",
-        "62890",
         "62891",
         "62897"
       ]
@@ -170,12 +208,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62801",
-        "62807",
-        "62849",
-        "62853",
         "62870",
         "62882",
-        "62892",
         "62893"
       ]
     },
@@ -190,13 +224,9 @@
         "62819",
         "62822",
         "62825",
-        "62836",
-        "62860",
         "62865",
         "62874",
-        "62890",
-        "62891",
-        "62897"
+        "62891"
       ]
     },
     {
@@ -208,8 +238,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62832",
-        "62888",
-        "62997"
+        "62888"
       ]
     },
     {
@@ -236,13 +265,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62820",
         "62827",
-        "62835",
-        "62844",
-        "62861",
-        "62862",
-        "62887"
+        "62844"
       ]
     },
     {
@@ -288,13 +312,8 @@
       "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=78.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
       "formStatus": "verified",
       "zipcodes": [
-        "62820",
-        "62827",
         "62835",
-        "62861",
-        "62862",
-        "62869",
-        "62887"
+        "62869"
       ]
     },
     {
@@ -306,13 +325,10 @@
       "formStatus": "verified",
       "zipcodes": [
         "62807",
-        "62849",
-        "62853",
         "62870",
         "62875",
         "62882",
-        "62892",
-        "62893"
+        "62892"
       ]
     },
     {
@@ -328,9 +344,7 @@
         "62853",
         "62870",
         "62881",
-        "62882",
-        "62892",
-        "62893"
+        "62882"
       ]
     },
     {
@@ -341,14 +355,8 @@
       "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=885.1033.0.0.3&lp=1/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
       "formStatus": "verified",
       "zipcodes": [
-        "62819",
         "62825",
-        "62836",
-        "62860",
-        "62865",
-        "62874",
         "62884",
-        "62890",
         "62891",
         "62897"
       ]
@@ -361,19 +369,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62446",
-        "62809",
-        "62823",
-        "62833",
-        "62837",
-        "62842",
-        "62843",
         "62850",
         "62851",
-        "62878",
         "62886",
-        "62895",
-        "628XX"
+        "62895"
       ]
     },
     {
@@ -384,16 +383,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62819",
-        "62825",
-        "62836",
-        "62860",
-        "62865",
         "62874",
         "62890",
-        "62891",
-        "62896",
-        "62897"
+        "62896"
       ]
     },
     {
@@ -405,13 +397,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62807",
-        "62849",
-        "62853",
-        "62854",
-        "62870",
-        "62882",
-        "62892",
-        "62893"
+        "62854"
       ]
     },
     {
@@ -438,14 +424,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62011",
         "62418",
         "62458",
         "62838",
-        "62857",
-        "62880",
-        "62885",
-        "628HH"
+        "62880"
       ]
     },
     {
@@ -456,14 +438,9 @@
       "formUrl": "https://evanspubliclibrary.org/contact-us-2/purchase-request/",
       "formStatus": "verified",
       "zipcodes": [
-        "62011",
         "62418",
         "62471",
-        "62838",
-        "62857",
-        "62880",
-        "62885",
-        "628HH"
+        "62885"
       ]
     },
     {
@@ -475,22 +452,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62476",
-        "62806",
         "62815",
         "62818"
-      ]
-    },
-    {
-      "name": "CUTLER PUBLIC LIBRARY",
-      "system": "CUTLER PUBLIC LIBRARY",
-      "address": "409 SOUTH MAIN STREET, CUTLER, IL",
-      "website": "https://www.chamberofcommerce.com/business-directory/illinois/cutler/public-library/2030653564-cutler-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62238",
-        "62888",
-        "62997"
       ]
     },
     {
@@ -502,8 +465,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62274",
-        "62888",
-        "62997"
+        "62888"
       ]
     }
   ]

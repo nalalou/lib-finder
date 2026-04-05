@@ -1,44 +1,6 @@
 {
   "libraries": [
     {
-      "name": "BASTROP PUBLIC LIBRARY",
-      "system": "BASTROP PUBLIC LIBRARY",
-      "address": "1100 CHURCH ST, BASTROP, TX",
-      "website": "https://www.cityofbastrop.org/page/lib.home",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78602",
-        "78612",
-        "78621",
-        "78650",
-        "78659",
-        "78662",
-        "786HH",
-        "78953",
-        "789HH"
-      ]
-    },
-    {
-      "name": "ELGIN PUBLIC LIBRARY",
-      "system": "ELGIN PUBLIC LIBRARY",
-      "address": "121 NORTH MAIN STREET, ELGIN, ND",
-      "website": "https://libraries.ne.gov/elgin/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58533",
-        "78612",
-        "78621",
-        "78650",
-        "78659",
-        "78662",
-        "786HH",
-        "78953",
-        "789HH"
-      ]
-    },
-    {
       "name": "EULA & DAVID WINTERMANN LIBRARY",
       "system": "EULA & DAVID WINTERMANN LIBRARY",
       "address": "101 N WALNUT AVE, EAGLE LAKE, TX",
@@ -48,10 +10,7 @@
       "zipcodes": [
         "77412",
         "77434",
-        "77470",
-        "78933",
-        "78935",
-        "78943"
+        "78935"
       ]
     },
     {
@@ -63,69 +22,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "77418",
-        "77473",
         "78944",
         "78950"
-      ]
-    },
-    {
-      "name": "VIRGIL & JOSEPHINE GORDON MEMORIAL LIBRARY",
-      "system": "VIRGIL & JOSEPHINE GORDON MEMORIAL LIBRARY",
-      "address": "917 N CIRCLE DR, SEALY, TX",
-      "website": "https://onlinebooks.library.upenn.edu/webbin/who/Virgil",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "77473",
-        "77474",
-        "78944",
-        "78950"
-      ]
-    },
-    {
-      "name": "AUSTIN COUNTY LIBRARY SYSTEM",
-      "system": "AUSTIN COUNTY LIBRARY SYSTEM",
-      "address": "6730 RAILROAD ST, WALLIS, TX",
-      "website": "https://librarytechnology.org/library/24593",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "77473",
-        "77485",
-        "78944",
-        "78950"
-      ]
-    },
-    {
-      "name": "GARWOOD MEMORIAL LIBRARY",
-      "system": "GARWOOD MEMORIAL LIBRARY",
-      "address": "512 ARTHUR ST, GARWOOD, TX",
-      "website": "https://librarytechnology.org/library/37819",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "77412",
-        "77442",
-        "77470",
-        "78933",
-        "78935",
-        "78943"
-      ]
-    },
-    {
-      "name": "SHERIDAN MEMORIAL LIBRARY",
-      "system": "SHERIDAN MEMORIAL LIBRARY",
-      "address": "5805 S LOGAN PARK DR, SHERIDAN, TX",
-      "website": "https://librarytechnology.org/library/24564",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "77412",
-        "77470",
-        "77475",
-        "78933",
-        "78935",
-        "78943"
       ]
     },
     {
@@ -151,13 +49,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78932",
         "78938",
-        "78940",
-        "78941",
         "78945",
         "78949",
-        "78960",
         "78963"
       ]
     },
@@ -169,15 +63,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78612",
-        "78621",
-        "78650",
-        "78659",
-        "78662",
-        "786HH",
         "78953",
-        "78957",
-        "789HH"
+        "78957"
       ]
     },
     {
@@ -188,10 +75,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77412",
-        "77470",
-        "78933",
-        "78935",
         "78943",
         "78962"
       ]
@@ -204,8 +87,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77412",
-        "77470",
         "78933",
         "78934",
         "78935",
@@ -220,14 +101,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78932",
-        "78938",
-        "78940",
         "78941",
-        "78949",
-        "78956",
-        "78960",
-        "78963"
+        "78956"
       ]
     },
     {
@@ -238,11 +113,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78122",
-        "78159",
-        "78614",
         "78632",
-        "78658",
         "78959"
       ]
     },
@@ -255,13 +126,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78932",
-        "78938",
         "78940",
-        "78941",
-        "78949",
-        "78954",
-        "78960",
-        "78963"
+        "78954"
       ]
     }
   ]

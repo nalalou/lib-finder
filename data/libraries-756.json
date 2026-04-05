@@ -3,20 +3,18 @@
     {
       "name": "LONGVIEW PUBLIC LIBRARY",
       "system": "LONGVIEW PUBLIC LIBRARY",
-      "address": "222 W COTTON ST, LONGVIEW, TX",
+      "address": "1600 LOUISIANA STREET, LONGVIEW, WA",
       "website": "http://www.longviewlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "75601",
-        "98581",
-        "98603",
-        "98616",
-        "98632",
-        "98645",
-        "98649",
-        "98674",
-        "986XX"
+        "75602",
+        "75603",
+        "75604",
+        "75605",
+        "75641",
+        "98632"
       ]
     },
     {
@@ -41,11 +39,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75602",
-        "75603",
         "75604",
-        "75605",
-        "75641",
         "75647"
       ]
     },
@@ -60,7 +54,6 @@
         "75652",
         "75654",
         "75667",
-        "75680",
         "75681",
         "75684",
         "75691",
@@ -75,26 +68,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75602",
         "75603",
-        "75604",
-        "75605",
-        "75641",
         "75662"
       ]
     },
     {
       "name": "MARSHALL PUBLIC LIBRARY",
       "system": "MARSHALL PUBLIC LIBRARY",
-      "address": "612 ARCHER AVENUE, MARSHALL, IL",
+      "address": "300 S ALAMO BLVD, MARSHALL, TX",
       "website": "https://marshallpl.org/",
       "formUrl": "https://marshallpl.org/interlibrary-loan/",
       "formStatus": "verified",
       "zipcodes": [
+        "62423",
         "62441",
+        "65322",
+        "65339",
+        "65340",
+        "65347",
         "75650",
         "75651",
-        "75661",
         "75670",
         "75672"
       ]
@@ -108,9 +101,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "75451",
-        "754HH",
-        "75686",
-        "756HH"
+        "75686"
       ]
     },
     {
@@ -138,7 +129,6 @@
       "zipcodes": [
         "75568",
         "75571",
-        "75636",
         "75638",
         "75668"
       ]
@@ -151,7 +141,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75564",
         "75630",
         "75657"
       ]
@@ -164,11 +153,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75602",
-        "75603",
+        "75601",
         "75604",
         "75605",
-        "75641",
         "75693"
       ]
     },
@@ -180,11 +167,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75650",
-        "75651",
         "75661",
-        "75670",
-        "75672",
         "75692"
       ]
     },
@@ -196,14 +179,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75555",
-        "75556",
-        "75560",
-        "75562",
-        "75563",
-        "75565",
-        "75566",
-        "75572",
         "75656"
       ]
     }

@@ -1,6 +1,121 @@
 {
   "libraries": [
     {
+      "name": "PALMER PUBLIC LIBRARY",
+      "system": "PALMER PUBLIC LIBRARY",
+      "address": "1455 NORTH MAIN ST., PALMER, MA",
+      "website": "https://www.palmerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01069",
+        "01080",
+        "37339",
+        "37365",
+        "50571",
+        "99567",
+        "99645"
+      ]
+    },
+    {
+      "name": "HOPE SUNRISE COMMUNITY LIBRARY",
+      "system": "HOPE SUNRISE COMMUNITY LIBRARY",
+      "address": "18487 A AVENUE, HOPE, AK",
+      "website": "https://librarytechnology.org/library/14283",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99540",
+        "99587",
+        "99605"
+      ]
+    },
+    {
+      "name": "KASILOF PUBLIC LIBRARY",
+      "system": "KASILOF PUBLIC LIBRARY",
+      "address": "58231 STERLING HIGHWAY, KASILOF, AK",
+      "website": "https://librarytechnology.org/library/14286",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99568",
+        "99610"
+      ]
+    },
+    {
+      "name": "MARTIN MONSEN REGIONAL LIBRARY",
+      "system": "MARTIN MONSEN REGIONAL LIBRARY",
+      "address": "101 MAIN STREET, NAKNEK, AK",
+      "website": "https://www.bristolbayboroughak.us/departments/libraries.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99549",
+        "99564",
+        "99565",
+        "99579",
+        "99633",
+        "99649",
+        "99670"
+      ]
+    },
+    {
+      "name": "UNALASKA PUBLIC LIBRARY",
+      "system": "UNALASKA PUBLIC LIBRARY",
+      "address": "64 ELEANOR DRIVE, UNALASKA, AK",
+      "website": "https://www.akuncl.us/client/en_US/home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99553",
+        "99591",
+        "99638",
+        "99660",
+        "99685",
+        "99692"
+      ]
+    },
+    {
+      "name": "KEGOAYAH KOZGA LIBRARY",
+      "system": "KEGOAYAH KOZGA LIBRARY",
+      "address": "100 WEST 7TH AVENUE, NOME, AK",
+      "website": "https://www.nomealaska.org/1317/Kegoayah-Kozga-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99554",
+        "99581",
+        "99620",
+        "99659",
+        "99666",
+        "99671",
+        "99739",
+        "99742",
+        "99762",
+        "99769",
+        "99771",
+        "99772",
+        "99778",
+        "99783",
+        "99784",
+        "99785"
+      ]
+    },
+    {
+      "name": "TOK COMMUNITY LIBRARY",
+      "system": "TOK COMMUNITY LIBRARY",
+      "address": "MILE 1314 ALASKA HIGHWAY, TOK, AK",
+      "website": "http://www.tokak.us/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99586",
+        "99764",
+        "99776",
+        "99780"
+      ]
+    },
+    {
       "name": "ANCHOR POINT PUBLIC LIBRARY",
       "system": "ANCHOR POINT PUBLIC LIBRARY",
       "address": "34020 NORTH FORK ROAD, ANCHOR POINT, AK",
@@ -19,7 +134,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99503"
+        "99501",
+        "99502",
+        "99503",
+        "99504",
+        "99505",
+        "99506",
+        "99507",
+        "99508",
+        "99513",
+        "99515",
+        "99516",
+        "99517",
+        "99518",
+        "99577"
       ]
     },
     {
@@ -30,7 +158,32 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99559"
+        "99551",
+        "99552",
+        "99559",
+        "99561",
+        "99563",
+        "99578",
+        "99585",
+        "99604",
+        "99609",
+        "99614",
+        "99621",
+        "99622",
+        "99630",
+        "99632",
+        "99634",
+        "99637",
+        "99641",
+        "99650",
+        "99655",
+        "99657",
+        "99658",
+        "99662",
+        "99679",
+        "99680",
+        "99681",
+        "99690"
       ]
     },
     {
@@ -41,7 +194,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99571"
+        "99548",
+        "99571",
+        "99583",
+        "99612",
+        "99648",
+        "99661",
+        "99695"
       ]
     },
     {
@@ -74,7 +233,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99576"
+        "99555",
+        "99569",
+        "99576",
+        "99580",
+        "99589",
+        "99628",
+        "99651",
+        "99678"
       ]
     },
     {
@@ -96,7 +262,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99550"
+        "99550",
+        "99624",
+        "99643"
       ]
     },
     {
@@ -107,6 +275,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "99566",
         "99573"
       ]
     },
@@ -118,7 +287,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99557"
+        "99557",
+        "99558",
+        "99575",
+        "99590",
+        "99602",
+        "99607",
+        "99626",
+        "99656",
+        "99665",
+        "99668"
       ]
     },
     {
@@ -129,7 +307,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99546"
+        "99546",
+        "99547"
       ]
     }
   ]

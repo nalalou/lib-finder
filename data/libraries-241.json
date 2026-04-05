@@ -1,9 +1,38 @@
 {
   "libraries": [
     {
+      "name": "SALEM PUBLIC LIBRARY",
+      "system": "SALEM PUBLIC LIBRARY",
+      "address": "585 LIBERTY ST SE, SALEM, OR",
+      "website": "https://salempl.org/",
+      "formUrl": "https://salempl.org/purchase-suggestion/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "01960",
+        "01970",
+        "24015",
+        "24017",
+        "24153",
+        "44408",
+        "44460",
+        "44490",
+        "44625",
+        "44634",
+        "65440",
+        "65501",
+        "65541",
+        "65560",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306"
+      ]
+    },
+    {
       "name": "FRANKLIN COUNTY PUBLIC LIBRARY",
       "system": "FRANKLIN COUNTY PUBLIC LIBRARY",
-      "address": "355 FRANKLIN ST., ROCKY MOUNT, VA",
+      "address": "105 SOUTH PORTER STREET, WINCHESTER, TN",
       "website": "https://www.franklincountylibrary.org/index.html",
       "formUrl": null,
       "formStatus": "unknown",
@@ -17,7 +46,15 @@
         "24137",
         "24151",
         "24176",
-        "24184"
+        "24184",
+        "37306",
+        "37318",
+        "37324",
+        "37330",
+        "37345",
+        "37375",
+        "37376",
+        "37398"
       ]
     },
     {
@@ -28,7 +65,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24115"
+        "24054",
+        "24055",
+        "24078",
+        "24082",
+        "24089",
+        "24112",
+        "24115",
+        "24133",
+        "24148",
+        "24165",
+        "24168",
+        "24171"
       ]
     },
     {
@@ -39,14 +87,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24086",
         "24093",
-        "24094",
         "24124",
-        "24128",
-        "24136",
         "24147",
-        "24150",
         "24167"
       ]
     },
@@ -60,7 +103,6 @@
       "zipcodes": [
         "24086",
         "24093",
-        "24094",
         "24128",
         "24134",
         "24136",
@@ -77,7 +119,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24141"
+        "24141",
+        "24142"
       ]
     },
     {
@@ -100,7 +143,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "24011",
         "24012",
+        "24013",
+        "24014",
         "24064",
         "24066",
         "24077",
@@ -119,11 +165,16 @@
       "formStatus": "verified",
       "zipcodes": [
         "24060",
+        "24072",
         "24073",
         "24087",
+        "24091",
         "24138",
+        "24142",
         "24149",
-        "24162"
+        "24162",
+        "24185",
+        "24380"
       ]
     },
     {
@@ -134,11 +185,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "24011",
+        "24013",
+        "24014",
+        "24015",
         "24016",
+        "24017",
         "24019",
         "24020",
-        "24059",
-        "24070",
+        "24153",
         "24179"
       ]
     },
@@ -150,12 +205,39 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "24011",
+        "24013",
+        "24014",
+        "24015",
+        "24017",
         "24018",
-        "24019",
-        "24020",
         "24059",
         "24070",
-        "24179"
+        "24079",
+        "24153"
+      ]
+    },
+    {
+      "name": "GALAX-CARROLL REGIONAL LIBRARY",
+      "system": "GALAX-CARROLL REGIONAL LIBRARY",
+      "address": "610 W. STUART DRIVE, GALAX, VA",
+      "website": "https://galaxcarroll.lib.va.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24053",
+        "24076",
+        "24120",
+        "24312",
+        "24317",
+        "24325",
+        "24328",
+        "24333",
+        "24343",
+        "24350",
+        "24351",
+        "24352",
+        "24381"
       ]
     },
     {
@@ -168,10 +250,13 @@
       "zipcodes": [
         "24058",
         "24084",
+        "24105",
         "24132",
         "24301",
+        "24313",
         "24324",
-        "24347"
+        "24347",
+        "24360"
       ]
     },
     {
@@ -183,12 +268,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "24095",
-        "240HH",
         "24104",
         "24121",
         "24122",
         "24174",
-        "241HH",
         "24523",
         "24526",
         "24536",

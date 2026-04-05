@@ -1,6 +1,26 @@
 {
   "libraries": [
     {
+      "name": "AKRON PUBLIC LIBRARY",
+      "system": "AKRON PUBLIC LIBRARY",
+      "address": "207 FIRST AVENUE SOUTH, AKRON, AL",
+      "website": "https://www.akron.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35441",
+        "36776",
+        "51001",
+        "51062",
+        "80720",
+        "80740",
+        "80743",
+        "80757",
+        "80801",
+        "80812"
+      ]
+    },
+    {
       "name": "HIGH PLAINS LIBRARY DISTRICT",
       "system": "HIGH PLAINS LIBRARY DISTRICT",
       "address": "2650 W. 29TH ST., GREELEY, CO",
@@ -8,16 +28,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80504",
         "80514",
         "80520",
         "80530",
-        "80534",
-        "80542",
         "80543",
         "80610",
         "80611",
-        "80612",
         "80615",
         "80620",
         "80621",
@@ -29,13 +45,32 @@
         "80643",
         "80644",
         "80645",
-        "80648",
-        "80650",
         "80651",
         "80652",
         "80729",
         "80742",
         "80754"
+      ]
+    },
+    {
+      "name": "STERLING PUBLIC LIBRARY",
+      "system": "STERLING PUBLIC LIBRARY",
+      "address": "150 BROADWAY STREET, STERLING, NE",
+      "website": "https://www.sterlingct.gov/184/Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06373",
+        "06374",
+        "06377",
+        "61037",
+        "61081",
+        "68332",
+        "68443",
+        "80722",
+        "80741",
+        "80745",
+        "80751"
       ]
     },
     {
@@ -46,10 +81,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80649",
-        "80653",
-        "80654",
-        "80705",
         "80723",
         "80733",
         "80750"
@@ -67,9 +98,7 @@
         "80653",
         "80654",
         "80701",
-        "80705",
-        "80733",
-        "80750"
+        "80705"
       ]
     },
     {
@@ -80,7 +109,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80721",
         "80731"
       ]
     },
@@ -117,11 +145,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80727",
         "80735",
         "80755",
         "80758",
-        "80822",
         "80824"
       ]
     },
@@ -134,11 +160,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "80727",
-        "80735",
-        "80755",
         "80759",
-        "80822",
-        "80824"
+        "80822"
       ]
     },
     {
@@ -149,53 +172,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80722",
         "80726",
         "80728",
         "80736",
-        "80741",
-        "80745",
-        "80747",
-        "80751",
-        "807HH"
-      ]
-    },
-    {
-      "name": "CLEARVIEW LIBRARY DISTRICT",
-      "system": "CLEARVIEW LIBRARY DISTRICT",
-      "address": "720 THIRD STREET, WINDSOR, CO",
-      "website": "https://clearviewlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "80504",
-        "80514",
-        "80520",
-        "80530",
-        "80534",
-        "80542",
-        "80543",
-        "80550",
-        "80610",
-        "80611",
-        "80612",
-        "80615",
-        "80620",
-        "80621",
-        "80623",
-        "80624",
-        "80634",
-        "80642",
-        "80643",
-        "80644",
-        "80645",
-        "80648",
-        "80650",
-        "80651",
-        "80652",
-        "80729",
-        "80742",
-        "80754"
+        "80747"
       ]
     }
   ]

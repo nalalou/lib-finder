@@ -3,16 +3,17 @@
     {
       "name": "BESSEMER PUBLIC LIBRARY",
       "system": "BESSEMER PUBLIC LIBRARY",
-      "address": "400 19TH STREET N, BESSEMER, AL",
+      "address": "411 SOUTH SOPHIE STREET, BESSEMER, MI",
       "website": "https://www.cityofbessemermi.gov/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "35020",
+        "35022",
+        "35221",
+        "35244",
         "49911",
-        "49959",
-        "49968",
-        "49969"
+        "49959"
       ]
     },
     {
@@ -23,37 +24,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49905",
+        "49805",
+        "49901",
         "49913",
-        "49916",
         "49917",
-        "49921",
-        "49930",
+        "49918",
         "49934",
         "49942",
-        "49952",
-        "49955",
-        "49958",
-        "49961",
-        "49963",
-        "49965",
-        "499XX"
+        "49950"
       ]
     },
     {
       "name": "CARP LAKE TOWNSHIP LIBRARY",
       "system": "CARP LAKE TOWNSHIP LIBRARY",
       "address": "35349 MALL CIRCLE DRIVE, WHITE PINE, MI",
-      "website": "https://librarytechnology.org/library/19487",
+      "website": "http://www.uproc.lib.mi.us/CarpLake/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "49910",
-        "49912",
-        "49929",
-        "49948",
-        "49960",
-        "49967",
         "49971"
       ]
     },
@@ -61,37 +50,31 @@
       "name": "CRYSTAL FALLS DISTRICT COMMUNITY LIBRARY",
       "system": "CRYSTAL FALLS DISTRICT COMMUNITY LIBRARY",
       "address": "237 SUPERIOR AVENUE, CRYSTAL FALLS, MI",
-      "website": "https://crystalfallslibrary.org/",
+      "website": "http://joomla.uproc.lib.mi.us/CrystalFalls/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "49902",
-        "49915",
-        "49920",
-        "49927",
-        "49964"
+        "49920"
       ]
     },
     {
       "name": "IRONWOOD CARNEGIE LIBRARY",
       "system": "IRONWOOD CARNEGIE LIBRARY",
       "address": "235 EAST AURORA STREET, IRONWOOD, MI",
-      "website": "https://ironwoodcarnegie.org/",
+      "website": "http://joomla.uproc.lib.mi.us/Ironwood/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49911",
         "49938",
-        "49959",
-        "49968",
-        "49969"
+        "49959"
       ]
     },
     {
       "name": "L`ANSE AREA SCHOOL-PUBLIC LIBRARY",
       "system": "L`ANSE AREA SCHOOL-PUBLIC LIBRARY",
       "address": "201 NORTH 4TH STREET, L'ANSE, MI",
-      "website": "https://lanseschools.org/district-library.php",
+      "website": "http://joomla.uproc.lib.mi.us/lanse/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -99,8 +82,7 @@
         "49919",
         "49946",
         "49962",
-        "49970",
-        "499HH"
+        "49970"
       ]
     },
     {
@@ -111,37 +93,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49905",
-        "49916",
+        "49901",
         "49917",
-        "49921",
         "49930",
         "49934",
         "49942",
-        "49945",
-        "49952",
-        "49955",
-        "49958",
-        "49961",
-        "49963",
-        "49965",
-        "499XX"
+        "49945"
       ]
     },
     {
       "name": "MCMILLAN TOWNSHIP LIBRARY",
       "system": "MCMILLAN TOWNSHIP LIBRARY",
       "address": "200 CEDAR STREET, EWEN, MI",
-      "website": "https://superiorlandlibrary.org/libraries/name/mcmillan-township-library/",
+      "website": "http://joomla.uproc.lib.mi.us/mcmillan/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49910",
         "49912",
         "49925",
-        "49929",
         "49948",
-        "49960",
         "49967"
       ]
     },
@@ -153,13 +123,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49910",
-        "49912",
         "49929",
-        "49948",
         "49953",
-        "49960",
-        "49967"
+        "49960"
       ]
     },
     {
@@ -170,46 +136,47 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49905",
         "49916",
-        "49917",
         "49921",
         "49922",
         "49930",
-        "49934",
-        "49942",
-        "49952",
-        "49955",
-        "49958",
-        "49961",
-        "49963",
-        "49965",
-        "499XX"
+        "49934"
       ]
     },
     {
       "name": "PORTAGE LAKE DISTRICT LIBRARY",
       "system": "PORTAGE LAKE DISTRICT LIBRARY",
       "address": "58 HURON STREET, HOUGHTON, MI",
-      "website": "https://pldl.org/",
-      "formUrl": "https://pldl.org/interlibrary-loan/",
-      "formStatus": "verified",
+      "website": "http://www.uproc.lib.mi.us/pldl/",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
         "49905",
         "49916",
-        "49917",
         "49921",
         "49930",
         "49931",
-        "49934",
-        "49942",
         "49952",
         "49955",
         "49958",
         "49961",
         "49963",
-        "49965",
-        "499XX"
+        "49965"
+      ]
+    },
+    {
+      "name": "WAKEFIELD PUBLIC LIBRARY",
+      "system": "WAKEFIELD PUBLIC LIBRARY",
+      "address": "401 HANCOCK STREET, WAKEFIELD, MI",
+      "website": "https://citylibrary.com/public-libraries/wakefield-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03830",
+        "49959",
+        "49968",
+        "67458",
+        "67487"
       ]
     },
     {
@@ -220,11 +187,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49902",
         "49915",
         "49927",
-        "49935",
-        "49964"
+        "49935"
       ]
     },
     {
@@ -235,11 +200,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49902",
-        "49903",
-        "49915",
-        "49927",
-        "49964"
+        "49903"
       ]
     },
     {
@@ -250,10 +211,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49911",
         "49947",
-        "49959",
-        "49968",
         "49969"
       ]
     }

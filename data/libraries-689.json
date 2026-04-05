@@ -3,34 +3,104 @@
     {
       "name": "BLUE HILL PUBLIC LIBRARY",
       "system": "BLUE HILL PUBLIC LIBRARY",
-      "address": "317 WEST GAGE STREET, BLUE HILL, NE",
+      "address": "5 PARKER POINT ROAD, BLUE HILL, ME",
       "website": "https://bhpl.libcal.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "04476",
+        "04614",
+        "04676",
+        "04684",
         "68928",
-        "68930",
-        "68952"
+        "68930"
+      ]
+    },
+    {
+      "name": "SUPERIOR PUBLIC LIBRARY",
+      "system": "SUPERIOR PUBLIC LIBRARY",
+      "address": "1530 TOWER AVE., SUPERIOR, WI",
+      "website": "http://superiorlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54820",
+        "54836",
+        "54838",
+        "54842",
+        "54849",
+        "54854",
+        "54864",
+        "54873",
+        "54874",
+        "54880",
+        "68943",
+        "68978"
+      ]
+    },
+    {
+      "name": "OXFORD PUBLIC LIBRARY",
+      "system": "OXFORD PUBLIC LIBRARY",
+      "address": "110 EAST 6TH STREET, OXFORD, AL",
+      "website": "http://oxford.njlibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06478",
+        "07833",
+        "07838",
+        "07863",
+        "07865",
+        "07882",
+        "19350",
+        "19352",
+        "19362",
+        "19363",
+        "36203",
+        "36207",
+        "36260",
+        "47971",
+        "48360",
+        "48363",
+        "48370",
+        "48371",
+        "52322",
+        "53920",
+        "53952",
+        "67119",
+        "68936",
+        "68967"
       ]
     },
     {
       "name": "FAIRFIELD PUBLIC LIBRARY",
       "system": "FAIRFIELD PUBLIC LIBRARY",
-      "address": "1080 OLD POST RD., FAIRFIELD, CT",
+      "address": "104 W ADAMS AVE, FAIRFIELD, IA",
       "website": "https://www.fairfield.lib.ia.us/",
       "formUrl": "https://fairfieldia.bywatersolutions.com/cgi-bin/koha/opac-suggestions.pl?op=add_form",
       "formStatus": "verified",
       "zipcodes": [
-        "06824",
+        "06605",
+        "06607",
+        "06608",
+        "52556",
+        "52567",
+        "52580",
+        "52635",
+        "62446",
+        "62809",
+        "62823",
+        "62833",
+        "62837",
+        "62842",
+        "62843",
+        "62878",
+        "62886",
         "68452",
         "68934",
         "68935",
         "68938",
-        "68941",
-        "68944",
-        "68954",
-        "68975",
-        "68980"
+        "68941"
       ]
     },
     {
@@ -42,8 +112,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68920",
-        "68971",
-        "68977"
+        "68971"
       ]
     },
     {
@@ -56,24 +125,21 @@
       "zipcodes": [
         "68922",
         "68936",
-        "68946",
-        "68948",
-        "68967",
-        "689HH",
-        "69046"
+        "68948"
       ]
     },
     {
       "name": "AXTELL PUBLIC LIBRARY",
       "system": "AXTELL PUBLIC LIBRARY",
-      "address": "401 MAPLE, AXTELL, KS",
+      "address": "305 NORTH MAIN STREET, AXTELL, NE",
       "website": "https://libraries.ne.gov/axtell/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "66403",
+        "66406",
+        "66541",
         "68924",
-        "68945",
         "68982"
       ]
     },
@@ -86,11 +152,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68926",
-        "68936",
         "68946",
-        "68948",
-        "68967",
-        "689HH",
         "69046"
       ]
     },
@@ -102,16 +164,48 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68452",
         "68933",
-        "68934",
-        "68935",
         "68938",
-        "68941",
-        "68944",
-        "68954",
-        "68975",
-        "68980"
+        "68975"
+      ]
+    },
+    {
+      "name": "ELWOOD PUBLIC LIBRARY",
+      "system": "ELWOOD PUBLIC LIBRARY",
+      "address": "306 CALVERT ST, ELWOOD, NE",
+      "website": "https://elwoodlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11731",
+        "11754",
+        "68937",
+        "68976"
+      ]
+    },
+    {
+      "name": "FRANKLIN PUBLIC LIBRARY",
+      "system": "FRANKLIN PUBLIC LIBRARY",
+      "address": "1502 P STREET, FRANKLIN, NE",
+      "website": "https://www.fspl.org/",
+      "formUrl": "https://www.fspl.org/book-collection-kids",
+      "formStatus": "verified",
+      "zipcodes": [
+        "02038",
+        "03235",
+        "03276",
+        "45005",
+        "45066",
+        "48025",
+        "48034",
+        "48301",
+        "48322",
+        "48336",
+        "53132",
+        "68929",
+        "68939",
+        "68960",
+        "68972"
       ]
     },
     {
@@ -122,29 +216,45 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68928",
-        "68942",
-        "68952"
+        "68942"
       ]
     },
     {
       "name": "HARVARD PUBLIC LIBRARY",
       "system": "HARVARD PUBLIC LIBRARY",
-      "address": "4 POND RD., HARVARD, MA",
+      "address": "309 NORTH CLAY AVENUE, HARVARD, NE",
       "website": "https://www.harvardpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "01451",
-        "68452",
-        "68934",
-        "68935",
-        "68938",
-        "68941",
+        "01467",
         "68944",
         "68954",
         "68975",
         "68980"
+      ]
+    },
+    {
+      "name": "HASTINGS PUBLIC LIBRARY",
+      "system": "HASTINGS PUBLIC LIBRARY",
+      "address": "314 N DENVER AV, HASTINGS, NE",
+      "website": "https://www.hastingspubliclibrary.org/",
+      "formUrl": "https://www.hastingspubliclibrary.org/how-do-i/request-items",
+      "formStatus": "verified",
+      "zipcodes": [
+        "15760",
+        "15762",
+        "15773",
+        "15775",
+        "16640",
+        "16646",
+        "68901",
+        "68925",
+        "68950",
+        "68955",
+        "68956",
+        "68973"
       ]
     },
     {
@@ -155,12 +265,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68929",
         "68932",
-        "68939",
         "68947",
-        "68960",
-        "68972",
         "68981"
       ]
     },
@@ -187,10 +293,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68924",
         "68945",
-        "68959",
-        "68982"
+        "68959"
       ]
     },
     {
@@ -201,7 +305,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68943",
         "68957",
         "68961",
         "68964",
@@ -218,7 +321,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68966",
-        "68971",
         "68977"
       ]
     },
@@ -230,7 +332,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68928",
         "68952",
         "68970"
       ]
@@ -243,16 +344,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68452",
-        "68934",
-        "68935",
-        "68938",
-        "68941",
-        "68944",
-        "68954",
         "68975",
-        "68979",
-        "68980"
+        "68979"
       ]
     },
     {
@@ -263,13 +356,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68936",
-        "68946",
         "68948",
-        "68967",
-        "689HH",
-        "69022",
-        "69046"
+        "69022"
       ]
     }
   ]

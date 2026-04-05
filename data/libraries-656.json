@@ -3,12 +3,26 @@
     {
       "name": "DOUGLAS COUNTY PUBLIC LIBRARY",
       "system": "DOUGLAS COUNTY PUBLIC LIBRARY",
-      "address": "301 W. WEBSTER AVENUE, AVA, MO",
+      "address": "1625 LIBRARY LANE, MINDEN, NV",
       "website": "https://wgrls.org/douglas-county-public-library/",
       "formUrl": "https://wgrls.org/services/purchase-suggestion/",
       "formStatus": "verified",
       "zipcodes": [
         "65608",
+        "65614",
+        "65618",
+        "65638",
+        "65655",
+        "65676",
+        "65715",
+        "65729",
+        "65733",
+        "65744",
+        "65755",
+        "65761",
+        "65762",
+        "65768",
+        "65773",
         "89410",
         "89411",
         "89413",
@@ -16,7 +30,6 @@
         "89444",
         "89448",
         "89449",
-        "894HH",
         "89705"
       ]
     },
@@ -45,10 +58,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65603",
-        "65635",
-        "65646",
         "65682",
+        "65707",
         "65752"
       ]
     },
@@ -60,15 +71,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "65605",
         "65611",
+        "65616",
         "65624",
+        "65627",
         "65633",
         "65656",
-        "65675",
+        "65672",
+        "65679",
+        "65680",
         "65681",
         "65686",
+        "65705",
         "65728",
-        "65737"
+        "65731",
+        "65737",
+        "65739",
+        "65740",
+        "65759",
+        "65771",
+        "72644"
       ]
     },
     {
@@ -126,6 +149,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "65326",
+        "65355",
         "65634",
         "65650",
         "65668",
@@ -149,7 +174,6 @@
         "65617",
         "65640",
         "65649",
-        "65659",
         "65663",
         "65674",
         "65710",
@@ -160,13 +184,14 @@
     {
       "name": "SEYMOUR COMMUNITY LIBRARY",
       "system": "SEYMOUR COMMUNITY LIBRARY",
-      "address": "320 E CLINTON AVE, SEYMOUR, MO",
+      "address": "123 N 5TH ST, SEYMOUR, IA",
       "website": "https://seymour.lib.mo.us/",
       "formUrl": "https://seymour.lib.mo.us/services/other-services",
       "formStatus": "verified",
       "zipcodes": [
+        "52583",
+        "52590",
         "65652",
-        "65713",
         "65746"
       ]
     },
@@ -178,35 +203,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "64873",
         "64874",
         "65623",
         "65625",
         "65641",
         "65647",
         "65658",
-        "656HH",
         "65708",
+        "65712",
+        "65723",
         "65734",
         "65745",
         "65747",
-        "65772",
-        "657HH"
-      ]
-    },
-    {
-      "name": "WILLOW SPRINGS PUBLIC LIBRARY",
-      "system": "WILLOW SPRINGS PUBLIC LIBRARY",
-      "address": "214 N HARRIS ST, WILLOW SPRINGS, MO",
-      "website": "https://www.willowspringslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "65626",
-        "65777",
-        "65788",
-        "65789",
-        "65790",
-        "65793"
+        "65769",
+        "65772"
       ]
     },
     {
@@ -217,9 +228,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "65609",
         "65626",
+        "65637",
+        "65760",
+        "65766",
         "65775",
         "65777",
+        "65784",
         "65788",
         "65789",
         "65790"
@@ -238,6 +254,7 @@
         "65629",
         "65630",
         "65631",
+        "65653",
         "65657",
         "65669",
         "65714",
@@ -245,35 +262,6 @@
         "65721",
         "65753",
         "65754"
-      ]
-    },
-    {
-      "name": "WEBSTER COUNTY LIBRARY",
-      "system": "WEBSTER COUNTY LIBRARY",
-      "address": "219 W JACKSON ST, MARSHFIELD, MO",
-      "website": "https://krlibrary.org/?page_id=10",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "65652",
-        "65706",
-        "65713"
-      ]
-    },
-    {
-      "name": "MOUNTAIN VIEW PUBLIC LIBRARY",
-      "system": "MOUNTAIN VIEW PUBLIC LIBRARY",
-      "address": "125 S OAK ST, MOUNTAIN VIEW, MO",
-      "website": "https://mtnviewlibmo.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "65548",
-        "65626",
-        "65777",
-        "65788",
-        "65789",
-        "65790"
       ]
     },
     {
@@ -313,6 +301,7 @@
         "65612",
         "65619",
         "65648",
+        "65664",
         "65738",
         "65742",
         "65757",
@@ -324,8 +313,7 @@
         "65806",
         "65807",
         "65809",
-        "65810",
-        "658HH"
+        "65810"
       ]
     },
     {

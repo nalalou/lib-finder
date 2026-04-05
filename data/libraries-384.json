@@ -1,6 +1,59 @@
 {
   "libraries": [
     {
+      "name": "WAYNE COUNTY PUBLIC LIBRARY",
+      "system": "WAYNE COUNTY PUBLIC LIBRARY",
+      "address": "157 ROLLING HILLS BLVD, MONTICELLO, KY",
+      "website": "https://www.visitwaynecountyohio.com/listing/wayne-county-public-library/93/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18405",
+        "18431",
+        "18438",
+        "18443",
+        "18456",
+        "18472",
+        "18473",
+        "25507",
+        "25511",
+        "25512",
+        "25514",
+        "25517",
+        "25530",
+        "25534",
+        "25535",
+        "25555",
+        "25570",
+        "25669",
+        "25699",
+        "25704",
+        "27530",
+        "27534",
+        "27830",
+        "27863",
+        "28333",
+        "28365",
+        "28578",
+        "38425",
+        "38450",
+        "38452",
+        "38463",
+        "38471",
+        "38485",
+        "42603",
+        "42633",
+        "44214",
+        "44217",
+        "44287",
+        "44606",
+        "44627",
+        "44676",
+        "44677",
+        "44691"
+      ]
+    },
+    {
       "name": "FAYETTEVILLE-LINCOLN COUNTY PUBLIC LIBRARY",
       "system": "FAYETTEVILLE-LINCOLN COUNTY PUBLIC LIBRARY",
       "address": "306 ELK AVENUE NORTH, FAYETTEVILLE, TN",
@@ -22,26 +75,32 @@
     {
       "name": "LEWIS COUNTY PUBLIC LIBRARY",
       "system": "LEWIS COUNTY PUBLIC LIBRARY",
-      "address": "15 KYLE AVENUE, HOHENWALD, TN",
+      "address": "27 THIRD STREET, VANCEBURG, KY",
       "website": "https://librarytechnology.org/library/18570",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38462"
+        "38462",
+        "41135",
+        "41141",
+        "41166",
+        "41179",
+        "41189"
       ]
     },
     {
       "name": "ARDMORE PUBLIC LIBRARY",
       "system": "ARDMORE PUBLIC LIBRARY",
-      "address": "25836 MAIN STREET, ARDMORE, TN",
+      "address": "320 E STREET NW, ARDMORE, OK",
       "website": "https://ardmore.okpls.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "38449",
-        "38460",
-        "38472",
-        "38477"
+        "38477",
+        "73032",
+        "73401",
+        "73443"
       ]
     },
     {
@@ -53,22 +112,20 @@
       "formStatus": "unknown",
       "zipcodes": [
         "37174",
-        "38451",
-        "38461",
-        "38474",
-        "38482",
-        "38487"
+        "38482"
       ]
     },
     {
       "name": "LAWRENCE COUNTY PUBLIC LIBRARY",
       "system": "LAWRENCE COUNTY PUBLIC LIBRARY",
-      "address": "401 COLLEGE STREET, MOULTON, AL",
+      "address": "102 WEST MAIN ST., LOUISA, KY",
       "website": "https://lcplky.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "35650",
+        "35651",
+        "35673",
         "38456",
         "38457",
         "38464",
@@ -76,7 +133,14 @@
         "38469",
         "38481",
         "38483",
-        "38486"
+        "38486",
+        "41124",
+        "41159",
+        "41180",
+        "41201",
+        "41230",
+        "41232",
+        "41264"
       ]
     },
     {
@@ -87,7 +151,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38460",
         "38472",
         "38477",
         "38478"
@@ -105,7 +168,6 @@
         "38451",
         "38461",
         "38474",
-        "38482",
         "38487"
       ]
     },
@@ -118,7 +180,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "38460",
-        "38472",
         "38473",
         "38477"
       ]
@@ -136,7 +197,6 @@
         "37098",
         "37137",
         "37140",
-        "37147",
         "38454"
       ]
     },
@@ -148,32 +208,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37014",
         "37046",
         "37062",
         "37064",
         "37067",
         "37069",
-        "37135",
-        "37179",
-        "38476"
-      ]
-    },
-    {
-      "name": "THE JOHN P. HOLT BRENTWOOD LIBRARY",
-      "system": "THE JOHN P. HOLT BRENTWOOD LIBRARY",
-      "address": "8109 CONCORD ROAD, BRENTWOOD, TN",
-      "website": "https://library.brentwoodtn.gov/Home",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37014",
-        "37027",
-        "37046",
-        "37062",
-        "37067",
-        "37069",
-        "37135",
         "37179",
         "38476"
       ]
@@ -192,8 +231,7 @@
         "38370",
         "38372",
         "38376",
-        "38475",
-        "384HH"
+        "38475"
       ]
     }
   ]

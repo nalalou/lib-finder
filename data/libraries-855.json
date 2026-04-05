@@ -3,7 +3,7 @@
     {
       "name": "CLIFTON PUBLIC LIBRARY",
       "system": "CLIFTON PUBLIC LIBRARY",
-      "address": "588 TURNER AVE, CLIFTON, AZ",
+      "address": "292 PIAGET AVENUE, CLIFTON, NJ",
       "website": "https://cliftonpl.org/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -12,51 +12,16 @@
         "07012",
         "07013",
         "07014",
-        "07420",
-        "07421",
-        "07435",
-        "07470",
-        "07502",
         "07503",
         "07504",
-        "07505",
         "07513",
-        "07514",
-        "07522",
-        "07524",
-        "075HH",
-        "85533"
-      ]
-    },
-    {
-      "name": "DUNCAN PUBLIC LIBRARY",
-      "system": "DUNCAN PUBLIC LIBRARY",
-      "address": "122 N HWY 75, DUNCAN, AZ",
-      "website": "https://greenleelibraries.org/duncan-library-information/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73425",
-        "73442",
-        "73491",
-        "73529",
-        "73533",
-        "73548",
-        "85534"
-      ]
-    },
-    {
-      "name": "HAYDEN PUBLIC LIBRARY",
-      "system": "HAYDEN PUBLIC LIBRARY",
-      "address": "219 W 5TH AVE, HAYDEN, AZ",
-      "website": "https://gcldaz.org/hayden-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "85135",
-        "85235",
-        "85545",
-        "855HH"
+        "60911",
+        "60930",
+        "60951",
+        "67468",
+        "85533",
+        "85540",
+        "85922"
       ]
     },
     {
@@ -67,14 +32,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85530",
         "85531",
-        "85535",
-        "85536",
-        "85542",
         "85546",
-        "85552",
-        "855XX"
+        "85552"
       ]
     },
     {
@@ -85,10 +45,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85235",
-        "85501",
-        "85545",
-        "855HH"
+        "85501"
       ]
     },
     {
@@ -105,8 +62,7 @@
         "85536",
         "85542",
         "85543",
-        "85552",
-        "855XX"
+        "85552"
       ]
     },
     {
@@ -117,10 +73,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85235",
-        "85501",
-        "85545",
-        "855HH"
+        "85501"
       ]
     },
     {
@@ -131,10 +84,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85235",
         "85539",
-        "85545",
-        "855HH"
+        "85545"
       ]
     },
     {
@@ -145,10 +96,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85235",
-        "85541",
-        "85545",
-        "855HH"
+        "85541"
       ]
     },
     {
@@ -159,10 +107,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85235",
-        "85544",
-        "85545",
-        "855HH"
+        "85544"
       ]
     },
     {
@@ -173,10 +118,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85235",
-        "85545",
-        "85550",
-        "855HH"
+        "85550"
       ]
     },
     {
@@ -187,10 +129,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85235",
-        "85545",
-        "85553",
-        "855HH"
+        "85553"
       ]
     },
     {
@@ -201,10 +140,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85235",
-        "85545",
-        "85554",
-        "855HH"
+        "85554"
+      ]
+    },
+    {
+      "name": "LORDSBURG-HIDALGO LIBRARY",
+      "system": "LORDSBURG-HIDALGO LIBRARY",
+      "address": "208 EAST THIRD ST., LORDSBURG, NM",
+      "website": "https://hidalgocounty.org/lordsburg-hidalgo-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "85534",
+        "88009",
+        "88020",
+        "88045",
+        "88056"
       ]
     }
   ]

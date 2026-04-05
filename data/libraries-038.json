@@ -1,218 +1,69 @@
 {
   "libraries": [
     {
-      "name": "GRIFFIN FREE PUBLIC LIBRARY",
-      "system": "GRIFFIN FREE PUBLIC LIBRARY",
-      "address": "22 HOOKSETT ROAD, AUBURN, NH",
-      "website": "https://www.auburnnh.gov/210/Griffin-Free-Public-Library",
+      "name": "NEW CASTLE PUBLIC LIBRARY",
+      "system": "NEW CASTLE PUBLIC LIBRARY",
+      "address": "424 DELAWARE STREET, NEW CASTLE, DE",
+      "website": "https://www.newcastle.nh.gov/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03032",
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03854"
-      ]
-    },
-    {
-      "name": "LEACH LIBRARY",
-      "system": "LEACH LIBRARY",
-      "address": "276 MAMMOTH ROAD, LONDONDERRY, NH",
-      "website": "https://www.londonderrynh.gov/371/Leach-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03036",
-        "03044",
-        "03053",
-        "03291",
-        "03826",
-        "03854"
-      ]
-    },
-    {
-      "name": "DUDLEY-TUCKER LIBRARY",
-      "system": "DUDLEY-TUCKER LIBRARY",
-      "address": "6 EPPING STREET, RAYMOND, NH",
-      "website": "https://www.raymondnh.gov/library/index.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03036",
-        "03044",
-        "03077",
-        "03291",
-        "03826",
-        "03854"
-      ]
-    },
-    {
-      "name": "KELLEY LIBRARY",
-      "system": "KELLEY LIBRARY",
-      "address": "234 MAIN STREET, SALEM, NH",
-      "website": "https://www.kelleylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03036",
-        "03044",
-        "03079",
-        "03291",
-        "03826",
-        "03854"
-      ]
-    },
-    {
-      "name": "NESMITH LIBRARY",
-      "system": "NESMITH LIBRARY",
-      "address": "8 FELLOWS ROAD, WINDHAM, NH",
-      "website": "https://nesmithlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03036",
-        "03044",
-        "03087",
-        "03291",
-        "03826",
-        "03854"
-      ]
-    },
-    {
-      "name": "SMYTH PUBLIC LIBRARY",
-      "system": "SMYTH PUBLIC LIBRARY",
-      "address": "55 HIGH STREET, CANDIA, NH",
-      "website": "http://smythpl.org/",
-      "formUrl": "http://smythpl.org/how-do-i/recommend-a-purchase/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "03034",
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03854"
-      ]
-    },
-    {
-      "name": "PHILBRICK-JAMES LIBRARY",
-      "system": "PHILBRICK-JAMES LIBRARY",
-      "address": "4 CHURCH STREET, DEERFIELD, NH",
-      "website": "https://www.philbrickjameslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03036",
-        "03037",
-        "03044",
-        "03291",
-        "03826",
-        "03854"
-      ]
-    },
-    {
-      "name": "DERRY PUBLIC LIBRARY",
-      "system": "DERRY PUBLIC LIBRARY",
-      "address": "64 EAST BROADWAY, DERRY, NH",
-      "website": "https://derrypl.org/",
-      "formUrl": "https://derrypl.org/requests",
-      "formStatus": "verified",
-      "zipcodes": [
-        "03036",
-        "03038",
-        "03044",
-        "03291",
-        "03826",
-        "03854"
-      ]
-    },
-    {
-      "name": "TAYLOR LIBRARY",
-      "system": "TAYLOR LIBRARY",
-      "address": "49 EAST DERRY ROAD, EAST DERRY, NH",
-      "website": "https://www.taylorlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03036",
-        "03041",
-        "03044",
-        "03291",
-        "03826",
-        "03854"
-      ]
-    },
-    {
-      "name": "HARVEY-MITCHELL MEMORIAL LIBRARY",
-      "system": "HARVEY-MITCHELL MEMORIAL LIBRARY",
-      "address": "151 MAIN STREET, EPPING, NH",
-      "website": "http://www.eppinglibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03036",
-        "03042",
-        "03044",
-        "03291",
-        "03826",
-        "03854"
-      ]
-    },
-    {
-      "name": "FREMONT PUBLIC LIBRARY",
-      "system": "FREMONT PUBLIC LIBRARY",
-      "address": "1004 WEST TOLEDO STREET, FREMONT, IN",
-      "website": "https://www.fremont.nh.gov/fremont-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
         "03854",
-        "46737"
+        "16101",
+        "16102",
+        "16105",
+        "16116",
+        "16132",
+        "16142",
+        "16143",
+        "16155",
+        "16156",
+        "16157",
+        "16160",
+        "19701",
+        "19702",
+        "19710",
+        "19713",
+        "19720",
+        "19731",
+        "19732",
+        "19733",
+        "19802",
+        "19803",
+        "19804",
+        "19805",
+        "19806",
+        "19807",
+        "19808",
+        "19809"
       ]
     },
     {
       "name": "WAKEFIELD PUBLIC LIBRARY",
       "system": "WAKEFIELD PUBLIC LIBRARY",
-      "address": "205 THIRD STREET, WAKEFIELD, KS",
+      "address": "401 HANCOCK STREET, WAKEFIELD, MI",
       "website": "https://citylibrary.com/public-libraries/wakefield-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03259",
-        "03813",
         "03830",
-        "03832",
-        "03838",
-        "03845",
-        "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897",
+        "49959",
+        "49968",
+        "67458",
         "67487"
       ]
     },
     {
-      "name": "EAST ROCHESTER PUBLIC LIBRARY",
-      "system": "EAST ROCHESTER PUBLIC LIBRARY",
-      "address": "935 PORTLAND STREET, EAST ROCHESTER, NH",
-      "website": "https://librarytechnology.org/library/21455",
+      "name": "ROCHESTER PUBLIC LIBRARY",
+      "system": "ROCHESTER PUBLIC LIBRARY",
+      "address": "101 2ND STREET SE, ROCHESTER, MN",
+      "website": "https://www.rochesterpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "03839",
+        "03867",
         "03868",
-        "14445",
-        "14467",
-        "14506",
-        "14514",
-        "14586",
         "14604",
         "14605",
         "14606",
@@ -229,20 +80,106 @@
         "14620",
         "14621",
         "14622",
-        "14625",
-        "14626",
-        "146HH"
+        "15027",
+        "15042",
+        "15074",
+        "16123",
+        "16136",
+        "53105",
+        "53139",
+        "53167",
+        "53185",
+        "55901",
+        "55902",
+        "55904",
+        "55906",
+        "55920",
+        "55929",
+        "55934",
+        "55960"
+      ]
+    },
+    {
+      "name": "EAST ROCHESTER PUBLIC LIBRARY",
+      "system": "EAST ROCHESTER PUBLIC LIBRARY",
+      "address": "317 MAIN STREET, EAST ROCHESTER, NY",
+      "website": "https://librarytechnology.org/library/21455",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03839",
+        "03867",
+        "03868",
+        "14445",
+        "14610",
+        "14625"
+      ]
+    },
+    {
+      "name": "DOVER PUBLIC LIBRARY",
+      "system": "DOVER PUBLIC LIBRARY",
+      "address": "525 N. WALNUT ST., DOVER, OH",
+      "website": "https://www.doverlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03820",
+        "19901",
+        "19902",
+        "19904",
+        "19934",
+        "19946",
+        "19953",
+        "19955",
+        "19962",
+        "19977",
+        "19979",
+        "44612",
+        "44622",
+        "44656",
+        "44671",
+        "44678",
+        "44680",
+        "44681",
+        "44697"
       ]
     },
     {
       "name": "PORTSMOUTH PUBLIC LIBRARY",
       "system": "PORTSMOUTH PUBLIC LIBRARY",
-      "address": "175 PARROTT AVENUE, PORTSMOUTH, NH",
+      "address": "601 COURT STREET, PORTSMOUTH, VA",
       "website": "http://www.cityofportsmouth.com/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03801"
+        "03854",
+        "23320",
+        "23321",
+        "23324",
+        "23325",
+        "23435",
+        "23436",
+        "23455",
+        "23462",
+        "23464",
+        "23502",
+        "23503",
+        "23504",
+        "23505",
+        "23507",
+        "23508",
+        "23509",
+        "23510",
+        "23513",
+        "23517",
+        "23518",
+        "23523",
+        "23701",
+        "23702",
+        "23703",
+        "23704",
+        "23707",
+        "23708"
       ]
     },
     {
@@ -253,12 +190,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
         "03811",
-        "03826",
-        "03854"
+        "03826"
       ]
     },
     {
@@ -269,19 +202,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03259",
         "03813",
-        "03830",
-        "03832",
         "03838",
         "03845",
-        "03846",
-        "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897"
+        "03846"
       ]
     },
     {
@@ -292,12 +216,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03833",
-        "03854"
+        "03833"
       ]
     },
     {
@@ -308,12 +227,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03848",
-        "03854"
+        "03848"
       ]
     },
     {
@@ -324,14 +238,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03815",
-        "03820",
-        "03824",
-        "03825",
-        "03839",
-        "03861",
-        "03867",
-        "03887"
+        "03861"
       ]
     },
     {
@@ -342,19 +249,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03259",
-        "03813",
-        "03830",
         "03832",
-        "03838",
-        "03845",
         "03849",
-        "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897"
+        "03875"
       ]
     },
     {
@@ -365,13 +262,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03815",
-        "03820",
-        "03824",
-        "03825",
-        "03839",
         "03851",
-        "03867",
         "03887"
       ]
     },
@@ -383,14 +274,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03815",
-        "03820",
-        "03824",
+        "03852",
+        "03887"
+      ]
+    },
+    {
+      "name": "BARRINGTON PUBLIC LIBRARY",
+      "system": "BARRINGTON PUBLIC LIBRARY",
+      "address": "105 RAMSDELL LANE, BARRINGTON, NH",
+      "website": "https://www.barrington.nh.gov/barrington-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02806",
         "03825",
         "03839",
-        "03852",
-        "03867",
-        "03887"
+        "03867"
       ]
     },
     {
@@ -401,13 +300,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03815",
-        "03820",
-        "03824",
-        "03825",
-        "03839",
         "03855",
-        "03867",
         "03887"
       ]
     },
@@ -419,11 +312,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03854",
         "03856"
       ]
     },
@@ -435,19 +323,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03259",
         "03812",
-        "03813",
-        "03830",
-        "03832",
         "03838",
-        "03845",
-        "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897"
+        "03845"
       ]
     },
     {
@@ -458,12 +336,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03801",
-        "03826",
-        "03854"
+        "03801"
       ]
     },
     {
@@ -474,11 +347,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03854",
         "03857"
       ]
     },
@@ -490,11 +358,6 @@
       "formUrl": "https://www.newton-nh.gov/gale-library/gale-library/pages/interlibrary-loan-service",
       "formStatus": "verified",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03854",
         "03858"
       ]
     },
@@ -506,11 +369,6 @@
       "formUrl": "https://nhplib.org/books-movies-and-more/interlibrary-loan/",
       "formStatus": "verified",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03854",
         "03862"
       ]
     },
@@ -522,19 +380,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03259",
-        "03813",
         "03814",
-        "03830",
-        "03832",
-        "03838",
-        "03845",
-        "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897"
+        "03864"
       ]
     },
     {
@@ -545,11 +392,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03854",
         "03865"
       ]
     },
@@ -561,10 +403,6 @@
       "formUrl": "https://ryepubliclibrary.org/inter-library-loan-requests/",
       "formStatus": "verified",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
         "03854",
         "03870"
       ]
@@ -577,11 +415,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03854",
         "03873"
       ]
     },
@@ -593,11 +426,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03854",
         "03874"
       ]
     },
@@ -609,14 +437,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03815",
-        "03820",
-        "03824",
-        "03825",
-        "03839",
-        "03867",
-        "03878",
-        "03887"
+        "03868",
+        "03878"
       ]
     },
     {
@@ -627,12 +449,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03827",
-        "03854"
+        "03827"
       ]
     },
     {
@@ -643,14 +460,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03815",
-        "03820",
-        "03824",
-        "03825",
-        "03839",
-        "03867",
-        "03884",
-        "03887"
+        "03884"
       ]
     },
     {
@@ -661,11 +471,6 @@
       "formUrl": "https://www.library.strathamnh.gov/services/interlibrary_loan.php",
       "formStatus": "verified",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03854",
         "03885"
       ]
     },
@@ -677,19 +482,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03259",
-        "03813",
         "03816",
-        "03830",
-        "03832",
-        "03838",
-        "03845",
         "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897"
+        "03864"
       ]
     },
     {
@@ -700,19 +495,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03259",
-        "03813",
         "03830",
-        "03832",
-        "03838",
-        "03845",
-        "03853",
-        "03864",
-        "03872",
-        "03875",
-        "03882",
-        "03883",
-        "03897"
+        "03872"
       ]
     },
     {
@@ -723,19 +507,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03259",
-        "03813",
-        "03830",
-        "03832",
-        "03838",
-        "03845",
         "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03894",
-        "03897"
+        "03894"
       ]
     },
     {
@@ -746,12 +519,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03833",
-        "03854"
+        "03833"
       ]
     },
     {
@@ -762,19 +530,8 @@
       "formUrl": "https://www.conwaypubliclibrary.org/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "03259",
-        "03813",
         "03818",
-        "03830",
-        "03832",
-        "03838",
-        "03845",
-        "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897"
+        "03832"
       ]
     },
     {
@@ -785,19 +542,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03259",
         "03813",
-        "03830",
-        "03832",
         "03838",
         "03845",
-        "03853",
-        "03860",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897"
+        "03860"
       ]
     },
     {
@@ -808,12 +556,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
         "03819",
-        "03826",
-        "03854"
+        "03826"
       ]
     },
     {
@@ -824,29 +568,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03218",
-        "032HH",
         "03809",
-        "03810",
-        "038HH"
+        "03810"
       ]
     },
     {
       "name": "DURHAM PUBLIC LIBRARY",
       "system": "DURHAM PUBLIC LIBRARY",
-      "address": "7 MAPLE AVE., DURHAM, CT",
+      "address": "49 MADBURY ROAD, DURHAM, NH",
       "website": "https://durhamlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03815",
         "03820",
         "03824",
-        "03825",
-        "03839",
-        "03867",
-        "03887",
-        "06422"
+        "06422",
+        "06441"
       ]
     },
     {
@@ -857,35 +594,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03827",
-        "03854"
+        "03827"
       ]
     },
     {
       "name": "EFFINGHAM PUBLIC LIBRARY",
       "system": "EFFINGHAM PUBLIC LIBRARY",
-      "address": "200 NORTH THIRD STREET, EFFINGHAM, IL",
+      "address": "30 TOWN HOUSE ROAD, EFFINGHAM, NH",
       "website": "https://effingham.lib.nh.us/",
       "formUrl": "https://nhais.agshareit.com/home?cid=nhais&lid=nhais",
       "formStatus": "verified",
       "zipcodes": [
-        "03259",
-        "03813",
         "03830",
-        "03832",
-        "03838",
-        "03845",
-        "03853",
         "03864",
-        "03875",
         "03882",
-        "03883",
-        "03897",
-        "62401"
+        "62401",
+        "62424",
+        "62461",
+        "62467",
+        "62473"
       ]
     },
     {
@@ -896,14 +623,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03815",
-        "03820",
-        "03824",
-        "03825",
-        "03835",
-        "03839",
-        "03867",
-        "03887"
+        "03835"
       ]
     },
     {
@@ -914,19 +634,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03259",
-        "03813",
-        "03830",
         "03832",
-        "03836",
-        "03838",
-        "03845",
-        "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897"
+        "03836"
       ]
     },
     {
@@ -937,12 +646,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03840",
-        "03854"
+        "03840"
       ]
     },
     {
@@ -953,12 +657,8 @@
       "formUrl": "https://www.hampsteadlibrary.org/interlibrary-loan-1",
       "formStatus": "verified",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
         "03826",
-        "03841",
-        "03854"
+        "03841"
       ]
     },
     {
@@ -969,12 +669,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03842",
-        "03854"
+        "03842"
       ]
     },
     {
@@ -985,12 +680,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
-        "03044",
-        "03291",
-        "03826",
-        "03844",
-        "03854"
+        "03844"
       ]
     },
     {
@@ -1002,18 +692,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03259",
-        "03813",
-        "03830",
-        "03832",
-        "03838",
-        "03845",
-        "03853",
-        "03864",
         "03875",
-        "03882",
         "03883",
-        "03886",
-        "03897"
+        "03886"
       ]
     },
     {
@@ -1024,19 +705,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03259",
-        "03813",
         "03817",
-        "03830",
-        "03832",
-        "03838",
-        "03845",
-        "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897"
+        "03875"
       ]
     },
     {
@@ -1048,10 +718,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03218",
-        "032HH",
-        "03810",
-        "03837",
-        "038HH"
+        "03837"
       ]
     },
     {
@@ -1062,14 +729,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03815",
         "03820",
-        "03823",
-        "03824",
-        "03825",
-        "03839",
-        "03867",
-        "03887"
+        "03823"
       ]
     },
     {
@@ -1080,14 +741,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03815",
-        "03820",
-        "03824",
-        "03825",
-        "03839",
-        "03867",
-        "03869",
-        "03887"
+        "03869"
       ]
     },
     {
@@ -1099,70 +753,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03218",
-        "032HH",
         "03810",
-        "03837",
-        "038HH"
-      ]
-    },
-    {
-      "name": "BELMONT PUBLIC LIBRARY",
-      "system": "BELMONT PUBLIC LIBRARY",
-      "address": "146 MAIN STREET, BELMONT, NH",
-      "website": "https://belmontpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03218",
-        "03220",
-        "032HH",
-        "03810",
-        "038HH"
-      ]
-    },
-    {
-      "name": "LACONIA PUBLIC LIBRARY",
-      "system": "LACONIA PUBLIC LIBRARY",
-      "address": "695 MAIN STREET, LACONIA, NH",
-      "website": "https://laconialibrary.org/1000/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03218",
-        "03246",
-        "032HH",
-        "03810",
-        "038HH"
-      ]
-    },
-    {
-      "name": "OSCAR FOSS MEMORIAL LIBRARY",
-      "system": "OSCAR FOSS MEMORIAL LIBRARY",
-      "address": "111 SOUTH BARNSTEAD ROAD, CENTER BARNSTEAD, NH",
-      "website": "https://www.barnstead.org/about/pages/oscar-foss-memorial-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03218",
-        "03225",
-        "032HH",
-        "03810",
-        "038HH"
-      ]
-    },
-    {
-      "name": "MEREDITH PUBLIC LIBRARY",
-      "system": "MEREDITH PUBLIC LIBRARY",
-      "address": "91 MAIN STREET, MEREDITH, NH",
-      "website": "https://meredithlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03218",
-        "03253",
-        "032HH",
-        "03810",
-        "038HH"
+        "03837"
       ]
     },
     {
@@ -1175,79 +767,8 @@
       "zipcodes": [
         "03254",
         "03259",
-        "03813",
-        "03830",
-        "03832",
-        "03838",
-        "03845",
         "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897"
-      ]
-    },
-    {
-      "name": "GORDON-NASH LIBRARY AT NEW HAMPTON SCHOOL",
-      "system": "GORDON-NASH LIBRARY AT NEW HAMPTON SCHOOL",
-      "address": "69 MAIN STREET, NEW HAMPTON, NH",
-      "website": "https://gordonnashlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03218",
-        "03256",
-        "032HH",
-        "03810",
-        "038HH"
-      ]
-    },
-    {
-      "name": "CHESLEY MEMORIAL LIBRARY",
-      "system": "CHESLEY MEMORIAL LIBRARY",
-      "address": "8 MOUNTAIN AVENUE, NORTHWOOD, NH",
-      "website": "https://www.chesleylib.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03036",
-        "03044",
-        "03261",
-        "03291",
-        "03826",
-        "03854"
-      ]
-    },
-    {
-      "name": "BLAISDELL MEMORIAL LIBRARY",
-      "system": "BLAISDELL MEMORIAL LIBRARY",
-      "address": "129 STAGE ROAD, NOTTINGHAM, NH",
-      "website": "https://nottinghamlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03036",
-        "03044",
-        "03290",
-        "03291",
-        "03826",
-        "03854"
-      ]
-    },
-    {
-      "name": "SANBORNTON PUBLIC LIBRARY",
-      "system": "SANBORNTON PUBLIC LIBRARY",
-      "address": "27 MEETINGHOUSE HILL ROAD, SANBORNTON, NH",
-      "website": "https://www.sanborntonnh.org/189/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03218",
-        "03269",
-        "032HH",
-        "03810",
-        "038HH"
+        "03883"
       ]
     },
     {
@@ -1260,32 +781,7 @@
       "zipcodes": [
         "03227",
         "03259",
-        "03813",
-        "03830",
-        "03832",
-        "03838",
-        "03845",
-        "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897"
-      ]
-    },
-    {
-      "name": "JAMES E. NICHOLS MEMORIAL LIBRARY",
-      "system": "JAMES E. NICHOLS MEMORIAL LIBRARY",
-      "address": "35 PLYMOUTH STREET, CENTER HARBOR, NH",
-      "website": "https://centerharborlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03218",
-        "03226",
-        "032HH",
-        "03810",
-        "038HH"
+        "03883"
       ]
     },
     {
@@ -1296,26 +792,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03218",
         "03249",
-        "032HH",
-        "03810",
-        "038HH"
-      ]
-    },
-    {
-      "name": "GILMANTON CORNER PUBLIC LIBRARY",
-      "system": "GILMANTON CORNER PUBLIC LIBRARY",
-      "address": "509 PROVINCE ROAD, GILMANTON, NH",
-      "website": "https://www.gilmantonnh.gov/417/Corners-Library-Municipal-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03218",
-        "03237",
-        "032HH",
-        "03810",
-        "038HH"
+        "03810"
       ]
     }
   ]

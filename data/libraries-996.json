@@ -3,17 +3,35 @@
     {
       "name": "PALMER PUBLIC LIBRARY",
       "system": "PALMER PUBLIC LIBRARY",
-      "address": "655 SOUTH VALLEY WAY, PALMER, AK",
+      "address": "1455 NORTH MAIN ST., PALMER, MA",
       "website": "https://www.palmerlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "371XX",
-        "37301",
+        "01069",
+        "01080",
         "37339",
         "37365",
-        "37366",
+        "50571",
+        "99567",
         "99645"
+      ]
+    },
+    {
+      "name": "HOMER PUBLIC LIBRARY",
+      "system": "HOMER PUBLIC LIBRARY",
+      "address": "385 SOUTH ST. N.W., UTICA, OH",
+      "website": "https://www.cityofhomer-ak.gov/library",
+      "formUrl": "https://www.cityofhomer-ak.gov/library/library/suggest-purchase-0",
+      "formStatus": "verified",
+      "zipcodes": [
+        "43013",
+        "43027",
+        "43031",
+        "43071",
+        "43080",
+        "49245",
+        "99603"
       ]
     },
     {
@@ -24,7 +42,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99623"
+        "99623",
+        "99652",
+        "99694"
       ]
     },
     {
@@ -46,6 +66,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "99540",
+        "99587",
         "99605"
       ]
     },
@@ -57,6 +79,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "99568",
         "99610"
       ]
     },
@@ -90,7 +113,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99627"
+        "99627",
+        "99691"
       ]
     },
     {
@@ -101,7 +125,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99633"
+        "99549",
+        "99564",
+        "99565",
+        "99579",
+        "99633",
+        "99649",
+        "99670"
       ]
     },
     {
@@ -145,7 +175,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99669"
+        "99669",
+        "99672"
       ]
     },
     {
@@ -156,6 +187,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "99645",
         "99674"
       ]
     },
@@ -178,6 +210,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "99677",
         "99686"
       ]
     },
@@ -200,6 +233,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "99667",
         "99688"
       ]
     },
@@ -211,7 +245,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99631"
+        "99631",
+        "99693"
       ]
     },
     {
@@ -244,7 +279,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99685"
+        "99553",
+        "99591",
+        "99638",
+        "99660",
+        "99685",
+        "99692"
       ]
     },
     {
@@ -255,7 +295,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99613"
+        "99613",
+        "99625",
+        "99636"
       ]
     },
     {
@@ -266,7 +308,173 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99647"
+        "99606",
+        "99640",
+        "99647",
+        "99653",
+        "99682"
+      ]
+    },
+    {
+      "name": "CHARLES EVANS COMMUNITY/SCHOOL LIBRARY",
+      "system": "CHARLES EVANS COMMUNITY/SCHOOL LIBRARY",
+      "address": "299 ANTOSKI ROAD, GALENA, AK",
+      "website": "https://librarytechnology.org/library/14276",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99684",
+        "99741",
+        "99746",
+        "99748",
+        "99751",
+        "99753",
+        "99754",
+        "99765",
+        "99768",
+        "99786"
+      ]
+    },
+    {
+      "name": "KEGOAYAH KOZGA LIBRARY",
+      "system": "KEGOAYAH KOZGA LIBRARY",
+      "address": "100 WEST 7TH AVENUE, NOME, AK",
+      "website": "https://www.nomealaska.org/1317/Kegoayah-Kozga-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99554",
+        "99581",
+        "99620",
+        "99659",
+        "99666",
+        "99671",
+        "99739",
+        "99742",
+        "99762",
+        "99769",
+        "99771",
+        "99772",
+        "99778",
+        "99783",
+        "99784",
+        "99785"
+      ]
+    },
+    {
+      "name": "HAINES BOROUGH PUBLIC LIBRARY",
+      "system": "HAINES BOROUGH PUBLIC LIBRARY",
+      "address": "111 THIRD AVENUE SOUTH, HAINES, AK",
+      "website": "http://www.haineslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99689",
+        "99827"
+      ]
+    },
+    {
+      "name": "KUSKOKWIM CONSORTIUM LIBRARY",
+      "system": "KUSKOKWIM CONSORTIUM LIBRARY",
+      "address": "420 CHIEF EDDIE HOFFMAN HIGHWAY, BETHEL, AK",
+      "website": "https://www.uaf.edu/bethellibrary/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99551",
+        "99552",
+        "99559",
+        "99561",
+        "99563",
+        "99578",
+        "99585",
+        "99604",
+        "99609",
+        "99614",
+        "99621",
+        "99622",
+        "99630",
+        "99632",
+        "99634",
+        "99637",
+        "99641",
+        "99650",
+        "99655",
+        "99657",
+        "99658",
+        "99662",
+        "99679",
+        "99680",
+        "99681",
+        "99690"
+      ]
+    },
+    {
+      "name": "COLD BAY PUBLIC LIBRARY",
+      "system": "COLD BAY PUBLIC LIBRARY",
+      "address": "10 BARANOV ROAD, COLD BAY, AK",
+      "website": "https://librarytechnology.org/library/14265",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99548",
+        "99571",
+        "99583",
+        "99612",
+        "99648",
+        "99661",
+        "99695"
+      ]
+    },
+    {
+      "name": "DILLINGHAM PUBLIC LIBRARY",
+      "system": "DILLINGHAM PUBLIC LIBRARY",
+      "address": "306 D STREET WEST, DILLINGHAM, AK",
+      "website": "https://www.dillinghamak.us/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99555",
+        "99569",
+        "99576",
+        "99580",
+        "99589",
+        "99628",
+        "99651",
+        "99678"
+      ]
+    },
+    {
+      "name": "JESSIE WAKEFIELD MEMORIAL LIBRARY",
+      "system": "JESSIE WAKEFIELD MEMORIAL LIBRARY",
+      "address": "207 SPRUCE DRIVE, PORT LIONS, AK",
+      "website": "https://www.alaskahandbook.com/places/jessie-wakefield-memorial-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99550",
+        "99624",
+        "99643"
+      ]
+    },
+    {
+      "name": "ANIAK PUBLIC LIBRARY",
+      "system": "ANIAK PUBLIC LIBRARY",
+      "address": "270 RIVERFRONT DRIVE, ANIAK, AK",
+      "website": "https://www.kyuk.org/education/2025-04-21/after-decades-aniak-public-library-closes-its-doors",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "99557",
+        "99558",
+        "99575",
+        "99590",
+        "99602",
+        "99607",
+        "99626",
+        "99656",
+        "99665",
+        "99668"
       ]
     }
   ]

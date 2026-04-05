@@ -8,22 +8,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05001",
         "05031",
-        "05034",
         "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
         "05772"
       ]
     },
@@ -35,535 +21,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05001",
         "05032",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "HARTLAND PUBLIC",
-      "system": "HARTLAND PUBLIC",
-      "address": "153 RTE. 5, HARTLAND, VT",
-      "website": "https://www.hartlandlibraryvt.org/",
-      "formUrl": "https://www.hartlandlibraryvt.org/request/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05048",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "NORWICH PUBLIC",
-      "system": "NORWICH PUBLIC",
-      "address": "209 SOUTH PARKWAY, NORWICH, KS",
-      "website": "https://www.norwichlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772",
-        "67118"
-      ]
-    },
-    {
-      "name": "ABBOTT MEMORIAL",
-      "system": "ABBOTT MEMORIAL",
-      "address": "LIBRARY ST. & STAGE RD., S. POMFRET, VT",
-      "website": "https://www.abbottmemoriallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05067",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "READING PUBLIC",
-      "system": "READING PUBLIC",
-      "address": "717 VT RTE 106, READING, VT",
-      "website": "https://readinglibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05062",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "ROYALTON MEMORIAL",
-      "system": "ROYALTON MEMORIAL",
-      "address": "23 ALEXANDER PL., SOUTH ROYALTON, VT",
-      "website": "https://royaltonvt.gov/services/royalton_memorial_library.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05068",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "BAXTER MEMORIAL",
-      "system": "BAXTER MEMORIAL",
-      "address": "5114 RTE. 14, SHARON, VT",
-      "website": "https://sharonvtlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05065",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "WEATHERSFIELD PROCTOR",
-      "system": "WEATHERSFIELD PROCTOR",
-      "address": "5181 RTE. 5, ASCUTNEY, VT",
-      "website": "https://www.weathersfieldproctorlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05030",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "MARY L. BLOOD MEMORIAL",
-      "system": "MARY L. BLOOD MEMORIAL",
-      "address": "41 BROWNSVILLE HARTLAND RD., BROWNSVILLE, VT",
-      "website": "https://www.marylbloodmemoriallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05037",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "WINDSOR PUBLIC",
-      "system": "WINDSOR PUBLIC",
-      "address": "43 STATE ST., WINDSOR, VT",
-      "website": "https://windsorlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "05089",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "NORMAN WILLIAMS PUBLIC",
-      "system": "NORMAN WILLIAMS PUBLIC",
-      "address": "10 S. PARK ST., WOODSTOCK, VT",
-      "website": "https://normanwilliams.org/",
-      "formUrl": "https://normanwilliams.org/borrow/catalog-interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "05091",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "HARTFORD",
-      "system": "HARTFORD",
-      "address": "1587 MAPLE ST., HARTFORD, VT",
-      "website": "https://www.hartfordvtlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05047",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "QUECHEE",
-      "system": "QUECHEE",
-      "address": "1957 QUECHEE MAIN ST., QUECHEE, VT",
-      "website": "https://www.quecheeandwilderlibraries.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05059",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "WEST HARTFORD",
-      "system": "WEST HARTFORD",
-      "address": "5133 RTE. 14, WEST HARTFORD, VT",
-      "website": "https://www.westhartfordlibraryvt.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05059",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "CAVENDISH FLETCHER COMMUNITY",
-      "system": "CAVENDISH FLETCHER COMMUNITY",
-      "address": "573 MAIN ST., PROCTORSVILLE, VT",
-      "website": "https://www.cavendishlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05153",
-        "05772"
-      ]
-    },
-    {
-      "name": "WHITING",
-      "system": "WHITING",
-      "address": "117 MAIN ST., CHESTER, VT",
-      "website": "https://www.whitinglibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05143",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "FLETCHER MEMORIAL",
-      "system": "FLETCHER MEMORIAL",
-      "address": "88 MAIN ST., LUDLOW, VT",
-      "website": "https://www.fmlnews.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05149",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "TYSON",
-      "system": "TYSON",
-      "address": "286 DUBLIN RD., LUDLOW, VT",
-      "website": "https://tysonlibrary.wordpress.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05149",
-        "05150",
-        "05151",
-        "05772"
-      ]
-    },
-    {
-      "name": "SPRINGFIELD TOWN",
-      "system": "SPRINGFIELD TOWN",
-      "address": "43 MAIN ST., SPRINGFIELD, VT",
-      "website": "https://www.springfieldtownlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05156",
-        "05772"
-      ]
-    },
-    {
-      "name": "WILDER MEMORIAL",
-      "system": "WILDER MEMORIAL",
-      "address": "24 LAWRENCE HILL RD., WESTON, VT",
-      "website": "https://wildermemoriallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05161",
         "05772"
       ]
     },
@@ -576,13 +34,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05731",
-        "05732",
-        "05736",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05775"
+        "05732"
       ]
     },
     {
@@ -593,14 +45,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05733",
-        "05736",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05775"
+        "05733"
       ]
     },
     {
@@ -612,13 +57,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05732",
-        "05735",
-        "05736",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05775"
+        "05735"
       ]
     },
     {
@@ -629,14 +68,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
         "05737",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05775"
+        "05744"
       ]
     },
     {
@@ -647,14 +80,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05456",
-        "054HH",
         "05734",
-        "05747",
         "05753",
-        "05766",
-        "05778",
-        "057HH"
+        "05778"
       ]
     },
     {
@@ -665,14 +93,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
-        "05739",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05775"
+        "05739"
       ]
     },
     {
@@ -684,13 +105,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05732",
-        "05736",
-        "05742",
-        "05743",
-        "05744",
-        "05750",
-        "05758",
-        "05775"
+        "05743"
       ]
     },
     {
@@ -701,14 +116,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05456",
-        "054HH",
-        "05734",
         "05747",
-        "05748",
-        "05766",
-        "05778",
-        "057HH"
+        "05748"
       ]
     },
     {
@@ -719,14 +128,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05456",
-        "054HH",
         "05734",
-        "05747",
         "05753",
-        "05766",
-        "05778",
-        "057HH"
+        "05766"
       ]
     },
     {
@@ -737,13 +141,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
-        "05742",
-        "05744",
-        "05750",
         "05757",
-        "05758",
         "05775"
       ]
     },
@@ -756,13 +154,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05730",
-        "05732",
-        "05736",
         "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05775"
+        "05758"
       ]
     },
     {
@@ -773,14 +166,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05456",
-        "054HH",
-        "05734",
-        "05747",
-        "05760",
-        "05766",
-        "05778",
-        "057HH"
+        "05760"
       ]
     },
     {
@@ -791,12 +177,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
         "05761",
         "05775"
       ]
@@ -809,14 +189,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05762",
-        "05775"
+        "05762"
       ]
     },
     {
@@ -827,14 +200,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
-        "05742",
         "05744",
-        "05750",
-        "05758",
-        "05763",
-        "05775"
+        "05763"
       ]
     },
     {
@@ -845,14 +212,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05764",
-        "05775"
+        "05764"
       ]
     },
     {
@@ -863,14 +223,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
         "05736",
-        "05742",
         "05744",
-        "05750",
-        "05758",
-        "05765",
-        "05775"
+        "05765"
       ]
     },
     {
@@ -881,23 +236,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
-        "05767",
-        "05772"
+        "05767"
       ]
     },
     {
@@ -908,12 +247,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05152",
-        "05252",
-        "05253",
-        "05254",
-        "05260",
-        "05262",
         "05776"
       ]
     },
@@ -926,13 +259,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05701",
-        "05732",
-        "05736",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05775"
+        "05736"
       ]
     },
     {
@@ -943,14 +270,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
-        "05742",
-        "05744",
-        "05750",
-        "05751",
-        "05758",
-        "05775"
+        "05751"
       ]
     },
     {
@@ -961,14 +281,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05456",
-        "054HH",
         "05734",
-        "05747",
-        "05766",
         "05770",
-        "05778",
-        "057HH"
+        "05778"
       ]
     },
     {
@@ -979,14 +294,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
         "05738",
         "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05775"
+        "05758"
       ]
     },
     {
@@ -997,14 +307,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05773",
-        "05775"
+        "05773"
       ]
     },
     {
@@ -1015,14 +318,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
         "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05773",
-        "05775"
+        "05773"
       ]
     },
     {
@@ -1033,12 +330,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
         "05774",
         "05775"
       ]
@@ -1051,13 +342,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
         "05736",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05775",
         "05777"
       ]
     },
@@ -1069,14 +354,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05732",
-        "05736",
-        "05742",
-        "05744",
-        "05750",
-        "05758",
-        "05759",
-        "05775"
+        "05759"
       ]
     },
     {
@@ -1087,21 +365,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05001",
-        "05034",
-        "05035",
-        "05052",
-        "05053",
-        "05055",
-        "05056",
-        "05071",
-        "05073",
-        "05084",
-        "05088",
-        "050HH",
-        "05142",
-        "05150",
-        "05151",
         "05746",
         "05772"
       ]
@@ -1114,32 +377,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05456",
-        "054HH",
-        "05734",
-        "05747",
         "05766",
         "05769",
-        "05778",
-        "057HH"
-      ]
-    },
-    {
-      "name": "LAWRENCE MEMORIAL",
-      "system": "LAWRENCE MEMORIAL",
-      "address": "40 NORTH ST., BRISTOL, VT",
-      "website": "https://www.lawrencelibraryvt.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05443",
-        "05456",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05778",
-        "057HH"
+        "05778"
       ]
     },
     {
@@ -1151,85 +391,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05443",
-        "05456",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05778",
-        "057HH"
-      ]
-    },
-    {
-      "name": "RUSSELL MEMORIAL",
-      "system": "RUSSELL MEMORIAL",
-      "address": "92 MONKTON RIDGE RD., NORTH FERRISBURGH, VT",
-      "website": "https://monktonlibrary.org/",
-      "formUrl": "https://monktonlibrary.org/interlibrary-loan/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "05456",
-        "05473",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05778",
-        "057HH"
-      ]
-    },
-    {
-      "name": "NEW HAVEN COMMUNITY",
-      "system": "NEW HAVEN COMMUNITY",
-      "address": "78 NORTH ST., SUITE 2, NEW HAVEN, VT",
-      "website": "https://www.nhcl.org/?browseCategory=newhavencommunity_aspen_new_to_the_collection",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05456",
-        "05472",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05778",
-        "057HH"
-      ]
-    },
-    {
-      "name": "STARKSBORO PUBLIC",
-      "system": "STARKSBORO PUBLIC",
-      "address": "2827 RTE. 116, STARKSBORO, VT",
-      "website": "https://www.starksborovt.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05456",
-        "05487",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05778",
-        "057HH"
-      ]
-    },
-    {
-      "name": "BIXBY MEMORIAL",
-      "system": "BIXBY MEMORIAL",
-      "address": "258 MAIN ST., VERGENNES, VT",
-      "website": "https://bixbylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05456",
-        "05491",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05778",
-        "057HH"
+        "05766"
       ]
     }
   ]

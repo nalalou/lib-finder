@@ -3,27 +3,73 @@
     {
       "name": "MILFORD PUBLIC LIBRARY",
       "system": "MILFORD PUBLIC LIBRARY",
-      "address": "11 S.E. FRONT STREET, MILFORD, DE",
+      "address": "40 FRENCHTOWN ROAD, MILFORD, NJ",
       "website": "http://www.milfordnjlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "06460",
+        "08802",
+        "08804",
+        "08827",
+        "08848",
+        "08867",
+        "19941",
+        "19960",
         "19963",
-        "84731",
+        "46538",
+        "46542",
+        "46582",
+        "48165",
+        "48357",
+        "48380",
+        "48381",
         "84751"
       ]
     },
     {
       "name": "MINERSVILLE PUBLIC LIBRARY",
       "system": "MINERSVILLE PUBLIC LIBRARY",
-      "address": "40 WEST MAIN STREET, MINERSVILLE, UT",
+      "address": "220 S FOURTH ST, MINERSVILLE, PA",
       "website": "https://minersville.lib.utah.gov/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "17923",
+        "17933",
+        "17936",
+        "17943",
+        "17944",
+        "17951",
+        "17954",
+        "17970",
+        "17974",
         "84731",
-        "84751",
         "84752"
+      ]
+    },
+    {
+      "name": "MONROE PUBLIC LIBRARY",
+      "system": "MONROE PUBLIC LIBRARY",
+      "address": "19 PLAINS ROAD, MONROE, NH",
+      "website": "https://monroenh.org/monroe-town-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01350",
+        "03771",
+        "50170",
+        "50232",
+        "53522",
+        "53550",
+        "53566",
+        "84711",
+        "84724",
+        "84730",
+        "84739",
+        "84744",
+        "84754",
+        "84766"
       ]
     },
     {
@@ -34,9 +80,7 @@
       "formUrl": "https://library.utah.gov/ill/",
       "formStatus": "verified",
       "zipcodes": [
-        "84713",
-        "84731",
-        "84751"
+        "84713"
       ]
     },
     {
@@ -47,17 +91,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84712",
-        "84716",
-        "84717",
-        "84718",
-        "84726",
-        "84735",
-        "84736",
-        "84759",
-        "84764",
-        "84776",
-        "847HH"
+        "84759"
       ]
     },
     {
@@ -69,11 +103,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "84714",
-        "84719",
-        "84720",
         "84721",
         "84753",
-        "84760",
         "84772"
       ]
     },
@@ -85,12 +116,8 @@
       "formUrl": "https://library.utah.gov/ill/",
       "formStatus": "verified",
       "zipcodes": [
-        "84714",
-        "84719",
         "84720",
         "84721",
-        "84753",
-        "84760",
         "84772"
       ]
     },
@@ -102,10 +129,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84714",
         "84719",
-        "84720",
-        "84753",
         "84760",
         "84761",
         "84772"
@@ -119,10 +143,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84628",
-        "84639",
-        "84645",
-        "846XX",
         "84715"
       ]
     },
@@ -135,9 +155,6 @@
       "formStatus": "verified",
       "zipcodes": [
         "84710",
-        "84729",
-        "84755",
-        "84758",
         "84759",
         "84762"
       ]
@@ -150,12 +167,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84710",
         "84729",
         "84741",
         "84755",
-        "84758",
-        "84762"
+        "84758"
       ]
     },
     {
@@ -171,8 +186,7 @@
         "84732",
         "84740",
         "84743",
-        "84750",
-        "847XX"
+        "84750"
       ]
     },
     {
@@ -183,18 +197,7 @@
       "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf8lCKxNK-DiWbeSbcDMKJjCBz9BMjX3KHdCIq8EnhyekbLtg/viewform?usp=sf_link",
       "formStatus": "verified",
       "zipcodes": [
-        "84620",
-        "84652",
-        "84654",
-        "84657",
-        "84711",
-        "84715",
-        "84724",
-        "84730",
-        "84739",
-        "84744",
-        "84754",
-        "84766"
+        "84715"
       ]
     },
     {
@@ -205,29 +208,35 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "84620",
-        "84652",
-        "84654",
         "84657",
         "84701",
         "84711",
         "84724",
-        "84730",
-        "84739",
-        "84744",
-        "84754",
-        "84766"
+        "84730"
       ]
     },
     {
       "name": "WASHINGTON COUNTY LIBRARY SYSTEM",
       "system": "WASHINGTON COUNTY LIBRARY SYSTEM",
-      "address": "1080 WEST CLYDESDALE DR, FAYETTEVILLE, AR",
+      "address": "88 WEST 100 SOUTH, ST. GEORGE, UT",
       "website": "https://library.washco.utah.gov/st-george/",
       "formUrl": "https://library.washco.utah.gov/patron-request-for-purchase/",
       "formStatus": "verified",
       "zipcodes": [
-        "72701",
+        "72703",
+        "72704",
+        "72717",
+        "72721",
+        "72727",
+        "72729",
+        "72730",
+        "72744",
+        "72749",
+        "72753",
+        "72760",
+        "72769",
+        "72774",
+        "72959",
         "84722",
         "84725",
         "84733",
@@ -272,36 +281,13 @@
       "zipcodes": [
         "84712",
         "84716",
-        "84717",
         "84718",
         "84726",
         "84735",
         "84736",
         "84759",
         "84764",
-        "84776",
-        "847HH"
-      ]
-    },
-    {
-      "name": "MILLARD COUNTY BOOKMOBILE LIBRARY",
-      "system": "MILLARD COUNTY BOOKMOBILE LIBRARY",
-      "address": "90 NORTH 200 WEST, DELTA, UT",
-      "website": "https://academicawakening.com/resources/us/ut/delta/millard-county-mobile-library-delta-ut-us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "84624",
-        "84635",
-        "84636",
-        "84637",
-        "84638",
-        "84640",
-        "84649",
-        "84650",
-        "84656",
-        "846HH",
-        "84728"
+        "84776"
       ]
     },
     {
@@ -314,58 +300,7 @@
       "zipcodes": [
         "84624",
         "84635",
-        "84636",
-        "84637",
-        "84638",
-        "84640",
-        "84649",
-        "84650",
-        "84656",
-        "846HH",
         "84728"
-      ]
-    },
-    {
-      "name": "PRESIDENT MILLARD FILLMORE LIBRARY",
-      "system": "PRESIDENT MILLARD FILLMORE LIBRARY",
-      "address": "25 SOUTH 100 WEST, FILLMORE, UT",
-      "website": "https://fillmoreutlibrary.gov/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "84631",
-        "84635",
-        "84636",
-        "84637",
-        "84638",
-        "84640",
-        "84649",
-        "84650",
-        "84656",
-        "846HH",
-        "84728"
-      ]
-    },
-    {
-      "name": "SALINA PUBLIC LIBRARY",
-      "system": "SALINA PUBLIC LIBRARY",
-      "address": "301 W. ELM STREET, SALINA, KS",
-      "website": "https://salinapubliclibrary.org/",
-      "formUrl": "https://salinapubliclibrary.org/books-media/interlibrary-loan-request/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "67401",
-        "84620",
-        "84652",
-        "84654",
-        "84657",
-        "84711",
-        "84724",
-        "84730",
-        "84739",
-        "84744",
-        "84754",
-        "84766"
       ]
     }
   ]

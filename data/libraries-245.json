@@ -28,11 +28,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "22922",
+        "22949",
+        "22964",
+        "22967",
+        "22971",
+        "22976",
         "24521",
-        "24533",
         "24572",
         "24574",
-        "24595"
+        "24581",
+        "24595",
+        "24599"
       ]
     },
     {
@@ -43,8 +50,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23939",
+        "23921",
         "24522",
+        "24553",
         "24593"
       ]
     },
@@ -57,12 +65,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "24095",
-        "240HH",
         "24104",
         "24121",
         "24122",
         "24174",
-        "241HH",
         "24523",
         "24526",
         "24536",
@@ -78,6 +84,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "24502",
+        "24504",
         "24517",
         "24528",
         "24538",
@@ -85,6 +93,22 @@
         "24554",
         "24571",
         "24588"
+      ]
+    },
+    {
+      "name": "DANVILLE PUBLIC LIBRARY",
+      "system": "DANVILLE PUBLIC LIBRARY",
+      "address": "511 PATTON STREET, DANVILLE, VA",
+      "website": "https://danvillepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24540",
+        "24541",
+        "61814",
+        "61832",
+        "61833",
+        "61834"
       ]
     },
     {
@@ -114,7 +138,10 @@
       "formUrl": "https://lynchburgpubliclibrary.org/purchase-suggestion/",
       "formStatus": "verified",
       "zipcodes": [
-        "24501"
+        "24501",
+        "24502",
+        "24503",
+        "24504"
       ]
     },
     {
@@ -139,6 +166,46 @@
         "24569",
         "24586",
         "24594"
+      ]
+    },
+    {
+      "name": "ROCKBRIDGE REGIONAL LIBRARY",
+      "system": "ROCKBRIDGE REGIONAL LIBRARY",
+      "address": "138 S. MAIN STREET, LEXINGTON, VA",
+      "website": "https://www.rrlib.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24415",
+        "24416",
+        "24435",
+        "24439",
+        "24450",
+        "24473",
+        "24483",
+        "24555",
+        "24578",
+        "24579"
+      ]
+    },
+    {
+      "name": "FLUVANNA COUNTY PUBLIC LIBRARY",
+      "system": "FLUVANNA COUNTY PUBLIC LIBRARY",
+      "address": "214 COMMONS BLVD., PALMYRA, VA",
+      "website": "https://www.fluvannacounty.org/library/page/fluvanna-county-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22963",
+        "22974",
+        "23004",
+        "23022",
+        "23038",
+        "23055",
+        "23084",
+        "23093",
+        "24562",
+        "24590"
       ]
     }
   ]

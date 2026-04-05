@@ -14,12 +14,26 @@
     {
       "name": "DOUGLAS COUNTY PUBLIC LIBRARY",
       "system": "DOUGLAS COUNTY PUBLIC LIBRARY",
-      "address": "301 W. WEBSTER AVENUE, AVA, MO",
+      "address": "1625 LIBRARY LANE, MINDEN, NV",
       "website": "https://wgrls.org/douglas-county-public-library/",
       "formUrl": "https://wgrls.org/services/purchase-suggestion/",
       "formStatus": "verified",
       "zipcodes": [
         "65608",
+        "65614",
+        "65618",
+        "65638",
+        "65655",
+        "65676",
+        "65715",
+        "65729",
+        "65733",
+        "65744",
+        "65755",
+        "65761",
+        "65762",
+        "65768",
+        "65773",
         "89410",
         "89411",
         "89413",
@@ -27,14 +41,13 @@
         "89444",
         "89448",
         "89449",
-        "894HH",
         "89705"
       ]
     },
     {
       "name": "HUMBOLDT COUNTY LIBRARY",
       "system": "HUMBOLDT COUNTY LIBRARY",
-      "address": "1313 THIRD ST., EUREKA, CA",
+      "address": "85 EAST 5TH STREET, WINNEMUCCA, NV",
       "website": "https://humboldtgov.org/1518/Eureka-Main-Library",
       "formUrl": null,
       "formStatus": "unknown",
@@ -45,7 +58,29 @@
         "89425",
         "89426",
         "89445",
-        "95501"
+        "89820",
+        "95503",
+        "95511",
+        "95514",
+        "95519",
+        "95521",
+        "95524",
+        "95525",
+        "95526",
+        "95528",
+        "95537",
+        "95546",
+        "95549",
+        "95550",
+        "95551",
+        "95554",
+        "95555",
+        "95556",
+        "95559",
+        "95564",
+        "95569",
+        "95570",
+        "95573"
       ]
     },
     {
@@ -107,7 +142,6 @@
         "89439",
         "89442",
         "89451",
-        "894XX",
         "89501",
         "89502",
         "89503",
@@ -118,64 +152,7 @@
         "89511",
         "89512",
         "89523",
-        "895XX",
         "89704"
-      ]
-    },
-    {
-      "name": "AMARGOSA VALLEY LIBRARY DISTRICT",
-      "system": "AMARGOSA VALLEY LIBRARY DISTRICT",
-      "address": "1660 EAST AMARGOSA FARM ROAD, AMARGOSA VALLEY, NV",
-      "website": "https://www.amargosalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "89020",
-        "89022",
-        "89314",
-        "89409"
-      ]
-    },
-    {
-      "name": "BEATTY LIBRARY DISTRICT",
-      "system": "BEATTY LIBRARY DISTRICT",
-      "address": "400 NORTH 4TH STREET, BEATTY, NV",
-      "website": "https://www.beattynvlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "89003",
-        "89022",
-        "89314",
-        "89409"
-      ]
-    },
-    {
-      "name": "PAHRUMP COMMUNITY LIBRARY",
-      "system": "PAHRUMP COMMUNITY LIBRARY",
-      "address": "701 EAST STREET, PAHRUMP, NV",
-      "website": "https://www.pahrumplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "89022",
-        "89048",
-        "89314",
-        "89409"
-      ]
-    },
-    {
-      "name": "TONOPAH LIBRARY DISTRICT",
-      "system": "TONOPAH LIBRARY DISTRICT",
-      "address": "167 S CENTRAL ST, TONOPAH, NV",
-      "website": "https://www.tonopahnevada.com/tonopahlibrary/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "89022",
-        "89049",
-        "89314",
-        "89409"
       ]
     },
     {
@@ -188,8 +165,23 @@
       "zipcodes": [
         "89022",
         "89045",
+        "89310",
         "89314",
         "89409"
+      ]
+    },
+    {
+      "name": "CARSON CITY LIBRARY",
+      "system": "CARSON CITY LIBRARY",
+      "address": "900 NORTH ROOP STREET, CARSON CITY, NV",
+      "website": "https://carsoncitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89440",
+        "89701",
+        "89703",
+        "89706"
       ]
     }
   ]

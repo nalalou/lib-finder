@@ -9,32 +9,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36323",
-        "36330",
         "36346",
         "36351",
         "36453"
-      ]
-    },
-    {
-      "name": "JACKSON - WHITE SMITH MEMORIAL LIBRARY",
-      "system": "JACKSON - WHITE SMITH MEMORIAL LIBRARY",
-      "address": "213 COLLEGE AVENUE, JACKSON, AL",
-      "website": "http://whitesmithlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36436",
-        "36446",
-        "36482",
-        "364HH",
-        "364XX",
-        "36501",
-        "36515",
-        "36524",
-        "36540",
-        "36545",
-        "36570",
-        "36727"
       ]
     },
     {
@@ -47,10 +24,8 @@
       "zipcodes": [
         "36028",
         "36420",
-        "36455",
         "36474",
-        "36476",
-        "36483"
+        "36476"
       ]
     },
     {
@@ -61,11 +36,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36028",
         "36442",
         "36455",
-        "36474",
-        "36476",
         "36483"
       ]
     },
@@ -77,12 +49,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36028",
-        "36455",
-        "36467",
-        "36474",
-        "36476",
-        "36483"
+        "36467"
       ]
     },
     {
@@ -93,11 +60,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36313",
-        "36314",
-        "36316",
         "36318",
-        "363HH",
         "36477"
       ]
     },
@@ -135,14 +98,7 @@
         "36446",
         "36451",
         "36482",
-        "364HH",
-        "364XX",
-        "36501",
-        "36515",
-        "36524",
-        "36540",
-        "36570",
-        "36727"
+        "36524"
       ]
     },
     {
@@ -160,6 +116,39 @@
       ]
     },
     {
+      "name": "MONROE COUNTY PUBLIC LIBRARY",
+      "system": "MONROE COUNTY PUBLIC LIBRARY",
+      "address": "121 PINEVILLE ROAD, MONROEVILLE, AL",
+      "website": "http://www.mcpl.info",
+      "formUrl": "https://mcpl.info/suggest?utm_source=home&utm_medium=square&utm_campaign=suggestion",
+      "formStatus": "verified",
+      "zipcodes": [
+        "24941",
+        "24945",
+        "24951",
+        "24974",
+        "24976",
+        "24983",
+        "24984",
+        "36425",
+        "36444",
+        "36445",
+        "36460",
+        "36470",
+        "36471",
+        "36480",
+        "36481",
+        "47401",
+        "47403",
+        "47404",
+        "47406",
+        "47408",
+        "47429",
+        "47464",
+        "47468"
+      ]
+    },
+    {
       "name": "THOMASVILLE PUBLIC LIBRARY",
       "system": "THOMASVILLE PUBLIC LIBRARY",
       "address": "101 W FRONT ST. N, THOMASVILLE, AL",
@@ -167,16 +156,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36436",
         "36446",
-        "36482",
-        "364HH",
-        "364XX",
-        "36501",
-        "36515",
-        "36524",
-        "36540",
-        "36570",
         "36727",
         "36784"
       ]
@@ -185,7 +165,7 @@
       "name": "WILCOX COUNTY LIBRARY",
       "system": "WILCOX COUNTY LIBRARY",
       "address": "100 BROAD STREET, CAMDEN, AL",
-      "website": "https://www.chamberofcommerce.com/united-states/alabama/camden/public-library/10143994-wilcox-county-public-library",
+      "website": "http://orls.org/wordpress/branches/wilcox-county-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -211,7 +191,6 @@
         "36030",
         "36033",
         "36037",
-        "360XX",
         "36456"
       ]
     }

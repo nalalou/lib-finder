@@ -9,10 +9,10 @@
       "formStatus": "verified",
       "zipcodes": [
         "71743",
+        "71763",
         "71921",
         "71923",
-        "71962",
-        "719HH"
+        "71962"
       ]
     },
     {
@@ -26,14 +26,37 @@
         "71722",
         "71835",
         "71857",
-        "71858"
+        "71858",
+        "71922",
+        "71940",
+        "71958"
+      ]
+    },
+    {
+      "name": "MID ARKANSAS REGIONAL LIBRARY SYSTEM",
+      "system": "MID ARKANSAS REGIONAL LIBRARY SYSTEM",
+      "address": "202 EAST THIRD STREET, MALVERN, AR",
+      "website": "https://hsclibrary.arkansas.gov/",
+      "formUrl": "https://midarls.ent.sirsi.net/client/en_US/mhscl#",
+      "formStatus": "verified",
+      "zipcodes": [
+        "71725",
+        "71929",
+        "71933",
+        "71941",
+        "72015",
+        "72084",
+        "72104",
+        "72128",
+        "72129",
+        "72167"
       ]
     },
     {
       "name": "COLUMBIA COUNTY LIBRARY",
       "system": "COLUMBIA COUNTY LIBRARY",
       "address": "2057 NORTH JACKSON, MAGNOLIA, AR",
-      "website": "https://library.arkansas.gov/facilities/columbia-county-library-hq/",
+      "website": "https://gchrl.org/branches/columbia-county-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -84,11 +107,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "71631",
+        "71651",
+        "71660",
+        "71742",
         "71744",
         "71745",
-        "71766",
-        "717HH",
-        "717XX"
+        "71766"
+      ]
+    },
+    {
+      "name": "CLAIBORNE PARISH LIBRARY",
+      "system": "CLAIBORNE PARISH LIBRARY",
+      "address": "909 EDGEWOOD DRIVE, HOMER, LA",
+      "website": "https://www.cplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71021",
+        "71038",
+        "71040",
+        "71048",
+        "71072",
+        "71079",
+        "71749"
       ]
     }
   ]

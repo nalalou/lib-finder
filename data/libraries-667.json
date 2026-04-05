@@ -3,34 +3,64 @@
     {
       "name": "FREDONIA PUBLIC LIBRARY",
       "system": "FREDONIA PUBLIC LIBRARY",
-      "address": "807 JEFFERSON ST., FREDONIA, KS",
+      "address": "130 N MAIN ST, FREDONIA, AZ",
       "website": "https://www.fredoniapubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66710",
         "66714",
-        "66717",
         "66736",
-        "66759"
+        "86022",
+        "86435"
+      ]
+    },
+    {
+      "name": "HUMBOLDT PUBLIC LIBRARY",
+      "system": "HUMBOLDT PUBLIC LIBRARY",
+      "address": "30 N 6TH ST, HUMBOLDT, IA",
+      "website": "http://www.humboldtpubliclibrary.com/index.cfm",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38343",
+        "38355",
+        "50529",
+        "50545",
+        "50548",
+        "50582",
+        "50591",
+        "66748"
       ]
     },
     {
       "name": "WALNUT PUBLIC LIBRARY",
       "system": "WALNUT PUBLIC LIBRARY",
-      "address": "511 W. ROBBINS, WALNUT, KS",
+      "address": "224 ANTIQUE CITY DR, WALNUT, IA",
       "website": "http://walnut.mykansaslibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66711",
-        "66724",
-        "66734",
-        "66735",
-        "66756",
-        "66760",
-        "66763",
+        "51536",
+        "51577",
         "66780"
+      ]
+    },
+    {
+      "name": "COLUMBUS PUBLIC LIBRARY",
+      "system": "COLUMBUS PUBLIC LIBRARY",
+      "address": "223 W. JAMES ST., COLUMBUS, WI",
+      "website": "https://www.cvlga.org/columbus-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53925",
+        "53932",
+        "66725",
+        "66770",
+        "66773",
+        "66782",
+        "68601",
+        "68634"
       ]
     },
     {
@@ -42,10 +72,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66732",
-        "66748",
-        "66751",
-        "66772",
-        "667HH"
+        "66772"
       ]
     },
     {
@@ -56,14 +83,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66711",
-        "66724",
         "66734",
-        "66735",
         "66746",
-        "66756",
-        "66760",
-        "66763"
+        "66780"
       ]
     },
     {
@@ -74,7 +96,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66014",
         "66767"
       ]
     },
@@ -87,10 +108,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66716",
-        "66738",
-        "66741",
         "66754",
-        "66769",
         "66779"
       ]
     },
@@ -102,8 +120,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66758",
-        "66761",
         "66777"
       ]
     },
@@ -115,14 +131,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66711",
         "66724",
-        "66734",
-        "66735",
-        "66753",
-        "66756",
-        "66760",
-        "66763"
+        "66753"
+      ]
+    },
+    {
+      "name": "ALTOONA PUBLIC LIBRARY",
+      "system": "ALTOONA PUBLIC LIBRARY",
+      "address": "714 MAIN, ALTOONA, KS",
+      "website": "https://altoonakspubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50009",
+        "50021",
+        "50032",
+        "50316",
+        "50317",
+        "50320",
+        "54703",
+        "54720",
+        "66710",
+        "66714",
+        "66717"
       ]
     },
     {
@@ -134,7 +165,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66740",
-        "66775",
         "66776"
       ]
     },
@@ -147,10 +177,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66732",
-        "66748",
         "66751",
-        "66755",
-        "667HH"
+        "66755"
       ]
     },
     {
@@ -161,11 +189,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66713",
-        "66725",
-        "66770",
         "66773",
-        "66778",
         "66781",
         "66782"
       ]
@@ -178,9 +202,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66740",
-        "66771",
-        "66775"
+        "66771"
       ]
     },
     {
@@ -217,13 +239,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66711",
-        "66724",
         "66734",
         "66735",
         "66743",
-        "66756",
-        "66760",
         "66763"
       ]
     },
@@ -235,11 +253,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66710",
-        "66714",
-        "66717",
-        "66757",
-        "66759"
+        "66757"
       ]
     },
     {
@@ -250,30 +264,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66713",
-        "66725",
         "66739",
-        "66770",
-        "66773",
-        "66778",
-        "66782"
+        "66770"
       ]
     },
     {
       "name": "JOHNSTON PUBLIC LIBRARY",
       "system": "JOHNSTON PUBLIC LIBRARY",
-      "address": "6700 MERLE HAY RD, JOHNSTON, IA",
+      "address": "210 W. 10TH ST., BAXTER SPRINGS, KS",
       "website": "https://johnstonpubliclibrarybsks.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50007",
         "50131",
+        "50310",
+        "50313",
         "66713",
-        "66725",
         "66770",
-        "66773",
-        "66778",
-        "66782"
+        "66778"
       ]
     },
     {
@@ -284,11 +293,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66732",
         "66748",
         "66749",
-        "66751",
-        "667HH"
+        "66751"
       ]
     },
     {
@@ -302,9 +309,7 @@
         "66701",
         "66738",
         "66741",
-        "66754",
-        "66769",
-        "66779"
+        "66769"
       ]
     },
     {
@@ -315,9 +320,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66720",
-        "66740",
-        "66775"
+        "66720"
       ]
     },
     {
@@ -328,9 +331,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66711",
         "66724",
-        "66734",
         "66735",
         "66756",
         "66760",
@@ -348,11 +349,9 @@
       "zipcodes": [
         "66711",
         "66712",
-        "66724",
         "66734",
         "66735",
         "66756",
-        "66760",
         "66763"
       ]
     }

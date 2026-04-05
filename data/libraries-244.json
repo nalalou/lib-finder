@@ -3,12 +3,42 @@
     {
       "name": "STAUNTON PUBLIC LIBRARY",
       "system": "STAUNTON PUBLIC LIBRARY",
-      "address": "1 CHURCHVILLE AVENUE, STAUNTON, VA",
+      "address": "306 WEST MAIN STREET, STAUNTON, IL",
       "website": "https://www.cityofstauntonil.com/our-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24401"
+        "24401",
+        "24472",
+        "62088",
+        "62093"
+      ]
+    },
+    {
+      "name": "MASSANUTTEN REGIONAL LIBRARY",
+      "system": "MASSANUTTEN REGIONAL LIBRARY",
+      "address": "174 S. MAIN STREET, HARRISONBURG, VA",
+      "website": "https://mrlib.org/",
+      "formUrl": "https://mrlib.org/our-collections/request-purchase.html",
+      "formStatus": "verified",
+      "zipcodes": [
+        "22801",
+        "22802",
+        "22812",
+        "22820",
+        "22821",
+        "22827",
+        "22830",
+        "22831",
+        "22832",
+        "22834",
+        "22840",
+        "22841",
+        "22846",
+        "22849",
+        "22850",
+        "22853",
+        "24471"
       ]
     },
     {
@@ -30,11 +60,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "24412",
         "24422",
+        "24445",
         "24448",
         "24457",
-        "24474",
-        "244HH"
+        "24460",
+        "24474"
       ]
     },
     {
@@ -49,7 +81,9 @@
         "24433",
         "24442",
         "24458",
-        "24465"
+        "24465",
+        "24484",
+        "24487"
       ]
     },
     {
@@ -60,7 +94,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "24450"
+        "24415",
+        "24416",
+        "24435",
+        "24439",
+        "24450",
+        "24473",
+        "24483",
+        "24555",
+        "24578",
+        "24579"
       ]
     },
     {
@@ -74,21 +117,39 @@
         "22843",
         "22939",
         "22952",
+        "24401",
         "24421",
         "24430",
         "24431",
         "24432",
         "24437",
         "24440",
+        "24441",
         "24459",
-        "24463",
         "24467",
-        "24475",
         "24477",
         "24479",
         "24482",
         "24485",
         "24486"
+      ]
+    },
+    {
+      "name": "WAYNESBORO PUBLIC LIBRARY",
+      "system": "WAYNESBORO PUBLIC LIBRARY",
+      "address": "600 S. WAYNE AVE., WAYNESBORO, VA",
+      "website": "https://www.waynesboro.va.us/354/Library---Old-Do-Not-Delete",
+      "formUrl": "https://www.waynesboro.va.us/1199/Library",
+      "formStatus": "verified",
+      "zipcodes": [
+        "22920",
+        "22931",
+        "22932",
+        "22938",
+        "22943",
+        "22958",
+        "22980",
+        "24464"
       ]
     }
   ]

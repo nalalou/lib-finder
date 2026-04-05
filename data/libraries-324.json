@@ -1,6 +1,85 @@
 {
   "libraries": [
     {
+      "name": "WASHINGTON COUNTY PUBLIC LIBRARY",
+      "system": "WASHINGTON COUNTY PUBLIC LIBRARY",
+      "address": "333 WEST MAIN STREET, SPRINGFIELD, KY",
+      "website": "https://www.wcplib.info/marietta-branch",
+      "formUrl": "https://www.wcplib.info/interlibrary-loan",
+      "formStatus": "verified",
+      "zipcodes": [
+        "24202",
+        "24210",
+        "24211",
+        "24236",
+        "24270",
+        "24340",
+        "24361",
+        "32425",
+        "32427",
+        "32428",
+        "32437",
+        "32462",
+        "32463",
+        "36513",
+        "36518",
+        "36529",
+        "36538",
+        "36539",
+        "36548",
+        "36553",
+        "36556",
+        "36558",
+        "36569",
+        "36581",
+        "36583",
+        "36584",
+        "36585",
+        "37601",
+        "37614",
+        "37615",
+        "37656",
+        "37659",
+        "37681",
+        "37690",
+        "40040",
+        "40069",
+        "40078",
+        "45714",
+        "45715",
+        "45724",
+        "45729",
+        "45742",
+        "45744",
+        "45745",
+        "45746",
+        "45750",
+        "45767",
+        "45768",
+        "45773",
+        "45784",
+        "45786",
+        "45788",
+        "45789"
+      ]
+    },
+    {
+      "name": "APALACHICOLA MARGARET KEY LIBRARY",
+      "system": "APALACHICOLA MARGARET KEY LIBRARY",
+      "address": "80 12TH STREET, APALACHICOLA, FL",
+      "website": "https://www.cityofapalachicola.com/community/apalachicola-margaret-key-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "32320",
+        "32322",
+        "32323",
+        "32328",
+        "32456",
+        "32465"
+      ]
+    },
+    {
       "name": "NORTHWEST REGIONAL LIBRARY SYSTEM",
       "system": "NORTHWEST REGIONAL LIBRARY SYSTEM",
       "address": "898 WEST 11TH STREET, PANAMA CITY, FL",
@@ -20,8 +99,8 @@
         "32413",
         "32438",
         "32444",
-        "32466",
-        "324HH"
+        "32449",
+        "32466"
       ]
     },
     {
@@ -32,12 +111,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "32422",
         "32433",
         "32435",
         "32439",
         "32455",
-        "32459"
+        "32459",
+        "32464"
       ]
     },
     {
@@ -49,8 +128,11 @@
       "formStatus": "unknown",
       "zipcodes": [
         "32420",
+        "32421",
         "32423",
+        "32424",
         "32426",
+        "32430",
         "32431",
         "32432",
         "32440",

@@ -11,8 +11,7 @@
         "41101",
         "41102",
         "41129",
-        "41168",
-        "411HH"
+        "41168"
       ]
     },
     {
@@ -45,6 +44,22 @@
       ]
     },
     {
+      "name": "LEWIS COUNTY PUBLIC LIBRARY",
+      "system": "LEWIS COUNTY PUBLIC LIBRARY",
+      "address": "27 THIRD STREET, VANCEBURG, KY",
+      "website": "https://librarytechnology.org/library/18570",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38462",
+        "41135",
+        "41141",
+        "41166",
+        "41179",
+        "41189"
+      ]
+    },
+    {
       "name": "CARTER COUNTY PUBLIC LIBRARY",
       "system": "CARTER COUNTY PUBLIC LIBRARY",
       "address": "120 COMET DRIVE, OLIVE HILL, KY",
@@ -57,6 +72,34 @@
         "41143",
         "41146",
         "41164"
+      ]
+    },
+    {
+      "name": "LAWRENCE COUNTY PUBLIC LIBRARY",
+      "system": "LAWRENCE COUNTY PUBLIC LIBRARY",
+      "address": "102 WEST MAIN ST., LOUISA, KY",
+      "website": "https://lcplky.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35650",
+        "35651",
+        "35673",
+        "38456",
+        "38457",
+        "38464",
+        "38468",
+        "38469",
+        "38481",
+        "38483",
+        "38486",
+        "41124",
+        "41159",
+        "41180",
+        "41201",
+        "41230",
+        "41232",
+        "41264"
       ]
     }
   ]

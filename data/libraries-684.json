@@ -1,6 +1,41 @@
 {
   "libraries": [
     {
+      "name": "LOUISVILLE PUBLIC LIBRARY",
+      "system": "LOUISVILLE PUBLIC LIBRARY",
+      "address": "951 SPRUCE STREET, LOUISVILLE, CO",
+      "website": "https://jefferson.public.lib.ga.us/library-branches/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36048",
+        "44632",
+        "44641",
+        "44669",
+        "44670",
+        "44703",
+        "44704",
+        "44705",
+        "44707",
+        "44709",
+        "44714",
+        "44721",
+        "44730",
+        "68016",
+        "68037",
+        "68058",
+        "68403",
+        "68407",
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80303",
+        "80304",
+        "80516"
+      ]
+    },
+    {
       "name": "AUBURN MEMORIAL LIBRARY",
       "system": "AUBURN MEMORIAL LIBRARY",
       "address": "1810 COURTHOUSE AVENUE, AUBURN, NE",
@@ -25,17 +60,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68301",
-        "68309",
         "68310",
         "68318",
         "68328",
         "68331",
         "68357",
-        "68374",
-        "68381",
-        "68415",
-        "68422",
-        "68458"
+        "68422"
       ]
     },
     {
@@ -47,44 +77,26 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68313",
-        "68314",
-        "68330",
-        "68360",
         "68364",
-        "68423",
-        "68439",
         "68456"
       ]
     },
     {
-      "name": "CRETE PUBLIC LIBRARY",
-      "system": "CRETE PUBLIC LIBRARY",
-      "address": "1515 FOREST AVENUE, CRETE, NE",
-      "website": "http://www.crete.ne.gov/library",
+      "name": "ELMWOOD PUBLIC LIBRARY",
+      "system": "ELMWOOD PUBLIC LIBRARY",
+      "address": "124 WEST D STREET, ELMWOOD, NE",
+      "website": "https://libraries.ne.gov/elmwood/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68333",
-        "68343",
-        "68359",
-        "68445",
-        "68453"
-      ]
-    },
-    {
-      "name": "DAYKIN PUBLIC LIBRARY",
-      "system": "DAYKIN PUBLIC LIBRARY",
-      "address": "201 MARY AVENUE, DAYKIN, NE",
-      "website": "https://libs.ne.gov/daykin",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68338",
-        "68342",
-        "68350",
-        "68377",
-        "68424",
-        "68440"
+        "54740",
+        "54767",
+        "68304",
+        "68307",
+        "68347",
+        "68349",
+        "68403",
+        "68407"
       ]
     },
     {
@@ -99,24 +111,7 @@
         "68350",
         "68352",
         "68377",
-        "68424",
         "68440"
-      ]
-    },
-    {
-      "name": "FAIRMONT PUBLIC LIBRARY",
-      "system": "FAIRMONT PUBLIC LIBRARY",
-      "address": "600 F STREET, FAIRMONT, NE",
-      "website": "https://www.fairmont-nebraska.org/vnews/display.v/SEC/Public Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68351",
-        "68354",
-        "68361",
-        "68365",
-        "68416",
-        "68444"
       ]
     },
     {
@@ -128,66 +123,24 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68355",
-        "683HH",
         "68431",
         "68433",
-        "68437",
         "68457"
       ]
     },
     {
-      "name": "GILBERT PUBLIC LIBRARY",
-      "system": "GILBERT PUBLIC LIBRARY",
-      "address": "17 N BROADWAY, GILBERT, MN",
-      "website": "https://libraries.ne.gov/gilbert/",
+      "name": "GENEVA PUBLIC LIBRARY",
+      "system": "GENEVA PUBLIC LIBRARY",
+      "address": "1043 G STREET, GENEVA, NE",
+      "website": "http://www.genevane.org/379/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55741",
-        "68343",
-        "68359",
-        "68445",
-        "68453"
-      ]
-    },
-    {
-      "name": "GREENWOOD PUBLIC LIBRARY",
-      "system": "GREENWOOD PUBLIC LIBRARY",
-      "address": "310 SOUTH MERIDIAN, GREENWOOD, IN",
-      "website": "https://greenwoodne.gov/departments/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46143",
-        "68016",
-        "68058",
-        "68304",
-        "68307",
-        "68347",
-        "68349",
-        "68366",
-        "68403",
-        "68407",
-        "68409",
-        "68413",
-        "68455",
-        "684HH"
-      ]
-    },
-    {
-      "name": "BRUUN MEMORIAL LIBRARY",
-      "system": "BRUUN MEMORIAL LIBRARY",
-      "address": "730 3RD STREET, HUMBOLDT, NE",
-      "website": "https://www.chamberofcommerce.com/united-states/nebraska/humboldt/public-library/2003610269-bruun-memorial-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68376",
-        "683HH",
-        "68431",
-        "68433",
-        "68437",
-        "68457"
+        "14456",
+        "14561",
+        "68361",
+        "68365",
+        "68444"
       ]
     },
     {
@@ -199,10 +152,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68341",
-        "68343",
-        "68359",
-        "68445",
-        "68453"
+        "68445"
       ]
     },
     {
@@ -214,91 +164,39 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68337",
-        "683HH",
-        "68431",
         "68433",
-        "68437",
         "68457"
       ]
     },
     {
       "name": "FAIRFIELD PUBLIC LIBRARY",
       "system": "FAIRFIELD PUBLIC LIBRARY",
-      "address": "1080 OLD POST RD., FAIRFIELD, CT",
+      "address": "104 W ADAMS AVE, FAIRFIELD, IA",
       "website": "https://www.fairfield.lib.ia.us/",
       "formUrl": "https://fairfieldia.bywatersolutions.com/cgi-bin/koha/opac-suggestions.pl?op=add_form",
       "formStatus": "verified",
       "zipcodes": [
-        "06824",
+        "06605",
+        "06607",
+        "06608",
+        "52556",
+        "52567",
+        "52580",
+        "52635",
+        "62446",
+        "62809",
+        "62823",
+        "62833",
+        "62837",
+        "62842",
+        "62843",
+        "62878",
+        "62886",
         "68452",
         "68934",
         "68935",
         "68938",
-        "68941",
-        "68944",
-        "68954",
-        "68975",
-        "68980"
-      ]
-    },
-    {
-      "name": "CLAY CENTER PUBLIC LIBRARY",
-      "system": "CLAY CENTER PUBLIC LIBRARY",
-      "address": "117 WEST EDGAR STREET, CLAY CENTER, NE",
-      "website": "https://libraries.ne.gov/claycenter/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68452",
-        "68933",
-        "68934",
-        "68935",
-        "68938",
-        "68941",
-        "68944",
-        "68954",
-        "68975",
-        "68980"
-      ]
-    },
-    {
-      "name": "HARVARD PUBLIC LIBRARY",
-      "system": "HARVARD PUBLIC LIBRARY",
-      "address": "4 POND RD., HARVARD, MA",
-      "website": "https://www.harvardpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01451",
-        "68452",
-        "68934",
-        "68935",
-        "68938",
-        "68941",
-        "68944",
-        "68954",
-        "68975",
-        "68980"
-      ]
-    },
-    {
-      "name": "SUTTON MEMORIAL LIBRARY",
-      "system": "SUTTON MEMORIAL LIBRARY",
-      "address": "201 SOUTH SAUNDERS, SUTTON, NE",
-      "website": "https://libraries.ne.gov/sutton/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68452",
-        "68934",
-        "68935",
-        "68938",
-        "68941",
-        "68944",
-        "68954",
-        "68975",
-        "68979",
-        "68980"
+        "68941"
       ]
     },
     {
@@ -352,14 +250,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68314",
-        "68330",
-        "68360",
         "68364",
         "68405",
-        "68423",
-        "68439",
-        "68456"
+        "68423"
       ]
     },
     {
@@ -370,12 +263,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68324",
-        "68344",
         "68346",
-        "68410",
-        "68417",
-        "68448"
+        "68410"
       ]
     },
     {
@@ -386,12 +275,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68324",
         "68344",
-        "68346",
-        "68417",
-        "68418",
-        "68448"
+        "68418"
       ]
     },
     {
@@ -418,13 +303,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68314",
-        "68330",
         "68360",
         "68364",
-        "68423",
         "68434",
-        "68439",
-        "68456"
+        "68439"
       ]
     },
     {
@@ -435,10 +317,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68351",
-        "68361",
-        "68365",
-        "68416",
         "68436",
         "68444"
       ]
@@ -452,7 +330,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68324",
-        "68344",
         "68346",
         "68417",
         "68446",
@@ -467,9 +344,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68323",
-        "68345",
-        "68380",
         "68441",
         "68447"
       ]
@@ -483,9 +357,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68329",
-        "68332",
         "68348",
-        "68443",
         "68450"
       ]
     },
@@ -497,20 +369,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68016",
-        "68058",
-        "68304",
+        "68037",
         "68307",
-        "68347",
-        "68349",
-        "68366",
         "68403",
         "68407",
-        "68409",
         "68413",
         "68455",
-        "68463",
-        "684HH"
+        "68463"
       ]
     },
     {
@@ -521,10 +386,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68343",
-        "68359",
         "68445",
-        "68453",
         "68465"
       ]
     },
@@ -536,16 +398,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68301",
         "68309",
         "68318",
-        "68328",
-        "68331",
-        "68357",
-        "68374",
         "68381",
         "68415",
-        "68422",
         "68458",
         "68466"
       ]
@@ -575,8 +431,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68343",
-        "68359",
         "68445",
         "68453",
         "68464"
@@ -590,12 +444,34 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68351",
-        "68361",
-        "68365",
         "68406",
-        "68416",
-        "68444"
+        "68416"
+      ]
+    },
+    {
+      "name": "PLYMOUTH PUBLIC LIBRARY",
+      "system": "PLYMOUTH PUBLIC LIBRARY",
+      "address": "103 NORTH JEFFERSON AVENUE, PLYMOUTH, NE",
+      "website": "https://plymouthpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02360",
+        "02366",
+        "18617",
+        "18618",
+        "18621",
+        "18651",
+        "18706",
+        "18708",
+        "46537",
+        "46563",
+        "53011",
+        "53023",
+        "53073",
+        "53093",
+        "68377",
+        "68424"
       ]
     },
     {
@@ -606,9 +482,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "683HH",
-        "68431",
-        "68433",
         "68437",
         "68442",
         "68457"
@@ -617,16 +490,22 @@
     {
       "name": "STERLING PUBLIC LIBRARY",
       "system": "STERLING PUBLIC LIBRARY",
-      "address": "1183 PLAINFIELD PIKE, ONECO, CT",
+      "address": "150 BROADWAY STREET, STERLING, NE",
       "website": "https://www.sterlingct.gov/184/Public-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "06373",
-        "68329",
+        "06374",
+        "06377",
+        "61037",
+        "61081",
         "68332",
-        "68348",
-        "68443"
+        "68443",
+        "80722",
+        "80741",
+        "80745",
+        "80751"
       ]
     },
     {
@@ -638,10 +517,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68324",
-        "68344",
-        "68346",
         "68417",
-        "68448",
         "68454"
       ]
     },
@@ -653,20 +529,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68016",
         "68048",
-        "68058",
-        "68304",
-        "68307",
-        "68347",
-        "68349",
-        "68366",
-        "68403",
-        "68407",
-        "68409",
-        "68413",
-        "68455",
-        "684HH"
+        "68409"
       ]
     }
   ]

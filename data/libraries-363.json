@@ -22,10 +22,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36317",
         "36345",
-        "36353",
-        "36373"
+        "36353"
       ]
     },
     {
@@ -38,8 +36,6 @@
       "zipcodes": [
         "36311",
         "36360",
-        "36362",
-        "36371",
         "36374"
       ]
     },
@@ -51,11 +47,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36311",
         "36350",
+        "36371"
+      ]
+    },
+    {
+      "name": "NEWTON PUBLIC LIBRARY",
+      "system": "NEWTON PUBLIC LIBRARY",
+      "address": "209 OATES DRIVE, NEWTON, AL",
+      "website": "https://www.newtonplks.org/",
+      "formUrl": "https://www.newtonplks.org/books-and-more/suggest-a-purchase/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "36352",
         "36362",
         "36371",
-        "36374"
+        "50135",
+        "50208",
+        "67114",
+        "67117"
       ]
     },
     {
@@ -67,7 +77,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36323",
-        "36330",
         "36346",
         "36351",
         "36453"
@@ -81,12 +90,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36313",
         "36314",
         "36316",
-        "36318",
-        "36340",
-        "363HH"
+        "36340"
+      ]
+    },
+    {
+      "name": "ENTERPRISE PUBLIC LIBRARY",
+      "system": "ENTERPRISE PUBLIC LIBRARY",
+      "address": "101 EAST GRUBBS STREET, ENTERPRISE, AL",
+      "website": "https://enterprise.lib.nckls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36330",
+        "36351",
+        "67410",
+        "67441"
       ]
     },
     {
@@ -99,10 +119,7 @@
       "zipcodes": [
         "36313",
         "36314",
-        "36316",
-        "36318",
-        "36344",
-        "363HH"
+        "36344"
       ]
     },
     {
@@ -113,12 +130,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36313",
-        "36314",
-        "36316",
-        "36318",
-        "36375",
-        "363HH"
+        "36375"
       ]
     },
     {
@@ -136,7 +148,6 @@
         "36319",
         "36320",
         "36343",
-        "36352",
         "36370",
         "36376"
       ]
@@ -149,11 +160,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36311",
         "36322",
         "36362",
-        "36371",
-        "36374"
+        "36371"
       ]
     },
     {
@@ -164,11 +173,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36313",
-        "36314",
-        "36316",
         "36318",
-        "363HH",
         "36477"
       ]
     }

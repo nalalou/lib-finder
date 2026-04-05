@@ -1,20 +1,6 @@
 {
   "libraries": [
     {
-      "name": "WAYNOKA PUBLIC LIBRARY",
-      "system": "WAYNOKA PUBLIC LIBRARY",
-      "address": "1659 CECIL STREET, WAYNOKA, OK",
-      "website": "https://www.waynokaok.org/index.php/local-amenties/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73731",
-        "73746",
-        "73842",
-        "73860"
-      ]
-    },
-    {
       "name": "ALVA PUBLIC LIBRARY",
       "system": "ALVA PUBLIC LIBRARY",
       "address": "504 SEVENTH STREET, ALVA, OK",
@@ -24,8 +10,7 @@
       "zipcodes": [
         "73717",
         "73731",
-        "73746",
-        "73842"
+        "73746"
       ]
     },
     {
@@ -37,12 +22,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "73716",
-        "73719",
-        "73722",
         "73726",
         "73739",
-        "73741",
-        "73749"
+        "73741"
       ]
     },
     {
@@ -53,12 +35,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73716",
         "73719",
         "73722",
         "73728",
-        "73739",
-        "73741",
         "73749"
       ]
     },
@@ -94,6 +73,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73663",
         "73718",
         "73729",
         "73737",
@@ -111,12 +91,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73016",
         "73734",
-        "73742",
-        "73756",
-        "73762",
-        "73764"
+        "73742"
       ]
     },
     {
@@ -128,7 +104,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "73016",
-        "73734",
         "73750",
         "73756",
         "73762",
@@ -149,8 +124,7 @@
         "73766",
         "73771",
         "74636",
-        "74643",
-        "746HH"
+        "74643"
       ]
     },
     {
@@ -161,13 +135,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73043",
-        "73646",
         "73724",
-        "73744",
         "73755",
-        "73763",
-        "737HH"
+        "73763"
       ]
     },
     {
@@ -180,28 +150,9 @@
       "zipcodes": [
         "73043",
         "73646",
-        "73724",
+        "73658",
         "73744",
-        "73755",
-        "73772",
-        "737HH"
-      ]
-    },
-    {
-      "name": "GEARY PUBLIC LIBRARY",
-      "system": "GEARY PUBLIC LIBRARY",
-      "address": "106 W MAIN ST, GEARY, OK",
-      "website": "https://librarytechnology.org/library/23086",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73040",
-        "73043",
-        "73646",
-        "73724",
-        "73744",
-        "73755",
-        "737HH"
+        "73772"
       ]
     },
     {

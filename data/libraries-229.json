@@ -21,15 +21,38 @@
         "22735",
         "22738",
         "22743",
-        "227XX",
         "22948",
+        "22968",
+        "22973",
         "22989"
+      ]
+    },
+    {
+      "name": "AMHERST COUNTY PUBLIC LIBRARY",
+      "system": "AMHERST COUNTY PUBLIC LIBRARY",
+      "address": "382 SOUTH MAIN STREET, AMHERST, VA",
+      "website": "https://acpl.us/Amherst",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22922",
+        "22949",
+        "22964",
+        "22967",
+        "22971",
+        "22976",
+        "24521",
+        "24572",
+        "24574",
+        "24581",
+        "24595",
+        "24599"
       ]
     },
     {
       "name": "ORANGE COUNTY PUBLIC LIBRARY",
       "system": "ORANGE COUNTY PUBLIC LIBRARY",
-      "address": "146A MADISON ROAD, ORANGE, VA",
+      "address": "137 W MARGARET LN, HILLSBOROUGH, NC",
       "website": "https://www.orangecountync.gov/3009/Library",
       "formUrl": null,
       "formStatus": "unknown",
@@ -40,9 +63,12 @@
         "22567",
         "22923",
         "22942",
-        "22957",
         "22960",
-        "22972"
+        "22972",
+        "23117",
+        "27231",
+        "27243",
+        "27278"
       ]
     },
     {
@@ -56,16 +82,16 @@
         "22843",
         "22939",
         "22952",
+        "24401",
         "24421",
         "24430",
         "24431",
         "24432",
         "24437",
         "24440",
+        "24441",
         "24459",
-        "24463",
         "24467",
-        "24475",
         "24477",
         "24479",
         "24482",
@@ -83,9 +109,14 @@
       "zipcodes": [
         "22963",
         "22974",
+        "23004",
         "23022",
+        "23038",
         "23055",
-        "23084"
+        "23084",
+        "23093",
+        "24562",
+        "24590"
       ]
     },
     {
@@ -96,7 +127,18 @@
       "formUrl": "https://jmrl.org/suggest-purchase",
       "formStatus": "verified",
       "zipcodes": [
-        "22902"
+        "22901",
+        "22902",
+        "22903",
+        "22911",
+        "22935",
+        "22936",
+        "22937",
+        "22940",
+        "22946",
+        "22947",
+        "22959",
+        "22969"
       ]
     },
     {
@@ -107,7 +149,14 @@
       "formUrl": "https://www.waynesboro.va.us/1199/Library",
       "formStatus": "verified",
       "zipcodes": [
-        "22980"
+        "22920",
+        "22931",
+        "22932",
+        "22938",
+        "22943",
+        "22958",
+        "22980",
+        "24464"
       ]
     }
   ]

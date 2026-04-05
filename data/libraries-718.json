@@ -1,6 +1,25 @@
 {
   "libraries": [
     {
+      "name": "TEXARKANA PUBLIC LIBRARY",
+      "system": "TEXARKANA PUBLIC LIBRARY",
+      "address": "600 W. 3RD ST., TEXARKANA, AR",
+      "website": "https://library.arkansas.gov/facilities/texarkana-public-library-hq/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71822",
+        "71834",
+        "71837",
+        "71853",
+        "71854",
+        "71865",
+        "75501",
+        "75503",
+        "75569"
+      ]
+    },
+    {
       "name": "SOUTHWEST ARKANSAS REGIONAL LIBRARY",
       "system": "SOUTHWEST ARKANSAS REGIONAL LIBRARY",
       "address": "121 WEST MAIN, PRESCOTT, AR",
@@ -11,7 +30,10 @@
         "71722",
         "71835",
         "71857",
-        "71858"
+        "71858",
+        "71922",
+        "71940",
+        "71958"
       ]
     },
     {
@@ -24,6 +46,7 @@
       "zipcodes": [
         "71826",
         "71827",
+        "71839",
         "71845",
         "71860"
       ]
@@ -40,9 +63,11 @@
         "71825",
         "71838",
         "71847",
+        "71851",
+        "71852",
         "71855",
-        "71862",
-        "718HH"
+        "71859",
+        "71862"
       ]
     },
     {
@@ -53,18 +78,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "71820",
         "71823",
         "71832",
+        "71833",
+        "71836",
         "71841",
         "71842",
-        "71846"
+        "71846",
+        "71866",
+        "71937",
+        "71944",
+        "71945",
+        "71959",
+        "71971",
+        "71972",
+        "71973"
       ]
     },
     {
       "name": "COLUMBIA COUNTY LIBRARY",
       "system": "COLUMBIA COUNTY LIBRARY",
       "address": "2057 NORTH JACKSON, MAGNOLIA, AR",
-      "website": "https://library.arkansas.gov/facilities/columbia-county-library-hq/",
+      "website": "https://gchrl.org/branches/columbia-county-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [

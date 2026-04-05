@@ -9,10 +9,37 @@
       "formStatus": "unknown",
       "zipcodes": [
         "74330",
+        "74347",
         "74352",
+        "74364",
+        "74365",
+        "74368",
+        "74452",
+        "74457",
+        "74464",
+        "74960",
+        "74964",
+        "74965"
+      ]
+    },
+    {
+      "name": "SALINA PUBLIC LIBRARY",
+      "system": "SALINA PUBLIC LIBRARY",
+      "address": "90 WEST MAIN STREET, SALINA, UT",
+      "website": "https://salinapubliclibrary.org/",
+      "formUrl": "https://salinapubliclibrary.org/books-media/interlibrary-loan-request/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "67401",
+        "67425",
+        "67442",
+        "67470",
         "74365",
         "74366",
-        "74367"
+        "74367",
+        "84620",
+        "84652",
+        "84654"
       ]
     },
     {
@@ -23,7 +50,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74335",
         "74339",
         "74343",
         "74354",
@@ -41,11 +67,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74330",
-        "74361",
-        "74365",
-        "74366",
-        "74367"
+        "74361"
       ]
     },
     {
@@ -57,6 +79,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "74301",
+        "74331",
         "74332",
         "74333",
         "74349",
@@ -71,9 +94,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74330",
+        "74338",
+        "74340",
+        "74342",
+        "74344",
+        "74346",
         "74350",
-        "74365",
         "74366",
         "74367"
       ]
@@ -86,11 +112,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74330",
         "74337",
-        "74365",
-        "74366",
-        "74367"
+        "74352"
       ]
     }
   ]

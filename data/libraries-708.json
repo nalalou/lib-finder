@@ -8,7 +8,73 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70806"
+        "70714",
+        "70739",
+        "70769",
+        "70770",
+        "70801",
+        "70802",
+        "70805",
+        "70806",
+        "70807",
+        "70808",
+        "70809",
+        "70810",
+        "70811",
+        "70812",
+        "70814",
+        "70815",
+        "70816",
+        "70817",
+        "70818",
+        "70819",
+        "70820",
+        "70836"
+      ]
+    },
+    {
+      "name": "WEST BATON ROUGE PARISH LIBRARY",
+      "system": "WEST BATON ROUGE PARISH LIBRARY",
+      "address": "830 NORTH ALEXANDER AVENUE, PORT ALLEN, LA",
+      "website": "https://westbatonrouge.net/attraction/west-baton-rouge-parish-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70710",
+        "70719",
+        "70767",
+        "70772",
+        "70791",
+        "70801",
+        "70802",
+        "70805",
+        "70807",
+        "70808",
+        "70809",
+        "70811",
+        "70812",
+        "70814",
+        "70815",
+        "70820",
+        "70836"
+      ]
+    },
+    {
+      "name": "IBERVILLE PARISH LIBRARY",
+      "system": "IBERVILLE PARISH LIBRARY",
+      "address": "24605 J. GERALD BERRET BLVD., PLAQUEMINE, LA",
+      "website": "https://myipl.org/branches/plaquemine/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70710",
+        "70719",
+        "70740",
+        "70764",
+        "70776",
+        "70780",
+        "70788",
+        "70820"
       ]
     }
   ]

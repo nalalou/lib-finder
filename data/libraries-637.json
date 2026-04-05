@@ -1,6 +1,43 @@
 {
   "libraries": [
     {
+      "name": "BLOOMFIELD PUBLIC LIBRARY",
+      "system": "BLOOMFIELD PUBLIC LIBRARY",
+      "address": "90 BROAD STREET, BLOOMFIELD, NJ",
+      "website": "https://www.bplnj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06002",
+        "06089",
+        "06117",
+        "07003",
+        "07017",
+        "07107",
+        "14475",
+        "14585",
+        "17020",
+        "17024",
+        "17040",
+        "17062",
+        "17068",
+        "17074",
+        "17090",
+        "52537",
+        "52552",
+        "52560",
+        "52584",
+        "63735",
+        "63825",
+        "63846",
+        "68718",
+        "87037",
+        "87412",
+        "87413",
+        "87415"
+      ]
+    },
+    {
       "name": "MUNICIPAL LIBRARY DISTRICT OF THE CITY OF CAPE GIRARDEAU",
       "system": "MUNICIPAL LIBRARY DISTRICT OF THE CITY OF CAPE GIRARDEAU",
       "address": "711 N CLARK ST, CAPE GIRARDEAU, MO",
@@ -9,15 +46,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "63701",
-        "63703",
-        "63739",
-        "63743",
-        "63747",
-        "63766",
-        "63769",
-        "63770",
-        "63785",
-        "637HH"
+        "63703"
       ]
     },
     {
@@ -28,10 +57,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "63655",
         "63662",
         "63750",
         "63751",
-        "63753",
         "63760",
         "63764",
         "63781",
@@ -48,15 +77,18 @@
       "formStatus": "verified",
       "zipcodes": [
         "63703",
+        "63732",
         "63739",
         "63743",
         "63747",
+        "63748",
         "63755",
         "63766",
         "63769",
         "63770",
-        "63785",
-        "637HH"
+        "63775",
+        "63783",
+        "63785"
       ]
     },
     {
@@ -74,9 +106,7 @@
         "63767",
         "63771",
         "63774",
-        "63780",
-        "63784",
-        "63824"
+        "63780"
       ]
     },
     {
@@ -88,43 +118,31 @@
       "formStatus": "unknown",
       "zipcodes": [
         "63730",
-        "63735",
-        "63738",
-        "63846",
-        "63850",
-        "63936"
+        "63738"
       ]
     },
     {
-      "name": "PUXICO PUBLIC LIBRARY",
-      "system": "PUXICO PUBLIC LIBRARY",
-      "address": "201 N HICKMAN ST, PUXICO, MO",
-      "website": "https://www.puxico.lib.mo.us/",
+      "name": "PIEDMONT PUBLIC LIBRARY",
+      "system": "PIEDMONT PUBLIC LIBRARY",
+      "address": "1 CHILDS AVENUE, PIEDMONT, WV",
+      "website": "https://www.cityofpiedmont.com/community-profile/page/public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63735",
-        "63738",
-        "63846",
-        "63850",
-        "63936",
-        "63960"
-      ]
-    },
-    {
-      "name": "KELLER PUBLIC LIBRARY OF DEXTER",
-      "system": "KELLER PUBLIC LIBRARY OF DEXTER",
-      "address": "402 W GRANT ST, DEXTER, MO",
-      "website": "https://www.kellerpl.lib.mo.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63735",
-        "63738",
-        "63841",
-        "63846",
-        "63850",
-        "63936"
+        "26717",
+        "26750",
+        "36272",
+        "63763",
+        "63934",
+        "63944",
+        "63951",
+        "63952",
+        "63956",
+        "63957",
+        "63964",
+        "63966",
+        "63967",
+        "73078"
       ]
     },
     {
@@ -135,32 +153,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63736",
-        "63742",
-        "63758",
-        "63767",
-        "63771",
-        "63774",
-        "63780",
         "63784",
         "63801",
         "63824"
-      ]
-    },
-    {
-      "name": "BERNIE PUBLIC LIBRARY",
-      "system": "BERNIE PUBLIC LIBRARY",
-      "address": "111 N ALLEN ST, BERNIE, MO",
-      "website": "https://bernie-public-library.ploud.net/our-locations-and-hours",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63735",
-        "63738",
-        "63822",
-        "63846",
-        "63850",
-        "63936"
       ]
     }
   ]

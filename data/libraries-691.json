@@ -3,21 +3,21 @@
     {
       "name": "KIMBALL PUBLIC LIBRARY",
       "system": "KIMBALL PUBLIC LIBRARY",
-      "address": "208 SOUTH WALNUT, KIMBALL, NE",
+      "address": "140 N MAIN SUITE 104, KIMBALL, SD",
       "website": "https://kimballpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "57355",
-        "57370",
-        "573HH",
+        "69128",
+        "69133",
         "69145"
       ]
     },
     {
       "name": "OSHKOSH PUBLIC LIBRARY",
       "system": "OSHKOSH PUBLIC LIBRARY",
-      "address": "307 WEST 1ST STREET, OSHKOSH, NE",
+      "address": "106 WASHINGTON AVE., OSHKOSH, WI",
       "website": "https://www.oshkoshlibrary.org/",
       "formUrl": "https://www.oshkoshlibrary.org/request-book",
       "formStatus": "verified",
@@ -26,12 +26,8 @@
         "54902",
         "54904",
         "54927",
-        "54934",
-        "54947",
-        "54956",
-        "54964",
-        "54980",
         "54985",
+        "69148",
         "69154"
       ]
     },
@@ -58,28 +54,28 @@
     {
       "name": "DALTON PUBLIC LIBRARY",
       "system": "DALTON PUBLIC LIBRARY",
-      "address": "306 MAIN STREET, DALTON, NE",
+      "address": "756 DALTON ROAD, DALTON, NH",
       "website": "https://townofdaltonnh.gov/public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03570",
-        "03582",
-        "03590",
-        "035HH",
-        "035XX",
-        "69131"
+        "03598",
+        "69131",
+        "69141"
       ]
     },
     {
       "name": "SIDNEY PUBLIC LIBRARY",
       "system": "SIDNEY PUBLIC LIBRARY",
-      "address": "1112 12TH AVENUE, SIDNEY, NE",
+      "address": "1002 ILLINOIS ST, SIDNEY, IA",
       "website": "http://sidneypubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69141",
+        "51648",
+        "51650",
+        "51652",
+        "51654",
         "69162"
       ]
     },
@@ -91,8 +87,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69121",
-        "691XX"
+        "69121"
       ]
     },
     {
@@ -103,10 +98,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69125",
-        "69331",
-        "69334",
-        "69336"
+        "69125"
       ]
     },
     {
@@ -128,10 +120,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68834",
-        "68850",
-        "68863",
-        "68878",
         "69130"
       ]
     },
@@ -143,10 +131,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68834",
-        "68850",
-        "68863",
-        "68878",
         "69138"
       ]
     },
@@ -172,8 +156,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69147",
-        "69148"
+        "69147"
       ]
     },
     {
@@ -184,7 +167,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69141",
         "69149"
       ]
     },
@@ -209,10 +191,7 @@
       "zipcodes": [
         "69101",
         "69123",
-        "69132",
-        "69143",
-        "69151",
-        "69170"
+        "69151"
       ]
     },
     {
@@ -226,8 +205,7 @@
         "69127",
         "69144",
         "69146",
-        "69153",
-        "691HH"
+        "69153"
       ]
     },
     {
@@ -238,11 +216,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69127",
-        "69144",
-        "69146",
-        "69155",
-        "691HH"
+        "69155"
       ]
     },
     {
@@ -253,7 +227,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69141",
         "69156"
       ]
     },
@@ -265,7 +238,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69163"
+        "69163",
+        "69167"
       ]
     },
     {
@@ -276,12 +250,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69123",
-        "69132",
         "69143",
-        "69151",
-        "69165",
-        "69170"
+        "69165"
       ]
     },
     {
@@ -303,10 +273,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69123",
         "69132",
-        "69143",
-        "69151",
         "69169",
         "69170"
       ]
@@ -319,11 +286,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68813",
-        "68819",
-        "68828",
-        "68860",
-        "68881",
         "69120"
       ]
     },
@@ -335,6 +297,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68833",
         "69142",
         "69161",
         "69166"

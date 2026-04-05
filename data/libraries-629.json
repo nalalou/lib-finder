@@ -3,7 +3,7 @@
     {
       "name": "CAIRO PUBLIC LIBRARY",
       "system": "CAIRO PUBLIC LIBRARY",
-      "address": "1609 WASHINGTON AVENUE, CAIRO, IL",
+      "address": "15 RAILROAD AVE, CAIRO, NY",
       "website": "https://cairolibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -11,30 +11,18 @@
         "12042",
         "12058",
         "12083",
-        "12087",
         "12176",
-        "12192",
         "12405",
-        "12407",
         "12413",
         "12418",
-        "12422",
         "12423",
         "12424",
-        "12427",
         "12431",
-        "12439",
-        "12444",
-        "12450",
         "12451",
-        "12454",
-        "12460",
         "12463",
-        "12468",
         "12470",
         "12473",
         "12482",
-        "12492",
         "62914"
       ]
     },
@@ -48,9 +36,24 @@
       "zipcodes": [
         "62905",
         "62906",
-        "62920",
-        "62952",
-        "62998"
+        "62920"
+      ]
+    },
+    {
+      "name": "CARBONDALE PUBLIC LIBRARY",
+      "system": "CARBONDALE PUBLIC LIBRARY",
+      "address": "405 WEST MAIN STREET, CARBONDALE, IL",
+      "website": "http://carbondalepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18403",
+        "18407",
+        "18433",
+        "18447",
+        "62901",
+        "62924",
+        "62958"
       ]
     },
     {
@@ -64,10 +67,8 @@
         "62915",
         "62918",
         "62921",
-        "62922",
         "62933",
-        "62949",
-        "62974"
+        "62949"
       ]
     },
     {
@@ -78,11 +79,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62915",
-        "62921",
         "62922",
-        "62933",
-        "62949",
         "62959",
         "62974"
       ]
@@ -99,9 +96,7 @@
         "62962",
         "62969",
         "62988",
-        "62990",
-        "62993",
-        "629HH"
+        "62990"
       ]
     },
     {
@@ -112,11 +107,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62905",
-        "62920",
-        "62926",
-        "62952",
-        "62998"
+        "62926"
       ]
     },
     {
@@ -128,8 +119,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62930",
-        "62977",
-        "62987"
+        "62977"
       ]
     },
     {
@@ -140,17 +130,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62901",
-        "62907",
-        "62916",
         "62924",
         "62927",
         "62932",
-        "62940",
-        "62942",
-        "62950",
-        "62958",
-        "62975",
         "62994"
       ]
     },
@@ -176,8 +158,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62946",
-        "62977",
-        "62987"
+        "62977"
       ]
     },
     {
@@ -190,11 +171,9 @@
       "zipcodes": [
         "62915",
         "62921",
-        "62922",
         "62933",
         "62948",
-        "62949",
-        "62974"
+        "62949"
       ]
     },
     {
@@ -205,13 +184,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62915",
         "62921",
-        "62922",
-        "62933",
-        "62949",
         "62951",
         "62974"
+      ]
+    },
+    {
+      "name": "JONESBORO PUBLIC LIBRARY",
+      "system": "JONESBORO PUBLIC LIBRARY",
+      "address": "412 SOUTH MAIN STREET, JONESBORO, IL",
+      "website": "https://librarylearning.org/jonesboro-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46930",
+        "46938",
+        "46953",
+        "46987",
+        "62905",
+        "62920",
+        "62952",
+        "62998"
       ]
     },
     {
@@ -222,11 +215,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62915",
-        "62921",
         "62922",
         "62933",
-        "62949",
         "62959",
         "62974"
       ]
@@ -245,6 +235,25 @@
       ]
     },
     {
+      "name": "MOUNDS PUBLIC LIBRARY",
+      "system": "MOUNDS PUBLIC LIBRARY",
+      "address": "418 FIRST STREET, MOUNDS, IL",
+      "website": "https://moundspubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62941",
+        "62956",
+        "62963",
+        "62964",
+        "62970",
+        "62976",
+        "62992",
+        "62996",
+        "74041"
+      ]
+    },
+    {
       "name": "SALLIE LOGAN PUBLIC LIBRARY",
       "system": "SALLIE LOGAN PUBLIC LIBRARY",
       "address": "1808 WALNUT STREET, MURPHYSBORO, IL",
@@ -252,15 +261,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62901",
         "62907",
         "62916",
         "62924",
-        "62927",
         "62940",
         "62942",
         "62950",
-        "62958",
         "62966",
         "62975",
         "62994"
@@ -288,15 +294,7 @@
       "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=947.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
       "formStatus": "verified",
       "zipcodes": [
-        "62819",
-        "62825",
-        "62836",
-        "62860",
         "62865",
-        "62874",
-        "62890",
-        "62891",
-        "62897",
         "62983"
       ]
     },
@@ -331,7 +329,6 @@
         "62943",
         "62967",
         "62972",
-        "62991",
         "62995"
       ]
     },
@@ -345,13 +342,8 @@
       "zipcodes": [
         "62819",
         "62825",
-        "62836",
-        "62860",
         "62865",
         "62874",
-        "62890",
-        "62891",
-        "62897",
         "62999"
       ]
     },
@@ -364,7 +356,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62917",
-        "62977",
         "62987"
       ]
     },
@@ -377,21 +368,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62935",
-        "62977",
-        "62987"
-      ]
-    },
-    {
-      "name": "DUQUOIN PUBLIC LIBRARY",
-      "system": "DUQUOIN PUBLIC LIBRARY",
-      "address": "28 SOUTH WASHINGTON STREET, DUQUOIN, IL",
-      "website": "https://duquoinlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62832",
-        "62888",
-        "62997"
+        "62977"
       ]
     },
     {
@@ -403,20 +380,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62238",
-        "62888",
-        "62997"
-      ]
-    },
-    {
-      "name": "PINCKNEYVILLE PUBLIC LIBRARY",
-      "system": "PINCKNEYVILLE PUBLIC LIBRARY",
-      "address": "312 SOUTH WALNUT STREET, PINCKNEYVILLE, IL",
-      "website": "https://pinckneyvillelibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62274",
-        "62888",
         "62997"
       ]
     }

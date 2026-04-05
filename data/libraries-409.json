@@ -8,7 +8,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40803",
         "40816",
         "40827",
         "40840",
@@ -18,7 +17,6 @@
         "40874",
         "40979",
         "41714",
-        "41730",
         "41749",
         "41762",
         "41764",
@@ -31,7 +29,7 @@
     {
       "name": "CLAY COUNTY PUBLIC LIBRARY",
       "system": "CLAY COUNTY PUBLIC LIBRARY",
-      "address": "211 BRIDGE STREET, MANCHESTER, KY",
+      "address": "614 MAIN STREET, CLAY, WV",
       "website": "https://www.claycountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -41,20 +39,22 @@
         "25043",
         "25063",
         "25088",
-        "250HH",
         "25111",
         "25113",
         "25125",
         "25133",
         "25141",
-        "25150",
         "25164",
-        "251HH",
         "25211",
-        "25283",
         "25285",
         "26617",
-        "40962"
+        "38551",
+        "38575",
+        "40914",
+        "40941",
+        "40962",
+        "40972",
+        "40983"
       ]
     },
     {
@@ -65,7 +65,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40730",
         "40759",
         "40763",
         "40769",
@@ -101,11 +100,8 @@
         "40855",
         "40863",
         "40865",
-        "40867",
         "40870",
         "40873",
-        "408HH",
-        "408XX",
         "40927"
       ]
     },
@@ -125,14 +121,13 @@
         "40958",
         "40965",
         "40977",
-        "40988",
-        "409HH"
+        "40988"
       ]
     },
     {
       "name": "KNOX COUNTY PUBLIC LIBRARY",
       "system": "KNOX COUNTY PUBLIC LIBRARY",
-      "address": "502 NORTH 7TH STREET, VINCENNES, IN",
+      "address": "206 KNOX STREET, BARBOURVILLE, KY",
       "website": "https://www.kcpl.lib.in.us/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -144,7 +139,6 @@
         "40915",
         "40921",
         "40923",
-        "40930",
         "40935",
         "40943",
         "40946",
@@ -153,7 +147,9 @@
         "40982",
         "40995",
         "40997",
-        "40999",
+        "47516",
+        "47524",
+        "47557",
         "47591"
       ]
     }

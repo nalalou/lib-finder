@@ -10,139 +10,130 @@
       "zipcodes": [
         "74014",
         "74429",
-        "74446",
         "74454"
       ]
     },
     {
-      "name": "WAGONER CITY PUBLIC LIBRARY",
-      "system": "WAGONER CITY PUBLIC LIBRARY",
-      "address": "302 N. MAIN, WAGONER, OK",
-      "website": "https://www.wagonerok.org/Departments/Public-Library/About-the-Wagoner-Library",
+      "name": "OKMULGEE PUBLIC LIBRARY",
+      "system": "OKMULGEE PUBLIC LIBRARY",
+      "address": "218 S OKMULGEE, OKMULGEE, OK",
+      "website": "https://www.okmulgeeonline.com/194/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74014",
-        "74446",
-        "74454",
-        "74467"
+        "74047",
+        "74421",
+        "74428",
+        "74438",
+        "74445",
+        "74447",
+        "74456",
+        "74460"
       ]
     },
     {
-      "name": "PRAGUE - HAYNIE PUBLIC LIBRARY",
-      "system": "PRAGUE - HAYNIE PUBLIC LIBRARY",
-      "address": "1619 W MAIN STREET, PRAGUE, OK",
-      "website": "https://cityofpragueok.org/about-the-library/",
+      "name": "CHANDLER PUBLIC LIBRARY",
+      "system": "CHANDLER PUBLIC LIBRARY",
+      "address": "1021 S MANVEL, CHANDLER, OK",
+      "website": "https://chandlerlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "74026",
-        "74824",
-        "74832",
-        "74834",
-        "74864",
-        "74869",
-        "74881"
-      ]
-    },
-    {
-      "name": "TRYON PUBLIC LIBRARY",
-      "system": "TRYON PUBLIC LIBRARY",
-      "address": "25 S MAIN ST, TRYON, OK",
-      "website": "https://tryon.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74026",
-        "74824",
-        "74832",
         "74834",
         "74869",
-        "74875",
-        "74881"
-      ]
-    },
-    {
-      "name": "MEEKER PUBLIC LIBRARY",
-      "system": "MEEKER PUBLIC LIBRARY",
-      "address": "616 W. CARL HUBBELL BOULEVARD, MEEKER, OK",
-      "website": "https://meeker.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74026",
-        "74824",
-        "74832",
-        "74834",
-        "74855",
-        "74869",
-        "74881"
+        "74881",
+        "75756",
+        "75758",
+        "85202",
+        "85204",
+        "85206",
+        "85210",
+        "85212",
+        "85224",
+        "85225",
+        "85233",
+        "85234",
+        "85249",
+        "85283",
+        "85284",
+        "85296"
       ]
     },
     {
       "name": "CHELSEA PUBLIC LIBRARY",
       "system": "CHELSEA PUBLIC LIBRARY",
-      "address": "16623 HIGHWAY 80, CHELSEA, AL",
+      "address": "569 BROADWAY, CHELSEA, MA",
       "website": "https://www.chelseama.gov/departments/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "02108",
+        "02109",
+        "02110",
+        "02111",
+        "02113",
+        "02114",
+        "02115",
+        "02118",
+        "02119",
+        "02120",
+        "02121",
+        "02122",
+        "02124",
+        "02125",
+        "02126",
+        "02127",
+        "02128",
+        "02129",
+        "02130",
+        "02131",
+        "02134",
+        "02135",
+        "02150",
+        "02163",
+        "02199",
+        "02210",
+        "02215",
         "35043",
-        "74016",
-        "74053"
-      ]
-    },
-    {
-      "name": "FAIRFAX PUBLIC LIBRARY",
-      "system": "FAIRFAX PUBLIC LIBRARY",
-      "address": "158 EAST ELM, FAIRFAX, OK",
-      "website": "https://www.fairfax.lib.ia.us/",
-      "formUrl": "https://www.fairfax.lib.ia.us/services/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "74001",
-        "74054",
-        "74060",
-        "74070",
-        "74084",
-        "74633",
-        "74637",
-        "74652"
+        "35147",
+        "52215",
+        "52348",
+        "74016"
       ]
     },
     {
       "name": "PAWNEE PUBLIC LIBRARY",
       "system": "PAWNEE PUBLIC LIBRARY",
-      "address": "653 ILLINOIS, PAWNEE, OK",
+      "address": "613 DOUGLAS STREET, PAWNEE, IL",
       "website": "https://www.pawneepubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74034",
-        "74038",
+        "62536",
+        "62558",
         "74045",
         "74058",
-        "74081",
         "74650"
       ]
     },
     {
       "name": "MOUNDS PUBLIC LIBRARY",
       "system": "MOUNDS PUBLIC LIBRARY",
-      "address": "15 WEST 14TH STREET, MOUNDS, OK",
+      "address": "418 FIRST STREET, MOUNDS, IL",
       "website": "https://moundspubliclibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74028",
-        "74041",
-        "74047",
-        "74050",
-        "74052",
-        "74068",
-        "74071",
-        "740HH",
-        "74131"
+        "62941",
+        "62956",
+        "62963",
+        "62964",
+        "62970",
+        "62976",
+        "62992",
+        "62996",
+        "74041"
       ]
     },
     {
@@ -155,12 +146,7 @@
       "zipcodes": [
         "74001",
         "74002",
-        "74054",
-        "74060",
-        "74070",
-        "74084",
-        "74633",
-        "74652"
+        "74070"
       ]
     },
     {
@@ -173,7 +159,6 @@
       "zipcodes": [
         "74003",
         "74006",
-        "74022",
         "74051",
         "74061"
       ]
@@ -188,13 +173,7 @@
       "zipcodes": [
         "74010",
         "74028",
-        "74041",
-        "74050",
-        "74052",
-        "74068",
-        "74071",
-        "740HH",
-        "74131"
+        "74071"
       ]
     },
     {
@@ -208,25 +187,21 @@
         "74020",
         "74034",
         "74038",
-        "74045",
-        "74081",
-        "74650"
+        "74081"
       ]
     },
     {
       "name": "CUSHING PUBLIC LIBRARY",
       "system": "CUSHING PUBLIC LIBRARY",
-      "address": "39 CROSS ROAD, CUSHING, ME",
+      "address": "215 NORTH STEELE AVENUE, CUSHING, OK",
       "website": "https://cushing.lib.me.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "04563",
+        "04859",
         "74023",
-        "74032",
-        "74062",
-        "74074",
-        "74075"
+        "74062"
       ]
     },
     {
@@ -239,9 +214,7 @@
       "zipcodes": [
         "74006",
         "74022",
-        "74029",
-        "74051",
-        "74061"
+        "74029"
       ]
     },
     {
@@ -252,15 +225,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74028",
         "74030",
-        "74041",
-        "74050",
         "74052",
-        "74068",
-        "74071",
-        "740HH",
-        "74131"
+        "74068"
       ]
     },
     {
@@ -271,14 +238,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74001",
         "74035",
         "74054",
         "74060",
-        "74070",
-        "74084",
-        "74633",
-        "74652"
+        "74084"
       ]
     },
     {
@@ -289,9 +252,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74016",
-        "74036",
-        "74053"
+        "74036"
       ]
     },
     {
@@ -302,15 +263,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74028",
-        "74041",
-        "74044",
-        "74050",
-        "74052",
-        "74068",
-        "74071",
-        "740HH",
-        "74131"
+        "74044"
       ]
     },
     {
@@ -336,14 +289,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74001",
-        "74054",
-        "74056",
-        "74060",
-        "74070",
-        "74084",
-        "74633",
-        "74652"
+        "74056"
       ]
     },
     {
@@ -354,12 +300,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74023",
-        "74032",
         "74059",
-        "74062",
-        "74074",
-        "74075"
+        "74062"
       ]
     },
     {
@@ -370,14 +312,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74028",
         "74041",
         "74050",
-        "74052",
         "74066",
-        "74068",
-        "74071",
-        "740HH",
         "74131"
       ]
     },
@@ -390,12 +327,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "74026",
-        "74079",
-        "74824",
-        "74832",
-        "74834",
-        "74869",
-        "74881"
+        "74079"
       ]
     },
     {
@@ -406,11 +338,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74023",
-        "74032",
-        "74062",
-        "74074",
-        "74075",
         "74085"
       ]
     },
@@ -422,15 +349,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74028",
         "74039",
-        "74041",
-        "74050",
-        "74052",
-        "74068",
-        "74071",
-        "740HH",
-        "74131"
+        "74041"
       ]
     },
     {
@@ -441,23 +361,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74016",
-        "74017",
-        "74053"
+        "74017"
       ]
     },
     {
       "name": "STILLWATER PUBLIC LIBRARY",
       "system": "STILLWATER PUBLIC LIBRARY",
-      "address": "224 THIRD STREET NORTH, STILLWATER, MN",
+      "address": "1107 S. DUCK, STILLWATER, OK",
       "website": "https://stillwater.sals.edu/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "12170",
+        "55025",
+        "55038",
+        "55042",
+        "55043",
+        "55047",
+        "55073",
         "55082",
-        "74023",
+        "55090",
+        "55115",
+        "55128",
         "74032",
-        "74062",
         "74074",
         "74075"
       ]
@@ -470,9 +396,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74015",
-        "74016",
-        "74053"
+        "74015"
       ]
     },
     {
@@ -483,7 +407,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74016",
         "74053",
         "74080"
       ]

@@ -3,25 +3,45 @@
     {
       "name": "GREENWOOD PUBLIC LIBRARY",
       "system": "GREENWOOD PUBLIC LIBRARY",
-      "address": "310 SOUTH MERIDIAN, GREENWOOD, IN",
-      "website": "https://greenwoodne.gov/departments/library/",
+      "address": "619 MAIN STREET, GREENWOOD, NE",
+      "website": "http://www.greenwoodlibrary.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46106",
+        "46142",
         "46143",
-        "68016",
-        "68058",
+        "46184",
         "68304",
-        "68307",
-        "68347",
-        "68349",
-        "68366",
-        "68403",
-        "68407",
-        "68409",
-        "68413",
-        "68455",
-        "684HH"
+        "68366"
+      ]
+    },
+    {
+      "name": "LEBANON PUBLIC LIBRARY",
+      "system": "LEBANON PUBLIC LIBRARY",
+      "address": "55 ACADEMY ST, LEBANON, OR",
+      "website": "https://lebanonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03766",
+        "03784",
+        "45005",
+        "45034",
+        "45036",
+        "45039",
+        "45040",
+        "45054",
+        "45065",
+        "45066",
+        "46052",
+        "46075",
+        "46147",
+        "62225",
+        "62254",
+        "62289",
+        "97355",
+        "97389"
       ]
     },
     {
@@ -37,11 +57,7 @@
         "47344",
         "47351",
         "47352",
-        "47360",
-        "47361",
-        "47384",
-        "47386",
-        "47387"
+        "47384"
       ]
     },
     {
@@ -54,11 +70,53 @@
       "zipcodes": [
         "46104",
         "46115",
+        "46155"
+      ]
+    },
+    {
+      "name": "RUSHVILLE PUBLIC LIBRARY",
+      "system": "RUSHVILLE PUBLIC LIBRARY",
+      "address": "130 WEST THIRD STREET, RUSHVILLE, IN",
+      "website": "https://rushvilleillinois.us/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46104",
         "46127",
         "46150",
         "46155",
         "46156",
-        "46173"
+        "46173",
+        "61452",
+        "62319",
+        "62344",
+        "62624",
+        "62639",
+        "62681",
+        "69335",
+        "69340",
+        "69360",
+        "69365"
+      ]
+    },
+    {
+      "name": "PUTNAM COUNTY PUBLIC LIBRARY",
+      "system": "PUTNAM COUNTY PUBLIC LIBRARY",
+      "address": "103 EAST POPLAR STREET, GREENCASTLE, IN",
+      "website": "https://www.putnamcl.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46105",
+        "46120",
+        "46128",
+        "46135",
+        "46171",
+        "63551",
+        "63565",
+        "63567",
+        "64655",
+        "64672"
       ]
     },
     {
@@ -70,12 +128,28 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46105",
-        "46120",
-        "46128",
-        "46135",
-        "46171",
         "46172",
         "46175"
+      ]
+    },
+    {
+      "name": "HANCOCK COUNTY PUBLIC LIBRARY",
+      "system": "HANCOCK COUNTY PUBLIC LIBRARY",
+      "address": "900 WEST MCKENZIE ROAD, GREENFIELD, IN",
+      "website": "https://www.hcplibrary.org/",
+      "formUrl": "https://www.hcplibrary.org/services-spaces/ill",
+      "formStatus": "verified",
+      "zipcodes": [
+        "37765",
+        "37869",
+        "42348",
+        "42351",
+        "42368",
+        "46055",
+        "46117",
+        "46140",
+        "46163",
+        "46186"
       ]
     },
     {
@@ -88,9 +162,6 @@
       "zipcodes": [
         "46103",
         "46121",
-        "46149",
-        "46165",
-        "46167",
         "46180"
       ]
     },
@@ -102,12 +173,9 @@
       "formUrl": "https://www.bburglibrary.net/",
       "formStatus": "verified",
       "zipcodes": [
-        "46103",
         "46112",
         "46149",
-        "46165",
-        "46167",
-        "46180"
+        "46167"
       ]
     },
     {
@@ -122,8 +190,7 @@
         "46122",
         "46149",
         "46165",
-        "46167",
-        "46180"
+        "46167"
       ]
     },
     {
@@ -136,9 +203,6 @@
       "zipcodes": [
         "46103",
         "46118",
-        "46149",
-        "46165",
-        "46167",
         "46180"
       ]
     },
@@ -150,12 +214,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46103",
         "46123",
-        "46149",
-        "46165",
-        "46167",
-        "46180"
+        "46167"
       ]
     },
     {
@@ -166,12 +226,44 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46103",
-        "46149",
-        "46165",
-        "46167",
-        "46168",
-        "46180"
+        "46168"
+      ]
+    },
+    {
+      "name": "JOHNSON COUNTY PUBLIC LIBRARY",
+      "system": "JOHNSON COUNTY PUBLIC LIBRARY",
+      "address": "49 EAST MONROE STREET, FRANKLIN, IN",
+      "website": "http://www.johnsoncountypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37640",
+        "37680",
+        "37683",
+        "37688",
+        "37691",
+        "41204",
+        "41216",
+        "41219",
+        "41222",
+        "41226",
+        "41234",
+        "41238",
+        "41240",
+        "41254",
+        "41255",
+        "41256",
+        "41257",
+        "41260",
+        "41263",
+        "41265",
+        "41268",
+        "41274",
+        "46106",
+        "46131",
+        "46143",
+        "46181",
+        "46184"
       ]
     },
     {
@@ -182,12 +274,45 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46106",
-        "46124",
-        "46131",
-        "46142",
-        "46181",
-        "46184"
+        "46124"
+      ]
+    },
+    {
+      "name": "MORGAN COUNTY PUBLIC LIBRARY",
+      "system": "MORGAN COUNTY PUBLIC LIBRARY",
+      "address": "110 SOUTH JEFFERSON STREET, MARTINSVILLE, IN",
+      "website": "http://morgancountylibrary.info",
+      "formUrl": "https://morgancountylibrary.info/purchase-suggestion/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "25411",
+        "25422",
+        "41332",
+        "41408",
+        "41421",
+        "41425",
+        "41472",
+        "46111",
+        "46125",
+        "46151",
+        "46166"
+      ]
+    },
+    {
+      "name": "MOORESVILLE PUBLIC LIBRARY",
+      "system": "MOORESVILLE PUBLIC LIBRARY",
+      "address": "220 WEST HARRISON STREET, MOORESVILLE, IN",
+      "website": "https://mooresvillelib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28115",
+        "28117",
+        "28166",
+        "46111",
+        "46113",
+        "46157",
+        "46158"
       ]
     },
     {
@@ -210,94 +335,71 @@
       ]
     },
     {
-      "name": "THORNTOWN PUBLIC LIBRARY",
-      "system": "THORNTOWN PUBLIC LIBRARY",
-      "address": "124 NORTH MARKET STREET, THORNTOWN, IN",
-      "website": "https://thorntownpl.org/",
+      "name": "BROWN COUNTY PUBLIC LIBRARY",
+      "system": "BROWN COUNTY PUBLIC LIBRARY",
+      "address": "200 W. GRANT AVE., GEORGETOWN, OH",
+      "website": "http://browncountylibrary.info/",
+      "formUrl": "http://browncountylibrary.info/ill/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "45118",
+        "45121",
+        "45130",
+        "45131",
+        "45154",
+        "45168",
+        "45171",
+        "46160",
+        "46164",
+        "47448"
+      ]
+    },
+    {
+      "name": "FAYETTE COUNTY PUBLIC LIBRARY",
+      "system": "FAYETTE COUNTY PUBLIC LIBRARY",
+      "address": "531 SUMMIT STREET, OAK HILL, WV",
+      "website": "http://www.fayettecountyga.gov/public_library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46052",
-        "46071",
-        "46075",
-        "46102",
-        "46147"
-      ]
-    },
-    {
-      "name": "FORTVILLE-VERNON TOWNSHIP PUBLIC LIBRARY",
-      "system": "FORTVILLE-VERNON TOWNSHIP PUBLIC LIBRARY",
-      "address": "625 EAST BROADWAY, FORTVILLE, IN",
-      "website": "https://www.vtpl.lib.in.us/",
-      "formUrl": "https://www.vtpl.lib.in.us/books-and-media/#request-materials",
-      "formStatus": "verified",
-      "zipcodes": [
-        "46040",
-        "46055",
-        "46117",
-        "46140",
-        "46163",
-        "46186"
-      ]
-    },
-    {
-      "name": "HUSSEY-MAYFIELD MEMORIAL PUBLIC LIBRARY",
-      "system": "HUSSEY-MAYFIELD MEMORIAL PUBLIC LIBRARY",
-      "address": "250 NORTH FIFTH STREET, ZIONSVILLE, IN",
-      "website": "https://zionsvillelibrary.org",
-      "formUrl": "https://zionsvillelibrary.org/services/request-an-item/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "46052",
-        "46075",
-        "46077",
-        "46102",
-        "46147"
-      ]
-    },
-    {
-      "name": "SPEEDWAY PUBLIC LIBRARY",
-      "system": "SPEEDWAY PUBLIC LIBRARY",
-      "address": "5633 WEST 25TH STREET, SPEEDWAY, IN",
-      "website": "https://www.speedway.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46107",
-        "46201",
-        "46202",
-        "46203",
-        "46205",
-        "46208",
-        "46214",
-        "46216",
-        "46217",
-        "46218",
-        "46219",
-        "46220",
-        "46221",
-        "46222",
-        "46224",
-        "46225",
-        "46226",
-        "46227",
-        "46228",
-        "46229",
-        "46231",
-        "46234",
-        "46235",
-        "46236",
-        "46237",
-        "46239",
-        "46240",
-        "46241",
-        "46250",
-        "46254",
-        "46256",
-        "46259",
-        "46260",
-        "46268",
-        "46278"
+        "25002",
+        "25031",
+        "25036",
+        "25040",
+        "25057",
+        "25085",
+        "25090",
+        "25115",
+        "25118",
+        "25119",
+        "25136",
+        "25139",
+        "25152",
+        "25161",
+        "25173",
+        "25186",
+        "25812",
+        "25831",
+        "25837",
+        "25840",
+        "25846",
+        "25854",
+        "25855",
+        "25862",
+        "25864",
+        "25868",
+        "25879",
+        "25901",
+        "25904",
+        "25907",
+        "25917",
+        "25936",
+        "25938",
+        "25942",
+        "25976",
+        "26680",
+        "46133",
+        "47331"
       ]
     },
     {
@@ -341,8 +443,7 @@
         "46256",
         "46259",
         "46260",
-        "46268",
-        "46278"
+        "46268"
       ]
     }
   ]

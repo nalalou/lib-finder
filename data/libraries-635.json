@@ -3,11 +3,16 @@
     {
       "name": "PUTNAM COUNTY PUBLIC LIBRARY",
       "system": "PUTNAM COUNTY PUBLIC LIBRARY",
-      "address": "115 S 16TH ST, UNIONVILLE, MO",
+      "address": "103 EAST POPLAR STREET, GREENCASTLE, IN",
       "website": "https://www.putnamcl.lib.mo.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46105",
+        "46120",
+        "46128",
+        "46135",
+        "46171",
         "63551",
         "63565",
         "63567",
@@ -16,21 +21,22 @@
       ]
     },
     {
-      "name": "MARCELINE CARNEGIE LIBRARY",
-      "system": "MARCELINE CARNEGIE LIBRARY",
-      "address": "119 E CALIFORNIA AVE, MARCELINE, MO",
-      "website": "https://www.marcelinelibrary.org/",
+      "name": "BROOKFIELD PUBLIC LIBRARY",
+      "system": "BROOKFIELD PUBLIC LIBRARY",
+      "address": "102 E BOSTON ST, BROOKFIELD, MO",
+      "website": "https://www.brookfieldpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "53005",
+        "53007",
+        "53045",
         "63557",
         "63566",
         "64628",
         "64630",
-        "64631",
         "64651",
         "64653",
-        "64658",
         "64659",
         "64674"
       ]
@@ -38,7 +44,7 @@
     {
       "name": "SCOTLAND COUNTY MEMORIAL LIBRARY",
       "system": "SCOTLAND COUNTY MEMORIAL LIBRARY",
-      "address": "306 W MADISON ST, MEMPHIS, MO",
+      "address": "312 W CHURCH ST, LAURINBURG, NC",
       "website": "https://scotland.lib.mo.us/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -48,18 +54,25 @@
         "28352",
         "28363",
         "28396",
-        "283XX",
-        "63555"
+        "63432",
+        "63531",
+        "63543",
+        "63555",
+        "63563"
       ]
     },
     {
       "name": "ADAIR COUNTY PUBLIC LIBRARY",
       "system": "ADAIR COUNTY PUBLIC LIBRARY",
-      "address": "ONE LIBRARY LANE, KIRKSVILLE, MO",
+      "address": "307 GREENSBURG STREET, COLUMBIA, KY",
       "website": "https://www.adairco.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "42715",
+        "42728",
+        "42741",
+        "42753",
         "63501",
         "63533",
         "63540",
@@ -68,22 +81,33 @@
       ]
     },
     {
-      "name": "DULANY MEMORIAL LIBRARY",
-      "system": "DULANY MEMORIAL LIBRARY",
-      "address": "501 S BROADWAY, SALISBURY, MO",
-      "website": "https://www.dulanylibrary.org/",
-      "formUrl": "https://www.dulanylibrary.org/services/interlibrary-loan-services",
-      "formStatus": "verified",
+      "name": "SULLIVAN COUNTY PUBLIC LIBRARY",
+      "system": "SULLIVAN COUNTY PUBLIC LIBRARY",
+      "address": "109 E SECOND ST, MILAN, MO",
+      "website": "http://www.sullivan.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
-        "635HH",
-        "64660",
-        "64676",
-        "64681",
-        "65236",
-        "65246",
-        "65261",
-        "65281",
-        "65286"
+        "37617",
+        "37618",
+        "37620",
+        "37686",
+        "47838",
+        "47848",
+        "47849",
+        "47850",
+        "47855",
+        "47861",
+        "47865",
+        "47879",
+        "47882",
+        "63544",
+        "63545",
+        "63556",
+        "63560",
+        "64645",
+        "64646",
+        "64667"
       ]
     },
     {
@@ -95,11 +119,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "63431",
-        "63530",
         "63532",
         "63534",
-        "63538",
-        "63539",
         "63552",
         "63558",
         "65247"
@@ -113,15 +134,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63431",
+        "63460",
         "63530",
-        "63532",
-        "63534",
+        "63537",
         "63538",
         "63539",
-        "63549",
-        "63558",
-        "65247"
+        "63547",
+        "63549"
       ]
     },
     {

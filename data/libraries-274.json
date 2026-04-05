@@ -8,18 +8,12 @@
       "formUrl": "https://library.greensboro-nc.gov/services/suggest-a-library-purchase",
       "formStatus": "verified",
       "zipcodes": [
-        "27214",
-        "27235",
-        "27260",
-        "27265",
         "27282",
         "27283",
         "27301",
         "27310",
         "27313",
-        "27342",
         "27358",
-        "27377",
         "27401",
         "27403",
         "27405",
@@ -28,8 +22,7 @@
         "27408",
         "27409",
         "27410",
-        "27455",
-        "274HH"
+        "27455"
       ]
     },
     {
@@ -40,60 +33,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27214",
         "27235",
         "27260",
         "27262",
         "27265",
         "27282",
-        "27283",
-        "27301",
-        "27310",
-        "27313",
-        "27342",
-        "27358",
-        "27377",
-        "27403",
-        "27405",
-        "27406",
-        "27407",
-        "27408",
-        "27409",
-        "27410",
-        "27455",
-        "274HH"
-      ]
-    },
-    {
-      "name": "GIBSONVILLE PUBLIC LIBRARY",
-      "system": "GIBSONVILLE PUBLIC LIBRARY",
-      "address": "506 CHURCH ST, GIBSONVILLE, NC",
-      "website": "https://www.giblib.org/locations/gibsonville-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "27214",
-        "27235",
-        "27249",
-        "27260",
-        "27265",
-        "27282",
-        "27283",
-        "27301",
-        "27310",
-        "27313",
-        "27342",
-        "27358",
-        "27377",
-        "27403",
-        "27405",
-        "27406",
-        "27407",
-        "27408",
-        "27409",
-        "27410",
-        "27455",
-        "274HH"
+        "27407"
       ]
     }
   ]

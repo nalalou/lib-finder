@@ -3,65 +3,82 @@
     {
       "name": "CAMERON PUBLIC LIBRARY",
       "system": "CAMERON PUBLIC LIBRARY",
-      "address": "312 N CHESTNUT ST, CAMERON, MO",
+      "address": "506 MAIN ST., CAMERON, WI",
       "website": "https://www.cameronlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54733",
-        "54762",
-        "547HH",
-        "54805",
-        "54813",
         "54822",
-        "54826",
-        "54841",
-        "54857",
-        "54889",
-        "64429"
+        "64422",
+        "64429",
+        "64454",
+        "64465",
+        "64469",
+        "64474",
+        "64477",
+        "64490",
+        "64492",
+        "64493",
+        "64497",
+        "76518",
+        "76519",
+        "76520",
+        "76523",
+        "77857"
       ]
     },
     {
       "name": "OREGON PUBLIC LIBRARY",
       "system": "OREGON PUBLIC LIBRARY",
-      "address": "103 S WASHINGTON ST, OREGON, MO",
+      "address": "200 N. ALPINE PKWY, OREGON, WI",
       "website": "https://librarytechnology.org/library/20172",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "53508",
-        "53517",
         "53521",
-        "53527",
-        "53529",
-        "53571",
         "53575",
-        "53589",
-        "53598",
-        "53703",
-        "53704",
-        "53705",
-        "53706",
-        "53713",
-        "53714",
-        "53715",
-        "53717",
-        "53718",
-        "53719",
-        "537HH",
-        "64473"
+        "64449",
+        "64451",
+        "64473",
+        "64483"
+      ]
+    },
+    {
+      "name": "BETHANY PUBLIC LIBRARY",
+      "system": "BETHANY PUBLIC LIBRARY",
+      "address": "101 N 15TH ST, BETHANY, MO",
+      "website": "https://bethanymo.com/community/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18405",
+        "18415",
+        "18431",
+        "18456",
+        "18469",
+        "18472",
+        "18473",
+        "64424",
+        "64426",
+        "64442",
+        "64458",
+        "64467",
+        "64471",
+        "64481",
+        "64632",
+        "64642"
       ]
     },
     {
       "name": "ATCHISON COUNTY LIBRARY",
       "system": "ATCHISON COUNTY LIBRARY",
       "address": "200 S MAIN ST, ROCK PORT, MO",
-      "website": "https://www.countyoffice.org/atchison-county-library-main-branch-rock-port-mo-33a/",
+      "website": "http://acl.tlcdelivers.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "51630",
-        "51640",
         "64446",
         "64482",
         "64491",
@@ -80,8 +97,9 @@
         "64438",
         "64453",
         "64463",
+        "64480",
         "64489",
-        "64657"
+        "64494"
       ]
     },
     {
@@ -93,6 +111,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "64423",
+        "64427",
         "64428",
         "64431",
         "64432",
@@ -119,8 +138,6 @@
       "zipcodes": [
         "64402",
         "64438",
-        "64453",
-        "64463",
         "64657"
       ]
     },
@@ -161,16 +178,16 @@
       "formStatus": "verified",
       "zipcodes": [
         "64401",
-        "64440",
+        "64430",
+        "64436",
         "64443",
-        "64448",
-        "64484",
+        "64459",
+        "64485",
         "64503",
         "64504",
         "64505",
         "64506",
-        "64507",
-        "645HH"
+        "64507"
       ]
     },
     {
@@ -181,17 +198,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "64401",
+        "64018",
+        "64098",
+        "64421",
+        "64439",
         "64440",
-        "64443",
+        "64444",
         "64448",
         "64484",
         "64501",
         "64503",
         "64504",
         "64505",
-        "64507",
-        "645HH"
+        "64507"
       ]
     }
   ]

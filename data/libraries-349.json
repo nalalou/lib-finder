@@ -1,6 +1,40 @@
 {
   "libraries": [
     {
+      "name": "HEARTLAND LIBRARY COOPERATIVE",
+      "system": "HEARTLAND LIBRARY COOPERATIVE",
+      "address": "319 W. CENTER AVENUE, SEBRING, FL",
+      "website": "https://www.myhlc.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "33825",
+        "33852",
+        "33857",
+        "33870",
+        "33872",
+        "33890",
+        "33960",
+        "34972"
+      ]
+    },
+    {
+      "name": "HENDRY COUNTY LIBRARY SYSTEM",
+      "system": "HENDRY COUNTY LIBRARY SYSTEM",
+      "address": "120 WEST OSCEOLA AVENUE, CLEWISTON, FL",
+      "website": "https://hendrycl.insigniails.com/Library/Home",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "33440",
+        "33471",
+        "33930",
+        "33935",
+        "33944",
+        "34974"
+      ]
+    },
+    {
       "name": "MARTIN COUNTY LIBRARY SYSTEM",
       "system": "MARTIN COUNTY LIBRARY SYSTEM",
       "address": "2351 SE MONTEREY ROAD, STUART, FL",
@@ -14,8 +48,7 @@
         "34990",
         "34994",
         "34996",
-        "34997",
-        "349XX"
+        "34997"
       ]
     },
     {

@@ -9,33 +9,21 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99008",
-        "99029",
-        "99032",
-        "990HH",
-        "990XX",
-        "99103",
-        "99117",
-        "99134",
-        "99154"
+        "99029"
       ]
     },
     {
       "name": "SPRAGUE PUBLIC LIBRARY",
       "system": "SPRAGUE PUBLIC LIBRARY",
-      "address": "76 MAIN ST., BALTIC, CT",
+      "address": "119 WEST SECOND, SPRAGUE, WA",
       "website": "https://sprague.biblio.org/eg/opac/home",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "06330",
-        "99008",
-        "99032",
-        "990HH",
-        "990XX",
-        "99103",
-        "99117",
-        "99134",
-        "99154"
+        "06336",
+        "06380",
+        "99032"
       ]
     },
     {
@@ -46,143 +34,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99001",
-        "99003",
-        "99004",
-        "99005",
-        "99006",
-        "99009",
-        "99011",
         "99012",
         "99016",
         "99018",
         "99019",
-        "99020",
-        "99021",
-        "99022",
         "99023",
         "99025",
         "99027",
         "99030",
-        "99031",
-        "99036",
         "99037",
-        "99202",
-        "99203",
-        "99204",
-        "99205",
         "99206",
-        "99207",
-        "99208",
         "99216",
-        "99217",
-        "99218",
-        "99223",
-        "99224",
-        "992HH"
-      ]
-    },
-    {
-      "name": "DAVENPORT PUBLIC LIBRARY",
-      "system": "DAVENPORT PUBLIC LIBRARY",
-      "address": "505 7TH ST, DAVENPORT, WA",
-      "website": "http://www.davenportlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "99008",
-        "99032",
-        "990HH",
-        "990XX",
-        "99103",
-        "99117",
-        "99122",
-        "99134",
-        "99154"
-      ]
-    },
-    {
-      "name": "HARRINGTON PUBLIC LIBRARY",
-      "system": "HARRINGTON PUBLIC LIBRARY",
-      "address": "110 CENTER STREET, HARRINGTON, DE",
-      "website": "https://www.harrington.lib.wa.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "19952",
-        "99008",
-        "99032",
-        "990HH",
-        "990XX",
-        "99103",
-        "99117",
-        "99134",
-        "99154"
-      ]
-    },
-    {
-      "name": "ODESSA PUBLIC LIBRARY",
-      "system": "ODESSA PUBLIC LIBRARY",
-      "address": "21 E. FIRST STREET, ODESSA, WA",
-      "website": "https://odessa.lib.wa.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "99008",
-        "99032",
-        "990HH",
-        "990XX",
-        "99103",
-        "99117",
-        "99134",
-        "99154",
-        "99159"
-      ]
-    },
-    {
-      "name": "WILBUR (HESSELTINE) PUBLIC LIBRARY",
-      "system": "WILBUR (HESSELTINE) PUBLIC LIBRARY",
-      "address": "14 NW DIVISION, WILBUR, WA",
-      "website": "https://wilbur.lib.wa.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "99008",
-        "99032",
-        "990HH",
-        "990XX",
-        "99103",
-        "99117",
-        "99134",
-        "99154",
-        "99185"
-      ]
-    },
-    {
-      "name": "PULLMAN (NEILL) PUBLIC LIBRARY",
-      "system": "PULLMAN (NEILL) PUBLIC LIBRARY",
-      "address": "210 N GRAND AVENUE, PULLMAN, WA",
-      "website": "https://www.pullman-wa.gov/services/neill_public_library/index.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "99017",
-        "99033",
-        "99102",
-        "99113",
-        "99125",
-        "99128",
-        "99130",
-        "99136",
-        "99143",
-        "99149",
-        "99158",
-        "99161",
-        "99163",
-        "99170",
-        "99171",
-        "99176",
-        "99179"
+        "99217"
       ]
     },
     {
@@ -197,7 +60,6 @@
         "99033",
         "99102",
         "99111",
-        "99113",
         "99125",
         "99128",
         "99130",
@@ -208,8 +70,7 @@
         "99161",
         "99170",
         "99171",
-        "99176",
-        "99179"
+        "99176"
       ]
     },
     {
@@ -228,14 +89,19 @@
         "99109",
         "99110",
         "99114",
+        "99118",
+        "99121",
         "99126",
         "99129",
         "99131",
         "99137",
         "99141",
+        "99146",
         "99148",
+        "99150",
         "99151",
         "99157",
+        "99160",
         "99167",
         "99173",
         "99181"
@@ -249,25 +115,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99001",
         "99003",
-        "99004",
         "99005",
         "99006",
         "99009",
-        "99011",
-        "99012",
-        "99016",
-        "99018",
-        "99020",
         "99021",
-        "99022",
-        "99023",
-        "99025",
         "99027",
-        "99030",
-        "99031",
-        "99036",
         "99037",
         "99202",
         "99203",
@@ -275,14 +128,11 @@
         "99205",
         "99206",
         "99207",
-        "99208",
         "99212",
         "99216",
         "99217",
         "99218",
-        "99223",
-        "99224",
-        "992HH"
+        "99223"
       ]
     },
     {
@@ -294,25 +144,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "99001",
-        "99003",
         "99004",
-        "99005",
-        "99006",
-        "99009",
         "99011",
-        "99012",
-        "99016",
-        "99018",
         "99020",
-        "99021",
         "99022",
-        "99023",
-        "99025",
-        "99027",
-        "99030",
         "99031",
         "99036",
-        "99037",
         "99201",
         "99202",
         "99203",
@@ -325,8 +162,7 @@
         "99217",
         "99218",
         "99223",
-        "99224",
-        "992HH"
+        "99224"
       ]
     }
   ]

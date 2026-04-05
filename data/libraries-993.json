@@ -3,21 +3,22 @@
     {
       "name": "RICHLAND PUBLIC LIBRARY",
       "system": "RICHLAND PUBLIC LIBRARY",
-      "address": "955 NORTHGATE DR, RICHLAND, WA",
+      "address": "100 E MAIN, RICHLAND, IA",
       "website": "https://www.richland.lib.ia.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "989HH",
+        "52576",
+        "52585",
         "99320",
-        "99337",
+        "99326",
+        "99330",
         "99338",
+        "99343",
         "99345",
-        "99346",
         "99350",
         "99352",
-        "99353",
-        "993HH"
+        "99353"
       ]
     },
     {
@@ -30,10 +31,44 @@
       "zipcodes": [
         "99105",
         "99169",
-        "99332",
         "99341",
         "99344",
         "99371"
+      ]
+    },
+    {
+      "name": "KITTITAS PUBLIC (GILMOUR MEMORIAL) LIBRARY",
+      "system": "KITTITAS PUBLIC (GILMOUR MEMORIAL) LIBRARY",
+      "address": "200 N PIERCE ST., KITTITAS, WA",
+      "website": "https://www.chamberofcommerce.com/united-states/washington/kittitas/public-library/2002983165-gilmour-memorial-library-kittitas-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "98934",
+        "98950",
+        "99321",
+        "99357"
+      ]
+    },
+    {
+      "name": "GRANDVIEW LIBRARY",
+      "system": "GRANDVIEW LIBRARY",
+      "address": "500 W. MAIN STREET, GRANDVIEW, WA",
+      "website": "https://www.grandview.wa.us/departments/grandview-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "98613",
+        "98620",
+        "98930",
+        "98932",
+        "98935",
+        "98938",
+        "98944",
+        "98948",
+        "99322",
+        "99349",
+        "99356"
       ]
     },
     {
@@ -55,13 +90,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99323",
-        "99324",
         "99329",
+        "99335",
         "99348",
-        "99360",
-        "99361",
-        "99363"
+        "99361"
       ]
     },
     {
@@ -74,8 +106,6 @@
       "zipcodes": [
         "99323",
         "99324",
-        "99329",
-        "99348",
         "99360",
         "99362",
         "99363"
@@ -89,13 +119,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "99323",
         "99324",
-        "99329",
-        "99348",
-        "99360",
-        "99362",
-        "99363"
+        "99362"
       ]
     },
     {
@@ -106,16 +131,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "989HH",
-        "99320",
+        "99301",
         "99336",
         "99337",
         "99338",
-        "99345",
         "99346",
-        "99350",
-        "99353",
-        "993HH"
+        "99352"
       ]
     },
     {

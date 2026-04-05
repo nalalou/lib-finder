@@ -3,14 +3,22 @@
     {
       "name": "MORGAN COUNTY PUBLIC LIBRARY",
       "system": "MORGAN COUNTY PUBLIC LIBRARY",
-      "address": "151 UNIVERSITY DRIVE, WEST LIBERTY, KY",
+      "address": "110 SOUTH JEFFERSON STREET, MARTINSVILLE, IN",
       "website": "http://morgancountylibrary.info",
       "formUrl": "https://morgancountylibrary.info/purchase-suggestion/",
       "formStatus": "verified",
       "zipcodes": [
         "25411",
         "25422",
-        "41472"
+        "41332",
+        "41408",
+        "41421",
+        "41425",
+        "41472",
+        "46111",
+        "46125",
+        "46151",
+        "46166"
       ]
     },
     {
@@ -22,8 +30,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "25431",
-        "25437",
-        "25444",
         "26704",
         "26714",
         "26722",
@@ -31,11 +37,7 @@
         "26757",
         "26761",
         "26763",
-        "26808",
-        "26817",
-        "26823",
-        "26852",
-        "26865"
+        "26852"
       ]
     },
     {
@@ -46,20 +48,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "25431",
         "25437",
         "25444",
         "26704",
         "26711",
-        "26714",
-        "26722",
-        "26755",
-        "26761",
-        "26763",
         "26808",
         "26817",
         "26823",
-        "26852",
         "26865"
       ]
     },
@@ -75,7 +70,6 @@
         "25413",
         "25419",
         "25420",
-        "25421",
         "25427",
         "25428"
       ]
@@ -92,9 +86,7 @@
         "25425",
         "25430",
         "25438",
-        "25441",
-        "25442",
-        "254HH"
+        "25442"
       ]
     },
     {
@@ -108,10 +100,7 @@
         "25414",
         "25430",
         "25438",
-        "25441",
-        "25442",
-        "25446",
-        "254HH"
+        "25446"
       ]
     },
     {
@@ -122,13 +111,9 @@
       "formUrl": "https://www.sheplibrary.org/how-do-i-2/#request_item_place_hold",
       "formStatus": "verified",
       "zipcodes": [
-        "25414",
-        "25430",
         "25438",
-        "25441",
         "25442",
-        "25443",
-        "254HH"
+        "25443"
       ]
     },
     {
@@ -139,7 +124,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "25411",
         "25422",
         "25434"
       ]

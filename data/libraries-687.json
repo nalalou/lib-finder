@@ -1,63 +1,194 @@
 {
   "libraries": [
     {
+      "name": "BLOOMFIELD PUBLIC LIBRARY",
+      "system": "BLOOMFIELD PUBLIC LIBRARY",
+      "address": "90 BROAD STREET, BLOOMFIELD, NJ",
+      "website": "https://www.bplnj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06002",
+        "06089",
+        "06117",
+        "07003",
+        "07017",
+        "07107",
+        "14475",
+        "14585",
+        "17020",
+        "17024",
+        "17040",
+        "17062",
+        "17068",
+        "17074",
+        "17090",
+        "52537",
+        "52552",
+        "52560",
+        "52584",
+        "63735",
+        "63825",
+        "63846",
+        "68718",
+        "87037",
+        "87412",
+        "87413",
+        "87415"
+      ]
+    },
+    {
+      "name": "MADISON PUBLIC LIBRARY",
+      "system": "MADISON PUBLIC LIBRARY",
+      "address": "1700 FIFTH STREET, MADISON, IL",
+      "website": "http://www.madisonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04911",
+        "04950",
+        "07935",
+        "07940",
+        "07946",
+        "07980",
+        "44057",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53711",
+        "53713",
+        "53714",
+        "53715",
+        "53718",
+        "57016",
+        "57042",
+        "57048",
+        "57050",
+        "57054",
+        "57057",
+        "57075",
+        "57076",
+        "62060",
+        "66860",
+        "68748"
+      ]
+    },
+    {
       "name": "EMERSON PUBLIC LIBRARY",
       "system": "EMERSON PUBLIC LIBRARY",
-      "address": "205 WEST 3RD, EMERSON, NE",
+      "address": "20 PALISADE AVENUE, EMERSON, NJ",
       "website": "https://www.emersonlibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
         "07630",
-        "07632",
-        "07648",
-        "076HH",
+        "51533",
+        "51540",
+        "51541",
         "68733"
       ]
     },
     {
       "name": "PLAINVIEW PUBLIC LIBRARY",
       "system": "PLAINVIEW PUBLIC LIBRARY",
-      "address": "209 N. PINE ST, PLAINVIEW, NE",
+      "address": "345 1ST AVENUE NW, PLAINVIEW, MN",
       "website": "https://libraries.ne.gov/plainview/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68737",
-        "68747",
+        "55932",
+        "55945",
+        "55957",
+        "55964",
+        "55991",
         "68769"
       ]
     },
     {
       "name": "CLEARWATER PUBLIC LIBRARY",
       "system": "CLEARWATER PUBLIC LIBRARY",
-      "address": "626 MAIN STREET, CLEARWATER, NE",
+      "address": "109 E. ROSS, CLEARWATER, KS",
       "website": "https://clearwaterpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68636",
-        "68720",
-        "68726",
-        "68773"
+        "67026",
+        "67215",
+        "68726"
       ]
     },
     {
       "name": "STANTON PUBLIC LIBRARY",
       "system": "STANTON PUBLIC LIBRARY",
-      "address": "600 COUNTY 37, STANTON, ND",
+      "address": "501 ELLIOTT ST SUITE A, STANTON, IA",
       "website": "http://www.stanton.net/library.html",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "51573",
         "58571",
         "68779"
+      ]
+    },
+    {
+      "name": "NORFOLK PUBLIC LIBRARY",
+      "system": "NORFOLK PUBLIC LIBRARY",
+      "address": "2 LIBERTY LANE, NORFOLK, MA",
+      "website": "https://norfolkpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02056",
+        "02071",
+        "23320",
+        "23324",
+        "23325",
+        "23452",
+        "23455",
+        "23462",
+        "23464",
+        "23502",
+        "23503",
+        "23504",
+        "23505",
+        "23507",
+        "23508",
+        "23509",
+        "23510",
+        "23513",
+        "23517",
+        "23518",
+        "23523",
+        "23701",
+        "23702",
+        "23703",
+        "23707",
+        "23708",
+        "68701"
+      ]
+    },
+    {
+      "name": "WAYNE PUBLIC LIBRARY",
+      "system": "WAYNE PUBLIC LIBRARY",
+      "address": "461 VALLEY ROAD, WAYNE, NJ",
+      "website": "https://www.waynepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07470",
+        "43406",
+        "43437",
+        "43451",
+        "43457",
+        "43466",
+        "43467",
+        "44817",
+        "48184",
+        "48186",
+        "48188",
+        "48242",
+        "68787"
       ]
     },
     {
@@ -69,11 +200,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68711",
-        "68713",
-        "68725",
-        "68734",
-        "68742",
-        "68766"
+        "68713"
       ]
     },
     {
@@ -85,8 +212,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68714",
-        "68759",
-        "68772"
+        "68759"
       ]
     },
     {
@@ -98,8 +224,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68701",
-        "68715",
-        "68748"
+        "68715"
       ]
     },
     {
@@ -122,7 +247,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68723",
-        "68740",
         "68787"
       ]
     },
@@ -134,8 +258,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68718",
-        "68724",
         "68729",
         "68789"
       ]
@@ -148,10 +270,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68718",
-        "68724",
-        "68730",
-        "68789"
+        "68730"
       ]
     },
     {
@@ -163,8 +282,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68030",
-        "68731",
-        "68741"
+        "68731"
       ]
     },
     {
@@ -175,13 +293,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68717",
         "68727",
         "68736",
         "68739",
         "68774",
-        "68792",
-        "687HH"
+        "68792"
       ]
     },
     {
@@ -192,8 +308,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68701",
-        "68748",
         "68752"
       ]
     },
@@ -205,10 +319,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68636",
-        "68720",
-        "68756",
-        "68773"
+        "68726",
+        "68756"
       ]
     },
     {
@@ -219,8 +331,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68701",
-        "68748",
         "68758"
       ]
     },
@@ -232,10 +342,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68718",
-        "68724",
-        "68760",
-        "68789"
+        "68760"
       ]
     },
     {
@@ -246,10 +353,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68636",
-        "68720",
-        "68761",
-        "68773"
+        "68761"
       ]
     },
     {
@@ -260,7 +364,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68711",
         "68725",
         "68734",
         "68742",
@@ -276,7 +379,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68636",
         "68720",
         "68764",
         "68773"
@@ -290,7 +392,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68737",
         "68747",
         "68765"
       ]
@@ -303,8 +404,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68737",
-        "68747",
         "68767"
       ]
     },
@@ -328,8 +427,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68728",
-        "68732",
         "68757",
         "68770",
         "68785"
@@ -344,12 +441,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68717",
-        "68727",
-        "68736",
-        "68771",
-        "68774",
-        "68792",
-        "687HH"
+        "68771"
       ]
     },
     {
@@ -360,8 +452,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68030",
-        "68741",
         "68776"
       ]
     },
@@ -388,11 +478,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68711",
-        "68725",
-        "68734",
-        "68742",
-        "68766",
         "68780"
       ]
     },
@@ -404,9 +489,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68636",
-        "68720",
-        "68773",
         "68781"
       ]
     },
@@ -418,7 +500,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68718",
         "68724",
         "68783",
         "68789"
@@ -433,10 +514,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68728",
-        "68732",
-        "68757",
-        "68784",
-        "68785"
+        "68733",
+        "68784"
       ]
     },
     {
@@ -447,10 +526,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68718",
-        "68724",
-        "68786",
-        "68789"
+        "68786"
       ]
     },
     {
@@ -496,12 +572,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68711",
-        "68725",
-        "68734",
-        "68735",
-        "68742",
-        "68766"
+        "68735"
       ]
     },
     {
@@ -514,11 +585,7 @@
       "zipcodes": [
         "68717",
         "68727",
-        "68736",
-        "68745",
-        "68774",
-        "68792",
-        "687HH"
+        "68745"
       ]
     },
     {
@@ -544,7 +611,6 @@
         "68710",
         "68728",
         "68732",
-        "68757",
         "68785"
       ]
     },
@@ -556,7 +622,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68030",
         "68741",
         "68743"
       ]

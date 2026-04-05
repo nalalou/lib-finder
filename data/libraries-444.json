@@ -1,34 +1,125 @@
 {
   "libraries": [
     {
+      "name": "CARNEGIE PUBLIC LIBRARY",
+      "system": "CARNEGIE PUBLIC LIBRARY",
+      "address": "314 MCLEOD STREET, BIG TIMBER, MT",
+      "website": "http://www.smithcountyhistoricalsociety.org/carnegie.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38614",
+        "38617",
+        "38630",
+        "38631",
+        "38639",
+        "38644",
+        "38645",
+        "38720",
+        "38767",
+        "43106",
+        "43128",
+        "43142",
+        "43160",
+        "43920",
+        "44441",
+        "59011",
+        "59033",
+        "59052",
+        "59055",
+        "63434",
+        "63437",
+        "63439",
+        "63443",
+        "63450",
+        "63458",
+        "63468",
+        "63469",
+        "73015",
+        "73033",
+        "73038",
+        "87552",
+        "87573",
+        "87701",
+        "87712",
+        "87731",
+        "87736",
+        "87742",
+        "87745",
+        "87750",
+        "87753",
+        "88416",
+        "88421"
+      ]
+    },
+    {
+      "name": "SALEM PUBLIC LIBRARY",
+      "system": "SALEM PUBLIC LIBRARY",
+      "address": "585 LIBERTY ST SE, SALEM, OR",
+      "website": "https://salempl.org/",
+      "formUrl": "https://salempl.org/purchase-suggestion/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "01960",
+        "01970",
+        "24015",
+        "24017",
+        "24153",
+        "44408",
+        "44460",
+        "44490",
+        "44625",
+        "44634",
+        "65440",
+        "65501",
+        "65541",
+        "65560",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306"
+      ]
+    },
+    {
       "name": "BRISTOL PUBLIC LIBRARY",
       "system": "BRISTOL PUBLIC LIBRARY",
-      "address": "1855 GREENVILLE RD. N.W., BRISTOLVILLE, OH",
+      "address": "5 HIGH ST., BRISTOL, CT",
       "website": "https://bristollib.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44402"
+        "06010",
+        "06062",
+        "06479",
+        "24201",
+        "24258",
+        "24271",
+        "24290",
+        "37642",
+        "44402",
+        "44410",
+        "44450",
+        "44470",
+        "44491"
       ]
     },
     {
       "name": "REED MEMORIAL LIBRARY",
       "system": "REED MEMORIAL LIBRARY",
-      "address": "167 E. MAIN ST, RAVENNA, OH",
+      "address": "1733 ROUTE 6, CARMEL, NY",
       "website": "https://carmellibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "10512",
         "44201",
-        "44202",
-        "44234",
         "44241",
         "44243",
         "44255",
         "44260",
         "44266",
         "44272",
-        "44288",
         "44411",
         "44412"
       ]
@@ -53,7 +144,6 @@
         "44452",
         "44454",
         "44471",
-        "444HH",
         "44502",
         "44503",
         "44504",
@@ -66,7 +156,6 @@
         "44512",
         "44514",
         "44515",
-        "445HH",
         "44609",
         "44672"
       ]
@@ -74,51 +163,35 @@
     {
       "name": "COLUMBIANA PUBLIC LIBRARY",
       "system": "COLUMBIANA PUBLIC LIBRARY",
-      "address": "332 N. MIDDLE ST., COLUMBIANA, OH",
+      "address": "50 LESTER STREET, COLUMBIANA, AL",
       "website": "https://columbiana.lib.oh.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43945",
-        "43962",
+        "35051",
+        "35143",
         "44408",
-        "44423",
-        "44427",
-        "44441",
         "44445",
         "44455",
         "44460",
-        "44490",
-        "44619",
-        "44625",
-        "44634"
+        "44490"
       ]
     },
     {
       "name": "HUBBARD PUBLIC LIBRARY",
       "system": "HUBBARD PUBLIC LIBRARY",
-      "address": "436 W. LIBERTY ST., HUBBARD, OH",
+      "address": "218 E MAPLE, HUBBARD, IA",
       "website": "https://hubbardiowa.com/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "44403",
-        "44404",
-        "44410",
-        "44417",
-        "44418",
         "44425",
-        "44430",
-        "44437",
         "44438",
-        "44440",
-        "44450",
-        "44470",
         "44473",
-        "44481",
-        "44484",
-        "44485",
-        "44491"
+        "50102",
+        "50122",
+        "50206"
       ]
     },
     {
@@ -129,19 +202,10 @@
       "formUrl": "https://www.east-palestine.lib.oh.us/ill",
       "formStatus": "verified",
       "zipcodes": [
-        "43945",
-        "43962",
         "44413",
-        "44423",
-        "44427",
         "44441",
         "44445",
-        "44455",
-        "44460",
-        "44490",
-        "44619",
-        "44625",
-        "44634"
+        "44455"
       ]
     },
     {
@@ -153,22 +217,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "44403",
-        "44404",
-        "44410",
-        "44417",
-        "44418",
         "44420",
-        "44430",
+        "44425",
         "44437",
-        "44438",
         "44440",
-        "44450",
-        "44470",
         "44473",
-        "44481",
-        "44484",
-        "44485",
-        "44491"
+        "44484"
       ]
     },
     {
@@ -179,23 +233,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44403",
         "44404",
-        "44410",
         "44417",
         "44418",
-        "44428",
-        "44430",
-        "44437",
-        "44438",
-        "44440",
-        "44450",
-        "44470",
-        "44473",
-        "44481",
-        "44484",
-        "44485",
-        "44491"
+        "44428"
       ]
     },
     {
@@ -206,19 +247,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43945",
-        "43962",
-        "44423",
-        "44427",
+        "44408",
         "44431",
-        "44441",
         "44445",
-        "44455",
         "44460",
-        "44490",
-        "44619",
-        "44625",
-        "44634"
+        "44490"
       ]
     },
     {
@@ -234,14 +267,7 @@
         "44423",
         "44427",
         "44432",
-        "44441",
-        "44445",
-        "44455",
-        "44460",
-        "44490",
-        "44619",
-        "44625",
-        "44634"
+        "44455"
       ]
     },
     {
@@ -252,23 +278,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44403",
-        "44404",
-        "44410",
-        "44417",
-        "44418",
         "44430",
-        "44437",
-        "44438",
-        "44440",
         "44444",
-        "44450",
         "44470",
-        "44473",
         "44481",
-        "44484",
-        "44485",
-        "44491"
+        "44485"
       ]
     },
     {
@@ -279,23 +293,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44403",
-        "44404",
-        "44410",
-        "44417",
-        "44418",
+        "44425",
         "44430",
         "44437",
-        "44438",
         "44440",
         "44446",
-        "44450",
-        "44470",
         "44473",
         "44481",
         "44484",
-        "44485",
-        "44491"
+        "44485"
       ]
     },
     {
@@ -306,90 +312,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44403",
-        "44404",
+        "44402",
         "44410",
-        "44417",
-        "44418",
         "44430",
         "44437",
-        "44438",
         "44440",
-        "44450",
         "44470",
-        "44473",
         "44481",
         "44483",
         "44484",
-        "44485",
-        "44491"
-      ]
-    },
-    {
-      "name": "WELLSVILLE CARNEGIE PUBLIC LIBRARY",
-      "system": "WELLSVILLE CARNEGIE PUBLIC LIBRARY",
-      "address": "115 NINTH ST., WELLSVILLE, OH",
-      "website": "https://www.wellsville.lib.oh.us/",
-      "formUrl": "https://www.wellsville.lib.oh.us/loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "43945",
-        "43962",
-        "43968",
-        "44423",
-        "44427",
-        "44441",
-        "44445",
-        "44455",
-        "44460",
-        "44490",
-        "44619",
-        "44625",
-        "44634"
-      ]
-    },
-    {
-      "name": "PORTAGE COUNTY DISTRICT LIBRARY",
-      "system": "PORTAGE COUNTY DISTRICT LIBRARY",
-      "address": "10482 SOUTH ST., GARRETTSVILLE, OH",
-      "website": "https://www.portagelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44201",
-        "44202",
-        "44231",
-        "44234",
-        "44241",
-        "44243",
-        "44255",
-        "44260",
-        "44272",
-        "44288",
-        "44411",
-        "44412"
-      ]
-    },
-    {
-      "name": "KENT FREE LIBRARY",
-      "system": "KENT FREE LIBRARY",
-      "address": "312 W. MAIN ST., KENT, OH",
-      "website": "http://www.kentfreelibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44201",
-        "44202",
-        "44234",
-        "44240",
-        "44241",
-        "44243",
-        "44255",
-        "44260",
-        "44272",
-        "44288",
-        "44411",
-        "44412"
+        "44485"
       ]
     }
   ]

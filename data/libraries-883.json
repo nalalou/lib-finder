@@ -1,21 +1,6 @@
 {
   "libraries": [
     {
-      "name": "DAVID F. CARGO EL VALLE DE ANTON CHICO LIBRARY",
-      "system": "DAVID F. CARGO EL VALLE DE ANTON CHICO LIBRARY",
-      "address": "1077 NM SR 386, ANTON CHICO, NM",
-      "website": "https://directory.100nm.org/directory-fam_services/listing/david-f-cargo-el-valle-de-anton-chico-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "87711",
-        "87724",
-        "88353",
-        "88417",
-        "88431"
-      ]
-    },
-    {
       "name": "ALAMOGORDO PUBLIC LIBRARY",
       "system": "ALAMOGORDO PUBLIC LIBRARY",
       "address": "920 OREGON AVENUE, ALAMOGORDO, NM",
@@ -24,16 +9,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "88310",
-        "88314",
         "88325",
         "88330",
-        "88337",
-        "88339",
-        "88344",
-        "88347",
-        "88350",
-        "88354",
-        "883XX"
+        "88337"
       ]
     },
     {
@@ -45,16 +23,11 @@
       "formStatus": "unknown",
       "zipcodes": [
         "88312",
-        "88323",
         "88324",
         "88336",
-        "88338",
-        "88341",
         "88343",
         "88345",
-        "88346",
-        "88348",
-        "88351"
+        "88346"
       ]
     },
     {
@@ -65,15 +38,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "88312",
         "88316",
         "88323",
-        "88324",
-        "88336",
         "88338",
-        "88341",
-        "88343",
-        "88346",
         "88348",
         "88351"
       ]
@@ -86,17 +53,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "88314",
         "88317",
         "88325",
-        "88330",
         "88337",
         "88339",
         "88344",
         "88347",
         "88350",
-        "88354",
-        "883XX"
+        "88354"
       ]
     },
     {
@@ -108,16 +72,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "88314",
-        "88325",
-        "88330",
-        "88337",
-        "88339",
-        "88340",
-        "88344",
-        "88347",
-        "88350",
-        "88354",
-        "883XX"
+        "88340"
       ]
     },
     {
@@ -129,16 +84,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "88314",
-        "88325",
-        "88330",
         "88337",
-        "88339",
-        "88344",
-        "88347",
-        "88350",
-        "88352",
-        "88354",
-        "883XX"
+        "88352"
       ]
     },
     {
@@ -149,17 +96,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "88312",
-        "88318",
-        "88323",
-        "88324",
-        "88336",
-        "88338",
-        "88341",
-        "88343",
-        "88346",
-        "88348",
-        "88351"
+        "88318"
       ]
     },
     {
@@ -171,16 +108,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "88301",
-        "88312",
-        "88323",
-        "88324",
-        "88336",
-        "88338",
-        "88341",
-        "88343",
-        "88346",
-        "88348",
-        "88351"
+        "88341"
       ]
     },
     {
@@ -191,7 +119,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "87724",
         "88353",
         "88417",
         "88431",
@@ -208,41 +135,7 @@
       "zipcodes": [
         "87016",
         "87032",
-        "87061",
         "87063",
-        "87070",
-        "88321"
-      ]
-    },
-    {
-      "name": "MORIARTY COMMUNITY LIBRARY",
-      "system": "MORIARTY COMMUNITY LIBRARY",
-      "address": "202 SOUTH BROADWAY, MORIARTY, NM",
-      "website": "https://www.moriartynm.gov/info/library-museum",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "87032",
-        "87035",
-        "87061",
-        "87063",
-        "87070",
-        "88321"
-      ]
-    },
-    {
-      "name": "MOUNTAINAIR PUBLIC LIBRARY",
-      "system": "MOUNTAINAIR PUBLIC LIBRARY",
-      "address": "109 N. ROOSEVELT, MOUNTAINAIR, NM",
-      "website": "http://mountainairnm.gov/index.php?page=library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "87032",
-        "87036",
-        "87061",
-        "87063",
-        "87070",
         "88321"
       ]
     }

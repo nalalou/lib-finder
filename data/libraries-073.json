@@ -9,15 +9,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "07002",
-        "07029",
-        "07032",
-        "07087",
         "07304",
-        "07305",
-        "07306",
-        "07307",
-        "07310",
-        "073HH"
+        "07305"
       ]
     },
     {
@@ -28,76 +21,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07029",
         "07030",
-        "07032",
-        "07087",
         "07304",
         "07305",
         "07306",
         "07307",
-        "07310",
-        "073HH"
-      ]
-    },
-    {
-      "name": "KEARNY PUBLIC LIBRARY",
-      "system": "KEARNY PUBLIC LIBRARY",
-      "address": "912-A TILBURY RD, KEARNY, AZ",
-      "website": "https://kearnylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07029",
-        "07032",
-        "07087",
-        "07304",
-        "07305",
-        "07306",
-        "07307",
-        "07310",
-        "073HH",
-        "85137"
-      ]
-    },
-    {
-      "name": "NORTH BERGEN FREE PUBLIC LIBRARY",
-      "system": "NORTH BERGEN FREE PUBLIC LIBRARY",
-      "address": "8411 BERGENLINE AVENUE, NORTH BERGEN, NJ",
-      "website": "https://nbpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07029",
-        "07032",
-        "07047",
-        "07087",
-        "07304",
-        "07305",
-        "07306",
-        "07307",
-        "07310",
-        "073HH"
-      ]
-    },
-    {
-      "name": "SECAUCUS FREE PUBLIC LIBRARY",
-      "system": "SECAUCUS FREE PUBLIC LIBRARY",
-      "address": "1379 PATERSON PLANK ROAD, SECAUCUS, NJ",
-      "website": "https://secaucuslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07029",
-        "07032",
-        "07087",
-        "07094",
-        "07304",
-        "07305",
-        "07306",
-        "07307",
-        "07310",
-        "073HH"
+        "07310"
       ]
     },
     {
@@ -108,36 +37,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07029",
-        "07032",
         "07086",
-        "07087",
-        "07304",
-        "07305",
         "07306",
         "07307",
-        "07310",
-        "073HH"
-      ]
-    },
-    {
-      "name": "WEST NEW YORK FREE PUBLIC LIBRARY",
-      "system": "WEST NEW YORK FREE PUBLIC LIBRARY",
-      "address": "425 60TH STREET, WEST NEW YORK, NJ",
-      "website": "https://www.westnewyorknj.org/pages/west-new-york-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07029",
-        "07032",
-        "07087",
-        "07093",
-        "07304",
-        "07305",
-        "07306",
-        "07307",
-        "07310",
-        "073HH"
+        "07310"
       ]
     },
     {
@@ -148,16 +51,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07029",
-        "07032",
-        "07087",
         "07302",
         "07304",
         "07305",
         "07306",
         "07307",
-        "07310",
-        "073HH"
+        "07310"
       ]
     }
   ]

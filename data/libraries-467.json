@@ -1,19 +1,92 @@
 {
   "libraries": [
     {
+      "name": "WARREN PUBLIC LIBRARY",
+      "system": "WARREN PUBLIC LIBRARY",
+      "address": "15 SACKETT HILL RD., WARREN, CT",
+      "website": "https://www.warrenctlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01083",
+        "06750",
+        "06754",
+        "06777",
+        "06785",
+        "06794",
+        "46792",
+        "48089",
+        "48091",
+        "48092",
+        "48093",
+        "48310",
+        "48312"
+      ]
+    },
+    {
       "name": "FREMONT PUBLIC LIBRARY",
       "system": "FREMONT PUBLIC LIBRARY",
-      "address": "1004 WEST TOLEDO STREET, FREMONT, IN",
+      "address": "7 JACKIE BERNIER DRIVE, FREMONT, NH",
       "website": "https://www.fremont.nh.gov/fremont-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03036",
         "03044",
-        "03291",
-        "03826",
-        "03854",
         "46737"
+      ]
+    },
+    {
+      "name": "ALLEN COUNTY PUBLIC LIBRARY",
+      "system": "ALLEN COUNTY PUBLIC LIBRARY",
+      "address": "106 WEST PUBLIC SQUARE, SCOTTSVILLE, KY",
+      "website": "http://www.acpl.lib.in.us/",
+      "formUrl": "https://www.acpl.lib.in.us/purchase-suggestions",
+      "formStatus": "verified",
+      "zipcodes": [
+        "42120",
+        "42153",
+        "42164",
+        "46741",
+        "46743",
+        "46745",
+        "46748",
+        "46765",
+        "46773",
+        "46774",
+        "46788",
+        "46797",
+        "46798",
+        "46802",
+        "46803",
+        "46804",
+        "46805",
+        "46806",
+        "46807",
+        "46808",
+        "46809",
+        "46814",
+        "46815",
+        "46816",
+        "46818",
+        "46819",
+        "46825",
+        "46835",
+        "46845"
+      ]
+    },
+    {
+      "name": "BERNE PUBLIC LIBRARY",
+      "system": "BERNE PUBLIC LIBRARY",
+      "address": "166 NORTH SPRUNGER STREET, BERNE, IN",
+      "website": "https://www.bernepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12023",
+        "12059",
+        "46711",
+        "46740",
+        "46772"
       ]
     },
     {
@@ -24,6 +97,7 @@
       "formUrl": "https://garrettpl.org/catalog/#request",
       "formStatus": "verified",
       "zipcodes": [
+        "46730",
         "46738"
       ]
     },
@@ -35,7 +109,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46706"
+        "46706",
+        "46785"
       ]
     },
     {
@@ -46,7 +121,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46705",
+        "46730",
         "46793"
+      ]
+    },
+    {
+      "name": "BUTLER PUBLIC LIBRARY",
+      "system": "BUTLER PUBLIC LIBRARY",
+      "address": "340 SOUTH BROADWAY, BUTLER, IN",
+      "website": "https://www.pinemtnlibrary.org/wordpress/index.php/hours-and-locations/taylor-county/butler-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46721",
+        "46785",
+        "53005",
+        "53007",
+        "53045",
+        "53046"
       ]
     },
     {
@@ -57,9 +150,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46702",
+        "46702"
+      ]
+    },
+    {
+      "name": "ROANOKE PUBLIC LIBRARY",
+      "system": "ROANOKE PUBLIC LIBRARY",
+      "address": "314 NORTH MAIN STREET, ROANOKE, IN",
+      "website": "http://www.roanoketexas.gov/166/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
         "46783",
-        "46792"
+        "76262"
       ]
     },
     {
@@ -70,9 +173,7 @@
       "formUrl": "https://www.huntingtonpub.lib.in.us/request/",
       "formStatus": "verified",
       "zipcodes": [
-        "46750",
-        "46783",
-        "46792"
+        "46750"
       ]
     },
     {
@@ -98,12 +199,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46710",
         "46732",
         "46760",
-        "46763",
         "46767",
-        "46784",
         "46794"
       ]
     },
@@ -117,9 +215,7 @@
       "zipcodes": [
         "46701",
         "46710",
-        "46732",
         "46760",
-        "46763",
         "46784",
         "46794"
       ]
@@ -133,12 +229,10 @@
       "formStatus": "verified",
       "zipcodes": [
         "46710",
-        "46732",
+        "46730",
         "46755",
-        "46760",
         "46763",
-        "46784",
-        "46794"
+        "46784"
       ]
     },
     {
@@ -150,6 +244,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "46703",
+        "46705",
+        "46737",
         "46742",
         "46747",
         "46779"
@@ -206,8 +302,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46723",
-        "46764"
+        "46723"
       ]
     },
     {
@@ -218,10 +313,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46742",
-        "46747",
-        "46776",
-        "46779"
+        "46776"
       ]
     },
     {
@@ -232,9 +324,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46711",
         "46733",
-        "46740",
         "46772"
       ]
     }

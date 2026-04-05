@@ -3,16 +3,76 @@
     {
       "name": "PUTNAM COUNTY PUBLIC LIBRARY",
       "system": "PUTNAM COUNTY PUBLIC LIBRARY",
-      "address": "115 S 16TH ST, UNIONVILLE, MO",
+      "address": "103 EAST POPLAR STREET, GREENCASTLE, IN",
       "website": "https://www.putnamcl.lib.mo.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46105",
+        "46120",
+        "46128",
+        "46135",
+        "46171",
         "63551",
         "63565",
         "63567",
         "64655",
         "64672"
+      ]
+    },
+    {
+      "name": "CARROLLTON PUBLIC LIBRARY",
+      "system": "CARROLLTON PUBLIC LIBRARY",
+      "address": "509 SOUTH MAIN STREET, CARROLLTON, IL",
+      "website": "https://www.pickenslibrary.com/carrollton.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62016",
+        "62027",
+        "62054",
+        "64622",
+        "64623",
+        "64633",
+        "64639",
+        "64643",
+        "64682",
+        "75001",
+        "75006",
+        "75039",
+        "75063",
+        "75229",
+        "75244",
+        "75248"
+      ]
+    },
+    {
+      "name": "HAMILTON PUBLIC LIBRARY",
+      "system": "HAMILTON PUBLIC LIBRARY",
+      "address": "201 N PECAN ST, HAMILTON, TX",
+      "website": "http://www.hamiltonpubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13310",
+        "13314",
+        "13334",
+        "13346",
+        "13355",
+        "13402",
+        "13418",
+        "13485",
+        "62313",
+        "62334",
+        "62341",
+        "62379",
+        "64625",
+        "64644",
+        "64649",
+        "76436",
+        "76457",
+        "76531",
+        "76565"
       ]
     },
     {
@@ -23,14 +83,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "64631",
+        "64658"
+      ]
+    },
+    {
+      "name": "BROOKFIELD PUBLIC LIBRARY",
+      "system": "BROOKFIELD PUBLIC LIBRARY",
+      "address": "102 E BOSTON ST, BROOKFIELD, MO",
+      "website": "https://www.brookfieldpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53005",
+        "53007",
+        "53045",
         "63557",
         "63566",
         "64628",
         "64630",
-        "64631",
         "64651",
         "64653",
-        "64658",
         "64659",
         "64674"
       ]
@@ -84,6 +157,35 @@
       ]
     },
     {
+      "name": "MERCER COUNTY LIBRARY",
+      "system": "MERCER COUNTY LIBRARY",
+      "address": "601 W GRANT ST, PRINCETON, MO",
+      "website": "https://mcl.org/branches/lawrence/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08520",
+        "08540",
+        "08542",
+        "08550",
+        "08560",
+        "08561",
+        "08609",
+        "08610",
+        "08611",
+        "08618",
+        "08620",
+        "08628",
+        "08629",
+        "08638",
+        "08648",
+        "08690",
+        "08691",
+        "64661",
+        "64673"
+      ]
+    },
+    {
       "name": "NORBORNE PUBLIC LIBRARY",
       "system": "NORBORNE PUBLIC LIBRARY",
       "address": "109 E SECOND ST, NORBORNE, MO",
@@ -91,14 +193,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "64622",
-        "64623",
-        "64633",
-        "64639",
-        "64643",
-        "64668",
-        "64682",
-        "646HH"
+        "64668"
       ]
     },
     {
@@ -110,7 +205,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "64624",
-        "64625",
         "64637",
         "64644",
         "64649",
@@ -126,7 +220,6 @@
       "formUrl": "https://www.dulanylibrary.org/services/interlibrary-loan-services",
       "formStatus": "verified",
       "zipcodes": [
-        "635HH",
         "64660",
         "64676",
         "64681",
@@ -138,18 +231,29 @@
       ]
     },
     {
-      "name": "GENTRY COUNTY LIBRARY",
-      "system": "GENTRY COUNTY LIBRARY",
-      "address": "304 N PARK ST, STANBERRY, MO",
-      "website": "http://www.gentrycountylibrary.org/",
+      "name": "BETHANY PUBLIC LIBRARY",
+      "system": "BETHANY PUBLIC LIBRARY",
+      "address": "101 N 15TH ST, BETHANY, MO",
+      "website": "https://bethanymo.com/community/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "64438",
-        "64453",
-        "64463",
-        "64489",
-        "64657"
+        "18405",
+        "18415",
+        "18431",
+        "18456",
+        "18469",
+        "18472",
+        "18473",
+        "64424",
+        "64426",
+        "64442",
+        "64458",
+        "64467",
+        "64471",
+        "64481",
+        "64632",
+        "64642"
       ]
     },
     {
@@ -162,9 +266,37 @@
       "zipcodes": [
         "64402",
         "64438",
-        "64453",
-        "64463",
         "64657"
+      ]
+    },
+    {
+      "name": "SULLIVAN COUNTY PUBLIC LIBRARY",
+      "system": "SULLIVAN COUNTY PUBLIC LIBRARY",
+      "address": "109 E SECOND ST, MILAN, MO",
+      "website": "http://www.sullivan.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37617",
+        "37618",
+        "37620",
+        "37686",
+        "47838",
+        "47848",
+        "47849",
+        "47850",
+        "47855",
+        "47861",
+        "47865",
+        "47879",
+        "47882",
+        "63544",
+        "63545",
+        "63556",
+        "63560",
+        "64645",
+        "64646",
+        "64667"
       ]
     }
   ]

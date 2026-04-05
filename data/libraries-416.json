@@ -1,6 +1,50 @@
 {
   "libraries": [
     {
+      "name": "FLOYD COUNTY LIBRARY",
+      "system": "FLOYD COUNTY LIBRARY",
+      "address": "161 NORTH ARNOLD AVENUE, PRESTONSBURG, KY",
+      "website": "https://librarytechnology.org/library/24250",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "41601",
+        "41602",
+        "41603",
+        "41604",
+        "41605",
+        "41606",
+        "41607",
+        "41612",
+        "41615",
+        "41616",
+        "41619",
+        "41621",
+        "41622",
+        "41630",
+        "41631",
+        "41635",
+        "41636",
+        "41640",
+        "41642",
+        "41645",
+        "41647",
+        "41649",
+        "41650",
+        "41653",
+        "41655",
+        "41659",
+        "41660",
+        "41663",
+        "41666",
+        "41667",
+        "41669",
+        "79231",
+        "79235",
+        "79241"
+      ]
+    },
+    {
       "name": "MAGOFFIN COUNTY PUBLIC LIBRARY",
       "system": "MAGOFFIN COUNTY PUBLIC LIBRARY",
       "address": "172 SOUTH CHURCH STREET, SALYERSVILLE, KY",
@@ -8,7 +52,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41426",
         "41464",
         "41465",
         "41632"

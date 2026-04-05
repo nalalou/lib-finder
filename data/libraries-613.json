@@ -1,47 +1,23 @@
 {
   "libraries": [
     {
-      "name": "DOMINY MEMORIAL LIBRARY",
-      "system": "DOMINY MEMORIAL LIBRARY",
-      "address": "201 SOUTH THIRD STREET, FAIRBURY, IL",
-      "website": "https://dominymemoriallibrary.org/",
+      "name": "PONTIAC PUBLIC LIBRARY",
+      "system": "PONTIAC PUBLIC LIBRARY",
+      "address": "211 EAST MADISON STREET, PONTIAC, IL",
+      "website": "https://pontiac.org/505/Public-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60920",
-        "60929",
-        "60934",
-        "61311",
-        "61313",
+        "48309",
+        "48320",
+        "48328",
+        "48340",
+        "48341",
+        "48342",
+        "48359",
         "61319",
-        "61333",
-        "61739",
         "61743",
-        "61764",
-        "61769",
-        "61775"
-      ]
-    },
-    {
-      "name": "FORREST PUBLIC LIBRARY DISTRICT",
-      "system": "FORREST PUBLIC LIBRARY DISTRICT",
-      "address": "301 WEST JAMES STREET, FORREST, IL",
-      "website": "https://www.forrestlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "60920",
-        "60929",
-        "60934",
-        "61311",
-        "61313",
-        "61319",
-        "61333",
-        "61741",
-        "61743",
-        "61764",
-        "61769",
-        "61775"
+        "61764"
       ]
     },
     {
@@ -52,67 +28,62 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60920",
-        "60929",
-        "60934",
         "61311",
-        "61313",
-        "61319",
         "61333",
         "61740",
-        "61743",
-        "61764",
-        "61769",
-        "61775"
+        "61743"
       ]
     },
     {
       "name": "PRINCETON PUBLIC LIBRARY",
       "system": "PRINCETON PUBLIC LIBRARY",
-      "address": "698 EAST PERU STREET, PRINCETON, IL",
+      "address": "920 MERCER STREET, PRINCETON, WV",
       "website": "http://www.princetonpl.lib.in.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "01541",
+        "04668",
+        "08520",
+        "08540",
+        "08542",
+        "08550",
+        "08561",
         "24712",
         "24714",
-        "24715",
-        "24724",
         "24731",
         "24733",
         "24736",
         "24737",
-        "24739",
         "24740",
-        "24747",
         "25820",
         "25841",
         "25922",
         "25971",
+        "47640",
+        "47649",
+        "47666",
+        "47670",
+        "53947",
+        "54968",
+        "61323",
+        "61328",
+        "61337",
         "61356"
       ]
     },
     {
       "name": "SHEFFIELD PUBLIC LIBRARY",
       "system": "SHEFFIELD PUBLIC LIBRARY",
-      "address": "316 NORTH MONTGOMERY AVENUE, SHEFFIELD, AL",
+      "address": "123 S 3RD ST, SHEFFIELD, IA",
       "website": "http://sheffieldillinoispubliclibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "35660",
-        "61312",
-        "61317",
-        "61320",
-        "61323",
-        "61328",
-        "61337",
+        "50475",
         "61338",
-        "61346",
-        "61359",
-        "61361",
-        "61374",
-        "613HH"
+        "61361"
       ]
     },
     {
@@ -123,16 +94,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60530",
         "60553",
         "61006",
-        "61042",
-        "61057",
-        "61318",
-        "61324",
-        "61331",
-        "61367",
-        "61378"
+        "61331"
       ]
     },
     {
@@ -143,16 +107,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60530",
-        "60553",
         "61021",
         "61042",
         "61057",
-        "61318",
-        "61324",
-        "61331",
-        "61367",
-        "61378"
+        "61324"
       ]
     },
     {
@@ -163,101 +121,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60530",
-        "60553",
         "61031",
-        "61042",
         "61057",
-        "61318",
         "61324",
-        "61331",
-        "61367",
-        "61378"
-      ]
-    },
-    {
-      "name": "CHATSWORTH AREA LIBRARY",
-      "system": "CHATSWORTH AREA LIBRARY",
-      "address": "501 EAST SCHOOL STREET, CHATSWORTH, IL",
-      "website": "https://www.chatswortharealibraryil.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "60920",
-        "60921",
-        "60929",
-        "60934",
-        "61311",
-        "61313",
-        "61319",
-        "61333",
-        "61743",
-        "61764",
-        "61769",
-        "61775"
+        "61331"
       ]
     },
     {
       "name": "PERU PUBLIC LIBRARY",
       "system": "PERU PUBLIC LIBRARY",
-      "address": "1409 11TH STREET, PERU, IL",
+      "address": "102 EAST MAIN STREET, PERU, IN",
       "website": "https://perulibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46911",
         "46914",
-        "46921",
         "46926",
         "46951",
         "46958",
         "46959",
         "46970",
+        "61316",
         "61354"
-      ]
-    },
-    {
-      "name": "EARLVILLE PUBLIC LIBRARY DISTRICT",
-      "system": "EARLVILLE PUBLIC LIBRARY DISTRICT",
-      "address": "205 WEST WINTHROP STREET, EARLVILLE, IL",
-      "website": "https://www.earlvillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "60470",
-        "60518",
-        "60531",
-        "60549",
-        "60557",
-        "61316",
-        "61321",
-        "61325",
-        "61332",
-        "61358",
-        "61370",
-        "61372"
-      ]
-    },
-    {
-      "name": "ROBERT W. ROWE PUBLIC LIBRARY DISTRICT",
-      "system": "ROBERT W. ROWE PUBLIC LIBRARY DISTRICT",
-      "address": "120 EAST SI JOHNSON AVENUE, SHERIDAN, IL",
-      "website": "https://rwrlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "60470",
-        "60531",
-        "60549",
-        "60551",
-        "60557",
-        "61316",
-        "61321",
-        "61325",
-        "61332",
-        "61358",
-        "61370",
-        "61372"
       ]
     },
     {
@@ -268,12 +153,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60530",
-        "60553",
-        "61042",
         "61057",
         "61310",
-        "61318",
         "61324",
         "61331",
         "61367",
@@ -288,19 +169,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61312",
         "61314",
-        "61317",
-        "61320",
-        "61323",
-        "61328",
-        "61337",
-        "61338",
-        "61346",
-        "61359",
-        "61361",
-        "61374",
-        "613HH"
+        "61361"
       ]
     },
     {
@@ -311,19 +181,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61312",
         "61315",
-        "61317",
-        "61320",
-        "61323",
-        "61328",
-        "61337",
-        "61338",
-        "61346",
-        "61359",
-        "61361",
-        "61374",
-        "613HH"
+        "61356"
       ]
     },
     {
@@ -337,16 +196,9 @@
         "61312",
         "61317",
         "61320",
-        "61323",
-        "61328",
         "61329",
         "61337",
-        "61338",
-        "61346",
-        "61359",
-        "61361",
-        "61374",
-        "613HH"
+        "61359"
       ]
     },
     {
@@ -359,17 +211,10 @@
       "zipcodes": [
         "61312",
         "61317",
-        "61320",
         "61323",
-        "61328",
         "61330",
         "61337",
-        "61338",
-        "61346",
-        "61359",
-        "61361",
-        "61374",
-        "613HH"
+        "61374"
       ]
     },
     {
@@ -380,16 +225,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60470",
-        "60531",
-        "60549",
-        "60557",
         "61301",
         "61316",
-        "61321",
-        "61325",
-        "61332",
-        "61358",
+        "61354",
         "61370",
         "61372"
       ]
@@ -402,18 +240,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60470",
-        "60531",
-        "60549",
-        "60557",
-        "61316",
-        "61321",
-        "61325",
         "61332",
         "61334",
         "61358",
-        "61370",
-        "61372"
+        "61370"
       ]
     },
     {
@@ -424,18 +254,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60470",
-        "60531",
-        "60549",
         "60557",
-        "61316",
-        "61321",
         "61325",
-        "61332",
-        "61341",
-        "61358",
-        "61370",
-        "61372"
+        "61341"
       ]
     },
     {
@@ -446,17 +267,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60470",
-        "60531",
-        "60549",
-        "60557",
-        "61316",
-        "61321",
-        "61325",
-        "61332",
         "61342",
-        "61358",
-        "61370",
         "61372"
       ]
     },
@@ -468,19 +279,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61312",
-        "61317",
-        "61320",
-        "61323",
-        "61328",
-        "61337",
-        "61338",
         "61344",
-        "61346",
-        "61359",
-        "61361",
-        "61374",
-        "613HH"
+        "61361"
       ]
     },
     {
@@ -491,19 +291,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61312",
-        "61317",
-        "61320",
-        "61323",
-        "61328",
-        "61337",
-        "61338",
-        "61345",
-        "61346",
-        "61359",
-        "61361",
-        "61374",
-        "613HH"
+        "61345"
       ]
     },
     {
@@ -514,18 +302,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60470",
-        "60531",
-        "60549",
-        "60557",
         "61316",
-        "61321",
-        "61325",
         "61332",
         "61348",
-        "61358",
-        "61370",
-        "61372"
+        "61354",
+        "61370"
       ]
     },
     {
@@ -536,19 +317,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61312",
-        "61317",
-        "61320",
-        "61323",
         "61328",
-        "61337",
-        "61338",
-        "61346",
         "61349",
-        "61359",
-        "61361",
-        "61374",
-        "613HH"
+        "61374"
       ]
     },
     {
@@ -559,18 +330,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60470",
-        "60531",
-        "60549",
         "60557",
-        "61316",
-        "61321",
         "61325",
-        "61332",
-        "61350",
-        "61358",
-        "61370",
-        "61372"
+        "61350"
       ]
     },
     {
@@ -583,13 +345,8 @@
       "zipcodes": [
         "60530",
         "60553",
-        "61042",
-        "61057",
         "61318",
-        "61324",
-        "61331",
         "61353",
-        "61367",
         "61378"
       ]
     },
@@ -618,19 +375,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61312",
-        "61317",
         "61320",
         "61322",
         "61323",
-        "61328",
-        "61337",
-        "61338",
-        "61346",
-        "61359",
-        "61361",
-        "61374",
-        "613HH"
+        "61356",
+        "61359"
       ]
     },
     {
@@ -642,17 +391,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60470",
-        "60531",
-        "60549",
-        "60557",
-        "61316",
-        "61321",
-        "61325",
-        "61332",
-        "61358",
-        "61360",
-        "61370",
-        "61372"
+        "61360"
       ]
     },
     {
@@ -666,16 +405,8 @@
         "61312",
         "61317",
         "61320",
-        "61323",
-        "61328",
-        "61337",
-        "61338",
-        "61346",
         "61359",
-        "61361",
-        "61362",
-        "61374",
-        "613HH"
+        "61362"
       ]
     },
     {
@@ -686,18 +417,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60470",
-        "60531",
-        "60549",
-        "60557",
-        "61316",
         "61321",
         "61325",
         "61332",
-        "61358",
-        "61364",
-        "61370",
-        "61372"
+        "61364"
       ]
     },
     {
@@ -708,19 +431,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61312",
-        "61317",
-        "61320",
-        "61323",
-        "61328",
-        "61337",
-        "61338",
-        "61346",
-        "61359",
-        "61361",
-        "61368",
-        "61374",
-        "613HH"
+        "61368"
       ]
     },
     {
@@ -733,9 +444,7 @@
       "zipcodes": [
         "61369",
         "61375",
-        "61424",
-        "61541",
-        "61565"
+        "61541"
       ]
     },
     {
@@ -746,16 +455,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "60470",
-        "60531",
-        "60549",
-        "60557",
-        "61316",
-        "61321",
-        "61325",
-        "61332",
-        "61358",
-        "61370",
         "61372",
         "61373"
       ]
@@ -768,19 +467,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61312",
-        "61317",
-        "61320",
-        "61323",
         "61328",
-        "61337",
         "61338",
         "61346",
-        "61359",
-        "61361",
-        "61374",
-        "61376",
-        "613HH"
+        "61376"
       ]
     },
     {
@@ -791,11 +481,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61375",
-        "61377",
-        "61424",
-        "61541",
-        "61565"
+        "61377"
       ]
     },
     {
@@ -806,41 +492,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61312",
-        "61317",
-        "61320",
-        "61323",
-        "61328",
-        "61337",
         "61338",
-        "61346",
-        "61359",
-        "61361",
-        "61374",
-        "61379",
-        "613HH"
-      ]
-    },
-    {
-      "name": "PRAIRIE CREEK PUBLIC LIBRARY DISTRICT",
-      "system": "PRAIRIE CREEK PUBLIC LIBRARY DISTRICT",
-      "address": "501 CARRIAGE HOUSE LANE, DWIGHT, IL",
-      "website": "https://www.prairiecreeklibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "60420",
-        "60920",
-        "60929",
-        "60934",
-        "61311",
-        "61313",
-        "61319",
-        "61333",
-        "61743",
-        "61764",
-        "61769",
-        "61775"
+        "61379"
       ]
     },
     {
@@ -852,17 +505,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "60460",
-        "60920",
-        "60929",
         "60934",
-        "61311",
-        "61313",
-        "61319",
-        "61333",
-        "61743",
-        "61764",
-        "61769",
-        "61775"
+        "61313"
       ]
     },
     {
@@ -874,9 +518,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61375",
-        "61424",
         "61537",
-        "61541",
         "61565"
       ]
     },

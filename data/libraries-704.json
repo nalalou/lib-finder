@@ -8,7 +8,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70438"
+        "70426",
+        "70427",
+        "70438",
+        "70450"
       ]
     },
     {
@@ -19,7 +22,17 @@
       "formUrl": "https://www.tangilibrary.com/Resources/Suggest-a-Purchase",
       "formStatus": "verified",
       "zipcodes": [
-        "70422"
+        "70401",
+        "70422",
+        "70436",
+        "70442",
+        "70443",
+        "70444",
+        "70446",
+        "70451",
+        "70456",
+        "70465",
+        "70466"
       ]
     },
     {
@@ -30,7 +43,114 @@
       "formUrl": "https://stpl.bibliocommons.com/user/login?destination=%2Fsuggested_purchases",
       "formStatus": "verified",
       "zipcodes": [
-        "70433"
+        "70420",
+        "70431",
+        "70433",
+        "70435",
+        "70437",
+        "70445",
+        "70447",
+        "70448",
+        "70452",
+        "70454",
+        "70455",
+        "70458",
+        "70460",
+        "70463",
+        "70464",
+        "70471"
+      ]
+    },
+    {
+      "name": "ST. JAMES PARISH LIBRARY",
+      "system": "ST. JAMES PARISH LIBRARY",
+      "address": "1879 W. MAIN STREET, LUTCHER, LA",
+      "website": "https://www.stjamesla.com/435/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70049",
+        "70051",
+        "70052",
+        "70071",
+        "70076",
+        "70084",
+        "70090",
+        "70449",
+        "70723",
+        "70743",
+        "70763",
+        "70774"
+      ]
+    },
+    {
+      "name": "ST. BERNARD PARISH LIBRARY",
+      "system": "ST. BERNARD PARISH LIBRARY",
+      "address": "2600 PALMISANO BLVD., CHALMETTE, LA",
+      "website": "https://citylibrary.com/public-libraries/saint-bernard-parish-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70032",
+        "70043",
+        "70053",
+        "70056",
+        "70058",
+        "70075",
+        "70085",
+        "70092",
+        "70113",
+        "70114",
+        "70116",
+        "70117",
+        "70119",
+        "70122",
+        "70125",
+        "70126",
+        "70127",
+        "70128",
+        "70129",
+        "70130",
+        "70131",
+        "70163",
+        "70461"
+      ]
+    },
+    {
+      "name": "AUDUBON REGIONAL LIBRARY",
+      "system": "AUDUBON REGIONAL LIBRARY",
+      "address": "12220 WOODVILLE STREET, CLINTON, LA",
+      "website": "https://librarytechnology.org/library/9373",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70441",
+        "70722",
+        "70730",
+        "70748",
+        "70761",
+        "70777",
+        "70789"
+      ]
+    },
+    {
+      "name": "LIVINGSTON PARISH LIBRARY",
+      "system": "LIVINGSTON PARISH LIBRARY",
+      "address": "20390 IOWA STREET, LIVINGSTON, LA",
+      "website": "https://lpl.polarislibrary.com/default.aspx",
+      "formUrl": "https://lpl.polarislibrary.com/error.aspx?BadReq=1",
+      "formStatus": "verified",
+      "zipcodes": [
+        "70403",
+        "70453",
+        "70462",
+        "70706",
+        "70711",
+        "70726",
+        "70733",
+        "70744",
+        "70754",
+        "70785"
       ]
     }
   ]

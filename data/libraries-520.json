@@ -8,13 +8,8 @@
       "formUrl": "https://www.delhi.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50654",
-        "52036",
-        "52038",
-        "52050",
-        "52223",
-        "52237",
-        "52330"
+        "52057",
+        "52223"
       ]
     },
     {
@@ -26,33 +21,41 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52037",
-        "52226",
         "52254",
-        "52701",
-        "52727",
-        "52731",
-        "52732",
-        "52750",
-        "52751",
-        "52757",
-        "52774"
+        "52777"
       ]
     },
     {
       "name": "MANCHESTER PUBLIC LIBRARY",
       "system": "MANCHESTER PUBLIC LIBRARY",
-      "address": "304 N FRANKLIN ST, MANCHESTER, IA",
-      "website": "https://www.manchesterct.gov/Government/Departments/Library",
+      "address": "586 MAIN ST., MANCHESTER, CT",
+      "website": "https://www.pinemtnlibrary.org/wordpress/index.php/hours-and-locations/meriwether-locations/106-2/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "06040",
         "50654",
-        "52036",
         "52038",
-        "52050",
         "52057",
-        "52237",
         "52330"
+      ]
+    },
+    {
+      "name": "PRESTON PUBLIC LIBRARY",
+      "system": "PRESTON PUBLIC LIBRARY",
+      "address": "101 ST PAUL ST NW, PRESTON, MN",
+      "website": "https://prestonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06335",
+        "06365",
+        "52064",
+        "52069",
+        "52074",
+        "55935",
+        "55965",
+        "55990"
       ]
     },
     {
@@ -63,13 +66,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50654",
         "52035",
-        "52036",
-        "52038",
-        "52050",
-        "52237",
-        "52330"
+        "52050"
       ]
     },
     {
@@ -81,13 +79,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52042",
-        "52044",
-        "52048",
-        "52066",
-        "52072",
-        "520HH",
-        "52156",
-        "52158"
+        "52044"
       ]
     },
     {
@@ -100,12 +92,7 @@
       "zipcodes": [
         "52043",
         "52044",
-        "52048",
-        "52066",
-        "52072",
-        "520HH",
-        "52156",
-        "52158"
+        "52072"
       ]
     },
     {
@@ -119,11 +106,7 @@
         "52044",
         "52048",
         "52049",
-        "52066",
-        "52072",
-        "520HH",
-        "52156",
-        "52158"
+        "52072"
       ]
     },
     {
@@ -134,14 +117,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52044",
         "52048",
         "52052",
-        "52066",
-        "52072",
-        "520HH",
-        "52156",
-        "52158"
+        "52066"
       ]
     },
     {
@@ -152,14 +130,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52044",
-        "52048",
-        "52066",
-        "52072",
-        "52076",
-        "520HH",
-        "52156",
-        "52158"
+        "52076"
       ]
     },
     {
@@ -170,14 +141,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52044",
-        "52048",
-        "52066",
-        "52072",
-        "52077",
-        "520HH",
-        "52156",
-        "52158"
+        "52077"
       ]
     },
     {
@@ -188,13 +152,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50654",
-        "52036",
-        "52038",
         "52041",
         "52050",
-        "52237",
-        "52330"
+        "52057"
       ]
     },
     {
@@ -207,16 +167,7 @@
       "zipcodes": [
         "52001",
         "52003",
-        "52032",
-        "52039",
-        "52045",
-        "52046",
-        "52053",
-        "52056",
-        "52065",
-        "52068",
-        "52073",
-        "52078"
+        "52068"
       ]
     },
     {
@@ -229,16 +180,10 @@
       "zipcodes": [
         "52002",
         "52003",
-        "52032",
         "52039",
         "52045",
-        "52046",
-        "52053",
-        "52056",
-        "52065",
         "52068",
-        "52073",
-        "52078"
+        "52073"
       ]
     },
     {
@@ -249,18 +194,32 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52003",
-        "52032",
-        "52039",
         "52040",
         "52045",
         "52046",
         "52053",
-        "52056",
         "52065",
-        "52068",
-        "52073",
         "52078"
+      ]
+    },
+    {
+      "name": "BELLEVUE PUBLIC LIBRARY",
+      "system": "BELLEVUE PUBLIC LIBRARY",
+      "address": "106 N 3RD ST SUITE 1, BELLEVUE, IA",
+      "website": "https://www.bellevue.net/176/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "44847",
+        "52031",
+        "52054",
+        "52079",
+        "68005",
+        "68113",
+        "68123",
+        "68133",
+        "68147",
+        "68157"
       ]
     },
     {
@@ -272,15 +231,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52030",
-        "52031",
-        "52054",
         "52060",
-        "52064",
-        "52069",
-        "52071",
-        "52074",
-        "52075",
-        "52079",
         "52207",
         "52309"
       ]
@@ -293,18 +244,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52030",
-        "52031",
-        "52054",
         "52064",
-        "52069",
-        "52070",
-        "52071",
-        "52074",
-        "52075",
-        "52079",
-        "52207",
-        "52309"
+        "52070"
       ]
     },
     {
@@ -315,17 +256,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52003",
         "52032",
         "52033",
-        "52039",
-        "52045",
         "52046",
-        "52053",
-        "52056",
-        "52065",
-        "52068",
-        "52073",
         "52078"
       ]
     },
@@ -337,113 +270,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52044",
         "52047",
-        "52048",
-        "52066",
         "52072",
-        "520HH",
-        "52156",
-        "52158"
-      ]
-    },
-    {
-      "name": "MCGREGOR PUBLIC LIBRARY",
-      "system": "MCGREGOR PUBLIC LIBRARY",
-      "address": "334 MAIN ST, MCGREGOR, IA",
-      "website": "https://www.mcgregor.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52044",
-        "52048",
-        "52066",
-        "52072",
-        "520HH",
-        "52156",
-        "52157",
-        "52158"
-      ]
-    },
-    {
-      "name": "MURPHY HELWIG LIBRARY",
-      "system": "MURPHY HELWIG LIBRARY",
-      "address": "111 N PAGE ST, MONONA, IA",
-      "website": "https://www.monona.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52044",
-        "52048",
-        "52066",
-        "52072",
-        "520HH",
-        "52156",
-        "52158",
-        "52159"
-      ]
-    },
-    {
-      "name": "CALAMUS PUBLIC LIBRARY",
-      "system": "CALAMUS PUBLIC LIBRARY",
-      "address": "198 2ND ST, CALAMUS, IA",
-      "website": "http://calamusia.org/library.html",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52037",
-        "52226",
-        "52701",
-        "52727",
-        "52729",
-        "52731",
-        "52732",
-        "52750",
-        "52751",
-        "52757",
-        "52774"
-      ]
-    },
-    {
-      "name": "CAMANCHE PUBLIC LIBRARY",
-      "system": "CAMANCHE PUBLIC LIBRARY",
-      "address": "102 12TH AVE, CAMANCHE, IA",
-      "website": "http://www.camanchepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52037",
-        "52226",
-        "52701",
-        "52727",
-        "52730",
-        "52731",
-        "52732",
-        "52750",
-        "52751",
-        "52757",
-        "52774"
-      ]
-    },
-    {
-      "name": "DEWITT COMMUNITY LIBRARY",
-      "system": "DEWITT COMMUNITY LIBRARY",
-      "address": "917 5TH AVE, DEWITT, IA",
-      "website": "https://www.dewitt.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52037",
-        "52226",
-        "52701",
-        "52727",
-        "52731",
-        "52732",
-        "52742",
-        "52750",
-        "52751",
-        "52757",
-        "52774"
+        "52156"
       ]
     }
   ]

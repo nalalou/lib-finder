@@ -13,7 +13,6 @@
         "78142",
         "78145",
         "78146",
-        "781XX",
         "78389",
         "78391"
       ]
@@ -21,12 +20,12 @@
     {
       "name": "TAFT PUBLIC LIBRARY",
       "system": "TAFT PUBLIC LIBRARY",
-      "address": "503 GREEN AVE, TAFT, TX",
+      "address": "29 NORTH AVENUE, MENDON, MA",
       "website": "https://www.taftpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78352",
+        "01756",
         "78359",
         "78390"
       ]
@@ -39,8 +38,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "78007",
         "78022",
         "78071",
+        "78072",
         "78075",
         "78383"
       ]
@@ -58,11 +59,22 @@
         "78043",
         "78045",
         "78046",
-        "780XX",
         "78344",
         "78369",
-        "78371",
-        "783XX"
+        "78371"
+      ]
+    },
+    {
+      "name": "OLGA V FIGUEROA ZAPATA COUNTY PUBLIC LIBRARY",
+      "system": "OLGA V FIGUEROA ZAPATA COUNTY PUBLIC LIBRARY",
+      "address": "901 KENNEDY ST, ZAPATA, TX",
+      "website": "https://www.co.zapata.tx.us/page/zapata.Public.Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78067",
+        "78076",
+        "78361"
       ]
     },
     {
@@ -73,8 +85,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "78338",
+        "78349",
         "78353",
-        "78355"
+        "78355",
+        "78376",
+        "78385"
       ]
     },
     {
@@ -85,9 +101,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78336",
-        "78352",
-        "78359"
+        "78336"
       ]
     },
     {
@@ -98,7 +112,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78352",
         "78359",
         "78362"
       ]
@@ -112,7 +125,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78363",
-        "78364",
         "78379"
       ]
     },
@@ -124,8 +136,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78352",
-        "78359",
         "78368"
       ]
     },
@@ -138,7 +148,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78352",
-        "78359",
         "78370"
       ]
     },
@@ -150,29 +159,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78330",
-        "78339",
-        "78343",
-        "78347",
-        "78351",
-        "78373",
-        "78402",
-        "78404",
-        "78405",
-        "78406",
-        "78407",
-        "78408",
-        "78409",
-        "78410",
-        "78411",
-        "78412",
-        "78413",
-        "78414",
-        "78415",
-        "78416",
-        "78417",
-        "78418",
-        "784HH"
+        "78373"
       ]
     },
     {
@@ -183,9 +170,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78352",
         "78359",
-        "78374"
+        "78374",
+        "78390"
       ]
     },
     {
@@ -212,8 +199,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78358",
-        "78382",
-        "783HH"
+        "78382"
       ]
     },
     {
@@ -224,8 +210,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78352",
-        "78359",
         "78387"
       ]
     },
@@ -238,8 +222,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78332",
+        "78357",
         "78372",
-        "78375"
+        "78375",
+        "78384"
       ]
     },
     {
@@ -253,59 +239,11 @@
         "78330",
         "78339",
         "78343",
-        "78347",
         "78351",
         "78380",
-        "78402",
-        "78404",
-        "78405",
         "78406",
-        "78407",
-        "78408",
         "78409",
-        "78410",
-        "78411",
-        "78412",
-        "78413",
-        "78414",
-        "78415",
-        "78416",
-        "78417",
-        "78418",
-        "784HH"
-      ]
-    },
-    {
-      "name": "CORPUS CHRISTI PUBLIC LIBRARIES",
-      "system": "CORPUS CHRISTI PUBLIC LIBRARIES",
-      "address": "805 COMANCHE ST, CORPUS CHRISTI, TX",
-      "website": "https://www.corpuschristitx.gov/department-directory/libraries/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78330",
-        "78339",
-        "78343",
-        "78347",
-        "78351",
-        "78401",
-        "78402",
-        "78404",
-        "78405",
-        "78406",
-        "78407",
-        "78408",
-        "78409",
-        "78410",
-        "78411",
-        "78412",
-        "78413",
-        "78414",
-        "78415",
-        "78416",
-        "78417",
-        "78418",
-        "784HH"
+        "78410"
       ]
     }
   ]

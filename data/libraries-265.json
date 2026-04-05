@@ -3,7 +3,7 @@
     {
       "name": "MARION COUNTY PUBLIC LIBRARY",
       "system": "MARION COUNTY PUBLIC LIBRARY",
-      "address": "321 MONROE ST., FAIRMONT, WV",
+      "address": "201 EAST MAIN STREET, LEBANON, KY",
       "website": "https://www.marioncopublic.org/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -22,35 +22,49 @@
         "26587",
         "26588",
         "26591",
-        "265HH"
+        "40009",
+        "40033",
+        "40037",
+        "40060",
+        "40062",
+        "40328"
       ]
     },
     {
       "name": "BRIDGEPORT PUBLIC LIBRARY",
       "system": "BRIDGEPORT PUBLIC LIBRARY",
-      "address": "3399 WILLIAMSON ROAD, SAGINAW, MI",
+      "address": "925 BROAD ST., BRIDGEPORT, CT",
       "website": "https://bportlibrary.org/",
       "formUrl": "https://bportlibrary.org/books/",
       "formStatus": "verified",
       "zipcodes": [
-        "26302",
+        "06604",
+        "06605",
+        "06606",
+        "06607",
+        "06608",
+        "06610",
+        "06614",
         "26323",
         "26330",
-        "26332",
         "26361",
         "26366",
         "26369",
         "26386",
         "26404",
-        "26408",
         "26422",
-        "26426",
         "26438",
-        "26448",
-        "26451",
-        "26463",
         "26568",
-        "48601"
+        "48601",
+        "48602",
+        "48603",
+        "48604",
+        "48722",
+        "48724",
+        "69331",
+        "69336",
+        "76073",
+        "76426"
       ]
     },
     {
@@ -61,140 +75,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26374",
-        "26410",
-        "26425",
-        "26444",
         "26519",
-        "26520",
-        "26525",
-        "26542",
-        "26547",
         "26705",
         "26716",
         "26764"
-      ]
-    },
-    {
-      "name": "NEW MARTINSVILLE PUBLIC LIBRARY",
-      "system": "NEW MARTINSVILLE PUBLIC LIBRARY",
-      "address": "160 WASHINGTON STREET, NEW MARTINSVILLE, WV",
-      "website": "https://newmartinsville.lib.wv.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26155",
-        "26162",
-        "26167",
-        "26186",
-        "26348",
-        "26377",
-        "26437",
-        "26562",
-        "26581"
-      ]
-    },
-    {
-      "name": "PADEN CITY PUBLIC LIBRARY",
-      "system": "PADEN CITY PUBLIC LIBRARY",
-      "address": "114 S. 4TH AVENUE, PADEN CITY, WV",
-      "website": "https://www.padencitylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26159",
-        "26162",
-        "26167",
-        "26186",
-        "26348",
-        "26377",
-        "26437",
-        "26562",
-        "26581"
-      ]
-    },
-    {
-      "name": "CLARKSBURG-HARRISON PUBLIC LIBRARY",
-      "system": "CLARKSBURG-HARRISON PUBLIC LIBRARY",
-      "address": "404 W. PIKE STREET, CLARKSBURG, WV",
-      "website": "http://clarksburglibrary.info/home",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26301",
-        "26302",
-        "26323",
-        "26330",
-        "26332",
-        "26361",
-        "26366",
-        "26369",
-        "26386",
-        "26404",
-        "26408",
-        "26422",
-        "26426",
-        "26438",
-        "26448",
-        "26451",
-        "26463",
-        "26568"
-      ]
-    },
-    {
-      "name": "SOUTHERN AREA PUBLIC LIBRARY",
-      "system": "SOUTHERN AREA PUBLIC LIBRARY",
-      "address": "120 EAST MAIN STREET, LOST CREEK, WV",
-      "website": "https://librarycommission.wv.gov/library_map/Pages/LibraryDetails.aspx?Title=Southern Area Public Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26302",
-        "26323",
-        "26330",
-        "26332",
-        "26361",
-        "26366",
-        "26369",
-        "26385",
-        "26386",
-        "26404",
-        "26408",
-        "26422",
-        "26426",
-        "26438",
-        "26448",
-        "26451",
-        "26463",
-        "26568"
-      ]
-    },
-    {
-      "name": "NUTTER FORT PUBLIC LIBRARY",
-      "system": "NUTTER FORT PUBLIC LIBRARY",
-      "address": "1300 BUCKHANNON PIKE, NUTTER FORT, WV",
-      "website": "https://townofnutterfort.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26301",
-        "26302",
-        "26323",
-        "26330",
-        "26332",
-        "26361",
-        "26366",
-        "26369",
-        "26386",
-        "26404",
-        "26408",
-        "26422",
-        "26426",
-        "26438",
-        "26448",
-        "26451",
-        "26463",
-        "26568"
       ]
     },
     {
@@ -209,13 +93,9 @@
         "26505",
         "26508",
         "26521",
-        "26529",
-        "26531",
         "26534",
         "26541",
         "26543",
-        "26544",
-        "26589",
         "26590"
       ]
     },
@@ -236,9 +116,7 @@
         "26525",
         "26537",
         "26542",
-        "26547",
-        "26705",
-        "26716"
+        "26547"
       ]
     },
     {
@@ -249,12 +127,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26162",
-        "26167",
-        "26186",
-        "26348",
-        "26377",
-        "26437",
         "26562",
         "26575",
         "26581"
@@ -268,23 +140,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26302",
-        "26323",
-        "26330",
-        "26332",
         "26361",
         "26366",
         "26369",
         "26386",
         "26404",
-        "26408",
-        "26422",
-        "26426",
         "26431",
         "26438",
         "26448",
-        "26451",
-        "26463",
         "26568"
       ]
     },
@@ -296,14 +159,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26162",
         "26167",
-        "26186",
         "26348",
         "26377",
         "26419",
         "26437",
-        "26562",
         "26581"
       ]
     }

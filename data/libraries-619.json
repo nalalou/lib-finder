@@ -9,9 +9,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61910",
-        "61919",
-        "61930",
-        "61941"
+        "61930"
       ]
     },
     {
@@ -22,9 +20,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61911",
-        "61925",
-        "61928"
+        "61911"
       ]
     },
     {
@@ -35,11 +31,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61855",
-        "61884",
         "61913",
-        "61929",
-        "61936"
+        "61929"
       ]
     },
     {
@@ -52,9 +45,7 @@
       "zipcodes": [
         "61912",
         "61920",
-        "61931",
         "61943",
-        "619HH",
         "62440"
       ]
     },
@@ -66,11 +57,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61917",
         "61924",
         "61932",
-        "61940",
-        "61949"
+        "61940"
       ]
     },
     {
@@ -82,9 +71,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61917",
-        "61932",
         "61933",
-        "61940",
         "61949"
       ]
     },
@@ -96,8 +83,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61925",
-        "61928",
         "61937"
       ]
     },
@@ -110,8 +95,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61914",
-        "61925",
-        "61928"
+        "61925"
       ]
     },
     {
@@ -122,11 +106,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61912",
         "61931",
         "61938",
-        "61943",
-        "619HH",
         "62440"
       ]
     },
@@ -138,9 +119,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61917",
-        "61932",
-        "61940",
         "61944",
         "61949"
       ]
@@ -153,7 +131,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61925",
         "61928",
         "61951"
       ]
@@ -167,8 +144,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61919",
-        "61930",
-        "61941",
         "61953"
       ]
     },
@@ -181,7 +156,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61919",
-        "61930",
         "61941",
         "61956"
       ]
@@ -195,14 +169,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61957",
-        "62438",
-        "62444",
         "62462",
         "62463",
-        "62465",
-        "62534",
-        "62553",
-        "62571"
+        "62465"
       ]
     },
     {
@@ -214,7 +183,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61919",
-        "61930",
         "61941",
         "61942"
       ]
@@ -229,9 +197,7 @@
       "zipcodes": [
         "61813",
         "61855",
-        "61884",
-        "61929",
-        "61936"
+        "61929"
       ]
     },
     {
@@ -244,67 +210,6 @@
       "zipcodes": [
         "61818",
         "61855",
-        "61884",
-        "61929",
-        "61936"
-      ]
-    },
-    {
-      "name": "WILLOW BRANCH TOWNSHIP LIBRARY",
-      "system": "WILLOW BRANCH TOWNSHIP LIBRARY",
-      "address": "330 NORTH ELDON STREET, CISCO, IL",
-      "website": "https://librarylearning.org/willow-branch-township-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61830",
-        "61855",
-        "61884",
-        "61929",
-        "61936"
-      ]
-    },
-    {
-      "name": "GOOSE CREEK DISTRICT LIBRARY",
-      "system": "GOOSE CREEK DISTRICT LIBRARY",
-      "address": "220 NORTH HIGHWAY AVENUE, DELAND, IL",
-      "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=665.1033.0.0.3",
-      "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=665.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
-      "formStatus": "verified",
-      "zipcodes": [
-        "61839",
-        "61855",
-        "61884",
-        "61929",
-        "61936"
-      ]
-    },
-    {
-      "name": "BLUE RIDGE TOWNSHIP PUBLIC LIBRARY",
-      "system": "BLUE RIDGE TOWNSHIP PUBLIC LIBRARY",
-      "address": "116 EAST OLIVER STREET, MANSFIELD, IL",
-      "website": "https://www.chipublib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61854",
-        "61855",
-        "61884",
-        "61929",
-        "61936"
-      ]
-    },
-    {
-      "name": "ALLERTON PUBLIC LIBRARY DISTRICT",
-      "system": "ALLERTON PUBLIC LIBRARY DISTRICT",
-      "address": "4000 GREEN APPLE LANE, MONTICELLO, IL",
-      "website": "https://www.allertonpubliclibrary.org/",
-      "formUrl": "https://www.allertonpubliclibrary.org/suggest-a-purchase",
-      "formStatus": "verified",
-      "zipcodes": [
-        "61855",
-        "61856",
-        "61884",
         "61929",
         "61936"
       ]

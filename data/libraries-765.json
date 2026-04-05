@@ -1,24 +1,42 @@
 {
   "libraries": [
     {
+      "name": "CAMERON PUBLIC LIBRARY",
+      "system": "CAMERON PUBLIC LIBRARY",
+      "address": "506 MAIN ST., CAMERON, WI",
+      "website": "https://www.cameronlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54822",
+        "64422",
+        "64429",
+        "64454",
+        "64465",
+        "64469",
+        "64474",
+        "64477",
+        "64490",
+        "64492",
+        "64493",
+        "64497",
+        "76518",
+        "76519",
+        "76520",
+        "76523",
+        "77857"
+      ]
+    },
+    {
       "name": "FLORENCE PUBLIC LIBRARY",
       "system": "FLORENCE PUBLIC LIBRARY",
-      "address": "324 MAIN ST., FLORENCE, KS",
+      "address": "207 E MAIN ST, FLORENCE, TX",
       "website": "https://florenceks.com/text/city/city_library.htm",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "66851",
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78681",
-        "78717",
-        "78729"
+        "76527"
       ]
     },
     {
@@ -39,12 +57,26 @@
     {
       "name": "HAMILTON PUBLIC LIBRARY",
       "system": "HAMILTON PUBLIC LIBRARY",
-      "address": "861 BROADWAY STREET, HAMILTON, IL",
+      "address": "201 N PECAN ST, HAMILTON, TX",
       "website": "http://www.hamiltonpubliclibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "13310",
+        "13314",
+        "13334",
+        "13346",
+        "13355",
+        "13402",
+        "13418",
+        "13485",
+        "62313",
+        "62334",
         "62341",
+        "62379",
+        "64625",
+        "64644",
+        "64649",
         "76436",
         "76457",
         "76531",
@@ -59,20 +91,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76502",
-        "76504",
-        "76534",
         "76542",
         "76543",
         "76544",
         "76548",
-        "76549",
-        "76554",
-        "76559",
-        "76569",
-        "76579",
-        "765HH",
-        "765XX"
+        "76559"
       ]
     },
     {
@@ -83,20 +106,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76502",
-        "76504",
-        "76534",
         "76541",
         "76542",
         "76543",
         "76544",
         "76549",
-        "76554",
-        "76559",
-        "76569",
-        "76579",
-        "765HH",
-        "765XX"
+        "76559"
       ]
     },
     {
@@ -121,20 +136,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76502",
-        "76504",
         "76511",
-        "76534",
-        "76542",
-        "76543",
-        "76544",
-        "76549",
-        "76554",
-        "76559",
-        "76569",
-        "76579",
-        "765HH",
-        "765XX"
+        "76534"
       ]
     },
     {
@@ -145,14 +148,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76518",
-        "76519",
-        "76520",
-        "76523",
         "76556",
         "76567",
-        "76577",
-        "77857"
+        "76577"
       ]
     },
     {
@@ -166,38 +164,24 @@
         "76502",
         "76504",
         "76513",
-        "76534",
-        "76542",
-        "76543",
-        "76544",
-        "76549",
         "76554",
-        "76559",
-        "76569",
-        "76579",
-        "765HH",
-        "765XX"
+        "76559"
       ]
     },
     {
       "name": "TAYLOR PUBLIC LIBRARY",
       "system": "TAYLOR PUBLIC LIBRARY",
-      "address": "106 WILLIAMS STREET, TAYLOR, NE",
+      "address": "801 VANCE ST, TAYLOR, TX",
       "website": "https://libs.ne.gov/taylor",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68821",
         "68879",
-        "76527",
         "76530",
         "76574",
         "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78681",
-        "78717",
-        "78729"
+        "78615"
       ]
     },
     {
@@ -211,17 +195,9 @@
         "76501",
         "76502",
         "76504",
-        "76534",
-        "76542",
-        "76543",
-        "76544",
-        "76549",
         "76554",
-        "76559",
         "76569",
-        "76579",
-        "765HH",
-        "765XX"
+        "76579"
       ]
     },
     {
@@ -232,20 +208,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76502",
-        "76504",
-        "76534",
-        "76542",
-        "76543",
-        "76544",
-        "76549",
         "76554",
-        "76559",
-        "76569",
-        "76571",
-        "76579",
-        "765HH",
-        "765XX"
+        "76571"
       ]
     },
     {
@@ -256,11 +220,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76522",
-        "76525",
-        "76538",
-        "76561",
-        "76566"
+        "76522"
       ]
     },
     {
@@ -273,23 +233,7 @@
       "zipcodes": [
         "76524",
         "76557",
-        "76624",
-        "76630",
-        "76633",
-        "76638",
-        "76640",
-        "76655",
-        "76682",
-        "76704",
-        "76705",
-        "76706",
-        "76707",
-        "76708",
-        "76710",
-        "76711",
-        "76712",
-        "76798",
-        "767HH"
+        "76630"
       ]
     },
     {
@@ -301,11 +245,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76570",
-        "76632",
-        "76656",
-        "76675",
-        "76680",
-        "76685"
+        "76656"
       ]
     },
     {
@@ -316,288 +256,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76527",
-        "76530",
-        "76537",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78681",
-        "78717",
-        "78729"
-      ]
-    },
-    {
-      "name": "GEORGETOWN PUBLIC LIBRARY",
-      "system": "GEORGETOWN PUBLIC LIBRARY",
-      "address": "102 WEST WEST STREET, GEORGETOWN, IL",
-      "website": "https://georgetowntexas.gov/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61846",
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78681",
-        "78717",
-        "78729"
-      ]
-    },
-    {
-      "name": "ROUND ROCK PUBLIC LIBRARY SYSTEM",
-      "system": "ROUND ROCK PUBLIC LIBRARY SYSTEM",
-      "address": "200 E LIBERTY AVE, ROUND ROCK, TX",
-      "website": "https://www.roundrocktexas.gov/city-departments/library-home/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78664",
-        "78681",
-        "78717",
-        "78729"
-      ]
-    },
-    {
-      "name": "CEDAR PARK PUBLIC LIBRARY",
-      "system": "CEDAR PARK PUBLIC LIBRARY",
-      "address": "550 DISCOVERY BLVD, CEDAR PARK, TX",
-      "website": "https://www.cedarparktexas.gov/159/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78613",
-        "78615",
-        "78626",
-        "78628",
-        "78681",
-        "78717",
-        "78729"
-      ]
-    },
-    {
-      "name": "LEANDER PUBLIC LIBRARY",
-      "system": "LEANDER PUBLIC LIBRARY",
-      "address": "1011 S BAGDAD RD, LEANDER, TX",
-      "website": "https://www.leandertx.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78641",
-        "78681",
-        "78717",
-        "78729"
-      ]
-    },
-    {
-      "name": "LIBERTY HILL PUBLIC LIBRARY",
-      "system": "LIBERTY HILL PUBLIC LIBRARY",
-      "address": "355 LOOP 332, LIBERTY HILL, TX",
-      "website": "https://lhpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78642",
-        "78681",
-        "78717",
-        "78729"
-      ]
-    },
-    {
-      "name": "HUTTO PUBLIC LIBRARY",
-      "system": "HUTTO PUBLIC LIBRARY",
-      "address": "500 W LIVE OAK ST, HUTTO, TX",
-      "website": "https://www.huttotx.gov/239/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78634",
-        "78681",
-        "78717",
-        "78729"
-      ]
-    },
-    {
-      "name": "HEWITT PUBLIC LIBRARY",
-      "system": "HEWITT PUBLIC LIBRARY",
-      "address": "200 PATRIOT CT, HEWITT, TX",
-      "website": "http://cityofhewitt.com/32/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76524",
-        "76624",
-        "76630",
-        "76633",
-        "76638",
-        "76640",
-        "76643",
-        "76655",
-        "76682",
-        "76704",
-        "76705",
-        "76706",
-        "76707",
-        "76708",
-        "76710",
-        "76711",
-        "76712",
-        "76798",
-        "767HH"
-      ]
-    },
-    {
-      "name": "WEST PUBLIC LIBRARY",
-      "system": "WEST PUBLIC LIBRARY",
-      "address": "209 TOKIO RD, WEST, TX",
-      "website": "https://www.westpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76524",
-        "76624",
-        "76630",
-        "76633",
-        "76638",
-        "76640",
-        "76655",
-        "76682",
-        "76691",
-        "76704",
-        "76705",
-        "76706",
-        "76707",
-        "76708",
-        "76710",
-        "76711",
-        "76712",
-        "76798",
-        "767HH"
-      ]
-    },
-    {
-      "name": "MCGINLEY MEMORIAL PUBLIC LIBRARY",
-      "system": "MCGINLEY MEMORIAL PUBLIC LIBRARY",
-      "address": "317 S MAIN ST, MCGREGOR, TX",
-      "website": "https://cityofmcgregor.com/explore-mcgregor/mcginley-memorial-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76524",
-        "76624",
-        "76630",
-        "76633",
-        "76638",
-        "76640",
-        "76655",
-        "76657",
-        "76682",
-        "76704",
-        "76705",
-        "76706",
-        "76707",
-        "76708",
-        "76710",
-        "76711",
-        "76712",
-        "76798",
-        "767HH"
-      ]
-    },
-    {
-      "name": "NANCY NAIL MEMORIAL LIBRARY",
-      "system": "NANCY NAIL MEMORIAL LIBRARY",
-      "address": "124 S PEARL ST, MART, TX",
-      "website": "https://www.martlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76524",
-        "76624",
-        "76630",
-        "76633",
-        "76638",
-        "76640",
-        "76655",
-        "76664",
-        "76682",
-        "76704",
-        "76705",
-        "76706",
-        "76707",
-        "76708",
-        "76710",
-        "76711",
-        "76712",
-        "76798",
-        "767HH"
-      ]
-    },
-    {
-      "name": "WACO-MCLENNAN COUNTY LIBRARY",
-      "system": "WACO-MCLENNAN COUNTY LIBRARY",
-      "address": "1717 AUSTIN AVE, WACO, TX",
-      "website": "https://www.waco-texas.com/Departments/Library/Contact-Us",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76524",
-        "76624",
-        "76630",
-        "76633",
-        "76638",
-        "76640",
-        "76655",
-        "76682",
-        "76701",
-        "76704",
-        "76705",
-        "76706",
-        "76707",
-        "76708",
-        "76710",
-        "76711",
-        "76712",
-        "76798",
-        "767HH"
+        "76537"
       ]
     }
   ]

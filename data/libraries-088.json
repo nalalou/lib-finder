@@ -1,113 +1,6 @@
 {
   "libraries": [
     {
-      "name": "LAMBERTVILLE FREE PUBLIC LIBRARY",
-      "system": "LAMBERTVILLE FREE PUBLIC LIBRARY",
-      "address": "6 LILLY STREET, LAMBERTVILLE, NJ",
-      "website": "https://lambertvillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07830",
-        "07979",
-        "08530",
-        "08551",
-        "08559",
-        "08801",
-        "08802",
-        "08804",
-        "08809",
-        "08826",
-        "08827",
-        "08833",
-        "08867",
-        "08887",
-        "08889",
-        "088HH"
-      ]
-    },
-    {
-      "name": "CRANBURY PUBLIC LIBRARY",
-      "system": "CRANBURY PUBLIC LIBRARY",
-      "address": "30 NORTH MAIN STREET, CRANBURY, NJ",
-      "website": "https://cranburypubliclibrary.org/",
-      "formUrl": "https://cranburypubliclibrary.org/interlibrary-loan/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08512",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
-      ]
-    },
-    {
-      "name": "PLAINSBORO FREE PUBLIC LIBRARY",
-      "system": "PLAINSBORO FREE PUBLIC LIBRARY",
-      "address": "9 VAN DOREN DRIVE, PLAINSBORO, NJ",
-      "website": "https://plainsborolibrary.org/",
-      "formUrl": "https://plainsborolibrary.org/jerseycat-interlibrary-loan/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08536",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
-      ]
-    },
-    {
-      "name": "CARTERET FREE PUBLIC LIBRARY",
-      "system": "CARTERET FREE PUBLIC LIBRARY",
-      "address": "100 COOKE AVENUE, CARTERET, NJ",
-      "website": "https://www.carteretlibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07001",
-        "07008",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
-      ]
-    },
-    {
       "name": "SOUTH PLAINFIELD FREE PUBLIC LIBRARY",
       "system": "SOUTH PLAINFIELD FREE PUBLIC LIBRARY",
       "address": "2484 PLAINFIELD AVENUE, SOUTH PLAINFIELD, NJ",
@@ -115,23 +8,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
         "07080",
-        "077HH",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08820"
       ]
     },
     {
@@ -147,72 +25,9 @@
         "07067",
         "07077",
         "07095",
-        "077HH",
-        "08810",
         "08820",
-        "08824",
-        "08828",
         "08830",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
-      ]
-    },
-    {
-      "name": "HIGHLAND PARK PUBLIC LIBRARY",
-      "system": "HIGHLAND PARK PUBLIC LIBRARY",
-      "address": "494 LAUREL AVENUE, HIGHLAND PARK, IL",
-      "website": "https://www.hpplnj.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08904",
-        "089HH",
-        "60035"
-      ]
-    },
-    {
-      "name": "NEW BRUNSWICK FREE PUBLIC LIBRARY",
-      "system": "NEW BRUNSWICK FREE PUBLIC LIBRARY",
-      "address": "60 LIVINGSTON AVENUE, NEW BRUNSWICK, NJ",
-      "website": "http://www.nbfpl.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08901",
-        "08904",
-        "089HH"
+        "08863"
       ]
     },
     {
@@ -223,37 +38,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
-        "08820",
         "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08902",
-        "08904",
-        "089HH"
+        "08850",
+        "08902"
       ]
     },
     {
       "name": "MILLTOWN PUBLIC LIBRARY",
       "system": "MILLTOWN PUBLIC LIBRARY",
-      "address": "20 W. CHURCH STREET, MILLTOWN, NJ",
+      "address": "61 W. MAIN ST., MILLTOWN, WI",
       "website": "https://www.milltownlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "08824",
         "08850",
-        "54004",
         "54006",
-        "54026",
         "54858"
       ]
     },
@@ -265,22 +65,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07830",
-        "07979",
         "08551",
         "08559",
-        "08801",
-        "08802",
-        "08804",
-        "08809",
         "08822",
-        "08826",
-        "08827",
-        "08833",
         "08867",
-        "08887",
-        "08889",
-        "088HH"
+        "08887"
       ]
     },
     {
@@ -291,22 +80,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07830",
-        "07979",
         "08551",
-        "08559",
         "08801",
-        "08802",
-        "08804",
-        "08809",
         "08822",
-        "08826",
-        "08827",
         "08833",
-        "08867",
         "08887",
-        "08889",
-        "088HH"
+        "08889"
       ]
     },
     {
@@ -317,22 +96,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07830",
-        "07979",
-        "08551",
         "08559",
-        "08801",
-        "08802",
         "08804",
-        "08809",
         "08825",
-        "08826",
-        "08827",
-        "08833",
-        "08867",
-        "08887",
-        "08889",
-        "088HH"
+        "08867"
       ]
     },
     {
@@ -345,20 +112,14 @@
       "zipcodes": [
         "07830",
         "07979",
-        "08551",
-        "08559",
         "08801",
         "08802",
-        "08804",
         "08809",
         "08826",
         "08827",
         "08829",
         "08833",
-        "08867",
-        "08887",
-        "08889",
-        "088HH"
+        "08889"
       ]
     },
     {
@@ -369,22 +130,38 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07830",
-        "07979",
-        "08551",
-        "08559",
-        "08801",
         "08802",
         "08804",
         "08809",
-        "08826",
         "08827",
-        "08833",
+        "08848"
+      ]
+    },
+    {
+      "name": "MILFORD PUBLIC LIBRARY",
+      "system": "MILFORD PUBLIC LIBRARY",
+      "address": "40 FRENCHTOWN ROAD, MILFORD, NJ",
+      "website": "http://www.milfordnjlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06460",
+        "08802",
+        "08804",
+        "08827",
         "08848",
         "08867",
-        "08887",
-        "08889",
-        "088HH"
+        "19941",
+        "19960",
+        "19963",
+        "46538",
+        "46542",
+        "46582",
+        "48165",
+        "48357",
+        "48380",
+        "48381",
+        "84751"
       ]
     },
     {
@@ -397,20 +174,12 @@
       "zipcodes": [
         "07830",
         "07979",
-        "08551",
-        "08559",
         "08801",
-        "08802",
-        "08804",
         "08809",
         "08826",
-        "08827",
         "08833",
         "08858",
-        "08867",
-        "08887",
-        "08889",
-        "088HH"
+        "08889"
       ]
     },
     {
@@ -421,23 +190,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
-        "08812",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08812"
       ]
     },
     {
@@ -448,23 +201,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
         "08816",
-        "08820",
-        "08824",
         "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08850",
+        "08872"
       ]
     },
     {
@@ -475,23 +215,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
         "08817",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08837"
       ]
     },
     {
@@ -502,23 +227,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
         "08810",
-        "08820",
-        "08824",
         "08828",
-        "08830",
-        "08831",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08831"
       ]
     },
     {
@@ -529,23 +240,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
         "07067",
-        "07077",
-        "077HH",
-        "08810",
         "08820",
-        "08824",
-        "08828",
         "08830",
         "08832",
         "08837",
         "08840",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08863"
       ]
     },
     {
@@ -556,23 +257,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08846",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08846"
       ]
     },
     {
@@ -583,23 +268,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
         "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08831",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08831"
       ]
     },
     {
@@ -610,23 +280,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08857",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08857"
       ]
     },
     {
@@ -639,21 +293,11 @@
       "zipcodes": [
         "07001",
         "07064",
-        "07067",
         "07077",
-        "077HH",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
         "08830",
         "08832",
-        "08837",
         "08861",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08863"
       ]
     },
     {
@@ -664,23 +308,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08854",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08854"
       ]
     },
     {
@@ -691,23 +319,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
         "08837",
         "08859",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08872"
       ]
     },
     {
@@ -718,23 +332,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
         "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08879",
-        "08904",
-        "089HH"
+        "08879"
       ]
     },
     {
@@ -745,23 +344,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
         "08810",
-        "08820",
         "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08852",
-        "08863",
-        "08872",
-        "08904",
-        "089HH"
+        "08852"
       ]
     },
     {
@@ -772,23 +357,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
-        "08820",
-        "08824",
-        "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08863",
         "08872",
-        "08882",
-        "08904",
-        "089HH"
+        "08882"
       ]
     },
     {
@@ -799,23 +369,44 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07001",
-        "07064",
-        "07067",
-        "07077",
-        "077HH",
-        "08810",
-        "08820",
-        "08824",
         "08828",
-        "08830",
-        "08832",
-        "08837",
-        "08863",
-        "08872",
-        "08884",
-        "08904",
-        "089HH"
+        "08884"
+      ]
+    },
+    {
+      "name": "SOMERSET COUNTY LIBRARY",
+      "system": "SOMERSET COUNTY LIBRARY",
+      "address": "1 VOGT DRIVE, BRIDGEWATER, NJ",
+      "website": "https://sclsnj.org/",
+      "formUrl": "https://sclsnj.org/books-and-more/suggest-an-item/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "07059",
+        "08805",
+        "08807",
+        "08821",
+        "08835",
+        "08836",
+        "08853",
+        "08876",
+        "08880",
+        "15520",
+        "15530",
+        "15541",
+        "15542",
+        "15544",
+        "15546",
+        "15560",
+        "15563",
+        "15926",
+        "21817",
+        "21821",
+        "21824",
+        "21838",
+        "21853",
+        "21866",
+        "21867",
+        "21871"
       ]
     },
     {
@@ -826,23 +417,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07059",
-        "07931",
-        "07934",
-        "07977",
         "08502",
         "08528",
         "08553",
         "08558",
         "08805",
-        "08807",
         "08821",
         "08823",
         "08835",
         "08836",
-        "08853",
         "08873",
-        "08876",
         "08880"
       ]
     },
@@ -854,16 +438,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07059",
-        "07931",
-        "07934",
-        "07977",
         "08502",
-        "08528",
-        "08553",
-        "08558",
         "08805",
-        "08807",
         "08821",
         "08823",
         "08835",
@@ -882,14 +458,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07825",
-        "07832",
-        "07833",
-        "07838",
-        "07846",
-        "07863",
-        "07865",
-        "07882",
         "08865",
         "08886"
       ]
@@ -902,14 +470,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07825",
-        "07832",
-        "07833",
-        "07838",
-        "07846",
-        "07863",
-        "07865",
-        "07882",
         "08865",
         "08886"
       ]
@@ -917,61 +477,34 @@
     {
       "name": "WASHINGTON PUBLIC LIBRARY",
       "system": "WASHINGTON PUBLIC LIBRARY",
-      "address": "116 E. 2ND, WASHINGTON, KS",
+      "address": "410 LAFAYETTE ST, WASHINGTON, MO",
       "website": "https://washboropl.org/contact-us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07825",
-        "07832",
         "07833",
         "07838",
-        "07846",
         "07863",
         "07865",
         "07882",
         "08886",
+        "63014",
+        "63055",
+        "63068",
+        "63089",
+        "63090",
+        "63357",
+        "63383",
+        "63390",
+        "66933",
+        "66937",
+        "66943",
+        "66944",
+        "66953",
+        "66955",
+        "66958",
+        "66962",
         "66968"
-      ]
-    },
-    {
-      "name": "WARREN COUNTY LIBRARY",
-      "system": "WARREN COUNTY LIBRARY",
-      "address": "2 SHOTWELL DRIVE, BELVIDERE, NJ",
-      "website": "https://www.warrenlib.org/headquarters",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07823",
-        "07825",
-        "07832",
-        "07833",
-        "07838",
-        "07846",
-        "07863",
-        "07865",
-        "07882",
-        "08886"
-      ]
-    },
-    {
-      "name": "HACKETTSTOWN FREE PUBLIC LIBRARY",
-      "system": "HACKETTSTOWN FREE PUBLIC LIBRARY",
-      "address": "110 CHURCH STREET, HACKETTSTOWN, NJ",
-      "website": "https://hackettstownlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07825",
-        "07832",
-        "07833",
-        "07838",
-        "07840",
-        "07846",
-        "07863",
-        "07865",
-        "07882",
-        "08886"
       ]
     },
     {
@@ -982,80 +515,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07059",
         "07921",
         "07931",
         "07934",
         "07977",
-        "08502",
-        "08528",
-        "08553",
-        "08558",
-        "08805",
-        "08807",
-        "08821",
-        "08823",
-        "08835",
-        "08836",
-        "08853",
-        "08876",
-        "08880"
-      ]
-    },
-    {
-      "name": "BERNARDS TOWNSHIP LIBRARY",
-      "system": "BERNARDS TOWNSHIP LIBRARY",
-      "address": "32 SOUTH MAPLE AVENUE, BASKING RIDGE, NJ",
-      "website": "https://bernardslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07059",
-        "07920",
-        "07931",
-        "07934",
-        "07977",
-        "08502",
-        "08528",
-        "08553",
-        "08558",
-        "08805",
-        "08807",
-        "08821",
-        "08823",
-        "08835",
-        "08836",
-        "08853",
-        "08876",
-        "08880"
-      ]
-    },
-    {
-      "name": "BERNARDSVILLE PUBLIC LIBRARY",
-      "system": "BERNARDSVILLE PUBLIC LIBRARY",
-      "address": "1 ANDERSON HILL ROAD, BERNARDSVILLE, NJ",
-      "website": "https://bernardsvillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07059",
-        "07924",
-        "07931",
-        "07934",
-        "07977",
-        "08502",
-        "08528",
-        "08553",
-        "08558",
-        "08805",
-        "08807",
-        "08821",
-        "08823",
-        "08835",
-        "08836",
-        "08853",
-        "08876",
-        "08880"
+        "08876"
       ]
     }
   ]

@@ -1,36 +1,6 @@
 {
   "libraries": [
     {
-      "name": "ENOCH PRATT FREE LIBRARY",
-      "system": "ENOCH PRATT FREE LIBRARY",
-      "address": "400 CATHEDRAL STREET, BALTIMORE, MD",
-      "website": "https://www.prattlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "21201",
-        "21202",
-        "21205",
-        "21206",
-        "21210",
-        "21211",
-        "21212",
-        "21213",
-        "21214",
-        "21215",
-        "21216",
-        "21217",
-        "21218",
-        "21223",
-        "21224",
-        "21225",
-        "21229",
-        "21230",
-        "21231",
-        "21239"
-      ]
-    },
-    {
       "name": "BALTIMORE COUNTY PUBLIC LIBRARY",
       "system": "BALTIMORE COUNTY PUBLIC LIBRARY",
       "address": "320 YORK ROAD, TOWSON, MD",
@@ -77,6 +47,41 @@
         "21237",
         "21244",
         "21286"
+      ]
+    },
+    {
+      "name": "ENOCH PRATT FREE LIBRARY",
+      "system": "ENOCH PRATT FREE LIBRARY",
+      "address": "400 CATHEDRAL STREET, BALTIMORE, MD",
+      "website": "https://www.prattlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "21060",
+        "21061",
+        "21077",
+        "21090",
+        "21201",
+        "21202",
+        "21205",
+        "21206",
+        "21210",
+        "21211",
+        "21212",
+        "21213",
+        "21214",
+        "21215",
+        "21216",
+        "21217",
+        "21218",
+        "21223",
+        "21224",
+        "21225",
+        "21226",
+        "21229",
+        "21230",
+        "21231",
+        "21239"
       ]
     }
   ]

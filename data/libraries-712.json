@@ -1,6 +1,23 @@
 {
   "libraries": [
     {
+      "name": "CATAHOULA PARISH LIBRARY",
+      "system": "CATAHOULA PARISH LIBRARY",
+      "address": "300 BUSHLEY STREET, HARRISONBURG, LA",
+      "website": "https://librarytechnology.org/library/5803",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71243",
+        "71340",
+        "71368",
+        "71377",
+        "71378",
+        "71401",
+        "71425"
+      ]
+    },
+    {
       "name": "JACKSON PARISH LIBRARY",
       "system": "JACKSON PARISH LIBRARY",
       "address": "614 SOUTH POLK AVENUE, JONESBORO, LA",
@@ -8,7 +25,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71251"
+        "71070",
+        "71226",
+        "71247",
+        "71251",
+        "71268"
       ]
     },
     {
@@ -19,7 +40,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71241"
+        "71222",
+        "71234",
+        "71241",
+        "71256",
+        "71260",
+        "71277"
       ]
     },
     {
@@ -30,6 +56,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "71219",
+        "71237",
+        "71264",
         "71269"
       ]
     },
@@ -41,7 +70,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71295"
+        "71259",
+        "71295",
+        "71336"
       ]
     },
     {
@@ -52,7 +83,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71220"
+        "71220",
+        "71229",
+        "71261",
+        "71280"
       ]
     },
     {
@@ -63,6 +97,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "71227",
+        "71235",
+        "71245",
         "71270"
       ]
     },
@@ -74,7 +111,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71254"
+        "71254",
+        "71286"
       ]
     },
     {
@@ -85,7 +123,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71201"
+        "71201",
+        "71202",
+        "71203",
+        "71225",
+        "71238",
+        "71291",
+        "71292"
       ]
     },
     {
@@ -96,7 +140,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71263"
+        "71223",
+        "71250",
+        "71253",
+        "71263",
+        "71266"
       ]
     },
     {
@@ -107,7 +155,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "71232",
+        "71276",
         "71282"
+      ]
+    },
+    {
+      "name": "BIENVILLE PARISH LIBRARY",
+      "system": "BIENVILLE PARISH LIBRARY",
+      "address": "2768 MAPLE STREET, ARCADIA, LA",
+      "website": "https://www.bienvillelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71001",
+        "71003",
+        "71008",
+        "71028",
+        "71275"
       ]
     }
   ]

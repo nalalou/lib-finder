@@ -3,15 +3,14 @@
     {
       "name": "IMPERIAL PUBLIC LIBRARY",
       "system": "IMPERIAL PUBLIC LIBRARY",
-      "address": "223 W FM 11, IMPERIAL, TX",
+      "address": "200 W. 9TH ST., IMPERIAL, CA",
       "website": "https://www.cityofimperial.org/departments/library-services",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79730",
-        "79740",
         "79743",
-        "79781"
+        "92251",
+        "92273"
       ]
     },
     {
@@ -29,7 +28,7 @@
       "name": "JEFF DAVIS COUNTY LIBRARY",
       "system": "JEFF DAVIS COUNTY LIBRARY",
       "address": "100 MEMORIAL SQUARE, FORT DAVIS, TX",
-      "website": "https://jeffdaviscountylibrary.ploud.net/",
+      "website": "https://ohoopeelibrary.org/locations/jeff-davis-county-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -46,9 +45,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79730",
-        "79735",
-        "79740",
-        "79781"
+        "79735"
       ]
     },
     {
@@ -59,8 +56,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79730",
-        "79740",
         "79744",
         "79781"
       ]
@@ -85,8 +80,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79752",
-        "79755"
+        "79752"
       ]
     },
     {
@@ -135,8 +129,7 @@
         "79763",
         "79764",
         "79765",
-        "79766",
-        "79776"
+        "79766"
       ]
     },
     {
@@ -167,17 +160,26 @@
     {
       "name": "MARTIN COUNTY LIBRARY",
       "system": "MARTIN COUNTY LIBRARY",
-      "address": "110 NORTH PARK STREET, FAIRMONT, MN",
+      "address": "200 N ST MARY, STANTON, TX",
       "website": "https://www.martincountylibrary.org/index.php/locations/fairmont",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "56031",
+        "56039",
+        "56075",
+        "56088",
+        "56121",
+        "56127",
+        "56162",
+        "56171",
+        "56176",
+        "56181",
         "79713",
+        "79739",
         "79749",
         "79782",
-        "79783",
-        "797XX"
+        "79783"
       ]
     },
     {
@@ -201,9 +203,23 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79718",
+        "79754",
         "79772",
         "79780",
         "79785"
+      ]
+    },
+    {
+      "name": "DAWSON COUNTY PUBLIC LIBRARY",
+      "system": "DAWSON COUNTY PUBLIC LIBRARY",
+      "address": "511 N 3RD ST, LAMESA, TX",
+      "website": "https://dclib.ploud.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "79331",
+        "79377",
+        "79738"
       ]
     }
   ]

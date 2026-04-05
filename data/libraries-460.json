@@ -3,7 +3,7 @@
     {
       "name": "TIPTON COUNTY PUBLIC LIBRARY",
       "system": "TIPTON COUNTY PUBLIC LIBRARY",
-      "address": "127 EAST MADISON STREET, TIPTON, IN",
+      "address": "3149 HIGHWAY 51 S BLDG.C, COVINGTON, TN",
       "website": "https://www.tiptoncountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -12,9 +12,76 @@
         "38011",
         "38015",
         "38019",
-        "38023",
         "38049",
-        "46072"
+        "46045",
+        "46047",
+        "46049",
+        "46068",
+        "46072",
+        "46076"
+      ]
+    },
+    {
+      "name": "LEBANON PUBLIC LIBRARY",
+      "system": "LEBANON PUBLIC LIBRARY",
+      "address": "55 ACADEMY ST, LEBANON, OR",
+      "website": "https://lebanonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03766",
+        "03784",
+        "45005",
+        "45034",
+        "45036",
+        "45039",
+        "45040",
+        "45054",
+        "45065",
+        "45066",
+        "46052",
+        "46075",
+        "46147",
+        "62225",
+        "62254",
+        "62289",
+        "97355",
+        "97389"
+      ]
+    },
+    {
+      "name": "SHERIDAN PUBLIC LIBRARY",
+      "system": "SHERIDAN PUBLIC LIBRARY",
+      "address": "142 NW YAMHILL ST, SHERIDAN, OR",
+      "website": "https://townofsheridanmt.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46069",
+        "59735",
+        "59747",
+        "59749",
+        "97378"
+      ]
+    },
+    {
+      "name": "HANCOCK COUNTY PUBLIC LIBRARY",
+      "system": "HANCOCK COUNTY PUBLIC LIBRARY",
+      "address": "900 WEST MCKENZIE ROAD, GREENFIELD, IN",
+      "website": "https://www.hcplibrary.org/",
+      "formUrl": "https://www.hcplibrary.org/services-spaces/ill",
+      "formStatus": "verified",
+      "zipcodes": [
+        "37765",
+        "37869",
+        "42348",
+        "42351",
+        "42368",
+        "46055",
+        "46117",
+        "46140",
+        "46163",
+        "46186"
       ]
     },
     {
@@ -25,11 +92,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46035",
-        "46039",
-        "46057",
-        "46058",
-        "46065"
+        "46035"
       ]
     },
     {
@@ -55,11 +118,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46039",
         "46050",
-        "46057",
-        "46058",
-        "46065"
+        "46057"
       ]
     },
     {
@@ -70,17 +130,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46011",
-        "46012",
-        "46013",
-        "46017",
         "46036",
         "46044",
-        "46048",
-        "46051",
-        "46056",
-        "46063",
-        "46070"
+        "46063"
       ]
     },
     {
@@ -92,14 +144,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "46001",
-        "46011",
         "46012",
-        "46013",
-        "46017",
         "46044",
-        "46048",
-        "46051",
-        "46056",
         "46063",
         "46070"
       ]
@@ -118,11 +164,8 @@
         "46016",
         "46017",
         "46044",
-        "46048",
         "46051",
-        "46056",
-        "46063",
-        "46070"
+        "46056"
       ]
     },
     {
@@ -134,16 +177,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46011",
-        "46012",
         "46013",
         "46017",
-        "46044",
         "46048",
         "46051",
         "46056",
-        "46063",
-        "46064",
-        "46070"
+        "46064"
       ]
     },
     {
@@ -155,10 +194,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46052",
-        "46071",
-        "46075",
-        "46102",
-        "46147"
+        "46071"
       ]
     },
     {
@@ -170,15 +206,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46030",
-        "46031",
         "46033",
         "46038",
         "46069",
         "46074",
-        "460HH",
         "46280",
-        "46290",
-        "462HH"
+        "46290"
       ]
     },
     {
@@ -189,16 +222,11 @@
       "formUrl": "https://carmelclaylibrary.org/kids-recommended",
       "formStatus": "verified",
       "zipcodes": [
-        "46030",
-        "46031",
         "46032",
         "46033",
         "46038",
-        "46069",
-        "460HH",
         "46280",
-        "46290",
-        "462HH"
+        "46290"
       ]
     },
     {
@@ -211,14 +239,7 @@
       "zipcodes": [
         "46030",
         "46031",
-        "46033",
-        "46034",
-        "46038",
-        "46069",
-        "460HH",
-        "46280",
-        "46290",
-        "462HH"
+        "46034"
       ]
     },
     {
@@ -230,15 +251,9 @@
       "formStatus": "verified",
       "zipcodes": [
         "46030",
-        "46031",
         "46033",
         "46038",
-        "46060",
-        "46069",
-        "460HH",
-        "46280",
-        "46290",
-        "462HH"
+        "46060"
       ]
     },
     {
@@ -250,11 +265,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "46040",
-        "46055",
-        "46117",
-        "46140",
-        "46163",
-        "46186"
+        "46055"
       ]
     },
     {
@@ -265,11 +276,8 @@
       "formUrl": "https://zionsvillelibrary.org/services/request-an-item/",
       "formStatus": "verified",
       "zipcodes": [
-        "46052",
         "46075",
-        "46077",
-        "46102",
-        "46147"
+        "46077"
       ]
     }
   ]

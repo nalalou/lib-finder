@@ -1,6 +1,40 @@
 {
   "libraries": [
     {
+      "name": "EVANGELINE PARISH LIBRARY",
+      "system": "EVANGELINE PARISH LIBRARY",
+      "address": "916 WEST MAIN STREET, VILLE PLATTE, LA",
+      "website": "https://evangelinelibrary.org/branches/ville-platte/",
+      "formUrl": "https://evangelinelibrary.org/request-a-book/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "70524",
+        "70576",
+        "70580",
+        "70585",
+        "70586",
+        "71322",
+        "71356",
+        "71367"
+      ]
+    },
+    {
+      "name": "OPELOUSAS PUBLIC LIBRARY",
+      "system": "OPELOUSAS PUBLIC LIBRARY",
+      "address": "212 EAST GROLEE STREET, OPELOUSAS, LA",
+      "website": "https://opelousaspubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70541",
+        "70550",
+        "70570",
+        "70577",
+        "70589",
+        "71345"
+      ]
+    },
+    {
       "name": "TENSAS PARISH LIBRARY",
       "system": "TENSAS PARISH LIBRARY",
       "address": "135 PLANK ROAD, ST. JOSEPH, LA",
@@ -8,7 +42,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71366"
+        "71357",
+        "71366",
+        "71375"
       ]
     },
     {
@@ -19,7 +55,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71342"
+        "71342",
+        "71343",
+        "71371",
+        "71465",
+        "71467",
+        "71480"
       ]
     },
     {
@@ -30,7 +71,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71334"
+        "71326",
+        "71334",
+        "71354",
+        "71373"
       ]
     },
     {
@@ -41,7 +85,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71351"
+        "70753",
+        "71316",
+        "71323",
+        "71325",
+        "71327",
+        "71331",
+        "71333",
+        "71339",
+        "71341",
+        "71350",
+        "71351",
+        "71355",
+        "71362",
+        "71369"
       ]
     },
     {
@@ -52,7 +109,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71301"
+        "71301",
+        "71302",
+        "71303",
+        "71328",
+        "71346",
+        "71360",
+        "71424",
+        "71430",
+        "71433",
+        "71438",
+        "71466",
+        "71472",
+        "71485"
       ]
     },
     {
@@ -63,7 +132,42 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71340"
+        "71243",
+        "71340",
+        "71368",
+        "71377",
+        "71378",
+        "71401",
+        "71425"
+      ]
+    },
+    {
+      "name": "FRANKLIN PARISH LIBRARY",
+      "system": "FRANKLIN PARISH LIBRARY",
+      "address": "705 PRAIRIE STREET, WINNSBORO, LA",
+      "website": "https://franklinparishlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71259",
+        "71295",
+        "71336"
+      ]
+    },
+    {
+      "name": "KROTZ SPRINGS MUNICIPAL PUBLIC LIBRARY",
+      "system": "KROTZ SPRINGS MUNICIPAL PUBLIC LIBRARY",
+      "address": "216 PARK ST., KROTZ SPRINGS, LA",
+      "website": "https://krotzsprings.org/krotz-springs-municipal-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70732",
+        "70750",
+        "70756",
+        "70757",
+        "71353",
+        "71358"
       ]
     }
   ]

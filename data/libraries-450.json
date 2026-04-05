@@ -1,15 +1,16 @@
 {
   "libraries": [
     {
-      "name": "MASON PUBLIC LIBRARY",
-      "system": "MASON PUBLIC LIBRARY",
-      "address": "200 READING RD., MASON, OH",
-      "website": "https://masonpl.org/",
-      "formUrl": "https://www.masonpl.org/services/ill/request",
-      "formStatus": "verified",
+      "name": "LEBANON PUBLIC LIBRARY",
+      "system": "LEBANON PUBLIC LIBRARY",
+      "address": "55 ACADEMY ST, LEBANON, OR",
+      "website": "https://lebanonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
+        "03766",
+        "03784",
         "45005",
-        "45032",
         "45034",
         "45036",
         "45039",
@@ -17,7 +18,55 @@
         "45054",
         "45065",
         "45066",
-        "45162"
+        "46052",
+        "46075",
+        "46147",
+        "62225",
+        "62254",
+        "62289",
+        "97355",
+        "97389"
+      ]
+    },
+    {
+      "name": "MASON PUBLIC LIBRARY",
+      "system": "MASON PUBLIC LIBRARY",
+      "address": "16 DARLING HILL ROAD, MASON, NH",
+      "website": "https://masonpl.org/",
+      "formUrl": "https://www.masonpl.org/services/ill/request",
+      "formStatus": "verified",
+      "zipcodes": [
+        "03048",
+        "45034",
+        "45036",
+        "45039",
+        "45040",
+        "45065"
+      ]
+    },
+    {
+      "name": "FRANKLIN PUBLIC LIBRARY",
+      "system": "FRANKLIN PUBLIC LIBRARY",
+      "address": "1502 P STREET, FRANKLIN, NE",
+      "website": "https://www.fspl.org/",
+      "formUrl": "https://www.fspl.org/book-collection-kids",
+      "formStatus": "verified",
+      "zipcodes": [
+        "02038",
+        "03235",
+        "03276",
+        "45005",
+        "45066",
+        "48025",
+        "48034",
+        "48301",
+        "48322",
+        "48336",
+        "53132",
+        "68929",
+        "68939",
+        "68960",
+        "68972"
       ]
     },
     {
@@ -28,14 +77,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45005",
-        "45032",
         "45034",
         "45036",
         "45039",
+        "45040",
         "45054",
         "45065",
-        "45066",
         "45152",
         "45162"
       ]
@@ -52,15 +99,11 @@
         "45013",
         "45014",
         "45015",
-        "45042",
-        "45050",
         "45053",
         "45056",
         "45062",
-        "45064",
         "45067",
-        "45069",
-        "450HH"
+        "45069"
       ]
     },
     {
@@ -71,19 +114,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45013",
-        "45014",
-        "45015",
         "45042",
         "45044",
         "45050",
-        "45053",
-        "45056",
         "45062",
         "45064",
-        "45067",
-        "45069",
-        "450HH"
+        "45067"
       ]
     },
     {
@@ -94,16 +130,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45005",
         "45032",
-        "45034",
-        "45036",
-        "45039",
         "45054",
-        "45065",
         "45066",
-        "45068",
-        "45162"
+        "45068"
       ]
     },
     {
@@ -115,15 +145,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "45003",
-        "45070",
         "45311",
         "45320",
-        "45321",
-        "45338",
-        "45347",
-        "45378",
-        "45381",
-        "45382"
+        "45381"
       ]
     },
     {
@@ -134,36 +158,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45003",
         "45070",
         "45311",
-        "45321",
         "45330",
-        "45338",
-        "45347",
-        "45378",
-        "45381",
-        "45382"
-      ]
-    },
-    {
-      "name": "BROWN MEMORIAL LIBRARY",
-      "system": "BROWN MEMORIAL LIBRARY",
-      "address": "78 WEST MAIN STREET, BRADFORD, NH",
-      "website": "http://www.clinton-me.us/index.asp?SEC=3990C4D7-E89A-4722-B926-831200BB08B2&Type=B_BASIC",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03221",
-        "45003",
-        "45070",
-        "45311",
-        "45321",
-        "45338",
-        "45347",
-        "45378",
-        "45381",
-        "45382"
+        "45381"
       ]
     },
     {
@@ -190,7 +188,6 @@
         "45207",
         "45208",
         "45209",
-        "45210",
         "45211",
         "45212",
         "45213",
@@ -226,8 +223,7 @@
         "45249",
         "45251",
         "45252",
-        "45255",
-        "452HH"
+        "45255"
       ]
     }
   ]

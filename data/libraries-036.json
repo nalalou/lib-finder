@@ -1,156 +1,6 @@
 {
   "libraries": [
     {
-      "name": "CHESTERFIELD PUBLIC LIBRARY",
-      "system": "CHESTERFIELD PUBLIC LIBRARY",
-      "address": "524 ROUTE 63, CHESTERFIELD, NH",
-      "website": "https://www.chesterfieldlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03443",
-        "03451",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "THAYER PUBLIC LIBRARY",
-      "system": "THAYER PUBLIC LIBRARY",
-      "address": "3 ASHUELOT MAIN STREET, ASHUELOT, NH",
-      "website": "https://www.chamberofcommerce.com/united-states/new-hampshire/ashuelot/public-library/2002765433-thayer-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03441",
-        "03451",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "RICHARDS FREE LIBRARY",
-      "system": "RICHARDS FREE LIBRARY",
-      "address": "58 NORTH MAIN STREET, NEWPORT, NH",
-      "website": "https://richardsfreelib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03607",
-        "036HH",
-        "03745",
-        "03751",
-        "03773"
-      ]
-    },
-    {
-      "name": "PHILIP READ MEMORIAL LIBRARY",
-      "system": "PHILIP READ MEMORIAL LIBRARY",
-      "address": "1088 ROUTE 12A, PLAINFIELD, NH",
-      "website": "https://plainfieldlibraries.org/plainfield",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03607",
-        "036HH",
-        "03745",
-        "03751",
-        "03781"
-      ]
-    },
-    {
-      "name": "MERIDEN LIBRARY",
-      "system": "MERIDEN LIBRARY",
-      "address": "22 BEAN ROAD, MERIDEN, NH",
-      "website": "https://plainfieldlibraries.org/meriden",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03607",
-        "036HH",
-        "03745",
-        "03751",
-        "03770"
-      ]
-    },
-    {
-      "name": "ABBOTT LIBRARY",
-      "system": "ABBOTT LIBRARY",
-      "address": "11 SOONIPI CIRCLE, SUNAPEE, NH",
-      "website": "https://www.abbottlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03607",
-        "036HH",
-        "03745",
-        "03751",
-        "03782"
-      ]
-    },
-    {
-      "name": "FISKE FREE LIBRARY",
-      "system": "FISKE FREE LIBRARY",
-      "address": "108 BROAD STREET, CLAREMONT, NH",
-      "website": "https://www.claremontnh.com/fiske-free-library-landing-page",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03607",
-        "036HH",
-        "03743",
-        "03745",
-        "03751"
-      ]
-    },
-    {
-      "name": "GEORGE H. STOWELL FREE LIBRARY",
-      "system": "GEORGE H. STOWELL FREE LIBRARY",
-      "address": "24 SCHOOL STREET, CORNISH FLAT, NH",
-      "website": "http://www.cornishnh.net/?page_id=129",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03607",
-        "036HH",
-        "03745",
-        "03746",
-        "03751"
-      ]
-    },
-    {
-      "name": "OLIVE G. PETTIS LIBRARY",
-      "system": "OLIVE G. PETTIS LIBRARY",
-      "address": "36 MILL VILLAGE ROAD, GOSHEN, NH",
-      "website": "https://www.goshenlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03607",
-        "036HH",
-        "03745",
-        "03751",
-        "03752"
-      ]
-    },
-    {
-      "name": "DUNBAR FREE LIBRARY",
-      "system": "DUNBAR FREE LIBRARY",
-      "address": "401 ROUTE 10 SOUTH, GRANTHAM, NH",
-      "website": "https://dunbarlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03607",
-        "036HH",
-        "03745",
-        "03751",
-        "03753"
-      ]
-    },
-    {
       "name": "MINER MEMORIAL LIBRARY",
       "system": "MINER MEMORIAL LIBRARY",
       "address": "3 2ND NEW HAMPSHIRE TURNPIKE, LEMPSTER, NH",
@@ -159,10 +9,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03605",
-        "03607",
-        "036HH",
-        "03745",
-        "03751"
+        "03607"
       ]
     },
     {
@@ -174,10 +21,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03603",
-        "03607",
-        "036HH",
-        "03745",
-        "03751"
+        "03607"
       ]
     },
     {
@@ -188,9 +32,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03451",
-        "03462",
-        "03466",
         "03608",
         "03609"
       ]
@@ -203,11 +44,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03603",
-        "03607",
-        "036HH",
-        "03745",
-        "03751"
+        "03603"
       ]
     },
     {
@@ -218,9 +55,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03451",
-        "03462",
-        "03466",
         "03602",
         "03609"
       ]
@@ -234,280 +68,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "03601",
-        "03607",
-        "036HH",
-        "03745",
-        "03751"
-      ]
-    },
-    {
-      "name": "HINSDALE PUBLIC LIBRARY",
-      "system": "HINSDALE PUBLIC LIBRARY",
-      "address": "58 MAPLE ST., HINSDALE, MA",
-      "website": "https://www.town.hinsdale.nh.us/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01235",
-        "03451",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "JAFFREY PUBLIC LIBRARY",
-      "system": "JAFFREY PUBLIC LIBRARY",
-      "address": "38 MAIN STREET, JAFFREY, NH",
-      "website": "https://townofjaffrey.com/183/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03451",
-        "03452",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "FROST FREE LIBRARY",
-      "system": "FROST FREE LIBRARY",
-      "address": "28 JAFFREY ROAD, MARLBOROUGH, NH",
-      "website": "https://www.marlboroughnh.gov/departments/library/index.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03451",
-        "03455",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "MARLOW TOWN LIBRARY",
-      "system": "MARLOW TOWN LIBRARY",
-      "address": "12 CHURCH STREET, MARLOW, NH",
-      "website": "https://www.marlownh.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03451",
-        "03456",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "OLIVIA RODHAM MEMORIAL LIBRARY",
-      "system": "OLIVIA RODHAM MEMORIAL LIBRARY",
-      "address": "1 NELSON COMMON ROAD, NELSON, NH",
-      "website": "https://www.nelsonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03451",
-        "03457",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "INGALLS MEMORIAL LIBRARY",
-      "system": "INGALLS MEMORIAL LIBRARY",
-      "address": "203 MAIN STREET, RINDGE, NH",
-      "website": "https://www.ingallslibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03451",
-        "03461",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "DAVIS PUBLIC LIBRARY",
-      "system": "DAVIS PUBLIC LIBRARY",
-      "address": "1391 ROUTE 123 NORTH, STODDARD, NH",
-      "website": "https://davispubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03451",
-        "03462",
-        "03464",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "SULLIVAN PUBLIC LIBRARY",
-      "system": "SULLIVAN PUBLIC LIBRARY",
-      "address": "436 CENTRE STREET, SULLIVAN, NH",
-      "website": "https://townofsullivannh.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03445",
-        "03451",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "REED FREE LIBRARY",
-      "system": "REED FREE LIBRARY",
-      "address": "8 VILLAGE ROAD, SURRY, NH",
-      "website": "https://surry.nh.gov/library-2/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03431",
-        "03451",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "MT. CAESAR UNION LIBRARY",
-      "system": "MT. CAESAR UNION LIBRARY",
-      "address": "628 OLD HOMESTEAD HIGHWAY, SWANZEY, NH",
-      "website": "https://mtcaesarunionlibrary.weebly.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03446",
-        "03451",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "STRATTON FREE LIBRARY",
-      "system": "STRATTON FREE LIBRARY",
-      "address": "9 MAIN STREET, WEST SWANZEY, NH",
-      "website": "https://www.swanzeynh.gov/community/stratton_free_library.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03446",
-        "03451",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "GAY-KIMBALL LIBRARY",
-      "system": "GAY-KIMBALL LIBRARY",
-      "address": "10 SOUTH MAIN STREET, TROY, NH",
-      "website": "https://www.troylibrary.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03451",
-        "03462",
-        "03465",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "CONANT PUBLIC LIBRARY",
-      "system": "CONANT PUBLIC LIBRARY",
-      "address": "111 MAIN STREET, WINCHESTER, NH",
-      "website": "https://www.conantlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03451",
-        "03462",
-        "03466",
-        "03470",
-        "03609"
-      ]
-    },
-    {
-      "name": "FITZWILLIAM TOWN LIBRARY",
-      "system": "FITZWILLIAM TOWN LIBRARY",
-      "address": "11 TEMPLETON TURNPIKE, FITZWILLIAM, NH",
-      "website": "https://www.fitzlib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03447",
-        "03451",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "HARRISVILLE PUBLIC LIBRARY",
-      "system": "HARRISVILLE PUBLIC LIBRARY",
-      "address": "7 CANAL STREET, HARRISVILLE, NH",
-      "website": "https://harrisvillenh.org/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03450",
-        "03451",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "GILSUM PUBLIC LIBRARY",
-      "system": "GILSUM PUBLIC LIBRARY",
-      "address": "650 ROUTE 10, GILSUM, NH",
-      "website": "https://gilsum-nh.gov/gilsum-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03448",
-        "03451",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
-      "name": "LIBBIE A. CASS MEMORIAL LIBRARY",
-      "system": "LIBBIE A. CASS MEMORIAL LIBRARY",
-      "address": "2748 MAIN STREET, SPRINGFIELD, NH",
-      "website": "http://libbiecass.weebly.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03284",
-        "03607",
-        "036HH",
-        "03745",
-        "03751"
-      ]
-    },
-    {
-      "name": "SHEDD FREE LIBRARY",
-      "system": "SHEDD FREE LIBRARY",
-      "address": "46 NORTH MAIN STREET, WASHINGTON, NH",
-      "website": "https://www.sheddfreelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03280",
-        "03607",
-        "036HH",
-        "03745",
-        "03751"
+        "03607"
       ]
     }
   ]

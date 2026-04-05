@@ -1,6 +1,89 @@
 {
   "libraries": [
     {
+      "name": "JAMES L. HAMNER PUBLIC LIBRARY",
+      "system": "JAMES L. HAMNER PUBLIC LIBRARY",
+      "address": "16351 DUNN ST., AMELIA, VA",
+      "website": "https://hamnerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23002",
+        "23083",
+        "23850"
+      ]
+    },
+    {
+      "name": "WILLIAMSBURG REGIONAL LIBRARY",
+      "system": "WILLIAMSBURG REGIONAL LIBRARY",
+      "address": "7770 CROAKER ROAD, WILLIAMSBURG, VA",
+      "website": "https://www.wrl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23156",
+        "23168",
+        "23185",
+        "23188",
+        "23839",
+        "23881",
+        "23899"
+      ]
+    },
+    {
+      "name": "NEWPORT NEWS PUBLIC LIBRARY SYSTEM",
+      "system": "NEWPORT NEWS PUBLIC LIBRARY SYSTEM",
+      "address": "700 TOWN CENTER DR., STE. 300, NEWPORT NEWS, VA",
+      "website": "https://library.nnva.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23304",
+        "23314",
+        "23430",
+        "23601",
+        "23602",
+        "23603",
+        "23604",
+        "23605",
+        "23606",
+        "23607",
+        "23608",
+        "23661",
+        "23666",
+        "23846",
+        "23883"
+      ]
+    },
+    {
+      "name": "PETERSBURG PUBLIC LIBRARY",
+      "system": "PETERSBURG PUBLIC LIBRARY",
+      "address": "220 SOUTH SIXTH STREET, PETERSBURG, IL",
+      "website": "https://ci.petersburg.ne.us/our-community/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23801",
+        "23803",
+        "23805",
+        "23830",
+        "23833",
+        "23840",
+        "23841",
+        "23842",
+        "23875",
+        "23882",
+        "23885",
+        "62642",
+        "62673",
+        "62675",
+        "62688",
+        "68620",
+        "68652",
+        "99833"
+      ]
+    },
+    {
       "name": "APPOMATTOX REGIONAL LIBRARY SYSTEM",
       "system": "APPOMATTOX REGIONAL LIBRARY SYSTEM",
       "address": "209 EAST CAWSON STREET, HOPEWELL, VA",
@@ -8,7 +91,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23860"
+        "23801",
+        "23860",
+        "23875"
       ]
     },
     {
@@ -22,6 +107,8 @@
         "23112",
         "23113",
         "23120",
+        "23224",
+        "23225",
         "23234",
         "23235",
         "23236",
@@ -40,7 +127,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23834"
+        "23801",
+        "23803",
+        "23805",
+        "23834",
+        "23875"
       ]
     },
     {
@@ -54,14 +145,17 @@
         "23821",
         "23843",
         "23845",
+        "23847",
         "23856",
         "23857",
+        "23867",
         "23868",
+        "23872",
         "23876",
+        "23879",
         "23887",
         "23889",
         "23893",
-        "238HH",
         "23920",
         "23938"
       ]
@@ -74,14 +168,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "23315",
         "23827",
         "23828",
         "23829",
         "23837",
         "23844",
+        "23851",
         "23866",
         "23874",
-        "23878"
+        "23878",
+        "23888",
+        "23890",
+        "23897",
+        "23898"
       ]
     },
     {
@@ -93,7 +193,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "23824",
-        "238XX",
+        "23894",
         "23922",
         "23930"
       ]

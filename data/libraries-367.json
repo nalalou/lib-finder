@@ -3,7 +3,7 @@
     {
       "name": "UNIONTOWN PUBLIC LIBRARY",
       "system": "UNIONTOWN PUBLIC LIBRARY",
-      "address": "108 WATER STREET, UNIONTOWN, AL",
+      "address": "24 JEFFERSON ST, UNIONTOWN, PA",
       "website": "https://www.uniontownal.com/community/library.html",
       "formUrl": null,
       "formStatus": "unknown",
@@ -13,51 +13,47 @@
         "15413",
         "15420",
         "15422",
-        "15428",
-        "15430",
         "15431",
-        "15433",
         "15436",
         "15437",
-        "15438",
         "15440",
-        "15442",
         "15443",
-        "15444",
         "15445",
-        "15446",
-        "15447",
-        "15450",
-        "15451",
         "15454",
         "15455",
         "15456",
         "15458",
         "15459",
-        "15460",
-        "15462",
-        "15464",
-        "15466",
         "15468",
-        "15469",
         "15470",
         "15472",
-        "15473",
-        "15474",
         "15475",
-        "15476",
         "15478",
         "15480",
-        "15482",
         "15484",
         "15486",
         "15489",
-        "15490",
-        "15492",
-        "154HH",
-        "15622",
-        "15631",
         "36786"
+      ]
+    },
+    {
+      "name": "AKRON PUBLIC LIBRARY",
+      "system": "AKRON PUBLIC LIBRARY",
+      "address": "207 FIRST AVENUE SOUTH, AKRON, AL",
+      "website": "https://www.akron.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35441",
+        "36776",
+        "51001",
+        "51062",
+        "80720",
+        "80740",
+        "80743",
+        "80757",
+        "80801",
+        "80812"
       ]
     },
     {
@@ -71,65 +67,7 @@
         "35443",
         "35462",
         "35469",
-        "354HH",
         "36740"
-      ]
-    },
-    {
-      "name": "MOUNDVILLE PUBLIC LIBRARY",
-      "system": "MOUNDVILLE PUBLIC LIBRARY",
-      "address": "279 MARKET STREET, MOUNDVILLE, AL",
-      "website": "https://www.moundvillealabama.com/community/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35441",
-        "35474",
-        "36776"
-      ]
-    },
-    {
-      "name": "JACKSON - WHITE SMITH MEMORIAL LIBRARY",
-      "system": "JACKSON - WHITE SMITH MEMORIAL LIBRARY",
-      "address": "213 COLLEGE AVENUE, JACKSON, AL",
-      "website": "http://whitesmithlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36436",
-        "36446",
-        "36482",
-        "364HH",
-        "364XX",
-        "36501",
-        "36515",
-        "36524",
-        "36540",
-        "36545",
-        "36570",
-        "36727"
-      ]
-    },
-    {
-      "name": "GROVE HILL PUBLIC LIBRARY",
-      "system": "GROVE HILL PUBLIC LIBRARY",
-      "address": "108 DUBOSE AVENUE, GROVE HILL, AL",
-      "website": "https://librarytechnology.org/library/14467",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36436",
-        "36446",
-        "36451",
-        "36482",
-        "364HH",
-        "364XX",
-        "36501",
-        "36515",
-        "36524",
-        "36540",
-        "36570",
-        "36727"
       ]
     },
     {
@@ -141,14 +79,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36732",
-        "36736",
-        "36738",
-        "36742",
-        "36754",
-        "36763",
-        "36782",
-        "36783",
-        "367XX"
+        "36742"
       ]
     },
     {
@@ -161,13 +92,11 @@
       "zipcodes": [
         "36736",
         "36738",
-        "36742",
         "36748",
         "36754",
         "36763",
         "36782",
-        "36783",
-        "367XX"
+        "36783"
       ]
     },
     {
@@ -178,7 +107,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35441",
         "36744",
         "36776"
       ]
@@ -191,8 +119,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36756",
-        "36779"
+        "36756"
       ]
     },
     {
@@ -203,16 +130,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36436",
         "36446",
-        "36482",
-        "364HH",
-        "364XX",
-        "36501",
-        "36515",
-        "36524",
-        "36540",
-        "36570",
         "36727",
         "36784"
       ]
@@ -239,7 +157,7 @@
       "name": "WILCOX COUNTY LIBRARY",
       "system": "WILCOX COUNTY LIBRARY",
       "address": "100 BROAD STREET, CAMDEN, AL",
-      "website": "https://www.chamberofcommerce.com/united-states/alabama/camden/public-library/10143994-wilcox-county-public-library",
+      "website": "http://orls.org/wordpress/branches/wilcox-county-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -262,41 +180,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35441",
-        "36765",
-        "36776"
-      ]
-    },
-    {
-      "name": "WEST BLOCTON PUBLIC LIBRARY",
-      "system": "WEST BLOCTON PUBLIC LIBRARY",
-      "address": "109 FLORIDA STREET, WEST BLOCTON, AL",
-      "website": "https://librarytechnology.org/library/14545",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35034",
-        "35035",
-        "35074",
-        "35184",
-        "36792",
-        "36793"
-      ]
-    },
-    {
-      "name": "WOODSTOCK COMMUNITY LIBRARY",
-      "system": "WOODSTOCK COMMUNITY LIBRARY",
-      "address": "18441 EASTERN VALLEY ROAD, WOODSTOCK, AL",
-      "website": "https://www.townofwoodstockal.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35034",
-        "35035",
-        "35074",
-        "35188",
-        "36792",
-        "36793"
+        "36765"
       ]
     },
     {
@@ -308,9 +192,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "35034",
-        "35035",
         "35042",
-        "35074",
         "36792",
         "36793"
       ]
@@ -326,7 +208,6 @@
         "35045",
         "35046",
         "35085",
-        "350HH",
         "35171",
         "36091",
         "36750",
@@ -342,7 +223,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36040",
-        "36047",
         "36752",
         "36785"
       ]
@@ -360,9 +240,7 @@
         "36051",
         "36066",
         "36067",
-        "360HH",
-        "36749",
-        "367HH"
+        "36749"
       ]
     },
     {
@@ -375,22 +253,7 @@
       "zipcodes": [
         "36040",
         "36047",
-        "36752",
-        "36785"
-      ]
-    },
-    {
-      "name": "FORT DEPOSIT PUBLIC LIBRARY",
-      "system": "FORT DEPOSIT PUBLIC LIBRARY",
-      "address": "11 MILNER STREET, FORT DEPOSIT, AL",
-      "website": "https://fortdeposital.gov/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36032",
-        "36047",
-        "36752",
-        "36785"
+        "36752"
       ]
     }
   ]

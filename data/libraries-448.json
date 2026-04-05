@@ -3,11 +3,12 @@
     {
       "name": "HURON PUBLIC LIBRARY",
       "system": "HURON PUBLIC LIBRARY",
-      "address": "333 WILLIAMS ST., HURON, OH",
+      "address": "521 DAKOTA AVE SOUTH, HURON, SD",
       "website": "https://hpl.huronsd.gov/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "44814",
         "44839",
         "57324",
         "57348",
@@ -21,16 +22,15 @@
     {
       "name": "NEW LONDON PUBLIC LIBRARY",
       "system": "NEW LONDON PUBLIC LIBRARY",
-      "address": "67 S. MAIN ST., NEW LONDON, OH",
+      "address": "406 S. PEARL ST., NEW LONDON, WI",
       "website": "https://newlondonlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "44837",
         "44851",
-        "54933",
-        "54950",
-        "54961",
-        "54962"
+        "44889",
+        "54961"
       ]
     },
     {
@@ -41,12 +41,35 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43438",
-        "434HH",
         "44089",
         "44814",
-        "44816",
-        "44824"
+        "44816"
+      ]
+    },
+    {
+      "name": "ASHLAND PUBLIC LIBRARY",
+      "system": "ASHLAND PUBLIC LIBRARY",
+      "address": "1229 CENTRE ST, ASHLAND, PA",
+      "website": "https://www.ashlandmass.com/184/Ashland-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01701",
+        "01721",
+        "01748",
+        "17921",
+        "17935",
+        "17936",
+        "17943",
+        "44805",
+        "44838",
+        "44840",
+        "44859",
+        "44866",
+        "44874",
+        "44880",
+        "68003",
+        "68042"
       ]
     },
     {
@@ -60,136 +83,83 @@
         "44813",
         "44822",
         "44843",
-        "44878",
         "44902",
         "44903",
         "44904",
         "44905",
         "44906",
-        "44907",
-        "449HH"
+        "44907"
       ]
     },
     {
       "name": "BELLEVUE PUBLIC LIBRARY",
       "system": "BELLEVUE PUBLIC LIBRARY",
-      "address": "1003 LINCOLN ROAD, BELLEVUE, NE",
+      "address": "106 N 3RD ST SUITE 1, BELLEVUE, IA",
       "website": "https://www.bellevue.net/176/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44826",
-        "44837",
-        "44850",
-        "44855",
-        "44857",
-        "44865",
-        "44889",
-        "68005"
+        "44847",
+        "52031",
+        "52054",
+        "52079",
+        "68005",
+        "68113",
+        "68123",
+        "68133",
+        "68147",
+        "68157"
       ]
     },
     {
       "name": "WAYNE PUBLIC LIBRARY",
       "system": "WAYNE PUBLIC LIBRARY",
-      "address": "3737 SOUTH WAYNE ROAD, WAYNE, MI",
+      "address": "461 VALLEY ROAD, WAYNE, NJ",
       "website": "https://www.waynepubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "07470",
         "43406",
-        "43413",
         "43437",
-        "43443",
-        "43447",
         "43451",
         "43457",
-        "43462",
-        "43465",
         "43466",
         "43467",
-        "43511",
-        "43522",
-        "43525",
-        "43529",
-        "43541",
-        "43565",
-        "43619",
         "44817",
-        "48184"
+        "48184",
+        "48186",
+        "48188",
+        "48242",
+        "68787"
+      ]
+    },
+    {
+      "name": "CLYDE PUBLIC LIBRARY",
+      "system": "CLYDE PUBLIC LIBRARY",
+      "address": "125 OAK ST, CLYDE, TX",
+      "website": "https://www.clyde-tx.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43410",
+        "43464",
+        "44811",
+        "79504",
+        "79510"
       ]
     },
     {
       "name": "MONROEVILLE PUBLIC LIBRARY",
       "system": "MONROEVILLE PUBLIC LIBRARY",
-      "address": "34 MONROE ST., MONROEVILLE, OH",
+      "address": "4000 GATEWAY CAMPUS BLVD, MONROEVILLE, PA",
       "website": "http://www.monroevillelibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "15006",
-        "15007",
-        "15014",
-        "15015",
-        "15017",
-        "15018",
-        "15020",
-        "15024",
-        "15028",
-        "15030",
-        "15031",
-        "15034",
-        "15035",
-        "15037",
-        "15045",
-        "15046",
-        "15049",
-        "15051",
-        "15056",
-        "15075",
-        "15076",
-        "15082",
-        "15084",
-        "15086",
-        "15088",
-        "15090",
-        "150HH",
-        "15110",
-        "15112",
-        "15122",
-        "15126",
-        "15131",
-        "15133",
-        "15135",
         "15140",
-        "15142",
-        "15145",
         "15146",
-        "15147",
         "15148",
-        "151HH",
-        "15201",
-        "15203",
-        "15204",
-        "15206",
-        "15207",
-        "15208",
-        "15210",
-        "15211",
-        "15212",
-        "15214",
-        "15215",
-        "15217",
-        "15219",
-        "15222",
-        "15223",
-        "15224",
-        "15225",
-        "15226",
-        "15229",
-        "15232",
-        "15233",
-        "15243",
-        "152HH",
         "44847"
       ]
     },
@@ -202,10 +172,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "43316",
-        "43323",
         "43359",
-        "44844",
-        "44849"
+        "44844"
       ]
     },
     {
@@ -219,7 +187,6 @@
         "43323",
         "43351",
         "43359",
-        "44844",
         "44849"
       ]
     },
@@ -231,14 +198,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44802",
         "44807",
-        "44809",
         "44828",
-        "44836",
-        "44841",
-        "44853",
-        "44861",
         "44867"
       ]
     },
@@ -250,15 +211,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44802",
         "44809",
         "44815",
-        "44828",
         "44836",
         "44841",
-        "44853",
-        "44861",
-        "44867"
+        "44861"
       ]
     },
     {
@@ -269,14 +226,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44802",
-        "44809",
         "44818",
-        "44828",
-        "44836",
-        "44841",
-        "44853",
-        "44861",
         "44867"
       ]
     },
@@ -291,9 +241,7 @@
         "44820",
         "44825",
         "44854",
-        "44856",
-        "44860",
-        "44887"
+        "44856"
       ]
     },
     {
@@ -304,11 +252,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44825",
         "44827",
-        "44854",
         "44856",
-        "44860",
         "44887"
       ]
     },
@@ -322,13 +267,9 @@
       "zipcodes": [
         "44802",
         "44809",
-        "44828",
         "44830",
-        "44836",
         "44841",
-        "44853",
-        "44861",
-        "44867"
+        "44853"
       ]
     },
     {
@@ -339,12 +280,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44825",
         "44833",
-        "44854",
-        "44856",
-        "44860",
-        "44887"
+        "44856"
       ]
     },
     {
@@ -355,16 +292,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44805",
         "44838",
-        "44840",
         "44842",
-        "44859",
-        "44864",
-        "44866",
-        "44874",
-        "44880",
-        "448HH"
+        "44864"
       ]
     },
     {
@@ -375,12 +305,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43438",
-        "434HH",
         "44814",
-        "44816",
-        "44824",
+        "44839",
         "44846"
+      ]
+    },
+    {
+      "name": "NORWALK PUBLIC LIBRARY",
+      "system": "NORWALK PUBLIC LIBRARY",
+      "address": "46 W. MAIN ST., NORWALK, OH",
+      "website": "http://norwalkpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06850",
+        "06851",
+        "06854",
+        "44826",
+        "44847",
+        "44855",
+        "44857",
+        "54648",
+        "54670"
       ]
     },
     {
@@ -392,10 +338,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "43438",
-        "434HH",
-        "44814",
-        "44816",
         "44824",
+        "44839",
         "44870"
       ]
     },
@@ -407,17 +351,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44813",
-        "44822",
-        "44843",
         "44875",
         "44878",
-        "44903",
-        "44904",
-        "44905",
-        "44906",
-        "44907",
-        "449HH"
+        "44906"
       ]
     },
     {
@@ -428,8 +364,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43323",
-        "43359",
         "44844",
         "44849",
         "44882"
@@ -443,14 +377,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44802",
         "44809",
-        "44828",
-        "44836",
-        "44841",
         "44853",
         "44861",
-        "44867",
         "44883"
       ]
     },
@@ -462,152 +391,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44826",
-        "44837",
         "44850",
         "44855",
-        "44857",
         "44865",
-        "44889",
         "44890"
-      ]
-    },
-    {
-      "name": "WOOD COUNTY DISTRICT PUBLIC LIBRARY",
-      "system": "WOOD COUNTY DISTRICT PUBLIC LIBRARY",
-      "address": "251 N. MAIN ST., BOWLING GREEN, OH",
-      "website": "https://wcdpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "43402",
-        "43406",
-        "43413",
-        "43437",
-        "43443",
-        "43447",
-        "43451",
-        "43457",
-        "43462",
-        "43465",
-        "43466",
-        "43467",
-        "43511",
-        "43522",
-        "43525",
-        "43529",
-        "43541",
-        "43565",
-        "43619",
-        "44817"
-      ]
-    },
-    {
-      "name": "BIRCHARD PUBLIC LIBRARY OF SANDUSKY COUNTY",
-      "system": "BIRCHARD PUBLIC LIBRARY OF SANDUSKY COUNTY",
-      "address": "423 CROGHAN ST., FREMONT, OH",
-      "website": "https://www.birchard.org/",
-      "formUrl": "https://www.birchard.org/ill",
-      "formStatus": "verified",
-      "zipcodes": [
-        "43407",
-        "43420",
-        "43431",
-        "43435",
-        "43442",
-        "43464",
-        "43469",
-        "44811"
-      ]
-    },
-    {
-      "name": "PEMBERVILLE PUBLIC LIBRARY",
-      "system": "PEMBERVILLE PUBLIC LIBRARY",
-      "address": "375 E. FRONT ST., PEMBERVILLE, OH",
-      "website": "https://www.pembervillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "43406",
-        "43413",
-        "43437",
-        "43443",
-        "43447",
-        "43450",
-        "43451",
-        "43457",
-        "43462",
-        "43465",
-        "43466",
-        "43467",
-        "43511",
-        "43522",
-        "43525",
-        "43529",
-        "43541",
-        "43565",
-        "43619",
-        "44817"
-      ]
-    },
-    {
-      "name": "ROSSFORD PUBLIC LIBRARY",
-      "system": "ROSSFORD PUBLIC LIBRARY",
-      "address": "720 DIXIE HIGHWAY, ROSSFORD, OH",
-      "website": "https://www.rossfordlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "43406",
-        "43413",
-        "43437",
-        "43443",
-        "43447",
-        "43451",
-        "43457",
-        "43460",
-        "43462",
-        "43465",
-        "43466",
-        "43467",
-        "43511",
-        "43522",
-        "43525",
-        "43529",
-        "43541",
-        "43565",
-        "43619",
-        "44817"
-      ]
-    },
-    {
-      "name": "WAY PUBLIC LIBRARY",
-      "system": "WAY PUBLIC LIBRARY",
-      "address": "101 E. INDIANA AVE., PERRYSBURG, OH",
-      "website": "https://www.waylibrary.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "43406",
-        "43413",
-        "43437",
-        "43443",
-        "43447",
-        "43451",
-        "43457",
-        "43462",
-        "43465",
-        "43466",
-        "43467",
-        "43511",
-        "43522",
-        "43525",
-        "43529",
-        "43541",
-        "43551",
-        "43565",
-        "43619",
-        "44817"
       ]
     },
     {
@@ -624,28 +411,6 @@
         "45840",
         "45841",
         "45867",
-        "45868",
-        "45881",
-        "45889",
-        "45890",
-        "45897"
-      ]
-    },
-    {
-      "name": "MCCOMB PUBLIC LIBRARY",
-      "system": "MCCOMB PUBLIC LIBRARY",
-      "address": "113 S. TODD ST., MCCOMB, OH",
-      "website": "https://www.mccombpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "44804",
-        "45814",
-        "45816",
-        "45841",
-        "45858",
-        "45867",
-        "45868",
         "45881",
         "45889",
         "45890",
@@ -660,24 +425,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43406",
         "43413",
         "43437",
-        "43443",
-        "43447",
-        "43451",
-        "43457",
         "43462",
-        "43465",
-        "43466",
-        "43467",
         "43511",
-        "43522",
-        "43525",
         "43529",
-        "43541",
-        "43565",
-        "43619",
         "44817",
         "45872"
       ]

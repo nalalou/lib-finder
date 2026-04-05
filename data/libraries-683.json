@@ -1,6 +1,28 @@
 {
   "libraries": [
     {
+      "name": "DAVENPORT PUBLIC LIBRARY",
+      "system": "DAVENPORT PUBLIC LIBRARY",
+      "address": "321 MAIN ST, DAVENPORT, IA",
+      "website": "http://www.davenportlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52726",
+        "52728",
+        "52767",
+        "52801",
+        "52802",
+        "52803",
+        "52804",
+        "52806",
+        "52807",
+        "68326",
+        "68335",
+        "99122"
+      ]
+    },
+    {
       "name": "AUBURN MEMORIAL LIBRARY",
       "system": "AUBURN MEMORIAL LIBRARY",
       "address": "1810 COURTHOUSE AVENUE, AUBURN, NE",
@@ -25,17 +47,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68301",
-        "68309",
         "68310",
         "68318",
         "68328",
         "68331",
         "68357",
-        "68374",
-        "68381",
-        "68415",
-        "68422",
-        "68458"
+        "68422"
       ]
     },
     {
@@ -47,12 +64,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68313",
-        "68314",
-        "68330",
-        "68360",
         "68364",
-        "68423",
-        "68439",
         "68456"
       ]
     },
@@ -67,29 +79,19 @@
         "68303",
         "68315",
         "68322",
-        "68326",
-        "68327",
-        "68335",
-        "68362",
-        "68375"
+        "68326"
       ]
     },
     {
       "name": "BYRON PUBLIC LIBRARY",
       "system": "BYRON PUBLIC LIBRARY",
       "address": "119 KANSAS AVE., BYRON, NE",
-      "website": "http://www.nlc.nebraska.gov/Scripts/Libraries/BasicLibraryData.asp?libcode=NE0041",
+      "website": "http://www.peach.public.lib.ga.us/bpl.html",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68303",
-        "68315",
         "68325",
-        "68326",
-        "68327",
-        "68335",
-        "68362",
-        "68375"
+        "68327"
       ]
     },
     {
@@ -100,11 +102,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68333",
-        "68343",
-        "68359",
-        "68445",
-        "68453"
+        "68333"
       ]
     },
     {
@@ -115,12 +113,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68338",
-        "68342",
-        "68350",
-        "68377",
-        "68424",
-        "68440"
+        "68338"
       ]
     },
     {
@@ -131,14 +124,54 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68303",
-        "68315",
-        "68326",
         "68327",
         "68335",
-        "68340",
-        "68362",
-        "68375"
+        "68340"
+      ]
+    },
+    {
+      "name": "DORCHESTER PUBLIC LIBRARY",
+      "system": "DORCHESTER PUBLIC LIBRARY",
+      "address": "6TH & WASHINGTON, DORCHESTER, NE",
+      "website": "https://www.dorchesterpubliclibrary.org/library-services/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54422",
+        "54425",
+        "68343"
+      ]
+    },
+    {
+      "name": "ELMWOOD PUBLIC LIBRARY",
+      "system": "ELMWOOD PUBLIC LIBRARY",
+      "address": "124 WEST D STREET, ELMWOOD, NE",
+      "website": "https://libraries.ne.gov/elmwood/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54740",
+        "54767",
+        "68304",
+        "68307",
+        "68347",
+        "68349",
+        "68403",
+        "68407"
+      ]
+    },
+    {
+      "name": "EXETER PUBLIC LIBRARY",
+      "system": "EXETER PUBLIC LIBRARY",
+      "address": "202 SOUTH EXETER AVENUE, EXETER, NE",
+      "website": "https://www.exeterpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02822",
+        "02892",
+        "02898",
+        "68351"
       ]
     },
     {
@@ -153,7 +186,6 @@
         "68350",
         "68352",
         "68377",
-        "68424",
         "68440"
       ]
     },
@@ -165,12 +197,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68351",
         "68354",
-        "68361",
-        "68365",
-        "68416",
-        "68444"
+        "68365"
       ]
     },
     {
@@ -182,50 +210,53 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68355",
-        "683HH",
         "68431",
         "68433",
-        "68437",
         "68457"
       ]
     },
     {
       "name": "GILBERT PUBLIC LIBRARY",
       "system": "GILBERT PUBLIC LIBRARY",
-      "address": "17 N BROADWAY, GILBERT, MN",
+      "address": "628 SECOND STREET, FRIEND, NE",
       "website": "https://libraries.ne.gov/gilbert/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "55708",
         "55741",
-        "68343",
-        "68359",
-        "68445",
-        "68453"
+        "68359"
+      ]
+    },
+    {
+      "name": "GENEVA PUBLIC LIBRARY",
+      "system": "GENEVA PUBLIC LIBRARY",
+      "address": "1043 G STREET, GENEVA, NE",
+      "website": "http://www.genevane.org/379/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "14456",
+        "14561",
+        "68361",
+        "68365",
+        "68444"
       ]
     },
     {
       "name": "GREENWOOD PUBLIC LIBRARY",
       "system": "GREENWOOD PUBLIC LIBRARY",
-      "address": "310 SOUTH MERIDIAN, GREENWOOD, IN",
-      "website": "https://greenwoodne.gov/departments/library/",
+      "address": "619 MAIN STREET, GREENWOOD, NE",
+      "website": "http://www.greenwoodlibrary.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46106",
+        "46142",
         "46143",
-        "68016",
-        "68058",
+        "46184",
         "68304",
-        "68307",
-        "68347",
-        "68349",
-        "68366",
-        "68403",
-        "68407",
-        "68409",
-        "68413",
-        "68455",
-        "684HH"
+        "68366"
       ]
     },
     {
@@ -236,11 +267,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68303",
         "68315",
         "68326",
-        "68327",
-        "68335",
         "68362",
         "68370",
         "68375"
@@ -254,12 +282,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68376",
-        "683HH",
-        "68431",
-        "68433",
-        "68437",
-        "68457"
+        "68376"
       ]
     },
     {
@@ -271,10 +294,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68341",
-        "68343",
-        "68359",
-        "68445",
-        "68453"
+        "68445"
       ]
     },
     {
@@ -286,10 +306,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68337",
-        "683HH",
-        "68431",
         "68433",
-        "68437",
         "68457"
       ]
     },
@@ -344,14 +361,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68314",
-        "68330",
-        "68360",
         "68364",
         "68405",
-        "68423",
-        "68439",
-        "68456"
+        "68423"
       ]
     },
     {
@@ -362,12 +374,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68324",
-        "68344",
         "68346",
-        "68410",
-        "68417",
-        "68448"
+        "68410"
       ]
     },
     {
@@ -378,12 +386,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68324",
         "68344",
-        "68346",
-        "68417",
-        "68418",
-        "68448"
+        "68418"
       ]
     },
     {
@@ -410,29 +414,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68314",
-        "68330",
         "68360",
         "68364",
-        "68423",
         "68434",
-        "68439",
-        "68456"
-      ]
-    },
-    {
-      "name": "VIRGIL BIEGERT PUBLIC LIBRARY",
-      "system": "VIRGIL BIEGERT PUBLIC LIBRARY",
-      "address": "214 NORTH MARKET STREET, SHICKLEY, NE",
-      "website": "https://librarytechnology.org/library/21278",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68351",
-        "68361",
-        "68365",
-        "68416",
-        "68436",
-        "68444"
+        "68439"
       ]
     },
     {
@@ -444,26 +429,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68324",
-        "68344",
         "68346",
         "68417",
         "68446",
         "68448"
-      ]
-    },
-    {
-      "name": "TABLE ROCK PUBLIC LIBRARY",
-      "system": "TABLE ROCK PUBLIC LIBRARY",
-      "address": "511 LUZERNE STREET, TABLE ROCK, NE",
-      "website": "https://librarytechnology.org/library/21294",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68323",
-        "68345",
-        "68380",
-        "68441",
-        "68447"
       ]
     },
     {
@@ -475,9 +444,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68329",
-        "68332",
         "68348",
-        "68443",
         "68450"
       ]
     },
@@ -489,35 +456,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68016",
-        "68058",
-        "68304",
+        "68037",
         "68307",
-        "68347",
-        "68349",
-        "68366",
         "68403",
         "68407",
-        "68409",
         "68413",
         "68455",
-        "68463",
-        "684HH"
-      ]
-    },
-    {
-      "name": "DVORACEK MEMORIAL LIBRARY",
-      "system": "DVORACEK MEMORIAL LIBRARY",
-      "address": "419 WEST THIRD STREET, WILBER, NE",
-      "website": "https://dvoracekmemoriallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68343",
-        "68359",
-        "68445",
-        "68453",
-        "68465"
+        "68463"
       ]
     },
     {
@@ -528,16 +473,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68301",
         "68309",
         "68318",
-        "68328",
-        "68331",
-        "68357",
-        "68374",
         "68381",
         "68415",
-        "68422",
         "68458",
         "68466"
       ]
@@ -560,65 +499,50 @@
       ]
     },
     {
-      "name": "STRUCKMAN-BAATZ MEMORIAL LIBRARY",
-      "system": "STRUCKMAN-BAATZ MEMORIAL LIBRARY",
-      "address": "106 SOUTH WEST AVENUE, WESTERN, NE",
-      "website": "https://librarytechnology.org/library/21326",
+      "name": "PLYMOUTH PUBLIC LIBRARY",
+      "system": "PLYMOUTH PUBLIC LIBRARY",
+      "address": "103 NORTH JEFFERSON AVENUE, PLYMOUTH, NE",
+      "website": "https://plymouthpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68343",
-        "68359",
-        "68445",
-        "68453",
-        "68464"
-      ]
-    },
-    {
-      "name": "MILLIGAN PUBLIC LIBRARY",
-      "system": "MILLIGAN PUBLIC LIBRARY",
-      "address": "507 MAIN STREET, MILLIGAN, NE",
-      "website": "https://www.milligannebraska.org/milligan-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68351",
-        "68361",
-        "68365",
-        "68406",
-        "68416",
-        "68444"
-      ]
-    },
-    {
-      "name": "STELLA COMMUNITY LIBRARY",
-      "system": "STELLA COMMUNITY LIBRARY",
-      "address": "222 N. MAIN ST., STELLA, NE",
-      "website": "https://librarytechnology.org/library/21367",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "683HH",
-        "68431",
-        "68433",
-        "68437",
-        "68442",
-        "68457"
+        "02360",
+        "02366",
+        "18617",
+        "18618",
+        "18621",
+        "18651",
+        "18706",
+        "18708",
+        "46537",
+        "46563",
+        "53011",
+        "53023",
+        "53073",
+        "53093",
+        "68377",
+        "68424"
       ]
     },
     {
       "name": "STERLING PUBLIC LIBRARY",
       "system": "STERLING PUBLIC LIBRARY",
-      "address": "1183 PLAINFIELD PIKE, ONECO, CT",
+      "address": "150 BROADWAY STREET, STERLING, NE",
       "website": "https://www.sterlingct.gov/184/Public-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "06373",
-        "68329",
+        "06374",
+        "06377",
+        "61037",
+        "61081",
         "68332",
-        "68348",
-        "68443"
+        "68443",
+        "80722",
+        "80741",
+        "80745",
+        "80751"
       ]
     },
     {
@@ -630,35 +554,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68324",
-        "68344",
-        "68346",
         "68417",
-        "68448",
         "68454"
-      ]
-    },
-    {
-      "name": "PLATTSMOUTH PUBLIC LIBRARY",
-      "system": "PLATTSMOUTH PUBLIC LIBRARY",
-      "address": "401 AVENUE A, PLATTSMOUTH, NE",
-      "website": "https://www.plattsmouthnebraska.com/18-community-pages/community/63-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68016",
-        "68048",
-        "68058",
-        "68304",
-        "68307",
-        "68347",
-        "68349",
-        "68366",
-        "68403",
-        "68407",
-        "68409",
-        "68413",
-        "68455",
-        "684HH"
       ]
     }
   ]

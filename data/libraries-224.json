@@ -1,29 +1,18 @@
 {
   "libraries": [
     {
-      "name": "RICHMOND PUBLIC LIBRARY",
-      "system": "RICHMOND PUBLIC LIBRARY",
-      "address": "101 EAST FRANKLIN STREET, RICHMOND, VA",
-      "website": "https://rvalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "22460",
-        "22548",
-        "23219"
-      ]
-    },
-    {
       "name": "NORTHUMBERLAND PUBLIC LIBRARY",
       "system": "NORTHUMBERLAND PUBLIC LIBRARY",
-      "address": "7204 NORTHUMBERLAND HIGHWAY, HEATHSVILLE, VA",
+      "address": "31 STATE STREET, GROVETON, NH",
       "website": "https://www.chamberofcommerce.com/united-states/new-hampshire/groveton/public-library/12025245-northumberland-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "03582",
         "22432",
         "22435",
         "22473",
+        "22488",
         "22511",
         "22539",
         "22579"
@@ -37,7 +26,14 @@
       "formUrl": "https://www.librarypoint.org/cant-find-it/",
       "formStatus": "verified",
       "zipcodes": [
-        "22408"
+        "22401",
+        "22405",
+        "22406",
+        "22407",
+        "22408",
+        "22534",
+        "22553",
+        "22554"
       ]
     },
     {
@@ -51,7 +47,6 @@
         "22480",
         "22482",
         "22503",
-        "22507",
         "22576",
         "22578"
       ]
@@ -64,6 +59,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "22443",
         "22448",
         "22485"
       ]
@@ -71,7 +67,7 @@
     {
       "name": "ORANGE COUNTY PUBLIC LIBRARY",
       "system": "ORANGE COUNTY PUBLIC LIBRARY",
-      "address": "146A MADISON ROAD, ORANGE, VA",
+      "address": "137 W MARGARET LN, HILLSBOROUGH, NC",
       "website": "https://www.orangecountync.gov/3009/Library",
       "formUrl": null,
       "formStatus": "unknown",
@@ -82,9 +78,12 @@
         "22567",
         "22923",
         "22942",
-        "22957",
         "22960",
-        "22972"
+        "22972",
+        "23117",
+        "27231",
+        "27243",
+        "27278"
       ]
     },
     {
@@ -96,14 +95,13 @@
       "formStatus": "verified",
       "zipcodes": [
         "22427",
-        "224XX",
         "22514",
         "22535",
         "22538",
         "22546",
         "22580",
-        "225HH",
-        "225XX"
+        "23024",
+        "23126"
       ]
     },
     {
@@ -119,10 +117,13 @@
         "22438",
         "22454",
         "22476",
-        "224HH",
         "22504",
         "22509",
-        "22560"
+        "22560",
+        "23023",
+        "23115",
+        "23148",
+        "23177"
       ]
     },
     {
@@ -134,6 +135,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "22460",
+        "22469",
+        "22520",
+        "22529",
         "22548",
         "22572"
       ]

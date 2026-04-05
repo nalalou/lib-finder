@@ -3,12 +3,17 @@
     {
       "name": "MOUNT PLEASANT PUBLIC LIBRARY",
       "system": "MOUNT PLEASANT PUBLIC LIBRARY",
-      "address": "307 E MONROE SUITE 101, MOUNT PLEASANT, IA",
+      "address": "601 N MADISON AVE, MT PLEASANT, TX",
       "website": "https://www.mountpleasantlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "10532",
+        "10570",
+        "10594",
+        "10595",
         "52641",
+        "52644",
         "75455",
         "75487",
         "75493",
@@ -34,20 +39,20 @@
     {
       "name": "TEXARKANA PUBLIC LIBRARY",
       "system": "TEXARKANA PUBLIC LIBRARY",
-      "address": "600 W 3RD ST, TEXARKANA, TX",
+      "address": "600 W. 3RD ST., TEXARKANA, AR",
       "website": "https://library.arkansas.gov/facilities/texarkana-public-library-hq/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "71822",
+        "71834",
+        "71837",
+        "71853",
+        "71854",
+        "71865",
         "75501",
         "75503",
-        "75559",
-        "75561",
-        "75569",
-        "75573",
-        "75574",
-        "755HH",
-        "755XX"
+        "75569"
       ]
     },
     {
@@ -61,11 +66,7 @@
         "75551",
         "75555",
         "75556",
-        "75560",
-        "75562",
-        "75563",
         "75565",
-        "75566",
         "75572"
       ]
     },
@@ -77,15 +78,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75503",
         "75559",
         "75561",
-        "75569",
-        "75570",
-        "75573",
-        "75574",
-        "755HH",
-        "755XX"
+        "75570"
       ]
     },
     {
@@ -96,34 +91,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75503",
-        "75559",
-        "75561",
         "75567",
-        "75569",
         "75573",
-        "75574",
-        "755HH",
-        "755XX"
+        "75574"
       ]
     },
     {
       "name": "LINDEN PUBLIC LIBRARY",
       "system": "LINDEN PUBLIC LIBRARY",
-      "address": "131 S MAIN ST, LINDEN, IA",
+      "address": "220 S MAIN ST, LINDEN, TX",
       "website": "http://www.lindenpl.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "50146",
-        "75555",
-        "75556",
         "75560",
         "75562",
         "75563",
-        "75565",
-        "75566",
-        "75572"
+        "75566"
       ]
     },
     {
@@ -136,41 +121,8 @@
       "zipcodes": [
         "75568",
         "75571",
-        "75636",
         "75638",
         "75668"
-      ]
-    },
-    {
-      "name": "JEFFERSON CARNEGIE LIBRARY",
-      "system": "JEFFERSON CARNEGIE LIBRARY",
-      "address": "301 W LAFAYETTE ST, JEFFERSON, TX",
-      "website": "http://www.jeffersoncarnegielibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75564",
-        "75630",
-        "75657"
-      ]
-    },
-    {
-      "name": "HUGHES SPRINGS AREA PUBLIC LIBRARY",
-      "system": "HUGHES SPRINGS AREA PUBLIC LIBRARY",
-      "address": "215 E FIRST ST, HUGHES SPRINGS, TX",
-      "website": "https://hsalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75555",
-        "75556",
-        "75560",
-        "75562",
-        "75563",
-        "75565",
-        "75566",
-        "75572",
-        "75656"
       ]
     }
   ]

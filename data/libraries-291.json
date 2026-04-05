@@ -1,35 +1,6 @@
 {
   "libraries": [
     {
-      "name": "RICHLAND COUNTY PUBLIC LIBRARY",
-      "system": "RICHLAND COUNTY PUBLIC LIBRARY",
-      "address": "1431 ASSEMBLY STREET, COLUMBIA, SC",
-      "website": "http://www.richlandlibrary.com/",
-      "formUrl": "https://www.richlandlibrary.com/user/login?destination=/services/suggest-title",
-      "formStatus": "verified",
-      "zipcodes": [
-        "29016",
-        "29044",
-        "29052",
-        "29061",
-        "29063",
-        "290XX",
-        "29177",
-        "29201",
-        "29202",
-        "29203",
-        "29204",
-        "29205",
-        "29206",
-        "29207",
-        "29209",
-        "29210",
-        "29223",
-        "29229",
-        "292XX"
-      ]
-    },
-    {
       "name": "ABBE REGIONAL LIBRARY SYSTEM",
       "system": "ABBE REGIONAL LIBRARY SYSTEM",
       "address": "314 CHESTERFIELD STREET SW, AIKEN, SC",
@@ -38,7 +9,6 @@
       "formStatus": "verified",
       "zipcodes": [
         "29105",
-        "29124",
         "29129",
         "29137",
         "29164",
@@ -47,18 +17,19 @@
         "29805",
         "29809",
         "29816",
-        "29822",
+        "29826",
         "29828",
         "29829",
         "29831",
         "29834",
         "29841",
         "29842",
+        "29847",
         "29850",
         "29851",
+        "29853",
         "29856",
-        "298HH",
-        "298XX"
+        "29860"
       ]
     },
     {
@@ -91,10 +62,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "29101",
-        "291HH",
         "29520",
         "29584",
-        "295HH",
         "29709",
         "29718",
         "29727",
@@ -140,8 +109,7 @@
         "29169",
         "29170",
         "29172",
-        "29212",
-        "292HH"
+        "29212"
       ]
     },
     {
@@ -153,9 +121,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "29030",
-        "290HH",
-        "29135",
-        "291XX"
+        "29135"
       ]
     },
     {
@@ -184,7 +150,6 @@
         "29015",
         "29065",
         "29130",
-        "29132",
         "29180"
       ]
     },
@@ -196,6 +161,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "29003",
         "29018",
         "29038",
         "29039",
@@ -263,7 +229,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "29138",
-        "29166"
+        "29166",
+        "29824",
+        "29832"
       ]
     }
   ]

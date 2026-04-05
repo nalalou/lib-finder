@@ -1,66 +1,15 @@
 {
   "libraries": [
     {
-      "name": "FENNVILLE DISTRICT LIBRARY",
-      "system": "FENNVILLE DISTRICT LIBRARY",
-      "address": "400 WEST MAIN STREET, FENNVILLE, MI",
-      "website": "https://www.fennvilledl.michlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "490HH",
-        "49344",
-        "493HH",
-        "49408",
-        "49419",
-        "49450",
-        "49453",
-        "494HH"
-      ]
-    },
-    {
-      "name": "SAUGATUCK-DOUGLAS DISTRICT LIBRARY",
-      "system": "SAUGATUCK-DOUGLAS DISTRICT LIBRARY",
-      "address": "174 CENTER ST., DOUGLAS, MI",
-      "website": "https://www.sdlibrary.org/",
-      "formUrl": "https://www.sdlibrary.org/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "490HH",
-        "49344",
-        "493HH",
-        "49406",
-        "49419",
-        "49450",
-        "49453",
-        "494HH"
-      ]
-    },
-    {
       "name": "COLOMA PUBLIC LIBRARY",
       "system": "COLOMA PUBLIC LIBRARY",
-      "address": "151 WEST CENTER STREET, COLOMA, MI",
+      "address": "155 S. FRONT ST., COLOMA, WI",
       "website": "https://colomapubliclibrary.net/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "49038",
-        "54930",
-        "54966",
-        "54976"
-      ]
-    },
-    {
-      "name": "POTTERVILLE-BENTON TOWNSHIP DISTRICT LIBRARY",
-      "system": "POTTERVILLE-BENTON TOWNSHIP DISTRICT LIBRARY",
-      "address": "150 LIBRARY LANE, POTTERVILLE, MI",
-      "website": "https://www.pottervillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48876",
-        "489HH",
-        "49076"
+        "54930"
       ]
     },
     {
@@ -72,97 +21,19 @@
       "formStatus": "unknown",
       "zipcodes": [
         "48813",
-        "489HH",
         "49076"
-      ]
-    },
-    {
-      "name": "EATON RAPIDS AREA DISTRICT LIBRARY",
-      "system": "EATON RAPIDS AREA DISTRICT LIBRARY",
-      "address": "220 SOUTH MAIN STREET, EATON RAPIDS, MI",
-      "website": "https://eradl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48827",
-        "489HH",
-        "49076"
-      ]
-    },
-    {
-      "name": "GRAND LEDGE AREA DISTRICT LIBRARY",
-      "system": "GRAND LEDGE AREA DISTRICT LIBRARY",
-      "address": "131 EAST JEFFERSON STREET, GRAND LEDGE, MI",
-      "website": "https://gladl.org/",
-      "formUrl": "https://gladl.org/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "48837",
-        "489HH",
-        "49076"
-      ]
-    },
-    {
-      "name": "MULLIKEN DISTRICT LIBRARY",
-      "system": "MULLIKEN DISTRICT LIBRARY",
-      "address": "135 MAIN STREET, MULLIKEN, MI",
-      "website": "http://www.mullikendistrictlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48861",
-        "489HH",
-        "49076"
-      ]
-    },
-    {
-      "name": "SUNFIELD DISTRICT LIBRARY",
-      "system": "SUNFIELD DISTRICT LIBRARY",
-      "address": "112 MAIN STREET, SUNFIELD, MI",
-      "website": "https://www.sunfieldlibrary.michlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48890",
-        "489HH",
-        "49076"
-      ]
-    },
-    {
-      "name": "DOROTHY HULL LIBRARY - WINDSOR TOWNSHIP",
-      "system": "DOROTHY HULL LIBRARY - WINDSOR TOWNSHIP",
-      "address": "405 WEST JEFFERSON STREET, DIMONDALE, MI",
-      "website": "https://windsortownship.com/dorothy-hull-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48821",
-        "489HH",
-        "49076"
-      ]
-    },
-    {
-      "name": "GEORGE W. SPINDLER MEMORIAL LIBRARY",
-      "system": "GEORGE W. SPINDLER MEMORIAL LIBRARY",
-      "address": "186 NORTH MAIN STREET, WOODLAND, MI",
-      "website": "https://www.spindler.michlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48897",
-        "49050",
-        "49060"
       ]
     },
     {
       "name": "LAWTON PUBLIC LIBRARY",
       "system": "LAWTON PUBLIC LIBRARY",
-      "address": "125 SOUTH MAIN STREET, LAWTON, MI",
+      "address": "110 S W 4TH ST, LAWTON, OK",
       "website": "https://www.lawtonok.gov/departments/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "49065",
+        "49071",
         "73501",
         "73503",
         "73505",
@@ -170,236 +41,44 @@
         "73527",
         "73528",
         "73540",
-        "73541",
         "73543",
         "73552",
-        "73557",
-        "73567",
-        "735HH"
-      ]
-    },
-    {
-      "name": "HASTINGS PUBLIC LIBRARY",
-      "system": "HASTINGS PUBLIC LIBRARY",
-      "address": "227 EAST STATE STREET, HASTINGS, MI",
-      "website": "https://www.hastingspubliclibrary.org/",
-      "formUrl": "https://www.hastingspubliclibrary.org/how-do-i/request-items",
-      "formStatus": "verified",
-      "zipcodes": [
-        "15760",
-        "15762",
-        "15773",
-        "15775",
-        "15902",
-        "15905",
-        "15906",
-        "15909",
-        "15925",
-        "15927",
-        "15930",
-        "15934",
-        "15940",
-        "15942",
-        "15946",
-        "15948",
-        "15952",
-        "15955",
-        "15958",
-        "159HH",
-        "16613",
-        "16619",
-        "16624",
-        "16636",
-        "16639",
-        "16640",
-        "16646",
-        "49058"
-      ]
-    },
-    {
-      "name": "ALBION DISTRICT LIBRARY",
-      "system": "ALBION DISTRICT LIBRARY",
-      "address": "501 SOUTH SUPERIOR STREET, ALBION, MI",
-      "website": "https://www.albionlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49014",
-        "49015",
-        "49016",
-        "49033",
-        "49051",
-        "49224",
-        "492HH"
-      ]
-    },
-    {
-      "name": "DORR TOWNSHIP LIBRARY",
-      "system": "DORR TOWNSHIP LIBRARY",
-      "address": "1804 SUNSET DRIVE, DORR, MI",
-      "website": "https://www.dorrlibrary.michlibrary.org/",
-      "formUrl": "https://www.dorrlibrary.michlibrary.org/how-do-i/renew-reserve-or-request-an-item-1",
-      "formStatus": "verified",
-      "zipcodes": [
-        "490HH",
-        "49323",
-        "49344",
-        "493HH",
-        "49419",
-        "49450",
-        "49453",
-        "494HH"
-      ]
-    },
-    {
-      "name": "FREEPORT DISTRICT LIBRARY",
-      "system": "FREEPORT DISTRICT LIBRARY",
-      "address": "208 SOUTH STATE STREET, FREEPORT, MI",
-      "website": "https://www.freeportdl.michlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49050",
-        "49060",
-        "49325"
-      ]
-    },
-    {
-      "name": "HENIKA DISTRICT LIBRARY",
-      "system": "HENIKA DISTRICT LIBRARY",
-      "address": "149 SOUTH MAIN STREET, WAYLAND, MI",
-      "website": "https://www.henikalibrary.org/",
-      "formUrl": "https://www.henikalibrary.org/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "490HH",
-        "49344",
-        "49348",
-        "493HH",
-        "49419",
-        "49450",
-        "49453",
-        "494HH"
-      ]
-    },
-    {
-      "name": "HOPKINS DISTRICT LIBRARY",
-      "system": "HOPKINS DISTRICT LIBRARY",
-      "address": "118 EAST MAIN STREET, HOPKINS, MI",
-      "website": "https://www.hopkinspl.michlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "490HH",
-        "49328",
-        "49344",
-        "493HH",
-        "49419",
-        "49450",
-        "49453",
-        "494HH"
-      ]
-    },
-    {
-      "name": "THORNAPPLE KELLOGG SCHOOL AND COMMUNITY LIBRARY",
-      "system": "THORNAPPLE KELLOGG SCHOOL AND COMMUNITY LIBRARY",
-      "address": "3885 BENDER ROAD, MIDDLEVILLE, MI",
-      "website": "https://www.tkschools.org/apps/pages/index.jsp?uREC_ID=314357&type=d&pREC_ID=720428",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49050",
-        "49060",
-        "49333"
-      ]
-    },
-    {
-      "name": "LEIGHTON TOWNSHIP LIBRARY",
-      "system": "LEIGHTON TOWNSHIP LIBRARY",
-      "address": "4451 12TH STREET, WAYLNAD, MI",
-      "website": "https://www.leightonlibrary.org/",
-      "formUrl": "https://www.leightonlibrary.org/how-do-i/make-a-purchase-request",
-      "formStatus": "verified",
-      "zipcodes": [
-        "490HH",
-        "49335",
-        "49344",
-        "493HH",
-        "49419",
-        "49450",
-        "49453",
-        "494HH"
-      ]
-    },
-    {
-      "name": "SALEM TOWNSHIP LIBRARY",
-      "system": "SALEM TOWNSHIP LIBRARY",
-      "address": "3007 142ND AVENUE, BURNIPS, MI",
-      "website": "https://salemtownshiplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "490HH",
-        "49314",
-        "49344",
-        "493HH",
-        "49419",
-        "49450",
-        "49453",
-        "494HH"
+        "73557"
       ]
     },
     {
       "name": "HARTFORD PUBLIC LIBRARY",
       "system": "HARTFORD PUBLIC LIBRARY",
-      "address": "12 CHURCH STREET, HARTFORD, MI",
+      "address": "500 MAIN ST., HARTFORD, CT",
       "website": "http://www.hplct.org/",
       "formUrl": "https://www.hplct.org/using-your-library/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
+        "06103",
+        "06105",
+        "06106",
+        "06110",
+        "06112",
+        "06114",
+        "06117",
+        "06118",
+        "06119",
+        "06120",
         "49013",
-        "49026",
-        "49027",
         "49043",
-        "49055",
-        "49056",
         "49057",
-        "49064",
-        "49071"
-      ]
-    },
-    {
-      "name": "DELTA TOWNSHIP DISTRICT LIBRARY",
-      "system": "DELTA TOWNSHIP DISTRICT LIBRARY",
-      "address": "5130 DAVENPORT DRIVE, LANSING, MI",
-      "website": "https://www.dtdl.org/",
-      "formUrl": "https://www.dtdl.org/collections/request_materials.php",
-      "formStatus": "verified",
-      "zipcodes": [
-        "48917",
-        "489HH",
-        "49076"
+        "49064"
       ]
     },
     {
       "name": "RICHLAND COMMUNITY LIBRARY",
       "system": "RICHLAND COMMUNITY LIBRARY",
-      "address": "8951 PARK STREET, RICHLAND, MI",
+      "address": "111 EAST MAIN STREET, RICHLAND, PA",
       "website": "https://www.richlandlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "17010",
-        "17016",
-        "17026",
-        "17038",
-        "17041",
-        "17042",
-        "17064",
         "17073",
-        "17077",
-        "17078",
-        "17083",
         "17087",
         "17088",
         "49083"
@@ -414,12 +93,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49011",
-        "49014",
-        "49015",
-        "49016",
-        "49033",
-        "49051",
-        "492HH"
+        "49051"
       ]
     },
     {
@@ -430,25 +104,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49001",
-        "49006",
-        "49008",
-        "49009",
         "49012",
-        "49024",
-        "49052",
-        "49088"
+        "49083"
       ]
     },
     {
       "name": "BELLEVUE TOWNSHIP LIBRARY",
       "system": "BELLEVUE TOWNSHIP LIBRARY",
       "address": "212 NORTH MAIN STREET, BELLEVUE, MI",
-      "website": "https://bellevuetownship.org/library/",
+      "website": "http://www.bellevuemi.net/Community/library.aspx",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "489HH",
         "49021",
         "49076"
       ]
@@ -462,14 +129,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49022",
-        "49101",
-        "49102",
-        "49115",
-        "49116",
-        "49119",
-        "49125",
-        "49129",
-        "491HH"
+        "49038"
       ]
     },
     {
@@ -496,13 +156,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49014",
-        "49015",
-        "49016",
         "49029",
         "49033",
-        "49051",
-        "492HH"
+        "49051"
       ]
     },
     {
@@ -513,16 +169,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49030",
-        "49066",
-        "49075"
+        "49030"
       ]
     },
     {
       "name": "CASS DISTRICT LIBRARY",
       "system": "CASS DISTRICT LIBRARY",
       "address": "319 M-62 NORTH, CASSOPOLIS, MI",
-      "website": "https://www.cassdistrictlibrary.org/",
+      "website": "http://cass.lib.mi.us/index.php",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -541,14 +195,7 @@
       "formUrl": "https://www.ransomlibrary.org/services/request-an-item/",
       "formStatus": "verified",
       "zipcodes": [
-        "49080",
-        "490HH",
-        "49344",
-        "493HH",
-        "49419",
-        "49450",
-        "49453",
-        "494HH"
+        "49080"
       ]
     },
     {
@@ -574,12 +221,7 @@
       "zipcodes": [
         "49001",
         "49006",
-        "49008",
-        "49009",
-        "49024",
-        "49041",
-        "49052",
-        "49088"
+        "49041"
       ]
     },
     {
@@ -590,9 +232,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49042",
-        "49066",
-        "49075"
+        "49042"
       ]
     },
     {
@@ -616,18 +256,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49047",
-        "49061",
-        "49095",
-        "49112",
-        "49130"
+        "49047"
       ]
     },
     {
       "name": "DOWLING PUBLIC LIBRARY",
       "system": "DOWLING PUBLIC LIBRARY",
       "address": "1765 EAST DOWLING ROAD, HASTINGS, MI",
-      "website": "https://www.countyoffice.org/dowling-public-library-hastings-mi-350/",
+      "website": "http://www.dowlingpubliclibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -644,13 +280,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49001",
-        "49006",
-        "49008",
-        "49009",
-        "49024",
-        "49052",
         "49053",
+        "49083",
         "49088"
       ]
     },
@@ -663,13 +294,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "49070",
-        "490HH",
-        "49344",
-        "493HH",
-        "49419",
-        "49450",
-        "49453",
-        "494HH"
+        "49344"
       ]
     },
     {
@@ -685,9 +310,7 @@
         "49007",
         "49008",
         "49009",
-        "49024",
-        "49052",
-        "49088"
+        "49024"
       ]
     },
     {
@@ -698,11 +321,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49001",
-        "49006",
-        "49008",
-        "49009",
-        "49024",
         "49034",
         "49052",
         "49088"
@@ -716,11 +334,8 @@
       "formUrl": "https://mel.org/welcome",
       "formStatus": "verified",
       "zipcodes": [
-        "49061",
         "49067",
-        "49095",
-        "49112",
-        "49130"
+        "49095"
       ]
     },
     {
@@ -732,12 +347,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49014",
-        "49015",
-        "49016",
         "49033",
-        "49051",
-        "49068",
-        "492HH"
+        "49068"
       ]
     },
     {
@@ -748,15 +359,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49085",
-        "49101",
-        "49102",
-        "49115",
-        "49116",
-        "49119",
-        "49125",
-        "49129",
-        "491HH"
+        "49085"
       ]
     },
     {
@@ -781,7 +384,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49032",
-        "49066",
         "49075"
       ]
     },
@@ -793,14 +395,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49078",
-        "490HH",
-        "49344",
-        "493HH",
-        "49419",
-        "49450",
-        "49453",
-        "494HH"
+        "49078"
       ]
     },
     {
@@ -815,10 +410,7 @@
         "49004",
         "49006",
         "49008",
-        "49009",
-        "49024",
-        "49052",
-        "49088"
+        "49009"
       ]
     },
     {
@@ -829,13 +421,10 @@
       "formUrl": "https://www.pawpawlib.org/request-material/",
       "formStatus": "verified",
       "zipcodes": [
-        "49013",
         "49026",
-        "49027",
-        "49043",
         "49055",
-        "49056",
         "49064",
+        "49065",
         "49071",
         "49079"
       ]
@@ -844,18 +433,14 @@
       "name": "PORTAGE DISTRICT LIBRARY",
       "system": "PORTAGE DISTRICT LIBRARY",
       "address": "300 LIBRARY LANE, PORTAGE, MI",
-      "website": "https://www.portagelibrary.info/",
-      "formUrl": "https://www.portagelibrary.info/request-materials/",
-      "formStatus": "verified",
+      "website": "http://www.pdl.lib.mi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
-        "49001",
         "49002",
-        "49006",
         "49008",
         "49009",
-        "49024",
-        "49052",
-        "49088"
+        "49024"
       ]
     },
     {
@@ -866,8 +451,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49050",
-        "49060",
         "49073"
       ]
     },
@@ -879,14 +462,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49001",
-        "49006",
-        "49008",
-        "49009",
         "49024",
-        "49052",
-        "49087",
-        "49088"
+        "49087"
       ]
     },
     {
@@ -897,14 +474,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49013",
-        "49026",
         "49027",
         "49043",
-        "49055",
         "49056",
-        "49064",
-        "49071",
         "49090"
       ]
     },
@@ -916,8 +488,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49066",
-        "49075",
         "49091"
       ]
     },
@@ -929,13 +499,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49014",
-        "49015",
-        "49016",
-        "49033",
-        "49051",
         "49092",
-        "492HH"
+        "49245"
       ]
     },
     {
@@ -946,8 +511,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49066",
-        "49075",
         "49093"
       ]
     },
@@ -959,15 +522,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49013",
-        "49026",
-        "49027",
-        "49043",
         "49045",
-        "49055",
-        "49056",
         "49064",
-        "49071"
+        "49065"
       ]
     },
     {
@@ -978,8 +535,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "489HH",
-        "49076",
         "49096"
       ]
     },
@@ -991,12 +546,6 @@
       "formUrl": "https://mel.org/welcome",
       "formStatus": "verified",
       "zipcodes": [
-        "49001",
-        "49006",
-        "49008",
-        "49009",
-        "49024",
-        "49052",
         "49088",
         "49097"
       ]
@@ -1009,15 +558,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49098",
-        "49101",
-        "49102",
-        "49115",
-        "49116",
-        "49119",
-        "49125",
-        "49129",
-        "491HH"
+        "49038",
+        "49098"
       ]
     },
     {
@@ -1028,8 +570,6 @@
       "formUrl": "https://mel.org/welcome",
       "formStatus": "verified",
       "zipcodes": [
-        "49066",
-        "49075",
         "49099"
       ]
     },
@@ -1043,11 +583,9 @@
       "zipcodes": [
         "49014",
         "49015",
-        "49016",
         "49017",
         "49033",
-        "49051",
-        "492HH"
+        "49051"
       ]
     },
     {
@@ -1058,14 +596,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49010",
-        "490HH",
-        "49344",
-        "493HH",
-        "49419",
-        "49450",
-        "49453",
-        "494HH"
+        "49010"
       ]
     }
   ]

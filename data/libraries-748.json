@@ -1,6 +1,21 @@
 {
   "libraries": [
     {
+      "name": "HENRYETTA PUBLIC LIBRARY",
+      "system": "HENRYETTA PUBLIC LIBRARY",
+      "address": "518 W. MAIN, HENRYETTA, OK",
+      "website": "http://www.henryettalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74431",
+        "74432",
+        "74437",
+        "74460",
+        "74845"
+      ]
+    },
+    {
       "name": "ADA PUBLIC LIBRARY",
       "system": "ADA PUBLIC LIBRARY",
       "address": "124 S. RENNIE, ADA, OK",
@@ -8,13 +23,44 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "74530",
+        "74535",
         "74820",
-        "74825",
+        "74836",
         "74842",
         "74843",
         "74844",
         "74865",
         "74871"
+      ]
+    },
+    {
+      "name": "CHANDLER PUBLIC LIBRARY",
+      "system": "CHANDLER PUBLIC LIBRARY",
+      "address": "1021 S MANVEL, CHANDLER, OK",
+      "website": "https://chandlerlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74026",
+        "74834",
+        "74869",
+        "74881",
+        "75756",
+        "75758",
+        "85202",
+        "85204",
+        "85206",
+        "85210",
+        "85212",
+        "85224",
+        "85225",
+        "85233",
+        "85234",
+        "85249",
+        "85283",
+        "85284",
+        "85296"
       ]
     },
     {
@@ -28,10 +74,7 @@
         "74531",
         "74570",
         "74827",
-        "74839",
-        "74848",
-        "74850",
-        "748HH"
+        "74848"
       ]
     },
     {
@@ -42,9 +85,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74830",
-        "74837",
+        "74826",
         "74849",
+        "74852",
         "74867"
       ]
     },
@@ -56,13 +99,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74026",
-        "74824",
-        "74832",
-        "74834",
         "74864",
-        "74869",
-        "74881"
+        "74869"
       ]
     },
     {
@@ -74,9 +112,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "74830",
-        "74837",
-        "74867",
-        "74868"
+        "74840",
+        "74854",
+        "74868",
+        "74873"
       ]
     },
     {
@@ -87,11 +126,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73074",
-        "73433",
-        "73434",
-        "73444",
-        "74872"
+        "74831",
+        "74872",
+        "74878"
       ]
     },
     {
@@ -102,13 +139,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74531",
-        "74570",
-        "74827",
         "74839",
         "74850",
-        "74883",
-        "748HH"
+        "74883"
       ]
     },
     {
@@ -121,7 +154,6 @@
       "zipcodes": [
         "74830",
         "74837",
-        "74867",
         "74884"
       ]
     },
@@ -148,13 +180,36 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74026",
         "74824",
         "74832",
-        "74834",
-        "74869",
-        "74875",
-        "74881"
+        "74875"
+      ]
+    },
+    {
+      "name": "ALLEN PUBLIC LIBRARY",
+      "system": "ALLEN PUBLIC LIBRARY",
+      "address": "214 EAST BROADWAY, ALLEN, OK",
+      "website": "https://www.allenlibrary.org/",
+      "formUrl": "https://www.allenlibrary.org/resources/request_an_interlibrary_loan.php",
+      "formStatus": "verified",
+      "zipcodes": [
+        "74534",
+        "74538",
+        "74556",
+        "74572",
+        "74825",
+        "74844",
+        "75002",
+        "75013",
+        "75023",
+        "75024",
+        "75025",
+        "75035",
+        "75070",
+        "75074",
+        "75082",
+        "75093",
+        "75094"
       ]
     },
     {
@@ -165,30 +220,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74026",
-        "74824",
-        "74832",
-        "74834",
-        "74855",
-        "74869",
-        "74881"
+        "74801",
+        "74804",
+        "74851",
+        "74855"
       ]
     },
     {
-      "name": "STROUD PUBLIC LIBRARY",
-      "system": "STROUD PUBLIC LIBRARY",
-      "address": "301 WEST 7TH, STROUD, OK",
-      "website": "https://cityofstroud.com/stroud-public-library/",
+      "name": "MADILL CITY-COUNTY LIBRARY",
+      "system": "MADILL CITY-COUNTY LIBRARY",
+      "address": "500 WEST OVERTON ST, MADILL, OK",
+      "website": "https://mccl.okpls.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74026",
-        "74079",
-        "74824",
-        "74832",
-        "74834",
-        "74869",
-        "74881"
+        "73439",
+        "73440",
+        "73446",
+        "73447",
+        "73450",
+        "73455",
+        "73460",
+        "74856"
       ]
     },
     {
@@ -199,17 +252,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73010",
         "73026",
         "73051",
+        "73065",
         "73068",
         "73069",
         "73071",
         "73072",
+        "73093",
         "73160",
         "73165",
         "73170",
         "73173",
-        "731HH",
         "74857"
       ]
     }

@@ -9,12 +9,44 @@
       "formStatus": "unknown",
       "zipcodes": [
         "72051",
+        "72517",
         "72533",
+        "72540",
         "72555",
+        "72556",
         "72560",
+        "72565",
         "72567",
+        "72584",
+        "72585",
+        "72587",
         "72663",
         "72680"
+      ]
+    },
+    {
+      "name": "ARKANSAS RIVER VALLEY REGIONAL LIBRARY",
+      "system": "ARKANSAS RIVER VALLEY REGIONAL LIBRARY",
+      "address": "501 NORTH FRONT STREET, DARDANELLE, AR",
+      "website": "https://www.arvrls.com/dardanelle-yell-county-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72025",
+        "72824",
+        "72827",
+        "72828",
+        "72833",
+        "72834",
+        "72835",
+        "72838",
+        "72842",
+        "72851",
+        "72853",
+        "72855",
+        "72857",
+        "72860",
+        "72865"
       ]
     },
     {
@@ -32,7 +64,35 @@
         "71956",
         "71964",
         "71968",
-        "72087"
+        "72087",
+        "72122"
+      ]
+    },
+    {
+      "name": "FORREST CITY PUBLIC LIBRARY",
+      "system": "FORREST CITY PUBLIC LIBRARY",
+      "address": "421 SOUTH WASHINGTON STREET, FORREST CITY, AR",
+      "website": "https://www.forrestcitylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72074",
+        "72108",
+        "72311",
+        "72320",
+        "72322",
+        "72326",
+        "72335",
+        "72340",
+        "72341",
+        "72346",
+        "72348",
+        "72359",
+        "72360",
+        "72368",
+        "72372",
+        "72392",
+        "72394"
       ]
     },
     {
@@ -43,17 +103,14 @@
       "formUrl": "https://cals.org/suggest-a-title",
       "formStatus": "verified",
       "zipcodes": [
-        "72053",
-        "72076",
-        "72099",
-        "72113",
+        "72002",
+        "72011",
+        "72022",
+        "72065",
+        "72103",
         "72116",
         "72117",
         "72118",
-        "72120",
-        "72135",
-        "72180",
-        "72183",
         "72201",
         "72202",
         "72204",
@@ -64,9 +121,27 @@
         "72210",
         "72211",
         "72212",
-        "72223",
-        "72227",
-        "722HH"
+        "72227"
+      ]
+    },
+    {
+      "name": "MID ARKANSAS REGIONAL LIBRARY SYSTEM",
+      "system": "MID ARKANSAS REGIONAL LIBRARY SYSTEM",
+      "address": "202 EAST THIRD STREET, MALVERN, AR",
+      "website": "https://hsclibrary.arkansas.gov/",
+      "formUrl": "https://midarls.ent.sirsi.net/client/en_US/mhscl#",
+      "formStatus": "verified",
+      "zipcodes": [
+        "71725",
+        "71929",
+        "71933",
+        "71941",
+        "72015",
+        "72084",
+        "72104",
+        "72128",
+        "72129",
+        "72167"
       ]
     },
     {
@@ -77,7 +152,6 @@
       "formUrl": "https://www.nlrlibrary.org/pages/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "72053",
         "72076",
         "72099",
         "72113",
@@ -87,20 +161,15 @@
         "72118",
         "72120",
         "72135",
-        "72180",
-        "72183",
         "72202",
         "72204",
         "72205",
-        "72206",
         "72207",
         "72209",
-        "72210",
         "72211",
         "72212",
         "72223",
-        "72227",
-        "722HH"
+        "72227"
       ]
     },
     {
@@ -111,6 +180,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "72006",
         "72010",
         "72012",
         "72020",
@@ -125,7 +195,8 @@
         "72136",
         "72137",
         "72139",
-        "72143"
+        "72143",
+        "72179"
       ]
     },
     {
@@ -138,9 +209,8 @@
       "zipcodes": [
         "72005",
         "72014",
-        "72043",
-        "72075",
         "72112",
+        "72123",
         "72169",
         "72431",
         "72471",
@@ -155,12 +225,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "72001",
         "72027",
         "72030",
         "72063",
+        "72070",
         "72107",
         "72110",
         "72125",
+        "72126",
         "72127",
         "72156",
         "72157"
@@ -180,12 +253,12 @@
         "72042",
         "72048",
         "72055",
+        "72069",
         "72073",
-        "720HH",
+        "72134",
         "72140",
         "72160",
-        "72166",
-        "721HH"
+        "72166"
       ]
     },
     {
@@ -199,11 +272,16 @@
         "71601",
         "71602",
         "71603",
+        "71643",
+        "71644",
+        "71652",
         "71659",
+        "71665",
         "72004",
+        "72057",
         "72079",
         "72132",
-        "72133",
+        "72150",
         "72152",
         "72168",
         "72175"
@@ -217,6 +295,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "72016",
         "72032",
         "72039",
         "72047",
@@ -257,11 +336,38 @@
       "zipcodes": [
         "72013",
         "72031",
+        "72044",
+        "72067",
         "72080",
         "72088",
+        "72130",
+        "72131",
         "72141",
         "72153",
+        "72530",
+        "72543",
+        "72581",
         "72629"
+      ]
+    },
+    {
+      "name": "PRAIRIE COUNTY LIBRARY",
+      "system": "PRAIRIE COUNTY LIBRARY",
+      "address": "201 US HWY 70 EAST, HAZEN, AR",
+      "website": "https://prairiecounty.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59326",
+        "59349",
+        "72017",
+        "72021",
+        "72029",
+        "72036",
+        "72040",
+        "72041",
+        "72064",
+        "72170"
       ]
     }
   ]

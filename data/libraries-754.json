@@ -1,90 +1,6 @@
 {
   "libraries": [
     {
-      "name": "MINEOLA MEMORIAL LIBRARY",
-      "system": "MINEOLA MEMORIAL LIBRARY",
-      "address": "301 N PACIFIC ST, MINEOLA, TX",
-      "website": "https://mineolalibrary.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75410",
-        "75444",
-        "75497",
-        "75773"
-      ]
-    },
-    {
-      "name": "ALLEN PUBLIC LIBRARY",
-      "system": "ALLEN PUBLIC LIBRARY",
-      "address": "300 N ALLEN DR, ALLEN, TX",
-      "website": "https://www.allenlibrary.org/",
-      "formUrl": "https://www.allenlibrary.org/resources/request_an_interlibrary_loan.php",
-      "formStatus": "verified",
-      "zipcodes": [
-        "75002",
-        "75013",
-        "75023",
-        "75024",
-        "75025",
-        "75035",
-        "75070",
-        "75074",
-        "75082",
-        "75093",
-        "75094",
-        "750HH",
-        "75121",
-        "75164",
-        "75166",
-        "75173",
-        "751HH",
-        "75252",
-        "75287",
-        "75409",
-        "75424",
-        "75485"
-      ]
-    },
-    {
-      "name": "SHERMAN PUBLIC LIBRARY",
-      "system": "SHERMAN PUBLIC LIBRARY",
-      "address": "421 N TRAVIS ST, SHERMAN, TX",
-      "website": "http://www.sherman.lib.me.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75021",
-        "75090",
-        "75092",
-        "75414",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
-      ]
-    },
-    {
-      "name": "WHITESBORO PUBLIC LIBRARY",
-      "system": "WHITESBORO PUBLIC LIBRARY",
-      "address": "308 W MAIN ST, WHITESBORO, TX",
-      "website": "https://www.whitesboro.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75021",
-        "75092",
-        "75414",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271",
-        "76273"
-      ]
-    },
-    {
       "name": "RAINS COUNTY PUBLIC LIBRARY",
       "system": "RAINS COUNTY PUBLIC LIBRARY",
       "address": "150 DORIS BRIGGS PKWY, EMORY, TX",
@@ -104,28 +20,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75002",
-        "75023",
-        "75024",
-        "75025",
-        "75035",
-        "75070",
-        "75074",
-        "75082",
-        "75093",
-        "75094",
-        "750HH",
-        "75121",
         "75164",
-        "75166",
         "75173",
-        "751HH",
-        "75252",
-        "75287",
-        "75409",
         "75424",
-        "75442",
-        "75485"
+        "75442"
       ]
     },
     {
@@ -138,9 +36,7 @@
       "zipcodes": [
         "75135",
         "75401",
-        "75402",
-        "75422",
-        "75423"
+        "75402"
       ]
     },
     {
@@ -151,17 +47,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75413",
+        "75415",
         "75438",
-        "75439",
         "75446",
-        "75447",
         "75449",
-        "75475",
-        "75476",
-        "75479",
+        "75469",
         "75488",
-        "75490",
         "75492"
       ]
     },
@@ -173,26 +64,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75021",
-        "75092",
-        "75414",
-        "75459",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
+        "75090",
+        "75459"
       ]
     },
     {
       "name": "MOUNT PLEASANT PUBLIC LIBRARY",
       "system": "MOUNT PLEASANT PUBLIC LIBRARY",
-      "address": "307 E MONROE SUITE 101, MOUNT PLEASANT, IA",
+      "address": "601 N MADISON AVE, MT PLEASANT, TX",
       "website": "https://www.mountpleasantlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "10532",
+        "10570",
+        "10594",
+        "10595",
         "52641",
+        "52644",
         "75455",
         "75487",
         "75493",
@@ -202,12 +91,15 @@
     {
       "name": "FRANKLIN COUNTY LIBRARY",
       "system": "FRANKLIN COUNTY LIBRARY",
-      "address": "906 N MAIN ST, LOUISBURG, NC",
+      "address": "100 E MAIN ST, MT VERNON, TX",
       "website": "https://www.franklincolibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "27508",
+        "27525",
         "27549",
+        "27596",
         "75457",
         "75480"
       ]
@@ -215,17 +107,18 @@
     {
       "name": "PARIS PUBLIC LIBRARY",
       "system": "PARIS PUBLIC LIBRARY",
-      "address": "37 MARKET SQUARE, SOUTH PARIS, ME",
+      "address": "326 S MAIN ST, PARIS, TX",
       "website": "https://www.parispublib.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04281",
+        "04238",
         "75411",
         "75416",
         "75421",
-        "75434",
         "75435",
+        "75441",
+        "75450",
         "75460",
         "75462",
         "75468",
@@ -261,15 +154,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75021",
-        "75092",
-        "75414",
-        "75495",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
+        "75495"
       ]
     },
     {
@@ -285,13 +170,9 @@
         "75438",
         "75439",
         "75447",
-        "75449",
         "75475",
         "75476",
-        "75479",
-        "75488",
-        "75490",
-        "75492"
+        "75479"
       ]
     },
     {
@@ -302,15 +183,8 @@
       "formUrl": "https://www.whitewright.lib.tx.us/about-us/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "75021",
-        "75092",
         "75414",
-        "75491",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
+        "75491"
       ]
     },
     {
@@ -321,9 +195,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75135",
-        "75402",
-        "75422",
         "75423",
         "75496"
       ]
@@ -336,10 +207,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75135",
-        "75402",
-        "75422",
-        "75423",
         "75474"
       ]
     },
@@ -351,10 +218,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75410",
-        "75444",
-        "75494",
-        "75497"
+        "75494"
       ]
     },
     {
@@ -366,17 +230,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "75413",
-        "75438",
-        "75439",
-        "75447",
-        "75449",
         "75452",
         "75475",
-        "75476",
-        "75479",
-        "75488",
-        "75490",
-        "75492"
+        "75490"
       ]
     },
     {
@@ -399,15 +255,14 @@
       "name": "COMMERCE PUBLIC LIBRARY",
       "system": "COMMERCE PUBLIC LIBRARY",
       "address": "1210 PARK ST, COMMERCE, TX",
-      "website": "https://www.commercepubliclibrary.org/",
+      "website": "http://commerce.prlib.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75135",
-        "75402",
         "75422",
-        "75423",
-        "75428"
+        "75428",
+        "75432",
+        "75448"
       ]
     },
     {
@@ -418,28 +273,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75002",
-        "75023",
-        "75024",
-        "75025",
-        "75035",
-        "75070",
-        "75074",
-        "75082",
-        "75093",
-        "75094",
-        "750HH",
-        "75121",
-        "75164",
-        "75166",
-        "75173",
-        "751HH",
-        "75252",
-        "75287",
         "75409",
-        "75424",
-        "75454",
-        "75485"
+        "75454"
       ]
     },
     {
@@ -450,10 +285,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75135",
         "75402",
         "75422",
-        "75423",
         "75453"
       ]
     },
@@ -465,28 +298,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75002",
-        "75023",
-        "75024",
-        "75025",
-        "75035",
-        "75070",
-        "75074",
-        "75082",
-        "75093",
-        "75094",
-        "750HH",
-        "75121",
-        "75164",
-        "75166",
-        "75173",
-        "751HH",
-        "75252",
-        "75287",
-        "75407",
-        "75409",
-        "75424",
-        "75485"
+        "75407"
       ]
     },
     {
@@ -497,15 +309,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75021",
-        "75092",
+        "75090",
         "75414",
-        "75489",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
+        "75489"
       ]
     },
     {
@@ -517,9 +323,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "75451",
-        "754HH",
-        "75686",
-        "756HH"
+        "75686"
       ]
     },
     {
@@ -531,272 +335,9 @@
       "formStatus": "verified",
       "zipcodes": [
         "75410",
-        "75444",
         "75497",
+        "75773",
         "75783"
-      ]
-    },
-    {
-      "name": "ALLEN MEMORIAL PUBLIC LIBRARY",
-      "system": "ALLEN MEMORIAL PUBLIC LIBRARY",
-      "address": "121 E BLACKBOURN ST, HAWKINS, TX",
-      "website": "https://www.hawkinslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75410",
-        "75444",
-        "75497",
-        "75765"
-      ]
-    },
-    {
-      "name": "DENISON PUBLIC LIBRARY",
-      "system": "DENISON PUBLIC LIBRARY",
-      "address": "300 W GANDY ST, DENISON, TX",
-      "website": "https://www.denisontx.gov/255/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75020",
-        "75021",
-        "75092",
-        "75414",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
-      ]
-    },
-    {
-      "name": "MCKINNEY PUBLIC LIBRARY SYSTEM",
-      "system": "MCKINNEY PUBLIC LIBRARY SYSTEM",
-      "address": "101 E HUNT ST, MCKINNEY, TX",
-      "website": "https://www.mckinneytexas.org/3561/Library",
-      "formUrl": "https://www.mckinneytexas.org/547/Interlibrary-Loans",
-      "formStatus": "verified",
-      "zipcodes": [
-        "75002",
-        "75023",
-        "75024",
-        "75025",
-        "75035",
-        "75069",
-        "75070",
-        "75074",
-        "75082",
-        "75093",
-        "75094",
-        "750HH",
-        "75121",
-        "75164",
-        "75166",
-        "75173",
-        "751HH",
-        "75252",
-        "75287",
-        "75409",
-        "75424",
-        "75485"
-      ]
-    },
-    {
-      "name": "PLANO PUBLIC LIBRARY SYSTEM",
-      "system": "PLANO PUBLIC LIBRARY SYSTEM",
-      "address": "2501 COIT RD, PLANO, TX",
-      "website": "https://www.plano.gov/9/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75002",
-        "75023",
-        "75024",
-        "75025",
-        "75035",
-        "75070",
-        "75074",
-        "75075",
-        "75082",
-        "75093",
-        "75094",
-        "750HH",
-        "75121",
-        "75164",
-        "75166",
-        "75173",
-        "751HH",
-        "75252",
-        "75287",
-        "75409",
-        "75424",
-        "75485"
-      ]
-    },
-    {
-      "name": "RITA & TRUETT SMITH PUBLIC LIBRARY",
-      "system": "RITA & TRUETT SMITH PUBLIC LIBRARY",
-      "address": "300 COUNTRY CLUB DR BLDG 300, WYLIE, TX",
-      "website": "https://www.google.com/search?q=RITA+&+TRUETT+SMITH+PUBLIC+LIBRARY+WYLIE+TX+library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75002",
-        "75023",
-        "75024",
-        "75025",
-        "75035",
-        "75070",
-        "75074",
-        "75082",
-        "75093",
-        "75094",
-        "75098",
-        "750HH",
-        "75121",
-        "75164",
-        "75166",
-        "75173",
-        "751HH",
-        "75252",
-        "75287",
-        "75409",
-        "75424",
-        "75485"
-      ]
-    },
-    {
-      "name": "POTTSBORO AREA PUBLIC LIBRARY",
-      "system": "POTTSBORO AREA PUBLIC LIBRARY",
-      "address": "104 N MAIN ST, POTTSBORO, TX",
-      "website": "https://pottsborolibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75021",
-        "75076",
-        "75092",
-        "75414",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
-      ]
-    },
-    {
-      "name": "FRISCO PUBLIC LIBRARY",
-      "system": "FRISCO PUBLIC LIBRARY",
-      "address": "8000 DALLAS PKWY, FRISCO, TX",
-      "website": "https://friscolibrary.com/",
-      "formUrl": "https://friscolibrary.com/interlibraryloan/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "75002",
-        "75023",
-        "75024",
-        "75025",
-        "75034",
-        "75035",
-        "75070",
-        "75074",
-        "75082",
-        "75093",
-        "75094",
-        "750HH",
-        "75121",
-        "75164",
-        "75166",
-        "75173",
-        "751HH",
-        "75252",
-        "75287",
-        "75409",
-        "75424",
-        "75485"
-      ]
-    },
-    {
-      "name": "PROSPER COMMUNITY LIBRARY",
-      "system": "PROSPER COMMUNITY LIBRARY",
-      "address": "200 S MAIN ST, PROSPER, TX",
-      "website": "https://www.prospertx.gov/306/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75002",
-        "75023",
-        "75024",
-        "75025",
-        "75035",
-        "75070",
-        "75074",
-        "75078",
-        "75082",
-        "75093",
-        "75094",
-        "750HH",
-        "75121",
-        "75164",
-        "75166",
-        "75173",
-        "751HH",
-        "75252",
-        "75287",
-        "75409",
-        "75424",
-        "75485"
-      ]
-    },
-    {
-      "name": "CELINA PUBLIC LIBRARY",
-      "system": "CELINA PUBLIC LIBRARY",
-      "address": "142 N OHIO DR, CELINA, TX",
-      "website": "https://www.celina-tx.gov/1762/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75002",
-        "75009",
-        "75023",
-        "75024",
-        "75025",
-        "75035",
-        "75070",
-        "75074",
-        "75082",
-        "75093",
-        "75094",
-        "750HH",
-        "75121",
-        "75164",
-        "75166",
-        "75173",
-        "751HH",
-        "75252",
-        "75287",
-        "75409",
-        "75424",
-        "75485"
-      ]
-    },
-    {
-      "name": "GUNTER LIBRARY AND MUSEUM",
-      "system": "GUNTER LIBRARY AND MUSEUM",
-      "address": "110 S STATE HIGHWAY 289 STE 4, GUNTER, TX",
-      "website": "https://gunterlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75021",
-        "75058",
-        "75092",
-        "75414",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
       ]
     }
   ]

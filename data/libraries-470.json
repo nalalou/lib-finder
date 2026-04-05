@@ -1,6 +1,32 @@
 {
   "libraries": [
     {
+      "name": "OHIO COUNTY PUBLIC LIBRARY",
+      "system": "OHIO COUNTY PUBLIC LIBRARY",
+      "address": "52 16TH ST., WHEELING, WV",
+      "website": "https://www.ohiocountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26003",
+        "26059",
+        "26060",
+        "26074",
+        "42320",
+        "42328",
+        "42333",
+        "42338",
+        "42343",
+        "42347",
+        "42349",
+        "42354",
+        "42361",
+        "42369",
+        "42370",
+        "47040"
+      ]
+    },
+    {
       "name": "FRANKLIN COUNTY PUBLIC LIBRARY DISTRICT",
       "system": "FRANKLIN COUNTY PUBLIC LIBRARY DISTRICT",
       "address": "919 MAIN STREET, BROOKVILLE, IN",
@@ -25,29 +51,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47001",
-        "47018",
         "47022",
         "47025",
-        "47032",
-        "47060",
-        "470HH"
+        "47060"
       ]
     },
     {
       "name": "AURORA PUBLIC LIBRARY DISTRICT",
       "system": "AURORA PUBLIC LIBRARY DISTRICT",
-      "address": "101 SOUTH RIVER STREET, AURORA, IL",
+      "address": "414 2ND STREET, AURORA, IN",
       "website": "https://www.aurorapubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "47001",
         "47018",
-        "47022",
         "47032",
-        "47060",
-        "470HH",
+        "60505",
         "60506"
       ]
     },
@@ -60,10 +80,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "47006",
-        "47017",
-        "47021",
-        "47023",
-        "47031",
         "47034",
         "47041"
       ]
@@ -76,13 +92,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47017",
-        "47021",
         "47023",
         "47031",
         "47034",
-        "47037",
-        "47041"
+        "47037"
       ]
     },
     {
@@ -94,11 +107,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "47017",
-        "47021",
         "47023",
         "47031",
         "47034",
-        "47041",
         "47042"
       ]
     },
@@ -111,11 +122,32 @@
       "formStatus": "unknown",
       "zipcodes": [
         "47011",
-        "47019",
         "47020",
         "47038",
         "47043",
         "47224"
+      ]
+    },
+    {
+      "name": "UNION COUNTY PUBLIC LIBRARY",
+      "system": "UNION COUNTY PUBLIC LIBRARY",
+      "address": "2 EAST SEMINARY STREET, LIBERTY, IN",
+      "website": "https://www.mountainregionallibrary.org/union-county-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28079",
+        "28103",
+        "28104",
+        "28110",
+        "28112",
+        "28133",
+        "28135",
+        "28173",
+        "28174",
+        "47003",
+        "47325",
+        "47353"
       ]
     }
   ]

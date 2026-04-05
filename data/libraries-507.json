@@ -1,23 +1,18 @@
 {
   "libraries": [
     {
-      "name": "CEDAR FALLS PUBLIC LIBRARY",
-      "system": "CEDAR FALLS PUBLIC LIBRARY",
-      "address": "524 MAIN ST, CEDAR FALLS, IA",
-      "website": "https://cedarfallslibrary.org/",
+      "name": "HUDSON PUBLIC LIBRARY",
+      "system": "HUDSON PUBLIC LIBRARY",
+      "address": "3 WASHINGTON STREET, HUDSON, MA",
+      "website": "https://www.townofhudson.org/159/Hudson-Public-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50613",
-        "50623",
-        "50634",
+        "01749",
         "50643",
-        "50667",
-        "506HH",
         "50702",
-        "50703",
-        "50706",
-        "507HH"
+        "57027",
+        "57034"
       ]
     },
     {
@@ -28,36 +23,9 @@
       "formUrl": "https://www.dunkerton.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50623",
         "50626",
-        "50634",
-        "50643",
         "50667",
-        "506HH",
-        "50702",
-        "50703",
-        "50706",
-        "507HH"
-      ]
-    },
-    {
-      "name": "HAWKINS MEMORIAL LIBRARY",
-      "system": "HAWKINS MEMORIAL LIBRARY",
-      "address": "308 MAIN ST, LA PORTE CITY, IA",
-      "website": "https://www.lpcpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50623",
-        "50634",
-        "50643",
-        "50651",
-        "50667",
-        "506HH",
-        "50702",
-        "50703",
-        "50706",
-        "507HH"
+        "50703"
       ]
     },
     {
@@ -68,16 +36,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50623",
         "50634",
-        "50643",
         "50667",
-        "506HH",
         "50701",
         "50702",
-        "50703",
-        "50706",
-        "507HH"
+        "50703"
       ]
     },
     {
@@ -88,16 +51,11 @@
       "formUrl": "https://www.evansdale.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50623",
         "50634",
-        "50643",
         "50667",
-        "506HH",
         "50702",
         "50703",
-        "50706",
-        "50707",
-        "507HH"
+        "50707"
       ]
     }
   ]

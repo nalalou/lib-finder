@@ -1,6 +1,88 @@
 {
   "libraries": [
     {
+      "name": "PIEDMONT PUBLIC LIBRARY",
+      "system": "PIEDMONT PUBLIC LIBRARY",
+      "address": "1 CHILDS AVENUE, PIEDMONT, WV",
+      "website": "https://www.cityofpiedmont.com/community-profile/page/public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26717",
+        "26750",
+        "36272",
+        "63763",
+        "63934",
+        "63944",
+        "63951",
+        "63952",
+        "63956",
+        "63957",
+        "63964",
+        "63966",
+        "63967",
+        "73078"
+      ]
+    },
+    {
+      "name": "JACKSONVILLE PUBLIC LIBRARY",
+      "system": "JACKSONVILLE PUBLIC LIBRARY",
+      "address": "303 LAURA STREET NORTH, JACKSONVILLE, FL",
+      "website": "http://www.jaxpubliclibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "32202",
+        "32204",
+        "32205",
+        "32206",
+        "32207",
+        "32208",
+        "32209",
+        "32210",
+        "32211",
+        "32212",
+        "32216",
+        "32217",
+        "32218",
+        "32219",
+        "32220",
+        "32221",
+        "32222",
+        "32223",
+        "32224",
+        "32225",
+        "32226",
+        "32227",
+        "32233",
+        "32234",
+        "32244",
+        "32246",
+        "32250",
+        "32254",
+        "32256",
+        "32257",
+        "32258",
+        "32266",
+        "32277",
+        "36205",
+        "36206",
+        "36250",
+        "36265",
+        "36277",
+        "36279",
+        "62601",
+        "62628",
+        "62631",
+        "62650",
+        "62668",
+        "62695",
+        "75759",
+        "75764",
+        "75766"
+      ]
+    },
+    {
       "name": "CHEAHA REGIONAL LIBRARY",
       "system": "CHEAHA REGIONAL LIBRARY",
       "address": "935 COLEMAN STREET, HEFLIN, AL",
@@ -8,10 +90,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36262",
-        "36264",
-        "36269",
-        "36273"
+        "36264"
       ]
     },
     {
@@ -23,7 +102,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36263",
-        "36270",
         "36274",
         "36276",
         "36278",
@@ -41,7 +119,6 @@
         "35082",
         "36251",
         "36255",
-        "36258",
         "36267"
       ]
     },
@@ -53,11 +130,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35082",
         "36255",
         "36258",
-        "36266",
-        "36267"
+        "36266"
       ]
     },
     {
@@ -75,6 +150,40 @@
       ]
     },
     {
+      "name": "OXFORD PUBLIC LIBRARY",
+      "system": "OXFORD PUBLIC LIBRARY",
+      "address": "110 EAST 6TH STREET, OXFORD, AL",
+      "website": "http://oxford.njlibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06478",
+        "07833",
+        "07838",
+        "07863",
+        "07865",
+        "07882",
+        "19350",
+        "19352",
+        "19362",
+        "19363",
+        "36203",
+        "36207",
+        "36260",
+        "47971",
+        "48360",
+        "48363",
+        "48370",
+        "48371",
+        "52322",
+        "53920",
+        "53952",
+        "67119",
+        "68936",
+        "68967"
+      ]
+    },
+    {
       "name": "ANNISTON - CALHOUN COUNTY PUBLIC LIBRARY",
       "system": "ANNISTON - CALHOUN COUNTY PUBLIC LIBRARY",
       "address": "108 EAST 10TH STREET, ANNISTON, AL",
@@ -83,18 +192,11 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36201",
-        "36203",
         "36205",
         "36206",
         "36207",
         "36250",
-        "36260",
-        "36265",
-        "36272",
-        "36277",
-        "36279",
-        "362HH",
-        "362XX"
+        "36277"
       ]
     },
     {
@@ -105,19 +207,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36203",
-        "36205",
-        "36206",
-        "36207",
         "36250",
-        "36260",
-        "36265",
-        "36271",
-        "36272",
-        "36277",
-        "36279",
-        "362HH",
-        "362XX"
+        "36271"
       ]
     },
     {
@@ -129,18 +220,11 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36201",
-        "36203",
         "36205",
         "36206",
         "36207",
-        "36250",
         "36260",
-        "36265",
-        "36272",
-        "36277",
-        "36279",
-        "362HH",
-        "362XX"
+        "36277"
       ]
     },
     {
@@ -151,10 +235,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35014",
-        "35096",
-        "35149",
-        "35151",
         "36268"
       ]
     },
@@ -169,48 +249,6 @@
         "36256",
         "36850",
         "36853",
-        "36861"
-      ]
-    },
-    {
-      "name": "DADEVILLE PUBLIC LIBRARY",
-      "system": "DADEVILLE PUBLIC LIBRARY",
-      "address": "205 NORTH WEST STREET, DADEVILLE, AL",
-      "website": "http://dadevillepubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36256",
-        "36850",
-        "36853",
-        "36861"
-      ]
-    },
-    {
-      "name": "ALEXANDER CITY - ADELIA MCCONNELL RUSSELL LIBRARY",
-      "system": "ALEXANDER CITY - ADELIA MCCONNELL RUSSELL LIBRARY",
-      "address": "318 CHURCH STREET, ALEXANDER CITY, AL",
-      "website": "https://www.alexandercityal.gov/library/page/adelia-m-russell-library-0",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35010",
-        "36256",
-        "36850",
-        "36861"
-      ]
-    },
-    {
-      "name": "TALLASSEE COMMUNITY PUBLIC LIBRARY",
-      "system": "TALLASSEE COMMUNITY PUBLIC LIBRARY",
-      "address": "99 FREEMAN AVENUE, TALLASSEE, AL",
-      "website": "https://www.tallasseeal.gov/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36078",
-        "36256",
-        "36850",
         "36861"
       ]
     }

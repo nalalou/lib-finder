@@ -3,46 +3,56 @@
     {
       "name": "LONG BEACH PUBLIC LIBRARY",
       "system": "LONG BEACH PUBLIC LIBRARY",
-      "address": "209 JEFF DAVIS AVENUE, LONG BEACH, MS",
+      "address": "111 WEST PARK AVENUE, LONG BEACH, NY",
       "website": "http://www.lbpl.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "11020",
-        "11021",
-        "11024",
-        "11042",
-        "11096",
-        "110HH",
-        "114HH",
-        "11501",
         "11509",
-        "11510",
-        "11514",
-        "11516",
-        "11530",
-        "11547",
-        "11548",
         "11561",
-        "11568",
         "11569",
-        "11577",
-        "11581",
-        "11598",
-        "115HH",
-        "11732",
-        "11765",
-        "11797",
-        "117HH",
-        "11804",
-        "39560"
+        "39501",
+        "39507",
+        "39560",
+        "39571",
+        "90731",
+        "90732",
+        "90744",
+        "90745",
+        "90746",
+        "90802",
+        "90803",
+        "90804",
+        "90806",
+        "90807",
+        "90808",
+        "90810",
+        "90813",
+        "90814",
+        "90815",
+        "90822"
+      ]
+    },
+    {
+      "name": "LAMAR COUNTY LIBRARY SYSTEM",
+      "system": "LAMAR COUNTY LIBRARY SYSTEM",
+      "address": "144 SHELBY SPEIGHTS DRIVE, PURVIS, MS",
+      "website": "https://lamarcountylibrarysystem.org/",
+      "formUrl": "https://www.lamarcountylibrarysystem.org/suggest-a-purchase",
+      "formStatus": "verified",
+      "zipcodes": [
+        "39402",
+        "39455",
+        "39475",
+        "39482",
+        "39577"
       ]
     },
     {
       "name": "HANCOCK COUNTY LIBRARY",
       "system": "HANCOCK COUNTY LIBRARY",
       "address": "312 HIGHWAY 90, BAY SAINT LOUIS, MS",
-      "website": "https://msdiglib.org/hcp",
+      "website": "http://azalealibraries.org/hancock.htm",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -50,8 +60,7 @@
         "39525",
         "39556",
         "39572",
-        "39576",
-        "395XX"
+        "39576"
       ]
     },
     {
@@ -68,7 +77,9 @@
         "39530",
         "39531",
         "39532",
-        "39571",
+        "39560",
+        "39561",
+        "39573",
         "39574"
       ]
     },
@@ -80,6 +91,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "39452",
         "39553",
         "39562",
         "39563",

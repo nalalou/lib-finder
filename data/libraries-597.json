@@ -3,16 +3,15 @@
     {
       "name": "SHERIDAN PUBLIC LIBRARY",
       "system": "SHERIDAN PUBLIC LIBRARY",
-      "address": "109 EAST HAMILTON, SHERIDAN, MT",
+      "address": "142 NW YAMHILL ST, SHERIDAN, OR",
       "website": "https://townofsheridanmt.org/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46069",
+        "59735",
+        "59747",
         "59749",
-        "97111",
-        "97115",
-        "97127",
-        "97148",
         "97378"
       ]
     },
@@ -26,22 +25,6 @@
       "zipcodes": [
         "59631",
         "59632",
-        "59638",
-        "59721",
-        "59759"
-      ]
-    },
-    {
-      "name": "NORTH JEFFERSON COUNTY LIBRARY DISTRICT",
-      "system": "NORTH JEFFERSON COUNTY LIBRARY DISTRICT",
-      "address": "3 NORTH MAIN STREET, CLANCY, MT",
-      "website": "https://northjeffersoncountylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59631",
-        "59634",
-        "59638",
         "59721",
         "59759"
       ]
@@ -54,26 +37,20 @@
       "formUrl": "https://www.belgrademt.gov/157/Library/Faq.aspx?QID=72",
       "formStatus": "verified",
       "zipcodes": [
-        "59714",
-        "59716",
-        "59718",
-        "59730",
-        "597XX"
+        "59714"
       ]
     },
     {
       "name": "BOZEMAN PUBLIC LIBRARY",
       "system": "BOZEMAN PUBLIC LIBRARY",
       "address": "626 E MAIN STREET, BOZEMAN, MT",
-      "website": "https://www.bozemanlibrary.org/",
-      "formUrl": "https://www.bozemanlibrary.org/browse/find-it/suggest-a-title",
-      "formStatus": "verified",
+      "website": "http://www.bozemanlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
         "59715",
-        "59716",
         "59718",
-        "59730",
-        "597XX"
+        "59730"
       ]
     },
     {
@@ -121,8 +98,7 @@
         "59739",
         "59746",
         "59761",
-        "59762",
-        "597HH"
+        "59762"
       ]
     },
     {
@@ -133,14 +109,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59710",
-        "59720",
         "59729",
-        "59735",
         "59740",
-        "59745",
-        "59747",
-        "59751"
+        "59745"
       ]
     },
     {
@@ -151,11 +122,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59716",
-        "59718",
-        "59730",
-        "59741",
-        "597XX"
+        "59741"
       ]
     },
     {
@@ -166,11 +133,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59716",
-        "59718",
-        "59730",
-        "59752",
-        "597XX"
+        "59752"
       ]
     },
     {
@@ -181,12 +144,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59710",
-        "59720",
-        "59735",
-        "59740",
-        "59745",
-        "59747",
         "59751",
         "59754"
       ]
@@ -201,11 +158,6 @@
       "zipcodes": [
         "59710",
         "59720",
-        "59735",
-        "59740",
-        "59745",
-        "59747",
-        "59751",
         "59755"
       ]
     },
@@ -218,10 +170,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "59716",
-        "59718",
-        "59730",
-        "59758",
-        "597XX"
+        "59758"
       ]
     },
     {

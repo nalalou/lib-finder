@@ -1,6 +1,33 @@
 {
   "libraries": [
     {
+      "name": "SCOTT SEBASTIAN REGIONAL LIBRARY",
+      "system": "SCOTT SEBASTIAN REGIONAL LIBRARY",
+      "address": "18 N. ADAIR STREET, GREENWOOD, AR",
+      "website": "https://www.scottsebastianregionallibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72821",
+        "72826",
+        "72916",
+        "72923",
+        "72927",
+        "72928",
+        "72933",
+        "72936",
+        "72937",
+        "72938",
+        "72940",
+        "72941",
+        "72943",
+        "72944",
+        "72945",
+        "72951",
+        "72958"
+      ]
+    },
+    {
       "name": "ARKANSAS RIVER VALLEY REGIONAL LIBRARY",
       "system": "ARKANSAS RIVER VALLEY REGIONAL LIBRARY",
       "address": "501 NORTH FRONT STREET, DARDANELLE, AR",
@@ -8,17 +35,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "72025",
         "72824",
         "72827",
         "72828",
-        "72829",
         "72833",
         "72834",
+        "72835",
         "72838",
         "72842",
+        "72851",
         "72853",
+        "72855",
         "72857",
-        "72860"
+        "72860",
+        "72865"
       ]
     },
     {
@@ -33,10 +64,41 @@
         "72801",
         "72802",
         "72823",
+        "72830",
+        "72832",
         "72837",
+        "72839",
+        "72840",
         "72843",
+        "72845",
+        "72846",
         "72847",
-        "72858"
+        "72858",
+        "72863"
+      ]
+    },
+    {
+      "name": "OUACHITA MOUNTAINS REGIONAL LIBRARY",
+      "system": "OUACHITA MOUNTAINS REGIONAL LIBRARY",
+      "address": "145A WHITTINGTON STREET, MT. IDA, AR",
+      "website": "https://ouachitamountainsregionallibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71935",
+        "71943",
+        "71950",
+        "71952",
+        "71953",
+        "71957",
+        "71960",
+        "71961",
+        "71965",
+        "71969",
+        "71970",
+        "72841",
+        "72926",
+        "72950"
       ]
     },
     {
@@ -56,6 +118,11 @@
         "72666",
         "72683",
         "72685",
+        "72742",
+        "72752",
+        "72776",
+        "72852",
+        "72854",
         "72856"
       ]
     }

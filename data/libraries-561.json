@@ -3,33 +3,62 @@
     {
       "name": "JACKSON COUNTY LIBRARY",
       "system": "JACKSON COUNTY LIBRARY",
-      "address": "311 THIRD STREET, JACKSON, MN",
+      "address": "910 MAIN ST, KADOKA, SD",
       "website": "https://jacksoncounty.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "56111",
+        "56137",
         "56143",
+        "56150",
+        "56161",
         "57521",
         "57543",
         "57547",
+        "57562",
         "57577",
         "57750"
       ]
     },
     {
+      "name": "MARTIN COUNTY LIBRARY",
+      "system": "MARTIN COUNTY LIBRARY",
+      "address": "200 N ST MARY, STANTON, TX",
+      "website": "https://www.martincountylibrary.org/index.php/locations/fairmont",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56031",
+        "56039",
+        "56075",
+        "56088",
+        "56121",
+        "56127",
+        "56162",
+        "56171",
+        "56176",
+        "56181",
+        "79713",
+        "79739",
+        "79749",
+        "79782",
+        "79783"
+      ]
+    },
+    {
       "name": "EDGERTON PUBLIC LIBRARY",
       "system": "EDGERTON PUBLIC LIBRARY",
-      "address": "811 1ST AV W, EDGERTON, MN",
+      "address": "101 ALBION ST., EDGERTON, WI",
       "website": "https://edgertonlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53505",
-        "53525",
         "53534",
-        "53537",
-        "53546",
-        "56128"
+        "53563",
+        "56128",
+        "56177",
+        "56186"
       ]
     },
     {
@@ -40,95 +69,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56115",
-        "56132",
         "56157",
         "56169",
         "56229",
         "56239",
-        "56258",
-        "56291"
-      ]
-    },
-    {
-      "name": "MORGAN PUBLIC LIBRARY",
-      "system": "MORGAN PUBLIC LIBRARY",
-      "address": "210 VERNON AVENUE, MORGAN, MN",
-      "website": "https://morganlibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56083",
-        "56166",
-        "56180",
-        "56214",
-        "56224",
-        "56255",
-        "56263",
-        "56266",
-        "56287",
-        "56292",
-        "56294"
-      ]
-    },
-    {
-      "name": "REDWOOD FALLS PUBLIC LIBRARY",
-      "system": "REDWOOD FALLS PUBLIC LIBRARY",
-      "address": "509 SOUTH LINCOLN STREET, REDWOOD FALLS, MN",
-      "website": "https://redwoodfallslibrary.org/",
-      "formUrl": "https://redwoodfallslibrary.org/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "56083",
-        "56166",
-        "56180",
-        "56214",
-        "56224",
-        "56255",
-        "56263",
-        "56283",
-        "56287",
-        "56292",
-        "56294"
-      ]
-    },
-    {
-      "name": "WABASSO PUBLIC LIBRARY",
-      "system": "WABASSO PUBLIC LIBRARY",
-      "address": "1248 OAK ST, WABASSO, MN",
-      "website": "https://wabassolibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56083",
-        "56166",
-        "56180",
-        "56214",
-        "56224",
-        "56255",
-        "56263",
-        "56287",
-        "56292",
-        "56293",
-        "56294"
-      ]
-    },
-    {
-      "name": "MINNEOTA PUBLIC LIBRARY",
-      "system": "MINNEOTA PUBLIC LIBRARY",
-      "address": "200 N JEFFERSON ST, MINNEOTA, MN",
-      "website": "https://minneotalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56115",
-        "56132",
-        "56157",
-        "56169",
-        "56229",
-        "56239",
-        "56264",
-        "56291"
+        "56258"
       ]
     },
     {
@@ -140,11 +85,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "56114",
-        "56122",
-        "56123",
-        "56131",
-        "56141",
-        "56151"
+        "56131"
       ]
     },
     {
@@ -156,8 +97,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "56113",
-        "56142",
-        "56178"
+        "56142"
       ]
     },
     {
@@ -168,9 +108,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56113",
-        "56149",
-        "56178"
+        "56149"
       ]
     },
     {
@@ -182,11 +120,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "56118",
-        "56145",
-        "56159",
-        "56174",
-        "56183",
-        "561HH"
+        "56159"
       ]
     },
     {
@@ -244,19 +178,38 @@
       ]
     },
     {
+      "name": "TYLER PUBLIC LIBRARY",
+      "system": "TYLER PUBLIC LIBRARY",
+      "address": "230 TYLER STREET N, TYLER, MN",
+      "website": "https://tylerlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56113",
+        "56178",
+        "75701",
+        "75702",
+        "75704",
+        "75706",
+        "75707",
+        "75708",
+        "75709",
+        "75792"
+      ]
+    },
+    {
       "name": "WESTBROOK PUBLIC LIBRARY",
       "system": "WESTBROOK PUBLIC LIBRARY",
-      "address": "61 GOODSPEED DR., WESTBROOK, CT",
+      "address": "556 1ST AVENUE, WESTBROOK, MN",
       "website": "https://www.westbrookct.us/326/Westbrook-Public-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "06475",
         "06498",
-        "56118",
         "56145",
         "56174",
-        "56183",
-        "561HH"
+        "56183"
       ]
     },
     {
@@ -268,11 +221,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "56101",
-        "56118",
-        "56145",
-        "56174",
-        "56183",
-        "561HH"
+        "56118"
       ]
     },
     {
@@ -287,12 +236,6 @@
         "56152",
         "56166",
         "56180",
-        "56214",
-        "56224",
-        "56255",
-        "56263",
-        "56287",
-        "56292",
         "56294"
       ]
     },
@@ -306,12 +249,7 @@
       "zipcodes": [
         "56115",
         "56132",
-        "56157",
-        "56169",
-        "56175",
-        "56229",
-        "56239",
-        "56291"
+        "56175"
       ]
     },
     {
@@ -322,9 +260,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56113",
-        "56136",
-        "56178"
+        "56136"
       ]
     },
     {
@@ -340,8 +276,7 @@
         "56144",
         "56164",
         "56170",
-        "56177",
-        "56186"
+        "56177"
       ]
     },
     {

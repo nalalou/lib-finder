@@ -1,21 +1,6 @@
 {
   "libraries": [
     {
-      "name": "LANPHER MEMORIAL",
-      "system": "LANPHER MEMORIAL",
-      "address": "141 MAIN ST., HYDE PARK, VT",
-      "website": "https://www.lanpherlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05442",
-        "05652",
-        "05653",
-        "05655",
-        "05657"
-      ]
-    },
-    {
       "name": "JOHNSON PUBLIC",
       "system": "JOHNSON PUBLIC",
       "address": "7 LIBRARY DR., JOHNSON, VT",
@@ -25,162 +10,7 @@
       "zipcodes": [
         "05442",
         "05652",
-        "05653",
-        "05656",
-        "05657"
-      ]
-    },
-    {
-      "name": "MORRISTOWN CENTENNIAL",
-      "system": "MORRISTOWN CENTENNIAL",
-      "address": "7 RICHMOND ST., MORRISVILLE, VT",
-      "website": "https://www.centenniallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05442",
-        "05652",
-        "05653",
-        "05657",
-        "05661"
-      ]
-    },
-    {
-      "name": "STOWE FREE",
-      "system": "STOWE FREE",
-      "address": "90 POND ST., STOWE, VT",
-      "website": "https://www.stowefreelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05442",
-        "05652",
-        "05653",
-        "05657",
-        "05672"
-      ]
-    },
-    {
-      "name": "G. M. KELLEY COMMUNITY",
-      "system": "G. M. KELLEY COMMUNITY",
-      "address": "SCHOOL HILL DR., WOLCOTT, VT",
-      "website": "https://wolcottvt.org/community/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05442",
-        "05652",
-        "05653",
-        "05657",
-        "05680"
-      ]
-    },
-    {
-      "name": "CORNWALL FREE PUBLIC",
-      "system": "CORNWALL FREE PUBLIC",
-      "address": "2629 RTE. 30, CORNWALL, VT",
-      "website": "https://cornwallvt.com/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05456",
-        "054HH",
-        "05734",
-        "05747",
-        "05753",
-        "05766",
-        "05778",
-        "057HH"
-      ]
-    },
-    {
-      "name": "HANCOCK FREE PUBLIC",
-      "system": "HANCOCK FREE PUBLIC",
-      "address": "1027 ROUTE 100, HANCOCK, VT",
-      "website": "https://www.hancockvt.org/hancock-free-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05456",
-        "054HH",
-        "05734",
-        "05747",
-        "05748",
-        "05766",
-        "05778",
-        "057HH"
-      ]
-    },
-    {
-      "name": "ILSLEY PUBLIC",
-      "system": "ILSLEY PUBLIC",
-      "address": "75 MAIN ST., MIDDLEBURY, VT",
-      "website": "https://www.ilsleypubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05456",
-        "054HH",
-        "05734",
-        "05747",
-        "05753",
-        "05766",
-        "05778",
-        "057HH"
-      ]
-    },
-    {
-      "name": "ORWELL FREE LIBRARY",
-      "system": "ORWELL FREE LIBRARY",
-      "address": "473 MAIN ST., ORWELL, VT",
-      "website": "https://orwellfreelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05456",
-        "054HH",
-        "05734",
-        "05747",
-        "05760",
-        "05766",
-        "05778",
-        "057HH"
-      ]
-    },
-    {
-      "name": "PLATT MEMORIAL",
-      "system": "PLATT MEMORIAL",
-      "address": "279 MAIN ST., SHOREHAM, VT",
-      "website": "https://www.plattlib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05456",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05770",
-        "05778",
-        "057HH"
-      ]
-    },
-    {
-      "name": "SALISBURY FREE PUBLIC",
-      "system": "SALISBURY FREE PUBLIC",
-      "address": "918 MAPLE ST., SALISBURY, VT",
-      "website": "https://www.salisburypubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05456",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05769",
-        "05778",
-        "057HH"
+        "05656"
       ]
     },
     {
@@ -203,7 +33,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05441",
-        "05444",
         "05448"
       ]
     },
@@ -215,14 +44,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05443",
-        "05456",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05778",
-        "057HH"
+        "05443"
       ]
     },
     {
@@ -233,8 +55,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05401",
-        "05489"
+        "05401"
       ]
     },
     {
@@ -245,11 +66,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05442",
-        "05464",
-        "05652",
-        "05653",
-        "05657"
+        "05464"
       ]
     },
     {
@@ -260,8 +77,7 @@
       "formUrl": "https://www.charlottepubliclibrary.org/ways_to_borrow/interlibrary_loan.php",
       "formStatus": "verified",
       "zipcodes": [
-        "05445",
-        "05489"
+        "05445"
       ]
     },
     {
@@ -272,8 +88,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05446",
-        "05489"
+        "05446"
       ]
     },
     {
@@ -284,8 +99,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05444",
-        "05448",
         "05450"
       ]
     },
@@ -297,8 +110,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05452",
-        "05489"
+        "05452"
       ]
     },
     {
@@ -309,8 +121,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05452",
-        "05489"
+        "05452"
       ]
     },
     {
@@ -334,7 +145,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05444",
         "05448",
         "05455"
       ]
@@ -347,8 +157,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05444",
-        "05448",
         "05457"
       ]
     },
@@ -360,8 +168,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05444",
-        "05448",
         "05454"
       ]
     },
@@ -384,8 +190,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05444",
-        "05448",
         "05459"
       ]
     },
@@ -397,8 +201,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05461",
-        "05489"
+        "05461"
       ]
     },
     {
@@ -409,8 +212,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05462",
-        "05489"
+        "05462"
       ]
     },
     {
@@ -445,13 +247,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05443",
-        "05456",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05778",
-        "057HH"
+        "05766"
       ]
     },
     {
@@ -462,8 +258,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05468",
-        "05489"
+        "05468"
       ]
     },
     {
@@ -475,13 +270,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "05456",
-        "05473",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05778",
-        "057HH"
+        "05473"
       ]
     },
     {
@@ -492,8 +281,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05444",
-        "05448",
         "05471"
       ]
     },
@@ -506,13 +293,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05456",
-        "05472",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05778",
-        "057HH"
+        "05472"
       ]
     },
     {
@@ -534,8 +315,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05444",
-        "05448",
         "05476"
       ]
     },
@@ -547,8 +326,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05477",
-        "05489"
+        "05477"
       ]
     },
     {
@@ -559,8 +337,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05444",
-        "05448",
         "05478"
       ]
     },
@@ -572,8 +348,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05482",
-        "05489"
+        "05482"
       ]
     },
     {
@@ -584,8 +359,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05444",
-        "05448",
         "05483"
       ]
     },
@@ -597,8 +370,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05403",
-        "05489"
+        "05403"
       ]
     },
     {
@@ -620,14 +392,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05456",
-        "05487",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05778",
-        "057HH"
+        "05487"
       ]
     },
     {
@@ -638,8 +403,6 @@
       "formUrl": "https://swantonpubliclibrary.org/interlibrary-loan-request",
       "formStatus": "verified",
       "zipcodes": [
-        "05444",
-        "05448",
         "05488"
       ]
     },
@@ -652,13 +415,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05456",
-        "05491",
-        "054HH",
-        "05734",
-        "05747",
-        "05766",
-        "05778",
-        "057HH"
+        "05491"
       ]
     },
     {
@@ -671,9 +428,7 @@
       "zipcodes": [
         "05442",
         "05492",
-        "05652",
-        "05653",
-        "05657"
+        "05652"
       ]
     },
     {
@@ -696,7 +451,6 @@
       "formUrl": "https://damlvt.org/index.php/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "05489",
         "05495"
       ]
     },
@@ -708,8 +462,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05404",
-        "05489"
+        "05404"
       ]
     },
     {
@@ -732,8 +485,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05444",
-        "05448",
         "05488"
       ]
     }

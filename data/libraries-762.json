@@ -1,64 +1,30 @@
 {
   "libraries": [
     {
-      "name": "CHICO PUBLIC LIBRARY INC",
-      "system": "CHICO PUBLIC LIBRARY INC",
-      "address": "106 W JACKSBORO ST, CHICO, TX",
-      "website": "https://www.chico.texas.gov/chico-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76023",
-        "76073",
-        "76234",
-        "76246",
-        "76426",
-        "76431"
-      ]
-    },
-    {
-      "name": "NEWARK PUBLIC LIBRARY",
-      "system": "NEWARK PUBLIC LIBRARY",
-      "address": "207 HUDSON ST, NEWARK, TX",
-      "website": "https://www.npl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76023",
-        "76071",
-        "76073",
-        "76234",
-        "76246",
-        "76426"
-      ]
-    },
-    {
       "name": "SHERMAN PUBLIC LIBRARY",
       "system": "SHERMAN PUBLIC LIBRARY",
-      "address": "421 N TRAVIS ST, SHERMAN, TX",
+      "address": "9 CHURCH STREET, SHERMAN, ME",
       "website": "http://www.sherman.lib.me.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75021",
+        "04497",
+        "04733",
+        "04776",
         "75090",
         "75092",
-        "75414",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
+        "76268"
       ]
     },
     {
       "name": "EDWARDS PUBLIC LIBRARY",
       "system": "EDWARDS PUBLIC LIBRARY",
-      "address": "210 W GILBERT ST, HENRIETTA, TX",
+      "address": "30 EAST STREET, SOUTHAMPTON, MA",
       "website": "https://southamptonlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "01073",
         "76228",
         "76357",
         "76365",
@@ -68,54 +34,44 @@
     {
       "name": "ROANOKE PUBLIC LIBRARY",
       "system": "ROANOKE PUBLIC LIBRARY",
-      "address": "308 S WALNUT ST, ROANOKE, TX",
+      "address": "314 NORTH MAIN STREET, ROANOKE, IN",
       "website": "http://www.roanoketexas.gov/166/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75007",
-        "75010",
-        "75028",
-        "75057",
-        "75077",
-        "76201",
-        "76205",
-        "76207",
-        "76208",
-        "76226",
+        "46783",
         "76262"
       ]
     },
     {
       "name": "DECATUR PUBLIC LIBRARY",
       "system": "DECATUR PUBLIC LIBRARY",
-      "address": "504 CHERRY STREET NE, DECATUR, AL",
+      "address": "1700 S FM 51, DECATUR, TX",
       "website": "https://dekalblibrary.org/branches/deca",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "35601",
-        "76023",
-        "76073",
-        "76234",
-        "76246",
-        "76426"
+        "62514",
+        "62521",
+        "62522",
+        "62523",
+        "62526",
+        "62532",
+        "62537",
+        "76234"
       ]
     },
     {
       "name": "DENTON PUBLIC LIBRARY",
       "system": "DENTON PUBLIC LIBRARY",
-      "address": "515 BROADWAY, DENTON, MT",
+      "address": "502 OAKLAND ST, DENTON, TX",
       "website": "https://librarytechnology.org/library/20695",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59424",
         "59430",
-        "75007",
-        "75010",
-        "75028",
-        "75057",
-        "75077",
         "76201",
         "76205",
         "76207",
@@ -131,12 +87,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76238",
         "76240",
         "76250",
         "76253",
-        "76272",
-        "762HH"
+        "76272"
       ]
     },
     {
@@ -147,46 +101,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76001",
-        "76002",
-        "76006",
-        "76011",
-        "76012",
-        "76013",
-        "76014",
-        "76015",
-        "76016",
-        "76017",
-        "76018",
-        "76021",
-        "76022",
-        "76040",
-        "76054",
-        "76063",
-        "76103",
-        "76104",
-        "76105",
-        "76106",
-        "76107",
-        "76109",
-        "76110",
-        "76111",
-        "76112",
-        "76114",
-        "76115",
-        "76116",
-        "76119",
-        "76120",
-        "76123",
-        "76127",
-        "76131",
-        "76132",
-        "76133",
-        "76134",
-        "76137",
-        "76155",
         "76177",
-        "761HH",
         "76248"
       ]
     },
@@ -201,9 +116,7 @@
         "76238",
         "76250",
         "76252",
-        "76253",
-        "76272",
-        "762HH"
+        "76253"
       ]
     },
     {
@@ -214,11 +127,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76239",
-        "76251",
         "76255",
-        "76261",
-        "76270"
+        "76261"
       ]
     },
     {
@@ -229,16 +139,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75007",
-        "75010",
-        "75028",
-        "75057",
-        "75077",
-        "76201",
-        "76205",
-        "76207",
-        "76208",
-        "76226",
         "76258"
       ]
     },
@@ -250,14 +150,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75021",
-        "75092",
-        "75414",
         "76233",
-        "76245",
         "76264",
         "76268",
-        "76271",
         "76273"
       ]
     },
@@ -270,9 +165,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76230",
-        "76239",
         "76251",
-        "76261",
         "76270"
       ]
     },
@@ -284,12 +177,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76023",
-        "76073",
-        "76225",
-        "76234",
-        "76246",
-        "76426"
+        "76225"
       ]
     },
     {
@@ -300,16 +188,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75007",
-        "75010",
-        "75028",
-        "75057",
-        "75077",
-        "76201",
-        "76205",
-        "76207",
-        "76208",
-        "76226",
         "76266"
       ]
     },
@@ -321,16 +199,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75007",
-        "75010",
-        "75028",
-        "75057",
-        "75077",
-        "76201",
-        "76205",
-        "76207",
         "76208",
-        "76226",
         "76227"
       ]
     },
@@ -342,16 +211,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75007",
-        "75010",
-        "75028",
-        "75057",
-        "75077",
-        "76201",
         "76205",
         "76207",
-        "76208",
-        "76226",
         "76249"
       ]
     },
@@ -363,17 +224,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75007",
-        "75010",
-        "75028",
-        "75057",
-        "75077",
-        "76201",
-        "76205",
-        "76207",
-        "76208",
         "76226",
-        "76247"
+        "76247",
+        "76262"
       ]
     },
     {
@@ -384,16 +237,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75007",
-        "75010",
-        "75028",
-        "75057",
-        "75077",
-        "76201",
-        "76205",
         "76207",
-        "76208",
-        "76226",
         "76259"
       ]
     },
@@ -406,121 +250,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76239",
-        "76251",
-        "76261",
-        "76265",
-        "76270"
-      ]
-    },
-    {
-      "name": "HOWE COMMUNITY LIBRARY",
-      "system": "HOWE COMMUNITY LIBRARY",
-      "address": "315 S COLLINS FWY, HOWE, TX",
-      "website": "https://www.howeisd.net/page/howe-community-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75021",
-        "75092",
-        "75414",
-        "75459",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
-      ]
-    },
-    {
-      "name": "VAN ALSTYNE PUBLIC LIBRARY",
-      "system": "VAN ALSTYNE PUBLIC LIBRARY",
-      "address": "151 W COOPER ST, VAN ALSTYNE, TX",
-      "website": "https://cityofvanalstyne.us/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75021",
-        "75092",
-        "75414",
-        "75495",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
-      ]
-    },
-    {
-      "name": "WHITEWRIGHT PUBLIC LIBRARY",
-      "system": "WHITEWRIGHT PUBLIC LIBRARY",
-      "address": "200 W GRAND ST, WHITEWRIGHT, TX",
-      "website": "https://www.whitewright.lib.tx.us/",
-      "formUrl": "https://www.whitewright.lib.tx.us/about-us/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "75021",
-        "75092",
-        "75414",
-        "75491",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
-      ]
-    },
-    {
-      "name": "LUCILE TEAGUE LIBRARY",
-      "system": "LUCILE TEAGUE LIBRARY",
-      "address": "201 S BRITTON ST STE 2, TOM BEAN, TX",
-      "website": "https://librarytechnology.org/library/61085",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75021",
-        "75092",
-        "75414",
-        "75489",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
-      ]
-    },
-    {
-      "name": "RHOME COMMUNITY LIBRARY",
-      "system": "RHOME COMMUNITY LIBRARY",
-      "address": "265 W BC RHOME AVE, RHOME, TX",
-      "website": "https://www.rhomelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76023",
-        "76073",
-        "76078",
-        "76234",
-        "76246",
-        "76426"
-      ]
-    },
-    {
-      "name": "DENISON PUBLIC LIBRARY",
-      "system": "DENISON PUBLIC LIBRARY",
-      "address": "300 W GANDY ST, DENISON, TX",
-      "website": "https://www.denisontx.gov/255/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75020",
-        "75021",
-        "75092",
-        "75414",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
-        "76271"
+        "76265"
       ]
     },
     {
@@ -531,59 +261,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75007",
-        "75010",
         "75028",
         "75057",
         "75065",
         "75077",
-        "76201",
         "76205",
-        "76207",
-        "76208",
-        "76226"
-      ]
-    },
-    {
-      "name": "LEWISVILLE PUBLIC LIBRARY",
-      "system": "LEWISVILLE PUBLIC LIBRARY",
-      "address": "1197 W MAIN ST, LEWISVILLE, TX",
-      "website": "https://library.cityoflewisville.com/",
-      "formUrl": "https://library.cityoflewisville.com/services/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "75007",
-        "75010",
-        "75028",
-        "75057",
-        "75067",
-        "75077",
-        "76201",
-        "76205",
-        "76207",
-        "76208",
-        "76226"
-      ]
-    },
-    {
-      "name": "THE COLONY PUBLIC LIBRARY",
-      "system": "THE COLONY PUBLIC LIBRARY",
-      "address": "6800 MAIN ST, THE COLONY, TX",
-      "website": "https://www.thecolonytx.gov/1237/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75007",
-        "75010",
-        "75028",
-        "75056",
-        "75057",
-        "75077",
-        "76201",
-        "76205",
-        "76207",
-        "76208",
-        "76226"
+        "76208"
       ]
     },
     {
@@ -594,17 +277,11 @@
       "formUrl": "https://flowermound.gov/library/489/Interlibrary-Loan",
       "formStatus": "verified",
       "zipcodes": [
-        "75007",
-        "75010",
         "75022",
         "75028",
-        "75057",
         "75077",
-        "76201",
-        "76205",
-        "76207",
-        "76208",
-        "76226"
+        "76226",
+        "76262"
       ]
     },
     {
@@ -615,36 +292,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75021",
         "75076",
         "75092",
-        "75414",
-        "76233",
         "76245",
-        "76264",
-        "76268",
-        "76271"
-      ]
-    },
-    {
-      "name": "LITTLE ELM PUBLIC LIBRARY",
-      "system": "LITTLE ELM PUBLIC LIBRARY",
-      "address": "100 W ELDORADO PKWY, LITTLE ELM, TX",
-      "website": "https://www.littleelm.gov/1590/Library-Homepage",
-      "formUrl": "https://www.littleelm.gov/1590/Library-Homepage/1555/Interlibrary-Loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "75007",
-        "75010",
-        "75028",
-        "75057",
-        "75068",
-        "75077",
-        "76201",
-        "76205",
-        "76207",
-        "76208",
-        "76226"
+        "76264"
       ]
     },
     {
@@ -655,14 +306,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75021",
         "75058",
-        "75092",
-        "75414",
-        "76233",
-        "76245",
-        "76264",
-        "76268",
         "76271"
       ]
     }

@@ -1,19 +1,33 @@
 {
   "libraries": [
     {
-      "name": "GLOUCESTER COUNTY PUBLIC LIBRARY",
-      "system": "GLOUCESTER COUNTY PUBLIC LIBRARY",
-      "address": "6920 MAIN STREET, GLOUCESTER, VA",
-      "website": "https://gloucesterva.gov/library",
+      "name": "CUMBERLAND COUNTY PUBLIC LIBRARY",
+      "system": "CUMBERLAND COUNTY PUBLIC LIBRARY",
+      "address": "1539 ANDERSON HIGHWAY, CUMBERLAND, VA",
+      "website": "https://cumberlandcountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23001",
-        "23061",
-        "23062",
-        "23072",
-        "23178",
-        "23184"
+        "23027",
+        "23040",
+        "23123",
+        "23936",
+        "28301",
+        "28303",
+        "28304",
+        "28305",
+        "28306",
+        "28307",
+        "28311",
+        "28314",
+        "28342",
+        "28348",
+        "28356",
+        "28390",
+        "28391",
+        "28395",
+        "42717",
+        "42731"
       ]
     },
     {
@@ -25,9 +39,11 @@
       "formStatus": "unknown",
       "zipcodes": [
         "23005",
+        "23009",
         "23015",
         "23047",
         "23069",
+        "23106",
         "23111",
         "23116",
         "23146",
@@ -37,16 +53,32 @@
     {
       "name": "HERITAGE PUBLIC LIBRARY",
       "system": "HERITAGE PUBLIC LIBRARY",
-      "address": "52 FOURTH ST, MCDONALD, PA",
+      "address": "7791 INVICTA LANE, NEW KENT, VA",
       "website": "https://heritagepubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "15004",
+        "15019",
+        "15053",
+        "15054",
         "15057",
+        "15060",
+        "15078",
+        "15321",
+        "15340",
+        "15350",
+        "15361",
+        "15378",
         "23011",
+        "23030",
+        "23086",
         "23089",
         "23124",
-        "23141"
+        "23140",
+        "23141",
+        "23161",
+        "23181"
       ]
     },
     {
@@ -73,7 +105,13 @@
         "23128",
         "23130",
         "23138",
-        "23163"
+        "23163",
+        "23307",
+        "23310",
+        "23316",
+        "23347",
+        "23354",
+        "23405"
       ]
     },
     {
@@ -89,7 +127,11 @@
         "23070",
         "23071",
         "23079",
+        "23085",
+        "23091",
         "23092",
+        "23108",
+        "23110",
         "23149",
         "23169",
         "23175",
@@ -105,7 +147,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23139"
+        "23039",
+        "23063",
+        "23065",
+        "23102",
+        "23139",
+        "23153"
       ]
     },
     {
@@ -116,7 +163,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "23188"
+        "23156",
+        "23168",
+        "23185",
+        "23188",
+        "23839",
+        "23881",
+        "23899"
       ]
     },
     {
@@ -130,6 +183,8 @@
         "23112",
         "23113",
         "23120",
+        "23224",
+        "23225",
         "23234",
         "23235",
         "23236",
@@ -151,15 +206,85 @@
         "23059",
         "23060",
         "23075",
+        "23103",
+        "23129",
         "23150",
+        "23219",
+        "23220",
+        "23221",
+        "23222",
+        "23224",
+        "23225",
+        "23226",
         "23227",
         "23228",
         "23229",
         "23230",
         "23231",
         "23233",
-        "23294",
-        "232HH"
+        "23294"
+      ]
+    },
+    {
+      "name": "ORANGE COUNTY PUBLIC LIBRARY",
+      "system": "ORANGE COUNTY PUBLIC LIBRARY",
+      "address": "137 W MARGARET LN, HILLSBOROUGH, NC",
+      "website": "https://www.orangecountync.gov/3009/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22433",
+        "22508",
+        "22542",
+        "22567",
+        "22923",
+        "22942",
+        "22960",
+        "22972",
+        "23117",
+        "27231",
+        "27243",
+        "27278"
+      ]
+    },
+    {
+      "name": "CAROLINE COUNTY LIBRARY",
+      "system": "CAROLINE COUNTY LIBRARY",
+      "address": "17202 RICHMOND TURNPIKE, MILFORD, VA",
+      "website": "https://carolinelibrary.org/",
+      "formUrl": "https://carolinelibrary.org/about-us/contact-us/make-a-purchase-request/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "22427",
+        "22514",
+        "22535",
+        "22538",
+        "22546",
+        "22580",
+        "23024",
+        "23126"
+      ]
+    },
+    {
+      "name": "ESSEX PUBLIC LIBRARY",
+      "system": "ESSEX PUBLIC LIBRARY",
+      "address": "117 N. CHURCH LANE, TAPPAHANNOCK, VA",
+      "website": "https://eplva.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22436",
+        "22437",
+        "22438",
+        "22454",
+        "22476",
+        "22504",
+        "22509",
+        "22560",
+        "23023",
+        "23115",
+        "23148",
+        "23177"
       ]
     }
   ]

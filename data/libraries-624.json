@@ -1,40 +1,70 @@
 {
   "libraries": [
     {
-      "name": "RAMSEY PUBLIC LIBRARY",
-      "system": "RAMSEY PUBLIC LIBRARY",
-      "address": "401 SOUTH SUPERIOR STREET, RAMSEY, IL",
-      "website": "https://librarylearning.org/ramsey-public-library",
+      "name": "MOUNT CARMEL PUBLIC LIBRARY",
+      "system": "MOUNT CARMEL PUBLIC LIBRARY",
+      "address": "30 SOUTH OAK ST, MOUNT CARMEL, PA",
+      "website": "https://mtcarmelpubliclibrary.weebly.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62011",
-        "62080",
-        "62418",
-        "62838",
-        "62857",
-        "62880",
-        "62885",
-        "628HH"
+        "17832",
+        "17834",
+        "17840",
+        "17851",
+        "17866",
+        "62410",
+        "62811",
+        "62852",
+        "62863"
       ]
     },
     {
-      "name": "MOWEAQUA PUBLIC LIBRARY DISTRICT",
-      "system": "MOWEAQUA PUBLIC LIBRARY DISTRICT",
-      "address": "600 NORTH PUTNAM STREET, MOWEAQUA, IL",
-      "website": "https://search.illinoisheartland.org/library/hours.aspx?ctx=419.1033.0.0.3&lp=0",
-      "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=419.1033.0.0.3&lp=0/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
+      "name": "FAIRFIELD PUBLIC LIBRARY",
+      "system": "FAIRFIELD PUBLIC LIBRARY",
+      "address": "104 W ADAMS AVE, FAIRFIELD, IA",
+      "website": "https://www.fairfield.lib.ia.us/",
+      "formUrl": "https://fairfieldia.bywatersolutions.com/cgi-bin/koha/opac-suggestions.pl?op=add_form",
       "formStatus": "verified",
       "zipcodes": [
-        "62438",
-        "62444",
-        "62462",
-        "62463",
-        "62465",
-        "62534",
-        "62550",
-        "62553",
-        "62571"
+        "06605",
+        "06607",
+        "06608",
+        "52556",
+        "52567",
+        "52580",
+        "52635",
+        "62446",
+        "62809",
+        "62823",
+        "62833",
+        "62837",
+        "62842",
+        "62843",
+        "62878",
+        "62886",
+        "68452",
+        "68934",
+        "68935",
+        "68938",
+        "68941"
+      ]
+    },
+    {
+      "name": "ALTAMONT PUBLIC LIBRARY",
+      "system": "ALTAMONT PUBLIC LIBRARY",
+      "address": "1433 MAIN STREET, ALTAMONT, TN",
+      "website": "https://altamontpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37301",
+        "62411",
+        "62414",
+        "62426",
+        "62443",
+        "62461",
+        "67330"
       ]
     },
     {
@@ -47,11 +77,8 @@
       "zipcodes": [
         "62438",
         "62444",
-        "62462",
-        "62463",
         "62465",
         "62534",
-        "62553",
         "62565",
         "62571"
       ]
@@ -59,15 +86,19 @@
     {
       "name": "MARSHALL PUBLIC LIBRARY",
       "system": "MARSHALL PUBLIC LIBRARY",
-      "address": "612 ARCHER AVENUE, MARSHALL, IL",
+      "address": "300 S ALAMO BLVD, MARSHALL, TX",
       "website": "https://marshallpl.org/",
       "formUrl": "https://marshallpl.org/interlibrary-loan/",
       "formStatus": "verified",
       "zipcodes": [
+        "62423",
         "62441",
+        "65322",
+        "65339",
+        "65340",
+        "65347",
         "75650",
         "75651",
-        "75661",
         "75670",
         "75672"
       ]
@@ -75,24 +106,19 @@
     {
       "name": "EFFINGHAM PUBLIC LIBRARY",
       "system": "EFFINGHAM PUBLIC LIBRARY",
-      "address": "200 NORTH THIRD STREET, EFFINGHAM, IL",
+      "address": "30 TOWN HOUSE ROAD, EFFINGHAM, NH",
       "website": "https://effingham.lib.nh.us/",
       "formUrl": "https://nhais.agshareit.com/home?cid=nhais&lid=nhais",
       "formStatus": "verified",
       "zipcodes": [
-        "03259",
-        "03813",
         "03830",
-        "03832",
-        "03838",
-        "03845",
-        "03853",
         "03864",
-        "03875",
         "03882",
-        "03883",
-        "03897",
-        "62401"
+        "62401",
+        "62424",
+        "62461",
+        "62467",
+        "62473"
       ]
     },
     {
@@ -112,29 +138,6 @@
       ]
     },
     {
-      "name": "WAYNE CITY KISSNER PUBLIC LIBRARY",
-      "system": "WAYNE CITY KISSNER PUBLIC LIBRARY",
-      "address": "102 SOUTH MAIN STREET, WAYNE CITY, IL",
-      "website": "https://villageofwaynecity.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62446",
-        "62809",
-        "62823",
-        "62833",
-        "62837",
-        "62842",
-        "62843",
-        "62850",
-        "62851",
-        "62878",
-        "62886",
-        "62895",
-        "628XX"
-      ]
-    },
-    {
       "name": "CASEY TOWNSHIP LIBRARY",
       "system": "CASEY TOWNSHIP LIBRARY",
       "address": "307 EAST MAIN STREET, CASEY, IL",
@@ -143,9 +146,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62420",
-        "62423",
-        "62474",
-        "624HH"
+        "62474"
       ]
     },
     {
@@ -158,13 +159,7 @@
       "zipcodes": [
         "62422",
         "62438",
-        "62444",
-        "62462",
-        "62463",
-        "62465",
-        "62534",
-        "62553",
-        "62571"
+        "62444"
       ]
     },
     {
@@ -177,8 +172,7 @@
       "zipcodes": [
         "62428",
         "62436",
-        "62445",
-        "62469"
+        "62445"
       ]
     },
     {
@@ -191,13 +185,7 @@
       "zipcodes": [
         "62431",
         "62438",
-        "62444",
-        "62462",
-        "62463",
-        "62465",
-        "62534",
-        "62553",
-        "62571"
+        "62553"
       ]
     },
     {
@@ -222,10 +210,8 @@
       "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=681.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
       "formStatus": "verified",
       "zipcodes": [
-        "62423",
         "62442",
-        "62474",
-        "624HH"
+        "62474"
       ]
     },
     {
@@ -236,8 +222,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62436",
-        "62445",
         "62447",
         "62469"
       ]
@@ -283,12 +267,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62413",
         "62427",
         "62433",
-        "62449",
-        "62451",
-        "62478"
+        "62451"
       ]
     },
     {
@@ -300,7 +281,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62413",
-        "62427",
         "62433",
         "62449",
         "62454",
@@ -315,14 +295,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62011",
         "62418",
         "62458",
         "62838",
-        "62857",
-        "62880",
-        "62885",
-        "628HH"
+        "62880"
       ]
     },
     {
@@ -347,14 +323,9 @@
       "formUrl": "https://evanspubliclibrary.org/contact-us-2/purchase-request/",
       "formStatus": "verified",
       "zipcodes": [
-        "62011",
         "62418",
         "62471",
-        "62838",
-        "62857",
-        "62880",
-        "62885",
-        "628HH"
+        "62885"
       ]
     },
     {
@@ -366,7 +337,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62476",
-        "62806",
         "62815",
         "62818"
       ]
@@ -379,10 +349,7 @@
       "formUrl": "https://search.illinoisheartland.org/library/hours.aspx?ctx=943.1033.0.0.3/javascript:showModalBasicWithIframe(%27https://search.illinoisheartland.org/help/content/1033/request.htm%27)",
       "formStatus": "verified",
       "zipcodes": [
-        "62423",
-        "62474",
-        "62477",
-        "624HH"
+        "62477"
       ]
     },
     {
@@ -395,9 +362,7 @@
       "zipcodes": [
         "61912",
         "61920",
-        "61931",
         "61943",
-        "619HH",
         "62440"
       ]
     },
@@ -409,11 +374,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61912",
         "61931",
         "61938",
-        "61943",
-        "619HH",
         "62440"
       ]
     },
@@ -426,14 +388,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61957",
-        "62438",
-        "62444",
         "62462",
         "62463",
-        "62465",
-        "62534",
-        "62553",
-        "62571"
+        "62465"
       ]
     }
   ]

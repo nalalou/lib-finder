@@ -1,6 +1,62 @@
 {
   "libraries": [
     {
+      "name": "LASALLE PARISH LIBRARY",
+      "system": "LASALLE PARISH LIBRARY",
+      "address": "3165 NORTH FIRST STREET, JENA, LA",
+      "website": "https://www.lasalle.lib.la.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71342",
+        "71343",
+        "71371",
+        "71465",
+        "71467",
+        "71480"
+      ]
+    },
+    {
+      "name": "RAPIDES PARISH LIBRARY",
+      "system": "RAPIDES PARISH LIBRARY",
+      "address": "411 WASHINGTON STREET, ALEXANDRIA, LA",
+      "website": "https://www.rpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71301",
+        "71302",
+        "71303",
+        "71328",
+        "71346",
+        "71360",
+        "71424",
+        "71430",
+        "71433",
+        "71438",
+        "71466",
+        "71472",
+        "71485"
+      ]
+    },
+    {
+      "name": "CATAHOULA PARISH LIBRARY",
+      "system": "CATAHOULA PARISH LIBRARY",
+      "address": "300 BUSHLEY STREET, HARRISONBURG, LA",
+      "website": "https://librarytechnology.org/library/5803",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71243",
+        "71340",
+        "71368",
+        "71377",
+        "71378",
+        "71401",
+        "71425"
+      ]
+    },
+    {
       "name": "GRANT PARISH LIBRARY",
       "system": "GRANT PARISH LIBRARY",
       "address": "300 MAIN STREET, COLFAX, LA",
@@ -8,7 +64,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71417"
+        "71407",
+        "71409",
+        "71416",
+        "71417",
+        "71423",
+        "71427",
+        "71447",
+        "71452",
+        "71455"
       ]
     },
     {
@@ -19,6 +83,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "71031",
+        "71404",
+        "71410",
+        "71422",
+        "71432",
+        "71473",
+        "71479",
         "71483"
       ]
     },
@@ -30,7 +101,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71449"
+        "71065",
+        "71406",
+        "71426",
+        "71429",
+        "71449",
+        "71450",
+        "71462",
+        "71486"
       ]
     },
     {
@@ -41,7 +119,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71457"
+        "71411",
+        "71414",
+        "71454",
+        "71456",
+        "71457",
+        "71468",
+        "71469"
       ]
     },
     {
@@ -52,7 +136,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71418"
+        "71418",
+        "71435",
+        "71441"
       ]
     },
     {
@@ -63,7 +149,51 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "71446"
+        "71403",
+        "71439",
+        "71446",
+        "71459",
+        "71461",
+        "71474"
+      ]
+    },
+    {
+      "name": "ALLEN PARISH LIBRARIES",
+      "system": "ALLEN PARISH LIBRARIES",
+      "address": "320 SOUTH SIXTH ST., OBERLIN, LA",
+      "website": "https://www.allen.lib.la.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70532",
+        "70637",
+        "70638",
+        "70644",
+        "70648",
+        "70651",
+        "70654",
+        "70655",
+        "70658",
+        "71463"
+      ]
+    },
+    {
+      "name": "DESOTO PARISH LIBRARY",
+      "system": "DESOTO PARISH LIBRARY",
+      "address": "109 CROSBY STREET, MANSFIELD, LA",
+      "website": "http://desotoparishlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71027",
+        "71030",
+        "71032",
+        "71046",
+        "71049",
+        "71052",
+        "71078",
+        "71115",
+        "71419"
       ]
     }
   ]

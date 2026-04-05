@@ -3,129 +3,88 @@
     {
       "name": "CLEAR LAKE PUBLIC LIBRARY",
       "system": "CLEAR LAKE PUBLIC LIBRARY",
-      "address": "350 FOURTH AVE., CLEAR LAKE, WI",
+      "address": "200 N 4TH ST, CLEAR LAKE, IA",
       "website": "https://clearlakelibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50428",
         "54004",
-        "54005",
-        "54006",
-        "54026",
-        "54858"
+        "54005"
       ]
     },
     {
       "name": "ELLSWORTH PUBLIC LIBRARY",
       "system": "ELLSWORTH PUBLIC LIBRARY",
-      "address": "388 W. MAIN ST., ELLSWORTH, WI",
+      "address": "20 STATE STREET, ELLSWORTH, ME",
       "website": "http://www.ellsworth.lib.me.us",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "04605",
+        "04640",
+        "04684",
+        "50075",
+        "50132",
+        "50231",
         "54003",
         "54011",
         "54014",
-        "54021",
-        "540HH",
-        "54723",
-        "54750"
-      ]
-    },
-    {
-      "name": "ELMWOOD PUBLIC LIBRARY",
-      "system": "ELMWOOD PUBLIC LIBRARY",
-      "address": "111 N. MAIN ST, ELMWOOD, WI",
-      "website": "https://libraries.ne.gov/elmwood/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54003",
-        "54014",
-        "54021",
-        "540HH",
-        "54723",
-        "54740",
-        "54750"
+        "54723"
       ]
     },
     {
       "name": "BALDWIN PUBLIC LIBRARY",
       "system": "BALDWIN PUBLIC LIBRARY",
-      "address": "300 WEST MERRILL STREET, BIRMINGHAM, MI",
+      "address": "2385 GRAND AVENUE, BALDWIN, NY",
       "website": "https://baldwinpl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "11510",
         "48009",
+        "48025",
+        "48098",
+        "48301",
+        "48304",
         "54002",
-        "54007",
-        "54012",
-        "54027",
-        "54082"
+        "54027"
       ]
     },
     {
       "name": "SOMERSET PUBLIC LIBRARY",
       "system": "SOMERSET PUBLIC LIBRARY",
-      "address": "208 HUD ST., SOMERSET, WI",
+      "address": "1464 COUNTY ST., SOMERSET, MA",
       "website": "https://www.somersetpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54002",
-        "54007",
-        "54012",
+        "02702",
+        "02721",
+        "02723",
+        "02724",
+        "02725",
+        "02726",
         "54025",
-        "54027",
         "54082"
       ]
     },
     {
       "name": "PRESCOTT PUBLIC LIBRARY",
       "system": "PRESCOTT PUBLIC LIBRARY",
-      "address": "215 E GOODWIN ST, PRESCOTT, AZ",
+      "address": "607 2ND ST, PRESCOTT, IA",
       "website": "http://www.prescottlibrary.info/",
       "formUrl": "https://prescottlibrary.info/books-movies-and-more/beyond-the-catalog/suggest-a-purchase/",
       "formStatus": "verified",
       "zipcodes": [
-        "54003",
-        "54014",
+        "50859",
         "54021",
-        "540HH",
-        "54723",
-        "54750",
-        "86303"
-      ]
-    },
-    {
-      "name": "BALSAM LAKE PUBLIC LIBRARY",
-      "system": "BALSAM LAKE PUBLIC LIBRARY",
-      "address": "404 MAIN ST., BALSAM LAKE, WI",
-      "website": "https://balsamlakepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54004",
-        "54006",
-        "54026",
-        "54810",
-        "54858"
-      ]
-    },
-    {
-      "name": "CENTURIA PUBLIC LIBRARY",
-      "system": "CENTURIA PUBLIC LIBRARY",
-      "address": "409 4TH ST., CENTURIA, WI",
-      "website": "https://centurialibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54004",
-        "54006",
-        "54026",
-        "54824",
-        "54858"
+        "85332",
+        "85362",
+        "86303",
+        "86321",
+        "86332",
+        "86343"
       ]
     },
     {
@@ -136,11 +95,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54004",
         "54006",
-        "54026",
-        "54837",
-        "54858"
+        "54837"
       ]
     },
     {
@@ -151,59 +107,55 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54004",
         "54006",
-        "54026",
-        "54853",
-        "54858"
+        "54853"
       ]
     },
     {
       "name": "MILLTOWN PUBLIC LIBRARY",
       "system": "MILLTOWN PUBLIC LIBRARY",
-      "address": "20 W. CHURCH STREET, MILLTOWN, NJ",
+      "address": "61 W. MAIN ST., MILLTOWN, WI",
       "website": "https://www.milltownlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "08824",
         "08850",
-        "54004",
         "54006",
-        "54026",
         "54858"
-      ]
-    },
-    {
-      "name": "SPRING VALLEY PUBLIC LIBRARY",
-      "system": "SPRING VALLEY PUBLIC LIBRARY",
-      "address": "E121 S. 2ND ST., SPRING VALLEY, WI",
-      "website": "http://springvalley.lib.mn.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54003",
-        "54014",
-        "54021",
-        "540HH",
-        "54723",
-        "54750",
-        "54767"
       ]
     },
     {
       "name": "DEER PARK PUBLIC LIBRARY",
       "system": "DEER PARK PUBLIC LIBRARY",
-      "address": "44 LAKE AVENUE, DEER PARK, NY",
+      "address": "3009 CENTER ST, DEER PARK, TX",
       "website": "https://www.deerparklibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "11729",
-        "54002",
         "54007",
-        "54012",
-        "54027",
-        "54082"
+        "77015",
+        "77017",
+        "77034",
+        "77058",
+        "77059",
+        "77061",
+        "77062",
+        "77075",
+        "77089",
+        "77502",
+        "77503",
+        "77504",
+        "77505",
+        "77507",
+        "77530",
+        "77536",
+        "77547",
+        "77571",
+        "77586",
+        "77587",
+        "77598"
       ]
     },
     {
@@ -215,10 +167,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54001",
-        "54004",
-        "54006",
-        "54026",
-        "54858"
+        "54005",
+        "54026"
       ]
     },
     {
@@ -229,12 +179,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54002",
-        "54007",
-        "54012",
         "54013",
-        "54027",
-        "54082"
+        "54027"
       ]
     },
     {
@@ -246,11 +192,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54002",
-        "54007",
-        "54012",
-        "54015",
-        "54027",
-        "54082"
+        "54015"
       ]
     },
     {
@@ -261,11 +203,7 @@
       "formUrl": "https://hudsonpubliclibrary.org/",
       "formStatus": "verified",
       "zipcodes": [
-        "54002",
-        "54007",
-        "54012",
         "54016",
-        "54027",
         "54082"
       ]
     },
@@ -277,12 +215,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54002",
-        "54007",
-        "54012",
         "54017",
-        "54027",
-        "54082"
+        "54025"
       ]
     },
     {
@@ -293,11 +227,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54004",
-        "54006",
-        "54020",
-        "54026",
-        "54858"
+        "54020"
       ]
     },
     {
@@ -309,12 +239,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54003",
-        "54014",
         "54021",
-        "54022",
-        "540HH",
-        "54723",
-        "54750"
+        "54022"
       ]
     },
     {
@@ -325,12 +251,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54002",
-        "54007",
-        "54012",
-        "54023",
-        "54027",
-        "54082"
+        "54023"
       ]
     },
     {
@@ -342,11 +263,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54002",
-        "54007",
-        "54012",
         "54027",
-        "54028",
-        "54082"
+        "54028"
       ]
     },
     {
@@ -357,11 +275,7 @@
       "formUrl": "https://documents.iflsweb.org/more/purchase_more2.php",
       "formStatus": "verified",
       "zipcodes": [
-        "54004",
-        "54006",
-        "54009",
-        "54026",
-        "54858"
+        "54009"
       ]
     },
     {
@@ -372,28 +286,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54004",
-        "54006",
-        "54024",
-        "54026",
-        "54858"
-      ]
-    },
-    {
-      "name": "PLUM CITY PUBLIC LIBRARY",
-      "system": "PLUM CITY PUBLIC LIBRARY",
-      "address": "611 MAIN ST., PLUM CITY, WI",
-      "website": "https://plumcitylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54003",
-        "54014",
-        "54021",
-        "540HH",
-        "54723",
-        "54750",
-        "54761"
+        "54024"
       ]
     }
   ]

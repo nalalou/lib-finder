@@ -1,36 +1,56 @@
 {
   "libraries": [
     {
-      "name": "GAYLORD CITY LIBRARY",
-      "system": "GAYLORD CITY LIBRARY",
-      "address": "505 MAIN, GAYLORD, KS",
-      "website": "http://www.gaylordkansas.com/library.html",
+      "name": "BELLEVILLE PUBLIC LIBRARY",
+      "system": "BELLEVILLE PUBLIC LIBRARY",
+      "address": "221 WASHINGTON AVENUE, BELLEVILLE, NJ",
+      "website": "https://bellepl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66932",
-        "669XX",
-        "67628",
-        "67638"
+        "07104",
+        "07105",
+        "07109",
+        "53508",
+        "53521",
+        "62220",
+        "62221",
+        "62223",
+        "62226",
+        "66935",
+        "66959"
       ]
     },
     {
       "name": "WASHINGTON PUBLIC LIBRARY",
       "system": "WASHINGTON PUBLIC LIBRARY",
-      "address": "116 E. 2ND, WASHINGTON, KS",
+      "address": "410 LAFAYETTE ST, WASHINGTON, MO",
       "website": "https://washboropl.org/contact-us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07825",
-        "07832",
         "07833",
         "07838",
-        "07846",
         "07863",
         "07865",
         "07882",
         "08886",
+        "63014",
+        "63055",
+        "63068",
+        "63089",
+        "63090",
+        "63357",
+        "63383",
+        "63390",
+        "66933",
+        "66937",
+        "66943",
+        "66944",
+        "66953",
+        "66955",
+        "66958",
+        "66962",
         "66968"
       ]
     },
@@ -42,9 +62,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66941",
-        "66963",
-        "66970"
+        "66963"
       ]
     },
     {
@@ -55,7 +73,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66941",
         "66942",
         "66970"
       ]
@@ -68,10 +85,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66930",
-        "66935",
-        "66959",
-        "66960",
         "66964"
       ]
     },
@@ -84,8 +97,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66936",
-        "66941",
-        "66970"
+        "66941"
       ]
     },
     {
@@ -96,10 +108,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66932",
-        "66952",
-        "669XX",
-        "67628"
+        "66952"
       ]
     },
     {
@@ -110,11 +119,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66930",
-        "66935",
-        "66939",
-        "66959",
-        "66960"
+        "66939"
       ]
     },
     {
@@ -125,9 +130,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66948",
-        "67417",
-        "67466"
+        "66948"
       ]
     },
     {
@@ -138,10 +141,7 @@
       "formUrl": "http://scandiacitylibrary.blogspot.com/p/request-book-from-another-library.html",
       "formStatus": "verified",
       "zipcodes": [
-        "66930",
         "66935",
-        "66959",
-        "66960",
         "66966"
       ]
     },
@@ -153,9 +153,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66941",
-        "66949",
-        "66970"
+        "66949"
       ]
     },
     {
@@ -168,7 +166,6 @@
       "zipcodes": [
         "66932",
         "66951",
-        "669XX",
         "67628"
       ]
     },
@@ -181,7 +178,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66938",
-        "67417",
         "67466"
       ]
     },
@@ -193,9 +189,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66941",
-        "66956",
-        "66970"
+        "66956"
       ]
     },
     {
@@ -207,9 +201,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66932",
-        "66967",
-        "669XX",
-        "67628"
+        "66967"
       ]
     },
     {
@@ -221,8 +213,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "66901",
-        "67417",
-        "67466"
+        "67417"
       ]
     },
     {
@@ -233,16 +224,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66933",
-        "66937",
-        "66943",
-        "66944",
         "66945",
-        "66946",
-        "66953",
-        "66955",
-        "66958",
-        "66962"
+        "66946"
       ]
     },
     {
@@ -258,22 +241,6 @@
         "66940",
         "66959",
         "66960"
-      ]
-    },
-    {
-      "name": "CLAY CENTER CARNEGIE LIBRARY",
-      "system": "CLAY CENTER CARNEGIE LIBRARY",
-      "address": "706 6 ST, CLAY CENTER, KS",
-      "website": "http://claycenter.lib.nckls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "669HH",
-        "67432",
-        "67447",
-        "67458",
-        "67468",
-        "674HH"
       ]
     }
   ]

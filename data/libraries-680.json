@@ -3,175 +3,121 @@
     {
       "name": "LOUISVILLE PUBLIC LIBRARY",
       "system": "LOUISVILLE PUBLIC LIBRARY",
-      "address": "217 MAIN STREET, LOUISVILLE, NE",
-      "website": "http://www.louisvillenelibrary.org/",
+      "address": "951 SPRUCE STREET, LOUISVILLE, CO",
+      "website": "https://jefferson.public.lib.ga.us/library-branches/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44601",
-        "44608",
-        "44613",
-        "44626",
+        "36048",
         "44632",
-        "44640",
         "44641",
-        "44643",
-        "44647",
-        "44662",
-        "44666",
         "44669",
         "44670",
-        "44688",
-        "44689",
         "44703",
         "44704",
         "44705",
-        "44706",
         "44707",
-        "44708",
         "44709",
-        "44710",
         "44714",
-        "44718",
         "44721",
         "44730",
-        "68037"
+        "68016",
+        "68037",
+        "68058",
+        "68403",
+        "68407",
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80303",
+        "80304",
+        "80516"
       ]
     },
     {
       "name": "ARLINGTON PUBLIC LIBRARY",
       "system": "ARLINGTON PUBLIC LIBRARY",
-      "address": "410 WEST ELM STREET, ARLINGTON, NE",
+      "address": "321 WEST MAIN STREET, ARLINGTON, MN",
       "website": "http://library.arlingtonva.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50606",
+        "55307",
+        "55336",
+        "55338",
+        "55354",
+        "55370",
+        "55381",
+        "55395",
         "68002",
+        "68034",
+        "68068",
         "97812"
-      ]
-    },
-    {
-      "name": "GREENWOOD PUBLIC LIBRARY",
-      "system": "GREENWOOD PUBLIC LIBRARY",
-      "address": "310 SOUTH MERIDIAN, GREENWOOD, IN",
-      "website": "https://greenwoodne.gov/departments/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46143",
-        "68016",
-        "68058",
-        "68304",
-        "68307",
-        "68347",
-        "68349",
-        "68366",
-        "68403",
-        "68407",
-        "68409",
-        "68413",
-        "68455",
-        "684HH"
       ]
     },
     {
       "name": "LYONS PUBLIC LIBRARY",
       "system": "LYONS PUBLIC LIBRARY",
-      "address": "305 MAIN STREET, LYONS, NE",
+      "address": "279 8TH ST, LYONS, OR",
       "website": "https://lyonsne.com/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "14489",
+        "14513",
+        "60534",
+        "67524",
+        "67554",
+        "68020",
         "68038",
-        "97321",
-        "97329",
-        "97345",
+        "68045",
         "97350",
-        "97355",
         "97358",
-        "97360",
-        "97377",
-        "97389",
-        "973XX"
+        "97360"
       ]
     },
     {
       "name": "BANCROFT PUBLIC LIBRARY",
       "system": "BANCROFT PUBLIC LIBRARY",
-      "address": "103 E. POPLAR, BANCROFT, NE",
+      "address": "208 E RAMSEY ST, BANCROFT, IA",
       "website": "https://www.bancroftnebraska.com/community/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12057",
-        "12819",
-        "12821",
         "12823",
-        "12827",
-        "12837",
-        "12838",
-        "12841",
-        "12844",
-        "12849",
-        "12861",
         "12865",
         "12873",
+        "50517",
+        "50559",
         "68004"
       ]
     },
     {
       "name": "ASHLAND PUBLIC LIBRARY",
       "system": "ASHLAND PUBLIC LIBRARY",
-      "address": "1324 SILVER STREET, ASHLAND, NE",
+      "address": "1229 CENTRE ST, ASHLAND, PA",
       "website": "https://www.ashlandmass.com/184/Ashland-Public-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "01701",
+        "01721",
+        "01748",
         "17921",
-        "17922",
-        "17923",
-        "17925",
-        "17929",
-        "17930",
-        "17933",
-        "17934",
         "17935",
         "17936",
-        "17941",
         "17943",
-        "17944",
-        "17946",
-        "17949",
-        "17951",
-        "17952",
-        "17953",
-        "17954",
-        "17957",
-        "17959",
-        "17960",
-        "17963",
-        "17964",
-        "17968",
-        "17970",
-        "17974",
-        "17978",
-        "17979",
-        "17982",
-        "17983",
-        "17985",
-        "179HH",
-        "18211",
-        "18214",
-        "18218",
-        "18220",
-        "18231",
-        "18237",
-        "18241",
-        "18242",
-        "18245",
-        "18248",
-        "19549",
-        "68003"
+        "44805",
+        "44838",
+        "44840",
+        "44859",
+        "44866",
+        "44874",
+        "44880",
+        "68003",
+        "68042"
       ]
     },
     {
@@ -182,67 +128,69 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68016",
-        "68058",
-        "68304",
+        "68037",
         "68307",
-        "68347",
-        "68349",
-        "68366",
         "68403",
         "68407",
-        "68409",
         "68413",
         "68455",
-        "68463",
-        "684HH"
+        "68463"
       ]
     },
     {
       "name": "OAKLAND PUBLIC LIBRARY",
       "system": "OAKLAND PUBLIC LIBRARY",
-      "address": "110 EAST 3RD STREET, OAKLAND, NE",
+      "address": "637 NE LOCUST ST, OAKLAND, OR",
       "website": "http://www.oaklandlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "04963",
+        "07436",
+        "68019",
+        "68038",
         "68045",
-        "97410",
-        "97416",
-        "97417",
-        "97428",
-        "97429",
-        "97436",
-        "97441",
-        "97442",
-        "97443",
-        "97447",
-        "97457",
-        "97462",
-        "97469",
-        "97473",
-        "97481",
-        "97484",
-        "97486",
-        "974XX"
+        "94502",
+        "94601",
+        "94602",
+        "94606",
+        "94608",
+        "94609",
+        "94610",
+        "94611",
+        "94612",
+        "94618",
+        "94619",
+        "94702",
+        "94703",
+        "94704",
+        "94705",
+        "94706",
+        "94707",
+        "94708",
+        "94709",
+        "94710",
+        "97462"
       ]
     },
     {
       "name": "BELLEVUE PUBLIC LIBRARY",
       "system": "BELLEVUE PUBLIC LIBRARY",
-      "address": "1003 LINCOLN ROAD, BELLEVUE, NE",
+      "address": "106 N 3RD ST SUITE 1, BELLEVUE, IA",
       "website": "https://www.bellevue.net/176/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44826",
-        "44837",
-        "44850",
-        "44855",
-        "44857",
-        "44865",
-        "44889",
-        "68005"
+        "44847",
+        "52031",
+        "52054",
+        "52079",
+        "68005",
+        "68113",
+        "68123",
+        "68133",
+        "68147",
+        "68157"
       ]
     },
     {
@@ -254,96 +202,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68030",
-        "68731",
-        "68741"
-      ]
-    },
-    {
-      "name": "SOUTH SIOUX CITY PUBLIC LIBRARY",
-      "system": "SOUTH SIOUX CITY PUBLIC LIBRARY",
-      "address": "2121 DAKOTA AVENUE, SOUTH SIOUX CITY, NE",
-      "website": "https://libraries.ne.gov/southsiouxcity/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68030",
-        "68741",
-        "68776"
-      ]
-    },
-    {
-      "name": "JACKSON COMMUNITY LIBRARY",
-      "system": "JACKSON COMMUNITY LIBRARY",
-      "address": "223 N. JOHN ST., JACKSON, NE",
-      "website": "https://www.starklibrary.org/locations/SJ/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68030",
-        "68741",
-        "68743"
-      ]
-    },
-    {
-      "name": "JOHN ROGERS MEMORIAL LIBRARY",
-      "system": "JOHN ROGERS MEMORIAL LIBRARY",
-      "address": "703 2ND STREET, DODGE, NE",
-      "website": "https://dodge.nelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68044",
-        "68063",
-        "68621",
-        "68633"
-      ]
-    },
-    {
-      "name": "RISING CITY COMMUNITY LIBRARY",
-      "system": "RISING CITY COMMUNITY LIBRARY",
-      "address": "250 GARHAN AVENUE, RISING CITY, NE",
-      "website": "https://libraries.ne.gov/risingcity/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68001",
-        "68014",
-        "68036",
-        "68624",
-        "68626",
-        "68658",
-        "68667"
-      ]
-    },
-    {
-      "name": "SNYDER PUBLIC LIBRARY",
-      "system": "SNYDER PUBLIC LIBRARY",
-      "address": "203 ASH STREET, SNYDER, NE",
-      "website": "https://librarytechnology.org/library/21282",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68044",
-        "68063",
-        "68621",
-        "68664"
-      ]
-    },
-    {
-      "name": "ULYSSES TOWNSHIP LIBRARY",
-      "system": "ULYSSES TOWNSHIP LIBRARY",
-      "address": "410 C STREET, ULYSSES, NE",
-      "website": "https://libraries.ne.gov/ulysses/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68001",
-        "68014",
-        "68036",
-        "68624",
-        "68626",
-        "68667",
-        "68669"
+        "68731"
       ]
     },
     {
@@ -359,64 +218,7 @@
         "68036",
         "68624",
         "68626",
-        "68632",
-        "68667"
-      ]
-    },
-    {
-      "name": "DWIGHT COMMUNITY LIBRARY",
-      "system": "DWIGHT COMMUNITY LIBRARY",
-      "address": "120 N 2ND STREET, DWIGHT, NE",
-      "website": "https://librarytechnology.org/library/21331",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68001",
-        "68014",
-        "68036",
-        "68624",
-        "68626",
-        "68635",
-        "68667"
-      ]
-    },
-    {
-      "name": "OMAHA PUBLIC LIBRARY",
-      "system": "OMAHA PUBLIC LIBRARY",
-      "address": "3020 S 84 STREET, OMAHA, NE",
-      "website": "https://omahalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68010",
-        "68022",
-        "68102",
-        "68104",
-        "68105",
-        "68106",
-        "68107",
-        "68108",
-        "68110",
-        "68111",
-        "68112",
-        "68114",
-        "68116",
-        "68117",
-        "68118",
-        "68122",
-        "68124",
-        "68130",
-        "68131",
-        "68132",
-        "68134",
-        "68135",
-        "68137",
-        "68142",
-        "68144",
-        "68152",
-        "68154",
-        "68164",
-        "681HH"
+        "68632"
       ]
     },
     {
@@ -427,7 +229,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68054",
+        "68005",
         "68113",
         "68123",
         "68128",
@@ -447,21 +249,16 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68010",
-        "68022",
         "68102",
         "68104",
         "68105",
         "68106",
         "68107",
         "68108",
-        "68110",
         "68111",
-        "68112",
         "68114",
-        "68116",
         "68117",
         "68118",
-        "68122",
         "68127",
         "68130",
         "68131",
@@ -469,29 +266,25 @@
         "68134",
         "68135",
         "68137",
-        "68142",
         "68144",
-        "68152",
         "68154",
-        "68164",
-        "681HH"
+        "68164"
       ]
     },
     {
       "name": "MEAD PUBLIC LIBRARY",
       "system": "MEAD PUBLIC LIBRARY",
-      "address": "316 SOUTH VINE, MEAD, NE",
+      "address": "710 N. 8TH ST., SHEBOYGAN, WI",
       "website": "https://libraries.ne.gov/mead/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53001",
-        "53011",
-        "53023",
         "53081",
         "53083",
-        "53093",
-        "68041"
+        "68018",
+        "68033",
+        "68041",
+        "68042"
       ]
     },
     {
@@ -505,32 +298,18 @@
         "68007",
         "68010",
         "68022",
-        "68102",
         "68104",
-        "68105",
-        "68106",
-        "68107",
-        "68108",
-        "68110",
-        "68111",
-        "68112",
         "68114",
         "68116",
-        "68117",
         "68118",
         "68122",
         "68130",
-        "68131",
-        "68132",
         "68134",
-        "68135",
-        "68137",
         "68142",
         "68144",
         "68152",
         "68154",
-        "68164",
-        "681HH"
+        "68164"
       ]
     },
     {
@@ -544,8 +323,7 @@
         "68008",
         "68023",
         "68029",
-        "68034",
-        "68068"
+        "68034"
       ]
     },
     {
@@ -556,16 +334,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68015",
         "68017",
-        "68018",
-        "68033",
-        "68035",
-        "68040",
-        "68042",
-        "68050",
-        "68070",
-        "68648"
+        "68033"
       ]
     },
     {
@@ -578,7 +348,6 @@
       "zipcodes": [
         "68025",
         "68044",
-        "68063",
         "68621"
       ]
     },
@@ -591,14 +360,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68028",
-        "68054",
-        "68113",
-        "68123",
-        "68133",
-        "68136",
-        "68138",
-        "68147",
-        "68157"
+        "68136"
       ]
     },
     {
@@ -609,11 +371,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68039",
         "68047",
-        "68055",
-        "68062",
-        "68071"
+        "68062"
       ]
     },
     {
@@ -624,20 +383,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68016",
         "68048",
-        "68058",
-        "68304",
-        "68307",
-        "68347",
-        "68349",
-        "68366",
-        "68403",
-        "68407",
-        "68409",
-        "68413",
-        "68455",
-        "684HH"
+        "68409"
       ]
     },
     {
@@ -648,10 +395,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68044",
         "68057",
-        "68063",
-        "68621"
+        "68063"
       ]
     },
     {
@@ -662,15 +407,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68054",
         "68059",
-        "68113",
-        "68123",
-        "68133",
         "68136",
-        "68138",
-        "68147",
-        "68157"
+        "68138"
       ]
     },
     {
@@ -682,9 +421,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68019",
-        "68020",
-        "68061",
-        "680HH"
+        "68061"
       ]
     },
     {
@@ -695,35 +432,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68010",
         "68022",
         "68064",
-        "68102",
-        "68104",
-        "68105",
-        "68106",
-        "68107",
-        "68108",
-        "68110",
-        "68111",
-        "68112",
-        "68114",
-        "68116",
-        "68117",
-        "68118",
-        "68122",
-        "68130",
-        "68131",
-        "68132",
-        "68134",
-        "68135",
-        "68137",
-        "68142",
-        "68144",
-        "68152",
-        "68154",
-        "68164",
-        "681HH"
+        "68116"
       ]
     },
     {
@@ -734,16 +445,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68015",
-        "68018",
-        "68033",
-        "68035",
-        "68040",
-        "68042",
-        "68050",
         "68065",
-        "68070",
-        "68648"
+        "68070"
       ]
     },
     {
@@ -757,9 +460,8 @@
         "68015",
         "68018",
         "68033",
-        "68035",
         "68040",
-        "68042",
+        "68041",
         "68050",
         "68066",
         "68070",
@@ -776,7 +478,6 @@
       "zipcodes": [
         "68039",
         "68055",
-        "68062",
         "68067",
         "68071"
       ]
@@ -792,32 +493,12 @@
         "68010",
         "68022",
         "68069",
-        "68102",
-        "68104",
-        "68105",
-        "68106",
-        "68107",
-        "68108",
-        "68110",
-        "68111",
-        "68112",
-        "68114",
         "68116",
-        "68117",
         "68118",
-        "68122",
         "68130",
-        "68131",
-        "68132",
-        "68134",
         "68135",
-        "68137",
-        "68142",
         "68144",
-        "68152",
-        "68154",
-        "68164",
-        "681HH"
+        "68154"
       ]
     },
     {
@@ -828,16 +509,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68015",
-        "68018",
-        "68033",
-        "68035",
-        "68040",
-        "68042",
-        "68050",
-        "68070",
-        "68073",
-        "68648"
+        "68041",
+        "68073"
       ]
     },
     {
@@ -848,12 +521,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68005",
         "68046",
-        "68054",
         "68113",
         "68123",
         "68133",
-        "68136",
         "68138",
         "68147",
         "68157"

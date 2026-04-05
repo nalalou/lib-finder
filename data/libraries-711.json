@@ -8,7 +8,23 @@
       "formUrl": "https://www.bossierlibrary.org/how-do-i/request-book-be-purchased-librarys-collection",
       "formStatus": "verified",
       "zipcodes": [
-        "71111"
+        "71004",
+        "71006",
+        "71029",
+        "71037",
+        "71043",
+        "71044",
+        "71051",
+        "71064",
+        "71103",
+        "71104",
+        "71105",
+        "71107",
+        "71108",
+        "71109",
+        "71110",
+        "71111",
+        "71112"
       ]
     },
     {
@@ -19,7 +35,45 @@
       "formUrl": "https://www.shreve-lib.org/",
       "formStatus": "verified",
       "zipcodes": [
-        "71101"
+        "71007",
+        "71033",
+        "71047",
+        "71060",
+        "71061",
+        "71069",
+        "71082",
+        "71101",
+        "71103",
+        "71104",
+        "71105",
+        "71106",
+        "71107",
+        "71108",
+        "71109",
+        "71110",
+        "71112",
+        "71118",
+        "71119",
+        "71129"
+      ]
+    },
+    {
+      "name": "DESOTO PARISH LIBRARY",
+      "system": "DESOTO PARISH LIBRARY",
+      "address": "109 CROSBY STREET, MANSFIELD, LA",
+      "website": "http://desotoparishlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71027",
+        "71030",
+        "71032",
+        "71046",
+        "71049",
+        "71052",
+        "71078",
+        "71115",
+        "71419"
       ]
     }
   ]

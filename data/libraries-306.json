@@ -1,6 +1,26 @@
 {
   "libraries": [
     {
+      "name": "PIEDMONT REGIONAL LIBRARY SYSTEM",
+      "system": "PIEDMONT REGIONAL LIBRARY SYSTEM",
+      "address": "990 WASHINGTON STREET, JEFFERSON, GA",
+      "website": "https://www.prlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30517",
+        "30529",
+        "30530",
+        "30548",
+        "30549",
+        "30558",
+        "30565",
+        "30567",
+        "30575",
+        "30680"
+      ]
+    },
+    {
       "name": "ATHENS REGIONAL LIBRARY SYSTEM",
       "system": "ATHENS REGIONAL LIBRARY SYSTEM",
       "address": "2025 BAXTER STREET, ATHENS, GA",
@@ -13,6 +33,16 @@
         "30605",
         "30606",
         "30607",
+        "30619",
+        "30621",
+        "30622",
+        "30628",
+        "30630",
+        "30633",
+        "30646",
+        "30666",
+        "30667",
+        "30677",
         "30683"
       ]
     },
@@ -25,9 +55,11 @@
       "formStatus": "unknown",
       "zipcodes": [
         "30624",
+        "30627",
+        "30629",
         "30634",
         "30635",
-        "306HH"
+        "30648"
       ]
     },
     {
@@ -39,7 +71,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "30516",
-        "30643"
+        "30520",
+        "30521",
+        "30553",
+        "30557",
+        "30643",
+        "30662"
       ]
     },
     {
@@ -51,8 +88,16 @@
       "formStatus": "unknown",
       "zipcodes": [
         "30625",
+        "30641",
+        "30642",
         "30650",
-        "30663"
+        "30663",
+        "30665",
+        "30669",
+        "30678",
+        "31024",
+        "31085",
+        "31087"
       ]
     },
     {
@@ -63,9 +108,65 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "30631",
         "30660",
+        "30664",
         "30668",
-        "30673"
+        "30673",
+        "30807",
+        "30817",
+        "30821",
+        "30824",
+        "30828"
+      ]
+    },
+    {
+      "name": "GWINNETT COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "GWINNETT COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "1001 LAWRENCEVILLE HIGHWAY, LAWRENCEVILLE, GA",
+      "website": "https://www.gwinnettpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30011",
+        "30017",
+        "30019",
+        "30024",
+        "30039",
+        "30043",
+        "30044",
+        "30045",
+        "30046",
+        "30047",
+        "30052",
+        "30071",
+        "30078",
+        "30092",
+        "30093",
+        "30096",
+        "30518",
+        "30519",
+        "30620",
+        "30656"
+      ]
+    },
+    {
+      "name": "NEWTON COUNTY LIBRARY SYSTEM",
+      "system": "NEWTON COUNTY LIBRARY SYSTEM",
+      "address": "7116 FLOYD STREET, COVINGTON, GA",
+      "website": "https://newtonlibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30014",
+        "30016",
+        "30025",
+        "30054",
+        "30055",
+        "30056",
+        "30070",
+        "30655",
+        "31064"
       ]
     }
   ]

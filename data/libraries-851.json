@@ -1,47 +1,6 @@
 {
   "libraries": [
     {
-      "name": "KEARNY PUBLIC LIBRARY",
-      "system": "KEARNY PUBLIC LIBRARY",
-      "address": "912-A TILBURY RD, KEARNY, AZ",
-      "website": "https://kearnylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07029",
-        "07032",
-        "07087",
-        "07304",
-        "07305",
-        "07306",
-        "07307",
-        "07310",
-        "073HH",
-        "85137"
-      ]
-    },
-    {
-      "name": "SUPERIOR PUBLIC LIBRARY",
-      "system": "SUPERIOR PUBLIC LIBRARY",
-      "address": "99 N KELLNER AVE, SUPERIOR, AZ",
-      "website": "http://superiorlibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54820",
-        "54836",
-        "54838",
-        "54842",
-        "54849",
-        "54854",
-        "54864",
-        "54873",
-        "54874",
-        "54880",
-        "85173"
-      ]
-    },
-    {
       "name": "PINAL COUNTY LIBRARY DISTRICT",
       "system": "PINAL COUNTY LIBRARY DISTRICT",
       "address": "92 W BUTTE AVE, FLORENCE, AZ",
@@ -49,27 +8,7 @@
       "formUrl": "https://forms.pinal.gov/ng/fa/suggest_a_purchase",
       "formStatus": "verified",
       "zipcodes": [
-        "85132",
-        "85219",
-        "85220",
-        "85221",
-        "85222",
-        "85223",
-        "85228",
-        "85230",
-        "85231",
-        "85232",
-        "85237",
-        "85239",
-        "85241",
-        "85245",
-        "85247",
-        "85272",
-        "85273",
-        "85292",
-        "852XX",
-        "85623",
-        "85631"
+        "85132"
       ]
     },
     {
@@ -80,27 +19,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85119",
-        "85219",
-        "85220",
-        "85221",
-        "85222",
-        "85223",
-        "85228",
-        "85230",
-        "85231",
-        "85232",
-        "85237",
-        "85239",
-        "85241",
-        "85245",
-        "85247",
-        "85272",
-        "85273",
-        "85292",
-        "852XX",
-        "85623",
-        "85631"
+        "85119"
       ]
     },
     {
@@ -111,27 +30,7 @@
       "formUrl": "https://casagrandeaz.gov/214/Library",
       "formStatus": "verified",
       "zipcodes": [
-        "85122",
-        "85219",
-        "85220",
-        "85221",
-        "85222",
-        "85223",
-        "85228",
-        "85230",
-        "85231",
-        "85232",
-        "85237",
-        "85239",
-        "85241",
-        "85245",
-        "85247",
-        "85272",
-        "85273",
-        "85292",
-        "852XX",
-        "85623",
-        "85631"
+        "85122"
       ]
     },
     {
@@ -142,41 +41,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85135",
-        "85235",
-        "85545",
-        "855HH"
+        "85135"
       ]
     },
     {
       "name": "COOLIDGE PUBLIC LIBRARY",
       "system": "COOLIDGE PUBLIC LIBRARY",
       "address": "160 W CENTRAL AVE, COOLIDGE, AZ",
-      "website": "https://www.coolidgeaz.com/library",
-      "formUrl": "https://www.coolidgeaz.com/library",
-      "formStatus": "verified",
+      "website": "http://tcpls.org/locations-hours",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
-        "85128",
-        "85219",
-        "85220",
-        "85221",
-        "85222",
-        "85223",
-        "85228",
-        "85230",
-        "85231",
-        "85232",
-        "85237",
-        "85239",
-        "85241",
-        "85245",
-        "85247",
-        "85272",
-        "85273",
-        "85292",
-        "852XX",
-        "85623",
-        "85631"
+        "85128"
       ]
     },
     {
@@ -187,27 +63,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85131",
-        "85219",
-        "85220",
-        "85221",
-        "85222",
-        "85223",
-        "85228",
-        "85230",
-        "85231",
-        "85232",
-        "85237",
-        "85239",
-        "85241",
-        "85245",
-        "85247",
-        "85272",
-        "85273",
-        "85292",
-        "852XX",
-        "85623",
-        "85631"
+        "85131"
       ]
     },
     {
@@ -218,27 +74,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85132",
-        "85219",
-        "85220",
-        "85221",
-        "85222",
-        "85223",
-        "85228",
-        "85230",
-        "85231",
-        "85232",
-        "85237",
-        "85239",
-        "85241",
-        "85245",
-        "85247",
-        "85272",
-        "85273",
-        "85292",
-        "852XX",
-        "85623",
-        "85631"
+        "85132"
       ]
     },
     {
@@ -249,27 +85,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85138",
-        "85219",
-        "85220",
-        "85221",
-        "85222",
-        "85223",
-        "85228",
-        "85230",
-        "85231",
-        "85232",
-        "85237",
-        "85239",
-        "85241",
-        "85245",
-        "85247",
-        "85272",
-        "85273",
-        "85292",
-        "852XX",
-        "85623",
-        "85631"
+        "85138"
       ]
     },
     {
@@ -280,58 +96,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85147",
-        "85219",
-        "85220",
-        "85221",
-        "85222",
-        "85223",
-        "85228",
-        "85230",
-        "85231",
-        "85232",
-        "85237",
-        "85239",
-        "85241",
-        "85245",
-        "85247",
-        "85272",
-        "85273",
-        "85292",
-        "852XX",
-        "85623",
-        "85631"
+        "85147"
       ]
     },
     {
       "name": "AK-CHIN INDIAN COMMUNITY LIBRARY",
       "system": "AK-CHIN INDIAN COMMUNITY LIBRARY",
       "address": "46521 W FARRELL RD, MARICOPA, AZ",
-      "website": "https://citylibrary.com/public-libraries/ak-chin-indian-community-library/",
+      "website": "https://www.ak-chin.nsn.us/departments.html",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "85139",
-        "85219",
-        "85220",
-        "85221",
-        "85222",
-        "85223",
-        "85228",
-        "85230",
-        "85231",
-        "85232",
-        "85237",
-        "85239",
-        "85241",
-        "85245",
-        "85247",
-        "85272",
-        "85273",
-        "85292",
-        "852XX",
-        "85623",
-        "85631"
+        "85139"
       ]
     }
   ]

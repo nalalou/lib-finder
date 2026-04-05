@@ -3,7 +3,7 @@
     {
       "name": "LINCOLN COUNTY PUBLIC LIBRARY",
       "system": "LINCOLN COUNTY PUBLIC LIBRARY",
-      "address": "201 LANCASTER STREET, STANFORD, KY",
+      "address": "306 W MAIN ST, LINCOLNTON, NC",
       "website": "https://lcplinfo.org/",
       "formUrl": "https://lcplinfo.org/interlibrary-loan-request-form/",
       "formStatus": "verified",
@@ -13,7 +13,12 @@
         "28080",
         "28092",
         "28168",
-        "40484"
+        "40419",
+        "40437",
+        "40442",
+        "40448",
+        "40484",
+        "40489"
       ]
     },
     {
@@ -27,8 +32,7 @@
         "40422",
         "40440",
         "40464",
-        "40468",
-        "404HH"
+        "40468"
       ]
     },
     {
@@ -41,6 +45,52 @@
       "zipcodes": [
         "40444",
         "40461"
+      ]
+    },
+    {
+      "name": "JACKSON COUNTY PUBLIC LIBRARY",
+      "system": "JACKSON COUNTY PUBLIC LIBRARY",
+      "address": "338 NORTH MAIN STREET, MCKEE, KY",
+      "website": "https://www.myjclibrary.org/",
+      "formUrl": "https://www.myjclibrary.org/request-materials/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "25239",
+        "25241",
+        "25244",
+        "25245",
+        "25248",
+        "25252",
+        "25262",
+        "25264",
+        "25271",
+        "25275",
+        "26164",
+        "40402",
+        "40447",
+        "40481",
+        "40486",
+        "47229",
+        "47274",
+        "80434",
+        "80473",
+        "80480"
+      ]
+    },
+    {
+      "name": "MADISON COUNTY PUBLIC LIBRARY",
+      "system": "MADISON COUNTY PUBLIC LIBRARY",
+      "address": "507 WEST MAIN STREET, RICHMOND, KY",
+      "website": "https://www.madisonlibrary.org/locations/richmond",
+      "formUrl": "https://www.madisonlibrary.org/locations/richmond/services/request-item",
+      "formStatus": "verified",
+      "zipcodes": [
+        "28743",
+        "28753",
+        "28754",
+        "40385",
+        "40403",
+        "40475"
       ]
     },
     {

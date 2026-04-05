@@ -1,6 +1,43 @@
 {
   "libraries": [
     {
+      "name": "COWETA COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "COWETA COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "85 LITERARY LANE, NEWNAN, GA",
+      "website": "https://www.coweta.ga.us/departments-services/departments-f-q/library-system",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30135",
+        "30215",
+        "30220",
+        "30259",
+        "30263",
+        "30265",
+        "30269",
+        "30275",
+        "30276",
+        "30277",
+        "30290"
+      ]
+    },
+    {
+      "name": "CHESTATEE REGIONAL LIBRARY SYSTEM",
+      "system": "CHESTATEE REGIONAL LIBRARY SYSTEM",
+      "address": "56 MECHANICSVILLE ROAD, DAHLONEGA, GA",
+      "website": "https://chestateelibrary.org/",
+      "formUrl": "https://chestateelibrary.org/services/interlibrary_loan.php",
+      "formStatus": "verified",
+      "zipcodes": [
+        "30148",
+        "30522",
+        "30528",
+        "30533",
+        "30534",
+        "30572"
+      ]
+    },
+    {
       "name": "COBB COUNTY PUBLIC LIBRARY SYSTEM",
       "system": "COBB COUNTY PUBLIC LIBRARY SYSTEM",
       "address": "266 ROSWELL STREET, MARIETTA, GA",
@@ -17,16 +54,18 @@
         "30068",
         "30080",
         "30082",
-        "300HH",
         "30101",
         "30106",
+        "30122",
         "30126",
         "30127",
+        "30134",
+        "30141",
         "30144",
         "30152",
+        "30157",
         "30168",
-        "30339",
-        "303HH"
+        "30339"
       ]
     },
     {
@@ -40,12 +79,13 @@
         "30103",
         "30120",
         "30121",
+        "30132",
         "30137",
         "30145",
+        "30153",
         "30171",
         "30178",
-        "30184",
-        "301HH"
+        "30184"
       ]
     },
     {
@@ -57,13 +97,17 @@
       "formStatus": "verified",
       "zipcodes": [
         "30108",
+        "30110",
+        "30113",
         "30116",
         "30117",
         "30170",
+        "30176",
         "30179",
         "30180",
         "30182",
-        "30185"
+        "30185",
+        "30187"
       ]
     },
     {
@@ -78,6 +122,10 @@
         "30107",
         "30114",
         "30115",
+        "30139",
+        "30143",
+        "30175",
+        "30177",
         "30183",
         "30188",
         "30189"
@@ -91,12 +139,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "30104",
         "30105",
         "30124",
+        "30125",
         "30147",
         "30161",
         "30165",
-        "30173"
+        "30173",
+        "30730",
+        "30733"
       ]
     }
   ]

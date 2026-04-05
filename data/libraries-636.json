@@ -8,10 +8,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "63655",
         "63662",
         "63750",
         "63751",
-        "63753",
         "63760",
         "63764",
         "63781",
@@ -27,13 +27,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63036",
-        "63087",
         "63601",
         "63624",
-        "63626",
-        "63637",
-        "63640",
         "63653"
       ]
     },
@@ -49,12 +44,76 @@
         "63621",
         "63623",
         "63636",
+        "63645",
         "63650",
         "63656",
         "63663",
         "63675",
         "65439",
         "65566"
+      ]
+    },
+    {
+      "name": "WASHINGTON COUNTY LIBRARY",
+      "system": "WASHINGTON COUNTY LIBRARY",
+      "address": "235 E HIGH ST, POTOSI, MO",
+      "website": "https://thewashingtoncountylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38701",
+        "38703",
+        "38722",
+        "38723",
+        "38744",
+        "38748",
+        "38756",
+        "38760",
+        "55001",
+        "55016",
+        "55042",
+        "55043",
+        "55055",
+        "55071",
+        "55090",
+        "55125",
+        "55128",
+        "55129",
+        "63030",
+        "63071",
+        "63622",
+        "63630",
+        "63631",
+        "63648",
+        "63660",
+        "63664",
+        "63674"
+      ]
+    },
+    {
+      "name": "FARMINGTON PUBLIC LIBRARY",
+      "system": "FARMINGTON PUBLIC LIBRARY",
+      "address": "101 NORTH A STREET, FARMINGTON, MO",
+      "website": "http://www.infoway.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04938",
+        "04984",
+        "63637",
+        "63640",
+        "63670",
+        "63673",
+        "87364",
+        "87401",
+        "87402",
+        "87415",
+        "87416",
+        "87417",
+        "87420",
+        "87421",
+        "87455",
+        "87461"
       ]
     },
     {
@@ -65,13 +124,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "63036",
-        "63087",
         "63601",
         "63624",
-        "63626",
         "63637",
-        "63640",
         "63653"
       ]
     },
@@ -85,11 +140,8 @@
       "zipcodes": [
         "63036",
         "63087",
-        "63624",
         "63626",
         "63628",
-        "63637",
-        "63640",
         "63653"
       ]
     },
@@ -106,8 +158,22 @@
         "63633",
         "63638",
         "63654",
-        "63665",
-        "639HH"
+        "63665"
+      ]
+    },
+    {
+      "name": "FESTUS PUBLIC LIBRARY",
+      "system": "FESTUS PUBLIC LIBRARY",
+      "address": "400 W MAIN ST, FESTUS, MO",
+      "website": "https://www.festusmo.gov/221/Festus-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63012",
+        "63028",
+        "63048",
+        "63070",
+        "63627"
       ]
     }
   ]

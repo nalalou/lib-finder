@@ -3,166 +3,175 @@
     {
       "name": "FULLERTON PUBLIC LIBRARY",
       "system": "FULLERTON PUBLIC LIBRARY",
-      "address": "903 BROADWAY, FULLERTON, NE",
+      "address": "353 W. COMMONWEALTH AVE., FULLERTON, CA",
       "website": "https://fullertonne.gov/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "68623",
-        "68638"
+        "68638",
+        "90621",
+        "90623",
+        "90630",
+        "90631",
+        "90680",
+        "92801",
+        "92802",
+        "92804",
+        "92821",
+        "92823",
+        "92831",
+        "92832",
+        "92833",
+        "92835"
       ]
     },
     {
       "name": "CEDAR RAPIDS PUBLIC LIBRARY",
       "system": "CEDAR RAPIDS PUBLIC LIBRARY",
-      "address": "423 WEST MAIN STREET, CEDAR RAPIDS, NE",
+      "address": "450 FIFTH AVE SE, CEDAR RAPIDS, IA",
       "website": "https://libs.ne.gov/cedarrapids",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68620",
+        "52324",
+        "52328",
+        "52401",
+        "52402",
+        "52403",
+        "52404",
+        "52405",
+        "52411",
         "68627",
         "68655"
       ]
     },
     {
+      "name": "ELGIN PUBLIC LIBRARY",
+      "system": "ELGIN PUBLIC LIBRARY",
+      "address": "404 N MAIN ST, ELGIN, TX",
+      "website": "https://libraries.ne.gov/elgin/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52141",
+        "58529",
+        "58533",
+        "58562",
+        "58564",
+        "58569",
+        "68636",
+        "78621",
+        "78650",
+        "97827",
+        "97841",
+        "97876"
+      ]
+    },
+    {
       "name": "OSCEOLA PUBLIC LIBRARY",
       "system": "OSCEOLA PUBLIC LIBRARY",
-      "address": "131 NORTH MAIN, OSCEOLA, NE",
+      "address": "2117 NORTH OSCEOLA ROAD, CAMDEN, NY",
       "website": "https://libraries.ne.gov/osceola/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "13312",
-        "13343",
+        "13316",
         "13489",
-        "13620",
-        "13626",
+        "50213",
+        "50275",
         "68651"
-      ]
-    },
-    {
-      "name": "CLEARWATER PUBLIC LIBRARY",
-      "system": "CLEARWATER PUBLIC LIBRARY",
-      "address": "626 MAIN STREET, CLEARWATER, NE",
-      "website": "https://clearwaterpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68636",
-        "68720",
-        "68726",
-        "68773"
       ]
     },
     {
       "name": "COLUMBUS PUBLIC LIBRARY",
       "system": "COLUMBUS PUBLIC LIBRARY",
-      "address": "2500 14TH STREET, SUITE 2, COLUMBUS, NE",
-      "website": "https://www.columbusne.us/library",
+      "address": "223 W. JAMES ST., COLUMBUS, WI",
+      "website": "https://www.cvlga.org/columbus-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "535HH",
-        "53911",
         "53925",
-        "53928",
         "53932",
-        "53935",
-        "68601"
+        "66725",
+        "66770",
+        "66773",
+        "66782",
+        "68601",
+        "68634"
+      ]
+    },
+    {
+      "name": "GARFIELD COUNTY LIBRARY",
+      "system": "GARFIELD COUNTY LIBRARY",
+      "address": "217 G STREET, BURWELL, NE",
+      "website": "https://www.garfieldcountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59058",
+        "59077",
+        "59318",
+        "59322",
+        "59337",
+        "68637",
+        "68823"
       ]
     },
     {
       "name": "PETERSBURG PUBLIC LIBRARY",
       "system": "PETERSBURG PUBLIC LIBRARY",
-      "address": "103 SOUTH SECOND STREET, PETERSBURG, NE",
+      "address": "220 SOUTH SIXTH STREET, PETERSBURG, IL",
       "website": "https://ci.petersburg.ne.us/our-community/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68652"
+        "23801",
+        "23803",
+        "23805",
+        "23830",
+        "23833",
+        "23840",
+        "23841",
+        "23842",
+        "23875",
+        "23882",
+        "23885",
+        "62642",
+        "62673",
+        "62675",
+        "62688",
+        "68620",
+        "68652",
+        "99833"
       ]
     },
     {
       "name": "NORTH BEND PUBLIC LIBRARY",
       "system": "NORTH BEND PUBLIC LIBRARY",
-      "address": "110 E. 13TH ST., NORTH BEND, NE",
+      "address": "1800 SHERMAN AVE, NORTH BEND, OR",
       "website": "https://libs.ne.gov/northbend",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68621",
         "68649",
-        "97414",
         "97459"
-      ]
-    },
-    {
-      "name": "NELIGH PUBLIC LIBRARY",
-      "system": "NELIGH PUBLIC LIBRARY",
-      "address": "710 MAIN STREET, NELIGH, NE",
-      "website": "https://libraries.ne.gov/neligh/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68636",
-        "68720",
-        "68756",
-        "68773"
-      ]
-    },
-    {
-      "name": "LOIS JOHNSON MEMORIAL LIBRARY",
-      "system": "LOIS JOHNSON MEMORIAL LIBRARY",
-      "address": "406 5TH STREET, OAKDALE, NE",
-      "website": "https://www.villageofoakdale.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68636",
-        "68720",
-        "68761",
-        "68773"
-      ]
-    },
-    {
-      "name": "ORCHARD PUBLIC LIBRARY",
-      "system": "ORCHARD PUBLIC LIBRARY",
-      "address": "407 EAST 4TH STREET, SUITE 200, ORCHARD, NE",
-      "website": "http://orchardpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68636",
-        "68720",
-        "68764",
-        "68773"
-      ]
-    },
-    {
-      "name": "RAYMOND A. WHITWER TILDEN PUBLIC LIBRARY",
-      "system": "RAYMOND A. WHITWER TILDEN PUBLIC LIBRARY",
-      "address": "202 SOUTH CENTER STREET, TILDEN, NE",
-      "website": "https://libraries.ne.gov/tilden/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68636",
-        "68720",
-        "68773",
-        "68781"
       ]
     },
     {
       "name": "ALBION PUBLIC LIBRARY",
       "system": "ALBION PUBLIC LIBRARY",
-      "address": "18 MAIN STREET, ALBION, ME",
+      "address": "6 NORTH FOURTH STREET, ALBION, IL",
       "website": "https://townofalbionmaine.com/community/albion-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "04910",
-        "68620",
-        "68655"
+        "62806",
+        "62815",
+        "62818",
+        "68620"
       ]
     },
     {
@@ -174,9 +183,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68628",
-        "68816",
-        "68827",
-        "68864"
+        "68826"
       ]
     },
     {
@@ -187,9 +194,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68629",
-        "68659",
-        "686HH"
+        "68629"
       ]
     },
     {
@@ -200,9 +205,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68044",
-        "68063",
-        "68621",
         "68633"
       ]
     },
@@ -214,7 +216,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68623",
         "68640"
       ]
     },
@@ -226,9 +227,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68641",
-        "68659",
-        "686HH"
+        "68641"
       ]
     },
     {
@@ -240,7 +239,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68631",
-        "68634",
         "68642",
         "68644",
         "68647",
@@ -255,9 +253,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68643",
-        "68659",
-        "686HH"
+        "68643"
       ]
     },
     {
@@ -279,11 +275,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68001",
-        "68014",
-        "68036",
-        "68624",
-        "68626",
         "68658",
         "68667"
       ]
@@ -296,8 +287,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68620",
-        "68655",
         "68660"
       ]
     },
@@ -310,8 +299,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68659",
-        "68661",
-        "686HH"
+        "68661"
       ]
     },
     {
@@ -322,10 +310,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68663",
-        "68816",
-        "68827",
-        "68864"
+        "68663"
       ]
     },
     {
@@ -336,9 +321,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68044",
-        "68063",
-        "68621",
         "68664"
       ]
     },
@@ -350,6 +332,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68651",
         "68666"
       ]
     },
@@ -361,11 +344,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68001",
-        "68014",
-        "68036",
-        "68624",
-        "68626",
         "68667",
         "68669"
       ]
@@ -378,6 +356,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68651",
         "68662"
       ]
     },
@@ -394,8 +373,7 @@
         "68036",
         "68624",
         "68626",
-        "68632",
-        "68667"
+        "68632"
       ]
     },
     {
@@ -406,13 +384,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68001",
-        "68014",
-        "68036",
-        "68624",
         "68626",
-        "68635",
-        "68667"
+        "68635"
       ]
     },
     {
@@ -423,29 +396,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68622",
         "68665",
-        "68842",
-        "68882"
-      ]
-    },
-    {
-      "name": "CERESCO COMMUNITY LIBRARY",
-      "system": "CERESCO COMMUNITY LIBRARY",
-      "address": "425 SOUTH 2ND STREET, CERESCO, NE",
-      "website": "https://libraries.ne.gov/ceresco/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68015",
-        "68017",
-        "68018",
-        "68033",
-        "68035",
-        "68040",
-        "68042",
-        "68050",
-        "68070",
-        "68648"
+        "68842"
       ]
     },
     {
@@ -458,42 +411,7 @@
       "zipcodes": [
         "68025",
         "68044",
-        "68063",
         "68621"
-      ]
-    },
-    {
-      "name": "SCRIBNER PUBLIC LIBRARY",
-      "system": "SCRIBNER PUBLIC LIBRARY",
-      "address": "530 MAIN STREET, SCRIBNER, NE",
-      "website": "https://www.scribner-ne.gov/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68044",
-        "68057",
-        "68063",
-        "68621"
-      ]
-    },
-    {
-      "name": "VALPARAISO PUBLIC LIBRARY",
-      "system": "VALPARAISO PUBLIC LIBRARY",
-      "address": "300 WEST 2ND, VALPARAISO, NE",
-      "website": "https://libs.ne.gov/valparaiso",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68015",
-        "68018",
-        "68033",
-        "68035",
-        "68040",
-        "68042",
-        "68050",
-        "68065",
-        "68070",
-        "68648"
       ]
     },
     {
@@ -507,32 +425,11 @@
         "68015",
         "68018",
         "68033",
-        "68035",
         "68040",
-        "68042",
+        "68041",
         "68050",
         "68066",
         "68070",
-        "68648"
-      ]
-    },
-    {
-      "name": "YUTAN PUBLIC LIBRARY",
-      "system": "YUTAN PUBLIC LIBRARY",
-      "address": "410 1ST ST., YUTAN, NE",
-      "website": "https://libs.ne.gov/yutan",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68015",
-        "68018",
-        "68033",
-        "68035",
-        "68040",
-        "68042",
-        "68050",
-        "68070",
-        "68073",
         "68648"
       ]
     },

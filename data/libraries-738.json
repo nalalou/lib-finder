@@ -3,12 +3,13 @@
     {
       "name": "BUFFALO PUBLIC LIBRARY",
       "system": "BUFFALO PUBLIC LIBRARY",
-      "address": "11 E TURNER, BUFFALO, OK",
+      "address": "1005 HILL ST, BUFFALO, TX",
       "website": "https://buffalotex.com/departments/buffalo_public_library.php",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "73834",
+        "73855",
         "75831",
         "75833",
         "75846",
@@ -22,16 +23,17 @@
     {
       "name": "WOODWARD PUBLIC LIBRARY",
       "system": "WOODWARD PUBLIC LIBRARY",
-      "address": "1500 MAIN, WOODWARD, OK",
+      "address": "118 S MAIN ST, WOODWARD, IA",
       "website": "https://www.woodward.lib.ia.us/",
       "formUrl": "https://www.woodward.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
+        "50039",
+        "50276",
         "73801",
-        "73802",
         "73841",
-        "73853",
-        "73857"
+        "73857",
+        "73859"
       ]
     },
     {
@@ -43,9 +45,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "73844",
-        "73847",
-        "738HH",
-        "738XX",
         "73931",
         "73932",
         "73938",
@@ -60,6 +59,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73638",
+        "73642",
         "73832",
         "73840",
         "73843",
@@ -74,8 +75,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73731",
-        "73746",
         "73842",
         "73860"
       ]
@@ -89,8 +88,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "73848",
-        "73851",
-        "73855"
+        "73851"
       ]
     },
     {
@@ -101,25 +99,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73802",
-        "73841",
+        "73667",
+        "73835",
         "73852",
-        "73853",
-        "73857"
-      ]
-    },
-    {
-      "name": "ALVA PUBLIC LIBRARY",
-      "system": "ALVA PUBLIC LIBRARY",
-      "address": "504 SEVENTH STREET, ALVA, OK",
-      "website": "https://alva.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73717",
-        "73731",
-        "73746",
-        "73842"
+        "73853"
       ]
     },
     {
@@ -130,6 +113,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73663",
         "73718",
         "73729",
         "73737",

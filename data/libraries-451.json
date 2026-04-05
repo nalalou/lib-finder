@@ -1,26 +1,6 @@
 {
   "libraries": [
     {
-      "name": "MASON PUBLIC LIBRARY",
-      "system": "MASON PUBLIC LIBRARY",
-      "address": "200 READING RD., MASON, OH",
-      "website": "https://masonpl.org/",
-      "formUrl": "https://www.masonpl.org/services/ill/request",
-      "formStatus": "verified",
-      "zipcodes": [
-        "45005",
-        "45032",
-        "45034",
-        "45036",
-        "45039",
-        "45040",
-        "45054",
-        "45065",
-        "45066",
-        "45162"
-      ]
-    },
-    {
       "name": "ADAMS COUNTY PUBLIC LIBRARY",
       "system": "ADAMS COUNTY PUBLIC LIBRARY",
       "address": "157 HIGH STREET, PEEBLES, OH",
@@ -29,14 +9,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "45144",
-        "451HH",
         "45616",
         "45650",
         "45660",
         "45679",
         "45693",
-        "45697",
-        "456HH"
+        "45697"
       ]
     },
     {
@@ -73,23 +51,18 @@
       "zipcodes": [
         "45107",
         "45113",
-        "45114",
         "45146",
-        "45148",
-        "45159",
-        "45164"
+        "45148"
       ]
     },
     {
       "name": "BROWN COUNTY PUBLIC LIBRARY",
       "system": "BROWN COUNTY PUBLIC LIBRARY",
-      "address": "205 LOCUST LANE, NASHVILLE, IN",
+      "address": "200 W. GRANT AVE., GEORGETOWN, OH",
       "website": "http://browncountylibrary.info/",
       "formUrl": "http://browncountylibrary.info/ill/",
       "formStatus": "verified",
       "zipcodes": [
-        "45101",
-        "45115",
         "45118",
         "45121",
         "45130",
@@ -97,6 +70,8 @@
         "45154",
         "45168",
         "45171",
+        "46160",
+        "46164",
         "47448"
       ]
     },
@@ -125,14 +100,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45005",
-        "45032",
         "45034",
         "45036",
         "45039",
+        "45040",
         "45054",
         "45065",
-        "45066",
         "45152",
         "45162"
       ]
@@ -147,14 +120,9 @@
       "zipcodes": [
         "45101",
         "45115",
-        "45118",
-        "45121",
-        "45130",
         "45131",
-        "45154",
         "45167",
-        "45168",
-        "45171"
+        "45168"
       ]
     },
     {
@@ -165,11 +133,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45113",
-        "45114",
-        "45146",
-        "45148",
-        "45159",
         "45164",
         "45169"
       ]
@@ -183,32 +146,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "45113",
-        "45114",
         "45146",
-        "45148",
         "45159",
         "45164",
         "45177"
-      ]
-    },
-    {
-      "name": "MARY L. COOK PUBLIC LIBRARY",
-      "system": "MARY L. COOK PUBLIC LIBRARY",
-      "address": "381 OLD STAGE RD., WAYNESVILLE, OH",
-      "website": "https://www.mlcook.lib.oh.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "45005",
-        "45032",
-        "45034",
-        "45036",
-        "45039",
-        "45054",
-        "45065",
-        "45066",
-        "45068",
-        "45162"
       ]
     },
     {
@@ -235,7 +176,6 @@
         "45207",
         "45208",
         "45209",
-        "45210",
         "45211",
         "45212",
         "45213",
@@ -271,8 +211,7 @@
         "45249",
         "45251",
         "45252",
-        "45255",
-        "452HH"
+        "45255"
       ]
     }
   ]

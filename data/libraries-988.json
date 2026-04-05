@@ -1,6 +1,73 @@
 {
   "libraries": [
     {
+      "name": "ODESSA PUBLIC LIBRARY",
+      "system": "ODESSA PUBLIC LIBRARY",
+      "address": "21 E. FIRST STREET, ODESSA, WA",
+      "website": "https://odessa.lib.wa.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "98832",
+        "98837",
+        "98851",
+        "98853",
+        "98857",
+        "98860",
+        "99159"
+      ]
+    },
+    {
+      "name": "WILBUR (HESSELTINE) PUBLIC LIBRARY",
+      "system": "WILBUR (HESSELTINE) PUBLIC LIBRARY",
+      "address": "14 NW DIVISION, WILBUR, WA",
+      "website": "https://wilbur.lib.wa.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "98812",
+        "98813",
+        "98819",
+        "98827",
+        "98829",
+        "98830",
+        "98840",
+        "98841",
+        "98844",
+        "98849",
+        "98855",
+        "98859",
+        "99103",
+        "99115",
+        "99116",
+        "99117",
+        "99123",
+        "99124",
+        "99133",
+        "99135",
+        "99138",
+        "99140",
+        "99155",
+        "99166",
+        "99185"
+      ]
+    },
+    {
+      "name": "UPPER SKAGIT LIBRARY DISTRICT",
+      "system": "UPPER SKAGIT LIBRARY DISTRICT",
+      "address": "45952 MAIN STREET, CONCRETE, WA",
+      "website": "https://upperskagitlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "98237",
+        "98267",
+        "98283",
+        "98833",
+        "98862"
+      ]
+    },
+    {
       "name": "NORTH CENTRAL REGIONAL LIBRARY",
       "system": "NORTH CENTRAL REGIONAL LIBRARY",
       "address": "16 N COLUMBIA ST, WENATCHEE, WA",
@@ -9,19 +76,29 @@
       "formStatus": "unknown",
       "zipcodes": [
         "98801",
+        "98802",
         "98811",
+        "98814",
         "98815",
         "98816",
         "98817",
         "98821",
         "98822",
+        "98823",
         "98826",
         "98828",
         "98831",
+        "98834",
         "98836",
+        "98843",
+        "98845",
+        "98846",
         "98847",
+        "98848",
+        "98850",
         "98852",
-        "988HH"
+        "98856",
+        "98858"
       ]
     }
   ]

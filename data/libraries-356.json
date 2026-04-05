@@ -1,118 +1,68 @@
 {
   "libraries": [
     {
-      "name": "RED BAY - WEATHERFORD PUBLIC LIBRARY",
-      "system": "RED BAY - WEATHERFORD PUBLIC LIBRARY",
-      "address": "307 4TH AVENUE SOUTH, RED BAY, AL",
-      "website": "https://northwestregional.net/weatherford-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35571",
-        "35581",
-        "35582",
-        "35585",
-        "35593",
-        "355HH",
-        "35654"
-      ]
-    },
-    {
       "name": "SHEFFIELD PUBLIC LIBRARY",
       "system": "SHEFFIELD PUBLIC LIBRARY",
-      "address": "316 NORTH MONTGOMERY AVENUE, SHEFFIELD, AL",
+      "address": "123 S 3RD ST, SHEFFIELD, IA",
       "website": "http://sheffieldillinoispubliclibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "35660",
-        "61312",
-        "61317",
-        "61320",
-        "61323",
-        "61328",
-        "61337",
+        "50475",
         "61338",
-        "61346",
-        "61359",
-        "61361",
-        "61374",
-        "613HH"
+        "61361"
       ]
     },
     {
       "name": "SOMERVILLE PUBLIC LIBRARY",
       "system": "SOMERVILLE PUBLIC LIBRARY",
-      "address": "192 BROAD STREET, SOMERVILLE, AL",
+      "address": "79 HIGHLAND AVENUE, SOMERVILLE, MA",
       "website": "https://somervillepubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01450",
-        "01474",
-        "01701",
-        "01718",
-        "01721",
-        "01731",
-        "01749",
-        "01773",
-        "01803",
-        "01850",
-        "01851",
-        "01854",
-        "01862",
-        "01863",
-        "02138",
         "02139",
-        "02140",
         "02141",
         "02142",
         "02143",
         "02144",
         "02145",
-        "02421",
-        "02452",
-        "02453",
-        "02458",
-        "02460",
-        "02461",
-        "02462",
-        "02464",
-        "02465",
-        "02466",
-        "02467",
-        "02468",
-        "02474",
-        "02478",
-        "02493",
-        "35670"
+        "35670",
+        "35754",
+        "35775"
       ]
     },
     {
       "name": "DECATUR PUBLIC LIBRARY",
       "system": "DECATUR PUBLIC LIBRARY",
-      "address": "504 CHERRY STREET NE, DECATUR, AL",
+      "address": "1700 S FM 51, DECATUR, TX",
       "website": "https://dekalblibrary.org/branches/deca",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "35601",
-        "76023",
-        "76073",
-        "76234",
-        "76246",
-        "76426"
+        "62514",
+        "62521",
+        "62522",
+        "62523",
+        "62526",
+        "62532",
+        "62537",
+        "76234"
       ]
     },
     {
       "name": "LAWRENCE COUNTY PUBLIC LIBRARY",
       "system": "LAWRENCE COUNTY PUBLIC LIBRARY",
-      "address": "401 COLLEGE STREET, MOULTON, AL",
+      "address": "102 WEST MAIN ST., LOUISA, KY",
       "website": "https://lcplky.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "35650",
+        "35651",
+        "35673",
         "38456",
         "38457",
         "38464",
@@ -120,13 +70,20 @@
         "38469",
         "38481",
         "38483",
-        "38486"
+        "38486",
+        "41124",
+        "41159",
+        "41180",
+        "41201",
+        "41230",
+        "41232",
+        "41264"
       ]
     },
     {
       "name": "CHEROKEE PUBLIC LIBRARY",
       "system": "CHEROKEE PUBLIC LIBRARY",
-      "address": "118 CHURCH STREET, CHEROKEE, AL",
+      "address": "215 S 2ND ST, CHEROKEE, IA",
       "website": "https://www.cherokee.lib.ia.us/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -145,7 +102,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35610",
         "35630",
         "35633",
         "35634",
@@ -160,8 +116,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35674",
-        "356HH"
+        "35660",
+        "35674"
       ]
     },
     {
@@ -172,8 +128,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35646",
-        "356HH"
+        "35646"
       ]
     },
     {
@@ -184,8 +139,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35661",
-        "356HH"
+        "35660",
+        "35661"
       ]
     },
     {
@@ -197,10 +152,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "35610",
-        "35633",
-        "35634",
-        "35652",
-        "35677"
+        "35652"
       ]
     },
     {
@@ -211,11 +163,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35571",
         "35581",
         "35585",
-        "35593",
-        "355HH",
         "35653",
         "35654"
       ]
@@ -236,7 +185,6 @@
         "35649",
         "35671",
         "35739",
-        "35742",
         "35756"
       ]
     },
@@ -249,9 +197,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "35619",
-        "35640",
-        "35754",
-        "35775"
+        "35640"
       ]
     },
     {
@@ -262,11 +208,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35610",
-        "35633",
         "35634",
-        "35645",
-        "35677"
+        "35645"
       ]
     },
     {
@@ -278,10 +221,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "35610",
-        "35633",
-        "35634",
-        "35648",
-        "35677"
+        "35648"
       ]
     },
     {
@@ -292,12 +232,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "355XX",
         "35618",
-        "35643",
-        "35651",
-        "35673",
-        "356XX"
+        "35643"
       ]
     },
     {
@@ -308,10 +244,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35619",
         "35621",
-        "35754",
-        "35775"
+        "35670"
       ]
     },
     {
@@ -322,10 +256,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35619",
-        "35622",
-        "35754",
-        "35775"
+        "35622"
       ]
     },
     {
@@ -336,12 +267,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "355XX",
-        "35643",
-        "35651",
-        "35672",
-        "35673",
-        "356XX"
+        "35672"
       ]
     },
     {
@@ -352,10 +278,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35603",
-        "35619",
-        "35754",
-        "35775"
+        "35601",
+        "35603"
       ]
     }
   ]

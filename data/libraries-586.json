@@ -1,6 +1,22 @@
 {
   "libraries": [
     {
+      "name": "ADAMS COUNTY LIBRARY",
+      "system": "ADAMS COUNTY LIBRARY",
+      "address": "103 N 6TH STREET, HETTINGER, ND",
+      "website": "https://adamscountyndlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53910",
+        "53934",
+        "53936",
+        "54613",
+        "58639",
+        "58649"
+      ]
+    },
+    {
       "name": "BOWMAN REGIONAL PUBLIC LIBRARY",
       "system": "BOWMAN REGIONAL PUBLIC LIBRARY",
       "address": "18 DIVIDE STREET EAST, BOWMAN, ND",
@@ -9,6 +25,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "58623",
+        "58643",
         "58651",
         "58653"
       ]
@@ -40,7 +57,20 @@
       "zipcodes": [
         "58621",
         "58632",
+        "58645",
         "58654"
+      ]
+    },
+    {
+      "name": "HEBRON PUBLIC LIBRARY",
+      "system": "HEBRON PUBLIC LIBRARY",
+      "address": "811 MAIN AVENUE, HEBRON, ND",
+      "website": "https://www.hebronnhlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03241",
+        "58638"
       ]
     },
     {
@@ -53,6 +83,7 @@
       "zipcodes": [
         "58625",
         "58626",
+        "58627",
         "58636",
         "58640",
         "58642"
@@ -78,8 +109,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58647",
-        "58650"
+        "58620",
+        "58647"
       ]
     },
     {
@@ -91,12 +122,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "58520",
-        "58535",
         "58563",
-        "58566",
-        "58570",
-        "58631",
-        "58638"
+        "58631"
       ]
     },
     {
@@ -114,26 +141,7 @@
         "58838",
         "58847",
         "58854",
-        "588HH",
-        "59221",
-        "592HH"
-      ]
-    },
-    {
-      "name": "MORTON MANDAN PUBLIC LIBRARY",
-      "system": "MORTON MANDAN PUBLIC LIBRARY",
-      "address": "609 W. MAIN ST., MANDAN, ND",
-      "website": "https://www.cityofmandan.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58520",
-        "58535",
-        "58554",
-        "58563",
-        "58566",
-        "58570",
-        "58638"
+        "59221"
       ]
     }
   ]

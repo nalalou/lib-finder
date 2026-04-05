@@ -1,67 +1,22 @@
 {
   "libraries": [
     {
-      "name": "NORTONVILLE PUBLIC LIBRARY",
-      "system": "NORTONVILLE PUBLIC LIBRARY",
-      "address": "407 MAIN, NORTONVILLE, KS",
-      "website": "https://nortonville.nextkansas.org/",
+      "name": "MARYSVILLE PUBLIC LIBRARY",
+      "system": "MARYSVILLE PUBLIC LIBRARY",
+      "address": "231 S. PLUM ST., MARYSVILLE, OH",
+      "website": "https://www.cityofmarysvilleks.com/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66060",
-        "66066",
-        "66070",
-        "66073",
-        "66097",
-        "66429"
-      ]
-    },
-    {
-      "name": "OSKALOOSA PUBLIC LIBRARY",
-      "system": "OSKALOOSA PUBLIC LIBRARY",
-      "address": "301 S MARKET, OSKALOOSA, IA",
-      "website": "https://oskielibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52577",
-        "66066",
-        "66070",
-        "66073",
-        "66097",
-        "66429"
-      ]
-    },
-    {
-      "name": "DELAWARE TOWNSHIP LIBRARY",
-      "system": "DELAWARE TOWNSHIP LIBRARY",
-      "address": "421 MARY ST. #A, VALLEY FALLS, KS",
-      "website": "https://www.valleyfalls.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66066",
-        "66070",
-        "66073",
-        "66088",
-        "66097",
-        "66429"
-      ]
-    },
-    {
-      "name": "MCLOUTH PUBLIC LIBRARY",
-      "system": "MCLOUTH PUBLIC LIBRARY",
-      "address": "215 SOUTH UNION, MCLOUTH, KS",
-      "website": "https://mclouth.mykansaslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66054",
-        "66066",
-        "66070",
-        "66073",
-        "66097",
-        "66429"
+        "43036",
+        "43040",
+        "43045",
+        "43067",
+        "43077",
+        "66412",
+        "66438",
+        "66508",
+        "66518"
       ]
     },
     {
@@ -87,25 +42,24 @@
         "66611",
         "66612",
         "66614",
-        "66615",
         "66616",
         "66617",
         "66618",
-        "66619",
-        "666HH"
+        "66619"
       ]
     },
     {
       "name": "AXTELL PUBLIC LIBRARY",
       "system": "AXTELL PUBLIC LIBRARY",
-      "address": "401 MAPLE, AXTELL, KS",
+      "address": "305 NORTH MAIN STREET, AXTELL, NE",
       "website": "https://libraries.ne.gov/axtell/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "66403",
+        "66406",
+        "66541",
         "68924",
-        "68945",
         "68982"
       ]
     },
@@ -117,14 +71,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66442",
         "66449",
-        "664XX",
-        "66503",
-        "66506",
-        "66517",
-        "66554",
-        "665XX"
+        "66554"
       ]
     },
     {
@@ -135,13 +83,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66406",
-        "66412",
-        "66427",
-        "66438",
-        "66518",
-        "66541",
-        "66548"
+        "66427"
       ]
     },
     {
@@ -152,12 +94,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66406",
         "66411",
-        "66412",
-        "66438",
-        "66518",
-        "66541",
         "66548"
       ]
     },
@@ -170,7 +107,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66441",
-        "664HH",
         "66514"
       ]
     },
@@ -182,10 +118,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66404",
         "66417",
-        "66428",
-        "66522"
+        "66428"
       ]
     },
     {
@@ -196,10 +130,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66404",
-        "66415",
-        "66428",
-        "66522"
+        "66415"
       ]
     },
     {
@@ -210,11 +141,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66424",
-        "66425",
-        "66515",
-        "66527",
-        "66532"
+        "66424"
       ]
     },
     {
@@ -226,10 +153,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66413",
-        "66510",
-        "66528",
-        "66537",
-        "66543"
+        "66431",
+        "66537"
       ]
     },
     {
@@ -241,10 +166,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66414",
-        "66510",
-        "66528",
-        "66537",
-        "66543"
+        "66537"
       ]
     },
     {
@@ -258,7 +180,6 @@
         "66451",
         "66510",
         "66528",
-        "66537",
         "66543"
       ]
     },
@@ -270,11 +191,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66425",
         "66439",
-        "66515",
-        "66527",
-        "66532"
+        "66527"
       ]
     },
     {
@@ -288,7 +206,6 @@
         "66425",
         "66434",
         "66515",
-        "66527",
         "66532"
       ]
     },
@@ -300,9 +217,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66404",
         "66408",
-        "66428",
         "66522"
       ]
     },
@@ -326,6 +241,33 @@
       ]
     },
     {
+      "name": "DWIGHT PUBLIC LIBRARY",
+      "system": "DWIGHT PUBLIC LIBRARY",
+      "address": "616 MAIN STREET, DWIGHT, KS",
+      "website": "http://dwightks.net/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66401",
+        "66834",
+        "66849"
+      ]
+    },
+    {
+      "name": "LYON COUNTY LIBRARY DIST. #1",
+      "system": "LYON COUNTY LIBRARY DIST. #1",
+      "address": "421 MAIN, ALLEN, KS",
+      "website": "https://librarytechnology.org/library/18215",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66423",
+        "66830",
+        "66833",
+        "66868"
+      ]
+    },
+    {
       "name": "WAMEGO PUBLIC LIBRARY",
       "system": "WAMEGO PUBLIC LIBRARY",
       "address": "431 LINCOLN AVENUE, WAMEGO, KS",
@@ -334,9 +276,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66407",
-        "66422",
-        "66432",
-        "66450",
+        "66501",
         "66520",
         "66521",
         "66535",
@@ -355,12 +295,8 @@
         "66407",
         "66422",
         "66432",
-        "66450",
-        "66520",
-        "66521",
-        "66535",
-        "66536",
-        "66549"
+        "66526",
+        "66536"
       ]
     },
     {
@@ -372,13 +308,10 @@
       "formStatus": "verified",
       "zipcodes": [
         "66442",
-        "664XX",
         "66502",
         "66503",
         "66506",
-        "66517",
-        "66554",
-        "665XX"
+        "66517"
       ]
     },
     {
@@ -389,9 +322,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66404",
         "66428",
-        "66522",
         "66550"
       ]
     },
@@ -403,88 +334,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66066",
         "66070",
-        "66073",
-        "66097",
         "66429",
         "66512"
-      ]
-    },
-    {
-      "name": "ROSSVILLE COMMUNITY LIBRARY",
-      "system": "ROSSVILLE COMMUNITY LIBRARY",
-      "address": "407 MAIN, ROSSVILLE, KS",
-      "website": "https://www.rossvillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66402",
-        "66409",
-        "66533",
-        "66542",
-        "66546",
-        "66603",
-        "66605",
-        "66606",
-        "66607",
-        "66608",
-        "66609",
-        "66610",
-        "66611",
-        "66612",
-        "66614",
-        "66615",
-        "66616",
-        "66617",
-        "66618",
-        "66619",
-        "666HH"
-      ]
-    },
-    {
-      "name": "SILVER LAKE LIBRARY",
-      "system": "SILVER LAKE LIBRARY",
-      "address": "203 RAILROAD, SILVER LAKE, KS",
-      "website": "https://silverlakelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66402",
-        "66409",
-        "66539",
-        "66542",
-        "66546",
-        "66603",
-        "66605",
-        "66606",
-        "66607",
-        "66608",
-        "66609",
-        "66610",
-        "66611",
-        "66612",
-        "66614",
-        "66615",
-        "66616",
-        "66617",
-        "66618",
-        "66619",
-        "666HH"
-      ]
-    },
-    {
-      "name": "MARY COTTON PUBLIC LIBRARY",
-      "system": "MARY COTTON PUBLIC LIBRARY",
-      "address": "915 VIRGINIA, SABETHA, KS",
-      "website": "https://www.sabethalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66404",
-        "66428",
-        "66522",
-        "66534"
       ]
     },
     {
@@ -496,44 +348,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66404",
-        "66428",
         "66522",
         "66538"
-      ]
-    },
-    {
-      "name": "VERMILLION PUBLIC LIBRARY",
-      "system": "VERMILLION PUBLIC LIBRARY",
-      "address": "102 1/2 MAIN STREET, VERMILLION, KS",
-      "website": "https://vermillionpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66406",
-        "66412",
-        "66438",
-        "66518",
-        "66541",
-        "66544",
-        "66548"
-      ]
-    },
-    {
-      "name": "RILEY CITY LIBRARY",
-      "system": "RILEY CITY LIBRARY",
-      "address": "115 S. BROADWAY ST, RILEY, KS",
-      "website": "https://riley.lib.nckls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66442",
-        "664XX",
-        "66503",
-        "66506",
-        "66517",
-        "66531",
-        "66554",
-        "665XX"
       ]
     }
   ]

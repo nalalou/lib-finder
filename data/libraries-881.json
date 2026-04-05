@@ -1,74 +1,6 @@
 {
   "libraries": [
     {
-      "name": "EUNICE PUBLIC LIBRARY",
-      "system": "EUNICE PUBLIC LIBRARY",
-      "address": "1003 AVENUE N., EUNICE, NM",
-      "website": "https://cityofeunice.org/131/Eunice-Public-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "88114",
-        "88213",
-        "88231",
-        "88242",
-        "88262",
-        "88264",
-        "88265"
-      ]
-    },
-    {
-      "name": "HOBBS PUBLIC LIBRARY",
-      "system": "HOBBS PUBLIC LIBRARY",
-      "address": "509 N. SHIPP, HOBBS, NM",
-      "website": "https://www.hobbspubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "88114",
-        "88213",
-        "88240",
-        "88242",
-        "88262",
-        "88264",
-        "88265"
-      ]
-    },
-    {
-      "name": "WOOLWORTH COMMUNITY LIBRARY",
-      "system": "WOOLWORTH COMMUNITY LIBRARY",
-      "address": "100 E UTAH ST, JAL, NM",
-      "website": "https://www.cityofjal.us/community/woolworth_community_library.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "88114",
-        "88213",
-        "88242",
-        "88252",
-        "88262",
-        "88264",
-        "88265"
-      ]
-    },
-    {
-      "name": "LOVINGTON PUBLIC LIBRARY",
-      "system": "LOVINGTON PUBLIC LIBRARY",
-      "address": "115 SOUTH MAIN ST., LOVINGTON, NM",
-      "website": "https://www.lovingtonpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "88114",
-        "88213",
-        "88242",
-        "88260",
-        "88262",
-        "88264",
-        "88265"
-      ]
-    },
-    {
       "name": "TATUM COMMUNITY LIBRARY",
       "system": "TATUM COMMUNITY LIBRARY",
       "address": "323 E. BROADWAY, TATUM, NM",
@@ -77,11 +9,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "88114",
-        "88213",
-        "88242",
         "88262",
-        "88264",
-        "88265",
         "88267"
       ]
     },
@@ -93,6 +21,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "87733",
         "88121",
         "88401",
         "88411",
@@ -125,7 +54,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "88119"
+        "88119",
+        "88134",
+        "88136"
       ]
     },
     {

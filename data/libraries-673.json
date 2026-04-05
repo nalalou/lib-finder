@@ -1,47 +1,58 @@
 {
   "libraries": [
     {
-      "name": "CEDAR VALE MEMORIAL LIBRARY",
-      "system": "CEDAR VALE MEMORIAL LIBRARY",
-      "address": "608 CEDAR, CEDAR VALE, KS",
-      "website": "https://cedarvalekslibrary.org/",
+      "name": "INDEPENDENCE PUBLIC LIBRARY",
+      "system": "INDEPENDENCE PUBLIC LIBRARY",
+      "address": "175 MONMOUTH ST, INDEPENDENCE, OR",
+      "website": "http://iplks.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67024",
-        "67334",
-        "67355",
-        "67360",
-        "673HH"
+        "50641",
+        "50644",
+        "52326",
+        "52329",
+        "54747",
+        "54773",
+        "67301",
+        "67344",
+        "67351",
+        "67363",
+        "97304",
+        "97338",
+        "97351",
+        "97371"
       ]
     },
     {
       "name": "ALTAMONT PUBLIC LIBRARY",
       "system": "ALTAMONT PUBLIC LIBRARY",
-      "address": "407 HUSTON AVE, ALTAMONT, KS",
+      "address": "1433 MAIN STREET, ALTAMONT, TN",
       "website": "https://altamontpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "371XX",
         "37301",
-        "37339",
-        "37365",
-        "37366",
+        "62411",
+        "62414",
+        "62426",
+        "62443",
+        "62461",
         "67330"
       ]
     },
     {
       "name": "MOLINE PUBLIC LIBRARY",
       "system": "MOLINE PUBLIC LIBRARY",
-      "address": "107 N. MAIN, MOLINE, KS",
+      "address": "3210 41ST STREET, MOLINE, IL",
       "website": "https://molinepubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "61236",
+        "61265",
         "67345",
-        "67353",
-        "673XX"
+        "67353"
       ]
     },
     {
@@ -52,10 +63,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67332",
+        "67330",
         "67341",
-        "67354",
-        "67357"
+        "67354"
       ]
     },
     {
@@ -66,9 +76,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67345",
         "67346",
-        "673XX"
+        "67353"
       ]
     },
     {
@@ -79,10 +88,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67330",
         "67332",
-        "67341",
-        "67342",
-        "67357"
+        "67342"
       ]
     },
     {
@@ -94,8 +102,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67345",
-        "67349",
-        "673XX"
+        "67349"
       ]
     },
     {
@@ -109,8 +116,7 @@
         "67334",
         "67355",
         "67360",
-        "67361",
-        "673HH"
+        "67361"
       ]
     },
     {
@@ -122,9 +128,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67332",
-        "67336",
-        "67341",
-        "67357"
+        "67336"
       ]
     },
     {
@@ -135,10 +139,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67332",
-        "67341",
-        "67356",
-        "67357"
+        "67356"
       ]
     },
     {
@@ -149,13 +150,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67301",
         "67333",
-        "67340",
-        "67344",
         "67347",
-        "67351",
-        "67363",
         "67364"
       ]
     },
@@ -167,14 +163,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67301",
         "67335",
-        "67340",
-        "67344",
-        "67347",
-        "67351",
-        "67363",
-        "67364"
+        "67351"
+      ]
+    },
+    {
+      "name": "PARSONS PUBLIC LIBRARY",
+      "system": "PARSONS PUBLIC LIBRARY",
+      "address": "311 S 17TH STREET, PARSONS, KS",
+      "website": "https://parsonslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38363",
+        "38380",
+        "67341",
+        "67357"
       ]
     },
     {
@@ -185,14 +189,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67301",
         "67337",
         "67340",
-        "67344",
-        "67347",
-        "67351",
-        "67363",
-        "67364"
+        "67351"
       ]
     },
     {
@@ -204,8 +203,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67345",
-        "67352",
-        "673XX"
+        "67352"
       ]
     }
   ]

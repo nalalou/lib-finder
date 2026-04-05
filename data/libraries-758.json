@@ -8,12 +8,8 @@
       "formUrl": "https://www.fairfieldtxlibrary.org/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "75838",
         "75840",
-        "75848",
-        "75859",
-        "758HH",
-        "76693"
+        "75859"
       ]
     },
     {
@@ -54,21 +50,20 @@
       "zipcodes": [
         "75838",
         "75848",
-        "75859",
         "75860",
-        "758HH",
         "76693"
       ]
     },
     {
       "name": "BUFFALO PUBLIC LIBRARY",
       "system": "BUFFALO PUBLIC LIBRARY",
-      "address": "11 E TURNER, BUFFALO, OK",
+      "address": "1005 HILL ST, BUFFALO, TX",
       "website": "https://buffalotex.com/departments/buffalo_public_library.php",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "73834",
+        "73855",
         "75831",
         "75833",
         "75846",
@@ -103,10 +98,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "75844",
-        "75847",
-        "75849",
-        "75851",
-        "75858"
+        "75849"
       ]
     },
     {
@@ -120,20 +112,6 @@
         "75852",
         "77864",
         "77872"
-      ]
-    },
-    {
-      "name": "FRANKSTON DEPOT LIBRARY",
-      "system": "FRANKSTON DEPOT LIBRARY",
-      "address": "159 W RAILROAD AVE, FRANKSTON, TX",
-      "website": "https://www.frankstondepotlibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75763",
-        "75839",
-        "75853",
-        "75861"
       ]
     }
   ]

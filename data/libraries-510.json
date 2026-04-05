@@ -1,40 +1,6 @@
 {
   "libraries": [
     {
-      "name": "BOYDEN PUBLIC LIBRARY",
-      "system": "BOYDEN PUBLIC LIBRARY",
-      "address": "609 WEBB ST, BOYDEN, IA",
-      "website": "https://www.boyden.lib.ia.us/",
-      "formUrl": "https://www.boyden.lib.ia.us/services/purchase-suggestions",
-      "formStatus": "verified",
-      "zipcodes": [
-        "51011",
-        "51022",
-        "51027",
-        "51036",
-        "51234",
-        "51239",
-        "51244"
-      ]
-    },
-    {
-      "name": "ROCK VALLEY PUBLIC LIBRARY",
-      "system": "ROCK VALLEY PUBLIC LIBRARY",
-      "address": "1531 MAIN ST, ROCK VALLEY, IA",
-      "website": "https://www.rockvalley.lib.ia.us/",
-      "formUrl": "https://www.rockvalley.lib.ia.us/services/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "51011",
-        "51022",
-        "51027",
-        "51036",
-        "51239",
-        "51244",
-        "51247"
-      ]
-    },
-    {
       "name": "SIOUX CENTER PUBLIC LIBRARY",
       "system": "SIOUX CENTER PUBLIC LIBRARY",
       "address": "102 S MAIN AVE, SIOUX CENTER, IA",
@@ -42,12 +8,7 @@
       "formUrl": "https://www.siouxcenterlibrary.org/suggestion-for-purchase/",
       "formStatus": "verified",
       "zipcodes": [
-        "51011",
-        "51022",
-        "51027",
         "51036",
-        "51239",
-        "51244",
         "51250"
       ]
     },
@@ -59,45 +20,28 @@
       "formUrl": "https://www.hospers.lib.ia.us/services/suggestion-purchase",
       "formStatus": "verified",
       "zipcodes": [
-        "51011",
         "51022",
-        "51027",
-        "51036",
-        "51238",
-        "51239",
-        "51244"
+        "51238"
       ]
     },
     {
       "name": "AKRON PUBLIC LIBRARY",
       "system": "AKRON PUBLIC LIBRARY",
-      "address": "350 REED ST, AKRON, IA",
+      "address": "207 FIRST AVENUE SOUTH, AKRON, AL",
       "website": "https://www.akron.lib.ia.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35441",
+        "36776",
         "51001",
-        "51008",
-        "51024",
-        "51045",
-        "51062"
-      ]
-    },
-    {
-      "name": "MOORHEAD PUBLIC LIBRARY",
-      "system": "MOORHEAD PUBLIC LIBRARY",
-      "address": "MAIN ST, MOORHEAD, IA",
-      "website": "https://larl.org/locations/moorhead/",
-      "formUrl": "https://larl.org/books-movies-more/suggest-a-purchase/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "51010",
-        "51051",
-        "51059",
-        "51063",
-        "510HH",
-        "51523",
-        "51558"
+        "51062",
+        "80720",
+        "80740",
+        "80743",
+        "80757",
+        "80801",
+        "80812"
       ]
     },
     {
@@ -109,11 +53,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51010",
-        "51051",
-        "51059",
-        "51063",
-        "510HH",
-        "51523",
         "51572"
       ]
     },
@@ -147,11 +86,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51008",
-        "51024",
-        "51028",
-        "51045",
-        "51062"
+        "51028"
       ]
     },
     {
@@ -163,10 +98,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "51008",
-        "51024",
-        "51031",
-        "51045",
-        "51062"
+        "51031"
       ]
     },
     {
@@ -179,9 +111,7 @@
       "zipcodes": [
         "51008",
         "51024",
-        "51038",
-        "51045",
-        "51062"
+        "51038"
       ]
     },
     {
@@ -192,11 +122,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51008",
-        "51024",
-        "51045",
-        "51050",
-        "51062"
+        "51050"
       ]
     },
     {
@@ -208,12 +134,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51003",
-        "51011",
         "51022",
-        "51027",
-        "51036",
-        "51239",
-        "51244"
+        "51036"
       ]
     },
     {
@@ -225,12 +147,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51011",
-        "51022",
         "51023",
-        "51027",
-        "51036",
-        "51239",
-        "51244"
+        "51027"
       ]
     },
     {
@@ -241,13 +159,8 @@
       "formUrl": "https://www.orangecitylibrary.org/how-do-i/request-books-from-another-library/",
       "formStatus": "verified",
       "zipcodes": [
-        "51011",
-        "51022",
-        "51027",
         "51036",
-        "51041",
-        "51239",
-        "51244"
+        "51041"
       ]
     },
     {
@@ -259,22 +172,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51004",
-        "51007",
         "51019",
-        "51026",
-        "51030",
         "51044",
-        "51048",
-        "51052",
-        "51056",
-        "51103",
-        "51104",
-        "51105",
-        "51106",
-        "51108",
-        "51109",
-        "51111",
-        "511HH"
+        "51056"
       ]
     },
     {
@@ -285,23 +185,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51007",
         "51016",
-        "51019",
-        "51026",
-        "51030",
-        "51044",
-        "51048",
-        "51052",
-        "51056",
-        "51103",
-        "51104",
-        "51105",
-        "51106",
-        "51108",
-        "51109",
-        "51111",
-        "511HH"
+        "51048"
       ]
     },
     {
@@ -313,22 +198,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "51007",
-        "51019",
-        "51026",
         "51030",
-        "51039",
-        "51044",
-        "51048",
-        "51052",
-        "51056",
-        "51103",
-        "51104",
-        "51105",
-        "51106",
-        "51108",
-        "51109",
-        "51111",
-        "511HH"
+        "51039"
       ]
     },
     {
@@ -339,23 +210,9 @@
       "formUrl": "https://www.sloan.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "51007",
-        "51019",
         "51026",
-        "51030",
-        "51044",
-        "51048",
         "51052",
-        "51055",
-        "51056",
-        "51103",
-        "51104",
-        "51105",
-        "51106",
-        "51108",
-        "51109",
-        "51111",
-        "511HH"
+        "51055"
       ]
     },
     {
@@ -366,9 +223,6 @@
       "formUrl": "https://www.alta.lib.ia.us/services/suggestion-purchase",
       "formStatus": "verified",
       "zipcodes": [
-        "50565",
-        "50568",
-        "50592",
         "51002"
       ]
     },
@@ -380,16 +234,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50565",
-        "50568",
-        "50592",
         "51033"
       ]
     },
     {
       "name": "CHEROKEE PUBLIC LIBRARY",
       "system": "CHEROKEE PUBLIC LIBRARY",
-      "address": "118 CHURCH STREET, CHEROKEE, AL",
+      "address": "215 S 2ND ST, CHEROKEE, IA",
       "website": "https://www.cherokee.lib.ia.us/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -408,9 +259,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51012",
         "51014",
-        "51029",
         "51037"
       ]
     },
@@ -422,8 +271,6 @@
       "formUrl": "https://www.marcus.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "51012",
-        "51029",
         "51035",
         "51037"
       ]
@@ -436,9 +283,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51012",
-        "51029",
-        "51037",
         "51049"
       ]
     },
@@ -450,10 +294,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51047",
-        "51333",
-        "51341",
-        "51343"
+        "51047"
       ]
     },
     {
@@ -475,13 +316,22 @@
       "formUrl": "https://www.onawa.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "51010",
         "51040",
-        "51051",
-        "51059",
-        "51063",
-        "510HH",
         "51523"
+      ]
+    },
+    {
+      "name": "WHITING PUBLIC LIBRARY",
+      "system": "WHITING PUBLIC LIBRARY",
+      "address": "407 WHITTIER ST, WHITING, IA",
+      "website": "https://www.whiting.lib.ia.us/",
+      "formUrl": "https://www.whiting.lib.ia.us/services/interlibrary-loan",
+      "formStatus": "verified",
+      "zipcodes": [
+        "46324",
+        "46327",
+        "46394",
+        "51063"
       ]
     },
     {
@@ -494,11 +344,7 @@
       "zipcodes": [
         "51010",
         "51034",
-        "51051",
-        "51059",
-        "51063",
-        "510HH",
-        "51523"
+        "51051"
       ]
     },
     {
@@ -509,10 +355,7 @@
       "formUrl": "https://www.aurelia.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "51005",
-        "51012",
-        "51029",
-        "51037"
+        "51005"
       ]
     },
     {
@@ -546,8 +389,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "50567",
-        "51053",
-        "51433"
+        "51053"
       ]
     },
     {
@@ -558,13 +400,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51010",
-        "51051",
-        "51059",
-        "51060",
-        "51063",
-        "510HH",
-        "51523"
+        "51060"
       ]
     },
     {
@@ -575,9 +411,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51012",
-        "51029",
-        "51037",
         "51061"
       ]
     },
@@ -589,23 +422,7 @@
       "formUrl": "https://www.cushing.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "51007",
-        "51018",
-        "51019",
-        "51026",
-        "51030",
-        "51044",
-        "51048",
-        "51052",
-        "51056",
-        "51103",
-        "51104",
-        "51105",
-        "51106",
-        "51108",
-        "51109",
-        "51111",
-        "511HH"
+        "51018"
       ]
     },
     {
@@ -617,49 +434,13 @@
       "formStatus": "verified",
       "zipcodes": [
         "51007",
-        "51019",
-        "51026",
-        "51030",
-        "51044",
-        "51048",
         "51052",
         "51054",
-        "51056",
         "51103",
         "51104",
         "51105",
         "51106",
-        "51108",
-        "51109",
-        "51111",
-        "511HH"
-      ]
-    },
-    {
-      "name": "SIOUX CITY PUBLIC LIBRARY",
-      "system": "SIOUX CITY PUBLIC LIBRARY",
-      "address": "529 PIERCE ST, SIOUX CITY, IA",
-      "website": "https://www.siouxcitylibrary.org/",
-      "formUrl": "https://www.siouxcitylibrary.org/interlibrary-loansuggest-a-title/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "51007",
-        "51019",
-        "51026",
-        "51030",
-        "51044",
-        "51048",
-        "51052",
-        "51056",
-        "51101",
-        "51103",
-        "51104",
-        "51105",
-        "51106",
-        "51108",
-        "51109",
-        "51111",
-        "511HH"
+        "51111"
       ]
     }
   ]

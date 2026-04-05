@@ -1,114 +1,44 @@
 {
   "libraries": [
     {
-      "name": "FLORIDA PUBLIC LIBRARY",
-      "system": "FLORIDA PUBLIC LIBRARY",
-      "address": "56 NORTH COUNTY ROAD, FLORIDA, MA",
-      "website": "https://www.floridapubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01247",
-        "10916",
-        "10917",
-        "10918",
-        "10919",
-        "10921",
-        "10926",
-        "10930",
-        "10941",
-        "10958",
-        "10963",
-        "10969",
-        "10973",
-        "10975",
-        "10985",
-        "10996",
-        "10998",
-        "109HH",
-        "109XX",
-        "12520",
-        "12543",
-        "12553",
-        "12575",
-        "12577",
-        "125XX",
-        "12729",
-        "12739",
-        "12746",
-        "12780"
-      ]
-    },
-    {
-      "name": "HINSDALE PUBLIC LIBRARY",
-      "system": "HINSDALE PUBLIC LIBRARY",
-      "address": "58 MAPLE ST., HINSDALE, MA",
-      "website": "https://www.town.hinsdale.nh.us/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01235",
-        "03451",
-        "03462",
-        "03466",
-        "03609"
-      ]
-    },
-    {
       "name": "CHESHIRE PUBLIC LIBRARY",
       "system": "CHESHIRE PUBLIC LIBRARY",
-      "address": "23 DEPOT STREET, CHESHIRE, MA",
+      "address": "104 MAIN ST., CHESHIRE, CT",
       "website": "https://www.cheshirelibrary.org/",
       "formUrl": "https://www.cheshirelibrary.org/suggest/",
       "formStatus": "verified",
       "zipcodes": [
-        "01029",
-        "01222",
+        "01220",
         "01225",
-        "01236",
-        "01242",
-        "01259",
-        "012HH"
+        "06410",
+        "06450"
       ]
     },
     {
       "name": "ADAMS FREE LIBRARY",
       "system": "ADAMS FREE LIBRARY",
-      "address": "92 PARK ST., ADAMS, MA",
+      "address": "2 NORTH MAIN STREET, ADAMS, NY",
       "website": "https://adamslibraryma.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "01220",
-        "13602",
-        "13603",
+        "01225",
         "13605",
-        "13616",
-        "13638",
-        "13640",
         "13659",
-        "13665",
-        "13675",
-        "13679",
-        "13693",
-        "136XX"
+        "13682"
       ]
     },
     {
       "name": "ALFORD FREE PUBLIC LIBRARY",
       "system": "ALFORD FREE PUBLIC LIBRARY",
       "address": "5 ALFORD CENTER ROAD, ALFORD, MA",
-      "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=1730",
+      "website": "https://townofalford.org/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
         "01230",
-        "01236",
-        "01242",
-        "01259",
-        "012HH"
+        "01236"
       ]
     },
     {
@@ -119,13 +49,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01223",
-        "01236",
-        "01242",
-        "01259",
-        "012HH"
+        "01223"
       ]
     },
     {
@@ -136,13 +60,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01236",
-        "01242",
-        "01247",
-        "01259",
-        "012HH"
+        "01247"
       ]
     },
     {
@@ -153,30 +71,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01226",
-        "01236",
-        "01242",
-        "01259",
-        "012HH"
+        "01226"
       ]
     },
     {
       "name": "EGREMONT FREE LIBRARY",
       "system": "EGREMONT FREE LIBRARY",
       "address": "1 BUTTON BALL LANE, SOUTH EGREMONT, MA",
-      "website": "https://www.egremont-ma.gov/170/Egremont-Free-Library",
+      "website": "http://www.egremont-ma.gov/library.html",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01236",
-        "01242",
-        "01258",
-        "01259",
-        "012HH"
+        "01258"
       ]
     },
     {
@@ -187,13 +93,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01230",
-        "01236",
-        "01242",
-        "01259",
-        "012HH"
+        "01230"
+      ]
+    },
+    {
+      "name": "TAYLOR MEMORIAL LIBRARY",
+      "system": "TAYLOR MEMORIAL LIBRARY",
+      "address": "155 MAIN STREET, HANCOCK, MA",
+      "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=1000",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01237",
+        "54635",
+        "54642",
+        "54659"
       ]
     },
     {
@@ -204,30 +118,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01236",
-        "01237",
-        "01242",
-        "01259",
-        "012HH"
+        "01225",
+        "01237"
       ]
     },
     {
       "name": "LEE LIBRARY ASSOCIATION",
       "system": "LEE LIBRARY ASSOCIATION",
       "address": "100 MAIN ST., LEE, MA",
-      "website": "https://www.leelibraryma.org/",
+      "website": "https://www.leelibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01236",
         "01238",
-        "01242",
-        "01259",
-        "012HH"
+        "01242"
       ]
     },
     {
@@ -238,13 +142,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01236",
         "01240",
-        "01242",
-        "01259",
-        "012HH"
+        "01242"
       ]
     },
     {
@@ -255,13 +154,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01012",
-        "01039",
-        "01050",
-        "01053",
-        "01073",
-        "01084",
-        "01088",
         "01243"
       ]
     },
@@ -274,12 +166,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01029",
-        "01222",
-        "01236",
-        "01242",
         "01245",
-        "01259",
-        "012HH"
+        "01259"
       ]
     },
     {
@@ -290,13 +178,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
         "01222",
-        "01236",
-        "01242",
-        "01258",
-        "01259",
-        "012HH"
+        "01258"
       ]
     },
     {
@@ -307,30 +190,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
         "01222",
-        "01236",
-        "01242",
         "01244",
-        "01259",
-        "012HH"
+        "01259"
       ]
     },
     {
       "name": "NORTH ADAMS PUBLIC LIBRARY",
       "system": "NORTH ADAMS PUBLIC LIBRARY",
       "address": "74 CHURCH ST., NORTH ADAMS, MA",
-      "website": "https://naplibrary.libguides.com/",
+      "website": "https://www.naplibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01236",
-        "01242",
-        "01247",
-        "01259",
-        "012HH"
+        "01220",
+        "01247"
       ]
     },
     {
@@ -342,12 +216,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01029",
-        "01222",
-        "01236",
-        "01242",
-        "01253",
-        "01259",
-        "012HH"
+        "01253"
       ]
     },
     {
@@ -358,13 +227,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01235",
-        "01236",
-        "01242",
-        "01259",
-        "012HH"
+        "01235"
       ]
     },
     {
@@ -375,13 +238,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01201",
-        "01222",
-        "01236",
-        "01242",
-        "01259",
-        "012HH"
+        "01201"
       ]
     },
     {
@@ -392,13 +249,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01236",
-        "01242",
-        "01254",
-        "01259",
-        "012HH"
+        "01254"
       ]
     },
     {
@@ -410,12 +261,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "01029",
-        "01222",
-        "01236",
-        "01242",
-        "01255",
-        "01259",
-        "012HH"
+        "01255"
       ]
     },
     {
@@ -426,13 +272,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01236",
-        "01242",
-        "01256",
-        "01259",
-        "012HH"
+        "01256"
       ]
     },
     {
@@ -443,13 +283,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
         "01222",
-        "01236",
-        "01242",
         "01257",
-        "01259",
-        "012HH"
+        "01259"
       ]
     },
     {
@@ -460,13 +296,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
         "01236",
         "01242",
-        "01259",
-        "01262",
-        "012HH"
+        "01262"
       ]
     },
     {
@@ -477,13 +309,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01236",
-        "01242",
-        "01259",
-        "01264",
-        "012HH"
+        "01264"
       ]
     },
     {
@@ -494,13 +320,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
         "01236",
-        "01242",
-        "01259",
-        "01266",
-        "012HH"
+        "01266"
       ]
     },
     {
@@ -511,30 +332,18 @@
       "formUrl": "https://www.milnelibrary.org/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01236",
-        "01242",
-        "01259",
-        "01267",
-        "012HH"
+        "01267"
       ]
     },
     {
       "name": "WINDSOR FREE PUBLIC LIBRARY",
       "system": "WINDSOR FREE PUBLIC LIBRARY",
       "address": "1890 ROUTE 9, WINDSOR, MA",
-      "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=772",
+      "website": "https://www.windsormass.com/windsor-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01029",
-        "01222",
-        "01236",
-        "01242",
-        "01259",
-        "01270",
-        "012HH"
+        "01270"
       ]
     }
   ]

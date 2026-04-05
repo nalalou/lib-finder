@@ -3,7 +3,7 @@
     {
       "name": "HURLEY PUBLIC LIBRARY",
       "system": "HURLEY PUBLIC LIBRARY",
-      "address": "603 CENTER AVENUE, HURLEY, SD",
+      "address": "405 5TH AVE. N., HURLEY, WI",
       "website": "https://hurleypublic.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -14,64 +14,62 @@
         "54550",
         "54559",
         "54565",
-        "57036"
+        "57021",
+        "57036",
+        "57053"
       ]
     },
     {
-      "name": "AVON PUBLIC LIBRARY",
-      "system": "AVON PUBLIC LIBRARY",
-      "address": "280 WEST MAIN ST., AVON, MA",
-      "website": "https://www.avon-ma.gov/avon-public-library",
+      "name": "HOWARD PUBLIC LIBRARY",
+      "system": "HOWARD PUBLIC LIBRARY",
+      "address": "101 E FARMER AVE, HOWARD, SD",
+      "website": "https://www.findglocal.com/US/Howard/490109828006423/Howard-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02322",
-        "57063",
-        "570HH",
-        "57315"
+        "57058",
+        "57321",
+        "57323",
+        "57337",
+        "57349",
+        "57374"
       ]
     },
     {
-      "name": "PARKSTON PUBLIC LIBRARY",
-      "system": "PARKSTON PUBLIC LIBRARY",
-      "address": "110 W MAIN ST, PARKSTON, SD",
-      "website": "https://www.cityofparkston.org/library",
+      "name": "MADISON PUBLIC LIBRARY",
+      "system": "MADISON PUBLIC LIBRARY",
+      "address": "1700 FIFTH STREET, MADISON, IL",
+      "website": "http://www.madisonpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57052",
-        "57331",
-        "57366"
-      ]
-    },
-    {
-      "name": "TRIPP PUBLIC LIBRARY",
-      "system": "TRIPP PUBLIC LIBRARY",
-      "address": "105 S SLOAN STREET, TRIPP, SD",
-      "website": "https://tripp.yoursdlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57052",
-        "57331",
-        "57376"
-      ]
-    },
-    {
-      "name": "HAZEL L. MEYER MEMORIAL LIBRARY",
-      "system": "HAZEL L. MEYER MEMORIAL LIBRARY",
-      "address": "102 1ST STREET NE, DE SMET, SD",
-      "website": "https://desmetsd.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57051",
-        "57212",
-        "57214",
-        "57231",
-        "57233",
-        "57244",
-        "57353"
+        "04911",
+        "04950",
+        "07935",
+        "07940",
+        "07946",
+        "07980",
+        "44057",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53711",
+        "53713",
+        "53714",
+        "53715",
+        "53718",
+        "57016",
+        "57042",
+        "57048",
+        "57050",
+        "57054",
+        "57057",
+        "57075",
+        "57076",
+        "62060",
+        "66860",
+        "68748"
       ]
     },
     {
@@ -86,54 +84,69 @@
         "57212",
         "57214",
         "57233",
-        "57244",
-        "57249",
-        "57353"
+        "57248",
+        "57249"
       ]
     },
     {
       "name": "CANTON PUBLIC LIBRARY",
       "system": "CANTON PUBLIC LIBRARY",
-      "address": "1200 SOUTH CANTON CENTER ROAD, CANTON, MI",
+      "address": "40 DYER AVENUE, CANTON, CT",
       "website": "https://cantonpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "02021",
+        "02072",
+        "06019",
+        "06020",
+        "06022",
+        "06092",
+        "48187",
         "48188",
         "57013",
         "57027",
         "57077",
-        "57108"
+        "63435",
+        "63438",
+        "63440",
+        "63447",
+        "63448",
+        "63452",
+        "63457",
+        "63473"
       ]
     },
     {
       "name": "HUDSON PUBLIC LIBRARY",
       "system": "HUDSON PUBLIC LIBRARY",
-      "address": "316 WHEELOCK, HUDSON, SD",
+      "address": "3 WASHINGTON STREET, HUDSON, MA",
       "website": "https://www.townofhudson.org/159/Hudson-Public-Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57013",
+        "01749",
+        "50643",
+        "50702",
         "57027",
-        "57034",
-        "57077",
-        "57108"
+        "57034"
       ]
     },
     {
       "name": "PARKER PUBLIC LIBRARY",
       "system": "PARKER PUBLIC LIBRARY",
-      "address": "290 N MAIN, PARKER, SD",
+      "address": "1001 S NAVAJO AVE, PARKER, AZ",
       "website": "https://parkerpublic.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57012",
         "57015",
-        "57021",
+        "57036",
         "57043",
         "57047",
-        "57053"
+        "57053",
+        "85344"
       ]
     },
     {
@@ -144,14 +157,10 @@
       "formUrl": "https://www.siouxlandlib.org/books-and-more/purchase-suggestion",
       "formStatus": "verified",
       "zipcodes": [
-        "57003",
         "57005",
-        "57018",
         "57020",
-        "57030",
         "57033",
         "57035",
-        "57041",
         "57055",
         "57068",
         "57103",
@@ -171,8 +180,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57001",
-        "57038"
+        "57001"
       ]
     },
     {
@@ -183,8 +191,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57004",
-        "57038"
+        "57004"
       ]
     },
     {
@@ -200,8 +207,7 @@
         "57061",
         "57071",
         "57220",
-        "57276",
-        "572HH"
+        "57276"
       ]
     },
     {
@@ -212,11 +218,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57014",
-        "57015",
-        "57021",
-        "57043",
-        "57047"
+        "57014"
       ]
     },
     {
@@ -228,22 +230,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57003",
-        "57005",
         "57018",
-        "57020",
         "57022",
         "57030",
-        "57033",
-        "57035",
-        "57041",
-        "57055",
-        "57068",
-        "57103",
-        "57104",
-        "57105",
-        "57106",
-        "57107",
-        "57110"
+        "57041"
       ]
     },
     {
@@ -266,13 +256,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57002",
-        "57026",
-        "57061",
-        "57071",
-        "57220",
-        "57276",
-        "572HH"
+        "57026"
       ]
     },
     {
@@ -286,8 +270,7 @@
         "57017",
         "57024",
         "57028",
-        "57065",
-        "57074"
+        "57065"
       ]
     },
     {
@@ -299,8 +282,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57029",
-        "57052",
-        "57331"
+        "57319",
+        "57332"
       ]
     },
     {
@@ -311,11 +294,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57015",
-        "57021",
-        "57037",
-        "57043",
-        "57047"
+        "57037"
       ]
     },
     {
@@ -326,11 +305,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57013",
-        "57027",
         "57039",
-        "57077",
-        "57108"
+        "57077"
       ]
     },
     {
@@ -342,8 +318,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57045",
-        "57052",
-        "57331"
+        "57052"
       ]
     },
     {
@@ -355,9 +330,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57063",
-        "57066",
-        "570HH",
-        "57315"
+        "57066"
       ]
     },
     {
@@ -368,10 +341,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57059",
-        "57063",
-        "570HH",
-        "57315"
+        "57059"
       ]
     },
     {
@@ -383,7 +353,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "57010",
-        "57044",
         "57069",
         "57073"
       ]
@@ -396,10 +365,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57015",
         "57021",
-        "57043",
-        "57047",
+        "57036",
         "57070"
       ]
     },
@@ -427,10 +394,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57062",
-        "57063",
-        "570HH",
-        "57315"
+        "57062"
       ]
     },
     {
@@ -453,8 +417,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57013",
-        "57027",
         "57032",
         "57077",
         "57108"
@@ -468,10 +430,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57013",
-        "57027",
         "57064",
-        "57077",
         "57108"
       ]
     }

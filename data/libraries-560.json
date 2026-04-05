@@ -3,7 +3,7 @@
     {
       "name": "SCOTT COUNTY LIBRARY",
       "system": "SCOTT COUNTY LIBRARY",
-      "address": "110 W. 8TH ST., SCOTT CITY, KS",
+      "address": "1615 WESTON COURT, SHAKOPEE, MN",
       "website": "https://www.sclibrary.info/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -21,15 +21,15 @@
     {
       "name": "WELLS PUBLIC LIBRARY",
       "system": "WELLS PUBLIC LIBRARY",
-      "address": "54 1ST STREET SW, WELLS, MN",
+      "address": "1434 POST ROAD, WELLS, ME",
       "website": "https://www.myacpl.org/wells/",
       "formUrl": "https://search.myacpl.org/MaterialsRequest/NewRequest",
       "formStatus": "verified",
       "zipcodes": [
+        "03902",
+        "04090",
         "56014",
-        "56023",
         "56025",
-        "56033",
         "56051",
         "56068",
         "56097"
@@ -38,118 +38,44 @@
     {
       "name": "MARTIN COUNTY LIBRARY",
       "system": "MARTIN COUNTY LIBRARY",
-      "address": "110 NORTH PARK STREET, FAIRMONT, MN",
+      "address": "200 N ST MARY, STANTON, TX",
       "website": "https://www.martincountylibrary.org/index.php/locations/fairmont",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "56031",
+        "56039",
+        "56075",
+        "56088",
+        "56121",
+        "56127",
+        "56162",
+        "56171",
+        "56176",
+        "56181",
         "79713",
+        "79739",
         "79749",
         "79782",
-        "79783",
-        "797XX"
-      ]
-    },
-    {
-      "name": "MORGAN PUBLIC LIBRARY",
-      "system": "MORGAN PUBLIC LIBRARY",
-      "address": "210 VERNON AVENUE, MORGAN, MN",
-      "website": "https://morganlibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56083",
-        "56166",
-        "56180",
-        "56214",
-        "56224",
-        "56255",
-        "56263",
-        "56266",
-        "56287",
-        "56292",
-        "56294"
-      ]
-    },
-    {
-      "name": "REDWOOD FALLS PUBLIC LIBRARY",
-      "system": "REDWOOD FALLS PUBLIC LIBRARY",
-      "address": "509 SOUTH LINCOLN STREET, REDWOOD FALLS, MN",
-      "website": "https://redwoodfallslibrary.org/",
-      "formUrl": "https://redwoodfallslibrary.org/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "56083",
-        "56166",
-        "56180",
-        "56214",
-        "56224",
-        "56255",
-        "56263",
-        "56283",
-        "56287",
-        "56292",
-        "56294"
-      ]
-    },
-    {
-      "name": "WABASSO PUBLIC LIBRARY",
-      "system": "WABASSO PUBLIC LIBRARY",
-      "address": "1248 OAK ST, WABASSO, MN",
-      "website": "https://wabassolibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "56083",
-        "56166",
-        "56180",
-        "56214",
-        "56224",
-        "56255",
-        "56263",
-        "56287",
-        "56292",
-        "56293",
-        "56294"
+        "79783"
       ]
     },
     {
       "name": "SPRINGFIELD PUBLIC LIBRARY",
       "system": "SPRINGFIELD PUBLIC LIBRARY",
-      "address": "120 NORTH CASS AVENUE, SPRINGFIELD, MN",
+      "address": "225 5TH ST, SPRINGFIELD, OR",
       "website": "https://liveoakpl.org/locations/springfield",
       "formUrl": "https://liveoakpl.org/explore/suggest",
       "formStatus": "verified",
       "zipcodes": [
         "56087",
-        "97402",
         "97403",
         "97404",
-        "97405",
         "97408",
-        "97412",
-        "97413",
-        "97419",
-        "97427",
-        "97430",
-        "97431",
-        "97434",
-        "97437",
-        "97438",
-        "97451",
-        "97453",
         "97454",
         "97455",
-        "97461",
         "97477",
-        "97478",
-        "97480",
-        "97488",
-        "97489",
-        "97490",
-        "97492",
-        "97493"
+        "97478"
       ]
     },
     {
@@ -164,12 +90,6 @@
         "56152",
         "56166",
         "56180",
-        "56214",
-        "56224",
-        "56255",
-        "56263",
-        "56287",
-        "56292",
         "56294"
       ]
     },
@@ -192,8 +112,6 @@
         "56042",
         "56043",
         "56045",
-        "56064",
-        "56076",
         "56089"
       ]
     },
@@ -205,7 +123,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56019"
+        "56019",
+        "56087"
       ]
     },
     {
@@ -254,13 +173,13 @@
         "56024",
         "56034",
         "56037",
+        "56050",
         "56055",
         "56063",
         "56065",
         "56078",
         "56080",
-        "56090",
-        "560HH"
+        "56090"
       ]
     },
     {
@@ -274,7 +193,8 @@
         "56048",
         "56072",
         "56091",
-        "56093"
+        "56093",
+        "56096"
       ]
     },
     {
@@ -302,12 +222,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56014",
         "56023",
-        "56025",
-        "56033",
-        "56051",
-        "56068",
         "56098"
       ]
     },
@@ -319,13 +234,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56014",
-        "56023",
-        "56025",
         "56027",
-        "56033",
-        "56051",
-        "56068"
+        "56033"
       ]
     },
     {
@@ -337,12 +247,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "56013",
-        "56014",
-        "56023",
-        "56025",
-        "56033",
-        "56051",
-        "56068"
+        "56033"
       ]
     },
     {
@@ -355,8 +260,7 @@
       "zipcodes": [
         "56003",
         "56021",
-        "56054",
-        "56074"
+        "56050"
       ]
     },
     {
@@ -367,8 +271,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56021",
+        "56017",
+        "56028",
+        "56050",
         "56054",
+        "56057",
+        "56058",
         "56074",
         "56082"
       ]
@@ -381,11 +289,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55307",
-        "55335",
-        "55338",
-        "55396",
-        "56044"
+        "56044",
+        "56058"
       ]
     },
     {
@@ -400,6 +305,21 @@
         "55060",
         "55917",
         "56026"
+      ]
+    },
+    {
+      "name": "LONSDALE PUBLIC LIBRARY",
+      "system": "LONSDALE PUBLIC LIBRARY",
+      "address": "1006 BIRCH STREET NE, LONSDALE, MN",
+      "website": "https://lonsdale.lib.mn.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55019",
+        "55046",
+        "55088",
+        "56052",
+        "56069"
       ]
     }
   ]

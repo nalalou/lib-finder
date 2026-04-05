@@ -16,8 +16,37 @@
         "40057",
         "40058",
         "40068",
-        "40070",
-        "400HH"
+        "40070"
+      ]
+    },
+    {
+      "name": "MARION COUNTY PUBLIC LIBRARY",
+      "system": "MARION COUNTY PUBLIC LIBRARY",
+      "address": "201 EAST MAIN STREET, LEBANON, KY",
+      "website": "https://www.marioncopublic.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26554",
+        "26559",
+        "26563",
+        "26570",
+        "26571",
+        "26572",
+        "26574",
+        "26576",
+        "26582",
+        "26585",
+        "26586",
+        "26587",
+        "26588",
+        "26591",
+        "40009",
+        "40033",
+        "40037",
+        "40060",
+        "40062",
+        "40328"
       ]
     },
     {
@@ -39,6 +68,27 @@
       ]
     },
     {
+      "name": "OLDHAM COUNTY PUBLIC LIBRARY",
+      "system": "OLDHAM COUNTY PUBLIC LIBRARY",
+      "address": "308 YAGER AVENUE, LAGRANGE, KY",
+      "website": "https://librarytechnology.org/library/10349",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40010",
+        "40014",
+        "40026",
+        "40031",
+        "40055",
+        "40056",
+        "40077",
+        "79001",
+        "79010",
+        "79092",
+        "79098"
+      ]
+    },
+    {
       "name": "SHELBY COUNTY LIBRARY DISTRICT",
       "system": "SHELBY COUNTY LIBRARY DISTRICT",
       "address": "309 EIGHTH STREET, SHELBYVILLE, KY",
@@ -56,13 +106,16 @@
     {
       "name": "SPENCER COUNTY PUBLIC LIBRARY",
       "system": "SPENCER COUNTY PUBLIC LIBRARY",
-      "address": "210 WALNUT STREET, ROCKPORT, IN",
+      "address": "168 TAYLORSVILLE ROAD, TAYLORSVILLE, KY",
       "website": "https://spencercountypubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "40046",
         "40071",
+        "47611",
+        "47615",
+        "47634",
         "47635"
       ]
     },
@@ -79,6 +132,69 @@
       ]
     },
     {
+      "name": "WASHINGTON COUNTY PUBLIC LIBRARY",
+      "system": "WASHINGTON COUNTY PUBLIC LIBRARY",
+      "address": "333 WEST MAIN STREET, SPRINGFIELD, KY",
+      "website": "https://www.wcplib.info/marietta-branch",
+      "formUrl": "https://www.wcplib.info/interlibrary-loan",
+      "formStatus": "verified",
+      "zipcodes": [
+        "24202",
+        "24210",
+        "24211",
+        "24236",
+        "24270",
+        "24340",
+        "24361",
+        "32425",
+        "32427",
+        "32428",
+        "32437",
+        "32462",
+        "32463",
+        "36513",
+        "36518",
+        "36529",
+        "36538",
+        "36539",
+        "36548",
+        "36553",
+        "36556",
+        "36558",
+        "36569",
+        "36581",
+        "36583",
+        "36584",
+        "36585",
+        "37601",
+        "37614",
+        "37615",
+        "37656",
+        "37659",
+        "37681",
+        "37690",
+        "40040",
+        "40069",
+        "40078",
+        "45714",
+        "45715",
+        "45724",
+        "45729",
+        "45742",
+        "45744",
+        "45745",
+        "45746",
+        "45750",
+        "45767",
+        "45768",
+        "45773",
+        "45784",
+        "45786",
+        "45788",
+        "45789"
+      ]
+    },
+    {
       "name": "BULLITT COUNTY LIBRARY DISTRICT",
       "system": "BULLITT COUNTY LIBRARY DISTRICT",
       "address": "740 CONESTOGA PARKWAY, SHEPHERDSVILLE, KY",
@@ -89,8 +205,7 @@
         "40047",
         "40109",
         "40150",
-        "40165",
-        "401XX"
+        "40165"
       ]
     },
     {
@@ -134,8 +249,7 @@
         "40258",
         "40272",
         "40291",
-        "40299",
-        "402HH"
+        "40299"
       ]
     }
   ]

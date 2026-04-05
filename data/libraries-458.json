@@ -3,11 +3,12 @@
     {
       "name": "LIMA PUBLIC LIBRARY",
       "system": "LIMA PUBLIC LIBRARY",
-      "address": "650 W. MARKET ST., LIMA, OH",
+      "address": "1872 GENESEE STREET, LIMA, NY",
       "website": "https://www.limalibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "14485",
         "45801",
         "45804",
         "45805",
@@ -16,15 +17,14 @@
         "45808",
         "45809",
         "45820",
-        "45850",
-        "45887"
+        "45850"
       ]
     },
     {
       "name": "SHELBY COUNTY LIBRARIES - AMOS MEMORIAL",
       "system": "SHELBY COUNTY LIBRARIES - AMOS MEMORIAL",
       "address": "230 E. NORTH ST., SIDNEY, OH",
-      "website": "https://shelbycountylibraries.org/amos-memorial-public-library-sidney/",
+      "website": "https://shelbyco.lib.oh.us/branches/amoslibrary.htm",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -42,21 +42,6 @@
       ]
     },
     {
-      "name": "RIDGEMONT PUBLIC LIBRARY",
-      "system": "RIDGEMONT PUBLIC LIBRARY",
-      "address": "124 E. TAYLOR ST., MT. VICTORY, OH",
-      "website": "https://www.ridgemont.lib.oh.us/",
-      "formUrl": "https://www.ridgemont.lib.oh.us/about/policies/reconsideration",
-      "formStatus": "verified",
-      "zipcodes": [
-        "43326",
-        "43340",
-        "43345",
-        "45835",
-        "45859"
-      ]
-    },
-    {
       "name": "MARY LOU JOHNSON-HARDIN CNTY PL",
       "system": "MARY LOU JOHNSON-HARDIN CNTY PL",
       "address": "325 E. COLUMBUS ST., KENTON, OH",
@@ -67,28 +52,22 @@
         "43326",
         "43345",
         "44326",
-        "45835",
         "45859"
       ]
     },
     {
       "name": "DELPHOS PUBLIC LIBRARY",
       "system": "DELPHOS PUBLIC LIBRARY",
-      "address": "309 W. 2ND ST., DELPHOS, OH",
+      "address": "114 W. 2ND, DELPHOS, KS",
       "website": "https://delphos.mykansaslibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45804",
-        "45805",
-        "45806",
         "45807",
-        "45808",
         "45809",
-        "45820",
         "45833",
-        "45850",
-        "45887"
+        "45887",
+        "67436"
       ]
     },
     {
@@ -99,8 +78,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43326",
-        "43345",
         "45810",
         "45835",
         "45859"
@@ -114,8 +91,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43326",
-        "43345",
         "45812",
         "45835",
         "45859"
@@ -129,16 +104,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45804",
-        "45805",
-        "45806",
-        "45807",
         "45808",
-        "45809",
-        "45817",
-        "45820",
-        "45850",
-        "45887"
+        "45817"
       ]
     },
     {
@@ -149,13 +116,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45310",
         "45822",
-        "45860",
         "45862",
-        "45866",
-        "45883",
-        "458HH"
+        "45866"
       ]
     },
     {
@@ -169,10 +132,8 @@
         "45310",
         "45828",
         "45860",
-        "45862",
         "45866",
-        "45883",
-        "458HH"
+        "45883"
       ]
     },
     {
@@ -183,11 +144,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43326",
-        "43345",
         "45835",
-        "45836",
-        "45859"
+        "45836"
       ]
     },
     {
@@ -204,7 +162,6 @@
         "45840",
         "45841",
         "45867",
-        "45868",
         "45881",
         "45889",
         "45890",
@@ -219,11 +176,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43326",
-        "43345",
-        "45835",
-        "45843",
-        "45859"
+        "45843"
       ]
     },
     {
@@ -236,11 +189,7 @@
       "zipcodes": [
         "45310",
         "45846",
-        "45860",
-        "45862",
-        "45866",
-        "45883",
-        "458HH"
+        "45883"
       ]
     },
     {
@@ -251,17 +200,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "44804",
-        "45814",
         "45816",
-        "45841",
         "45858",
-        "45867",
         "45868",
-        "45881",
-        "45889",
-        "45890",
-        "45897"
+        "45889"
       ]
     },
     {
@@ -272,24 +214,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43406",
         "43413",
         "43437",
-        "43443",
-        "43447",
-        "43451",
-        "43457",
         "43462",
-        "43465",
-        "43466",
-        "43467",
         "43511",
-        "43522",
-        "43525",
         "43529",
-        "43541",
-        "43565",
-        "43619",
         "44817",
         "45872"
       ]
@@ -305,7 +234,6 @@
         "45827",
         "45830",
         "45831",
-        "45837",
         "45844",
         "45853",
         "45856",
@@ -341,13 +269,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45310",
-        "45860",
         "45862",
-        "45866",
-        "45882",
-        "45883",
-        "458HH"
+        "45882"
       ]
     },
     {
@@ -361,11 +284,8 @@
         "45819",
         "45865",
         "45869",
-        "45870",
         "45871",
-        "45885",
-        "45888",
-        "45896"
+        "45885"
       ]
     },
     {
@@ -396,8 +316,6 @@
       "formStatus": "verified",
       "zipcodes": [
         "45819",
-        "45865",
-        "45869",
         "45870",
         "45871",
         "45888",

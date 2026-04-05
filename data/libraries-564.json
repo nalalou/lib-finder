@@ -1,6 +1,58 @@
 {
   "libraries": [
     {
+      "name": "NEW YORK MILLS PUBLIC LIBRARY",
+      "system": "NEW YORK MILLS PUBLIC LIBRARY",
+      "address": "30 NORTH MAIN, NEW YORK MILLS, MN",
+      "website": "https://viking.lib.mn.us/places/new-york-mills-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13341",
+        "13403",
+        "13417",
+        "13495",
+        "13502",
+        "56361",
+        "56434",
+        "56437",
+        "56453",
+        "56464",
+        "56477",
+        "56481",
+        "56482",
+        "56518",
+        "56527",
+        "56551",
+        "56567",
+        "56571",
+        "56588"
+      ]
+    },
+    {
+      "name": "PERHAM AREA PUBLIC LIBRARY",
+      "system": "PERHAM AREA PUBLIC LIBRARY",
+      "address": "225 2ND AV NE, PERHAM, MN",
+      "website": "https://viking.lib.mn.us/places/perham-area-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56470",
+        "56501",
+        "56544",
+        "56557",
+        "56566",
+        "56569",
+        "56570",
+        "56573",
+        "56575",
+        "56576",
+        "56578",
+        "56589",
+        "56621"
+      ]
+    },
+    {
       "name": "CROSBY: JESSIE F. HALLETT MEMORIAL LIBRARY",
       "system": "CROSBY: JESSIE F. HALLETT MEMORIAL LIBRARY",
       "address": "101 1ST STREET SE, CROSBY, MN",
@@ -8,19 +60,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "56338",
+        "56359",
+        "56386",
         "56401",
         "56425",
+        "56431",
         "56441",
-        "56442",
+        "56443",
         "56444",
-        "56448",
         "56449",
         "56450",
         "56455",
-        "56456",
         "56465",
         "56468",
-        "56472"
+        "56472",
+        "56475"
       ]
     },
     {
@@ -31,18 +86,27 @@
       "formUrl": "https://krls.org/interlibrary-loan-mnlink/",
       "formStatus": "verified",
       "zipcodes": [
+        "56433",
         "56435",
+        "56436",
         "56452",
+        "56458",
+        "56461",
+        "56466",
+        "56467",
         "56473",
         "56474",
+        "56479",
         "56484",
-        "564HH",
+        "56601",
         "56626",
         "56633",
         "56641",
         "56655",
         "56662",
-        "56672"
+        "56672",
+        "56678",
+        "56687"
       ]
     },
     {
@@ -53,19 +117,37 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "56401",
-        "56425",
+        "55785",
         "56442",
-        "56444",
         "56447",
         "56448",
-        "56449",
-        "56450",
-        "56455",
         "56456",
-        "56465",
-        "56468",
-        "56472"
+        "56469"
+      ]
+    },
+    {
+      "name": "DOUGLAS COUNTY LIBRARY",
+      "system": "DOUGLAS COUNTY LIBRARY",
+      "address": "720 FILLMORE STREET, ALEXANDRIA, MN",
+      "website": "https://www.douglascountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56308",
+        "56315",
+        "56319",
+        "56326",
+        "56327",
+        "56332",
+        "56336",
+        "56343",
+        "56347",
+        "56354",
+        "56355",
+        "56360",
+        "56438",
+        "56440",
+        "56446"
       ]
     }
   ]

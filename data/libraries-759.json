@@ -3,63 +3,17 @@
     {
       "name": "JASPER PUBLIC LIBRARY",
       "system": "JASPER PUBLIC LIBRARY",
-      "address": "175 E WATER ST, JASPER, TX",
+      "address": "98 EAST 18TH STREET, JASPER, AL",
       "website": "https://www.jaspertx.org/page/library_home",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35501",
+        "35503",
+        "35504",
+        "35550",
         "75931",
-        "75951",
-        "77615"
-      ]
-    },
-    {
-      "name": "JACKSONVILLE PUBLIC LIBRARY",
-      "system": "JACKSONVILLE PUBLIC LIBRARY",
-      "address": "526 E COMMERCE ST, JACKSONVILLE, TX",
-      "website": "http://www.jaxpubliclibrary.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75759",
-        "75764",
-        "75766",
-        "757HH",
-        "75925"
-      ]
-    },
-    {
-      "name": "LIVINGSTON MUNICIPAL LIBRARY",
-      "system": "LIVINGSTON MUNICIPAL LIBRARY",
-      "address": "707 N TYLER AVE, LIVINGSTON, TX",
-      "website": "https://www.cityoflivingston-tx.com/Facilities/Facility/Details/Livingston-Municipal-Library-7",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75934",
-        "75960",
-        "759XX",
-        "77326",
-        "77335",
-        "77351",
-        "773XX"
-      ]
-    },
-    {
-      "name": "ONALASKA PUBLIC LIBRARY",
-      "system": "ONALASKA PUBLIC LIBRARY",
-      "address": "372 S FM 356 STE 103, ONALASKA, TX",
-      "website": "https://www.cityofonalaska.us/public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75934",
-        "75960",
-        "759XX",
-        "77326",
-        "77335",
-        "77360",
-        "773XX"
+        "75951"
       ]
     },
     {
@@ -84,11 +38,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75901",
-        "75941",
-        "75969",
-        "75980",
-        "759HH"
+        "75941"
       ]
     },
     {
@@ -99,9 +49,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75931",
-        "75956",
-        "77615"
+        "75956"
       ]
     },
     {
@@ -114,9 +62,7 @@
       "zipcodes": [
         "75901",
         "75904",
-        "75969",
-        "75980",
-        "759HH"
+        "75969"
       ]
     },
     {
@@ -147,7 +93,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "75930",
-        "75959",
         "75968"
       ]
     },
@@ -173,8 +118,7 @@
       "zipcodes": [
         "75935",
         "75954",
-        "75973",
-        "75974"
+        "75973"
       ]
     },
     {
@@ -187,22 +131,20 @@
       "zipcodes": [
         "75934",
         "75939",
-        "75960",
-        "759XX",
-        "77326",
-        "77335",
-        "773XX"
+        "75960"
       ]
     },
     {
       "name": "NEWTON COUNTY PUBLIC LIBRARY",
       "system": "NEWTON COUNTY PUBLIC LIBRARY",
-      "address": "9444 NORTH 315 WEST, LAKE VILLAGE, IN",
+      "address": "212 HIGH ST, NEWTON, TX",
       "website": "https://www.newtoncountypubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "46349",
+        "46379",
+        "46381",
         "75928",
         "75932",
         "75933",
@@ -219,7 +161,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75930",
         "75948",
         "75959"
       ]
@@ -252,9 +193,7 @@
       "zipcodes": [
         "75901",
         "75949",
-        "75969",
-        "75980",
-        "759HH"
+        "75980"
       ]
     },
     {
@@ -265,9 +204,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75759",
-        "75764",
-        "757HH",
         "75925",
         "75976"
       ]
@@ -280,38 +216,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "75954",
-        "75973",
         "75974",
         "75975"
-      ]
-    },
-    {
-      "name": "BUNA PUBLIC LIBRARY",
-      "system": "BUNA PUBLIC LIBRARY",
-      "address": "1042 HWY 62 S, BUNA, TX",
-      "website": "https://bunapubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75931",
-        "77612",
-        "77615"
-      ]
-    },
-    {
-      "name": "SINGLETARY MEMORIAL LIBRARY",
-      "system": "SINGLETARY MEMORIAL LIBRARY",
-      "address": "207 E 6TH ST, RUSK, TX",
-      "website": "https://librarytechnology.org/library/24534",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "75759",
-        "75764",
-        "75785",
-        "757HH",
-        "75925"
       ]
     }
   ]

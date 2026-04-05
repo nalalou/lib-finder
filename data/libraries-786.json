@@ -1,108 +1,6 @@
 {
   "libraries": [
     {
-      "name": "AUSTIN PUBLIC LIBRARY",
-      "system": "AUSTIN PUBLIC LIBRARY",
-      "address": "323 FOURTH AVE NE, AUSTIN, MN",
-      "website": "https://library.austintexas.gov/",
-      "formUrl": "https://austin.bibliocommons.com/user/login?destination=%2Fsuggested_purchases",
-      "formStatus": "verified",
-      "zipcodes": [
-        "55912",
-        "78652",
-        "78653",
-        "78669",
-        "78701",
-        "78702",
-        "78703",
-        "78704",
-        "78705",
-        "78719",
-        "78721",
-        "78722",
-        "78723",
-        "78724",
-        "78725",
-        "78726",
-        "78727",
-        "78730",
-        "78731",
-        "78732",
-        "78733",
-        "78735",
-        "78736",
-        "78739",
-        "78741",
-        "78742",
-        "78744",
-        "78745",
-        "78747",
-        "78748",
-        "78749",
-        "78750",
-        "78751",
-        "78752",
-        "78753",
-        "78754",
-        "78756",
-        "78757",
-        "78758",
-        "78759",
-        "787HH"
-      ]
-    },
-    {
-      "name": "LAKE TRAVIS COMMUNITY LIBRARY",
-      "system": "LAKE TRAVIS COMMUNITY LIBRARY",
-      "address": "1938 LOHMANS CROSSING RD, AUSTIN, TX",
-      "website": "https://laketravislibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78652",
-        "78653",
-        "78669",
-        "78701",
-        "78702",
-        "78703",
-        "78704",
-        "78705",
-        "78719",
-        "78721",
-        "78722",
-        "78723",
-        "78724",
-        "78725",
-        "78726",
-        "78727",
-        "78730",
-        "78731",
-        "78732",
-        "78733",
-        "78734",
-        "78735",
-        "78736",
-        "78739",
-        "78741",
-        "78742",
-        "78744",
-        "78745",
-        "78747",
-        "78748",
-        "78749",
-        "78750",
-        "78751",
-        "78752",
-        "78753",
-        "78754",
-        "78756",
-        "78757",
-        "78758",
-        "78759",
-        "787HH"
-      ]
-    },
-    {
       "name": "WESTBANK COMMUNITY LIBRARY DISTRICT",
       "system": "WESTBANK COMMUNITY LIBRARY DISTRICT",
       "address": "1309 WESTBANK DR, AUSTIN, TX",
@@ -111,24 +9,15 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78652",
-        "78653",
-        "78669",
-        "78701",
         "78702",
         "78703",
         "78704",
         "78705",
-        "78719",
         "78721",
         "78722",
         "78723",
-        "78724",
-        "78725",
-        "78726",
-        "78727",
         "78730",
         "78731",
-        "78732",
         "78733",
         "78735",
         "78736",
@@ -138,184 +27,30 @@
         "78744",
         "78745",
         "78746",
-        "78747",
         "78748",
         "78749",
         "78750",
         "78751",
         "78752",
-        "78753",
-        "78754",
         "78756",
         "78757",
-        "78758",
-        "78759",
-        "787HH"
-      ]
-    },
-    {
-      "name": "WELLS BRANCH COMMUNITY LIBRARY",
-      "system": "WELLS BRANCH COMMUNITY LIBRARY",
-      "address": "15001 WELLS PORT DR, AUSTIN, TX",
-      "website": "https://www.wblibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78652",
-        "78653",
-        "78669",
-        "78701",
-        "78702",
-        "78703",
-        "78704",
-        "78705",
-        "78719",
-        "78721",
-        "78722",
-        "78723",
-        "78724",
-        "78725",
-        "78726",
-        "78727",
-        "78728",
-        "78730",
-        "78731",
-        "78732",
-        "78733",
-        "78735",
-        "78736",
-        "78739",
-        "78741",
-        "78742",
-        "78744",
-        "78745",
-        "78747",
-        "78748",
-        "78749",
-        "78750",
-        "78751",
-        "78752",
-        "78753",
-        "78754",
-        "78756",
-        "78757",
-        "78758",
-        "78759",
-        "787HH"
-      ]
-    },
-    {
-      "name": "BEE CAVE PUBLIC LIBRARY",
-      "system": "BEE CAVE PUBLIC LIBRARY",
-      "address": "4000 GALLERIA PKWY, BEE CAVE, TX",
-      "website": "https://library.beecavetexas.gov/home",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78652",
-        "78653",
-        "78669",
-        "78701",
-        "78702",
-        "78703",
-        "78704",
-        "78705",
-        "78719",
-        "78721",
-        "78722",
-        "78723",
-        "78724",
-        "78725",
-        "78726",
-        "78727",
-        "78730",
-        "78731",
-        "78732",
-        "78733",
-        "78735",
-        "78736",
-        "78738",
-        "78739",
-        "78741",
-        "78742",
-        "78744",
-        "78745",
-        "78747",
-        "78748",
-        "78749",
-        "78750",
-        "78751",
-        "78752",
-        "78753",
-        "78754",
-        "78756",
-        "78757",
-        "78758",
-        "78759",
-        "787HH"
-      ]
-    },
-    {
-      "name": "FLORENCE PUBLIC LIBRARY",
-      "system": "FLORENCE PUBLIC LIBRARY",
-      "address": "324 MAIN ST., FLORENCE, KS",
-      "website": "https://florenceks.com/text/city/city_library.htm",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66851",
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78681",
-        "78717",
-        "78729"
+        "78759"
       ]
     },
     {
       "name": "TAYLOR PUBLIC LIBRARY",
       "system": "TAYLOR PUBLIC LIBRARY",
-      "address": "106 WILLIAMS STREET, TAYLOR, NE",
+      "address": "801 VANCE ST, TAYLOR, TX",
       "website": "https://libs.ne.gov/taylor",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "68821",
         "68879",
-        "76527",
         "76530",
         "76574",
         "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78681",
-        "78717",
-        "78729"
-      ]
-    },
-    {
-      "name": "JARRELL COMMUNITY LIBRARY AND RESOURCE CENTER",
-      "system": "JARRELL COMMUNITY LIBRARY AND RESOURCE CENTER",
-      "address": "113 LIMESTONE TERRACE SUITE 500, JARRELL, TX",
-      "website": "https://jarrellcommunitylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76527",
-        "76530",
-        "76537",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78681",
-        "78717",
-        "78729"
+        "78615"
       ]
     },
     {
@@ -326,7 +61,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78618",
         "78624",
         "78671",
         "78675"
@@ -335,22 +69,19 @@
     {
       "name": "GEORGETOWN PUBLIC LIBRARY",
       "system": "GEORGETOWN PUBLIC LIBRARY",
-      "address": "102 WEST WEST STREET, GEORGETOWN, IL",
+      "address": "402 W 8TH ST, GEORGETOWN, TX",
       "website": "https://georgetowntexas.gov/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "19941",
+        "19951",
+        "19968",
         "61846",
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
+        "61850",
         "78626",
         "78628",
-        "78681",
-        "78717",
-        "78729"
+        "78681"
       ]
     },
     {
@@ -361,7 +92,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78635",
         "78636",
         "78663"
       ]
@@ -374,9 +104,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78619",
-        "78640",
-        "78737"
+        "78640"
       ]
     },
     {
@@ -406,7 +134,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78616",
-        "78622",
         "78644",
         "78656"
       ]
@@ -419,10 +146,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78616",
         "78622",
-        "78648",
-        "78656"
+        "78648"
       ]
     },
     {
@@ -435,13 +160,8 @@
       "zipcodes": [
         "78602",
         "78612",
-        "78621",
-        "78650",
         "78659",
-        "78662",
-        "786HH",
-        "78953",
-        "789HH"
+        "78662"
       ]
     },
     {
@@ -452,13 +172,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
-        "78628",
         "78664",
         "78681",
         "78717",
@@ -473,9 +186,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78619",
-        "78666",
-        "78737"
+        "78666"
       ]
     },
     {
@@ -486,9 +197,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78610",
-        "78619",
-        "78737"
+        "78610"
       ]
     },
     {
@@ -499,47 +208,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78652",
         "78653",
         "78660",
-        "78669",
-        "78701",
-        "78702",
-        "78703",
-        "78704",
-        "78705",
-        "78719",
-        "78721",
-        "78722",
-        "78723",
-        "78724",
-        "78725",
-        "78726",
         "78727",
-        "78730",
-        "78731",
-        "78732",
-        "78733",
-        "78735",
-        "78736",
-        "78739",
-        "78741",
-        "78742",
-        "78744",
-        "78745",
-        "78747",
-        "78748",
-        "78749",
-        "78750",
-        "78751",
-        "78752",
         "78753",
         "78754",
-        "78756",
-        "78757",
         "78758",
-        "78759",
-        "787HH"
+        "78759"
       ]
     },
     {
@@ -577,14 +252,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76527",
-        "76530",
-        "76574",
-        "76578",
         "78613",
-        "78615",
-        "78626",
-        "78628",
         "78681",
         "78717",
         "78729"
@@ -599,8 +267,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78606",
-        "78635",
-        "78663"
+        "78635"
       ]
     },
     {
@@ -611,15 +278,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
         "78628",
         "78641",
-        "78681",
         "78717",
         "78729"
       ]
@@ -627,20 +287,23 @@
     {
       "name": "ELGIN PUBLIC LIBRARY",
       "system": "ELGIN PUBLIC LIBRARY",
-      "address": "121 NORTH MAIN STREET, ELGIN, ND",
+      "address": "404 N MAIN ST, ELGIN, TX",
       "website": "https://libraries.ne.gov/elgin/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "52141",
+        "58529",
         "58533",
-        "78612",
+        "58562",
+        "58564",
+        "58569",
+        "68636",
         "78621",
         "78650",
-        "78659",
-        "78662",
-        "786HH",
-        "78953",
-        "789HH"
+        "97827",
+        "97841",
+        "97876"
       ]
     },
     {
@@ -652,8 +315,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78619",
-        "78676",
-        "78737"
+        "78676"
       ]
     },
     {
@@ -665,46 +327,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78645",
-        "78652",
-        "78653",
-        "78669",
-        "78701",
-        "78702",
-        "78703",
-        "78704",
-        "78705",
-        "78719",
-        "78721",
-        "78722",
-        "78723",
-        "78724",
-        "78725",
         "78726",
-        "78727",
-        "78730",
-        "78731",
-        "78732",
-        "78733",
-        "78735",
-        "78736",
-        "78739",
-        "78741",
-        "78742",
-        "78744",
-        "78745",
-        "78747",
-        "78748",
-        "78749",
-        "78750",
-        "78751",
-        "78752",
-        "78753",
-        "78754",
-        "78756",
-        "78757",
-        "78758",
-        "78759",
-        "787HH"
+        "78750"
       ]
     },
     {
@@ -716,46 +340,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78645",
-        "78652",
-        "78653",
         "78669",
-        "78701",
-        "78702",
-        "78703",
-        "78704",
-        "78705",
-        "78719",
-        "78721",
-        "78722",
-        "78723",
-        "78724",
-        "78725",
         "78726",
-        "78727",
-        "78730",
-        "78731",
-        "78732",
-        "78733",
-        "78735",
-        "78736",
-        "78739",
-        "78741",
-        "78742",
-        "78744",
-        "78745",
-        "78747",
-        "78748",
-        "78749",
-        "78750",
-        "78751",
-        "78752",
-        "78753",
-        "78754",
-        "78756",
-        "78757",
-        "78758",
-        "78759",
-        "787HH"
+        "78732"
       ]
     },
     {
@@ -766,12 +353,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78122",
-        "78159",
         "78614",
-        "78629",
-        "78632",
-        "78658"
+        "78629"
       ]
     },
     {
@@ -782,17 +365,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
         "78628",
-        "78642",
-        "78681",
-        "78717",
-        "78729"
+        "78642"
       ]
     },
     {
@@ -803,9 +377,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78616",
         "78622",
-        "78656",
         "78661"
       ]
     },
@@ -818,46 +390,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78617",
-        "78652",
-        "78653",
-        "78669",
-        "78701",
-        "78702",
-        "78703",
-        "78704",
-        "78705",
         "78719",
-        "78721",
-        "78722",
-        "78723",
-        "78724",
         "78725",
-        "78726",
-        "78727",
-        "78730",
-        "78731",
-        "78732",
-        "78733",
-        "78735",
-        "78736",
-        "78739",
         "78741",
         "78742",
         "78744",
-        "78745",
-        "78747",
-        "78748",
-        "78749",
-        "78750",
-        "78751",
-        "78752",
-        "78753",
-        "78754",
-        "78756",
-        "78757",
-        "78758",
-        "78759",
-        "787HH"
+        "78747"
       ]
     },
     {
@@ -868,17 +406,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78634",
-        "78681",
-        "78717",
-        "78729"
+        "78634"
       ]
     },
     {
@@ -890,9 +418,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78618",
-        "78631",
-        "78671",
-        "78675"
+        "78631"
       ]
     },
     {
@@ -903,40 +429,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78616",
         "78622",
         "78655",
         "78656"
-      ]
-    },
-    {
-      "name": "NEW BRAUNFELS PUBLIC LIBRARY",
-      "system": "NEW BRAUNFELS PUBLIC LIBRARY",
-      "address": "700 E COMMON ST, NEW BRAUNFELS, TX",
-      "website": "https://newbraunfels.gov/3078/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78070",
-        "78130",
-        "78132",
-        "781HH",
-        "78623"
-      ]
-    },
-    {
-      "name": "SCHERTZ PUBLIC LIBRARY",
-      "system": "SCHERTZ PUBLIC LIBRARY",
-      "address": "798 SCHERTZ PKWY, SCHERTZ, TX",
-      "website": "https://schertz.com/2184/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78108",
-        "78123",
-        "78154",
-        "78638",
-        "78670"
       ]
     },
     {
@@ -947,26 +442,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78108",
         "78123",
         "78155",
         "78638",
         "78670"
-      ]
-    },
-    {
-      "name": "MAMMEN FAMILY PUBLIC LIBRARY",
-      "system": "MAMMEN FAMILY PUBLIC LIBRARY",
-      "address": "131 BULVERDE CROSSING RD, BULVERDE, TX",
-      "website": "https://mfplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78070",
-        "78132",
-        "78163",
-        "781HH",
-        "78623"
       ]
     },
     {
@@ -977,76 +456,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78070",
         "78132",
         "78133",
-        "781HH",
         "78623"
-      ]
-    },
-    {
-      "name": "APHNE PATTILLO NIXON PUBLIC LIBRARY",
-      "system": "APHNE PATTILLO NIXON PUBLIC LIBRARY",
-      "address": "401 N NIXON AVE, NIXON, TX",
-      "website": "https://librarytechnology.org/library/24730",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78122",
-        "78140",
-        "78159",
-        "78614",
-        "78632",
-        "78658"
-      ]
-    },
-    {
-      "name": "MARION COMMUNITY LIBRARY",
-      "system": "MARION COMMUNITY LIBRARY",
-      "address": "201 S CENTER ST, MARION, TX",
-      "website": "https://www.mariontxcommunitylibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78108",
-        "78123",
-        "78124",
-        "78638",
-        "78670"
-      ]
-    },
-    {
-      "name": "CITY OF GARDEN RIDGE LIBRARY",
-      "system": "CITY OF GARDEN RIDGE LIBRARY",
-      "address": "9400 MUNICIPAL PKWY, GARDEN RIDGE, TX",
-      "website": "https://www.ci.garden-ridge.tx.us/103/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78070",
-        "78132",
-        "781HH",
-        "78266",
-        "78623"
-      ]
-    },
-    {
-      "name": "SMITHVILLE PUBLIC LIBRARY",
-      "system": "SMITHVILLE PUBLIC LIBRARY",
-      "address": "507 MAIN ST, SMITHVILLE, TX",
-      "website": "https://www.smithvillepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78612",
-        "78621",
-        "78650",
-        "78659",
-        "78662",
-        "786HH",
-        "78953",
-        "78957",
-        "789HH"
       ]
     },
     {
@@ -1057,11 +469,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78122",
-        "78159",
-        "78614",
         "78632",
-        "78658",
         "78959"
       ]
     }

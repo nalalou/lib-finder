@@ -14,8 +14,44 @@
         "76823",
         "76827",
         "76857",
-        "76890",
-        "768HH"
+        "76890"
+      ]
+    },
+    {
+      "name": "BRIDGEPORT PUBLIC LIBRARY",
+      "system": "BRIDGEPORT PUBLIC LIBRARY",
+      "address": "925 BROAD ST., BRIDGEPORT, CT",
+      "website": "https://bportlibrary.org/",
+      "formUrl": "https://bportlibrary.org/books/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "06604",
+        "06605",
+        "06606",
+        "06607",
+        "06608",
+        "06610",
+        "06614",
+        "26323",
+        "26330",
+        "26361",
+        "26366",
+        "26369",
+        "26386",
+        "26404",
+        "26422",
+        "26438",
+        "26568",
+        "48601",
+        "48602",
+        "48603",
+        "48604",
+        "48722",
+        "48724",
+        "69331",
+        "69336",
+        "76073",
+        "76426"
       ]
     },
     {
@@ -26,26 +62,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76444",
-        "76452",
-        "76455",
-        "76468",
-        "76474",
-        "764HH"
+        "76444"
       ]
     },
     {
       "name": "DUBLIN PUBLIC LIBRARY",
       "system": "DUBLIN PUBLIC LIBRARY",
-      "address": "1114 MAIN STREET, DUBLIN, NH",
+      "address": "206 W BLACKJACK ST, DUBLIN, TX",
       "website": "https://www.dplnh.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "03444",
-        "76433",
-        "76446",
-        "76463"
+        "47357",
+        "76446"
       ]
     },
     {
@@ -57,11 +87,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76435",
-        "76445",
         "76448",
         "76454",
-        "76466",
-        "76471"
+        "76466"
       ]
     },
     {
@@ -72,7 +100,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76372",
         "76450",
         "76460",
         "76481"
@@ -102,7 +129,6 @@
       "zipcodes": [
         "76401",
         "76433",
-        "76446",
         "76463"
       ]
     },
@@ -114,10 +140,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76023",
-        "76073",
-        "76234",
-        "76246",
         "76426",
         "76431"
       ]
@@ -130,11 +152,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76435",
         "76437",
-        "76445",
-        "76454",
-        "76466",
         "76471"
       ]
     },
@@ -149,9 +167,7 @@
         "76442",
         "76452",
         "76455",
-        "76468",
-        "76474",
-        "764HH"
+        "76474"
       ]
     },
     {
@@ -163,9 +179,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76443",
-        "76469",
-        "79504",
-        "79510"
+        "76469"
       ]
     },
     {
@@ -176,12 +190,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76435",
         "76445",
-        "76454",
         "76466",
-        "76470",
-        "76471"
+        "76470"
       ]
     },
     {
@@ -193,9 +204,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76430",
-        "76464",
-        "764XX",
-        "796XX"
+        "76464"
       ]
     },
     {
@@ -225,78 +234,30 @@
     {
       "name": "HAMILTON PUBLIC LIBRARY",
       "system": "HAMILTON PUBLIC LIBRARY",
-      "address": "861 BROADWAY STREET, HAMILTON, IL",
+      "address": "201 N PECAN ST, HAMILTON, TX",
       "website": "http://www.hamiltonpubliclibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "13310",
+        "13314",
+        "13334",
+        "13346",
+        "13355",
+        "13402",
+        "13418",
+        "13485",
+        "62313",
+        "62334",
         "62341",
+        "62379",
+        "64625",
+        "64644",
+        "64649",
         "76436",
         "76457",
         "76531",
         "76565"
-      ]
-    },
-    {
-      "name": "NEWARK PUBLIC LIBRARY",
-      "system": "NEWARK PUBLIC LIBRARY",
-      "address": "207 HUDSON ST, NEWARK, TX",
-      "website": "https://www.npl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76023",
-        "76071",
-        "76073",
-        "76234",
-        "76246",
-        "76426"
-      ]
-    },
-    {
-      "name": "DECATUR PUBLIC LIBRARY",
-      "system": "DECATUR PUBLIC LIBRARY",
-      "address": "504 CHERRY STREET NE, DECATUR, AL",
-      "website": "https://dekalblibrary.org/branches/deca",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35601",
-        "76023",
-        "76073",
-        "76234",
-        "76246",
-        "76426"
-      ]
-    },
-    {
-      "name": "ALVORD PUBLIC LIBRARY",
-      "system": "ALVORD PUBLIC LIBRARY",
-      "address": "106 FRANKLIN ST, ALVORD, TX",
-      "website": "https://alvordtx.gov/departments/alvord-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76023",
-        "76073",
-        "76225",
-        "76234",
-        "76246",
-        "76426"
-      ]
-    },
-    {
-      "name": "OLNEY COMMUNITY LIBRARY AND ARTS CENTER",
-      "system": "OLNEY COMMUNITY LIBRARY AND ARTS CENTER",
-      "address": "807 W HAMILTON ST, OLNEY, TX",
-      "website": "https://librarytechnology.org/library/24467",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76372",
-        "76374",
-        "76460",
-        "76481"
       ]
     },
     {
@@ -308,27 +269,13 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76035",
+        "76043",
         "76048",
         "76049",
-        "760HH",
+        "76070",
+        "76077",
         "76462",
         "76476"
-      ]
-    },
-    {
-      "name": "AZLE MEMORIAL LIBRARY",
-      "system": "AZLE MEMORIAL LIBRARY",
-      "address": "333 W MAIN ST, AZLE, TX",
-      "website": "https://www.cityofazle.org/203/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76020",
-        "76066",
-        "76087",
-        "76088",
-        "76487",
-        "76490"
       ]
     },
     {
@@ -359,7 +306,6 @@
         "76086",
         "76087",
         "76088",
-        "76487",
         "76490"
       ]
     },
@@ -371,58 +317,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76066",
         "76082",
-        "76087",
-        "76088",
-        "76487",
-        "76490"
-      ]
-    },
-    {
-      "name": "RHOME COMMUNITY LIBRARY",
-      "system": "RHOME COMMUNITY LIBRARY",
-      "address": "265 W BC RHOME AVE, RHOME, TX",
-      "website": "https://www.rhomelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76023",
-        "76073",
-        "76078",
-        "76234",
-        "76246",
-        "76426"
-      ]
-    },
-    {
-      "name": "EAST PARKER COUNTY LIBRARY",
-      "system": "EAST PARKER COUNTY LIBRARY",
-      "address": "201 FM 1187 N, ALEDO, TX",
-      "website": "https://www.epclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76008",
-        "76066",
-        "76087",
-        "76088",
-        "76487",
-        "76490"
-      ]
-    },
-    {
-      "name": "CLYDE PUBLIC LIBRARY",
-      "system": "CLYDE PUBLIC LIBRARY",
-      "address": "222 W. BUCKEYE ST., CLYDE, OH",
-      "website": "https://www.clyde-tx.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "43410",
-        "76469",
-        "79504",
-        "79510"
+        "76487"
       ]
     }
   ]

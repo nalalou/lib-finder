@@ -1,57 +1,44 @@
 {
   "libraries": [
     {
-      "name": "REVERE MEMORIAL LIBRARY",
-      "system": "REVERE MEMORIAL LIBRARY",
-      "address": "416 MAIN STREET, ISLE-AU-HAUT, ME",
-      "website": "http://www.revere.lib.me.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "045HH",
-        "04645",
-        "04847",
-        "04851",
-        "04854",
-        "04857",
-        "04859",
-        "048HH"
-      ]
-    },
-    {
       "name": "THOMASTON PUBLIC LIBRARY",
       "system": "THOMASTON PUBLIC LIBRARY",
-      "address": "60 MAIN STREET, THOMASTON, ME",
+      "address": "248 MAIN ST., THOMASTON, CT",
       "website": "https://thomastonlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "045HH",
-        "04847",
-        "04851",
         "04854",
-        "04857",
-        "04859",
         "04861",
-        "048HH"
+        "06779",
+        "06782",
+        "06787"
       ]
     },
     {
       "name": "ROCKPORT PUBLIC LIBRARY",
       "system": "ROCKPORT PUBLIC LIBRARY",
-      "address": "1 LIMEROCK STREET, ROCKPORT, ME",
+      "address": "17 SCHOOL STREET, ROCKPORT, MA",
       "website": "https://www.rockportlibrary.net/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "045HH",
-        "04847",
-        "04851",
-        "04854",
-        "04856",
-        "04857",
+        "01966",
+        "04856"
+      ]
+    },
+    {
+      "name": "CUSHING PUBLIC LIBRARY",
+      "system": "CUSHING PUBLIC LIBRARY",
+      "address": "215 NORTH STEELE AVENUE, CUSHING, OK",
+      "website": "https://cushing.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04563",
         "04859",
-        "048HH"
+        "74023",
+        "74062"
       ]
     },
     {
@@ -62,14 +49,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "045HH",
         "04843",
-        "04847",
-        "04851",
-        "04854",
-        "04857",
-        "04859",
-        "048HH"
+        "04856"
       ]
     },
     {
@@ -80,13 +61,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04848",
-        "04921",
-        "04922",
-        "04941",
-        "04952",
-        "04986",
-        "04987"
+        "04848"
       ]
     },
     {
@@ -97,14 +72,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "045HH",
         "04841",
-        "04847",
-        "04851",
         "04854",
-        "04857",
-        "04859",
-        "048HH"
+        "04856",
+        "04861"
       ]
     },
     {
@@ -115,14 +86,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "045HH",
-        "04847",
-        "04851",
-        "04854",
-        "04857",
+        "04563",
         "04859",
-        "04860",
-        "048HH"
+        "04860"
       ]
     },
     {
@@ -133,14 +99,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "045HH",
-        "04847",
-        "04851",
-        "04854",
-        "04857",
-        "04859",
-        "04862",
-        "048HH"
+        "04862"
       ]
     },
     {
@@ -151,14 +110,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "045HH",
-        "04847",
         "04851",
-        "04854",
-        "04857",
-        "04859",
-        "04863",
-        "048HH"
+        "04863"
       ]
     },
     {
@@ -169,14 +122,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "045HH",
-        "04847",
-        "04851",
-        "04853",
-        "04854",
-        "04857",
-        "04859",
-        "048HH"
+        "04853"
       ]
     },
     {
@@ -187,14 +133,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "045HH",
-        "04847",
-        "04851",
-        "04854",
-        "04857",
-        "04859",
-        "04862",
-        "048HH"
+        "04862"
       ]
     },
     {
@@ -205,14 +144,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "045HH",
-        "04847",
-        "04851",
-        "04854",
-        "04857",
-        "04859",
-        "04864",
-        "048HH"
+        "04861",
+        "04864"
+      ]
+    },
+    {
+      "name": "HOPE LIBRARY",
+      "system": "HOPE LIBRARY",
+      "address": "443 CAMDEN ROAD, HOPE, ME",
+      "website": "https://hopelibrary.me/",
+      "formUrl": "https://hopelibrary.me/about-us/materials-suggestion-form/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "02815",
+        "02831",
+        "02921",
+        "04847"
       ]
     },
     {
@@ -223,18 +170,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04348",
-        "04535",
-        "04537",
-        "04539",
-        "04541",
-        "04544",
-        "04553",
-        "04554",
-        "04555",
-        "04556",
-        "04564",
-        "04573",
         "04852"
       ]
     },
@@ -246,14 +181,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "045HH",
-        "04847",
-        "04851",
         "04854",
-        "04857",
         "04858",
-        "04859",
-        "048HH"
+        "04859"
       ]
     },
     {
@@ -264,49 +194,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04849",
-        "04921",
-        "04922",
-        "04941",
-        "04952",
-        "04986",
-        "04987"
-      ]
-    },
-    {
-      "name": "FRIENDSHIP PUBLIC LIBRARY",
-      "system": "FRIENDSHIP PUBLIC LIBRARY",
-      "address": "3 MAIN STREET, FRIENDSHIP, ME",
-      "website": "https://www.friendshiplibrary.me/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04547",
-        "045HH",
-        "04847",
-        "04851",
-        "04854",
-        "04857",
-        "04859",
-        "048HH"
-      ]
-    },
-    {
-      "name": "GIBBS LIBRARY",
-      "system": "GIBBS LIBRARY",
-      "address": "40 OLD UNION ROAD, WASHINGTON, ME",
-      "website": "https://gibbslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "04574",
-        "045HH",
-        "04847",
-        "04851",
-        "04854",
-        "04857",
-        "04859",
-        "048HH"
+        "04849"
       ]
     }
   ]

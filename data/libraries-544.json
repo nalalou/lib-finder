@@ -1,53 +1,16 @@
 {
   "libraries": [
     {
-      "name": "ADAMS COUNTY LIBRARY",
-      "system": "ADAMS COUNTY LIBRARY",
-      "address": "569 N. CEDAR ST., SUITE 1, ADAMS, WI",
-      "website": "https://adamscountyndlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53910",
-        "53934",
-        "53936",
-        "539HH",
-        "544HH",
-        "54613",
-        "546HH"
-      ]
-    },
-    {
       "name": "DORCHESTER PUBLIC LIBRARY",
       "system": "DORCHESTER PUBLIC LIBRARY",
-      "address": "155 N. SECOND ST., DORCHESTER, WI",
+      "address": "6TH & WASHINGTON, DORCHESTER, NE",
       "website": "https://www.dorchesterpubliclibrary.org/library-services/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54420",
         "54422",
         "54425",
-        "54488",
-        "54493",
-        "54746"
-      ]
-    },
-    {
-      "name": "MINOCQUA PUBLIC LIBRARY",
-      "system": "MINOCQUA PUBLIC LIBRARY",
-      "address": "415 MENOMINEE ST., STE. 100, MINOCQUA, WI",
-      "website": "https://minocqualibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54463",
-        "54529",
-        "54531",
-        "54539",
-        "54543",
-        "54548",
-        "54564"
+        "68343"
       ]
     },
     {
@@ -60,28 +23,7 @@
       "zipcodes": [
         "54463",
         "54501",
-        "54529",
-        "54531",
-        "54539",
-        "54543",
-        "54564"
-      ]
-    },
-    {
-      "name": "EDWARD U. DEMMER MEMORIAL LIBRARY",
-      "system": "EDWARD U. DEMMER MEMORIAL LIBRARY",
-      "address": "6961 W. SCHOOL ST., THREE LAKES, WI",
-      "website": "https://demmerlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54463",
-        "54529",
-        "54531",
-        "54539",
-        "54543",
-        "54562",
-        "54564"
+        "54529"
       ]
     },
     {
@@ -93,11 +35,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54405",
-        "54420",
-        "54422",
-        "54488",
-        "54493",
-        "54746"
+        "54425",
+        "54488"
       ]
     },
     {
@@ -110,12 +49,8 @@
       "zipcodes": [
         "54406",
         "54407",
-        "54423",
-        "54443",
-        "54467",
         "54473",
-        "54909",
-        "54921"
+        "54909"
       ]
     },
     {
@@ -147,12 +82,8 @@
       "zipcodes": [
         "54410",
         "54412",
-        "54413",
         "54441",
-        "54454",
-        "54469",
-        "54475",
-        "54495"
+        "54454"
       ]
     },
     {
@@ -163,12 +94,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54420",
         "54421",
-        "54422",
-        "54488",
-        "54493",
-        "54746"
+        "54425",
+        "54488"
       ]
     },
     {
@@ -191,12 +119,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54420",
-        "54422",
         "54437",
-        "54488",
-        "54493",
-        "54746"
+        "54493"
       ]
     },
     {
@@ -207,12 +131,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54420",
-        "54422",
-        "54446",
-        "54488",
-        "54493",
-        "54746"
+        "54446"
       ]
     },
     {
@@ -224,13 +143,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "54412",
-        "54413",
         "54441",
-        "54449",
-        "54454",
-        "54469",
-        "54475",
-        "54495"
+        "54449"
       ]
     },
     {
@@ -241,7 +155,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54447",
         "54451"
       ]
     },
@@ -253,11 +166,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54420",
-        "54422",
         "54456",
-        "54488",
-        "54493",
         "54746"
       ]
     },
@@ -269,13 +178,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54412",
-        "54413",
-        "54441",
-        "54454",
         "54457",
         "54469",
-        "54475",
         "54495"
       ]
     },
@@ -290,9 +194,6 @@
         "54459",
         "54513",
         "54515",
-        "54524",
-        "54537",
-        "54555",
         "54556"
       ]
     },
@@ -304,12 +205,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54420",
         "54422",
-        "54460",
-        "54488",
-        "54493",
-        "54746"
+        "54460"
       ]
     },
     {
@@ -320,7 +217,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54447",
         "54470"
       ]
     },
@@ -332,7 +228,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54447",
         "54480"
       ]
     },
@@ -344,13 +239,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54407",
         "54423",
         "54443",
         "54467",
-        "54473",
         "54481",
-        "54909",
         "54921"
       ]
     },
@@ -375,11 +267,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54412",
-        "54413",
-        "54441",
         "54454",
-        "54469",
         "54475",
         "54489",
         "54495"
@@ -418,7 +306,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54447",
         "54490"
       ]
     },
@@ -430,10 +317,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54412",
-        "54413",
-        "54441",
-        "54454",
         "54469",
         "54475",
         "54494",
@@ -448,12 +331,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54420",
         "54422",
-        "54488",
-        "54493",
-        "54498",
-        "54746"
+        "54498"
       ]
     },
     {
@@ -465,11 +344,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "54420",
-        "54422",
-        "54436",
-        "54488",
-        "54493",
-        "54746"
+        "54436"
       ]
     },
     {
@@ -480,8 +355,6 @@
       "formUrl": "https://www.tbscottlibrary.org/suggest-a-purchase-form/",
       "formStatus": "verified",
       "zipcodes": [
-        "54435",
-        "54442",
         "54452"
       ]
     },
@@ -493,14 +366,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "54412",
         "54413",
-        "54441",
-        "54454",
-        "54466",
-        "54469",
-        "54475",
-        "54495"
+        "54466"
       ]
     },
     {
@@ -511,13 +378,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53934",
-        "53936",
-        "539HH",
-        "54457",
-        "544HH",
-        "54613",
-        "546HH"
+        "54457"
       ]
     },
     {
@@ -539,60 +400,7 @@
         "54486",
         "54499",
         "54928",
-        "54948",
-        "54978"
-      ]
-    },
-    {
-      "name": "THORP PUBLIC LIBRARY",
-      "system": "THORP PUBLIC LIBRARY",
-      "address": "401 S. CONWAY DR., THORP, WI",
-      "website": "https://www.thorppubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "54420",
-        "54422",
-        "54488",
-        "54493",
-        "54746",
-        "54771"
-      ]
-    },
-    {
-      "name": "TAYLOR MEMORIAL LIBRARY",
-      "system": "TAYLOR MEMORIAL LIBRARY",
-      "address": "420 2ND ST., TAYLOR, WI",
-      "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=1000",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "544XX",
-        "54611",
-        "54635",
-        "54642",
-        "54659",
-        "546XX",
-        "54754",
-        "547XX"
-      ]
-    },
-    {
-      "name": "BLACK RIVER FALLS PUBLIC LIBRARY",
-      "system": "BLACK RIVER FALLS PUBLIC LIBRARY",
-      "address": "222 FILLMORE ST., BLACK RIVER FALLS, WI",
-      "website": "https://www.blackriverfallslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "544XX",
-        "54611",
-        "54615",
-        "54635",
-        "54642",
-        "546XX",
-        "54754",
-        "547XX"
+        "54948"
       ]
     }
   ]

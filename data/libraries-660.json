@@ -1,6 +1,22 @@
 {
   "libraries": [
     {
+      "name": "WINCHESTER PUBLIC LIBRARY",
+      "system": "WINCHESTER PUBLIC LIBRARY",
+      "address": "2117 LAKE ST., WINCHESTER, WI",
+      "website": "https://www.winpublib.org/",
+      "formUrl": "https://www.minlib.net/services#suggest-purchase",
+      "formStatus": "verified",
+      "zipcodes": [
+        "01890",
+        "54557",
+        "62610",
+        "62663",
+        "62694",
+        "66097"
+      ]
+    },
+    {
       "name": "LIBRARY DISTRICT #1, MIAMI COUNTY",
       "system": "LIBRARY DISTRICT #1, MIAMI COUNTY",
       "address": "206 S. BROADWAY ST., LOUISBURG, KS",
@@ -9,8 +25,43 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66013",
-        "66026",
         "66053"
+      ]
+    },
+    {
+      "name": "RICHMOND PUBLIC LIBRARY",
+      "system": "RICHMOND PUBLIC LIBRARY",
+      "address": "107 E. CENTRAL, RICHMOND, KS",
+      "website": "https://rvalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23219",
+        "23220",
+        "23221",
+        "23222",
+        "23223",
+        "23224",
+        "23225",
+        "23226",
+        "66042",
+        "66078",
+        "66080",
+        "84028",
+        "84038",
+        "84320",
+        "84333",
+        "84338",
+        "94530",
+        "94547",
+        "94563",
+        "94564",
+        "94572",
+        "94801",
+        "94803",
+        "94804",
+        "94805",
+        "94806"
       ]
     },
     {
@@ -24,8 +75,7 @@
         "66016",
         "66023",
         "66041",
-        "66058",
-        "66077"
+        "66058"
       ]
     },
     {
@@ -37,11 +87,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66060",
-        "66066",
-        "66070",
-        "66073",
-        "66097",
-        "66429"
+        "66097"
       ]
     },
     {
@@ -52,10 +98,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66042",
-        "66078",
-        "66079",
-        "66080",
         "66092"
       ]
     },
@@ -67,26 +109,28 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66020",
-        "66027",
-        "66043",
         "66052"
       ]
     },
     {
       "name": "OSKALOOSA PUBLIC LIBRARY",
       "system": "OSKALOOSA PUBLIC LIBRARY",
-      "address": "301 S MARKET, OSKALOOSA, IA",
+      "address": "315 JEFFERSON ST., OSKALOOSA, KS",
       "website": "https://oskielibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50143",
+        "52534",
+        "52543",
+        "52561",
         "52577",
+        "52586",
+        "52595",
         "66066",
         "66070",
         "66073",
-        "66097",
-        "66429"
+        "66097"
       ]
     },
     {
@@ -97,12 +141,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66066",
         "66070",
-        "66073",
-        "66088",
-        "66097",
-        "66429"
+        "66088"
       ]
     },
     {
@@ -113,9 +153,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66020",
-        "66027",
-        "66043",
         "66086"
       ]
     },
@@ -128,12 +165,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "66006",
-        "66044",
-        "66046",
-        "66047",
-        "66049",
-        "66050",
-        "665HH"
+        "66046"
       ]
     },
     {
@@ -144,10 +176,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66007",
-        "66020",
-        "66027",
-        "66043"
+        "66007"
       ]
     },
     {
@@ -159,12 +188,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66025",
-        "66044",
-        "66046",
-        "66047",
-        "66049",
-        "66050",
-        "665HH"
+        "66046"
       ]
     },
     {
@@ -175,8 +199,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66013",
-        "66026",
         "66071"
       ]
     },
@@ -188,7 +210,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66013",
         "66026",
         "66064"
       ]
@@ -214,17 +235,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66012",
-        "66102",
-        "66103",
-        "66104",
-        "66105",
         "66106",
         "66109",
         "66111",
-        "66112",
-        "66115",
-        "66118",
-        "661HH"
+        "66112"
       ]
     },
     {
@@ -235,11 +249,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66042",
         "66067",
         "66078",
-        "66079",
-        "66080"
+        "66079"
       ]
     },
     {
@@ -251,10 +263,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66002",
-        "66016",
-        "66041",
-        "66058",
-        "66077"
+        "66016"
       ]
     },
     {
@@ -267,7 +276,6 @@
       "zipcodes": [
         "66020",
         "66027",
-        "66043",
         "66048"
       ]
     },
@@ -287,13 +295,9 @@
         "66062",
         "66083",
         "66085",
-        "66202",
-        "66203",
         "66204",
-        "66205",
         "66206",
         "66207",
-        "66208",
         "66209",
         "66210",
         "66211",
@@ -308,9 +312,26 @@
         "66221",
         "66223",
         "66224",
-        "66226",
-        "66227",
-        "662HH"
+        "66227"
+      ]
+    },
+    {
+      "name": "LAWRENCE PUBLIC LIBRARY",
+      "system": "LAWRENCE PUBLIC LIBRARY",
+      "address": "707 VERMONT STREET, LAWRENCE, KS",
+      "website": "https://lplks.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01840",
+        "01841",
+        "01843",
+        "04937",
+        "66044",
+        "66046",
+        "66047",
+        "66049",
+        "66050"
       ]
     },
     {
@@ -322,7 +343,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66015",
-        "66033",
         "66091",
         "66093"
       ]
@@ -347,7 +367,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66014",
         "66056"
       ]
     },
@@ -359,7 +378,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66014",
         "66075"
       ]
     },
@@ -371,7 +389,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66014",
         "66040"
       ]
     },
@@ -389,8 +406,7 @@
         "66035",
         "66087",
         "66090",
-        "66094",
-        "660HH"
+        "66094"
       ]
     },
     {
@@ -403,8 +419,7 @@
       "zipcodes": [
         "66032",
         "66033",
-        "66091",
-        "66093"
+        "66091"
       ]
     },
     {
@@ -415,10 +430,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66042",
-        "66078",
-        "66079",
-        "66080",
         "66095"
       ]
     },
@@ -430,11 +441,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66042",
-        "66076",
-        "66078",
-        "66079",
-        "66080"
+        "66076"
       ]
     },
     {
@@ -445,12 +452,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66054",
-        "66066",
-        "66070",
-        "66073",
-        "66097",
-        "66429"
+        "66054"
+      ]
+    },
+    {
+      "name": "LANSING COMMUNITY LIBRARY",
+      "system": "LANSING COMMUNITY LIBRARY",
+      "address": "730 1ST TERRACE, LANSING, KS",
+      "website": "https://lansing.nextkansas.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13062",
+        "13068",
+        "13073",
+        "14882",
+        "66027",
+        "66043"
       ]
     },
     {
@@ -461,22 +479,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66033",
-        "66039",
-        "66091",
-        "66093"
-      ]
-    },
-    {
-      "name": "PRESCOTT CITY LIBRARY",
-      "system": "PRESCOTT CITY LIBRARY",
-      "address": "174 W. 3RD, PRESCOTT, KS",
-      "website": "https://www.loc8nearme.com/kansas/prescott/prescott-city-library/8645364/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66014",
-        "66767"
+        "66039"
       ]
     },
     {
@@ -487,54 +490,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66066",
         "66070",
-        "66073",
-        "66097",
         "66429",
         "66512"
-      ]
-    },
-    {
-      "name": "JOHNSON COUNTY LIBRARY",
-      "system": "JOHNSON COUNTY LIBRARY",
-      "address": "9875 W. 87TH STREET, OVERLAND PARK, KS",
-      "website": "http://www.jocolibrary.org",
-      "formUrl": "https://www.jocolibrary.org/suggest-for-purchase/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "66018",
-        "66019",
-        "66021",
-        "66030",
-        "66061",
-        "66083",
-        "66085",
-        "66202",
-        "66203",
-        "66204",
-        "66205",
-        "66206",
-        "66207",
-        "66208",
-        "66209",
-        "66210",
-        "66211",
-        "66212",
-        "66213",
-        "66214",
-        "66215",
-        "66216",
-        "66217",
-        "66218",
-        "66219",
-        "66220",
-        "66221",
-        "66223",
-        "66224",
-        "66226",
-        "66227",
-        "662HH"
       ]
     }
   ]

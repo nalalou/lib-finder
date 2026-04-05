@@ -1,6 +1,67 @@
 {
   "libraries": [
     {
+      "name": "MORGAN COUNTY PUBLIC LIBRARY",
+      "system": "MORGAN COUNTY PUBLIC LIBRARY",
+      "address": "110 SOUTH JEFFERSON STREET, MARTINSVILLE, IN",
+      "website": "http://morgancountylibrary.info",
+      "formUrl": "https://morgancountylibrary.info/purchase-suggestion/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "25411",
+        "25422",
+        "41332",
+        "41408",
+        "41421",
+        "41425",
+        "41472",
+        "46111",
+        "46125",
+        "46151",
+        "46166"
+      ]
+    },
+    {
+      "name": "PERRY COUNTY PUBLIC LIBRARY",
+      "system": "PERRY COUNTY PUBLIC LIBRARY",
+      "address": "289 BLACK GOLD BOULEVARD, HAZARD, KY",
+      "website": "https://perrycountypl.org/tell-city/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37096",
+        "37097",
+        "41367",
+        "41701",
+        "41712",
+        "41719",
+        "41721",
+        "41722",
+        "41723",
+        "41727",
+        "41729",
+        "41731",
+        "41735",
+        "41745",
+        "41746",
+        "41751",
+        "41754",
+        "41760",
+        "41763",
+        "41773",
+        "41774",
+        "47514",
+        "47515",
+        "47520",
+        "47525",
+        "47551",
+        "47574",
+        "47576",
+        "47586",
+        "47588"
+      ]
+    },
+    {
       "name": "BREATHITT COUNTY PUBLIC LIBRARY",
       "system": "BREATHITT COUNTY PUBLIC LIBRARY",
       "address": "1024 COLLEGE AVENUE, JACKSON, KY",
@@ -8,11 +69,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41310",
         "41317",
         "41339",
         "41348",
-        "41377",
         "41385",
         "41390"
       ]
@@ -20,12 +79,13 @@
     {
       "name": "LEE COUNTY PUBLIC LIBRARY",
       "system": "LEE COUNTY PUBLIC LIBRARY",
-      "address": "445 OAKLAND PARKWAY, W., LEESBURG, GA",
+      "address": "255 INDUSTRIAL PARK ROAD, BEATTYVILLE, KY",
       "website": "https://librarytechnology.org/library/18565",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "31763",
+        "31787",
         "41311",
         "41397"
       ]
@@ -38,10 +98,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "41314",
-        "41344",
-        "41364",
-        "41386"
+        "41314"
       ]
     },
     {

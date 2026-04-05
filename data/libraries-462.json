@@ -9,15 +9,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "46030",
-        "46031",
         "46033",
         "46038",
         "46069",
         "46074",
-        "460HH",
         "46280",
-        "46290",
-        "462HH"
+        "46290"
       ]
     },
     {
@@ -28,56 +25,11 @@
       "formUrl": "https://carmelclaylibrary.org/kids-recommended",
       "formStatus": "verified",
       "zipcodes": [
-        "46030",
-        "46031",
         "46032",
         "46033",
         "46038",
-        "46069",
-        "460HH",
         "46280",
-        "46290",
-        "462HH"
-      ]
-    },
-    {
-      "name": "HAMILTON NORTH PUBLIC LIBRARY",
-      "system": "HAMILTON NORTH PUBLIC LIBRARY",
-      "address": "209 WEST BRINTON STREET, CICERO, IN",
-      "website": "https://www.hnpl.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "46030",
-        "46031",
-        "46033",
-        "46034",
-        "46038",
-        "46069",
-        "460HH",
-        "46280",
-        "46290",
-        "462HH"
-      ]
-    },
-    {
-      "name": "HAMILTON EAST PUBLIC LIBRARY",
-      "system": "HAMILTON EAST PUBLIC LIBRARY",
-      "address": "ONE LIBRARY PLAZA, NOBLESVILLE, IN",
-      "website": "https://hamiltoneastpl.org/",
-      "formUrl": "https://hamiltoneastpl.org/services/request-materials/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "46030",
-        "46031",
-        "46033",
-        "46038",
-        "46060",
-        "46069",
-        "460HH",
-        "46280",
-        "46290",
-        "462HH"
+        "46290"
       ]
     },
     {
@@ -88,38 +40,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "46107",
         "46201",
         "46202",
         "46203",
         "46205",
         "46208",
         "46214",
-        "46216",
         "46217",
         "46218",
-        "46219",
         "46220",
         "46221",
         "46222",
         "46224",
         "46225",
-        "46226",
-        "46227",
         "46228",
-        "46229",
         "46231",
         "46234",
-        "46235",
-        "46236",
-        "46237",
-        "46239",
-        "46240",
         "46241",
-        "46250",
         "46254",
-        "46256",
-        "46259",
         "46260",
         "46268",
         "46278"
@@ -166,8 +104,7 @@
         "46256",
         "46259",
         "46260",
-        "46268",
-        "46278"
+        "46268"
       ]
     }
   ]

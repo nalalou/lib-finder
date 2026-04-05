@@ -1,6 +1,105 @@
 {
   "libraries": [
     {
+      "name": "AVOYELLES PARISH LIBRARY",
+      "system": "AVOYELLES PARISH LIBRARY",
+      "address": "660 N MAIN STREET, MARKSVILLE, LA",
+      "website": "https://www.loc8nearme.com/louisiana/marksville/avoyelles-parish-library/8226185/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70753",
+        "71316",
+        "71323",
+        "71325",
+        "71327",
+        "71331",
+        "71333",
+        "71339",
+        "71341",
+        "71350",
+        "71351",
+        "71355",
+        "71362",
+        "71369"
+      ]
+    },
+    {
+      "name": "EAST BATON ROUGE PARISH LIBRARY",
+      "system": "EAST BATON ROUGE PARISH LIBRARY",
+      "address": "7711 GOODWOOD BOULEVARD, BATON ROUGE, LA",
+      "website": "https://www.findglocal.com/US/Baton-Rouge/139196433860/East-Baton-Rouge-Parish-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70714",
+        "70739",
+        "70769",
+        "70770",
+        "70801",
+        "70802",
+        "70805",
+        "70806",
+        "70807",
+        "70808",
+        "70809",
+        "70810",
+        "70811",
+        "70812",
+        "70814",
+        "70815",
+        "70816",
+        "70817",
+        "70818",
+        "70819",
+        "70820",
+        "70836"
+      ]
+    },
+    {
+      "name": "ASCENSION PARISH LIBRARY",
+      "system": "ASCENSION PARISH LIBRARY",
+      "address": "500 MISSISSIPPI STREET, DONALDSONVILLE, LA",
+      "website": "http://www.myapl.org",
+      "formUrl": "https://www.myapl.org/requests-16742",
+      "formStatus": "verified",
+      "zipcodes": [
+        "70086",
+        "70341",
+        "70346",
+        "70391",
+        "70393",
+        "70721",
+        "70723",
+        "70725",
+        "70734",
+        "70737",
+        "70778"
+      ]
+    },
+    {
+      "name": "ST. JAMES PARISH LIBRARY",
+      "system": "ST. JAMES PARISH LIBRARY",
+      "address": "1879 W. MAIN STREET, LUTCHER, LA",
+      "website": "https://www.stjamesla.com/435/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70049",
+        "70051",
+        "70052",
+        "70071",
+        "70076",
+        "70084",
+        "70090",
+        "70449",
+        "70723",
+        "70743",
+        "70763",
+        "70774"
+      ]
+    },
+    {
       "name": "WEST BATON ROUGE PARISH LIBRARY",
       "system": "WEST BATON ROUGE PARISH LIBRARY",
       "address": "830 NORTH ALEXANDER AVENUE, PORT ALLEN, LA",
@@ -8,7 +107,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70767"
+        "70710",
+        "70719",
+        "70767",
+        "70772",
+        "70791",
+        "70801",
+        "70802",
+        "70805",
+        "70807",
+        "70808",
+        "70809",
+        "70811",
+        "70812",
+        "70814",
+        "70815",
+        "70820",
+        "70836"
       ]
     },
     {
@@ -19,7 +134,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70760"
+        "70715",
+        "70729",
+        "70736",
+        "70747",
+        "70749",
+        "70752",
+        "70755",
+        "70759",
+        "70760",
+        "70762",
+        "70773",
+        "70783"
       ]
     },
     {
@@ -30,7 +156,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70764"
+        "70710",
+        "70719",
+        "70740",
+        "70764",
+        "70776",
+        "70780",
+        "70788",
+        "70820"
       ]
     },
     {
@@ -41,7 +174,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70722"
+        "70441",
+        "70722",
+        "70730",
+        "70748",
+        "70761",
+        "70777",
+        "70789"
       ]
     },
     {
@@ -52,7 +191,16 @@
       "formUrl": "https://lpl.polarislibrary.com/error.aspx?BadReq=1",
       "formStatus": "verified",
       "zipcodes": [
-        "70754"
+        "70403",
+        "70453",
+        "70462",
+        "70706",
+        "70711",
+        "70726",
+        "70733",
+        "70744",
+        "70754",
+        "70785"
       ]
     },
     {
@@ -63,7 +211,12 @@
       "formUrl": "https://www.wfplibrary.org/request",
       "formStatus": "verified",
       "zipcodes": [
-        "70775"
+        "70712",
+        "70749",
+        "70775",
+        "70782",
+        "70783",
+        "70787"
       ]
     },
     {
@@ -74,7 +227,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70750"
+        "70732",
+        "70750",
+        "70756",
+        "70757",
+        "71353",
+        "71358"
       ]
     }
   ]

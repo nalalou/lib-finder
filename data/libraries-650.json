@@ -3,14 +3,52 @@
     {
       "name": "MORGAN COUNTY LIBRARY",
       "system": "MORGAN COUNTY LIBRARY",
-      "address": "600 N HUNTER ST, VERSAILLES, MO",
-      "website": "https://morgancountylibrary.org/",
-      "formUrl": "https://morgancountylibrary.org/services/requesting-an-item/",
-      "formStatus": "verified",
+      "address": "50 NORTH 100 WEST, MORGAN, UT",
+      "website": "http://azalealibraries.org/morgan.htm",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
+        "65011",
+        "65026",
+        "65037",
+        "65072",
+        "65078",
         "65084",
+        "65325",
+        "65329",
+        "65354",
         "84018",
         "84050"
+      ]
+    },
+    {
+      "name": "CAMDEN COUNTY LIBRARY",
+      "system": "CAMDEN COUNTY LIBRARY",
+      "address": "89 RODEO RD, CAMDENTON, MO",
+      "website": "http://www.camden.lib.nj.us",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08003",
+        "08043",
+        "08045",
+        "08049",
+        "08083",
+        "08084",
+        "65017",
+        "65020",
+        "65047",
+        "65049",
+        "65052",
+        "65065",
+        "65079",
+        "65082",
+        "65083",
+        "65324",
+        "65567",
+        "65591",
+        "65786",
+        "65787"
       ]
     },
     {
@@ -23,10 +61,10 @@
       "zipcodes": [
         "65018",
         "65025",
-        "65034",
         "65046",
         "65050",
-        "65081"
+        "65064",
+        "65068"
       ]
     },
     {
@@ -40,9 +78,11 @@
         "65018",
         "65025",
         "65034",
-        "65046",
         "65050",
-        "65081"
+        "65081",
+        "65237",
+        "65276",
+        "65348"
       ]
     },
     {
@@ -53,15 +93,22 @@
       "formUrl": "https://www.mrrl.org/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
+        "65016",
         "65023",
+        "65024",
         "65032",
         "65040",
+        "65043",
         "65053",
+        "65054",
+        "65059",
+        "65063",
         "65074",
         "65076",
+        "65080",
+        "65085",
         "65101",
-        "65109",
-        "651HH"
+        "65109"
       ]
     },
     {
@@ -73,29 +120,19 @@
       "formStatus": "unknown",
       "zipcodes": [
         "63333",
+        "63349",
         "63350",
         "63351",
-        "63359",
         "63361",
         "63363",
-        "65069"
-      ]
-    },
-    {
-      "name": "CITY OF WELLSVILLE MUNICIPAL LIBRARY DISTRICT",
-      "system": "CITY OF WELLSVILLE MUNICIPAL LIBRARY DISTRICT",
-      "address": "108 W HUDSON ST, WELLSVILLE, MO",
-      "website": "https://www.wellsvillelibrary.lib.mo.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63333",
-        "63350",
-        "63351",
-        "63359",
-        "63363",
-        "63384",
-        "65069"
+        "63370",
+        "63381",
+        "63388",
+        "65041",
+        "65061",
+        "65067",
+        "65069",
+        "65077"
       ]
     },
     {
@@ -108,36 +145,25 @@
       "zipcodes": [
         "65010",
         "65039",
-        "650HH",
         "65201",
         "65202",
         "65203",
-        "65255",
+        "65251",
         "65256",
         "65279",
-        "65284",
-        "652HH"
+        "65287"
       ]
     },
     {
-      "name": "CENTRALIA PUBLIC LIBRARY",
-      "system": "CENTRALIA PUBLIC LIBRARY",
-      "address": "210 S JEFFERSON ST, CENTRALIA, MO",
-      "website": "https://www.centraliapubliclibrary.com/",
+      "name": "JAMES MEMORIAL LIBRARY",
+      "system": "JAMES MEMORIAL LIBRARY",
+      "address": "300 W SCIOTO ST, ST. JAMES, MO",
+      "website": "https://www.stjamesmo.org/departments/library.php",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65010",
-        "65039",
-        "650HH",
-        "65201",
-        "65202",
-        "65240",
-        "65255",
-        "65256",
-        "65279",
-        "65284",
-        "652HH"
+        "65066",
+        "65559"
       ]
     },
     {
@@ -148,13 +174,18 @@
       "formUrl": "https://www.heartland.lib.mo.us/",
       "formStatus": "verified",
       "zipcodes": [
+        "65001",
         "65013",
+        "65014",
+        "65035",
+        "65048",
+        "65051",
         "65058",
+        "65062",
+        "65075",
         "65443",
-        "654HH",
         "65580",
-        "65582",
-        "655HH"
+        "65582"
       ]
     }
   ]

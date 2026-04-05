@@ -1,9 +1,61 @@
 {
   "libraries": [
     {
+      "name": "CARNEGIE PUBLIC LIBRARY",
+      "system": "CARNEGIE PUBLIC LIBRARY",
+      "address": "314 MCLEOD STREET, BIG TIMBER, MT",
+      "website": "http://www.smithcountyhistoricalsociety.org/carnegie.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38614",
+        "38617",
+        "38630",
+        "38631",
+        "38639",
+        "38644",
+        "38645",
+        "38720",
+        "38767",
+        "43106",
+        "43128",
+        "43142",
+        "43160",
+        "43920",
+        "44441",
+        "59011",
+        "59033",
+        "59052",
+        "59055",
+        "63434",
+        "63437",
+        "63439",
+        "63443",
+        "63450",
+        "63458",
+        "63468",
+        "63469",
+        "73015",
+        "73033",
+        "73038",
+        "87552",
+        "87573",
+        "87701",
+        "87712",
+        "87731",
+        "87736",
+        "87742",
+        "87745",
+        "87750",
+        "87753",
+        "88416",
+        "88421"
+      ]
+    },
+    {
       "name": "UNION COUNTY LIBRARY SYSTEM",
       "system": "UNION COUNTY LIBRARY SYSTEM",
-      "address": "219 KING STREET, NEW ALBANY, MS",
+      "address": "300 EAST SOUTH STREET, UNION, SC",
       "website": "https://unioncountylibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -13,7 +65,34 @@
         "29353",
         "29364",
         "29379",
-        "38652"
+        "38610",
+        "38625",
+        "38627",
+        "38650",
+        "38652",
+        "38828"
+      ]
+    },
+    {
+      "name": "BENTON COUNTY LIBRARY",
+      "system": "BENTON COUNTY LIBRARY",
+      "address": "247 COURT STREET, ASHLAND, MS",
+      "website": "https://www.benton.lib.ms.us/bond-memorial-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38221",
+        "38320",
+        "38333",
+        "38341",
+        "38603",
+        "38629",
+        "38633",
+        "38642",
+        "38647",
+        "38663",
+        "38674",
+        "38683"
       ]
     },
     {
@@ -24,13 +103,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "38618",
+        "38619",
         "38632",
         "38637",
         "38641",
         "38651",
         "38654",
+        "38664",
+        "38665",
+        "38668",
         "38671",
         "38672",
+        "38676",
         "38680"
       ]
     },
@@ -42,11 +127,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38609",
+        "38606",
+        "38621",
         "38622",
         "38623",
+        "38626",
         "38643",
         "38646",
+        "38666",
         "38670",
         "38964"
       ]
@@ -59,11 +147,51 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "38601",
         "38611",
         "38635",
-        "38649",
         "38659",
-        "38661"
+        "38661",
+        "38685"
+      ]
+    },
+    {
+      "name": "TALLAHATCHIE COUNTY LIBRARY",
+      "system": "TALLAHATCHIE COUNTY LIBRARY",
+      "address": "102 EAST WALNUT STREET, CHARLESTON, MS",
+      "website": "https://tallahatchie.lib.ms.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38658",
+        "38920",
+        "38921",
+        "38927",
+        "38928",
+        "38950",
+        "38953",
+        "38957",
+        "38962",
+        "38963",
+        "38966"
+      ]
+    },
+    {
+      "name": "BLACKMUR MEMORIAL LIBRARY",
+      "system": "BLACKMUR MEMORIAL LIBRARY",
+      "address": "608 BLACKMUR DRIVE, WATER VALLEY, MS",
+      "website": "https://www.blackmur.lib.ms.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38620",
+        "38655",
+        "38673",
+        "38677",
+        "38913",
+        "38915",
+        "38949",
+        "38965"
       ]
     }
   ]

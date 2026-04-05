@@ -1,6 +1,24 @@
 {
   "libraries": [
     {
+      "name": "PRICE JAMES MEMORIAL LIBRARY",
+      "system": "PRICE JAMES MEMORIAL LIBRARY",
+      "address": "104 E MORGAN ST, TIPTON, MO",
+      "website": "https://www.pricejames.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65018",
+        "65025",
+        "65034",
+        "65050",
+        "65081",
+        "65237",
+        "65276",
+        "65348"
+      ]
+    },
+    {
       "name": "LEWIS LIBRARY OF GLASGOW",
       "system": "LEWIS LIBRARY OF GLASGOW",
       "address": "315 MARKET ST, GLASGOW, MO",
@@ -9,9 +27,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "65230",
-        "65250",
-        "65254",
-        "65274"
+        "65254"
       ]
     },
     {
@@ -24,15 +40,13 @@
       "zipcodes": [
         "65010",
         "65039",
-        "650HH",
         "65201",
         "65202",
         "65203",
-        "65255",
+        "65251",
         "65256",
         "65279",
-        "65284",
-        "652HH"
+        "65287"
       ]
     },
     {
@@ -61,7 +75,7 @@
       "formUrl": "https://www.hclibrary.org/interlibrary/",
       "formStatus": "verified",
       "zipcodes": [
-        "65230",
+        "65233",
         "65248",
         "65250",
         "65274"
@@ -78,7 +92,9 @@
         "63345",
         "63352",
         "63382",
+        "65231",
         "65232",
+        "65262",
         "65264",
         "65265",
         "65280",
@@ -93,17 +109,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65010",
-        "65039",
-        "650HH",
-        "65201",
-        "65202",
         "65240",
         "65255",
-        "65256",
-        "65279",
-        "65284",
-        "652HH"
+        "65284"
       ]
     },
     {
@@ -114,7 +122,6 @@
       "formUrl": "https://www.dulanylibrary.org/services/interlibrary-loan-services",
       "formStatus": "verified",
       "zipcodes": [
-        "635HH",
         "64660",
         "64676",
         "64681",
@@ -134,31 +141,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "63431",
-        "63530",
         "63532",
         "63534",
-        "63538",
-        "63539",
         "63552",
-        "63558",
-        "65247"
-      ]
-    },
-    {
-      "name": "LAPLATA PUBLIC LIBRARY",
-      "system": "LAPLATA PUBLIC LIBRARY",
-      "address": "103 E MOORE ST, LA PLATA, MO",
-      "website": "https://www.laplatapubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "63431",
-        "63530",
-        "63532",
-        "63534",
-        "63538",
-        "63539",
-        "63549",
         "63558",
         "65247"
       ]

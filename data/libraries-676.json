@@ -3,31 +3,15 @@
     {
       "name": "NORTON PUBLIC LIBRARY",
       "system": "NORTON PUBLIC LIBRARY",
-      "address": "1 WASHINGTON SQUARE, NORTON, KS",
+      "address": "68 E. MAIN STREET, NORTON, MA",
       "website": "https://nortonlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "02048",
         "02375",
-        "02702",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
         "02763",
-        "02764",
         "02766",
-        "02779",
-        "027HH",
         "67654"
       ]
     },
@@ -39,12 +23,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67639",
-        "67646",
-        "67647",
-        "67664",
-        "67670",
-        "676HH"
+        "67664"
+      ]
+    },
+    {
+      "name": "LONG ISLAND COMMUNITY LIBRARY",
+      "system": "LONG ISLAND COMMUNITY LIBRARY",
+      "address": "350 WASHINGTON, LONG ISLAND, KS",
+      "website": "https://library.townoflongisland.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04050",
+        "04108",
+        "67647"
       ]
     },
     {
@@ -55,8 +47,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66932",
-        "669XX",
         "67628",
         "67638"
       ]
@@ -69,12 +59,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67639",
-        "67644",
-        "67646",
-        "67647",
-        "67670",
-        "676HH"
+        "67644"
       ]
     },
     {
@@ -86,9 +71,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67632",
-        "67657",
-        "67675",
-        "676XX"
+        "67657"
       ]
     },
     {
@@ -99,12 +82,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67621",
-        "67639",
-        "67646",
-        "67647",
-        "67670",
-        "676HH"
+        "67621"
       ]
     },
     {
@@ -115,29 +93,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67626",
-        "67634",
-        "67640",
-        "67648",
-        "67658",
-        "67665",
-        "67673"
+        "67648"
       ]
     },
     {
       "name": "LOGAN PUBLIC LIBRARY",
       "system": "LOGAN PUBLIC LIBRARY",
-      "address": "121 E 6TH ST, LOGAN, IA",
+      "address": "109 W. MAIN, LOGAN, KS",
       "website": "https://librarytechnology.org/library/18174",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "51546",
-        "67639",
-        "67646",
-        "67647",
-        "67670",
-        "676HH"
+        "51550",
+        "51563",
+        "67646"
       ]
     },
     {
@@ -148,10 +118,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67632",
         "67669",
-        "67675",
-        "676XX"
+        "67675"
       ]
     },
     {
@@ -162,11 +130,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67637",
-        "67660",
-        "67667",
-        "67671",
-        "67674"
+        "67637"
       ]
     },
     {
@@ -177,10 +141,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67632",
-        "67663",
-        "67675",
-        "676XX"
+        "67663"
       ]
     },
     {
@@ -192,11 +153,25 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67639",
-        "67646",
-        "67647",
-        "67661",
-        "67670",
-        "676HH"
+        "67661"
+      ]
+    },
+    {
+      "name": "RUSSELL PUBLIC LIBRARY",
+      "system": "RUSSELL PUBLIC LIBRARY",
+      "address": "126 EAST 6TH STREET, RUSSELL, KS",
+      "website": "https://www.townofrussell.us/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01008",
+        "01071",
+        "13630",
+        "13684",
+        "67626",
+        "67634",
+        "67640",
+        "67665"
       ]
     },
     {
@@ -247,8 +222,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67622",
-        "67629"
+        "67622"
       ]
     },
     {
@@ -286,40 +260,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67626",
-        "67634",
-        "67640",
         "67649",
         "67658",
-        "67665",
         "67673"
-      ]
-    },
-    {
-      "name": "OBERLIN CITY LIBRARY",
-      "system": "OBERLIN CITY LIBRARY",
-      "address": "104 E. OAK, OBERLIN, KS",
-      "website": "https://oberlin.nwkls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67635",
-        "67653",
-        "67749"
-      ]
-    },
-    {
-      "name": "LEBANON COMMUNITY",
-      "system": "LEBANON COMMUNITY",
-      "address": "404 MAIN, LEBANON, KS",
-      "website": "https://librarytechnology.org/library/18160",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66932",
-        "66952",
-        "669XX",
-        "67628"
       ]
     },
     {
@@ -332,36 +275,7 @@
       "zipcodes": [
         "66932",
         "66951",
-        "669XX",
         "67628"
-      ]
-    },
-    {
-      "name": "SMITH CENTER PUBLIC LIBRARY",
-      "system": "SMITH CENTER PUBLIC LIBRARY",
-      "address": "117 W. COURT, SMITH CENTER, KS",
-      "website": "https://smithcenterks.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66932",
-        "66967",
-        "669XX",
-        "67628"
-      ]
-    },
-    {
-      "name": "DOWNS CARNEGIE LIBRARY",
-      "system": "DOWNS CARNEGIE LIBRARY",
-      "address": "504 MORGAN AVE, DOWNS, KS",
-      "website": "https://downs.mykansaslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67437",
-        "67474",
-        "67623",
-        "67651"
       ]
     },
     {

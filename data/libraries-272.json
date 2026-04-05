@@ -3,18 +3,25 @@
     {
       "name": "FORSYTH COUNTY PUBLIC LIBRARY",
       "system": "FORSYTH COUNTY PUBLIC LIBRARY",
-      "address": "585 DAHLONEGA STREET, CUMMING, GA",
+      "address": "660 W 5TH ST, WINSTON-SALEM, NC",
       "website": "https://www.forsythpl.org/cumming-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "27009",
         "27012",
+        "27016",
+        "27018",
+        "27019",
+        "27021",
         "27023",
         "27040",
+        "27043",
         "27045",
         "27050",
         "27051",
+        "27052",
+        "27053",
         "27101",
         "27103",
         "27104",
@@ -24,28 +31,8 @@
         "27109",
         "27127",
         "27284",
-        "30040"
-      ]
-    },
-    {
-      "name": "SOUTHERN PINES PUBLIC LIBRARY",
-      "system": "SOUTHERN PINES PUBLIC LIBRARY",
-      "address": "170 W CONNECTICUT AVE, SOUTHERN PINES, NC",
-      "website": "https://www.southernpines.net/399/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "27242",
-        "27281",
-        "27325",
-        "27376",
-        "28315",
-        "28327",
-        "28350",
-        "28373",
-        "28374",
-        "28387",
-        "28394"
+        "30040",
+        "30041"
       ]
     },
     {
@@ -56,6 +43,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "27209",
+        "27229",
         "27242",
         "27281",
         "27325",
@@ -65,40 +54,32 @@
         "28350",
         "28370",
         "28373",
-        "28374",
-        "28394"
-      ]
-    },
-    {
-      "name": "CHAPEL HILL PUBLIC LIBRARY",
-      "system": "CHAPEL HILL PUBLIC LIBRARY",
-      "address": "100 LIBRARY DR, CHAPEL HILL, NC",
-      "website": "https://www.chapelhillpubliclibrary.org/",
-      "formUrl": "https://www.chapelhillpubliclibrary.org/suggest-purchase",
-      "formStatus": "verified",
-      "zipcodes": [
-        "27231",
-        "27243",
-        "27278",
-        "27510",
-        "27514",
-        "27516"
+        "28374"
       ]
     },
     {
       "name": "RANDOLPH PUBLIC LIBRARY",
       "system": "RANDOLPH PUBLIC LIBRARY",
-      "address": "201 WORTH ST, ASHEBORO, NC",
+      "address": "130 DURAND ROAD, RANDOLPH, NH",
       "website": "https://randolphnhpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03570",
-        "03582",
-        "03590",
-        "035HH",
-        "035XX",
-        "27203"
+        "03593",
+        "27203",
+        "27233",
+        "27248",
+        "27263",
+        "27298",
+        "27316",
+        "27317",
+        "27341",
+        "27350",
+        "27355",
+        "27356",
+        "27370",
+        "51645",
+        "51649"
       ]
     },
     {
@@ -109,18 +90,12 @@
       "formUrl": "https://library.greensboro-nc.gov/services/suggest-a-library-purchase",
       "formStatus": "verified",
       "zipcodes": [
-        "27214",
-        "27235",
-        "27260",
-        "27265",
         "27282",
         "27283",
         "27301",
         "27310",
         "27313",
-        "27342",
         "27358",
-        "27377",
         "27401",
         "27403",
         "27405",
@@ -129,8 +104,7 @@
         "27408",
         "27409",
         "27410",
-        "27455",
-        "274HH"
+        "27455"
       ]
     },
     {
@@ -144,11 +118,9 @@
         "27207",
         "27208",
         "27252",
-        "27256",
         "27312",
         "27344",
-        "27559",
-        "275HH"
+        "27559"
       ]
     },
     {
@@ -176,8 +148,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "270HH",
-        "271HH",
         "27239",
         "27292",
         "27295",
@@ -193,8 +163,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "27022",
         "27025",
         "27027",
+        "27042",
+        "27046",
         "27048",
         "27288",
         "27320",
@@ -210,28 +183,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27214",
         "27235",
         "27260",
         "27262",
         "27265",
         "27282",
-        "27283",
-        "27301",
-        "27310",
-        "27313",
-        "27342",
-        "27358",
-        "27377",
-        "27403",
-        "27405",
-        "27406",
-        "27407",
-        "27408",
-        "27409",
-        "27410",
-        "27455",
-        "274HH"
+        "27407"
       ]
     },
     {
@@ -242,16 +199,35 @@
       "formUrl": "https://alamance.tlcdelivers.com/#/login?from=%2Fmyaccount%2Fsummary",
       "formStatus": "verified",
       "zipcodes": [
-        "27202",
         "27215",
         "27217",
         "27244",
         "27253",
         "27258",
-        "272HH",
         "27302",
-        "27349",
-        "273HH"
+        "27349"
+      ]
+    },
+    {
+      "name": "ORANGE COUNTY PUBLIC LIBRARY",
+      "system": "ORANGE COUNTY PUBLIC LIBRARY",
+      "address": "137 W MARGARET LN, HILLSBOROUGH, NC",
+      "website": "https://www.orangecountync.gov/3009/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22433",
+        "22508",
+        "22542",
+        "22567",
+        "22923",
+        "22942",
+        "22960",
+        "22972",
+        "23117",
+        "27231",
+        "27243",
+        "27278"
       ]
     },
     {
@@ -263,27 +239,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "27214",
-        "27235",
         "27249",
-        "27260",
-        "27265",
-        "27282",
-        "27283",
         "27301",
-        "27310",
-        "27313",
-        "27342",
-        "27358",
-        "27377",
-        "27403",
-        "27405",
-        "27406",
-        "27407",
-        "27408",
-        "27409",
-        "27410",
-        "27455",
-        "274HH"
+        "27377"
       ]
     }
   ]

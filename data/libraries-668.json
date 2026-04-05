@@ -1,105 +1,52 @@
 {
   "libraries": [
     {
+      "name": "MADISON PUBLIC LIBRARY",
+      "system": "MADISON PUBLIC LIBRARY",
+      "address": "1700 FIFTH STREET, MADISON, IL",
+      "website": "http://www.madisonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04911",
+        "04950",
+        "07935",
+        "07940",
+        "07946",
+        "07980",
+        "44057",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53711",
+        "53713",
+        "53714",
+        "53715",
+        "53718",
+        "57016",
+        "57042",
+        "57048",
+        "57050",
+        "57054",
+        "57057",
+        "57075",
+        "57076",
+        "62060",
+        "66860",
+        "68748"
+      ]
+    },
+    {
       "name": "FLORENCE PUBLIC LIBRARY",
       "system": "FLORENCE PUBLIC LIBRARY",
-      "address": "324 MAIN ST., FLORENCE, KS",
+      "address": "207 E MAIN ST, FLORENCE, TX",
       "website": "https://florenceks.com/text/city/city_library.htm",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "66851",
-        "76527",
-        "76530",
-        "76574",
-        "76578",
-        "78615",
-        "78626",
-        "78628",
-        "78681",
-        "78717",
-        "78729"
-      ]
-    },
-    {
-      "name": "GOESSEL PUBLIC LIBRARY",
-      "system": "GOESSEL PUBLIC LIBRARY",
-      "address": "101 S. CEDAR, GOESSEL, KS",
-      "website": "https://librarytechnology.org/library/18204",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66858",
-        "66859",
-        "67053",
-        "67063",
-        "67073",
-        "67438",
-        "67475",
-        "67483"
-      ]
-    },
-    {
-      "name": "LEON PUBLIC LIBRARY",
-      "system": "LEON PUBLIC LIBRARY",
-      "address": "200 W 1ST ST, LEON, IA",
-      "website": "https://cityofleon.org/library-2",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50144",
-        "66842",
-        "67002",
-        "67012",
-        "67017",
-        "67041",
-        "67072",
-        "67074",
-        "670HH",
-        "67132",
-        "67144"
-      ]
-    },
-    {
-      "name": "DOUGLASS PUBLIC LIBRARY",
-      "system": "DOUGLASS PUBLIC LIBRARY",
-      "address": "319 S. FOREST, DOUGLASS, KS",
-      "website": "https://douglass.scklslibrary.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66842",
-        "67002",
-        "67012",
-        "67017",
-        "67039",
-        "67041",
-        "67072",
-        "67074",
-        "670HH",
-        "67132",
-        "67144"
-      ]
-    },
-    {
-      "name": "AUGUSTA PUBLIC LIBRARY",
-      "system": "AUGUSTA PUBLIC LIBRARY",
-      "address": "1609 STATE ST., AUGUSTA, KS",
-      "website": "https://www.augustapubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66842",
-        "67002",
-        "67010",
-        "67012",
-        "67017",
-        "67041",
-        "67072",
-        "67074",
-        "670HH",
-        "67132",
-        "67144"
+        "76527"
       ]
     },
     {
@@ -111,95 +58,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66842",
-        "67002",
-        "67012",
-        "67017",
-        "67041",
         "67042",
-        "67072",
-        "67074",
-        "670HH",
-        "67132",
-        "67144"
-      ]
-    },
-    {
-      "name": "EUREKA PUBLIC LIBRARY",
-      "system": "EUREKA PUBLIC LIBRARY",
-      "address": "606 NORTH MAIN, EUREKA, KS",
-      "website": "http://eurekapubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66860",
-        "66863",
-        "66870",
-        "67045",
-        "67122",
-        "67137"
-      ]
-    },
-    {
-      "name": "POTWIN PUBLIC LIBRARY",
-      "system": "POTWIN PUBLIC LIBRARY",
-      "address": "126 N. RANDALL, POTWIN, KS",
-      "website": "https://potwinks.com/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66842",
-        "67002",
-        "67012",
-        "67017",
-        "67041",
-        "67072",
-        "67074",
-        "670HH",
-        "67123",
-        "67132",
-        "67144"
-      ]
-    },
-    {
-      "name": "WHITEWATER MEMORIAL LIBRARY",
-      "system": "WHITEWATER MEMORIAL LIBRARY",
-      "address": "118 EAST TOPEKA, WHITEWATER, KS",
-      "website": "https://whitewaterks.gov/whitewater-memorial-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66842",
-        "67002",
-        "67012",
-        "67017",
-        "67041",
-        "67072",
-        "67074",
-        "670HH",
-        "67132",
-        "67144",
-        "67154"
-      ]
-    },
-    {
-      "name": "ROSE HILL PUBLIC LIBRARY",
-      "system": "ROSE HILL PUBLIC LIBRARY",
-      "address": "306 N ROSE HILL RD, ROSE HILL, KS",
-      "website": "https://rosehill.scklslibrary.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66842",
-        "67002",
-        "67012",
-        "67017",
-        "67041",
-        "67072",
-        "67074",
-        "670HH",
-        "67132",
-        "67133",
-        "67144"
+        "67132"
       ]
     },
     {
@@ -211,13 +71,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66840",
-        "66858",
-        "66859",
-        "67063",
-        "67073",
-        "67438",
-        "67475",
-        "67483"
+        "66851"
       ]
     },
     {
@@ -228,7 +82,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66838",
+        "66401",
+        "66834",
         "66849"
       ]
     },
@@ -252,7 +107,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66838",
         "66872"
       ]
     },
@@ -268,8 +122,7 @@
         "66845",
         "66850",
         "66862",
-        "66869",
-        "668HH"
+        "66869"
       ]
     },
     {
@@ -280,11 +133,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66830",
         "66854",
-        "66864",
-        "66865",
-        "66868"
+        "66864"
       ]
     },
     {
@@ -295,11 +145,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66830",
-        "66835",
-        "66864",
-        "66865",
-        "66868"
+        "66835"
       ]
     },
     {
@@ -310,14 +156,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66858",
-        "66859",
-        "66866",
-        "67063",
-        "67073",
-        "67438",
-        "67475",
-        "67483"
+        "66866"
       ]
     },
     {
@@ -331,11 +170,7 @@
         "66858",
         "66859",
         "66861",
-        "67063",
-        "67073",
-        "67438",
-        "67475",
-        "67483"
+        "67475"
       ]
     },
     {
@@ -346,7 +181,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66838",
         "66846"
       ]
     },
@@ -359,10 +193,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66801",
-        "66830",
-        "66864",
-        "66865",
-        "66868"
+        "66865"
       ]
     },
     {
@@ -373,10 +204,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "66423",
         "66830",
         "66833",
-        "66864",
-        "66865",
         "66868"
       ]
     },
@@ -389,11 +219,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66853",
-        "66860",
         "66863",
-        "66870",
-        "67122",
-        "67137"
+        "66870"
       ]
     },
     {

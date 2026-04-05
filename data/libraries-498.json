@@ -30,13 +30,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49807",
-        "49818",
         "49829",
-        "49835",
-        "49864",
-        "49872",
-        "49878",
-        "49880",
         "49894"
       ]
     },
@@ -48,11 +42,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49808",
-        "49814",
         "49833",
         "49841",
-        "49861",
         "49885"
       ]
     },
@@ -64,7 +55,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49807",
         "49818",
         "49835",
         "49837",
@@ -79,16 +69,13 @@
       "name": "ISHPEMING CARNEGIE PUBLIC LIBRARY",
       "system": "ISHPEMING CARNEGIE PUBLIC LIBRARY",
       "address": "317 NORTH MAIN STREET, ISHPEMING, MI",
-      "website": "https://ishpeminglibrary.info/",
-      "formUrl": "https://ishpeminglibrary.info/inter-library-loan/",
-      "formStatus": "verified",
+      "website": "http://www.uproc.lib.mi.us/ishpeming/",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
         "49808",
         "49814",
-        "49833",
-        "49849",
-        "49861",
-        "49885"
+        "49849"
       ]
     },
     {
@@ -103,20 +90,18 @@
         "49836",
         "49840",
         "49854",
-        "49883",
-        "498XX"
+        "49883"
       ]
     },
     {
       "name": "MENOMINEE COUNTY LIBRARY",
       "system": "MENOMINEE COUNTY LIBRARY",
       "address": "S319 RAILROAD STREET, STEPHENSON, MI",
-      "website": "https://www.menomineecountylibrary.org/",
+      "website": "http://joomla.uproc.lib.mi.us/Menominee/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "49812",
-        "49813",
         "49821",
         "49847",
         "49848",
@@ -133,7 +118,7 @@
       "name": "MUNISING SCHOOL PUBLIC LIBRARY",
       "system": "MUNISING SCHOOL PUBLIC LIBRARY",
       "address": "810 STATE HIGHWAY M-28 WEST SUITE A, MUNISING, MI",
-      "website": "https://msplonline.org/",
+      "website": "http://www.uproc.lib.mi.us/mspl/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -146,24 +131,18 @@
         "49862",
         "49884",
         "49891",
-        "49895",
-        "498HH"
+        "49895"
       ]
     },
     {
       "name": "NEGAUNEE PUBLIC LIBRARY",
       "system": "NEGAUNEE PUBLIC LIBRARY",
       "address": "319 WEST CASE STREET, NEGAUNEE, MI",
-      "website": "https://www.cityofnegaunee.com/negaunee-public-library",
+      "website": "http://joomla.uproc.lib.mi.us/Negaunee/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49808",
-        "49814",
-        "49833",
-        "49861",
-        "49866",
-        "49885"
+        "49866"
       ]
     },
     {
@@ -174,12 +153,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49808",
-        "49814",
-        "49833",
-        "49855",
-        "49861",
-        "49885"
+        "49855"
       ]
     },
     {
@@ -190,50 +164,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49808",
-        "49814",
-        "49833",
         "49861",
-        "49879",
-        "49885"
+        "49879"
       ]
     },
     {
       "name": "RICHMOND TOWNSHIP LIBRARY",
       "system": "RICHMOND TOWNSHIP LIBRARY",
       "address": "304 SNYDER STREET, PALMER, MI",
-      "website": "https://www.countyoffice.org/richmond-township-library-palmer-mi-1c4/",
+      "website": "http://joomla.uproc.lib.mi.us/Richmond/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49808",
-        "49814",
-        "49833",
-        "49861",
-        "49871",
-        "49885"
+        "49871"
       ]
     },
     {
       "name": "SPIES PUBLIC LIBRARY",
       "system": "SPIES PUBLIC LIBRARY",
       "address": "940 FIRST STREET, MENOMINEE, MI",
-      "website": "https://spiespubliclibrary.org/",
+      "website": "http://www.uproc.lib.mi.us/spies/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49812",
-        "49813",
-        "49821",
-        "49847",
-        "49848",
-        "49858",
-        "49863",
-        "49873",
-        "49874",
-        "49886",
-        "49893",
-        "49896"
+        "49858"
       ]
     },
     {
@@ -249,37 +203,33 @@
       ]
     },
     {
-      "name": "MACKINAC ISLAND PUBLIC LIBRARY",
-      "system": "MACKINAC ISLAND PUBLIC LIBRARY",
-      "address": "7549 MAIN STREET, MACKINAC ISLAND, MI",
-      "website": "https://mackinacislandlibrary.org/",
+      "name": "CALUMET PUBLIC-SCHOOL LIBRARY",
+      "system": "CALUMET PUBLIC-SCHOOL LIBRARY",
+      "address": "57070 MINE STREET, CALUMET, MI",
+      "website": "https://www.clkschools.org/library.php",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49719",
-        "49745",
-        "49757",
-        "49760",
-        "49762",
-        "49775",
-        "49820",
-        "49827",
-        "49838"
+        "49805",
+        "49901",
+        "49913",
+        "49917",
+        "49918",
+        "49934",
+        "49942",
+        "49950"
       ]
     },
     {
       "name": "SAINT IGNACE PUBLIC LIBRARY",
       "system": "SAINT IGNACE PUBLIC LIBRARY",
       "address": "110 WEST SPRUCE STREET, ST. IGNACE, MI",
-      "website": "https://stignacelibrary.org/",
+      "website": "http://www.uproc.lib.mi.us/Stignace/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49719",
-        "49745",
         "49760",
         "49762",
-        "49775",
         "49781",
         "49820",
         "49827",

@@ -1,22 +1,6 @@
 {
   "libraries": [
     {
-      "name": "JEFFERSON PUBLIC LIBRARY",
-      "system": "JEFFERSON PUBLIC LIBRARY",
-      "address": "200 W LINCOLNWAY, JEFFERSON, IA",
-      "website": "https://jeffersonwilibrary.org/",
-      "formUrl": "https://jeffersonwilibrary.org/interlibrary-loan/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "50129",
-        "53036",
-        "53137",
-        "53178",
-        "531HH",
-        "53549"
-      ]
-    },
-    {
       "name": "FOND DU LAC PUBLIC LIBRARY",
       "system": "FOND DU LAC PUBLIC LIBRARY",
       "address": "32 SHEBOYGAN ST., FOND DU LAC, WI",
@@ -28,132 +12,97 @@
         "53049",
         "53057",
         "53079",
-        "53931",
         "54932",
         "54935",
-        "54974",
-        "54979"
-      ]
-    },
-    {
-      "name": "SPILLMAN PUBLIC LIBRARY",
-      "system": "SPILLMAN PUBLIC LIBRARY",
-      "address": "719 WISCONSIN AVE., NORTH FOND DU LAC, WI",
-      "website": "https://northfonddulaclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53019",
-        "53049",
-        "53057",
-        "53079",
-        "53931",
-        "54932",
-        "54937",
-        "54974",
-        "54979"
-      ]
-    },
-    {
-      "name": "RIPON PUBLIC LIBRARY",
-      "system": "RIPON PUBLIC LIBRARY",
-      "address": "120 JEFFERSON ST., RIPON, WI",
-      "website": "https://riponlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53019",
-        "53049",
-        "53057",
-        "53079",
-        "53931",
-        "54932",
-        "54971",
-        "54974",
         "54979"
       ]
     },
     {
       "name": "GERMANTOWN COMMUNITY LIBRARY",
       "system": "GERMANTOWN COMMUNITY LIBRARY",
-      "address": "N112W16957 MEQUON RD., GERMANTOWN, WI",
+      "address": "1925 EXETER ROAD, GERMANTOWN, TN",
       "website": "https://germantownlibrarywi.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53002",
+        "38018",
+        "38115",
+        "38117",
+        "38118",
+        "38119",
+        "38120",
+        "38122",
+        "38125",
+        "38133",
+        "38134",
+        "38138",
+        "38139",
+        "38141",
         "53017",
         "53022",
         "53033",
         "53037",
-        "53076",
-        "53090"
+        "53076"
       ]
     },
     {
       "name": "BUTLER PUBLIC LIBRARY",
       "system": "BUTLER PUBLIC LIBRARY",
-      "address": "12808 W. HAMPTON AVE., BUTLER, WI",
-      "website": "https://www.butlerlibrary.org/",
+      "address": "340 SOUTH BROADWAY, BUTLER, IN",
+      "website": "https://www.pinemtnlibrary.org/wordpress/index.php/hours-and-locations/taylor-county/butler-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46721",
+        "46785",
+        "53005",
         "53007",
-        "53029",
         "53045",
-        "53046",
-        "53058",
-        "53069",
-        "53118",
-        "53146",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
+        "53046"
       ]
     },
     {
       "name": "HARTLAND PUBLIC LIBRARY",
       "system": "HARTLAND PUBLIC LIBRARY",
-      "address": "16 MILL STREET, HARTLAND, ME",
+      "address": "61 CENTER ST., HARTLAND, CT",
       "website": "https://hartlandct.org/hartland-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "04923",
         "04943",
+        "04965",
+        "04967",
+        "04971",
+        "06027",
+        "06060",
+        "06090",
+        "06091",
         "53029",
-        "53045",
-        "53046",
         "53058",
         "53069",
-        "53118",
-        "53146",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
+        "53183"
       ]
     },
     {
       "name": "BROOKFIELD PUBLIC LIBRARY",
       "system": "BROOKFIELD PUBLIC LIBRARY",
-      "address": "1900 N. CALHOUN RD., BROOKFIELD, WI",
+      "address": "102 E BOSTON ST, BROOKFIELD, MO",
       "website": "https://www.brookfieldpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "53005",
-        "53029",
+        "53007",
         "53045",
-        "53046",
-        "53058",
-        "53069",
-        "53118",
-        "53146",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
+        "63557",
+        "63566",
+        "64628",
+        "64630",
+        "64651",
+        "64653",
+        "64659",
+        "64674"
       ]
     },
     {
@@ -164,183 +113,38 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53015",
         "53063",
-        "54207",
         "54214",
-        "54215",
         "54220",
         "54227",
-        "54228",
         "54230",
-        "54232",
-        "54240",
-        "54245",
-        "54247"
-      ]
-    },
-    {
-      "name": "LESTER PUBLIC LIBRARY",
-      "system": "LESTER PUBLIC LIBRARY",
-      "address": "1001 ADAMS ST., TWO RIVERS, WI",
-      "website": "https://www.lesterlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53015",
-        "53063",
-        "54207",
-        "54214",
-        "54215",
-        "54227",
-        "54228",
-        "54230",
-        "54232",
-        "54240",
-        "54241",
-        "54245",
         "54247"
       ]
     },
     {
       "name": "PLYMOUTH PUBLIC LIBRARY",
       "system": "PLYMOUTH PUBLIC LIBRARY",
-      "address": "130 DIVISION ST., PLYMOUTH, WI",
+      "address": "103 NORTH JEFFERSON AVENUE, PLYMOUTH, NE",
       "website": "https://plymouthpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53001",
+        "02360",
+        "02366",
+        "18617",
+        "18618",
+        "18621",
+        "18651",
+        "18706",
+        "18708",
+        "46537",
+        "46563",
         "53011",
         "53023",
         "53073",
-        "53081",
-        "53083",
-        "53093"
-      ]
-    },
-    {
-      "name": "BEAVER DAM COMMUNITY LIBRARY",
-      "system": "BEAVER DAM COMMUNITY LIBRARY",
-      "address": "311 N. SPRING ST., BEAVER DAM, WI",
-      "website": "https://www.beaverdamlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53003",
-        "53016",
-        "53047",
-        "53059",
-        "53078",
-        "53098",
-        "53557",
-        "53916",
-        "53922"
-      ]
-    },
-    {
-      "name": "BRANDON PUBLIC LIBRARY",
-      "system": "BRANDON PUBLIC LIBRARY",
-      "address": "117 E. MAIN ST., BRANDON, WI",
-      "website": "https://brandonlibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53019",
-        "53049",
-        "53057",
-        "53079",
-        "53919",
-        "53931",
-        "54932",
-        "54974",
-        "54979"
-      ]
-    },
-    {
-      "name": "FOX LAKE PUBLIC LIBRARY",
-      "system": "FOX LAKE PUBLIC LIBRARY",
-      "address": "117 W. STATE ST., FOX LAKE, WI",
-      "website": "https://www.foxlake.lib.wi.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53003",
-        "53016",
-        "53047",
-        "53059",
-        "53078",
-        "53098",
-        "53557",
-        "53922",
-        "53933"
-      ]
-    },
-    {
-      "name": "WAUPUN PUBLIC LIBRARY",
-      "system": "WAUPUN PUBLIC LIBRARY",
-      "address": "123 S. FOREST ST., WAUPUN, WI",
-      "website": "https://www.cityofwaupun.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53003",
-        "53016",
-        "53047",
-        "53059",
-        "53078",
-        "53098",
-        "53557",
-        "53922",
-        "53963"
-      ]
-    },
-    {
-      "name": "DWIGHT FOSTER PUBLIC LIBRARY",
-      "system": "DWIGHT FOSTER PUBLIC LIBRARY",
-      "address": "209 MERCHANTS AVE., FORT ATKINSON, WI",
-      "website": "https://www.fortlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53036",
-        "53137",
-        "53178",
-        "531HH",
-        "53538",
-        "53549"
-      ]
-    },
-    {
-      "name": "L.D. FARGO PUBLIC LIBRARY",
-      "system": "L.D. FARGO PUBLIC LIBRARY",
-      "address": "120 E. MADISON ST., LAKE MILLS, WI",
-      "website": "https://www.lakemills.lib.wi.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53036",
-        "53137",
-        "53178",
-        "531HH",
-        "53549",
-        "53551"
-      ]
-    },
-    {
-      "name": "KARL JUNGINGER MEMORIAL LIBRARY",
-      "system": "KARL JUNGINGER MEMORIAL LIBRARY",
-      "address": "625 N. MONROE ST., WATERLOO, WI",
-      "website": "https://www.waterloo.lib.wi.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53036",
-        "53137",
-        "53178",
-        "531HH",
-        "53549",
-        "53594"
+        "53093",
+        "68377",
+        "68424"
       ]
     },
     {
@@ -351,52 +155,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53003",
         "53016",
-        "53047",
-        "53059",
-        "53078",
         "53098",
         "53557",
-        "53579",
-        "53922"
-      ]
-    },
-    {
-      "name": "BRILLION PUBLIC LIBRARY",
-      "system": "BRILLION PUBLIC LIBRARY",
-      "address": "326 N. MAIN ST., BRILLION, WI",
-      "website": "https://www.brillionwi.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53088",
-        "530HH",
-        "54110",
-        "54123",
-        "54129",
-        "54160",
-        "54169",
-        "549HH"
+        "53579"
       ]
     },
     {
       "name": "BROWNSVILLE PUBLIC LIBRARY",
       "system": "BROWNSVILLE PUBLIC LIBRARY",
-      "address": "379 MAIN ST., BROWNSVILLE, WI",
+      "address": "2600 CENTRAL BLVD, BROWNSVILLE, TX",
       "website": "https://brownsville.lib.wi.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53003",
         "53006",
-        "53016",
-        "53047",
-        "53059",
-        "53078",
-        "53098",
-        "53557",
-        "53922"
+        "78520",
+        "78526",
+        "78575"
       ]
     },
     {
@@ -408,14 +184,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53010",
-        "53019",
-        "53049",
-        "53057",
-        "53079",
-        "53931",
-        "54932",
-        "54974",
-        "54979"
+        "53019"
       ]
     },
     {
@@ -426,13 +195,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53001",
-        "53011",
-        "53013",
-        "53023",
-        "53081",
-        "53083",
-        "53093"
+        "53013"
       ]
     },
     {
@@ -443,9 +206,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53004",
         "53012",
-        "53021",
         "53097"
       ]
     },
@@ -459,12 +220,8 @@
       "zipcodes": [
         "53014",
         "53088",
-        "530HH",
-        "54123",
         "54129",
-        "54160",
-        "54169",
-        "549HH"
+        "54160"
       ]
     },
     {
@@ -476,17 +233,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53018",
-        "53029",
-        "53045",
-        "53046",
         "53058",
         "53069",
         "53118",
-        "53146",
         "53153",
         "53183",
-        "53188",
-        "53189"
+        "53188"
       ]
     },
     {
@@ -497,13 +249,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53001",
-        "53011",
         "53020",
         "53023",
-        "53081",
-        "53083",
-        "53093"
+        "53073"
       ]
     },
     {
@@ -514,13 +262,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53002",
-        "53017",
         "53027",
         "53033",
-        "53037",
-        "53076",
-        "53090"
+        "53076"
       ]
     },
     {
@@ -531,14 +275,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53003",
-        "53016",
         "53032",
-        "53047",
-        "53059",
-        "53078",
-        "53098",
-        "53557",
         "53922"
       ]
     },
@@ -550,11 +287,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53036",
         "53038",
         "53137",
         "53178",
-        "531HH",
         "53549"
       ]
     },
@@ -566,15 +301,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53003",
         "53016",
         "53039",
-        "53047",
-        "53059",
-        "53078",
-        "53098",
-        "53557",
-        "53922"
+        "53557"
       ]
     },
     {
@@ -586,11 +315,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53002",
-        "53017",
-        "53033",
-        "53037",
         "53040",
-        "53076",
         "53090"
       ]
     },
@@ -604,17 +329,9 @@
       "zipcodes": [
         "53015",
         "53042",
-        "53063",
         "54207",
-        "54214",
-        "54215",
-        "54227",
-        "54228",
-        "54230",
         "54232",
-        "54240",
-        "54245",
-        "54247"
+        "54245"
       ]
     },
     {
@@ -625,13 +342,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53001",
-        "53011",
-        "53023",
         "53044",
-        "53081",
-        "53083",
-        "53093"
+        "53083"
       ]
     },
     {
@@ -642,15 +354,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53003",
-        "53016",
-        "53047",
-        "53048",
-        "53059",
-        "53078",
-        "53098",
-        "53557",
-        "53922"
+        "53006",
+        "53048"
       ]
     },
     {
@@ -661,15 +366,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53003",
-        "53016",
-        "53047",
-        "53050",
-        "53059",
-        "53078",
-        "53098",
-        "53557",
-        "53922"
+        "53050"
       ]
     },
     {
@@ -680,18 +377,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53029",
-        "53045",
         "53046",
-        "53051",
-        "53058",
-        "53069",
-        "53118",
-        "53146",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
+        "53051"
       ]
     },
     {
@@ -702,8 +389,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53004",
-        "53021",
         "53092",
         "53097"
       ]
@@ -716,14 +401,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53061",
-        "53088",
-        "530HH",
-        "54123",
-        "54129",
-        "54160",
-        "54169",
-        "549HH"
+        "53061"
       ]
     },
     {
@@ -735,17 +413,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53029",
-        "53045",
-        "53046",
         "53058",
-        "53064",
-        "53069",
-        "53118",
-        "53146",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
+        "53064"
       ]
     },
     {
@@ -756,15 +425,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53019",
-        "53049",
-        "53057",
         "53065",
-        "53079",
-        "53931",
-        "54932",
-        "54974",
-        "54979"
+        "54974"
       ]
     },
     {
@@ -775,18 +437,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53029",
-        "53045",
-        "53046",
-        "53058",
         "53066",
-        "53069",
-        "53118",
-        "53146",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
+        "53069"
       ]
     },
     {
@@ -797,12 +449,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53001",
-        "53011",
-        "53023",
         "53070",
-        "53081",
-        "53083",
         "53093"
       ]
     },
@@ -815,9 +462,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53004",
-        "53021",
-        "53074",
-        "53097"
+        "53074"
       ]
     },
     {
@@ -830,28 +475,24 @@
       "zipcodes": [
         "53001",
         "53011",
-        "53023",
         "53075",
-        "53081",
-        "53083",
         "53093"
       ]
     },
     {
       "name": "MEAD PUBLIC LIBRARY",
       "system": "MEAD PUBLIC LIBRARY",
-      "address": "316 SOUTH VINE, MEAD, NE",
+      "address": "710 N. 8TH ST., SHEBOYGAN, WI",
       "website": "https://libraries.ne.gov/mead/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53001",
-        "53011",
-        "53023",
         "53081",
         "53083",
-        "53093",
-        "68041"
+        "68018",
+        "68033",
+        "68041",
+        "68042"
       ]
     },
     {
@@ -862,13 +503,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53001",
-        "53011",
-        "53023",
-        "53081",
+        "53073",
         "53083",
-        "53085",
-        "53093"
+        "53085"
       ]
     },
     {
@@ -879,13 +516,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53002",
         "53017",
         "53033",
         "53037",
         "53076",
-        "53086",
-        "53090"
+        "53086"
       ]
     },
     {
@@ -896,15 +531,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53003",
-        "53016",
-        "53047",
-        "53059",
-        "53078",
-        "53091",
-        "53098",
-        "53557",
-        "53922"
+        "53006",
+        "53091"
       ]
     },
     {
@@ -916,11 +544,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53036",
-        "53094",
-        "53137",
-        "53178",
-        "531HH",
-        "53549"
+        "53094"
       ]
     },
     {
@@ -932,10 +556,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53002",
-        "53017",
-        "53033",
         "53037",
-        "53076",
         "53090",
         "53095"
       ]
@@ -948,8 +569,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53004",
-        "53021",
         "53024",
         "53097"
       ]
@@ -968,9 +587,7 @@
         "53047",
         "53059",
         "53078",
-        "53098",
-        "53557",
-        "53922"
+        "53098"
       ]
     },
     {
@@ -981,15 +598,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53003",
-        "53016",
         "53035",
-        "53047",
         "53059",
-        "53078",
-        "53098",
-        "53557",
-        "53922"
+        "53078"
       ]
     },
     {
@@ -1002,8 +613,7 @@
       "zipcodes": [
         "53004",
         "53021",
-        "53080",
-        "53097"
+        "53080"
       ]
     },
     {
@@ -1014,18 +624,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53029",
-        "53045",
         "53046",
-        "53058",
-        "53069",
-        "53089",
-        "53118",
-        "53146",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
+        "53089"
       ]
     },
     {
@@ -1037,61 +637,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "53029",
-        "53045",
-        "53046",
-        "53058",
-        "53069",
         "53072",
-        "53118",
-        "53146",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
-      ]
-    },
-    {
-      "name": "BIG BEND VILLAGE LIBRARY",
-      "system": "BIG BEND VILLAGE LIBRARY",
-      "address": "W230 S9185 NEVINS ST., BIG BEND, WI",
-      "website": "https://www.bigbend.lib.wi.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53029",
-        "53045",
-        "53046",
-        "53058",
-        "53069",
-        "53103",
-        "53118",
-        "53146",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
-      ]
-    },
-    {
-      "name": "ALICE BAKER MEMORIAL PUBLIC LIBRARY",
-      "system": "ALICE BAKER MEMORIAL PUBLIC LIBRARY",
-      "address": "820 E. MAIN ST., EAGLE, WI",
-      "website": "https://www.alicebaker.lib.wi.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53029",
-        "53045",
-        "53046",
-        "53058",
-        "53069",
-        "53118",
-        "53119",
-        "53146",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
+        "53188"
       ]
     },
     {
@@ -1102,138 +649,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "53029",
+        "53005",
+        "53007",
         "53045",
-        "53046",
-        "53058",
-        "53069",
-        "53118",
-        "53122",
-        "53146",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
-      ]
-    },
-    {
-      "name": "MUSKEGO PUBLIC LIBRARY",
-      "system": "MUSKEGO PUBLIC LIBRARY",
-      "address": "S73 W16663 JANESVILLE RD., MUSKEGO, WI",
-      "website": "https://library.muskego.wi.gov/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53029",
-        "53045",
-        "53046",
-        "53058",
-        "53069",
-        "53118",
-        "53146",
-        "53150",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
-      ]
-    },
-    {
-      "name": "NEW BERLIN PUBLIC LIBRARY",
-      "system": "NEW BERLIN PUBLIC LIBRARY",
-      "address": "15105 LIBRARY LN., NEW BERLIN, WI",
-      "website": "https://www.newberlinlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53029",
-        "53045",
-        "53046",
-        "53058",
-        "53069",
-        "53118",
-        "53146",
-        "53151",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
-      ]
-    },
-    {
-      "name": "WAUKESHA PUBLIC LIBRARY",
-      "system": "WAUKESHA PUBLIC LIBRARY",
-      "address": "321 WISCONSIN AVE., WAUKESHA, WI",
-      "website": "https://waukeshapubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53029",
-        "53045",
-        "53046",
-        "53058",
-        "53069",
-        "53118",
-        "53146",
-        "53153",
-        "53183",
-        "53186",
-        "53188",
-        "53189"
-      ]
-    },
-    {
-      "name": "IRVIN L. YOUNG MEMORIAL LIBRARY",
-      "system": "IRVIN L. YOUNG MEMORIAL LIBRARY",
-      "address": "431 W. CENTER ST., WHITEWATER, WI",
-      "website": "https://whitewaterlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53036",
-        "53137",
-        "53178",
-        "53190",
-        "531HH",
-        "53549"
-      ]
-    },
-    {
-      "name": "MUKWONAGO COMMUNITY LIBRARY",
-      "system": "MUKWONAGO COMMUNITY LIBRARY",
-      "address": "511 DIVISION ST., MUKWONAGO, WI",
-      "website": "https://www.mukwonagolibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53029",
-        "53045",
-        "53046",
-        "53058",
-        "53069",
-        "53118",
-        "53146",
-        "53149",
-        "53153",
-        "53183",
-        "53188",
-        "53189"
-      ]
-    },
-    {
-      "name": "POWERS MEMORIAL LIBRARY",
-      "system": "POWERS MEMORIAL LIBRARY",
-      "address": "115 W. MAIN ST., PALMYRA, WI",
-      "website": "https://www.palmyra.lib.wi.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "53036",
-        "53137",
-        "53156",
-        "53178",
-        "531HH",
-        "53549"
+        "53122"
       ]
     }
   ]

@@ -1,6 +1,37 @@
 {
   "libraries": [
     {
+      "name": "STONE COUNTY LIBRARY",
+      "system": "STONE COUNTY LIBRARY",
+      "address": "322 W STATE HIGHWAY 248, GALENA, MO",
+      "website": "http://www.stonecountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65605",
+        "65611",
+        "65616",
+        "65624",
+        "65627",
+        "65633",
+        "65656",
+        "65672",
+        "65679",
+        "65680",
+        "65681",
+        "65686",
+        "65705",
+        "65728",
+        "65731",
+        "65737",
+        "65739",
+        "65740",
+        "65759",
+        "65771",
+        "72644"
+      ]
+    },
+    {
       "name": "WHITE RIVER REGIONAL LIBRARY",
       "system": "WHITE RIVER REGIONAL LIBRARY",
       "address": "503 WEST MAIN STREET, SUITE 3, MOUNTAIN VIEW, AR",
@@ -9,10 +40,17 @@
       "formStatus": "unknown",
       "zipcodes": [
         "72051",
+        "72517",
         "72533",
+        "72540",
         "72555",
+        "72556",
         "72560",
+        "72565",
         "72567",
+        "72584",
+        "72585",
+        "72587",
         "72663",
         "72680"
       ]
@@ -29,10 +67,17 @@
         "72801",
         "72802",
         "72823",
+        "72830",
+        "72832",
         "72837",
+        "72839",
+        "72840",
         "72843",
+        "72845",
+        "72846",
         "72847",
-        "72858"
+        "72858",
+        "72863"
       ]
     },
     {
@@ -45,10 +90,17 @@
       "zipcodes": [
         "72013",
         "72031",
+        "72044",
+        "72067",
         "72080",
         "72088",
+        "72130",
+        "72131",
         "72141",
         "72153",
+        "72530",
+        "72543",
+        "72581",
         "72629"
       ]
     },
@@ -56,7 +108,7 @@
       "name": "MARION COUNTY LIBRARY",
       "system": "MARION COUNTY LIBRARY",
       "address": "308 OLD MAIN, YELLVILLE, AR",
-      "website": "https://marcolibrary.org/",
+      "website": "https://www.cvlga.org/marion-county-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -78,9 +130,19 @@
       "formUrl": "https://www.baxtercountylibrary.org/books-more/suggest-title",
       "formStatus": "verified",
       "zipcodes": [
+        "72515",
+        "72519",
+        "72520",
+        "72528",
+        "72531",
         "72537",
+        "72538",
+        "72539",
         "72544",
-        "725HH",
+        "72566",
+        "72576",
+        "72578",
+        "72583",
         "72617",
         "72623",
         "72626",
@@ -88,8 +150,7 @@
         "72642",
         "72651",
         "72653",
-        "72658",
-        "726HH"
+        "72658"
       ]
     },
     {
@@ -105,7 +166,8 @@
         "72631",
         "72632",
         "72638",
-        "72660"
+        "72660",
+        "72740"
       ]
     },
     {
@@ -139,6 +201,11 @@
         "72666",
         "72683",
         "72685",
+        "72742",
+        "72752",
+        "72776",
+        "72852",
+        "72854",
         "72856"
       ]
     },
@@ -150,7 +217,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72610",
         "72639",
         "72645",
         "72650",

@@ -1,46 +1,6 @@
 {
   "libraries": [
     {
-      "name": "ALCONA COUNTY LIBRARY",
-      "system": "ALCONA COUNTY LIBRARY",
-      "address": "312 WEST MAIN (M-72), HARRISVILLE, MI",
-      "website": "http://library.alcona.lib.mi.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48705",
-        "48721",
-        "48728",
-        "48738",
-        "48740",
-        "48742",
-        "48745",
-        "48762",
-        "487HH",
-        "497HH"
-      ]
-    },
-    {
-      "name": "CURTIS TOWNSHIP LIBRARY",
-      "system": "CURTIS TOWNSHIP LIBRARY",
-      "address": "4884 BAMFIELD ROAD, GLENNIE, MI",
-      "website": "https://librarytechnology.org/library/12561",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48705",
-        "48721",
-        "48728",
-        "48737",
-        "48738",
-        "48742",
-        "48745",
-        "48762",
-        "487HH",
-        "497HH"
-      ]
-    },
-    {
       "name": "CENTRAL LAKE DISTRICT LIBRARY",
       "system": "CENTRAL LAKE DISTRICT LIBRARY",
       "address": "7900 MAPLE STREET, CENTRAL LAKE, MI",
@@ -48,50 +8,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49611",
-        "49615",
         "49622",
         "49627",
         "49648",
-        "496HH",
-        "49729",
-        "49730"
-      ]
-    },
-    {
-      "name": "ELK RAPIDS DISTRICT LIBRARY",
-      "system": "ELK RAPIDS DISTRICT LIBRARY",
-      "address": "300 ISLE OF PINES, ELK RAPIDS, MI",
-      "website": "https://www.elkrapidslibrary.org/",
-      "formUrl": "https://form.jotform.com/252805068934059",
-      "formStatus": "verified",
-      "zipcodes": [
-        "49611",
-        "49615",
-        "49627",
-        "49629",
-        "49648",
-        "496HH",
-        "49729",
-        "49730"
-      ]
-    },
-    {
-      "name": "ALDEN DISTRICT LIBRARY",
-      "system": "ALDEN DISTRICT LIBRARY",
-      "address": "8751 HELENA ROAD, ALDEN, MI",
-      "website": "https://www.aldenlib.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49611",
-        "49612",
-        "49615",
-        "49627",
-        "49648",
-        "496HH",
-        "49729",
-        "49730"
+        "49729"
       ]
     },
     {
@@ -103,12 +23,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49611",
-        "49615",
-        "49627",
-        "49648",
         "49659",
-        "496HH",
-        "49729",
         "49730"
       ]
     },
@@ -125,15 +40,12 @@
         "49724",
         "49725",
         "49726",
-        "49728",
         "49736",
-        "49748",
         "49752",
         "49774",
         "49780",
         "49783",
-        "49788",
-        "49793"
+        "49788"
       ]
     },
     {
@@ -144,7 +56,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49713",
         "49782"
       ]
     },
@@ -168,7 +79,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49713",
         "49720"
       ]
     },
@@ -180,11 +90,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49705",
-        "49721",
-        "49761",
-        "49792",
-        "497XX"
+        "49721"
+      ]
+    },
+    {
+      "name": "CRAWFORD COUNTY LIBRARY",
+      "system": "CRAWFORD COUNTY LIBRARY",
+      "address": "201 PLUM STREET, GRAYLING, MI",
+      "website": "https://crawfordcountylibrarydistrict.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49733",
+        "49738",
+        "65441",
+        "65446",
+        "65449",
+        "65453",
+        "65456",
+        "65535",
+        "65565"
       ]
     },
     {
@@ -208,10 +133,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49705",
-        "49749",
-        "49761",
-        "49792",
-        "497XX"
+        "49749"
       ]
     },
     {
@@ -222,7 +144,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49713",
         "49727"
       ]
     },
@@ -230,19 +151,14 @@
       "name": "MACKINAC ISLAND PUBLIC LIBRARY",
       "system": "MACKINAC ISLAND PUBLIC LIBRARY",
       "address": "7549 MAIN STREET, MACKINAC ISLAND, MI",
-      "website": "https://mackinacislandlibrary.org/",
+      "website": "http://www.uproc.lib.mi.us/mackisle",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "49719",
         "49745",
         "49757",
-        "49760",
-        "49762",
-        "49775",
-        "49820",
-        "49827",
-        "49838"
+        "49775"
       ]
     },
     {
@@ -254,13 +170,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49701",
-        "49716",
         "49718",
-        "49722",
-        "49740",
-        "49755",
-        "49764",
-        "49769"
+        "49755"
       ]
     },
     {
@@ -297,13 +208,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49716",
-        "49718",
         "49722",
         "49740",
-        "49755",
         "49764",
-        "49769",
         "49770"
       ]
     },
@@ -327,15 +234,12 @@
       "name": "SAINT IGNACE PUBLIC LIBRARY",
       "system": "SAINT IGNACE PUBLIC LIBRARY",
       "address": "110 WEST SPRUCE STREET, ST. IGNACE, MI",
-      "website": "https://stignacelibrary.org/",
+      "website": "http://www.uproc.lib.mi.us/Stignace/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49719",
-        "49745",
         "49760",
         "49762",
-        "49775",
         "49781",
         "49820",
         "49827",
@@ -350,11 +254,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49705",
-        "49761",
-        "49791",
-        "49792",
-        "497XX"
+        "49791"
       ]
     },
     {
@@ -365,19 +265,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49710",
-        "49715",
-        "49724",
-        "49725",
-        "49726",
         "49728",
-        "49736",
         "49748",
-        "49752",
         "49768",
-        "49774",
-        "49780",
-        "49788",
         "49793"
       ]
     },
@@ -390,10 +280,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49705",
-        "49761",
-        "49792",
-        "49799",
-        "497XX"
+        "49799"
       ]
     },
     {
@@ -406,10 +293,7 @@
       "zipcodes": [
         "49706",
         "49716",
-        "49718",
         "49722",
-        "49740",
-        "49755",
         "49764",
         "49769"
       ]

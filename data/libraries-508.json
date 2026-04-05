@@ -1,6 +1,60 @@
 {
   "libraries": [
     {
+      "name": "GREENFIELD PUBLIC LIBRARY",
+      "system": "GREENFIELD PUBLIC LIBRARY",
+      "address": "5310 W. LAYTON AVE., GREENFIELD, WI",
+      "website": "https://www.greenfieldpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01301",
+        "01342",
+        "01351",
+        "50849",
+        "53207",
+        "53215",
+        "53219",
+        "53220",
+        "53221",
+        "53227",
+        "53228",
+        "62044",
+        "62081"
+      ]
+    },
+    {
+      "name": "BEDFORD PUBLIC LIBRARY",
+      "system": "BEDFORD PUBLIC LIBRARY",
+      "address": "3 MEETINGHOUSE ROAD, BEDFORD, NH",
+      "website": "https://www.bedlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03101",
+        "03102",
+        "03103",
+        "03109",
+        "03110",
+        "47420",
+        "47421",
+        "47436",
+        "47451",
+        "47462",
+        "47470",
+        "50833",
+        "50848",
+        "76006",
+        "76011",
+        "76012",
+        "76021",
+        "76022",
+        "76040",
+        "76054",
+        "76155"
+      ]
+    },
+    {
       "name": "MATILDA J. GIBSON MEMORIAL LIBRARY",
       "system": "MATILDA J. GIBSON MEMORIAL LIBRARY",
       "address": "200 W HOWARD ST, CRESTON, IA",
@@ -40,9 +94,6 @@
       "formUrl": "https://www.lenox.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50833",
-        "50836",
-        "50848",
         "50851",
         "50862"
       ]
@@ -56,8 +107,25 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50841",
-        "50857",
-        "50859"
+        "50857"
+      ]
+    },
+    {
+      "name": "PRESCOTT PUBLIC LIBRARY",
+      "system": "PRESCOTT PUBLIC LIBRARY",
+      "address": "607 2ND ST, PRESCOTT, IA",
+      "website": "http://www.prescottlibrary.info/",
+      "formUrl": "https://prescottlibrary.info/books-movies-and-more/beyond-the-catalog/suggest-a-purchase/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "50859",
+        "54021",
+        "85332",
+        "85362",
+        "86303",
+        "86321",
+        "86332",
+        "86343"
       ]
     },
     {
@@ -81,10 +149,37 @@
       "formUrl": "https://www.villisca.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50847",
-        "50864",
-        "51566",
-        "51573"
+        "50864"
+      ]
+    },
+    {
+      "name": "CUMBERLAND PUBLIC LIBRARY",
+      "system": "CUMBERLAND PUBLIC LIBRARY",
+      "address": "119 MAIN, CUMBERLAND, IA",
+      "website": "https://www.cumberlandlibrary.org/",
+      "formUrl": "https://www.cumberlandlibrary.org/resources/materials-selection-collection-development-policy/appendix-d-request-reconsideration",
+      "formStatus": "verified",
+      "zipcodes": [
+        "02838",
+        "02863",
+        "02864",
+        "02865",
+        "50274",
+        "50843"
+      ]
+    },
+    {
+      "name": "MASSENA PUBLIC LIBRARY",
+      "system": "MASSENA PUBLIC LIBRARY",
+      "address": "122 MAIN ST, MASSENA, IA",
+      "website": "https://massenapubliclibrary.org/",
+      "formUrl": "https://massenapubliclibrary.org/interlibrary-loans/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "12967",
+        "13613",
+        "13662",
+        "50853"
       ]
     },
     {
@@ -95,10 +190,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50833",
         "50836",
         "50840",
-        "50848",
         "50862"
       ]
     },
@@ -110,7 +203,6 @@
       "formUrl": "https://www.orient.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50837",
         "50849",
         "50858"
       ]
@@ -124,39 +216,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50847",
-        "51532",
-        "51566",
-        "51573"
-      ]
-    },
-    {
-      "name": "LEWIS PUBLIC LIBRARY",
-      "system": "LEWIS PUBLIC LIBRARY",
-      "address": "412 W MAIN ST, LEWIS, IA",
-      "website": "https://www.countyoffice.org/lewis-public-library-lewis-ia-eae/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50274",
-        "50843",
-        "50853",
-        "51544",
-        "51552"
-      ]
-    },
-    {
-      "name": "GRISWOLD PUBLIC LIBRARY",
-      "system": "GRISWOLD PUBLIC LIBRARY",
-      "address": "505 MAIN ST, GRISWOLD, IA",
-      "website": "https://www.griswoldpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50274",
-        "50843",
-        "50853",
-        "51535",
-        "51552"
+        "51532"
       ]
     },
     {
@@ -167,54 +227,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50833",
-        "50836",
         "50848",
-        "50862",
         "51646"
-      ]
-    },
-    {
-      "name": "ADAIR PUBLIC LIBRARY",
-      "system": "ADAIR PUBLIC LIBRARY",
-      "address": "310 AUDUBON, ADAIR, IA",
-      "website": "https://www.adair.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50002",
-        "50837",
-        "50849"
-      ]
-    },
-    {
-      "name": "ANITA PUBLIC LIBRARY",
-      "system": "ANITA PUBLIC LIBRARY",
-      "address": "812 3RD ST, ANITA, IA",
-      "website": "https://www.anitalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50020",
-        "50274",
-        "50843",
-        "50853",
-        "51552"
-      ]
-    },
-    {
-      "name": "ATLANTIC PUBLIC LIBRARY",
-      "system": "ATLANTIC PUBLIC LIBRARY",
-      "address": "507 POPLAR ST, ATLANTIC, IA",
-      "website": "https://www.atlantic.lib.ia.us/",
-      "formUrl": "https://www.atlantic.lib.ia.us/request-for-purchase.html",
-      "formStatus": "verified",
-      "zipcodes": [
-        "50022",
-        "50274",
-        "50843",
-        "50853",
-        "51552"
       ]
     }
   ]

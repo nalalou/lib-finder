@@ -1,39 +1,103 @@
 {
   "libraries": [
     {
-      "name": "ATLANTA PUBLIC LIBRARY DISTRICT",
-      "system": "ATLANTA PUBLIC LIBRARY DISTRICT",
-      "address": "100 RACE STREET, ATLANTA, IL",
-      "website": "http://www.atlantapld.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "name": "WINCHESTER PUBLIC LIBRARY",
+      "system": "WINCHESTER PUBLIC LIBRARY",
+      "address": "2117 LAKE ST., WINCHESTER, WI",
+      "website": "https://www.winpublib.org/",
+      "formUrl": "https://www.minlib.net/services#suggest-purchase",
+      "formStatus": "verified",
       "zipcodes": [
-        "61723",
-        "62512",
-        "62518",
-        "62519",
-        "62541",
-        "62543",
-        "62635",
-        "62643",
-        "62666",
-        "62671"
+        "01890",
+        "54557",
+        "62610",
+        "62663",
+        "62694",
+        "66097"
       ]
     },
     {
       "name": "RUSHVILLE PUBLIC LIBRARY",
       "system": "RUSHVILLE PUBLIC LIBRARY",
-      "address": "514 MAPLE AVE, RUSHVILLE, IL",
+      "address": "130 WEST THIRD STREET, RUSHVILLE, IN",
       "website": "https://rushvilleillinois.us/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "46104",
+        "46127",
+        "46150",
+        "46155",
+        "46156",
+        "46173",
+        "61452",
+        "62319",
+        "62344",
+        "62624",
+        "62639",
         "62681",
         "69335",
         "69340",
-        "69351",
         "69360",
         "69365"
+      ]
+    },
+    {
+      "name": "JACKSONVILLE PUBLIC LIBRARY",
+      "system": "JACKSONVILLE PUBLIC LIBRARY",
+      "address": "303 LAURA STREET NORTH, JACKSONVILLE, FL",
+      "website": "http://www.jaxpubliclibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "32202",
+        "32204",
+        "32205",
+        "32206",
+        "32207",
+        "32208",
+        "32209",
+        "32210",
+        "32211",
+        "32212",
+        "32216",
+        "32217",
+        "32218",
+        "32219",
+        "32220",
+        "32221",
+        "32222",
+        "32223",
+        "32224",
+        "32225",
+        "32226",
+        "32227",
+        "32233",
+        "32234",
+        "32244",
+        "32246",
+        "32250",
+        "32254",
+        "32256",
+        "32257",
+        "32258",
+        "32266",
+        "32277",
+        "36205",
+        "36206",
+        "36250",
+        "36265",
+        "36277",
+        "36279",
+        "62601",
+        "62628",
+        "62631",
+        "62650",
+        "62668",
+        "62695",
+        "75759",
+        "75764",
+        "75766"
       ]
     },
     {
@@ -45,21 +109,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62014",
-        "62023",
-        "62063",
-        "62069",
-        "62079",
-        "62085",
-        "62088",
-        "62093",
-        "62511",
-        "62630",
-        "62649",
-        "62667",
-        "62672",
-        "62674",
-        "62685",
-        "62686"
+        "62685"
       ]
     },
     {
@@ -72,72 +122,30 @@
       "zipcodes": [
         "62023",
         "62033",
-        "62063",
-        "62069",
-        "62079",
         "62085",
-        "62088",
         "62093",
-        "62511",
-        "62630",
-        "62649",
-        "62667",
-        "62672",
-        "62674",
-        "62685",
-        "62686"
+        "62685"
       ]
     },
     {
-      "name": "BRIGHTON MEMORIAL LIBRARY DISTRICT",
-      "system": "BRIGHTON MEMORIAL LIBRARY DISTRICT",
-      "address": "110 NORTH MAIN STREET, BRIGHTON, IL",
-      "website": "https://brightonpubliclibrary.org/",
+      "name": "LINCOLN LIBRARY",
+      "system": "LINCOLN LIBRARY",
+      "address": "326 SOUTH SEVENTH STREET, SPRINGFIELD, IL",
+      "website": "https://directory.sckls.info/library/?show=78",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62012",
-        "62023",
-        "62063",
-        "62069",
-        "62079",
-        "62085",
-        "62088",
-        "62093",
-        "62511",
-        "62630",
-        "62649",
-        "62667",
-        "62672",
-        "62674",
-        "62685",
-        "62686"
-      ]
-    },
-    {
-      "name": "FRANK BERTETTI BENLD PUBLIC LIBRARY",
-      "system": "FRANK BERTETTI BENLD PUBLIC LIBRARY",
-      "address": "308 EAST CENTRAL AVENUE, BENLD, IL",
-      "website": "https://www.benldlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62009",
-        "62023",
-        "62063",
-        "62069",
-        "62079",
-        "62085",
-        "62088",
-        "62093",
-        "62511",
-        "62630",
-        "62649",
-        "62667",
-        "62672",
-        "62674",
-        "62685",
-        "62686"
+        "62625",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
+        "67065",
+        "67071",
+        "67104",
+        "67138",
+        "67143"
       ]
     },
     {
@@ -148,10 +156,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62611",
-        "62612",
-        "62627",
-        "626HH"
+        "62612"
       ]
     },
     {
@@ -162,21 +167,9 @@
       "formUrl": "https://www.auburnpubliclibraryil.org/",
       "formStatus": "verified",
       "zipcodes": [
-        "62520",
-        "62536",
-        "62545",
-        "62558",
         "62615",
-        "62625",
         "62661",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
+        "62689"
       ]
     },
     {
@@ -188,9 +181,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62611",
-        "62618",
-        "62627",
-        "626HH"
+        "62618"
       ]
     },
     {
@@ -201,9 +192,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62610",
         "62621",
-        "62663",
         "62694"
       ]
     },
@@ -215,22 +204,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62023",
-        "62063",
-        "62069",
-        "62079",
-        "62085",
-        "62088",
-        "62093",
-        "62511",
         "62626",
         "62630",
         "62649",
-        "62667",
-        "62672",
-        "62674",
-        "62685",
-        "62686"
+        "62672"
       ]
     },
     {
@@ -241,21 +218,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62520",
         "62536",
-        "62545",
-        "62558",
-        "62625",
         "62629",
         "62661",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
         "62703",
-        "62704",
-        "62707",
-        "627HH"
+        "62704"
       ]
     },
     {
@@ -266,16 +233,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62512",
-        "62518",
         "62519",
         "62541",
-        "62543",
         "62634",
-        "62635",
-        "62643",
-        "62666",
-        "62671"
+        "62666"
       ]
     },
     {
@@ -286,22 +247,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62023",
-        "62063",
-        "62069",
-        "62079",
-        "62085",
-        "62088",
-        "62093",
-        "62511",
-        "62630",
         "62640",
-        "62649",
         "62667",
         "62672",
-        "62674",
-        "62685",
-        "62686"
+        "62674"
       ]
     },
     {
@@ -312,13 +261,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61532",
         "61567",
         "62617",
-        "62633",
         "62644",
-        "62655",
-        "62682"
+        "62655"
       ]
     },
     {
@@ -330,14 +276,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62512",
-        "62518",
-        "62519",
-        "62541",
-        "62543",
         "62635",
         "62643",
         "62656",
-        "62666",
         "62671"
       ]
     },
@@ -349,15 +290,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62601",
         "62628",
-        "62631",
-        "62638",
-        "62650",
-        "62665",
-        "62668",
-        "62692",
-        "62695"
+        "62665"
       ]
     },
     {
@@ -368,13 +302,37 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61532",
-        "61567",
-        "62617",
         "62633",
-        "62655",
         "62664",
         "62682"
+      ]
+    },
+    {
+      "name": "PETERSBURG PUBLIC LIBRARY",
+      "system": "PETERSBURG PUBLIC LIBRARY",
+      "address": "220 SOUTH SIXTH STREET, PETERSBURG, IL",
+      "website": "https://ci.petersburg.ne.us/our-community/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23801",
+        "23803",
+        "23805",
+        "23830",
+        "23833",
+        "23840",
+        "23841",
+        "23842",
+        "23875",
+        "23882",
+        "23885",
+        "62642",
+        "62673",
+        "62675",
+        "62688",
+        "68620",
+        "68652",
+        "99833"
       ]
     },
     {
@@ -385,21 +343,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62023",
-        "62063",
-        "62069",
-        "62079",
-        "62085",
-        "62088",
-        "62093",
-        "62511",
-        "62630",
-        "62649",
-        "62667",
         "62672",
-        "62674",
-        "62685",
-        "62686",
         "62690"
       ]
     },
@@ -411,29 +355,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62611",
         "62627",
-        "62691",
-        "626HH"
+        "62691"
       ]
     },
     {
       "name": "WAVERLY PUBLIC LIBRARY",
       "system": "WAVERLY PUBLIC LIBRARY",
-      "address": "1500 W BREMER AVE, WAVERLY, IA",
+      "address": "291 NORTH PEARL STREET, WAVERLY, IL",
       "website": "https://www.waverlyil.com/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "50677",
-        "62601",
-        "62628",
-        "62631",
         "62638",
-        "62650",
-        "62668",
-        "62692",
-        "62695"
+        "62692"
       ]
     },
     {
@@ -444,21 +380,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62520",
-        "62536",
-        "62545",
-        "62558",
         "62625",
-        "62661",
-        "62677",
         "62684",
-        "62689",
-        "62701",
         "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
+        "62707"
       ]
     },
     {
@@ -470,10 +395,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62613",
-        "62642",
-        "62673",
-        "62675",
-        "62688"
+        "62642"
       ]
     },
     {
@@ -484,21 +406,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62520",
-        "62536",
-        "62545",
-        "62558",
         "62625",
-        "62661",
-        "62677",
-        "62689",
-        "62693",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
+        "62693"
       ]
     },
     {
@@ -509,21 +418,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62520",
-        "62536",
-        "62545",
-        "62558",
-        "62625",
         "62661",
         "62670",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
+        "62677"
       ]
     },
     {
@@ -534,158 +431,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62520",
         "62530",
         "62536",
-        "62545",
-        "62558",
-        "62625",
-        "62661",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
-      ]
-    },
-    {
-      "name": "ILLIOPOLIS/NIANTIC PUBLIC LIBRARY DISTRICT",
-      "system": "ILLIOPOLIS/NIANTIC PUBLIC LIBRARY DISTRICT",
-      "address": "401 SIXTH AND MARY STREET, ILLIOPOLIS, IL",
-      "website": "https://www.illiopolisniantic.lib.il.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62520",
-        "62536",
-        "62539",
-        "62545",
-        "62558",
-        "62625",
-        "62661",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
-      ]
-    },
-    {
-      "name": "MOUNT PULASKI PUBLIC LIBRARY DISTRICT",
-      "system": "MOUNT PULASKI PUBLIC LIBRARY DISTRICT",
-      "address": "320 NORTH WASHINGTON STREET, MOUNT PULASKI, IL",
-      "website": "https://mplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62512",
-        "62518",
-        "62519",
-        "62541",
-        "62543",
-        "62548",
-        "62635",
-        "62643",
-        "62666",
-        "62671"
-      ]
-    },
-    {
-      "name": "ROCHESTER PUBLIC LIBRARY DISTRICT",
-      "system": "ROCHESTER PUBLIC LIBRARY DISTRICT",
-      "address": "1 COMMUNITY DRIVE, ROCHESTER, IL",
-      "website": "https://www.rochesterlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62520",
-        "62536",
-        "62545",
-        "62558",
-        "62563",
-        "62625",
-        "62661",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
-      ]
-    },
-    {
-      "name": "RIVERTON VILLAGE LIBRARY",
-      "system": "RIVERTON VILLAGE LIBRARY",
-      "address": "1200 EAST RIVERTON ROAD, RIVERTON, IL",
-      "website": "https://www.rivertonvillagelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62520",
-        "62536",
-        "62545",
-        "62558",
-        "62561",
-        "62625",
-        "62661",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
-      ]
-    },
-    {
-      "name": "TRI-CITY PUBLIC LIBRARY DISTRICT",
-      "system": "TRI-CITY PUBLIC LIBRARY DISTRICT",
-      "address": "600 SOUTH MAIN STREET, BUFFALO, IL",
-      "website": "https://www.tricitylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62515",
-        "62520",
-        "62536",
-        "62545",
-        "62558",
-        "62625",
-        "62661",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
-      ]
-    },
-    {
-      "name": "FORMAN VALLEY PUBLIC LIBRARY DISTRICT",
-      "system": "FORMAN VALLEY PUBLIC LIBRARY DISTRICT",
-      "address": "404 1/2 SOUTH HARRISON STREET, MANITO, IL",
-      "website": "https://formanvalleylibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61532",
-        "61546",
-        "61567",
-        "62617",
-        "62633",
-        "62655",
-        "62682"
+        "62689"
       ]
     }
   ]

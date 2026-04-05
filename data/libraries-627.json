@@ -1,28 +1,24 @@
 {
   "libraries": [
     {
-      "name": "AUBURN PUBLIC LIBRARY DISTRICT",
-      "system": "AUBURN PUBLIC LIBRARY DISTRICT",
-      "address": "338 WEST JEFFERSON STREET, AUBURN, IL",
-      "website": "https://www.auburnpubliclibraryil.org/",
-      "formUrl": "https://www.auburnpubliclibraryil.org/",
-      "formStatus": "verified",
+      "name": "LINCOLN LIBRARY",
+      "system": "LINCOLN LIBRARY",
+      "address": "326 SOUTH SEVENTH STREET, SPRINGFIELD, IL",
+      "website": "https://directory.sckls.info/library/?show=78",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
-        "62520",
-        "62536",
-        "62545",
-        "62558",
-        "62615",
         "62625",
-        "62661",
-        "62677",
-        "62689",
         "62701",
         "62702",
         "62703",
         "62704",
         "62707",
-        "627HH"
+        "67065",
+        "67071",
+        "67104",
+        "67138",
+        "67143"
       ]
     },
     {
@@ -33,21 +29,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62520",
         "62536",
-        "62545",
-        "62558",
-        "62625",
         "62629",
         "62661",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
         "62703",
-        "62704",
-        "62707",
-        "627HH"
+        "62704"
       ]
     },
     {
@@ -58,121 +44,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "62520",
-        "62536",
-        "62545",
-        "62558",
         "62625",
-        "62661",
-        "62677",
         "62684",
-        "62689",
-        "62701",
         "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
-      ]
-    },
-    {
-      "name": "WILLIAMSVILLE PUBLIC LIBRARY AND MUSEUM",
-      "system": "WILLIAMSVILLE PUBLIC LIBRARY AND MUSEUM",
-      "address": "217 NORTH ELM STREET, WILLIAMSVILLE, IL",
-      "website": "https://www.williamsvillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62520",
-        "62536",
-        "62545",
-        "62558",
-        "62625",
-        "62661",
-        "62677",
-        "62689",
-        "62693",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
-      ]
-    },
-    {
-      "name": "WEST SANGAMON PUBLIC LIBRARY DISTRICT",
-      "system": "WEST SANGAMON PUBLIC LIBRARY DISTRICT",
-      "address": "112 EAST ILLINOIS STREET, NEW BERLIN, IL",
-      "website": "https://librarylearning.org/west-sangamon-public-library-district",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62520",
-        "62536",
-        "62545",
-        "62558",
-        "62625",
-        "62661",
-        "62670",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
-      ]
-    },
-    {
-      "name": "DIVERNON TOWNSHIP LIBRARY",
-      "system": "DIVERNON TOWNSHIP LIBRARY",
-      "address": "221 SOUTH SECOND STREET, DIVERNON, IL",
-      "website": "https://divernontownshiplibrary.org/about-us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62520",
-        "62530",
-        "62536",
-        "62545",
-        "62558",
-        "62625",
-        "62661",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
-      ]
-    },
-    {
-      "name": "ILLIOPOLIS/NIANTIC PUBLIC LIBRARY DISTRICT",
-      "system": "ILLIOPOLIS/NIANTIC PUBLIC LIBRARY DISTRICT",
-      "address": "401 SIXTH AND MARY STREET, ILLIOPOLIS, IL",
-      "website": "https://www.illiopolisniantic.lib.il.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62520",
-        "62536",
-        "62539",
-        "62545",
-        "62558",
-        "62625",
-        "62661",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
+        "62707"
       ]
     },
     {
@@ -184,20 +59,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62520",
-        "62536",
         "62545",
-        "62558",
         "62563",
-        "62625",
-        "62661",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
         "62703",
-        "62704",
-        "62707",
-        "627HH"
+        "62704"
       ]
     },
     {
@@ -209,45 +74,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "62520",
-        "62536",
-        "62545",
-        "62558",
         "62561",
-        "62625",
-        "62661",
-        "62677",
-        "62689",
-        "62701",
         "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
-      ]
-    },
-    {
-      "name": "TRI-CITY PUBLIC LIBRARY DISTRICT",
-      "system": "TRI-CITY PUBLIC LIBRARY DISTRICT",
-      "address": "600 SOUTH MAIN STREET, BUFFALO, IL",
-      "website": "https://www.tricitylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "62515",
-        "62520",
-        "62536",
-        "62545",
-        "62558",
-        "62625",
-        "62661",
-        "62677",
-        "62689",
-        "62701",
-        "62702",
-        "62703",
-        "62704",
-        "62707",
-        "627HH"
+        "62707"
       ]
     }
   ]

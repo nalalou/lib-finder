@@ -1,6 +1,45 @@
 {
   "libraries": [
     {
+      "name": "HUMBOLDT COUNTY LIBRARY",
+      "system": "HUMBOLDT COUNTY LIBRARY",
+      "address": "85 EAST 5TH STREET, WINNEMUCCA, NV",
+      "website": "https://humboldtgov.org/1518/Eureka-Main-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "89404",
+        "89414",
+        "89421",
+        "89425",
+        "89426",
+        "89445",
+        "89820",
+        "95503",
+        "95511",
+        "95514",
+        "95519",
+        "95521",
+        "95524",
+        "95525",
+        "95526",
+        "95528",
+        "95537",
+        "95546",
+        "95549",
+        "95550",
+        "95551",
+        "95554",
+        "95555",
+        "95556",
+        "95559",
+        "95564",
+        "95569",
+        "95570",
+        "95573"
+      ]
+    },
+    {
       "name": "MYBRARY",
       "system": "MYBRARY",
       "address": "720 COURT STREET, ELKO, NV",
@@ -9,11 +48,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "89801",
-        "89803",
         "89815",
+        "89821",
         "89822",
         "89823",
-        "89824",
         "89825",
         "89826",
         "89828",
@@ -23,8 +61,7 @@
         "89833",
         "89834",
         "89835",
-        "89883",
-        "898XX"
+        "89883"
       ]
     }
   ]

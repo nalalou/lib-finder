@@ -1,111 +1,6 @@
 {
   "libraries": [
     {
-      "name": "WILLIAM E. DERMODY FREE PUBLIC LIBRARY",
-      "system": "WILLIAM E. DERMODY FREE PUBLIC LIBRARY",
-      "address": "420 HACKENSACK STREET, CARLSTADT, NJ",
-      "website": "https://carlstadtlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07072",
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "CLIFFSIDE PARK FREE PUBLIC LIBRARY",
-      "system": "CLIFFSIDE PARK FREE PUBLIC LIBRARY",
-      "address": "505 PALISADE AVENUE, CLIFFSIDE PARK, NJ",
-      "website": "https://cliffsideparklibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07010",
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "EAST RUTHERFORD MEMORIAL LIBRARY",
-      "system": "EAST RUTHERFORD MEMORIAL LIBRARY",
-      "address": "143 BOILING SPRINGS AVENUE, EAST RUTHERFORD, NJ",
-      "website": "https://eastrutherford.bccls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07073",
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "EDGEWATER FREE PUBLIC LIBRARY",
-      "system": "EDGEWATER FREE PUBLIC LIBRARY",
-      "address": "49 HUDSON AVENUE, EDGEWATER, NJ",
-      "website": "https://edgewaterlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07020",
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "FAIRVIEW FREE PUBLIC LIBRARY",
-      "system": "FAIRVIEW FREE PUBLIC LIBRARY",
-      "address": "213 ANDERSON AVENUE, FAIRVIEW, NJ",
-      "website": "https://fairviewlibrarynj.org/en/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07022",
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
       "name": "FORT LEE FREE PUBLIC LIBRARY",
       "system": "FORT LEE FREE PUBLIC LIBRARY",
       "address": "320 MAIN STREET, FORT LEE, NJ",
@@ -114,121 +9,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "07024",
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "GARFIELD FREE PUBLIC LIBRARY",
-      "system": "GARFIELD FREE PUBLIC LIBRARY",
-      "address": "500 MIDLAND AVENUE, GARFIELD, NJ",
-      "website": "https://garfieldnjbccls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07026",
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "LYNDHURST FREE PUBLIC LIBRARY",
-      "system": "LYNDHURST FREE PUBLIC LIBRARY",
-      "address": "355 VALLEY BROOK AVENUE, LYNDHURST, NJ",
-      "website": "https://lyndhurstlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07071",
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "NORTH ARLINGTON PUBLIC LIBRARY",
-      "system": "NORTH ARLINGTON PUBLIC LIBRARY",
-      "address": "210 RIDGE ROAD, NORTH ARLINGTON, NJ",
-      "website": "https://northarlingtonlibrary.org/",
-      "formUrl": "https://northarlingtonlibrary.org/suggest-an-item/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "07031",
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "RUTHERFORD FREE PUBLIC LIBRARY",
-      "system": "RUTHERFORD FREE PUBLIC LIBRARY",
-      "address": "150 PARK AVENUE, RUTHERFORD, NJ",
-      "website": "https://rutherfordlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07070",
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "JOHN F. KENNEDY MEMORIAL LIBRARY",
-      "system": "JOHN F. KENNEDY MEMORIAL LIBRARY",
-      "address": "92 HATHAWAY STREET, WALLINGTON, NJ",
-      "website": "https://www.calstatela.edu/library",
-      "formUrl": "https://www.calstatela.edu/library/library/csu-interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "07057",
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07632"
       ]
     },
     {
@@ -241,36 +22,21 @@
       "zipcodes": [
         "07074",
         "07075",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07608"
       ]
     },
     {
       "name": "NEW MILFORD PUBLIC LIBRARY",
       "system": "NEW MILFORD PUBLIC LIBRARY",
-      "address": "200 DAHLIA AVENUE, NEW MILFORD, NJ",
+      "address": "24 MAIN ST., NEW MILFORD, CT",
       "website": "https://nmplnj.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07646",
-        "07648",
-        "076HH"
+        "06755",
+        "06776",
+        "06785",
+        "07646"
       ]
     },
     {
@@ -281,17 +47,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
         "07621",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07646"
       ]
     },
     {
@@ -302,17 +59,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07603",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07603"
       ]
     },
     {
@@ -323,17 +70,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
         "07620",
-        "07624",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07624"
       ]
     },
     {
@@ -344,17 +82,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
         "07620",
-        "07626",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07626"
       ]
     },
     {
@@ -365,17 +94,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
         "07620",
-        "07627",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07627"
       ]
     },
     {
@@ -386,37 +106,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07628",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07628"
       ]
     },
     {
       "name": "EMERSON PUBLIC LIBRARY",
       "system": "EMERSON PUBLIC LIBRARY",
-      "address": "205 WEST 3RD, EMERSON, NE",
+      "address": "20 PALISADE AVENUE, EMERSON, NJ",
       "website": "https://www.emersonlibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
         "07630",
-        "07632",
-        "07648",
-        "076HH",
+        "51533",
+        "51540",
+        "51541",
         "68733"
       ]
     },
@@ -428,17 +132,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
         "07631",
-        "07632",
-        "07648",
-        "076HH"
+        "07632"
       ]
     },
     {
@@ -449,17 +144,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07601",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07601"
       ]
     },
     {
@@ -470,17 +155,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07640",
-        "07648",
-        "076HH"
+        "07640"
       ]
     },
     {
@@ -491,17 +166,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
         "07604",
         "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07608"
       ]
     },
     {
@@ -512,17 +179,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07641",
-        "07648",
-        "076HH"
+        "07641"
       ]
     },
     {
@@ -533,17 +190,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07642",
-        "07648",
-        "076HH"
+        "07642"
       ]
     },
     {
@@ -554,17 +201,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07605",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07605"
       ]
     },
     {
@@ -576,16 +213,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "07074",
-        "070HH",
-        "07436",
         "07606",
         "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07643",
-        "07648",
-        "076HH"
+        "07643"
       ]
     },
     {
@@ -596,17 +226,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07644",
-        "07648",
-        "076HH"
+        "07644"
       ]
     },
     {
@@ -617,17 +237,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07607",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07607"
       ]
     },
     {
@@ -638,17 +248,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07645",
-        "07648",
-        "076HH"
+        "07645"
       ]
     },
     {
@@ -659,17 +259,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07647",
+        "07647"
+      ]
+    },
+    {
+      "name": "NORWOOD PUBLIC LIBRARY",
+      "system": "NORWOOD PUBLIC LIBRARY",
+      "address": "198 SUMMIT STREET, NORWOOD, NJ",
+      "website": "https://www.nplnj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
         "07648",
-        "076HH"
+        "13668",
+        "13697",
+        "19043",
+        "19074"
       ]
     },
     {
@@ -680,17 +285,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07675",
-        "076HH"
+        "07675"
       ]
     },
     {
@@ -701,17 +296,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07649",
-        "076HH"
+        "07649"
       ]
     },
     {
@@ -722,17 +307,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07650",
-        "076HH"
+        "07650"
       ]
     },
     {
@@ -743,17 +318,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07652",
-        "076HH"
+        "07652"
       ]
     },
     {
@@ -764,17 +329,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07656",
-        "076HH"
+        "07656"
       ]
     },
     {
@@ -785,17 +340,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07657",
-        "076HH"
+        "07657"
       ]
     },
     {
@@ -806,17 +351,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
         "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07660",
-        "076HH"
+        "07660"
       ]
     },
     {
@@ -827,17 +363,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07661",
-        "076HH"
+        "07646",
+        "07661"
       ]
     },
     {
@@ -848,17 +375,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07675",
-        "076HH"
+        "07675"
       ]
     },
     {
@@ -869,17 +386,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07662",
-        "076HH"
+        "07662"
       ]
     },
     {
@@ -890,17 +397,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07663",
-        "076HH"
+        "07663"
       ]
     },
     {
@@ -911,17 +408,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07666",
-        "076HH"
+        "07666"
       ]
     },
     {
@@ -932,17 +419,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
         "07632",
-        "07648",
-        "07670",
-        "076HH"
+        "07670"
       ]
     },
     {
@@ -953,17 +431,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07676",
-        "076HH"
+        "07676"
       ]
     },
     {
@@ -974,290 +442,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "07675",
-        "076HH"
-      ]
-    },
-    {
-      "name": "LEE MEMORIAL LIBRARY",
-      "system": "LEE MEMORIAL LIBRARY",
-      "address": "500 W. CRESCENT AVENUE, ALLENDALE, NJ",
-      "website": "https://www.leememoriallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07401",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "ELMWOOD PARK FREE PUBLIC LIBRARY",
-      "system": "ELMWOOD PARK FREE PUBLIC LIBRARY",
-      "address": "210 LEE STREET, ELMWOOD PARK, NJ",
-      "website": "https://elmwoodparknj.us/about-elmwood-park/elmwood-park-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07407",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "MAURICE M. PINE FREE PUBLIC LIBRARY",
-      "system": "MAURICE M. PINE FREE PUBLIC LIBRARY",
-      "address": "10-01 FAIR LAWN AVENUE, FAIR LAWN, NJ",
-      "website": "https://www.fairlawnlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07410",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "FRANKLIN LAKES FREE PUBLIC LIBRARY",
-      "system": "FRANKLIN LAKES FREE PUBLIC LIBRARY",
-      "address": "470 DEKORTE DRIVE, FRANKLIN LAKES, NJ",
-      "website": "https://franklinlakeslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07417",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "GLEN ROCK PUBLIC LIBRARY",
-      "system": "GLEN ROCK PUBLIC LIBRARY",
-      "address": "315 ROCK ROAD, GLEN ROCK, NJ",
-      "website": "https://www.glenrocklibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07452",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "WORTH PINKHAM MEMORIAL LIBRARY",
-      "system": "WORTH PINKHAM MEMORIAL LIBRARY",
-      "address": "91 WARREN AVENUE, HO-HO-KUS, NJ",
-      "website": "https://www.hohokuslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07423",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "MAHWAH FREE PUBLIC LIBRARY",
-      "system": "MAHWAH FREE PUBLIC LIBRARY",
-      "address": "100 RIDGE ROAD, MAHWAH TOWNSHIP, NJ",
-      "website": "https://www.mahwahlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07430",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "MIDLAND PARK MEMORIAL LIBRARY",
-      "system": "MIDLAND PARK MEMORIAL LIBRARY",
-      "address": "250 GODWIN AVENUE, MIDLAND PARK, NJ",
-      "website": "https://www.midlandparklibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07432",
-        "07436",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "RAMSEY FREE PUBLIC LIBRARY",
-      "system": "RAMSEY FREE PUBLIC LIBRARY",
-      "address": "30 WYCKOFF AVENUE, RAMSEY, NJ",
-      "website": "https://www.ramseylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07446",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "RIDGEWOOD PUBLIC LIBRARY",
-      "system": "RIDGEWOOD PUBLIC LIBRARY",
-      "address": "125 N. MAPLE AVENUE, RIDGEWOOD, NJ",
-      "website": "https://ridgewoodlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07450",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "UPPER SADDLE RIVER PUBLIC LIBRARY",
-      "system": "UPPER SADDLE RIVER PUBLIC LIBRARY",
-      "address": "245 LAKE STREET, UPPER SADDLE RIVER, NJ",
-      "website": "https://uppersaddleriverlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07458",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "WALDWICK PUBLIC LIBRARY",
-      "system": "WALDWICK PUBLIC LIBRARY",
-      "address": "19 E. PROSPECT STREET, WALDWICK, NJ",
-      "website": "https://www.waldwicklibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07463",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
-      ]
-    },
-    {
-      "name": "WYCKOFF FREE PUBLIC LIBRARY",
-      "system": "WYCKOFF FREE PUBLIC LIBRARY",
-      "address": "200 WOODLAND AVENUE, WYCKOFF, NJ",
-      "website": "https://wyckofflibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "07074",
-        "070HH",
-        "07436",
-        "07481",
-        "07606",
-        "07608",
-        "07620",
-        "07630",
-        "07632",
-        "07648",
-        "076HH"
+        "07675"
       ]
     }
   ]

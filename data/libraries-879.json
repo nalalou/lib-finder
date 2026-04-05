@@ -1,48 +1,19 @@
 {
   "libraries": [
     {
-      "name": "ANTHONY PUBLIC LIBRARY",
-      "system": "ANTHONY PUBLIC LIBRARY",
-      "address": "750 LANDERS RD, ANTHONY, NM",
-      "website": "https://directory.sckls.info/library/44",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "87936",
-        "87940",
-        "87941",
-        "88002",
-        "88003",
-        "88004",
-        "88005",
-        "88008",
-        "88011",
-        "88012",
-        "88021",
-        "88024",
-        "88027",
-        "88033",
-        "88044",
-        "88047",
-        "88048",
-        "88052",
-        "88072"
-      ]
-    },
-    {
       "name": "HATCH PUBLIC LIBRARY",
       "system": "HATCH PUBLIC LIBRARY",
-      "address": "530 E. HALL, HATCH, NM",
+      "address": "111 W. STATE ST., MAUSTON, WI",
       "website": "https://hatchpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "53944",
         "53948",
-        "53962",
-        "54618",
-        "54637",
-        "87937"
+        "87936",
+        "87937",
+        "87940",
+        "87941"
       ]
     },
     {
@@ -61,67 +32,7 @@
         "87939",
         "87942",
         "87943",
-        "879HH",
-        "879XX",
         "88042"
-      ]
-    },
-    {
-      "name": "THOMAS BRANIGAN MEMORIAL LIBRARY",
-      "system": "THOMAS BRANIGAN MEMORIAL LIBRARY",
-      "address": "200 E. PICACHO AVE., LAS CRUCES, NM",
-      "website": "https://lascruces.gov/arts-and-leisure/libraries/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "87936",
-        "87940",
-        "87941",
-        "88001",
-        "88002",
-        "88003",
-        "88004",
-        "88005",
-        "88008",
-        "88011",
-        "88012",
-        "88024",
-        "88027",
-        "88033",
-        "88044",
-        "88047",
-        "88048",
-        "88052",
-        "88072"
-      ]
-    },
-    {
-      "name": "SUNLAND PARK COMMUNITY LIBRARY",
-      "system": "SUNLAND PARK COMMUNITY LIBRARY",
-      "address": "984 MCNUTT RD, SUNLAND PARK, NM",
-      "website": "https://sunlandpark-nm.gov/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "87936",
-        "87940",
-        "87941",
-        "88002",
-        "88003",
-        "88004",
-        "88005",
-        "88008",
-        "88011",
-        "88012",
-        "88024",
-        "88027",
-        "88033",
-        "88044",
-        "88047",
-        "88048",
-        "88052",
-        "88063",
-        "88072"
       ]
     }
   ]

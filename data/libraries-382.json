@@ -1,47 +1,37 @@
 {
   "libraries": [
     {
-      "name": "HUMBOLDT PUBLIC LIBRARY",
-      "system": "HUMBOLDT PUBLIC LIBRARY",
-      "address": "115 S. 16TH AVE., HUMBOLDT, TN",
-      "website": "https://humboldtpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "38233",
-        "38316",
-        "38330",
-        "38343",
-        "38355",
-        "38369"
-      ]
-    },
-    {
       "name": "BENTON COUNTY LIBRARY",
       "system": "BENTON COUNTY LIBRARY",
-      "address": "121 SOUTH FORREST AVENUE, CAMDEN, TN",
+      "address": "247 COURT STREET, ASHLAND, MS",
       "website": "https://www.benton.lib.ms.us/bond-memorial-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "38221",
-        "382HH",
         "38320",
         "38333",
         "38341",
-        "383HH"
+        "38603",
+        "38629",
+        "38633",
+        "38642",
+        "38647",
+        "38663",
+        "38674",
+        "38683"
       ]
     },
     {
       "name": "SHARON PUBLIC LIBRARY",
       "system": "SHARON PUBLIC LIBRARY",
-      "address": "133 MAIN ST., SHARON, TN",
+      "address": "11 NORTH MAIN ST., SHARON, MA",
       "website": "https://sharonpubliclibrary.org/",
       "formUrl": "https://sharonpubliclibrary.org/suggest-a-purchase/",
       "formStatus": "verified",
       "zipcodes": [
-        "38226",
-        "38241",
+        "02032",
+        "02067",
         "38255"
       ]
     },
@@ -87,7 +77,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "38225",
-        "38226",
         "38241"
       ]
     },
@@ -101,7 +90,7 @@
       "zipcodes": [
         "38226",
         "38237",
-        "38241"
+        "38255"
       ]
     },
     {
@@ -112,9 +101,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38030",
-        "38047",
-        "380HH",
         "38259"
       ]
     },
@@ -128,15 +114,7 @@
       "zipcodes": [
         "38201",
         "38220",
-        "38235",
-        "38258",
-        "38317",
-        "38318",
-        "38321",
-        "38342",
-        "38348",
-        "38387",
-        "38390"
+        "38258"
       ]
     },
     {
@@ -147,9 +125,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38226",
-        "38229",
-        "38241"
+        "38229"
       ]
     },
     {
@@ -160,9 +136,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38226",
         "38230",
-        "38241"
+        "38255"
       ]
     },
     {
@@ -173,9 +148,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38220",
         "38235",
-        "38258",
         "38317",
         "38318",
         "38321",
@@ -197,25 +170,8 @@
         "38233",
         "38316",
         "38330",
-        "38355",
         "38369",
         "38382"
-      ]
-    },
-    {
-      "name": "MILDRED G. FIELDS MEMORIAL LIBRARY",
-      "system": "MILDRED G. FIELDS MEMORIAL LIBRARY",
-      "address": "1075A E. VAN HOOK STREET, MILAN, TN",
-      "website": "https://cityofmilantn.com/city-departments/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "38233",
-        "38316",
-        "38330",
-        "38355",
-        "38358",
-        "38369"
       ]
     }
   ]

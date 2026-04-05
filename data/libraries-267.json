@@ -8,15 +8,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26374",
-        "26410",
-        "26425",
-        "26444",
         "26519",
-        "26520",
-        "26525",
-        "26542",
-        "26547",
         "26705",
         "26716",
         "26764"
@@ -31,11 +23,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "26710",
-        "26717",
         "26719",
         "26726",
         "26743",
-        "26750",
         "26753",
         "26767"
       ]
@@ -43,18 +33,24 @@
     {
       "name": "PIEDMONT PUBLIC LIBRARY",
       "system": "PIEDMONT PUBLIC LIBRARY",
-      "address": "1129 STOUT STREET NW, PIEDMONT, OK",
+      "address": "1 CHILDS AVENUE, PIEDMONT, WV",
       "website": "https://www.cityofpiedmont.com/community-profile/page/public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "26710",
         "26717",
-        "26719",
-        "26743",
         "26750",
-        "26753",
-        "26767",
+        "36272",
+        "63763",
+        "63934",
+        "63944",
+        "63951",
+        "63952",
+        "63956",
+        "63957",
+        "63964",
+        "63966",
+        "63967",
         "73078"
       ]
     },
@@ -67,8 +63,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "25431",
-        "25437",
-        "25444",
         "26704",
         "26714",
         "26722",
@@ -76,11 +70,7 @@
         "26757",
         "26761",
         "26763",
-        "26808",
-        "26817",
-        "26823",
-        "26852",
-        "26865"
+        "26852"
       ]
     },
     {
@@ -91,27 +81,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "25431",
         "25437",
         "25444",
         "26704",
         "26711",
-        "26714",
-        "26722",
-        "26755",
-        "26761",
-        "26763",
         "26808",
         "26817",
         "26823",
-        "26852",
         "26865"
       ]
     },
     {
       "name": "GRANT COUNTY PUBLIC LIBRARY",
       "system": "GRANT COUNTY PUBLIC LIBRARY",
-      "address": "18 MT. VIEW STREET, PETERSBURG, WV",
+      "address": "207 EAST PARK AVE, MILBANK, SD",
       "website": "http://grantlib.org/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -120,34 +103,18 @@
         "26720",
         "26731",
         "26739",
-        "267HH",
-        "267XX",
         "26833",
         "26847",
         "26855",
-        "268HH"
-      ]
-    },
-    {
-      "name": "KINGWOOD PUBLIC LIBRARY",
-      "system": "KINGWOOD PUBLIC LIBRARY",
-      "address": "205 WEST MAIN ST, KINGWOOD, WV",
-      "website": "https://kingwoodpubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "26374",
-        "26410",
-        "26425",
-        "26444",
-        "26519",
-        "26520",
-        "26525",
-        "26537",
-        "26542",
-        "26547",
-        "26705",
-        "26716"
+        "57216",
+        "57246",
+        "57251",
+        "57252",
+        "57256",
+        "57259",
+        "57264",
+        "57265",
+        "57269"
       ]
     }
   ]

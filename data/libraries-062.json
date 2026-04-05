@@ -3,12 +3,14 @@
     {
       "name": "THOMPSON PUBLIC LIBRARY",
       "system": "THOMPSON PUBLIC LIBRARY",
-      "address": "934 RIVERSIDE DRIVE, NORTH GROSVENORDALE, CT",
+      "address": "102 JACKSON ST N, THOMPSON, IA",
       "website": "https://thompsonpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "06255",
+        "06262",
+        "06277",
         "50453",
         "50473",
         "50478"
@@ -17,52 +19,45 @@
     {
       "name": "MANSFIELD PUBLIC LIBRARY",
       "system": "MANSFIELD PUBLIC LIBRARY",
-      "address": "54 WARRENVILLE RD., MANSFIELD, CT",
+      "address": "5 MAIN STREET, TEMPLE, NH",
       "website": "https://mansfieldpubliclibraryct.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "02048",
+        "03084",
         "06250",
+        "06268",
+        "06269",
         "76001",
         "76002",
-        "76006",
-        "76011",
-        "76012",
-        "76013",
         "76014",
-        "76015",
-        "76016",
-        "76017",
         "76018",
-        "76021",
-        "76022",
-        "76040",
-        "76054",
-        "76063",
-        "76103",
-        "76104",
-        "76105",
-        "76106",
-        "76107",
-        "76109",
-        "76110",
-        "76111",
-        "76112",
-        "76114",
-        "76115",
-        "76116",
-        "76119",
-        "76120",
-        "76123",
-        "76127",
-        "76131",
-        "76132",
-        "76133",
-        "76134",
-        "76137",
-        "76155",
-        "76177",
-        "761HH"
+        "76063"
+      ]
+    },
+    {
+      "name": "ANDOVER PUBLIC LIBRARY",
+      "system": "ANDOVER PUBLIC LIBRARY",
+      "address": "142 W MAIN ST, ANDOVER, OH",
+      "website": "https://www.andoverconnecticut.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03216",
+        "03233",
+        "03287",
+        "04216",
+        "04226",
+        "04237",
+        "04275",
+        "06231",
+        "06232",
+        "44003",
+        "44032",
+        "44093",
+        "67002",
+        "67017"
       ]
     },
     {
@@ -73,44 +68,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06029",
         "06043",
-        "06231",
-        "06232",
-        "06268",
-        "06269"
-      ]
-    },
-    {
-      "name": "STAFFORD LIBRARY",
-      "system": "STAFFORD LIBRARY",
-      "address": "10 LEVINTHAL RUN, STAFFORD SPRINGS, CT",
-      "website": "https://stafford.biblio.org/eg/opac/home",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06029",
-        "06076",
-        "06231",
-        "06232",
-        "06268",
-        "06269"
-      ]
-    },
-    {
-      "name": "ROCKVILLE PUBLIC LIBRARY, INC.",
-      "system": "ROCKVILLE PUBLIC LIBRARY, INC.",
-      "address": "52 UNION ST., VERNON, CT",
-      "website": "https://www.rockvillepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06029",
-        "06066",
-        "06231",
-        "06232",
-        "06268",
-        "06269"
+        "06232"
       ]
     },
     {
@@ -121,16 +80,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06241",
-        "06256",
-        "06259",
-        "06262",
-        "06277",
-        "06278",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06278"
       ]
     },
     {
@@ -141,16 +91,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06234",
-        "06241",
-        "06256",
-        "06259",
-        "06262",
-        "06277",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06234"
       ]
     },
     {
@@ -161,16 +102,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06235",
-        "06241",
-        "06256",
-        "06259",
-        "06262",
-        "06277",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06235"
       ]
     },
     {
@@ -181,12 +113,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06029",
         "06231",
         "06232",
         "06237",
-        "06268",
-        "06269"
+        "06250"
       ]
     },
     {
@@ -197,12 +127,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06029",
         "06231",
-        "06232",
-        "06248",
-        "06268",
-        "06269"
+        "06248"
       ]
     },
     {
@@ -215,13 +141,6 @@
       "zipcodes": [
         "06239",
         "06241",
-        "06256",
-        "06259",
-        "06262",
-        "06277",
-        "06282",
-        "062HH",
-        "06374",
         "06377"
       ]
     },
@@ -234,16 +153,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "06249",
-        "06333",
-        "06334",
-        "06335",
-        "06336",
-        "06375",
-        "06376",
-        "06379",
-        "06380",
-        "06382",
-        "06385"
+        "06336"
       ]
     },
     {
@@ -255,15 +165,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "06241",
-        "06256",
         "06258",
-        "06259",
-        "06262",
-        "06277",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06259"
       ]
     },
     {
@@ -275,15 +178,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "06230",
-        "06241",
-        "06256",
-        "06259",
-        "06262",
-        "06277",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06259"
       ]
     },
     {
@@ -295,15 +190,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "06241",
-        "06256",
-        "06259",
         "06260",
-        "06262",
-        "06277",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06277"
       ]
     },
     {
@@ -314,16 +202,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06241",
-        "06256",
-        "06259",
-        "06262",
-        "06264",
-        "06277",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06264"
       ]
     },
     {
@@ -334,9 +213,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06029",
-        "06231",
-        "06232",
+        "06084",
         "06268",
         "06269",
         "06279"
@@ -350,16 +227,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06241",
         "06256",
-        "06259",
-        "06262",
-        "06266",
-        "06277",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06266"
       ]
     },
     {
@@ -371,15 +240,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "06226",
-        "06241",
-        "06256",
-        "06259",
-        "06262",
-        "06277",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06256"
       ]
     },
     {
@@ -390,16 +251,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06241",
         "06256",
-        "06259",
-        "06262",
-        "06277",
-        "06280",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06280"
       ]
     },
     {
@@ -410,16 +263,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06241",
-        "06256",
-        "06259",
         "06262",
-        "06277",
         "06281",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06282"
       ]
     },
     {
@@ -430,16 +276,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06241",
-        "06256",
-        "06259",
-        "06262",
+        "06255",
         "06277",
-        "06281",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06281"
       ]
     },
     {
@@ -450,16 +289,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06241",
         "06244",
-        "06256",
-        "06259",
-        "06262",
-        "06277",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06255",
+        "06262"
       ]
     },
     {
@@ -470,16 +302,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06241",
-        "06256",
-        "06259",
-        "06262",
-        "06277",
         "06281",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06282"
       ]
     },
     {
@@ -490,10 +314,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06029",
-        "06231",
-        "06232",
         "06238",
+        "06250",
         "06268",
         "06269"
       ]
@@ -506,16 +328,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06241",
         "06242",
-        "06256",
         "06259",
-        "06262",
-        "06277",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06282"
       ]
     },
     {
@@ -526,16 +341,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "06241",
-        "06247",
-        "06256",
-        "06259",
-        "06262",
-        "06277",
-        "06282",
-        "062HH",
-        "06374",
-        "06377"
+        "06247"
       ]
     },
     {
@@ -547,56 +353,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "06254",
-        "06333",
+        "06330",
         "06334",
-        "06335",
-        "06336",
-        "06375",
-        "06376",
-        "06379",
-        "06380",
-        "06382",
-        "06385"
-      ]
-    },
-    {
-      "name": "CANTERBURY PUBLIC LIBRARY",
-      "system": "CANTERBURY PUBLIC LIBRARY",
-      "address": "1 MUNICIPAL DRIVE, CANTERBURY, CT",
-      "website": "https://www.canterburylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06241",
-        "06256",
-        "06259",
-        "06262",
-        "06277",
-        "06282",
-        "062HH",
-        "06331",
-        "06374",
-        "06377"
-      ]
-    },
-    {
-      "name": "ALDRICH FREE PUBLIC LIBRARY",
-      "system": "ALDRICH FREE PUBLIC LIBRARY",
-      "address": "299 MAIN ST., MOOSUP, CT",
-      "website": "https://www.plainfieldct.org/how_do_i/libraries/index.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "06241",
-        "06256",
-        "06259",
-        "06262",
-        "06277",
-        "06282",
-        "062HH",
-        "06354",
-        "06374",
-        "06377"
+        "06336"
       ]
     }
   ]

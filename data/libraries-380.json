@@ -24,10 +24,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38030",
-        "38047",
-        "38059",
-        "380HH"
+        "38059"
       ]
     },
     {
@@ -84,7 +81,7 @@
     {
       "name": "TIPTON COUNTY PUBLIC LIBRARY",
       "system": "TIPTON COUNTY PUBLIC LIBRARY",
-      "address": "127 EAST MADISON STREET, TIPTON, IN",
+      "address": "3149 HIGHWAY 51 S BLDG.C, COVINGTON, TN",
       "website": "https://www.tiptoncountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -93,9 +90,13 @@
         "38011",
         "38015",
         "38019",
-        "38023",
         "38049",
-        "46072"
+        "46045",
+        "46047",
+        "46049",
+        "46068",
+        "46072",
+        "46076"
       ]
     },
     {
@@ -109,9 +110,7 @@
         "38004",
         "38011",
         "38015",
-        "38019",
         "38023",
-        "38049",
         "38058"
       ]
     },
@@ -137,11 +136,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "38008",
-        "38039",
-        "38042",
-        "38044",
-        "38061",
-        "38067",
         "38381"
       ]
     },
@@ -155,8 +149,7 @@
       "zipcodes": [
         "38024",
         "38030",
-        "38047",
-        "380HH"
+        "38047"
       ]
     },
     {
@@ -170,36 +163,12 @@
         "38017",
         "38018",
         "38028",
-        "38103",
-        "38104",
-        "38105",
-        "38106",
-        "38107",
-        "38108",
-        "38109",
-        "38112",
-        "38114",
         "38115",
-        "38116",
-        "38117",
-        "38118",
         "38119",
         "38120",
-        "38122",
         "38125",
-        "38126",
-        "38127",
-        "38128",
-        "38131",
-        "38132",
-        "38133",
-        "38134",
-        "38135",
-        "38138",
         "38139",
-        "38141",
-        "38157",
-        "381HH"
+        "38141"
       ]
     },
     {
@@ -210,39 +179,10 @@
       "formUrl": "https://millingtonpubliclibrary.org/suggest-a-purchase/",
       "formStatus": "verified",
       "zipcodes": [
-        "38018",
-        "38028",
         "38053",
-        "38103",
-        "38104",
-        "38105",
-        "38106",
-        "38107",
-        "38108",
-        "38109",
-        "38112",
-        "38114",
-        "38115",
-        "38116",
-        "38117",
-        "38118",
-        "38119",
-        "38120",
-        "38122",
-        "38125",
-        "38126",
         "38127",
         "38128",
-        "38131",
-        "38132",
-        "38133",
-        "38134",
-        "38135",
-        "38138",
-        "38139",
-        "38141",
-        "38157",
-        "381HH"
+        "38135"
       ]
     },
     {
@@ -254,38 +194,8 @@
       "formStatus": "verified",
       "zipcodes": [
         "38002",
-        "38018",
         "38028",
-        "38103",
-        "38104",
-        "38105",
-        "38106",
-        "38107",
-        "38108",
-        "38109",
-        "38112",
-        "38114",
-        "38115",
-        "38116",
-        "38117",
-        "38118",
-        "38119",
-        "38120",
-        "38122",
-        "38125",
-        "38126",
-        "38127",
-        "38128",
-        "38131",
-        "38132",
-        "38133",
-        "38134",
-        "38135",
-        "38138",
-        "38139",
-        "38141",
-        "38157",
-        "381HH"
+        "38133"
       ]
     },
     {
@@ -297,8 +207,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "38037",
-        "38040",
-        "38041"
+        "38040"
       ]
     },
     {
@@ -309,13 +218,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38039",
-        "38042",
-        "38044",
-        "38061",
-        "38067",
-        "38075",
-        "38381"
+        "38075"
       ]
     },
     {
@@ -326,87 +229,54 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "38039",
-        "38042",
         "38044",
         "38052",
         "38061",
-        "38067",
-        "38381"
+        "38067"
       ]
     },
     {
       "name": "GRAND JUNCTION PUBLIC LIBRARY",
       "system": "GRAND JUNCTION PUBLIC LIBRARY",
-      "address": "106 E MAIN ST, GRAND JUNCTION, IA",
+      "address": "530 MADISON AVENUE WEST, GRAND JUNCTION, TN",
       "website": "https://www.grandjunction.lib.ia.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "38039",
         "38042",
-        "38044",
-        "38061",
         "38067",
-        "38381",
-        "50107"
+        "50064",
+        "50107",
+        "50129"
       ]
     },
     {
-      "name": "MEMPHIS PUBLIC LIBRARY AND INFORMATION CENTER",
-      "system": "MEMPHIS PUBLIC LIBRARY AND INFORMATION CENTER",
-      "address": "3030 POPLAR AVENUE, MEMPHIS (S), TN",
-      "website": "https://www.memphislibrary.org/",
+      "name": "GERMANTOWN COMMUNITY LIBRARY",
+      "system": "GERMANTOWN COMMUNITY LIBRARY",
+      "address": "1925 EXETER ROAD, GERMANTOWN, TN",
+      "website": "https://germantownlibrarywi.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "38018",
-        "38028",
-        "38103",
-        "38104",
-        "38105",
-        "38106",
-        "38107",
-        "38108",
-        "38109",
-        "38111",
-        "38112",
-        "38114",
         "38115",
-        "38116",
         "38117",
         "38118",
         "38119",
         "38120",
         "38122",
         "38125",
-        "38126",
-        "38127",
-        "38128",
-        "38131",
-        "38132",
         "38133",
         "38134",
-        "38135",
         "38138",
         "38139",
         "38141",
-        "38157",
-        "381HH"
-      ]
-    },
-    {
-      "name": "HAMILTON PARKS PUBLIC LIBRARY",
-      "system": "HAMILTON PARKS PUBLIC LIBRARY",
-      "address": "74 PARKS PLAZA, TRIMBLE, TN",
-      "website": "https://www.hppubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "38030",
-        "38047",
-        "380HH",
-        "38259"
+        "53017",
+        "53022",
+        "53033",
+        "53037",
+        "53076"
       ]
     }
   ]

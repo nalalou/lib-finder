@@ -1,224 +1,46 @@
 {
   "libraries": [
     {
-      "name": "MT. ANGEL PUBLIC LIBRARY",
-      "system": "MT. ANGEL PUBLIC LIBRARY",
-      "address": "290 E CHARLES ST, MOUNT ANGEL, OR",
-      "website": "https://mtangelpubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97002",
-        "97020",
-        "97026",
-        "97032",
-        "97137",
-        "97301",
-        "97302",
-        "97303",
-        "97305",
-        "97306",
-        "97325",
-        "97342",
-        "97346",
-        "97352",
-        "97362",
-        "97375",
-        "97385",
-        "97392"
-      ]
-    },
-    {
-      "name": "SHERIDAN PUBLIC LIBRARY",
-      "system": "SHERIDAN PUBLIC LIBRARY",
-      "address": "109 EAST HAMILTON, SHERIDAN, MT",
-      "website": "https://townofsheridanmt.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59749",
-        "97111",
-        "97115",
-        "97127",
-        "97148",
-        "97378"
-      ]
-    },
-    {
-      "name": "SILVER FALLS LIBRARY DISTRICT",
-      "system": "SILVER FALLS LIBRARY DISTRICT",
-      "address": "410 S WATER ST, SILVERTON, OR",
-      "website": "https://www.silverfallslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97002",
-        "97020",
-        "97026",
-        "97032",
-        "97137",
-        "97301",
-        "97302",
-        "97303",
-        "97305",
-        "97306",
-        "97325",
-        "97342",
-        "97346",
-        "97352",
-        "97375",
-        "97381",
-        "97385",
-        "97392"
-      ]
-    },
-    {
-      "name": "STAYTON PUBLIC LIBRARY",
-      "system": "STAYTON PUBLIC LIBRARY",
-      "address": "515 N FIRST AVE, STAYTON, OR",
-      "website": "https://www.staytonoregon.gov/page/library_home",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97002",
-        "97020",
-        "97026",
-        "97032",
-        "97137",
-        "97301",
-        "97302",
-        "97303",
-        "97305",
-        "97306",
-        "97325",
-        "97342",
-        "97346",
-        "97352",
-        "97375",
-        "97383",
-        "97385",
-        "97392"
-      ]
-    },
-    {
-      "name": "WILLAMINA PUBLIC LIBRARY",
-      "system": "WILLAMINA PUBLIC LIBRARY",
-      "address": "382 NE C ST, WILLAMINA, OR",
-      "website": "https://www.willaminaoregon.gov/departments/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97111",
-        "97115",
-        "97127",
-        "97148",
-        "97378",
-        "97396"
-      ]
-    },
-    {
       "name": "TIGARD PUBLIC LIBRARY",
       "system": "TIGARD PUBLIC LIBRARY",
       "address": "13500 SW HALL BLVD, TIGARD, OR",
-      "website": "https://www.tigard-or.gov/your-government/departments/library",
+      "website": "http://www.tigard-or.gov/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97006",
-        "97008",
-        "97109",
-        "97117",
-        "97119",
-        "97123",
-        "97124",
-        "97125",
-        "97144",
+        "97140",
         "97223",
         "97224"
-      ]
-    },
-    {
-      "name": "CEDAR MILL COMMUNITY LIBRARY",
-      "system": "CEDAR MILL COMMUNITY LIBRARY",
-      "address": "1080 NW SALTZMAN RD, PORTLAND, OR",
-      "website": "https://library.cedarmill.org/location/cedar-mill-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97006",
-        "97008",
-        "97109",
-        "97117",
-        "97119",
-        "97123",
-        "97124",
-        "97125",
-        "97144",
-        "97224",
-        "97229"
-      ]
-    },
-    {
-      "name": "GARDEN HOME COMMUNITY LIBRARY",
-      "system": "GARDEN HOME COMMUNITY LIBRARY",
-      "address": "7475 SW OLESON RD, PORTLAND, OR",
-      "website": "https://www.gardenhomelibrary.org/ghl",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97006",
-        "97008",
-        "97109",
-        "97117",
-        "97119",
-        "97123",
-        "97124",
-        "97125",
-        "97144",
-        "97223",
-        "97224"
-      ]
-    },
-    {
-      "name": "WEST SLOPE COMMUNITY LIBRARY",
-      "system": "WEST SLOPE COMMUNITY LIBRARY",
-      "address": "3678 SW 78TH AVE, PORTLAND, OR",
-      "website": "https://westslopelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97006",
-        "97008",
-        "97109",
-        "97117",
-        "97119",
-        "97123",
-        "97124",
-        "97125",
-        "97144",
-        "97224",
-        "97225"
       ]
     },
     {
       "name": "SHERWOOD PUBLIC LIBRARY",
       "system": "SHERWOOD PUBLIC LIBRARY",
-      "address": "22560 SW PINE ST, SHERWOOD, OR",
+      "address": "204 MAIN STREET, SHERWOOD, ND",
       "website": "http://www.sherwoodoregon.gov/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97006",
-        "97008",
-        "97109",
-        "97117",
-        "97119",
-        "97123",
-        "97124",
-        "97125",
+        "58782",
         "97140",
-        "97144",
         "97224"
+      ]
+    },
+    {
+      "name": "HILLSBORO PUBLIC LIBRARY",
+      "system": "HILLSBORO PUBLIC LIBRARY",
+      "address": "120 E. GRAND AVE., HILLSBORO, KS",
+      "website": "https://www.hillsboro-oregon.gov/departments/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54634",
+        "67063",
+        "67073",
+        "67438",
+        "67483",
+        "97123",
+        "97124"
       ]
     },
     {
@@ -229,33 +51,19 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97101",
-        "97111",
-        "97115",
-        "97127",
-        "97148",
-        "97378"
+        "97101"
       ]
     },
     {
       "name": "FOREST GROVE CITY LIBRARY",
       "system": "FOREST GROVE CITY LIBRARY",
       "address": "2114 PACIFIC AVE, FOREST GROVE, OR",
-      "website": "https://www.wccls.org/using-library/member-libraries/forest-grove-city-library",
+      "website": "http://www.forestgrove-or.gov/city-hall/library/library.html",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97006",
-        "97008",
-        "97109",
         "97116",
-        "97117",
-        "97119",
-        "97123",
-        "97124",
-        "97125",
-        "97144",
-        "97224"
+        "97119"
       ]
     },
     {
@@ -266,12 +74,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97102",
         "97103",
-        "97110",
-        "97121",
-        "97145",
-        "971HH"
+        "97121"
       ]
     },
     {
@@ -286,8 +90,7 @@
         "97115",
         "97127",
         "97128",
-        "97148",
-        "97378"
+        "97148"
       ]
     },
     {
@@ -298,12 +101,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97111",
         "97115",
         "97127",
-        "97132",
-        "97148",
-        "97378"
+        "97132"
       ]
     },
     {
@@ -316,10 +116,8 @@
       "zipcodes": [
         "97102",
         "97110",
-        "97121",
         "97138",
-        "97145",
-        "971HH"
+        "97145"
       ]
     },
     {
@@ -341,10 +139,8 @@
         "97135",
         "97136",
         "97141",
-        "97143",
         "97147",
-        "97149",
-        "971XX"
+        "97149"
       ]
     },
     {
@@ -355,17 +151,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97006",
-        "97008",
-        "97109",
         "97113",
-        "97117",
         "97119",
         "97123",
-        "97124",
-        "97125",
-        "97144",
-        "97224"
+        "97124"
       ]
     },
     {
@@ -379,9 +168,7 @@
         "97111",
         "97114",
         "97115",
-        "97127",
-        "97148",
-        "97378"
+        "97127"
       ]
     },
     {
@@ -392,12 +179,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97102",
-        "97110",
         "97121",
-        "97145",
-        "97146",
-        "971HH"
+        "97146"
       ]
     },
     {
@@ -408,17 +191,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97006",
-        "97008",
         "97106",
         "97109",
         "97117",
-        "97119",
-        "97123",
-        "97124",
         "97125",
-        "97144",
-        "97224"
+        "97144"
       ]
     },
     {
@@ -429,38 +206,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97006",
-        "97008",
-        "97109",
-        "97117",
-        "97119",
-        "97123",
         "97124",
-        "97125",
-        "97133",
-        "97144",
-        "97224"
-      ]
-    },
-    {
-      "name": "BEAVERTON CITY LIBRARY",
-      "system": "BEAVERTON CITY LIBRARY",
-      "address": "12375 SW 5TH ST, BEAVERTON, OR",
-      "website": "https://www.beavertonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "97005",
-        "97006",
-        "97008",
-        "97109",
-        "97117",
-        "97119",
-        "97123",
-        "97124",
-        "97125",
-        "97144",
-        "97224"
+        "97133"
       ]
     },
     {
@@ -471,16 +218,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "97006",
-        "97008",
         "97062",
-        "97109",
-        "97117",
-        "97119",
-        "97123",
-        "97124",
-        "97125",
-        "97144",
+        "97140",
         "97224"
       ]
     },
@@ -497,19 +236,7 @@
         "97026",
         "97032",
         "97071",
-        "97137",
-        "97301",
-        "97302",
-        "97303",
-        "97305",
-        "97306",
-        "97325",
-        "97342",
-        "97346",
-        "97352",
-        "97375",
-        "97385",
-        "97392"
+        "97137"
       ]
     },
     {
@@ -523,14 +250,7 @@
         "97006",
         "97007",
         "97008",
-        "97109",
-        "97117",
-        "97119",
-        "97123",
-        "97124",
-        "97125",
-        "97144",
-        "97224"
+        "97123"
       ]
     }
   ]

@@ -1,66 +1,6 @@
 {
   "libraries": [
     {
-      "name": "MARSHALL COUNTY COOPERATIVE LIBRARY",
-      "system": "MARSHALL COUNTY COOPERATIVE LIBRARY",
-      "address": "19348 HIGHWAY 431 NORTH, GUNTERSVILLE, AL",
-      "website": "https://librarytechnology.org/library/37810",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35175",
-        "35755",
-        "35951",
-        "35976",
-        "35980"
-      ]
-    },
-    {
-      "name": "BOAZ PUBLIC LIBRARY",
-      "system": "BOAZ PUBLIC LIBRARY",
-      "address": "404 THOMAS AVE., BOAZ, AL",
-      "website": "https://www.cityofboaz.org/247/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35175",
-        "35755",
-        "35951",
-        "35957",
-        "35980"
-      ]
-    },
-    {
-      "name": "GUNTERSVILLE PUBLIC LIBRARY",
-      "system": "GUNTERSVILLE PUBLIC LIBRARY",
-      "address": "1240 O`BRIG AVENUE, GUNTERSVILLE, AL",
-      "website": "https://guntersvilleal.org/departments/public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35175",
-        "35755",
-        "35951",
-        "35976",
-        "35980"
-      ]
-    },
-    {
-      "name": "ALBERTVILLE PUBLIC LIBRARY",
-      "system": "ALBERTVILLE PUBLIC LIBRARY",
-      "address": "200 JACKSON STREET, ALBERTVILLE, AL",
-      "website": "https://www.cityofalbertville.com/206/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35175",
-        "35755",
-        "35950",
-        "35951",
-        "35980"
-      ]
-    },
-    {
       "name": "HUNTSVILLE - MADISON COUNTY PUBLIC LIBRARY",
       "system": "HUNTSVILLE - MADISON COUNTY PUBLIC LIBRARY",
       "address": "915 MONROE STREET, HUNTSVILLE, AL",
@@ -79,7 +19,6 @@
         "35761",
         "35763",
         "35773",
-        "357XX",
         "35801",
         "35802",
         "35803",
@@ -89,24 +28,26 @@
         "35810",
         "35811",
         "35816",
-        "35824",
-        "358HH",
-        "358XX"
+        "35824"
       ]
     },
     {
-      "name": "ARAB PUBLIC LIBRARY",
-      "system": "ARAB PUBLIC LIBRARY",
-      "address": "325 2ND STREET NW, ARAB, AL",
-      "website": "http://www.arabpubliclibrary.com/",
+      "name": "SOMERVILLE PUBLIC LIBRARY",
+      "system": "SOMERVILLE PUBLIC LIBRARY",
+      "address": "79 HIGHLAND AVENUE, SOMERVILLE, MA",
+      "website": "https://somervillepubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35016",
-        "35175",
-        "35755",
-        "35951",
-        "35980"
+        "02139",
+        "02141",
+        "02142",
+        "02143",
+        "02144",
+        "02145",
+        "35670",
+        "35754",
+        "35775"
       ]
     },
     {
@@ -117,20 +58,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35745",
-        "35746",
         "35751",
-        "35752",
         "35764",
-        "35765",
         "35766",
         "35769",
-        "35771",
         "35774",
-        "35776",
-        "357HH",
-        "35958",
-        "35966"
+        "35776"
       ]
     },
     {
@@ -141,20 +74,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35745",
-        "35746",
-        "35751",
         "35752",
-        "35764",
-        "35765",
-        "35766",
         "35768",
         "35769",
-        "35771",
-        "35774",
-        "357HH",
-        "35958",
-        "35966"
+        "35771"
       ]
     },
     {
@@ -167,17 +90,7 @@
       "zipcodes": [
         "35745",
         "35746",
-        "35751",
-        "35752",
-        "35764",
-        "35765",
-        "35766",
-        "35769",
-        "35771",
         "35772",
-        "35774",
-        "357HH",
-        "35958",
         "35966"
       ]
     },
@@ -189,11 +102,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35175",
         "35747",
-        "35755",
-        "35951",
-        "35980"
+        "35755"
       ]
     },
     {
@@ -205,19 +115,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "35740",
-        "35745",
-        "35746",
-        "35751",
-        "35752",
-        "35764",
-        "35765",
-        "35766",
-        "35769",
-        "35771",
-        "35774",
-        "357HH",
-        "35958",
-        "35966"
+        "35958"
       ]
     },
     {
@@ -229,19 +127,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "35744",
-        "35745",
-        "35746",
-        "35751",
         "35752",
-        "35764",
         "35765",
-        "35766",
-        "35769",
-        "35771",
-        "35774",
-        "357HH",
-        "35958",
-        "35966"
+        "35771"
       ]
     },
     {
@@ -260,64 +148,7 @@
         "35649",
         "35671",
         "35739",
-        "35742",
         "35756"
-      ]
-    },
-    {
-      "name": "HARTSELLE - WILLIAM BRADFORD HUIE LIBRARY OF HARTSELLE",
-      "system": "HARTSELLE - WILLIAM BRADFORD HUIE LIBRARY OF HARTSELLE",
-      "address": "152 SPARKMAN STREET NW, HARTSELLE, AL",
-      "website": "https://hartselle.org/252/William-Bradford-Huie-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35619",
-        "35640",
-        "35754",
-        "35775"
-      ]
-    },
-    {
-      "name": "EVA PUBLIC LIBRARY",
-      "system": "EVA PUBLIC LIBRARY",
-      "address": "4549 HIGHWAY 55 EAST, EVA, AL",
-      "website": "https://ils.apls.state.al.us:10040/eg/opac/home",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35619",
-        "35621",
-        "35754",
-        "35775"
-      ]
-    },
-    {
-      "name": "FALKVILLE PUBLIC LIBRARY",
-      "system": "FALKVILLE PUBLIC LIBRARY",
-      "address": "7 NORTH 1ST AVENUE, FALKVILLE, AL",
-      "website": "http://falkvillepubliclibrary.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35619",
-        "35622",
-        "35754",
-        "35775"
-      ]
-    },
-    {
-      "name": "LINDA DURAN PUBLIC LIBRARY",
-      "system": "LINDA DURAN PUBLIC LIBRARY",
-      "address": "1612 S. BETHEL RD, PRICEVILLE, AL",
-      "website": "https://www.chamberofcommerce.com/united-states/alabama/decatur/public-library/2005322453-linda-duran-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35603",
-        "35619",
-        "35754",
-        "35775"
       ]
     }
   ]

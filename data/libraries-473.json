@@ -3,34 +3,16 @@
     {
       "name": "UNION CITY PUBLIC LIBRARY",
       "system": "UNION CITY PUBLIC LIBRARY",
-      "address": "408 NORTH COLUMBIA STREET, UNION CITY, IN",
+      "address": "324 43RD STREET, UNION CITY, NJ",
       "website": "https://uclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16410",
-        "16411",
-        "16412",
-        "16415",
-        "16421",
-        "16423",
-        "16426",
+        "07087",
         "16427",
         "16438",
-        "16441",
         "16442",
-        "16443",
-        "16501",
-        "16502",
-        "16503",
-        "16504",
-        "16505",
-        "16506",
-        "16508",
-        "16509",
-        "16510",
-        "16511",
-        "165HH",
+        "47382",
         "47390"
       ]
     },
@@ -47,24 +29,37 @@
         "47344",
         "47351",
         "47352",
-        "47360",
-        "47361",
-        "47384",
-        "47386",
-        "47387"
+        "47384"
+      ]
+    },
+    {
+      "name": "DUBLIN PUBLIC LIBRARY",
+      "system": "DUBLIN PUBLIC LIBRARY",
+      "address": "206 W BLACKJACK ST, DUBLIN, TX",
+      "website": "https://www.dplnh.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03444",
+        "47357",
+        "76446"
       ]
     },
     {
       "name": "YORKTOWN PUBLIC LIBRARY",
       "system": "YORKTOWN PUBLIC LIBRARY",
-      "address": "8920 WEST ADALINE STREET, YORKTOWN, IN",
+      "address": "103 W MAIN ST, YORKTOWN, TX",
       "website": "http://yorktownpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "47303",
+        "47304",
+        "47305",
+        "47334",
+        "47342",
         "47396",
         "77974",
-        "77994",
         "78141",
         "78164"
       ]
@@ -72,10 +67,10 @@
     {
       "name": "FAYETTE COUNTY PUBLIC LIBRARY",
       "system": "FAYETTE COUNTY PUBLIC LIBRARY",
-      "address": "828 GRAND AVENUE, CONNERSVILLE, IN",
-      "website": "https://www.fayettelibrary.org/",
-      "formUrl": "https://www.fayettelibrary.org/request-title",
-      "formStatus": "verified",
+      "address": "531 SUMMIT STREET, OAK HILL, WV",
+      "website": "http://www.fayettecountyga.gov/public_library/",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
         "25002",
         "25031",
@@ -102,10 +97,8 @@
         "25855",
         "25862",
         "25864",
-        "25866",
         "25868",
         "25879",
-        "258HH",
         "25901",
         "25904",
         "25907",
@@ -114,11 +107,8 @@
         "25938",
         "25942",
         "25976",
-        "25986",
-        "259HH",
-        "26674",
         "26680",
-        "266HH",
+        "46133",
         "47331"
       ]
     },
@@ -159,9 +149,8 @@
         "47320",
         "47334",
         "47338",
-        "47342",
         "47383",
-        "473HH"
+        "47396"
       ]
     },
     {
@@ -172,16 +161,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47337",
-        "47344",
-        "47351",
-        "47352",
         "47356",
-        "47360",
         "47361",
-        "47384",
-        "47386",
-        "47387"
+        "47386"
       ]
     },
     {
@@ -216,12 +198,22 @@
         "47344",
         "47351",
         "47352",
-        "47360",
-        "47361",
         "47384",
         "47385",
-        "47386",
         "47387"
+      ]
+    },
+    {
+      "name": "DUNKIRK PUBLIC LIBRARY",
+      "system": "DUNKIRK PUBLIC LIBRARY",
+      "address": "127 WEST WASHINGTON STREET, DUNKIRK, IN",
+      "website": "https://dunkirklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "14048",
+        "47336",
+        "47373"
       ]
     },
     {
@@ -232,11 +224,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47326",
-        "47336",
-        "47369",
-        "47373",
-        "47381"
+        "47369"
       ]
     },
     {
@@ -248,9 +236,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "47326",
-        "47336",
         "47371",
-        "47373",
         "47381"
       ]
     },
@@ -265,8 +251,7 @@
         "47340",
         "47354",
         "47358",
-        "47368",
-        "47382"
+        "47368"
       ]
     },
     {
@@ -277,10 +262,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47354",
-        "47358",
-        "47368",
         "47382",
+        "47390",
         "47394"
       ]
     },
@@ -292,11 +275,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47354",
         "47355",
-        "47358",
-        "47368",
-        "47382"
+        "47358"
       ]
     },
     {
@@ -307,11 +287,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47354",
-        "47358",
-        "47368",
         "47380",
         "47382"
+      ]
+    },
+    {
+      "name": "UNION COUNTY PUBLIC LIBRARY",
+      "system": "UNION COUNTY PUBLIC LIBRARY",
+      "address": "2 EAST SEMINARY STREET, LIBERTY, IN",
+      "website": "https://www.mountainregionallibrary.org/union-county-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28079",
+        "28103",
+        "28104",
+        "28110",
+        "28112",
+        "28133",
+        "28135",
+        "28173",
+        "28174",
+        "47003",
+        "47325",
+        "47353"
       ]
     },
     {
@@ -323,11 +322,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "47339",
-        "47341",
         "47345",
         "47346",
-        "47357",
-        "47392",
         "47393"
       ]
     },
@@ -340,12 +336,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "47327",
-        "47339",
-        "47341",
         "47345",
-        "47357",
-        "47392",
-        "47393"
+        "47357"
       ]
     },
     {
@@ -356,13 +348,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47339",
         "47341",
-        "47345",
-        "47357",
-        "47374",
-        "47392",
-        "47393"
+        "47374"
       ]
     },
     {
@@ -375,11 +362,8 @@
       "zipcodes": [
         "47330",
         "47339",
-        "47341",
         "47345",
-        "47357",
-        "47392",
-        "47393"
+        "47357"
       ]
     }
   ]

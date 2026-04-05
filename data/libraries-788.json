@@ -1,66 +1,6 @@
 {
   "libraries": [
     {
-      "name": "DRISCOLL PUBLIC LIBRARY",
-      "system": "DRISCOLL PUBLIC LIBRARY",
-      "address": "202 E HONDO AVE, DEVINE, TX",
-      "website": "https://cityofdevine.org/municipal-services/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78016",
-        "78039",
-        "78056",
-        "78066",
-        "78850",
-        "78886"
-      ]
-    },
-    {
-      "name": "BANDERA COUNTY LIBRARY",
-      "system": "BANDERA COUNTY LIBRARY",
-      "address": "515 MAIN ST, BANDERA, TX",
-      "website": "https://banderalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78003",
-        "780HH",
-        "78883",
-        "78885"
-      ]
-    },
-    {
-      "name": "CASTROVILLE PUBLIC LIBRARY",
-      "system": "CASTROVILLE PUBLIC LIBRARY",
-      "address": "802 LONDON ST, CASTROVILLE, TX",
-      "website": "http://castrovilletx.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78009",
-        "78039",
-        "78056",
-        "78066",
-        "78850",
-        "78886"
-      ]
-    },
-    {
-      "name": "LAKEHILLS AREA LIBRARY",
-      "system": "LAKEHILLS AREA LIBRARY",
-      "address": "7200 FM 1283, LAKEHILLS, TX",
-      "website": "https://lakehillslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78063",
-        "780HH",
-        "78883",
-        "78885"
-      ]
-    },
-    {
       "name": "MEDINA COMMUNITY LIBRARY",
       "system": "MEDINA COMMUNITY LIBRARY",
       "address": "13948 STATE HWY 16 N, MEDINA, TX",
@@ -69,25 +9,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78055",
-        "780HH",
         "78883",
         "78885"
-      ]
-    },
-    {
-      "name": "NATALIA VETERANS MEMORIAL LIBRARY",
-      "system": "NATALIA VETERANS MEMORIAL LIBRARY",
-      "address": "501 THIRD ST, NATALIA, TX",
-      "website": "https://natalialibrary.biblionix.com/catalog/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "78039",
-        "78056",
-        "78059",
-        "78066",
-        "78850",
-        "78886"
       ]
     },
     {
@@ -110,9 +33,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "78832",
         "78837",
-        "78840",
-        "788XX"
+        "78840"
       ]
     },
     {
@@ -124,8 +47,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78852",
-        "78860",
-        "788HH"
+        "78860"
       ]
     },
     {
@@ -136,9 +58,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78039",
-        "78056",
-        "78066",
         "78850",
         "78861",
         "78886"
@@ -152,9 +71,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78860",
-        "78877",
-        "788HH"
+        "78877"
       ]
     },
     {
@@ -166,8 +83,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78801",
-        "78838",
-        "78870"
+        "78829",
+        "78872"
       ]
     },
     {
@@ -181,7 +98,8 @@
         "78827",
         "78830",
         "78834",
-        "78836"
+        "78836",
+        "78839"
       ]
     },
     {
@@ -205,7 +123,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "78838",
-        "78870",
         "78884"
       ]
     },
@@ -217,7 +134,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78838",
         "78870",
         "78881"
       ]
@@ -230,8 +146,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "78833",
-        "78879"
+        "78833"
       ]
     },
     {

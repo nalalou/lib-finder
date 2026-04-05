@@ -1,23 +1,6 @@
 {
   "libraries": [
     {
-      "name": "ARAPAHOE PUBLIC LIBRARY",
-      "system": "ARAPAHOE PUBLIC LIBRARY",
-      "address": "306 NEBRASKA AVENUE, ARAPAHOE, NE",
-      "website": "https://libraries.ne.gov/arapahoe/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "68922",
-        "68936",
-        "68946",
-        "68948",
-        "68967",
-        "689HH",
-        "69046"
-      ]
-    },
-    {
       "name": "BEAVER CITY PUBLIC LIBRARY",
       "system": "BEAVER CITY PUBLIC LIBRARY",
       "address": "408 10TH STREET, BEAVER CITY, NE",
@@ -26,39 +9,39 @@
       "formStatus": "unknown",
       "zipcodes": [
         "68926",
-        "68936",
         "68946",
-        "68948",
-        "68967",
-        "689HH",
         "69046"
       ]
     },
     {
       "name": "STRATTON PUBLIC LIBRARY",
       "system": "STRATTON PUBLIC LIBRARY",
-      "address": "88 MAIN STREET, STRATTON, ME",
+      "address": "331 NEW YORK AVENUE, STRATTON, CO",
       "website": "http://www.stratton.lib.me.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "04936",
         "04982",
         "69043",
-        "69044",
-        "690HH"
+        "80805",
+        "80836",
+        "80861"
       ]
     },
     {
       "name": "INDIANOLA PUBLIC LIBRARY",
       "system": "INDIANOLA PUBLIC LIBRARY",
-      "address": "122 NORTH 4TH STREET, INDIANOLA, NE",
+      "address": "207 N B ST, INDIANOLA, IA",
       "website": "https://libraries.ne.gov/indianola/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50001",
+        "50125",
+        "50160",
         "69026",
-        "69034",
-        "69036"
+        "69034"
       ]
     },
     {
@@ -70,7 +53,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "69020",
-        "69026",
+        "69034",
         "69036"
       ]
     },
@@ -82,13 +65,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68936",
-        "68946",
         "68948",
-        "68967",
-        "689HH",
-        "69022",
-        "69046"
+        "69022"
       ]
     },
     {
@@ -99,10 +77,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69024",
-        "69043",
-        "69044",
-        "690HH"
+        "69024"
       ]
     },
     {
@@ -116,8 +91,7 @@
         "69025",
         "69038",
         "69039",
-        "69042",
-        "690XX"
+        "69042"
       ]
     },
     {
@@ -128,11 +102,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69028",
-        "69038",
-        "69039",
-        "69042",
-        "690XX"
+        "69028"
       ]
     },
     {
@@ -143,10 +113,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "68834",
-        "68850",
-        "68863",
-        "68878",
         "69029"
       ]
     },
@@ -158,7 +124,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69031",
         "69032"
       ]
     },
@@ -183,9 +148,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69001",
-        "69026",
-        "69036"
+        "69001"
       ]
     },
     {
@@ -196,24 +159,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69040",
-        "69043",
-        "69044",
-        "690HH"
+        "69040"
       ]
     },
     {
       "name": "TRENTON PUBLIC LIBRARY",
       "system": "TRENTON PUBLIC LIBRARY",
-      "address": "118 EAST INDIANA STREET, TRENTON, IL",
+      "address": "406 MAIN STREET, TRENTON, NE",
       "website": "https://librarytechnology.org/library/21300",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "62215",
+        "62216",
+        "62266",
         "62293",
-        "69043",
-        "69044",
-        "690HH"
+        "69044"
       ]
     },
     {
@@ -224,7 +185,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "69023",
         "69027",
         "69045"
       ]

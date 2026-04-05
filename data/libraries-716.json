@@ -1,6 +1,23 @@
 {
   "libraries": [
     {
+      "name": "CALHOUN COUNTY LIBRARY",
+      "system": "CALHOUN COUNTY LIBRARY",
+      "address": "113 SOUTH 2ND ST., HAMPTON, AR",
+      "website": "https://krlibrary.org/?page_id=18",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71631",
+        "71651",
+        "71660",
+        "71742",
+        "71744",
+        "71745",
+        "71766"
+      ]
+    },
+    {
       "name": "PINE BLUFF/JEFFERSON COUNTY LIBRARY SYSTEM",
       "system": "PINE BLUFF/JEFFERSON COUNTY LIBRARY SYSTEM",
       "address": "200 E. 8TH AVENUE, PINE BLUFF, AR",
@@ -11,11 +28,16 @@
         "71601",
         "71602",
         "71603",
+        "71643",
+        "71644",
+        "71652",
         "71659",
+        "71665",
         "72004",
+        "72057",
         "72079",
         "72132",
-        "72133",
+        "72150",
         "72152",
         "72168",
         "72175"
@@ -29,8 +51,16 @@
       "formUrl": "https://www.searlibrary.org/about/hours-locations/monticello/request",
       "formStatus": "verified",
       "zipcodes": [
+        "71630",
+        "71638",
+        "71639",
+        "71654",
         "71655",
-        "71656",
+        "71666",
+        "71667",
+        "71670",
+        "71671",
+        "71674",
         "71675",
         "71677"
       ]
@@ -44,13 +74,15 @@
       "formStatus": "unknown",
       "zipcodes": [
         "71635",
+        "71640",
         "71642",
         "71646",
+        "71647",
+        "71653",
         "71658",
         "71661",
         "71663",
-        "71676",
-        "716HH"
+        "71676"
       ]
     }
   ]

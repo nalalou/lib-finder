@@ -8,91 +8,31 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14008",
-        "14028",
-        "14067",
         "14092",
         "14301",
         "14303",
         "14304",
-        "14305",
-        "143HH"
+        "14305"
       ]
     },
     {
-      "name": "BARKER PUBLIC LIBRARY",
-      "system": "BARKER PUBLIC LIBRARY",
-      "address": "8673 CHURCH STREET, BARKER, NY",
-      "website": "https://www.barkerpubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14008",
-        "14012",
-        "14028",
-        "14067",
-        "14092",
-        "14301",
-        "14303",
-        "14304",
-        "143HH"
-      ]
-    },
-    {
-      "name": "LOCKPORT PUBLIC LIBRARY",
-      "system": "LOCKPORT PUBLIC LIBRARY",
-      "address": "23 EAST AVENUE, LOCKPORT, NY",
-      "website": "https://www.lockportlibrary.org/",
-      "formUrl": "https://www.lockportlibrary.org/suggest-purchase",
+      "name": "LEWISTON PUBLIC LIBRARY",
+      "system": "LEWISTON PUBLIC LIBRARY",
+      "address": "200 LISBON STREET, LEWISTON, ME",
+      "website": "http://lplonline.org/",
+      "formUrl": "https://lplonline.org/collection/request-purchase/",
       "formStatus": "verified",
       "zipcodes": [
-        "14008",
-        "14028",
-        "14067",
+        "04210",
+        "04240",
+        "04250",
+        "04280",
         "14092",
-        "14094",
         "14301",
         "14303",
-        "14304",
-        "143HH"
-      ]
-    },
-    {
-      "name": "ROYALTON HARTLAND COMMUNITY LIBRARY",
-      "system": "ROYALTON HARTLAND COMMUNITY LIBRARY",
-      "address": "9 S. VERNON STREET, MIDDLEPORT, NY",
-      "website": "https://royhartcommunitylibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14008",
-        "14028",
-        "14067",
-        "14092",
-        "14105",
-        "14301",
-        "14303",
-        "14304",
-        "143HH"
-      ]
-    },
-    {
-      "name": "NEWFANE PUBLIC LIBRARY",
-      "system": "NEWFANE PUBLIC LIBRARY",
-      "address": "2761 MAPLE AVENUE, NEWFANE, NY",
-      "website": "https://newfanepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14008",
-        "14028",
-        "14067",
-        "14092",
-        "14108",
-        "14301",
-        "14303",
-        "14304",
-        "143HH"
+        "84320",
+        "84333",
+        "84338"
       ]
     },
     {
@@ -103,34 +43,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14008",
-        "14028",
-        "14067",
-        "14092",
         "14120",
-        "14301",
-        "14303",
-        "14304",
-        "143HH"
-      ]
-    },
-    {
-      "name": "RANSOMVILLE FREE LIBRARY",
-      "system": "RANSOMVILLE FREE LIBRARY",
-      "address": "3733 RANSOMVILLE ROAD, RANSOMVILLE, NY",
-      "website": "https://www.ransomvillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14008",
-        "14028",
-        "14067",
-        "14092",
-        "14131",
-        "14301",
-        "14303",
-        "14304",
-        "143HH"
+        "14304"
       ]
     },
     {
@@ -141,53 +55,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "14008",
-        "14028",
-        "14067",
         "14092",
         "14132",
         "14301",
         "14303",
-        "14304",
-        "143HH"
-      ]
-    },
-    {
-      "name": "WILSON COMMUNITY LIBRARY",
-      "system": "WILSON COMMUNITY LIBRARY",
-      "address": "265 YOUNG STREET, WILSON, NY",
-      "website": "https://www.wilsoncommunitylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14008",
-        "14028",
-        "14067",
-        "14092",
-        "14172",
-        "14301",
-        "14303",
-        "14304",
-        "143HH"
-      ]
-    },
-    {
-      "name": "YOUNGSTOWN FREE LIBRARY",
-      "system": "YOUNGSTOWN FREE LIBRARY",
-      "address": "240 LOCKPORT STREET, YOUNGSTOWN, NY",
-      "website": "https://youngstownfreelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "14008",
-        "14028",
-        "14067",
-        "14092",
-        "14174",
-        "14301",
-        "14303",
-        "14304",
-        "143HH"
+        "14304"
       ]
     }
   ]

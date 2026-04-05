@@ -1,6 +1,58 @@
 {
   "libraries": [
     {
+      "name": "CARNEGIE PUBLIC LIBRARY",
+      "system": "CARNEGIE PUBLIC LIBRARY",
+      "address": "314 MCLEOD STREET, BIG TIMBER, MT",
+      "website": "http://www.smithcountyhistoricalsociety.org/carnegie.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38614",
+        "38617",
+        "38630",
+        "38631",
+        "38639",
+        "38644",
+        "38645",
+        "38720",
+        "38767",
+        "43106",
+        "43128",
+        "43142",
+        "43160",
+        "43920",
+        "44441",
+        "59011",
+        "59033",
+        "59052",
+        "59055",
+        "63434",
+        "63437",
+        "63439",
+        "63443",
+        "63450",
+        "63458",
+        "63468",
+        "63469",
+        "73015",
+        "73033",
+        "73038",
+        "87552",
+        "87573",
+        "87701",
+        "87712",
+        "87731",
+        "87736",
+        "87742",
+        "87745",
+        "87750",
+        "87753",
+        "88416",
+        "88421"
+      ]
+    },
+    {
       "name": "BRIDGER PUBLIC LIBRARY",
       "system": "BRIDGER PUBLIC LIBRARY",
       "address": "119 WEST BROADWAY, BRIDGER, MT",
@@ -8,16 +60,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59007",
-        "59008",
-        "59013",
         "59014",
-        "59026",
-        "59029",
-        "59041",
-        "59070",
-        "59071",
-        "590HH"
+        "59029"
       ]
     },
     {
@@ -45,6 +89,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59010",
         "59016",
         "59022",
         "59025",
@@ -66,6 +111,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "59036",
+        "59074",
         "59078",
         "59085",
         "59453"
@@ -74,25 +120,15 @@
     {
       "name": "LAUREL PUBLIC LIBRARY",
       "system": "LAUREL PUBLIC LIBRARY",
-      "address": "101 E. FOURTH ST, LAUREL, DE",
+      "address": "720 WEST 3RD ST, LAUREL, MT",
       "website": "https://www.laurelpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "19931",
         "19956",
-        "59002",
-        "59006",
-        "59015",
-        "59024",
-        "59037",
         "59044",
-        "59057",
-        "59064",
-        "59079",
-        "59088",
-        "59102",
-        "59105",
-        "59106"
+        "59057"
       ]
     },
     {
@@ -110,8 +146,7 @@
         "59047",
         "59065",
         "59081",
-        "59086",
-        "590XX"
+        "59086"
       ]
     },
     {
@@ -124,14 +159,8 @@
       "zipcodes": [
         "59007",
         "59008",
-        "59013",
-        "59026",
-        "59029",
-        "59041",
         "59068",
-        "59070",
-        "59071",
-        "590HH"
+        "59071"
       ]
     },
     {
@@ -142,6 +171,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59046",
         "59054",
         "59059",
         "59072"
@@ -161,21 +191,23 @@
     {
       "name": "JOLIET PUBLIC LIBRARY",
       "system": "JOLIET PUBLIC LIBRARY",
-      "address": "150 NORTH OTTAWA STREET, JOLIET, IL",
+      "address": "211 E FRONT STREET, JOLIET, MT",
       "website": "http://www.jolietlibrary.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "59007",
-        "59008",
         "59013",
         "59026",
         "59029",
         "59041",
         "59070",
-        "59071",
-        "590HH",
-        "60432"
+        "60421",
+        "60431",
+        "60432",
+        "60433",
+        "60435",
+        "60436",
+        "60441"
       ]
     },
     {
@@ -191,8 +223,6 @@
         "59015",
         "59024",
         "59037",
-        "59044",
-        "59057",
         "59064",
         "59079",
         "59088",
@@ -212,8 +242,24 @@
       "zipcodes": [
         "59053",
         "59642",
-        "59645",
-        "596XX"
+        "59645"
+      ]
+    },
+    {
+      "name": "GARFIELD COUNTY LIBRARY",
+      "system": "GARFIELD COUNTY LIBRARY",
+      "address": "217 G STREET, BURWELL, NE",
+      "website": "https://www.garfieldcountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "59058",
+        "59077",
+        "59318",
+        "59322",
+        "59337",
+        "68637",
+        "68823"
       ]
     },
     {
@@ -225,27 +271,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "59032",
-        "59424",
         "59441",
-        "59451",
-        "59457",
-        "59471"
-      ]
-    },
-    {
-      "name": "DOROTHY ASBJORNSON COMMUNITY LIBRARY",
-      "system": "DOROTHY ASBJORNSON COMMUNITY LIBRARY",
-      "address": "210 MAIN STREET, WINIFRED, MT",
-      "website": "https://www.townofwinifred.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "59032",
-        "59424",
-        "59441",
-        "59451",
-        "59471",
-        "59489"
+        "59457"
       ]
     },
     {
@@ -259,9 +286,7 @@
         "59062",
         "59314",
         "59317",
-        "59343",
-        "59348",
-        "593XX"
+        "59343"
       ]
     },
     {
@@ -274,8 +299,10 @@
       "zipcodes": [
         "59003",
         "59012",
+        "59038",
         "59039",
         "59043",
+        "59076",
         "59323",
         "59327",
         "59333",

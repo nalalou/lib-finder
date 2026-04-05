@@ -1,6 +1,43 @@
 {
   "libraries": [
     {
+      "name": "ANNE ARUNDEL COUNTY PUBLIC LIBRARY",
+      "system": "ANNE ARUNDEL COUNTY PUBLIC LIBRARY",
+      "address": "5 HARRY S. TRUMAN PARKWAY, ANNAPOLIS, MD",
+      "website": "https://www.aacpl.net",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "20706",
+        "20715",
+        "20716",
+        "20733",
+        "20751",
+        "20764",
+        "20765",
+        "20776",
+        "20778",
+        "21012",
+        "21032",
+        "21035",
+        "21037",
+        "21054",
+        "21056",
+        "21108",
+        "21113",
+        "21114",
+        "21122",
+        "21140",
+        "21144",
+        "21146",
+        "21401",
+        "21402",
+        "21403",
+        "21405",
+        "21666"
+      ]
+    },
+    {
       "name": "CAROLINE COUNTY PUBLIC LIBRARY",
       "system": "CAROLINE COUNTY PUBLIC LIBRARY",
       "address": "100 MARKET STREET, DENTON, MD",
@@ -16,8 +53,8 @@
         "21641",
         "21649",
         "21655",
-        "21660",
-        "216HH"
+        "21657",
+        "21660"
       ]
     },
     {
@@ -43,27 +80,39 @@
         "21675",
         "21677",
         "21835",
-        "21869",
-        "218HH"
+        "21869"
       ]
     },
     {
       "name": "KENT COUNTY PUBLIC LIBRARY",
       "system": "KENT COUNTY PUBLIC LIBRARY",
-      "address": "497 SOUTH RED HAVEN LANE, DOVER, DE",
+      "address": "408 HIGH STREET, CHESTERTOWN, MD",
       "website": "https://kentcountylibrary.org/",
       "formUrl": "https://kentcountylibrary.org/catalog/suggest-a-title.php",
       "formStatus": "verified",
       "zipcodes": [
         "19901",
+        "19902",
+        "19904",
+        "19934",
+        "19943",
+        "19946",
+        "19953",
+        "19962",
+        "19964",
+        "19979",
+        "21607",
         "21610",
         "21620",
+        "21623",
+        "21628",
         "21635",
         "21645",
         "21650",
         "21651",
         "21661",
         "21667",
+        "21668",
         "21678"
       ]
     },
@@ -75,7 +124,13 @@
       "formUrl": "https://www.qaclibrary.org/make-a-purchase-suggestion",
       "formStatus": "verified",
       "zipcodes": [
-        "21617"
+        "21617",
+        "21619",
+        "21623",
+        "21638",
+        "21644",
+        "21657",
+        "21658"
       ]
     },
     {

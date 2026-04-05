@@ -1,130 +1,50 @@
 {
   "libraries": [
     {
-      "name": "ROBERTSON MEMORIAL LIBRARY",
-      "system": "ROBERTSON MEMORIAL LIBRARY",
-      "address": "849 GREENFIELD ROAD, LEYDEN, MA",
-      "website": "https://townofleyden.com/p/11/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01301",
-        "64001",
-        "64011",
-        "64020",
-        "64021",
-        "64022",
-        "64037",
-        "64067",
-        "64071",
-        "64074",
-        "64076",
-        "64096",
-        "64097"
-      ]
-    },
-    {
       "name": "GREENFIELD PUBLIC LIBRARY",
       "system": "GREENFIELD PUBLIC LIBRARY",
-      "address": "412 MAIN ST., GREENFIELD, MA",
+      "address": "5310 W. LAYTON AVE., GREENFIELD, WI",
       "website": "https://www.greenfieldpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "01301",
-        "53132",
-        "53202",
-        "53203",
-        "53204",
-        "53205",
-        "53206",
+        "01342",
+        "01351",
+        "50849",
         "53207",
-        "53208",
-        "53209",
-        "53210",
-        "53212",
         "53215",
-        "53216",
-        "53218",
         "53219",
         "53220",
         "53221",
-        "53222",
-        "53224",
-        "53225",
-        "53226",
         "53227",
         "53228",
-        "53235",
-        "532HH"
-      ]
-    },
-    {
-      "name": "LEVERETT LIBRARY",
-      "system": "LEVERETT LIBRARY",
-      "address": "75 MONTAGUE ROAD, LEVERETT, MA",
-      "website": "https://www.leverettlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01054",
-        "010HH",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01380",
-        "013HH"
-      ]
-    },
-    {
-      "name": "M. N. SPEAR MEMORIAL LIBRARY",
-      "system": "M. N. SPEAR MEMORIAL LIBRARY",
-      "address": "10 COOLEYVILLE ROAD, SHUTESBURY, MA",
-      "website": "https://www.shutesbury.org/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01072",
-        "010HH",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01380",
-        "013HH"
-      ]
-    },
-    {
-      "name": "S. WHITE DICKINSON MEMORIAL LIBRARY",
-      "system": "S. WHITE DICKINSON MEMORIAL LIBRARY",
-      "address": "202 CHESTNUT PLAIN ROAD, WHATELY, MA",
-      "website": "https://www.whately.org/departments/library/index.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01093",
-        "010HH",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01380",
-        "013HH"
+        "62044",
+        "62081"
       ]
     },
     {
       "name": "MONROE PUBLIC LIBRARY",
       "system": "MONROE PUBLIC LIBRARY",
-      "address": "3B SCHOOL ST., MONROE BRIDGE, MA",
+      "address": "19 PLAINS ROAD, MONROE, NH",
       "website": "https://monroenh.org/monroe-town-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "01350",
+        "03771",
+        "50170",
+        "50232",
         "53522",
         "53550",
-        "53566"
+        "53566",
+        "84711",
+        "84724",
+        "84730",
+        "84739",
+        "84744",
+        "84754",
+        "84766"
       ]
     },
     {
@@ -135,14 +55,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01330",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01380",
-        "013HH"
+        "01330"
       ]
     },
     {
@@ -153,36 +66,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01083",
-        "01331",
-        "01420",
-        "01430",
-        "01436",
-        "01438",
-        "01467",
-        "014HH",
-        "01518",
-        "01519",
-        "01522",
-        "01534",
-        "01536",
-        "01537",
-        "01541",
-        "01542",
-        "01560",
-        "015HH",
-        "01602",
-        "01603",
-        "01604",
-        "01605",
-        "01606",
-        "01607",
-        "01609",
-        "01610",
-        "01611",
-        "016HH",
-        "01745",
-        "01756"
+        "01331"
       ]
     },
     {
@@ -193,14 +77,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01337",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01380",
-        "013HH"
+        "01301",
+        "01337"
       ]
     },
     {
@@ -211,14 +89,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01338",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01380",
-        "013HH"
+        "01338"
       ]
     },
     {
@@ -229,14 +100,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
         "01339",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01380",
-        "013HH"
+        "01346"
       ]
     },
     {
@@ -247,14 +112,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01340",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01380",
-        "013HH"
+        "01340"
       ]
     },
     {
@@ -265,14 +123,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01341",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01380",
-        "013HH"
+        "01341"
       ]
     },
     {
@@ -283,14 +134,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
         "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01373",
-        "01380",
-        "013HH"
+        "01373"
       ]
     },
     {
@@ -301,14 +146,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01342",
         "01344",
-        "01346",
         "01349",
-        "01351",
-        "01380",
-        "013HH"
+        "01351"
       ]
     },
     {
@@ -319,14 +159,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01354",
-        "01380",
-        "013HH"
+        "01354"
       ]
     },
     {
@@ -337,14 +170,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
         "01339",
-        "01342",
         "01346",
-        "01349",
-        "01351",
-        "01380",
-        "013HH"
+        "01350"
       ]
     },
     {
@@ -355,14 +183,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
+        "01301",
         "01342",
-        "01346",
         "01349",
         "01351",
-        "01376",
-        "01380",
-        "013HH"
+        "01376"
       ]
     },
     {
@@ -373,32 +198,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01355",
-        "01380",
-        "013HH"
+        "01355"
       ]
     },
     {
       "name": "DICKINSON MEMORIAL LIBRARY",
       "system": "DICKINSON MEMORIAL LIBRARY",
       "address": "115 MAIN STREET, NORTHFIELD, MA",
-      "website": "https://northfield.cwmars.org/",
+      "website": "http://www.northfieldpubliclibrary.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01360",
-        "01380",
-        "013HH"
+        "01360"
       ]
     },
     {
@@ -409,14 +220,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01364",
-        "01380",
-        "013HH"
+        "01364"
       ]
     },
     {
@@ -427,36 +231,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01083",
-        "01366",
-        "01420",
-        "01430",
-        "01436",
-        "01438",
-        "01467",
-        "014HH",
-        "01518",
-        "01519",
-        "01522",
-        "01534",
-        "01536",
-        "01537",
-        "01541",
-        "01542",
-        "01560",
-        "015HH",
-        "01602",
-        "01603",
-        "01604",
-        "01605",
-        "01606",
-        "01607",
-        "01609",
-        "01610",
-        "01611",
-        "016HH",
-        "01745",
-        "01756"
+        "01366"
       ]
     },
     {
@@ -467,36 +242,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01083",
         "01331",
-        "01420",
-        "01430",
         "01436",
-        "01438",
-        "01467",
-        "014HH",
-        "01518",
-        "01519",
-        "01522",
-        "01534",
-        "01536",
-        "01537",
-        "01541",
-        "01542",
-        "01560",
-        "015HH",
-        "01602",
-        "01603",
-        "01604",
-        "01605",
-        "01606",
-        "01607",
-        "01609",
-        "01610",
-        "01611",
-        "016HH",
-        "01745",
-        "01756"
+        "01438"
       ]
     },
     {
@@ -507,14 +255,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01342",
         "01346",
-        "01349",
-        "01351",
-        "01367",
-        "01380",
-        "013HH"
+        "01350",
+        "01367"
       ]
     },
     {
@@ -525,36 +268,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01083",
-        "01368",
-        "01420",
-        "01430",
-        "01436",
-        "01438",
-        "01467",
-        "014HH",
-        "01518",
-        "01519",
-        "01522",
-        "01534",
-        "01536",
-        "01537",
-        "01541",
-        "01542",
-        "01560",
-        "015HH",
-        "01602",
-        "01603",
-        "01604",
-        "01605",
-        "01606",
-        "01607",
-        "01609",
-        "01610",
-        "01611",
-        "016HH",
-        "01745",
-        "01756"
+        "01368"
       ]
     },
     {
@@ -565,14 +279,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01370",
-        "01380",
-        "013HH"
+        "01370"
       ]
     },
     {
@@ -583,14 +290,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01375",
-        "01380",
-        "013HH"
+        "01375"
       ]
     },
     {
@@ -601,14 +301,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01378",
-        "01380",
-        "013HH"
+        "01378"
       ]
     },
     {
@@ -619,14 +312,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01342",
-        "01346",
         "01349",
-        "01351",
-        "01379",
-        "01380",
-        "013HH"
+        "01379"
       ]
     },
     {
@@ -637,14 +324,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "010HH",
-        "01342",
-        "01346",
-        "01349",
-        "01351",
-        "01370",
-        "01380",
-        "013HH"
+        "01370"
       ]
     }
   ]

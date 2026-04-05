@@ -3,16 +3,22 @@
     {
       "name": "OLDHAM COUNTY PUBLIC LIBRARY",
       "system": "OLDHAM COUNTY PUBLIC LIBRARY",
-      "address": "914 MAIN, VEGA, TX",
+      "address": "308 YAGER AVENUE, LAGRANGE, KY",
       "website": "https://librarytechnology.org/library/10349",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "40010",
+        "40014",
+        "40026",
+        "40031",
+        "40055",
+        "40056",
+        "40077",
         "79001",
         "79010",
         "79092",
-        "79098",
-        "884XX"
+        "79098"
       ]
     },
     {
@@ -32,8 +38,7 @@
         "79107",
         "79108",
         "79111",
-        "79124",
-        "791XX"
+        "79124"
       ]
     },
     {
@@ -58,6 +63,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79013",
+        "79018",
         "79029",
         "79086"
       ]
@@ -97,7 +103,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79021",
-        "79032",
         "79041",
         "79250",
         "79311"
@@ -123,8 +128,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79002",
-        "79054",
         "79057"
       ]
     },
@@ -136,7 +139,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79002",
         "79054",
         "79065"
       ]
@@ -149,6 +151,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79019",
         "79039",
         "79068",
         "79080",
@@ -176,11 +179,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79021",
         "79032",
-        "79072",
-        "79250",
-        "79311"
+        "79072"
       ]
     },
     {
@@ -191,9 +191,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79003",
-        "79011",
-        "79061",
         "79079"
       ]
     },
@@ -205,7 +202,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79062",
         "79081"
       ]
     },
@@ -264,15 +260,14 @@
       "name": "HUTCHINSON COUNTY LIBRARY",
       "system": "HUTCHINSON COUNTY LIBRARY",
       "address": "625 WEATHERLY ST, BORGER, TX",
-      "website": "https://hutchinson.harringtonlc.org/branches/borger/",
+      "website": "http://harringtonlc.org/hutchinson/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "79007",
         "79036",
         "79078",
-        "79083",
-        "790HH"
+        "79083"
       ]
     },
     {
@@ -283,7 +278,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79024",
         "79034",
         "79046",
         "79056"
@@ -298,9 +292,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79005",
-        "79024",
-        "79034",
-        "79056"
+        "79024"
       ]
     },
     {
@@ -311,7 +303,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79014"
+        "79014",
+        "79059"
       ]
     },
     {
@@ -328,8 +321,7 @@
         "79110",
         "79118",
         "79119",
-        "79121",
-        "791HH"
+        "79121"
       ]
     },
     {
@@ -341,6 +333,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79022",
+        "79044",
         "79087"
       ]
     },
@@ -353,13 +346,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79031",
-        "79082",
-        "790XX",
-        "79312",
-        "79326",
-        "79369",
-        "79371",
-        "793XX"
+        "79082"
       ]
     },
     {
@@ -370,14 +357,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79031",
         "79064",
-        "790XX",
-        "79312",
-        "79326",
-        "79369",
-        "79371",
-        "793XX"
+        "79326"
       ]
     },
     {
@@ -392,27 +373,7 @@
         "73937",
         "73946",
         "73947",
-        "739HH",
-        "739XX",
         "79051"
-      ]
-    },
-    {
-      "name": "LAMB COUNTY LIBRARY",
-      "system": "LAMB COUNTY LIBRARY",
-      "address": "110 E 6TH ST, LITTLEFIELD, TX",
-      "website": "https://www.littlefieldtexas.net/219/Lamb-County-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "79031",
-        "790XX",
-        "79312",
-        "79326",
-        "79339",
-        "79369",
-        "79371",
-        "793XX"
       ]
     }
   ]

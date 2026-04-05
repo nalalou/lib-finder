@@ -10,7 +10,13 @@
       "zipcodes": [
         "39601",
         "39629",
-        "39662"
+        "39630",
+        "39647",
+        "39653",
+        "39654",
+        "39662",
+        "39663",
+        "39665"
       ]
     },
     {
@@ -21,11 +27,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "39632",
         "39635",
+        "39641",
+        "39645",
         "39648",
         "39652",
         "39657",
+        "39664",
         "39666"
       ]
     },
@@ -39,8 +47,36 @@
       "zipcodes": [
         "39631",
         "39633",
-        "39669",
-        "396XX"
+        "39638",
+        "39669"
+      ]
+    },
+    {
+      "name": "HARRIETTE PERSON MEMORIAL LIBRARY",
+      "system": "HARRIETTE PERSON MEMORIAL LIBRARY",
+      "address": "606 MAIN STREET, PORT GIBSON, MS",
+      "website": "https://hpml.lib.ms.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "39069",
+        "39086",
+        "39096",
+        "39144",
+        "39150",
+        "39668"
+      ]
+    },
+    {
+      "name": "JUDGE ARMSTRONG LIBRARY",
+      "system": "JUDGE ARMSTRONG LIBRARY",
+      "address": "220 SOUTH COMMERCE STREET, NATCHEZ, MS",
+      "website": "https://armstronglibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "39120",
+        "39661"
       ]
     },
     {
@@ -51,9 +87,13 @@
       "formUrl": "https://www.smrl.lib.ms.us/copy-of-2nd-parent-caregivers",
       "formStatus": "verified",
       "zipcodes": [
+        "39427",
         "39429",
+        "39478",
         "39483",
-        "39643"
+        "39643",
+        "39656",
+        "39667"
       ]
     }
   ]

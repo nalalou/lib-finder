@@ -15,7 +15,8 @@
         "71956",
         "71964",
         "71968",
-        "72087"
+        "72087",
+        "72122"
       ]
     },
     {
@@ -27,10 +28,10 @@
       "formStatus": "verified",
       "zipcodes": [
         "71743",
+        "71763",
         "71921",
         "71923",
-        "71962",
-        "719HH"
+        "71962"
       ]
     },
     {
@@ -42,12 +43,62 @@
       "formStatus": "unknown",
       "zipcodes": [
         "71935",
+        "71943",
+        "71950",
+        "71952",
+        "71953",
         "71957",
         "71960",
         "71961",
         "71965",
         "71969",
-        "71970"
+        "71970",
+        "72841",
+        "72926",
+        "72950"
+      ]
+    },
+    {
+      "name": "SOUTHWEST ARKANSAS REGIONAL LIBRARY",
+      "system": "SOUTHWEST ARKANSAS REGIONAL LIBRARY",
+      "address": "121 WEST MAIN, PRESCOTT, AR",
+      "website": "https://www.homefacts.com/libraries/Arkansas/Nevada-County/Prescott/Southwest-Arkansas-Regional-Library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71722",
+        "71835",
+        "71857",
+        "71858",
+        "71922",
+        "71940",
+        "71958"
+      ]
+    },
+    {
+      "name": "TRI-COUNTY REGIONAL LIBRARY SYSTEM",
+      "system": "TRI-COUNTY REGIONAL LIBRARY SYSTEM",
+      "address": "200 W. STILWELL AVE., DE QUEEN, AR",
+      "website": "https://library.arkansas.gov/facilities/tri-county-regional-library-system-hq-sevier-county-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71820",
+        "71823",
+        "71832",
+        "71833",
+        "71836",
+        "71841",
+        "71842",
+        "71846",
+        "71866",
+        "71937",
+        "71944",
+        "71945",
+        "71959",
+        "71971",
+        "71972",
+        "71973"
       ]
     },
     {
@@ -58,11 +109,16 @@
       "formUrl": "https://midarls.ent.sirsi.net/client/en_US/mhscl#",
       "formStatus": "verified",
       "zipcodes": [
+        "71725",
         "71929",
         "71933",
         "71941",
+        "72015",
+        "72084",
         "72104",
-        "72105"
+        "72128",
+        "72129",
+        "72167"
       ]
     }
   ]

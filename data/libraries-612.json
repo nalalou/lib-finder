@@ -1,66 +1,6 @@
 {
   "libraries": [
     {
-      "name": "CHADWICK PUBLIC LIBRARY DISTRICT",
-      "system": "CHADWICK PUBLIC LIBRARY DISTRICT",
-      "address": "110 MAIN STREET, CHADWICK, IL",
-      "website": "https://chadwicklibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61014",
-        "61078",
-        "610HH",
-        "61285",
-        "612HH"
-      ]
-    },
-    {
-      "name": "LANARK PUBLIC LIBRARY",
-      "system": "LANARK PUBLIC LIBRARY",
-      "address": "111-B SOUTH BROAD STREET, LANARK, IL",
-      "website": "https://lanarkil.gov/lanark-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61046",
-        "61078",
-        "610HH",
-        "61285",
-        "612HH"
-      ]
-    },
-    {
-      "name": "MILLEDGEVILLE PUBLIC LIBRARY",
-      "system": "MILLEDGEVILLE PUBLIC LIBRARY",
-      "address": "18 WEST FIFTH STREET, MILLEDGEVILLE, IL",
-      "website": "https://milledgevillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61051",
-        "61078",
-        "610HH",
-        "61285",
-        "612HH"
-      ]
-    },
-    {
-      "name": "MOUNT CARROLL DISTRICT LIBRARY",
-      "system": "MOUNT CARROLL DISTRICT LIBRARY",
-      "address": "208 NORTH MAIN STREET, MOUNT CARROLL, IL",
-      "website": "https://mountcarrollpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61053",
-        "61078",
-        "610HH",
-        "61285",
-        "612HH"
-      ]
-    },
-    {
       "name": "ROCK FALLS PUBLIC LIBRARY DISTRICT",
       "system": "ROCK FALLS PUBLIC LIBRARY DISTRICT",
       "address": "1007 SEVENTH AVENUE, ROCK FALLS, IL",
@@ -71,26 +11,7 @@
         "61037",
         "61071",
         "61081",
-        "61230",
-        "61243",
-        "61251",
-        "61261",
-        "61283"
-      ]
-    },
-    {
-      "name": "SAVANNA PUBLIC LIBRARY DISTRICT",
-      "system": "SAVANNA PUBLIC LIBRARY DISTRICT",
-      "address": "326 THIRD STREET, SAVANNA, IL",
-      "website": "https://savannalibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61074",
-        "61078",
-        "610HH",
-        "61285",
-        "612HH"
+        "61243"
       ]
     },
     {
@@ -102,12 +23,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61232",
-        "61236",
-        "61239",
-        "61256",
         "61259",
         "61264",
-        "61265",
         "61279",
         "61284"
       ]
@@ -120,13 +37,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61233",
-        "61234",
-        "61262",
-        "61274",
-        "61413",
-        "61419",
-        "61468"
+        "61234"
       ]
     },
     {
@@ -137,13 +48,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61233",
-        "61235",
-        "61262",
-        "61274",
-        "61413",
-        "61419",
-        "61468"
+        "61235"
       ]
     },
     {
@@ -154,13 +59,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61233",
         "61238",
         "61262",
         "61274",
-        "61413",
-        "61419",
-        "61468"
+        "61419"
       ]
     },
     {
@@ -171,15 +73,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61236",
-        "61239",
-        "61242",
-        "61256",
-        "61259",
-        "61264",
-        "61265",
-        "61279",
-        "61284"
+        "61242"
       ]
     },
     {
@@ -193,12 +87,7 @@
         "61236",
         "61239",
         "61244",
-        "61256",
-        "61259",
-        "61264",
-        "61265",
-        "61279",
-        "61284"
+        "61256"
       ]
     },
     {
@@ -209,14 +98,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61037",
-        "61081",
         "61230",
-        "61243",
         "61250",
         "61251",
-        "61261",
-        "61283"
+        "61261"
       ]
     },
     {
@@ -227,13 +112,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61233",
-        "61254",
-        "61262",
-        "61274",
-        "61413",
-        "61419",
-        "61468"
+        "61254"
       ]
     },
     {
@@ -248,10 +127,22 @@
         "61260",
         "61263",
         "61272",
-        "61276",
         "61442",
-        "61466",
         "61476"
+      ]
+    },
+    {
+      "name": "MOLINE PUBLIC LIBRARY",
+      "system": "MOLINE PUBLIC LIBRARY",
+      "address": "3210 41ST STREET, MOLINE, IL",
+      "website": "https://molinepubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61236",
+        "61265",
+        "67345",
+        "67353"
       ]
     },
     {
@@ -262,15 +153,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61236",
-        "61239",
-        "61256",
-        "61257",
-        "61259",
-        "61264",
-        "61265",
-        "61279",
-        "61284"
+        "61257"
       ]
     },
     {
@@ -281,14 +164,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61037",
-        "61081",
-        "61230",
-        "61243",
         "61251",
         "61261",
-        "61270",
-        "61283"
+        "61270"
       ]
     },
     {
@@ -299,10 +177,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61037",
-        "61081",
-        "61230",
-        "61243",
         "61251",
         "61261",
         "61277",
@@ -317,15 +191,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61236",
-        "61239",
         "61256",
-        "61259",
-        "61264",
-        "61265",
-        "61275",
-        "61279",
-        "61284"
+        "61275"
       ]
     },
     {
@@ -336,15 +203,9 @@
       "formUrl": "https://www.robertrjoneslibrary.org/suggest",
       "formStatus": "verified",
       "zipcodes": [
-        "61236",
         "61239",
         "61240",
-        "61256",
-        "61259",
-        "61264",
-        "61265",
-        "61279",
-        "61284"
+        "61264"
       ]
     },
     {
@@ -356,14 +217,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61201",
-        "61236",
-        "61239",
-        "61256",
-        "61259",
-        "61264",
-        "61265",
-        "61279",
-        "61284"
+        "61264"
       ]
     },
     {
@@ -374,14 +228,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61037",
-        "61081",
         "61230",
-        "61243",
-        "61251",
-        "61252",
-        "61261",
-        "61283"
+        "61252"
       ]
     },
     {
@@ -392,14 +240,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61260",
         "61263",
-        "61272",
         "61276",
-        "61281",
-        "61442",
-        "61466",
-        "61476"
+        "61281"
       ]
     },
     {
@@ -413,12 +256,18 @@
         "61236",
         "61239",
         "61256",
-        "61259",
-        "61264",
-        "61265",
-        "61279",
-        "61282",
-        "61284"
+        "61282"
+      ]
+    },
+    {
+      "name": "YORK TOWNSHIP PUBLIC LIBRARY",
+      "system": "YORK TOWNSHIP PUBLIC LIBRARY",
+      "address": "1005 WEST MAIN STREET, THOMSON, IL",
+      "website": "https://www.thomsonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61285"
       ]
     },
     {
@@ -429,13 +278,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61233",
         "61241",
-        "61262",
-        "61274",
-        "61413",
-        "61419",
-        "61468"
+        "61274"
       ]
     },
     {
@@ -446,12 +290,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61233",
         "61262",
         "61273",
         "61274",
-        "61413",
-        "61419",
         "61468"
       ]
     },
@@ -463,65 +304,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61233",
         "61262",
-        "61274",
         "61413",
-        "61419",
         "61468",
         "61490"
-      ]
-    },
-    {
-      "name": "GALVA PUBLIC LIBRARY DISTRICT",
-      "system": "GALVA PUBLIC LIBRARY DISTRICT",
-      "address": "120 NORTHWEST THIRD AVENUE, GALVA, IL",
-      "website": "https://galvalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61233",
-        "61262",
-        "61274",
-        "61413",
-        "61419",
-        "61434",
-        "61468"
-      ]
-    },
-    {
-      "name": "KEWANEE PUBLIC LIBRARY DISTRICT",
-      "system": "KEWANEE PUBLIC LIBRARY DISTRICT",
-      "address": "102 SOUTH TREMONT STREET, KEWANEE, IL",
-      "website": "https://kewaneelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61233",
-        "61262",
-        "61274",
-        "61413",
-        "61419",
-        "61443",
-        "61468"
-      ]
-    },
-    {
-      "name": "NEW WINDSOR PUBLIC LIBRARY DISTRICT",
-      "system": "NEW WINDSOR PUBLIC LIBRARY DISTRICT",
-      "address": "412 MAIN STREET, NEW WINDSOR, IL",
-      "website": "https://newwindsoril.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61260",
-        "61263",
-        "61272",
-        "61276",
-        "61442",
-        "61465",
-        "61466",
-        "61476"
       ]
     },
     {
@@ -532,13 +318,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61260",
         "61263",
-        "61272",
         "61276",
-        "61442",
         "61466",
-        "61476",
         "61486"
       ]
     }

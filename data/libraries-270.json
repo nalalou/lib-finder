@@ -3,7 +3,7 @@
     {
       "name": "ROWAN PUBLIC LIBRARY",
       "system": "ROWAN PUBLIC LIBRARY",
-      "address": "201 W FISHER ST, SALISBURY, NC",
+      "address": "101 MAIN ST, ROWAN, IA",
       "website": "https://www.chamberofcommerce.com/united-states/iowa/rowan/public-library/29437114-rowan-public-library",
       "formUrl": null,
       "formStatus": "unknown",
@@ -19,24 +19,33 @@
         "28144",
         "28146",
         "28147",
-        "28159"
+        "28159",
+        "50101",
+        "50470"
       ]
     },
     {
       "name": "FORSYTH COUNTY PUBLIC LIBRARY",
       "system": "FORSYTH COUNTY PUBLIC LIBRARY",
-      "address": "585 DAHLONEGA STREET, CUMMING, GA",
+      "address": "660 W 5TH ST, WINSTON-SALEM, NC",
       "website": "https://www.forsythpl.org/cumming-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "27009",
         "27012",
+        "27016",
+        "27018",
+        "27019",
+        "27021",
         "27023",
         "27040",
+        "27043",
         "27045",
         "27050",
         "27051",
+        "27052",
+        "27053",
         "27101",
         "27103",
         "27104",
@@ -46,7 +55,8 @@
         "27109",
         "27127",
         "27284",
-        "30040"
+        "30040",
+        "30041"
       ]
     },
     {
@@ -71,31 +81,26 @@
       "formStatus": "unknown",
       "zipcodes": [
         "27007",
+        "27011",
         "27017",
+        "27020",
         "27024",
         "27030",
         "27041",
         "27047",
+        "27055",
         "28621",
+        "28623",
+        "28627",
+        "28635",
+        "28642",
+        "28659",
+        "28668",
+        "28669",
+        "28670",
         "28676",
-        "28683"
-      ]
-    },
-    {
-      "name": "DAVIDSON COUNTY PUBLIC LIBRARY SYSTEM",
-      "system": "DAVIDSON COUNTY PUBLIC LIBRARY SYSTEM",
-      "address": "602 S MAIN ST, LEXINGTON, NC",
-      "website": "https://www.co.davidson.nc.us/284/Lexington-Public-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "270HH",
-        "271HH",
-        "27239",
-        "27292",
-        "27295",
-        "27299",
-        "27360"
+        "28683",
+        "28685"
       ]
     },
     {
@@ -106,8 +111,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "27022",
         "27025",
         "27027",
+        "27042",
+        "27046",
         "27048",
         "27288",
         "27320",

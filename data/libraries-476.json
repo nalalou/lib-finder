@@ -1,15 +1,56 @@
 {
   "libraries": [
     {
+      "name": "PRINCETON PUBLIC LIBRARY",
+      "system": "PRINCETON PUBLIC LIBRARY",
+      "address": "920 MERCER STREET, PRINCETON, WV",
+      "website": "http://www.princetonpl.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01541",
+        "04668",
+        "08520",
+        "08540",
+        "08542",
+        "08550",
+        "08561",
+        "24712",
+        "24714",
+        "24731",
+        "24733",
+        "24736",
+        "24737",
+        "24740",
+        "25820",
+        "25841",
+        "25922",
+        "25971",
+        "47640",
+        "47649",
+        "47666",
+        "47670",
+        "53947",
+        "54968",
+        "61323",
+        "61328",
+        "61337",
+        "61356"
+      ]
+    },
+    {
       "name": "SPENCER COUNTY PUBLIC LIBRARY",
       "system": "SPENCER COUNTY PUBLIC LIBRARY",
-      "address": "210 WALNUT STREET, ROCKPORT, IN",
+      "address": "168 TAYLORSVILLE ROAD, TAYLORSVILLE, KY",
       "website": "https://spencercountypubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "40046",
         "40071",
+        "47611",
+        "47615",
+        "47634",
         "47635"
       ]
     },
@@ -22,15 +63,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "47639",
-        "47640",
-        "47647",
-        "47649",
-        "47654",
         "47665",
-        "47666",
-        "47670",
-        "47683",
-        "476HH"
+        "47670"
       ]
     },
     {
@@ -42,15 +76,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "47639",
-        "47640",
-        "47647",
         "47648",
         "47649",
-        "47654",
-        "47666",
-        "47670",
-        "47683",
-        "476HH"
+        "47670"
       ]
     },
     {
@@ -61,16 +89,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47639",
-        "47640",
-        "47647",
         "47649",
         "47654",
         "47660",
-        "47666",
-        "47670",
-        "47683",
-        "476HH"
+        "47683"
       ]
     },
     {
@@ -95,7 +117,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47612",
         "47616",
         "47631",
         "47638"
@@ -109,10 +130,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "47612",
-        "47616",
-        "47620",
-        "47638"
+        "47620"
       ]
     },
     {
@@ -124,10 +142,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "47610",
-        "47613",
-        "47619",
-        "47630",
-        "47637"
+        "47630"
       ]
     },
     {
@@ -143,27 +158,6 @@
         "47613",
         "47619",
         "47637"
-      ]
-    },
-    {
-      "name": "LINCOLN HERITAGE PUBLIC LIBRARY",
-      "system": "LINCOLN HERITAGE PUBLIC LIBRARY",
-      "address": "105 WALLACE STREET, DALE, IN",
-      "website": "https://www.lincolnheritage.lib.in.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "47523",
-        "47531",
-        "47536",
-        "47537",
-        "47550",
-        "47552",
-        "47577",
-        "47579",
-        "47611",
-        "47615",
-        "47634"
       ]
     }
   ]

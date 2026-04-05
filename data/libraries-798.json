@@ -3,11 +3,12 @@
     {
       "name": "MARATHON PUBLIC LIBRARY",
       "system": "MARATHON PUBLIC LIBRARY",
-      "address": "106 N 3RD ST, MARATHON, TX",
+      "address": "306 W ATTICA, MARATHON, IA",
       "website": "https://www.marathon.lib.ia.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50565",
         "79831",
         "79834",
         "79842",
@@ -18,7 +19,7 @@
       "name": "JEFF DAVIS COUNTY LIBRARY",
       "system": "JEFF DAVIS COUNTY LIBRARY",
       "address": "100 MEMORIAL SQUARE, FORT DAVIS, TX",
-      "website": "https://jeffdaviscountylibrary.ploud.net/",
+      "website": "https://ohoopeelibrary.org/locations/jeff-davis-county-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -36,30 +37,23 @@
       "zipcodes": [
         "79821",
         "79835",
-        "79838",
-        "79849",
-        "79853",
-        "798XX",
         "79901",
         "79902",
         "79903",
         "79904",
         "79905",
         "79906",
-        "79907",
         "79908",
         "79912",
         "79915",
         "79922",
         "79924",
         "79925",
-        "79927",
         "79930",
         "79932",
         "79934",
         "79935",
-        "79936",
-        "79938"
+        "79936"
       ]
     },
     {
@@ -70,31 +64,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79821",
-        "79835",
-        "79838",
+        "79837",
+        "79839",
         "79849",
-        "79853",
-        "798XX",
-        "79902",
-        "79903",
-        "79904",
-        "79905",
-        "79906",
-        "79907",
-        "79908",
-        "79912",
-        "79915",
-        "79922",
-        "79924",
-        "79925",
         "79927",
         "79928",
-        "79930",
-        "79932",
-        "79934",
-        "79935",
-        "79936",
         "79938"
       ]
     },
@@ -106,8 +80,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79843",
-        "79846"
+        "79843"
       ]
     },
     {
@@ -130,6 +103,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "79847",
+        "79851",
         "79855"
       ]
     },
@@ -141,10 +116,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79830",
-        "79831",
-        "79834",
-        "79852"
+        "79830"
       ]
     },
     {
@@ -167,32 +139,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79821",
-        "79835",
         "79836",
         "79838",
         "79849",
         "79853",
-        "798XX",
-        "79902",
-        "79903",
-        "79904",
-        "79905",
-        "79906",
         "79907",
-        "79908",
-        "79912",
-        "79915",
-        "79922",
-        "79924",
-        "79925",
-        "79927",
-        "79930",
-        "79932",
-        "79934",
-        "79935",
-        "79936",
-        "79938"
+        "79927"
       ]
     }
   ]

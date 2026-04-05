@@ -1,31 +1,6 @@
 {
   "libraries": [
     {
-      "name": "GROVES PUBLIC LIBRARY",
-      "system": "GROVES PUBLIC LIBRARY",
-      "address": "5600 W WASHINGTON ST, GROVES, TX",
-      "website": "https://www.groveslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "77613",
-        "77619",
-        "77622",
-        "77629",
-        "77640",
-        "77655",
-        "77702",
-        "77703",
-        "77705",
-        "77706",
-        "77707",
-        "77708",
-        "77713",
-        "777HH",
-        "777XX"
-      ]
-    },
-    {
       "name": "MARION & ED HUGHES PUBLIC LIBRARY",
       "system": "MARION & ED HUGHES PUBLIC LIBRARY",
       "address": "2712 NEDERLAND AVE, NEDERLAND, TX",
@@ -33,71 +8,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "77613",
         "77622",
         "77627",
-        "77629",
         "77640",
-        "77655",
-        "77702",
-        "77703",
-        "77705",
-        "77706",
-        "77707",
-        "77708",
-        "77713",
-        "777HH",
-        "777XX"
-      ]
-    },
-    {
-      "name": "PORT ARTHUR PUBLIC LIBRARY",
-      "system": "PORT ARTHUR PUBLIC LIBRARY",
-      "address": "4615 9TH AVE, PORT ARTHUR, TX",
-      "website": "https://stacks.paplibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "77613",
-        "77622",
-        "77629",
-        "77640",
-        "77642",
-        "77655",
-        "77702",
-        "77703",
-        "77705",
-        "77706",
-        "77707",
-        "77708",
-        "77713",
-        "777HH",
-        "777XX"
-      ]
-    },
-    {
-      "name": "EFFIE & WILTON HEBERT PUBLIC LIBRARY",
-      "system": "EFFIE & WILTON HEBERT PUBLIC LIBRARY",
-      "address": "2025 MERRIMAN ST, PORT NECHES, TX",
-      "website": "https://www.effie.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "77613",
-        "77622",
-        "77629",
-        "77640",
-        "77651",
-        "77655",
-        "77702",
-        "77703",
-        "77705",
-        "77706",
-        "77707",
-        "77708",
-        "77713",
-        "777HH",
-        "777XX"
+        "77705"
       ]
     },
     {
@@ -109,20 +23,14 @@
       "formStatus": "unknown",
       "zipcodes": [
         "77613",
-        "77622",
         "77629",
-        "77640",
-        "77655",
         "77701",
         "77702",
         "77703",
-        "77705",
         "77706",
         "77707",
         "77708",
-        "77713",
-        "777HH",
-        "777XX"
+        "77713"
       ]
     }
   ]

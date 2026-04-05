@@ -1,313 +1,17 @@
 {
   "libraries": [
     {
-      "name": "HULL PUBLIC LIBRARY",
-      "system": "HULL PUBLIC LIBRARY",
-      "address": "9 MAIN ST., HULL, MA",
-      "website": "https://www.hullpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02045",
-        "02302",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
-      ]
-    },
-    {
-      "name": "ACUSHNET PUBLIC LIBRARY",
-      "system": "ACUSHNET PUBLIC LIBRARY",
-      "address": "232 MIDDLE ROAD, ACUSHNET, MA",
-      "website": "https://acupl.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02743",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02779",
-        "027HH"
-      ]
-    },
-    {
-      "name": "ATTLEBORO PUBLIC LIBRARY",
-      "system": "ATTLEBORO PUBLIC LIBRARY",
-      "address": "74 NORTH MAIN STREET, ATTLEBORO, MA",
-      "website": "https://attleborolibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02703",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02779",
-        "027HH"
-      ]
-    },
-    {
-      "name": "DARTMOUTH PUBLIC LIBRARIES",
-      "system": "DARTMOUTH PUBLIC LIBRARIES",
-      "address": "732 DARTMOUTH STREET, DARTMOUTH, MA",
-      "website": "http://www.dartmouthma.gov/283/Library",
-      "formUrl": "https://www.dartmouthma.gov/283/Library/551/Interlibrary-Loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02748",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02779",
-        "027HH"
-      ]
-    },
-    {
-      "name": "DIGHTON PUBLIC LIBRARY",
-      "system": "DIGHTON PUBLIC LIBRARY",
-      "address": "979 SOMERSET AVE., DIGHTON, MA",
-      "website": "https://dightonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02715",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02779",
-        "027HH"
-      ]
-    },
-    {
-      "name": "MILLICENT LIBRARY",
-      "system": "MILLICENT LIBRARY",
-      "address": "45 CENTER ST., FAIRHAVEN, MA",
-      "website": "https://millicentlibrary.org/",
-      "formUrl": "https://millicentlibrary.org/PurchaseMaterialsRequest",
-      "formStatus": "verified",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02718",
-        "02719",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02779",
-        "027HH"
-      ]
-    },
-    {
-      "name": "FALL RIVER PUBLIC LIBRARY",
-      "system": "FALL RIVER PUBLIC LIBRARY",
-      "address": "314 MERCHANT AVE., FALL RIVER, KS",
-      "website": "https://fallriverlibrary.org/",
-      "formUrl": "https://fallriverlibrary.org/suggest-an-item/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02779",
-        "027HH",
-        "67047"
-      ]
-    },
-    {
-      "name": "ELIZABETH TABER LIBRARY",
-      "system": "ELIZABETH TABER LIBRARY",
-      "address": "8 SPRING ST., MARION, MA",
-      "website": "https://elizabethtaberlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02302",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576",
-        "02738"
-      ]
-    },
-    {
-      "name": "MATTAPOISETT FREE PUBLIC LIBRARY",
-      "system": "MATTAPOISETT FREE PUBLIC LIBRARY",
-      "address": "7 BARSTOW STREET, MATTAPOISETT, MA",
-      "website": "https://mattapoisettlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02302",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576",
-        "02739"
-      ]
-    },
-    {
-      "name": "NEW BEDFORD FREE PUBLIC LIBRARY",
-      "system": "NEW BEDFORD FREE PUBLIC LIBRARY",
-      "address": "613 PLEASANT STREET, NEW BEDFORD, MA",
-      "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=1077",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02740",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02779",
-        "027HH"
-      ]
-    },
-    {
       "name": "NORTON PUBLIC LIBRARY",
       "system": "NORTON PUBLIC LIBRARY",
-      "address": "1 WASHINGTON SQUARE, NORTON, KS",
+      "address": "68 E. MAIN STREET, NORTON, MA",
       "website": "https://nortonlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "02048",
         "02375",
-        "02702",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
         "02763",
-        "02764",
         "02766",
-        "02779",
-        "027HH",
         "67654"
       ]
     },
@@ -319,363 +23,79 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02048",
         "02375",
-        "02702",
         "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02767",
-        "02779",
-        "027HH"
-      ]
-    },
-    {
-      "name": "BLANDING FREE PUBLIC LIBRARY",
-      "system": "BLANDING FREE PUBLIC LIBRARY",
-      "address": "124 BAY STATE ROAD, REHOBOTH, MA",
-      "website": "https://rehobothantiquarian.org/blanding-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02769",
-        "02779",
-        "027HH"
-      ]
-    },
-    {
-      "name": "JOSEPH H. PLUMB MEMORIAL LIBRARY",
-      "system": "JOSEPH H. PLUMB MEMORIAL LIBRARY",
-      "address": "17 CONSTITUTION WAY, ROCHESTER, MA",
-      "website": "https://plumblibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02302",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576",
-        "02770"
-      ]
-    },
-    {
-      "name": "SEEKONK PUBLIC LIBRARY",
-      "system": "SEEKONK PUBLIC LIBRARY",
-      "address": "410 NEWMAN AVE., SEEKONK, MA",
-      "website": "https://seekonkpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02771",
-        "02779",
-        "027HH"
-      ]
-    },
-    {
-      "name": "SWANSEA FREE PUBLIC LIBRARY",
-      "system": "SWANSEA FREE PUBLIC LIBRARY",
-      "address": "69 MAIN ST., SWANSEA, MA",
-      "website": "https://mblc.state.ma.us/directories/libraries/library.php?record_id=1686",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02777",
-        "02779",
-        "027HH"
-      ]
-    },
-    {
-      "name": "TAUNTON PUBLIC LIBRARY",
-      "system": "TAUNTON PUBLIC LIBRARY",
-      "address": "12 PLEASANT STREET, TAUNTON, MA",
-      "website": "https://www.tauntonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02779",
-        "02780",
-        "027HH"
-      ]
-    },
-    {
-      "name": "WESTPORT FREE PUBLIC LIBRARY",
-      "system": "WESTPORT FREE PUBLIC LIBRARY",
-      "address": "408 OLD COUNTY RD., WESTPORT, MA",
-      "website": "https://westport-ma.com/departments/westport_free_public_library/index.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02779",
-        "02790",
-        "027HH"
-      ]
-    },
-    {
-      "name": "JAMES WHITE MEMORIAL LIB.",
-      "system": "JAMES WHITE MEMORIAL LIB.",
-      "address": "5 WASHBURN ROAD, EAST FREETOWN, MA",
-      "website": "https://www.freetownma.gov/1203/Libraries",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02717",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02779",
-        "027HH"
+        "02767"
       ]
     },
     {
       "name": "AVON PUBLIC LIBRARY",
       "system": "AVON PUBLIC LIBRARY",
-      "address": "280 WEST MAIN ST., AVON, MA",
+      "address": "116 N. MAIN STREET, AVON, SD",
       "website": "https://www.avon-ma.gov/avon-public-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "02072",
         "02322",
-        "57063",
-        "570HH",
+        "02343",
         "57315"
       ]
     },
     {
       "name": "HOLBROOK PUBLIC LIBRARY",
       "system": "HOLBROOK PUBLIC LIBRARY",
-      "address": "2 PLYMOUTH ST., HOLBROOK, MA",
+      "address": "403 PARK ST, HOLBROOK, AZ",
       "website": "https://holbrookpubliclibrary.org/",
       "formUrl": "https://holbrookpubliclibrary.org/recommends-monthly-reading-suggestions",
       "formStatus": "verified",
       "zipcodes": [
-        "02019",
-        "02021",
-        "02032",
-        "02038",
-        "02056",
-        "02067",
-        "02071",
-        "020HH",
-        "02170",
-        "02171",
-        "02184",
-        "02186",
-        "02189",
         "02190",
-        "02191",
-        "021HH",
         "02343",
-        "02446",
-        "02481",
-        "02492",
-        "02762"
+        "85942",
+        "86025",
+        "86031",
+        "86032"
       ]
     },
     {
-      "name": "HINGHAM PUBLIC LIBRARY",
-      "system": "HINGHAM PUBLIC LIBRARY",
-      "address": "66 LEAVITT ST., HINGHAM, MA",
-      "website": "https://hinghamlibrary.org/",
+      "name": "PLYMOUTH PUBLIC LIBRARY",
+      "system": "PLYMOUTH PUBLIC LIBRARY",
+      "address": "103 NORTH JEFFERSON AVENUE, PLYMOUTH, NE",
+      "website": "https://plymouthpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02043",
-        "02302",
-        "02358",
         "02360",
-        "02364",
         "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "18617",
+        "18618",
+        "18621",
+        "18651",
+        "18706",
+        "18708",
+        "46537",
+        "46563",
+        "53011",
+        "53023",
+        "53073",
+        "53093",
+        "68377",
+        "68424"
       ]
     },
     {
-      "name": "VENTRESS MEMORIAL LIBRARY",
-      "system": "VENTRESS MEMORIAL LIBRARY",
-      "address": "15 LIBRARY PLAZA, MARSHFIELD, MA",
-      "website": "https://www.ventresslibrary.org/",
-      "formUrl": "https://www.ventresslibrary.org/request-a-book/",
-      "formStatus": "verified",
+      "name": "STOUGHTON PUBLIC LIBRARY",
+      "system": "STOUGHTON PUBLIC LIBRARY",
+      "address": "304 S. 4TH ST., STOUGHTON, WI",
+      "website": "https://www.stoughton.org/657/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
-        "02050",
-        "02302",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
-      ]
-    },
-    {
-      "name": "NORWELL PUBLIC LIBRARY",
-      "system": "NORWELL PUBLIC LIBRARY",
-      "address": "64 SOUTH ST., NORWELL, MA",
-      "website": "https://www.norwellpubliclibrary.org/",
-      "formUrl": "https://www.norwellpubliclibrary.org/new-page",
-      "formStatus": "verified",
-      "zipcodes": [
-        "02061",
-        "02302",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
-      ]
-    },
-    {
-      "name": "SCITUATE TOWN LIBRARY",
-      "system": "SCITUATE TOWN LIBRARY",
-      "address": "85 BRANCH ST., SCITUATE, MA",
-      "website": "https://www.scituatema.gov/town-library",
-      "formUrl": "https://www.scituatema.gov/town-library/adults/pages/request-a-book-pack-or-bookmatch",
-      "formStatus": "verified",
-      "zipcodes": [
-        "02066",
-        "02302",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02021",
+        "02072",
+        "02322",
+        "53589"
       ]
     },
     {
@@ -687,16 +107,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02302",
-        "02351",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02351"
       ]
     },
     {
@@ -707,17 +118,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02302",
-        "02324",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02324"
       ]
     },
     {
@@ -729,16 +130,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02301",
-        "02302",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02302"
       ]
     },
     {
@@ -749,17 +141,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02302",
         "02330",
-        "02358",
         "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02366"
       ]
     },
     {
@@ -770,17 +154,7 @@
       "formUrl": "https://www.town.duxbury.ma.us/duxbury-free-library/how-do-i/pages/request-item-outside-ocln",
       "formStatus": "verified",
       "zipcodes": [
-        "02302",
-        "02332",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02332"
       ]
     },
     {
@@ -791,17 +165,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02302",
-        "02333",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02333"
       ]
     },
     {
@@ -812,27 +176,8 @@
       "formUrl": "https://amesfreelibrary.org/purchase-request-form",
       "formStatus": "verified",
       "zipcodes": [
-        "02048",
         "02356",
-        "02375",
-        "02702",
-        "02718",
-        "02720",
-        "02721",
-        "02723",
-        "02724",
-        "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02779",
-        "027HH"
+        "02375"
       ]
     },
     {
@@ -843,17 +188,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02302",
-        "02338",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02338"
       ]
     },
     {
@@ -864,17 +199,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02302",
-        "02339",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02339"
       ]
     },
     {
@@ -885,17 +210,20 @@
       "formUrl": "https://hansonlibrary.org/services/comcat-ill/",
       "formStatus": "verified",
       "zipcodes": [
-        "02302",
-        "02341",
-        "02358",
+        "02341"
+      ]
+    },
+    {
+      "name": "KINGSTON PUBLIC LIBRARY",
+      "system": "KINGSTON PUBLIC LIBRARY",
+      "address": "6 GREEN STREET, KINGSTON, MA",
+      "website": "https://www.kingstonma.gov/779/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
         "02360",
         "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "37763"
       ]
     },
     {
@@ -906,17 +234,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02302",
-        "02347",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02347"
       ]
     },
     {
@@ -927,17 +245,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02302",
-        "02346",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02346"
       ]
     },
     {
@@ -948,17 +256,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02302",
-        "02358",
-        "02359",
-        "02360",
-        "02364",
-        "02366",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02359"
       ]
     },
     {
@@ -969,17 +267,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02302",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "02367",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02367"
       ]
     },
     {
@@ -990,27 +278,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02019",
-        "02021",
-        "02032",
-        "02038",
-        "02056",
-        "02067",
-        "02071",
-        "020HH",
-        "02170",
-        "02171",
-        "02184",
-        "02186",
-        "02189",
-        "02190",
-        "02191",
-        "021HH",
-        "02368",
-        "02446",
-        "02481",
-        "02492",
-        "02762"
+        "02322",
+        "02343",
+        "02368"
       ]
     },
     {
@@ -1021,17 +291,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02302",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "02370",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02370"
       ]
     },
     {
@@ -1042,17 +302,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02302",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "02379",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02379"
       ]
     },
     {
@@ -1064,16 +314,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "02302",
-        "02358",
-        "02360",
-        "02364",
-        "02366",
-        "02382",
-        "023HH",
-        "023XX",
-        "02538",
-        "02558",
-        "02576"
+        "02382"
       ]
     },
     {
@@ -1084,13 +325,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "02302",
-        "02358",
-        "02360",
-        "02364",
         "02366",
-        "023HH",
-        "023XX",
         "02538",
         "02558",
         "02571",

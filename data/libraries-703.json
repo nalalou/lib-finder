@@ -8,7 +8,11 @@
       "formUrl": "https://assumptionlibrary.com/inter-library-loan/",
       "formStatus": "verified",
       "zipcodes": [
-        "70390"
+        "70339",
+        "70341",
+        "70390",
+        "70391",
+        "70393"
       ]
     },
     {
@@ -19,7 +23,17 @@
       "formUrl": "https://www.myapl.org/requests-16742",
       "formStatus": "verified",
       "zipcodes": [
-        "70346"
+        "70086",
+        "70341",
+        "70346",
+        "70391",
+        "70393",
+        "70721",
+        "70723",
+        "70725",
+        "70734",
+        "70737",
+        "70778"
       ]
     },
     {
@@ -30,7 +44,11 @@
       "formUrl": "https://www.lafourche.org/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "70301"
+        "70301",
+        "70356",
+        "70359",
+        "70372",
+        "70395"
       ]
     },
     {
@@ -41,7 +59,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70360"
+        "70343",
+        "70344",
+        "70353",
+        "70354",
+        "70357",
+        "70359",
+        "70360",
+        "70363",
+        "70364",
+        "70374",
+        "70375",
+        "70377",
+        "70394",
+        "70397"
       ]
     },
     {
@@ -52,7 +83,68 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70380"
+        "70342",
+        "70380",
+        "70392"
+      ]
+    },
+    {
+      "name": "PLAQUEMINES PARISH LIBRARY",
+      "system": "PLAQUEMINES PARISH LIBRARY",
+      "address": "8442 HWY. 23, BELLE CHASSE, LA",
+      "website": "https://www.plaqueminesparish.gov/156/Public-Libraries",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70032",
+        "70036",
+        "70037",
+        "70038",
+        "70040",
+        "70041",
+        "70050",
+        "70053",
+        "70056",
+        "70058",
+        "70067",
+        "70072",
+        "70075",
+        "70082",
+        "70083",
+        "70091",
+        "70092",
+        "70114",
+        "70115",
+        "70117",
+        "70130",
+        "70131",
+        "70345",
+        "70358"
+      ]
+    },
+    {
+      "name": "ST. CHARLES PARISH LIBRARY",
+      "system": "ST. CHARLES PARISH LIBRARY",
+      "address": "160 W. CAMPUS DRIVE, DESTREHAN, LA",
+      "website": "https://www.myscpl.org/locations/east-regional",
+      "formUrl": "https://www.myscpl.org/locations/east-regional/suggest",
+      "formStatus": "verified",
+      "zipcodes": [
+        "70030",
+        "70031",
+        "70039",
+        "70047",
+        "70057",
+        "70062",
+        "70065",
+        "70070",
+        "70079",
+        "70080",
+        "70087",
+        "70094",
+        "70123",
+        "70355",
+        "70373"
       ]
     }
   ]

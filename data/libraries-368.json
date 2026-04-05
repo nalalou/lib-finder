@@ -1,6 +1,25 @@
 {
   "libraries": [
     {
+      "name": "AUBURN PUBLIC LIBRARY",
+      "system": "AUBURN PUBLIC LIBRARY",
+      "address": "209 PINE ST, AUBURN, IA",
+      "website": "http://www.auburn.lib.me.us",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04210",
+        "04250",
+        "04258",
+        "36804",
+        "36830",
+        "36832",
+        "36849",
+        "36879",
+        "51433"
+      ]
+    },
+    {
       "name": "HORSESHOE BEND REGIONAL LIBRARY",
       "system": "HORSESHOE BEND REGIONAL LIBRARY",
       "address": "207 NORTH WEST STREET, DADEVILLE, AL",
@@ -22,7 +41,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36256",
         "36850",
         "36853",
         "36861"
@@ -38,14 +56,11 @@
       "zipcodes": [
         "36801",
         "36804",
-        "36830",
-        "36832",
         "36849",
         "36852",
         "36870",
         "36874",
-        "36877",
-        "36879"
+        "36877"
       ]
     },
     {
@@ -76,8 +91,7 @@
         "36854",
         "36855",
         "36862",
-        "36863",
-        "368HH"
+        "36863"
       ]
     },
     {
@@ -89,22 +103,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "35010",
-        "36256",
-        "36850",
-        "36861"
-      ]
-    },
-    {
-      "name": "TALLASSEE COMMUNITY PUBLIC LIBRARY",
-      "system": "TALLASSEE COMMUNITY PUBLIC LIBRARY",
-      "address": "99 FREEMAN AVENUE, TALLASSEE, AL",
-      "website": "https://www.tallasseeal.gov/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36078",
-        "36256",
-        "36850",
         "36861"
       ]
     },

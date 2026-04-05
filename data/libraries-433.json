@@ -3,16 +3,32 @@
     {
       "name": "MARION PUBLIC LIBRARY",
       "system": "MARION PUBLIC LIBRARY",
-      "address": "445 E. CHURCH ST., MARION, OH",
+      "address": "120 N. MAIN ST., MARION, WI",
       "website": "https://marionpubliclibrary.info/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "14505",
+        "14513",
         "43302",
+        "43314",
+        "43322",
+        "43332",
+        "43337",
+        "43341",
+        "43342",
+        "43356",
+        "46952",
+        "46953",
+        "46987",
+        "52302",
+        "52328",
+        "52341",
+        "52402",
+        "52403",
+        "52411",
         "54933",
-        "54950",
-        "54961",
-        "54962"
+        "54950"
       ]
     },
     {
@@ -24,18 +40,11 @@
       "formStatus": "unknown",
       "zipcodes": [
         "43310",
-        "43318",
-        "43319",
         "43324",
         "43331",
         "43333",
-        "43336",
-        "43343",
         "43347",
-        "43348",
-        "43357",
-        "43358",
-        "433HH"
+        "43348"
       ]
     },
     {
@@ -48,17 +57,11 @@
       "zipcodes": [
         "43311",
         "43318",
-        "43319",
         "43324",
-        "43331",
-        "43333",
-        "43336",
         "43343",
         "43347",
         "43348",
-        "43357",
-        "43358",
-        "433HH"
+        "43357"
       ]
     },
     {
@@ -72,8 +75,7 @@
         "43315",
         "43320",
         "43321",
-        "43334",
-        "43350"
+        "43334"
       ]
     },
     {
@@ -85,10 +87,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "43316",
-        "43323",
         "43359",
-        "44844",
-        "44849"
+        "44844"
       ]
     },
     {
@@ -100,10 +100,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "43317",
-        "43320",
         "43321",
-        "43334",
-        "43350"
+        "43334"
       ]
     },
     {
@@ -116,9 +114,7 @@
       "zipcodes": [
         "43320",
         "43321",
-        "43334",
-        "43338",
-        "43350"
+        "43338"
       ]
     },
     {
@@ -131,9 +127,7 @@
       "zipcodes": [
         "43326",
         "43340",
-        "43345",
-        "45835",
-        "45859"
+        "43345"
       ]
     },
     {
@@ -145,10 +139,6 @@
       "formStatus": "verified",
       "zipcodes": [
         "43036",
-        "43040",
-        "43045",
-        "43067",
-        "43077",
         "43344"
       ]
     },
@@ -160,11 +150,7 @@
       "formUrl": "https://www.perrycooklibrary.org/content/1000-books-kindergarten-suggested-list-books-your-child-should-hear-kindergarten",
       "formStatus": "verified",
       "zipcodes": [
-        "43320",
-        "43321",
-        "43334",
-        "43338",
-        "43350"
+        "43338"
       ]
     },
     {
@@ -178,7 +164,6 @@
         "43323",
         "43351",
         "43359",
-        "44844",
         "44849"
       ]
     },
@@ -190,34 +175,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43318",
         "43319",
-        "43324",
-        "43331",
-        "43333",
         "43336",
-        "43343",
         "43347",
-        "43348",
         "43357",
         "43358",
-        "43360",
-        "433HH"
-      ]
-    },
-    {
-      "name": "MOHAWK COMMUNITY LIBRARY",
-      "system": "MOHAWK COMMUNITY LIBRARY",
-      "address": "200 S. SYCAMORE AVE., SYCAMORE, OH",
-      "website": "https://www.mohawkcl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "43323",
-        "43359",
-        "44844",
-        "44849",
-        "44882"
+        "43360"
       ]
     },
     {
@@ -231,67 +194,6 @@
         "43326",
         "43345",
         "44326",
-        "45835",
-        "45859"
-      ]
-    },
-    {
-      "name": "ADA PUBLIC SCHOOL DISTRICT LIBRARY",
-      "system": "ADA PUBLIC SCHOOL DISTRICT LIBRARY",
-      "address": "320 N MAIN ST, ADA, OH",
-      "website": "https://www.adalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "43326",
-        "43345",
-        "45810",
-        "45835",
-        "45859"
-      ]
-    },
-    {
-      "name": "ALGER PUBLIC LIBRARY",
-      "system": "ALGER PUBLIC LIBRARY",
-      "address": "100 W WAGNER ST, ALGER, OH",
-      "website": "https://www.algerlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "43326",
-        "43345",
-        "45812",
-        "45835",
-        "45859"
-      ]
-    },
-    {
-      "name": "HARDIN NORTHERN PUBLIC LIBRARY",
-      "system": "HARDIN NORTHERN PUBLIC LIBRARY",
-      "address": "153 N. MAIN ST., DUNKIRK, OH",
-      "website": "https://www.hardinnorthernpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "43326",
-        "43345",
-        "45835",
-        "45836",
-        "45859"
-      ]
-    },
-    {
-      "name": "FOREST-JACKSON PUBLIC LIBRARY",
-      "system": "FOREST-JACKSON PUBLIC LIBRARY",
-      "address": "102 W. LIMA ST, FOREST, OH",
-      "website": "https://www.forestlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "43326",
-        "43345",
-        "45835",
-        "45843",
         "45859"
       ]
     }

@@ -1,6 +1,62 @@
 {
   "libraries": [
     {
+      "name": "COLUMBUS-LOWNDES PUBLIC LIBRARY",
+      "system": "COLUMBUS-LOWNDES PUBLIC LIBRARY",
+      "address": "314 NORTH 7TH STREET, COLUMBUS, MS",
+      "website": "https://www.lowndeslibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38844",
+        "39701",
+        "39702",
+        "39705",
+        "39736",
+        "39740",
+        "39743",
+        "39766"
+      ]
+    },
+    {
+      "name": "TOMBIGBEE REGIONAL LIBRARY",
+      "system": "TOMBIGBEE REGIONAL LIBRARY",
+      "address": "436 COMMERCE STREET, WEST POINT, MS",
+      "website": "https://www.tombigbee.lib.ms.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38848",
+        "39730",
+        "39741",
+        "39746",
+        "39755",
+        "39756",
+        "39773"
+      ]
+    },
+    {
+      "name": "UNION COUNTY LIBRARY SYSTEM",
+      "system": "UNION COUNTY LIBRARY SYSTEM",
+      "address": "300 EAST SOUTH STREET, UNION, SC",
+      "website": "https://unioncountylibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29031",
+        "29321",
+        "29353",
+        "29364",
+        "29379",
+        "38610",
+        "38625",
+        "38627",
+        "38650",
+        "38652",
+        "38828"
+      ]
+    },
+    {
       "name": "DIXIE REGIONAL LIBRARY SYSTEM",
       "system": "DIXIE REGIONAL LIBRARY SYSTEM",
       "address": "111 NORTH MAIN STREET, PONTOTOC, MS",
@@ -9,11 +65,13 @@
       "formStatus": "unknown",
       "zipcodes": [
         "38841",
+        "38850",
+        "38851",
         "38863",
         "38864",
         "38869",
         "38871",
-        "38874"
+        "38878"
       ]
     },
     {
@@ -26,12 +84,23 @@
       "zipcodes": [
         "38801",
         "38804",
+        "38821",
+        "38824",
         "38826",
+        "38843",
+        "38847",
         "38849",
+        "38855",
+        "38856",
         "38857",
+        "38858",
+        "38859",
+        "38860",
         "38862",
         "38866",
         "38868",
+        "38870",
+        "38876",
         "38879"
       ]
     },
@@ -43,9 +112,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "38827",
+        "38829",
+        "38833",
         "38834",
+        "38838",
         "38846",
-        "38865"
+        "38852",
+        "38865",
+        "38873"
       ]
     }
   ]

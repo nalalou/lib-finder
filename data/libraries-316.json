@@ -1,6 +1,52 @@
 {
   "libraries": [
     {
+      "name": "SATILLA REGIONAL LIBRARY SYSTEM",
+      "system": "SATILLA REGIONAL LIBRARY SYSTEM",
+      "address": "200 S. MADISON AVENUE, SUITE D, DOUGLAS, GA",
+      "website": "https://librarytechnology.org/library/8373",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31512",
+        "31519",
+        "31532",
+        "31533",
+        "31535",
+        "31539",
+        "31544",
+        "31554",
+        "31567",
+        "31624",
+        "31642",
+        "31650",
+        "31798"
+      ]
+    },
+    {
+      "name": "OKEFENOKEE REGIONAL LIBRARY SYSTEM",
+      "system": "OKEFENOKEE REGIONAL LIBRARY SYSTEM",
+      "address": "401 LEE AVENUE, WAYCROSS, GA",
+      "website": "https://okrls.org/",
+      "formUrl": "https://okrls.org/resources/request_an_interlibrary_loan.php",
+      "formStatus": "verified",
+      "zipcodes": [
+        "31501",
+        "31503",
+        "31510",
+        "31516",
+        "31537",
+        "31542",
+        "31550",
+        "31551",
+        "31552",
+        "31553",
+        "31557",
+        "31623",
+        "31634"
+      ]
+    },
+    {
       "name": "BROOKS COUNTY PUBLIC LIBRARY",
       "system": "BROOKS COUNTY PUBLIC LIBRARY",
       "address": "404 BARWICK ROAD, QUITMAN, GA",
@@ -26,9 +72,18 @@
         "31602",
         "31605",
         "31606",
+        "31620",
+        "31627",
+        "31630",
+        "31631",
         "31632",
+        "31635",
         "31636",
+        "31639",
         "31641",
+        "31645",
+        "31648",
+        "31649",
         "31699"
       ]
     },
@@ -48,6 +103,28 @@
         "31773",
         "31778",
         "31792"
+      ]
+    },
+    {
+      "name": "COASTAL PLAIN REGIONAL LIBRARY",
+      "system": "COASTAL PLAIN REGIONAL LIBRARY",
+      "address": "2014 CHESTNUT AVENUE, TIFTON, GA",
+      "website": "https://www.cprl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31622",
+        "31637",
+        "31647",
+        "31733",
+        "31749",
+        "31750",
+        "31774",
+        "31775",
+        "31783",
+        "31790",
+        "31794",
+        "31795"
       ]
     }
   ]

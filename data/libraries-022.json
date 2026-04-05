@@ -25,7 +25,6 @@
         "02125",
         "02126",
         "02127",
-        "02128",
         "02129",
         "02130",
         "02131",
@@ -33,22 +32,19 @@
         "02134",
         "02135",
         "02136",
-        "02150",
         "02163",
         "02199",
         "02210",
-        "02215",
-        "02222",
-        "022HH"
+        "02215"
       ]
     },
     {
-      "name": "REVERE PUBLIC LIBRARY",
-      "system": "REVERE PUBLIC LIBRARY",
-      "address": "179 BEACH ST., REVERE, MA",
-      "website": "https://www.reverepubliclibrary.org/",
-      "formUrl": "https://www.reverepubliclibrary.org/services/suggest-a-title/",
-      "formStatus": "verified",
+      "name": "CHELSEA PUBLIC LIBRARY",
+      "system": "CHELSEA PUBLIC LIBRARY",
+      "address": "569 BROADWAY, CHELSEA, MA",
+      "website": "https://www.chelseama.gov/departments/library/",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
         "02108",
         "02109",
@@ -70,18 +66,36 @@
         "02129",
         "02130",
         "02131",
-        "02132",
         "02134",
         "02135",
-        "02136",
         "02150",
-        "02151",
         "02163",
         "02199",
         "02210",
         "02215",
-        "02222",
-        "022HH"
+        "35043",
+        "35147",
+        "52215",
+        "52348",
+        "74016"
+      ]
+    },
+    {
+      "name": "REVERE PUBLIC LIBRARY",
+      "system": "REVERE PUBLIC LIBRARY",
+      "address": "179 BEACH ST., REVERE, MA",
+      "website": "https://www.reverepubliclibrary.org/",
+      "formUrl": "https://www.reverepubliclibrary.org/services/suggest-a-title/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "02114",
+        "02128",
+        "02129",
+        "02134",
+        "02135",
+        "02151",
+        "02163",
+        "02215"
       ]
     },
     {
@@ -97,7 +111,6 @@
         "02110",
         "02111",
         "02113",
-        "02114",
         "02115",
         "02118",
         "02119",
@@ -109,21 +122,11 @@
         "02126",
         "02127",
         "02128",
-        "02129",
         "02130",
         "02131",
-        "02132",
-        "02134",
-        "02135",
-        "02136",
-        "02150",
         "02152",
-        "02163",
         "02199",
-        "02210",
-        "02215",
-        "02222",
-        "022HH"
+        "02210"
       ]
     }
   ]

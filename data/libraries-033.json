@@ -1,51 +1,6 @@
 {
   "libraries": [
     {
-      "name": "HOOKSETT PUBLIC LIBRARY",
-      "system": "HOOKSETT PUBLIC LIBRARY",
-      "address": "31 MOUNT SAINT MARY'S WAY, HOOKSETT, NH",
-      "website": "https://www.hooksettlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03106",
-        "03233",
-        "03260",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "DUNBARTON PUBLIC LIBRARY",
-      "system": "DUNBARTON PUBLIC LIBRARY",
-      "address": "1004 SCHOOL STREET, DUNBARTON, NH",
-      "website": "https://www.dunbartonlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03046",
-        "03233",
-        "03260",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "HALL MEMORIAL LIBRARY",
-      "system": "HALL MEMORIAL LIBRARY",
-      "address": "18 PARK STREET, NORTHFIELD, NH",
-      "website": "https://library.ellington-ct.gov/",
-      "formUrl": "https://library.ellington-ct.gov/children-and-teens/teens/recommended-books",
-      "formStatus": "verified",
-      "zipcodes": [
-        "03233",
-        "03260",
-        "03273",
-        "03276",
-        "033HH"
-      ]
-    },
-    {
       "name": "MAXFIELD PUBLIC LIBRARY",
       "system": "MAXFIELD PUBLIC LIBRARY",
       "address": "8 ROUTE 129, LOUDON, NH",
@@ -53,11 +8,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03233",
-        "03260",
-        "03273",
-        "03307",
-        "033HH"
+        "03307"
       ]
     },
     {
@@ -68,11 +19,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03233",
-        "03260",
-        "03273",
-        "03303",
-        "033HH"
+        "03303"
       ]
     },
     {
@@ -83,11 +30,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03233",
-        "03260",
-        "03273",
-        "03303",
-        "033HH"
+        "03303"
       ]
     },
     {
@@ -98,11 +41,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03233",
-        "03260",
-        "03273",
-        "03304",
-        "033HH"
+        "03304"
       ]
     },
     {
@@ -113,251 +52,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03233",
-        "03260",
-        "03273",
-        "03301",
-        "033HH"
-      ]
-    },
-    {
-      "name": "TUCKER FREE LIBRARY",
-      "system": "TUCKER FREE LIBRARY",
-      "address": "31 WESTERN AVENUE, HENNIKER, NH",
-      "website": "https://www.tuckerfreelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03233",
-        "03242",
-        "03260",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "HILL PUBLIC LIBRARY",
-      "system": "HILL PUBLIC LIBRARY",
-      "address": "30 CRESCENT STREET, HILL, NH",
-      "website": "https://hillpubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03233",
-        "03243",
-        "03260",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "HOPKINTON TOWN LIBRARY",
-      "system": "HOPKINTON TOWN LIBRARY",
-      "address": "61 HOUSTON DRIVE, CONTOOCOOK, NH",
-      "website": "https://www.hopkintontownlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03229",
-        "03233",
-        "03260",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "NEWBURY PUBLIC LIBRARY",
-      "system": "NEWBURY PUBLIC LIBRARY",
-      "address": "933 ROUTE 103, NEWBURY, NH",
-      "website": "https://newburynhlibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03233",
-        "03255",
-        "03260",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "TRACY MEMORIAL LIBRARY",
-      "system": "TRACY MEMORIAL LIBRARY",
-      "address": "304 MAIN STREET, NEW LONDON, NH",
-      "website": "https://tracylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03233",
-        "03257",
-        "03260",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "PEMBROKE TOWN LIBRARY",
-      "system": "PEMBROKE TOWN LIBRARY",
-      "address": "313 PEMBROKE STREET, PEMBROKE, NH",
-      "website": "https://pembroke-library.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03233",
-        "03260",
-        "03273",
-        "03275",
-        "033HH"
-      ]
-    },
-    {
-      "name": "JOSIAH CARPENTER LIBRARY",
-      "system": "JOSIAH CARPENTER LIBRARY",
-      "address": "41 MAIN STREET, PITTSFIELD, NH",
-      "website": "https://www.pittsfieldnh.gov/josiah-carpenter-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03233",
-        "03260",
-        "03263",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "SALISBURY FREE LIBRARY",
-      "system": "SALISBURY FREE LIBRARY",
-      "address": "641 OLD TURNPIKE ROAD, SALISBURY, NH",
-      "website": "https://www.salisburynh.org/202/Salisbury-Free-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03233",
-        "03260",
-        "03268",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "PILLSBURY FREE LIBRARY",
-      "system": "PILLSBURY FREE LIBRARY",
-      "address": "18 EAST MAIN STREET, WARNER, NH",
-      "website": "https://library.warnernh.gov/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03233",
-        "03260",
-        "03273",
-        "03278",
-        "033HH"
-      ]
-    },
-    {
-      "name": "ALLENSTOWN PUBLIC LIBRARY",
-      "system": "ALLENSTOWN PUBLIC LIBRARY",
-      "address": "59 MAIN STREET, ALLENSTOWN, NH",
-      "website": "http://allenstownlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03233",
-        "03260",
-        "03273",
-        "03275",
-        "033HH"
-      ]
-    },
-    {
-      "name": "ELKINS PUBLIC LIBRARY",
-      "system": "ELKINS PUBLIC LIBRARY",
-      "address": "9 CENTER ROAD, CANTERBURY, NH",
-      "website": "https://elkinspubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03224",
-        "03233",
-        "03260",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "CHICHESTER TOWN LIBRARY",
-      "system": "CHICHESTER TOWN LIBRARY",
-      "address": "161 MAIN STREET, CHICHESTER, NH",
-      "website": "https://www.chichesternh.org/town-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03233",
-        "03258",
-        "03260",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "EPSOM PUBLIC LIBRARY",
-      "system": "EPSOM PUBLIC LIBRARY",
-      "address": "1606 DOVER ROAD, EPSOM, NH",
-      "website": "https://epsomlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03233",
-        "03234",
-        "03260",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "SUTTON FREE LIBRARY",
-      "system": "SUTTON FREE LIBRARY",
-      "address": "5 CORPORATION HILL RD, SUTTON MILLS, NH",
-      "website": "https://www.suttonfreelibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03221",
-        "03233",
-        "03260",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "GEORGE GAMBLE LIBRARY",
-      "system": "GEORGE GAMBLE LIBRARY",
-      "address": "29 ROUTE 104, DANBURY, NH",
-      "website": "https://librarytechnology.org/library/21579",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03230",
-        "03233",
-        "03260",
-        "03273",
-        "033HH"
-      ]
-    },
-    {
-      "name": "WILLIAM ADAMS BACHELDER LIBRARY",
-      "system": "WILLIAM ADAMS BACHELDER LIBRARY",
-      "address": "12 CHASE HILL ROAD, EAST ANDOVER, NH",
-      "website": "https://www.andovernhlibraries.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "03231",
-        "03233",
-        "03260",
-        "03273",
-        "033HH"
+        "03301"
       ]
     }
   ]

@@ -34,15 +34,15 @@
     {
       "name": "NEVADA PUBLIC LIBRARY",
       "system": "NEVADA PUBLIC LIBRARY",
-      "address": "218 W WALNUT ST, NEVADA, MO",
+      "address": "631 K AVE, NEVADA, IA",
       "website": "https://www.nplmo.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50201",
         "64728",
         "64741",
         "64750",
-        "64751",
         "64767",
         "64771",
         "64772",
@@ -60,10 +60,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "64724",
-        "64738",
-        "64763",
-        "64781"
+        "64724"
       ]
     },
     {
@@ -74,9 +71,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "64722",
-        "64723",
-        "64730",
         "64745",
         "64752",
         "64779",
@@ -119,7 +113,6 @@
         "64740",
         "64770",
         "64788",
-        "647HH",
         "65323",
         "65360"
       ]
@@ -163,79 +156,7 @@
         "64720",
         "64722",
         "64723",
-        "64730",
-        "64745",
-        "64752",
-        "64780"
-      ]
-    },
-    {
-      "name": "SARCOXIE PUBLIC LIBRARY",
-      "system": "SARCOXIE PUBLIC LIBRARY",
-      "address": "506 CENTER ST, SARCOXIE, MO",
-      "website": "https://www.sarcoxiemo.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "64755",
-        "64801",
-        "64830",
-        "64832",
-        "64833",
-        "64834",
-        "64835",
-        "64841",
-        "64849",
-        "64855",
-        "64857",
-        "64859",
-        "64862"
-      ]
-    },
-    {
-      "name": "JOPLIN PUBLIC LIBRARY",
-      "system": "JOPLIN PUBLIC LIBRARY",
-      "address": "1901 E 20TH STREET, JOPLIN, MO",
-      "website": "http://www.joplinpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "64755",
-        "64801",
-        "64804",
-        "64830",
-        "64832",
-        "64833",
-        "64834",
-        "64835",
-        "64841",
-        "64849",
-        "64855",
-        "64857",
-        "64859"
-      ]
-    },
-    {
-      "name": "WEBB CITY PUBLIC LIBRARY",
-      "system": "WEBB CITY PUBLIC LIBRARY",
-      "address": "101 S LIBERTY ST, WEBB CITY, MO",
-      "website": "https://www.webbcitylibrary.org/",
-      "formUrl": "https://www.webbcitylibrary.org/suggest-a-purchase",
-      "formStatus": "verified",
-      "zipcodes": [
-        "64755",
-        "64801",
-        "64830",
-        "64832",
-        "64833",
-        "64834",
-        "64835",
-        "64841",
-        "64849",
-        "64855",
-        "64857",
-        "64859",
-        "64870"
+        "64730"
       ]
     },
     {
@@ -247,16 +168,11 @@
       "formStatus": "unknown",
       "zipcodes": [
         "64755",
-        "64801",
         "64830",
-        "64832",
-        "64833",
-        "64834",
         "64835",
         "64836",
         "64841",
         "64849",
-        "64855",
         "64857",
         "64859"
       ]

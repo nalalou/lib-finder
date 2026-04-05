@@ -1,24 +1,6 @@
 {
   "libraries": [
     {
-      "name": "MECHANICSBURG PUBLIC LIBRARY",
-      "system": "MECHANICSBURG PUBLIC LIBRARY",
-      "address": "60 S. MAIN ST., MECHANICSBURG, OH",
-      "website": "https://www.mechanicsburgohlibrary.org/",
-      "formUrl": "https://www.mechanicsburgohlibrary.org/content/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "43009",
-        "43044",
-        "43060",
-        "43070",
-        "43084",
-        "430HH",
-        "45317",
-        "45389"
-      ]
-    },
-    {
       "name": "ST. PARIS PUBLIC LIBRARY",
       "system": "ST. PARIS PUBLIC LIBRARY",
       "address": "127 E. MAIN ST., ST. PARIS, OH",
@@ -26,30 +8,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "43009",
-        "43060",
         "43070",
         "43072",
-        "43084",
-        "430HH",
-        "45317",
-        "45389"
-      ]
-    },
-    {
-      "name": "CHAMPAIGN COUNTY LIBRARY",
-      "system": "CHAMPAIGN COUNTY LIBRARY",
-      "address": "1060 SCIOTO ST., URBANA, OH",
-      "website": "https://www.champaigncountylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "43009",
-        "43060",
-        "43070",
-        "43078",
-        "43084",
-        "430HH",
         "45317",
         "45389"
       ]
@@ -62,18 +22,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45303",
         "45304",
         "45328",
-        "45331",
-        "45332",
-        "45348",
-        "45351",
-        "45352",
-        "45358",
-        "45362",
-        "45388",
-        "45390"
+        "45358"
       ]
     },
     {
@@ -85,10 +36,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "45308",
-        "45312",
-        "45326",
-        "45337",
-        "45339",
         "45359"
       ]
     },
@@ -100,10 +47,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45312",
         "45318",
-        "45326",
-        "45337",
         "45339",
         "45359"
       ]
@@ -117,15 +61,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "45003",
-        "45070",
         "45311",
         "45320",
-        "45321",
-        "45338",
-        "45347",
-        "45378",
-        "45381",
-        "45382"
+        "45381"
       ]
     },
     {
@@ -136,39 +74,12 @@
       "formUrl": "https://www.germantown.lib.oh.us/ill_request",
       "formStatus": "verified",
       "zipcodes": [
-        "45309",
-        "45315",
-        "45322",
         "45325",
         "45327",
         "45342",
         "45345",
-        "45354",
-        "45377",
-        "45403",
-        "45404",
-        "45405",
-        "45406",
-        "45407",
-        "45408",
-        "45409",
-        "45410",
-        "45414",
-        "45415",
-        "45416",
         "45417",
-        "45418",
-        "45420",
-        "45424",
-        "45426",
-        "45427",
-        "45429",
-        "45431",
-        "45439",
-        "45440",
-        "45449",
-        "45459",
-        "454HH"
+        "45418"
       ]
     },
     {
@@ -179,30 +90,56 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45003",
         "45070",
         "45311",
-        "45321",
         "45330",
-        "45338",
-        "45347",
-        "45378",
-        "45381",
-        "45382"
+        "45381"
+      ]
+    },
+    {
+      "name": "GREENVILLE PUBLIC LIBRARY",
+      "system": "GREENVILLE PUBLIC LIBRARY",
+      "address": "520 SYCAMORE ST., GREENVILLE, OH",
+      "website": "http://www.yourlibrary.ws/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02828",
+        "12042",
+        "12083",
+        "12087",
+        "12176",
+        "12405",
+        "12418",
+        "12422",
+        "12423",
+        "12431",
+        "12460",
+        "12470",
+        "45303",
+        "45328",
+        "45331",
+        "45352",
+        "45390",
+        "62086",
+        "62246",
+        "62253",
+        "62262",
+        "62273",
+        "62275",
+        "62284"
       ]
     },
     {
       "name": "BROWN MEMORIAL LIBRARY",
       "system": "BROWN MEMORIAL LIBRARY",
-      "address": "78 WEST MAIN STREET, BRADFORD, NH",
+      "address": "101 S. COMMERCE ST., LEWISBURG, OH",
       "website": "http://www.clinton-me.us/index.asp?SEC=3990C4D7-E89A-4722-B926-831200BB08B2&Type=B_BASIC",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03221",
-        "45003",
-        "45070",
-        "45311",
+        "03260",
+        "03273",
         "45321",
         "45338",
         "45347",
@@ -219,19 +156,11 @@
       "formUrl": "https://www.newcarlislelibrary.org/ill",
       "formStatus": "verified",
       "zipcodes": [
-        "43010",
         "45323",
         "45341",
         "45344",
         "45349",
-        "45368",
-        "45369",
-        "45502",
-        "45503",
-        "45504",
-        "45505",
-        "45506",
-        "455HH"
+        "45504"
       ]
     },
     {
@@ -242,18 +171,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45303",
-        "45328",
-        "45331",
         "45332",
         "45346",
-        "45348",
-        "45351",
-        "45352",
-        "45358",
-        "45362",
-        "45388",
-        "45390"
+        "45352"
       ]
     },
     {
@@ -264,19 +184,15 @@
       "formUrl": "https://www.piqualibrary.org/interlibrary-loans",
       "formStatus": "verified",
       "zipcodes": [
-        "45312",
         "45326",
-        "45337",
-        "45339",
-        "45356",
-        "45359"
+        "45356"
       ]
     },
     {
       "name": "SHELBY COUNTY LIBRARIES - AMOS MEMORIAL",
       "system": "SHELBY COUNTY LIBRARIES - AMOS MEMORIAL",
       "address": "230 E. NORTH ST., SIDNEY, OH",
-      "website": "https://shelbycountylibraries.org/amos-memorial-public-library-sidney/",
+      "website": "https://shelbyco.lib.oh.us/branches/amoslibrary.htm",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -302,10 +218,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "45312",
-        "45326",
-        "45337",
-        "45339",
-        "45359",
         "45371"
       ]
     },
@@ -319,9 +231,7 @@
       "zipcodes": [
         "45312",
         "45326",
-        "45337",
         "45339",
-        "45359",
         "45373"
       ]
     },
@@ -335,16 +245,11 @@
       "zipcodes": [
         "45303",
         "45328",
-        "45331",
-        "45332",
         "45348",
         "45351",
-        "45352",
-        "45358",
         "45362",
         "45380",
-        "45388",
-        "45390"
+        "45388"
       ]
     },
     {
@@ -355,8 +260,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "45312",
-        "45326",
         "45337",
         "45339",
         "45359",
@@ -382,7 +285,6 @@
         "45384",
         "45385",
         "45387",
-        "453HH",
         "45430",
         "45432",
         "45433",
@@ -392,7 +294,7 @@
     {
       "name": "CLARK COUNTY PUBLIC LIBRARY",
       "system": "CLARK COUNTY PUBLIC LIBRARY",
-      "address": "370 SOUTH BURNS AVENUE, WINCHESTER, KY",
+      "address": "201 S. FOUNTAIN AVE., SPRINGFIELD, OH",
       "website": "https://www.ccplohio.org/",
       "formUrl": "https://www.ccplohio.org/suggest-a-purchase/",
       "formStatus": "verified",
@@ -400,7 +302,6 @@
         "40391",
         "43010",
         "45323",
-        "45341",
         "45349",
         "45368",
         "45369",
@@ -408,25 +309,7 @@
         "45503",
         "45504",
         "45505",
-        "45506",
-        "455HH"
-      ]
-    },
-    {
-      "name": "MERCER COUNTY DISTRICT PUBLIC LIBRARY",
-      "system": "MERCER COUNTY DISTRICT PUBLIC LIBRARY",
-      "address": "303 N. MAIN ST., CELINA, OH",
-      "website": "https://mercerlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "45310",
-        "45822",
-        "45860",
-        "45862",
-        "45866",
-        "45883",
-        "458HH"
+        "45506"
       ]
     },
     {
@@ -440,10 +323,8 @@
         "45310",
         "45828",
         "45860",
-        "45862",
         "45866",
-        "45883",
-        "458HH"
+        "45883"
       ]
     },
     {
@@ -456,28 +337,7 @@
       "zipcodes": [
         "45310",
         "45846",
-        "45860",
-        "45862",
-        "45866",
-        "45883",
-        "458HH"
-      ]
-    },
-    {
-      "name": "ROCKFORD CARNEGIE LIBRARY",
-      "system": "ROCKFORD CARNEGIE LIBRARY",
-      "address": "162 S. MAIN ST., ROCKFORD, OH",
-      "website": "https://www.rcpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "45310",
-        "45860",
-        "45862",
-        "45866",
-        "45882",
-        "45883",
-        "458HH"
+        "45883"
       ]
     },
     {
@@ -488,39 +348,16 @@
       "formUrl": "https://teens.wclibrary.info/suggestion/",
       "formStatus": "verified",
       "zipcodes": [
-        "45309",
-        "45315",
-        "45322",
-        "45325",
         "45342",
-        "45345",
-        "45354",
-        "45377",
-        "45403",
-        "45404",
-        "45405",
-        "45406",
-        "45407",
-        "45408",
         "45409",
         "45410",
-        "45414",
-        "45415",
-        "45416",
-        "45417",
-        "45418",
         "45420",
-        "45424",
-        "45426",
-        "45427",
         "45429",
-        "45431",
         "45439",
         "45440",
         "45449",
         "45458",
-        "45459",
-        "454HH"
+        "45459"
       ]
     },
     {
@@ -534,9 +371,6 @@
         "45309",
         "45315",
         "45322",
-        "45325",
-        "45342",
-        "45345",
         "45354",
         "45377",
         "45402",
@@ -544,8 +378,6 @@
         "45404",
         "45405",
         "45406",
-        "45407",
-        "45408",
         "45409",
         "45410",
         "45414",
@@ -556,14 +388,12 @@
         "45420",
         "45424",
         "45426",
-        "45427",
         "45429",
         "45431",
         "45439",
         "45440",
         "45449",
-        "45459",
-        "454HH"
+        "45459"
       ]
     },
     {
@@ -574,20 +404,11 @@
       "formUrl": "https://www.wrightlibrary.org/suggest-a-purchase",
       "formStatus": "verified",
       "zipcodes": [
-        "45309",
-        "45315",
-        "45322",
-        "45325",
         "45342",
-        "45345",
-        "45354",
-        "45377",
         "45403",
         "45404",
         "45405",
         "45406",
-        "45407",
-        "45408",
         "45409",
         "45410",
         "45414",
@@ -599,14 +420,12 @@
         "45420",
         "45424",
         "45426",
-        "45427",
         "45429",
         "45431",
         "45439",
         "45440",
         "45449",
-        "45459",
-        "454HH"
+        "45459"
       ]
     }
   ]

@@ -1,22 +1,6 @@
 {
   "libraries": [
     {
-      "name": "WINFIELD PUBLIC LIBRARY",
-      "system": "WINFIELD PUBLIC LIBRARY",
-      "address": "112 W ASH, WINFIELD, IA",
-      "website": "https://wpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37732",
-        "37755",
-        "37847",
-        "37852",
-        "37892",
-        "52659"
-      ]
-    },
-    {
       "name": "KNOX COUNTY PUBLIC LIBRARY SYSTEM",
       "system": "KNOX COUNTY PUBLIC LIBRARY SYSTEM",
       "address": "500 W. CHURCH AVENUE, KNOXVILLE (S), TN",
@@ -43,36 +27,46 @@
         "37924",
         "37931",
         "37932",
-        "37938",
-        "379HH"
+        "37938"
       ]
     },
     {
       "name": "HANCOCK COUNTY PUBLIC LIBRARY",
       "system": "HANCOCK COUNTY PUBLIC LIBRARY",
-      "address": "1210 MADISON STREET, HAWESVILLE, KY",
+      "address": "900 WEST MCKENZIE ROAD, GREENFIELD, IN",
       "website": "https://www.hcplibrary.org/",
       "formUrl": "https://www.hcplibrary.org/services-spaces/ill",
       "formStatus": "verified",
       "zipcodes": [
         "37765",
         "37869",
-        "42348"
+        "42348",
+        "42351",
+        "42368",
+        "46055",
+        "46117",
+        "46140",
+        "46163",
+        "46186"
       ]
     },
     {
       "name": "HUNTSVILLE PUBLIC LIBRARY",
       "system": "HUNTSVILLE PUBLIC LIBRARY",
-      "address": "314 COURT HOUSE SQUARE, HUNTSVILLE, TN",
+      "address": "1219 13TH ST, HUNTSVILLE, TX",
       "website": "https://www.huntsvilletx.gov/171/Public-Library",
       "formUrl": "https://www.huntsvilletx.gov/171/Public-Library/952/Suggest-a-title",
       "formStatus": "verified",
       "zipcodes": [
+        "37732",
+        "37755",
         "37756",
+        "37841",
+        "37847",
+        "37852",
         "77320",
         "77334",
         "77340",
-        "77341",
         "77367",
         "77876"
       ]
@@ -80,16 +74,15 @@
     {
       "name": "ONEIDA PUBLIC LIBRARY",
       "system": "ONEIDA PUBLIC LIBRARY",
-      "address": "290 SOUTH MAIN STREET, ONEIDA, TN",
+      "address": "459 MAIN STREET, ONEIDA, NY",
       "website": "https://oneidapubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37732",
+        "13409",
+        "13421",
         "37755",
         "37841",
-        "37847",
-        "37852",
         "37892"
       ]
     },
@@ -105,11 +98,9 @@
         "37724",
         "37730",
         "37752",
-        "377XX",
         "37825",
         "37870",
-        "37879",
-        "378XX"
+        "37879"
       ]
     },
     {
@@ -152,12 +143,8 @@
       "formUrl": "https://orpl.oakridgetn.gov/borrow/suggest/",
       "formStatus": "verified",
       "zipcodes": [
-        "37705",
         "37716",
-        "37754",
-        "377HH",
-        "37830",
-        "378HH"
+        "37830"
       ]
     },
     {
@@ -171,8 +158,7 @@
         "37711",
         "37731",
         "37811",
-        "37857",
-        "37873"
+        "37857"
       ]
     },
     {
@@ -198,7 +184,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "37713",
-        "37753",
         "37821"
       ]
     },
@@ -211,23 +196,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "37705",
-        "37716",
         "37754",
-        "377HH",
-        "37828",
-        "378HH"
-      ]
-    },
-    {
-      "name": "PETROS PUBLIC LIBRARY",
-      "system": "PETROS PUBLIC LIBRARY",
-      "address": "208 MAIN STREET, PETROS, TN",
-      "website": "https://librarytechnology.org/library/6346",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37770",
-        "37845"
+        "37828"
       ]
     },
     {
@@ -243,30 +213,6 @@
       ]
     },
     {
-      "name": "OAKDALE PUBLIC LIBRARY",
-      "system": "OAKDALE PUBLIC LIBRARY",
-      "address": "212 QUEEN STREET, OAKDALE, TN",
-      "website": "https://librarytechnology.org/library/6336",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37770",
-        "37829"
-      ]
-    },
-    {
-      "name": "PHILADELPHIA PUBLIC LIBRARY",
-      "system": "PHILADELPHIA PUBLIC LIBRARY",
-      "address": "714 THOMPSON ST., PHILADELPHIA, TN",
-      "website": "https://librarytechnology.org/library/6347",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37772",
-        "37846"
-      ]
-    },
-    {
       "name": "PARROTTSVILLE COMMUNITY LIBRARY",
       "system": "PARROTTSVILLE COMMUNITY LIBRARY",
       "address": "2060 CANARY DRIVE, PARROTTSVILLE, TN",
@@ -275,49 +221,40 @@
       "formStatus": "unknown",
       "zipcodes": [
         "37713",
-        "37753",
         "37843"
       ]
     },
     {
-      "name": "MOSHEIM PUBLIC LIBRARY",
-      "system": "MOSHEIM PUBLIC LIBRARY",
-      "address": "730 MAIN STREET, MOSHEIM, TN",
-      "website": "http://www.mosheimlib.org/",
+      "name": "CLINTON PUBLIC LIBRARY",
+      "system": "CLINTON PUBLIC LIBRARY",
+      "address": "214 MILL ST., CLINTON, WI",
+      "website": "https://www.als.lib.wi.us/CPL/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37616",
-        "37641",
-        "37743",
-        "37744",
-        "37809",
-        "37810",
-        "37818"
-      ]
-    },
-    {
-      "name": "PIGEON FORGE PUBLIC LIBRARY",
-      "system": "PIGEON FORGE PUBLIC LIBRARY",
-      "address": "2449 LIBRARY DRIVE, PIGEON FORGE, TN",
-      "website": "https://www.cityofpigeonforge.com/library.aspx",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37764",
-        "37863",
-        "37865",
-        "37876"
+        "37716",
+        "37754",
+        "47842",
+        "47884",
+        "52701",
+        "52727",
+        "52732",
+        "52757",
+        "53505",
+        "53525",
+        "53546"
       ]
     },
     {
       "name": "KINGSTON PUBLIC LIBRARY",
       "system": "KINGSTON PUBLIC LIBRARY",
-      "address": "1004 BRADFORD WAY, KINGSTON, TN",
+      "address": "6 GREEN STREET, KINGSTON, MA",
       "website": "https://www.kingstonma.gov/779/Library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "02360",
+        "02364",
         "37763"
       ]
     },
@@ -342,9 +279,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37729",
-        "37757",
-        "37819"
+        "37757"
       ]
     },
     {
@@ -367,7 +302,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37748"
+        "37748",
+        "37763"
       ]
     },
     {
@@ -403,8 +339,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "37738",
-        "37764",
-        "37865",
         "37876"
       ]
     },
@@ -419,10 +353,7 @@
         "37616",
         "37641",
         "37743",
-        "37744",
-        "37745",
-        "37809",
-        "37810"
+        "37745"
       ]
     },
     {
@@ -434,11 +365,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "37705",
-        "37716",
-        "37754",
-        "37769",
-        "377HH",
-        "378HH"
+        "37769"
       ]
     },
     {
@@ -449,8 +376,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37719",
-        "37770"
+        "37719"
       ]
     },
     {
@@ -461,9 +387,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37714",
-        "37729",
-        "37819"
+        "37714"
       ]
     },
     {
@@ -474,12 +398,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37705",
         "37710",
         "37716",
-        "37754",
-        "377HH",
-        "378HH"
+        "37754"
       ]
     },
     {
@@ -515,9 +436,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37729",
-        "37766",
-        "37819"
+        "37766"
       ]
     },
     {
@@ -528,8 +447,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37779",
-        "37866"
+        "37779"
       ]
     },
     {
@@ -540,8 +458,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37742",
-        "37772"
+        "37742"
       ]
     },
     {
@@ -576,7 +493,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37713",
         "37722",
         "37753"
       ]
@@ -589,7 +505,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37713",
         "37727",
         "37753"
       ]
@@ -603,9 +518,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "37708",
-        "37848",
-        "37881",
-        "37888"
+        "37881"
       ]
     },
     {
@@ -617,24 +530,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "37709",
-        "37848",
-        "37881",
-        "37888"
-      ]
-    },
-    {
-      "name": "MT. CARMEL LIBRARY",
-      "system": "MT. CARMEL LIBRARY",
-      "address": "100 1/2 MAIN STREET, MT. CARMEL, TN",
-      "website": "https://www.mountcarmelpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "37645",
-        "37711",
-        "37731",
-        "37811",
-        "37873"
+        "37848"
       ]
     }
   ]

@@ -1,6 +1,24 @@
 {
   "libraries": [
     {
+      "name": "TURTLE LAKE PUBLIC LIBRARY",
+      "system": "TURTLE LAKE PUBLIC LIBRARY",
+      "address": "301 MAPLE ST. S., TURTLE LAKE, WI",
+      "website": "https://public-libraries.com/nd/turtle-lake/turtle-lake-public-library-nd-turtle-lake/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54762",
+        "54805",
+        "54826",
+        "54889",
+        "58463",
+        "58559",
+        "58575",
+        "58723"
+      ]
+    },
+    {
       "name": "VALLEY CITY BARNES COUNTY PUBLIC LIBRARY",
       "system": "VALLEY CITY BARNES COUNTY PUBLIC LIBRARY",
       "address": "410 NORTH CENTRAL AVENUE, VALLEY CITY, ND",
@@ -13,14 +31,12 @@
         "58062",
         "58063",
         "58072",
-        "580HH",
         "58429",
         "58461",
         "58479",
         "58480",
         "58481",
-        "58492",
-        "584HH"
+        "58492"
       ]
     },
     {
@@ -35,9 +51,12 @@
         "58418",
         "58422",
         "58423",
+        "58430",
         "58438",
+        "58444",
         "58451",
-        "58486"
+        "58486",
+        "58758"
       ]
     },
     {
@@ -70,8 +89,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "58413",
-        "58489",
-        "58581"
+        "58440"
       ]
     },
     {
@@ -96,13 +114,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58415",
-        "58431",
         "58433",
+        "58442",
         "58454",
-        "58456",
-        "58466",
-        "58490"
+        "58456"
       ]
     },
     {
@@ -114,8 +129,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "58436",
-        "58439",
-        "58441"
+        "58439"
       ]
     },
     {
@@ -126,6 +140,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "58046",
+        "58056",
+        "58230",
         "58416",
         "58425",
         "58448",
@@ -158,8 +175,6 @@
       "zipcodes": [
         "58415",
         "58431",
-        "58454",
-        "58456",
         "58458",
         "58466",
         "58490"
@@ -173,7 +188,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58439",
         "58441",
         "58474"
       ]
@@ -186,8 +200,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58489",
+        "58460",
         "58495",
+        "58561",
         "58581"
       ]
     },
@@ -206,7 +221,6 @@
         "58505",
         "58521",
         "58532",
-        "58553",
         "58558",
         "58560",
         "58572"

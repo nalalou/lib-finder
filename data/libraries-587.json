@@ -1,6 +1,24 @@
 {
   "libraries": [
     {
+      "name": "TURTLE LAKE PUBLIC LIBRARY",
+      "system": "TURTLE LAKE PUBLIC LIBRARY",
+      "address": "301 MAPLE ST. S., TURTLE LAKE, WI",
+      "website": "https://public-libraries.com/nd/turtle-lake/turtle-lake-public-library-nd-turtle-lake/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54762",
+        "54805",
+        "54826",
+        "54889",
+        "58463",
+        "58559",
+        "58575",
+        "58723"
+      ]
+    },
+    {
       "name": "DIVIDE COUNTY PUBLIC LIBRARY",
       "system": "DIVIDE COUNTY PUBLIC LIBRARY",
       "address": "204 FIRST STREET NE, CROSBY, ND",
@@ -11,8 +29,7 @@
         "58730",
         "58765",
         "58833",
-        "58844",
-        "588XX"
+        "58844"
       ]
     },
     {
@@ -24,7 +41,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "58769",
-        "58771",
         "58776",
         "58784",
         "58794"
@@ -38,13 +54,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58531",
-        "58559",
-        "58579",
         "58716",
-        "58723",
         "58759",
-        "58775",
         "58778"
       ]
     },
@@ -67,9 +78,7 @@
         "58735",
         "58746",
         "58756",
-        "58779",
-        "58781",
-        "58785"
+        "58779"
       ]
     },
     {
@@ -82,7 +91,6 @@
       "zipcodes": [
         "58740",
         "58761",
-        "58782",
         "58787"
       ]
     },
@@ -94,11 +102,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58763",
-        "58769",
-        "58771",
-        "58776",
-        "58794"
+        "58763"
       ]
     },
     {
@@ -109,11 +113,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58769",
         "58770",
-        "58771",
-        "58776",
-        "58794"
+        "58771"
       ]
     },
     {
@@ -135,8 +136,7 @@
         "58788",
         "58789",
         "58790",
-        "58792",
-        "587HH"
+        "58792"
       ]
     },
     {
@@ -149,16 +149,7 @@
       "zipcodes": [
         "58701",
         "58703",
-        "58704",
-        "58718",
         "58722",
-        "58725",
-        "58733",
-        "58734",
-        "58735",
-        "58746",
-        "58756",
-        "58779",
         "58781",
         "58785"
       ]
@@ -180,21 +171,30 @@
       ]
     },
     {
+      "name": "SHERWOOD PUBLIC LIBRARY",
+      "system": "SHERWOOD PUBLIC LIBRARY",
+      "address": "204 MAIN STREET, SHERWOOD, ND",
+      "website": "http://www.sherwoodoregon.gov/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58782",
+        "97140",
+        "97224"
+      ]
+    },
+    {
       "name": "GARRISON PUBLIC LIBRARY",
       "system": "GARRISON PUBLIC LIBRARY",
-      "address": "32 SOUTH MAIN STREET, GARRISON, ND",
+      "address": "201 E PINE ST, GARRISON, IA",
       "website": "https://garrisonndlibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "58531",
+        "52229",
+        "52313",
         "58540",
-        "58559",
-        "58579",
-        "58716",
-        "58723",
-        "58775",
-        "58778"
+        "58775"
       ]
     },
     {
@@ -217,6 +217,26 @@
       ]
     },
     {
+      "name": "HARVEY PUBLIC LIBRARY",
+      "system": "HARVEY PUBLIC LIBRARY",
+      "address": "119 EAST TENTH STREET, HARVEY, ND",
+      "website": "https://www.harveylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "58341",
+        "58418",
+        "58422",
+        "58423",
+        "58430",
+        "58438",
+        "58444",
+        "58451",
+        "58486",
+        "58758"
+      ]
+    },
+    {
       "name": "MCKENZIE COUNTY PUBLIC LIBRARY",
       "system": "MCKENZIE COUNTY PUBLIC LIBRARY",
       "address": "112 SECOND AVENUE NE, WATFORD CITY, ND",
@@ -231,28 +251,7 @@
         "58838",
         "58847",
         "58854",
-        "588HH",
-        "59221",
-        "592HH"
-      ]
-    },
-    {
-      "name": "WILLISTON COMMUNITY LIBRARY",
-      "system": "WILLISTON COMMUNITY LIBRARY",
-      "address": "1302 DAVIDSON DRIVE, WILLISTON, ND",
-      "website": "https://www.willistonndlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58755",
-        "58795",
-        "58801",
-        "58830",
-        "58843",
-        "58845",
-        "58849",
-        "58853",
-        "58856"
+        "59221"
       ]
     },
     {
@@ -266,48 +265,8 @@
         "58755",
         "58795",
         "58830",
-        "58843",
-        "58845",
         "58849",
-        "58852",
-        "58853",
-        "58856"
-      ]
-    },
-    {
-      "name": "MCLEAN-MERCER REGIONAL LIBRARY",
-      "system": "MCLEAN-MERCER REGIONAL LIBRARY",
-      "address": "216 SECOND ST., RIVERDALE, ND",
-      "website": "https://riverdalendlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58531",
-        "58559",
-        "58565",
-        "58579",
-        "58716",
-        "58723",
-        "58775",
-        "58778"
-      ]
-    },
-    {
-      "name": "UNDERWOOD PUBLIC LIBRARY",
-      "system": "UNDERWOOD PUBLIC LIBRARY",
-      "address": "88 LINCOLN AVE, UNDERWOOD, ND",
-      "website": "http://www.underwoodnd.org/city",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "58531",
-        "58559",
-        "58576",
-        "58579",
-        "58716",
-        "58723",
-        "58775",
-        "58778"
+        "58852"
       ]
     }
   ]

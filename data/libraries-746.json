@@ -3,16 +3,14 @@
     {
       "name": "FAIRFAX PUBLIC LIBRARY",
       "system": "FAIRFAX PUBLIC LIBRARY",
-      "address": "158 EAST ELM, FAIRFAX, OK",
+      "address": "313 VANDERBILT ST, FAIRFAX, IA",
       "website": "https://www.fairfax.lib.ia.us/",
       "formUrl": "https://www.fairfax.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "74001",
-        "74054",
-        "74060",
-        "74070",
-        "74084",
+        "52228",
+        "52404",
+        "52405",
         "74633",
         "74637",
         "74652"
@@ -56,94 +54,22 @@
         "73766",
         "73771",
         "74636",
-        "74643",
-        "746HH"
+        "74643"
       ]
     },
     {
       "name": "PAWNEE PUBLIC LIBRARY",
       "system": "PAWNEE PUBLIC LIBRARY",
-      "address": "653 ILLINOIS, PAWNEE, OK",
+      "address": "613 DOUGLAS STREET, PAWNEE, IL",
       "website": "https://www.pawneepubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74034",
-        "74038",
+        "62536",
+        "62558",
         "74045",
         "74058",
-        "74081",
         "74650"
-      ]
-    },
-    {
-      "name": "BARNSDALL - ETHEL BRIGGS MEMORIAL LIBRARY",
-      "system": "BARNSDALL - ETHEL BRIGGS MEMORIAL LIBRARY",
-      "address": "410 S FIFTH, BARNSDALL, OK",
-      "website": "https://librarytechnology.org/library/23052",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74001",
-        "74002",
-        "74054",
-        "74060",
-        "74070",
-        "74084",
-        "74633",
-        "74652"
-      ]
-    },
-    {
-      "name": "CLEVELAND - JAY C BYERS MEMORIAL LIBRARY",
-      "system": "CLEVELAND - JAY C BYERS MEMORIAL LIBRARY",
-      "address": "215 E. WICHITA, CLEVELAND, OK",
-      "website": "https://www.jcbyerslibrary.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74020",
-        "74034",
-        "74038",
-        "74045",
-        "74081",
-        "74650"
-      ]
-    },
-    {
-      "name": "HOMINY PUBLIC LIBRARY",
-      "system": "HOMINY PUBLIC LIBRARY",
-      "address": "121 WEST MAIN, HOMINY, OK",
-      "website": "http://www.hominy.lib.ok.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74001",
-        "74035",
-        "74054",
-        "74060",
-        "74070",
-        "74084",
-        "74633",
-        "74652"
-      ]
-    },
-    {
-      "name": "PAWHUSKA PUBLIC LIBRARY",
-      "system": "PAWHUSKA PUBLIC LIBRARY",
-      "address": "1801 LYNN AVENUE, PAWHUSKA, OK",
-      "website": "https://pawhuska.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "74001",
-        "74054",
-        "74056",
-        "74060",
-        "74070",
-        "74084",
-        "74633",
-        "74652"
       ]
     },
     {
@@ -154,7 +80,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74604",
         "74631",
         "74632",
         "74646"
@@ -168,9 +93,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74604",
-        "74632",
-        "74646",
         "74647"
       ]
     },
@@ -183,9 +105,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "74601",
-        "74604",
-        "74632",
-        "74646"
+        "74604"
       ]
     },
     {
@@ -196,9 +116,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "74604",
-        "74632",
-        "74646",
         "74653"
       ]
     },
@@ -211,9 +128,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "74604",
-        "74632",
-        "74641",
-        "74646"
+        "74641"
       ]
     },
     {

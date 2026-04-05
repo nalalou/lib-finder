@@ -1,49 +1,50 @@
 {
   "libraries": [
     {
-      "name": "VILLISCA PUBLIC LIBRARY",
-      "system": "VILLISCA PUBLIC LIBRARY",
-      "address": "204 S 3RD AVE, VILLISCA, IA",
-      "website": "https://www.villisca.lib.ia.us/",
-      "formUrl": "https://www.villisca.lib.ia.us/services/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "50847",
-        "50864",
-        "51566",
-        "51573"
-      ]
-    },
-    {
       "name": "LOGAN PUBLIC LIBRARY",
       "system": "LOGAN PUBLIC LIBRARY",
-      "address": "121 E 6TH ST, LOGAN, IA",
+      "address": "109 W. MAIN, LOGAN, KS",
       "website": "https://librarytechnology.org/library/18174",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "51546",
-        "67639",
-        "67646",
-        "67647",
-        "67670",
-        "676HH"
+        "51550",
+        "51563",
+        "67646"
       ]
     },
     {
       "name": "GLENWOOD PUBLIC LIBRARY",
       "system": "GLENWOOD PUBLIC LIBRARY",
-      "address": "109 N VINE ST, GLENWOOD, IA",
+      "address": "108 SE FIRST AV, GLENWOOD, MN",
       "website": "https://viking.lib.mn.us/places/glenwood-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "51534",
+        "51554",
+        "51561",
         "56323",
         "56334",
         "56349",
         "56381",
         "56385"
+      ]
+    },
+    {
+      "name": "EMERSON PUBLIC LIBRARY",
+      "system": "EMERSON PUBLIC LIBRARY",
+      "address": "20 PALISADE AVENUE, EMERSON, NJ",
+      "website": "https://www.emersonlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07630",
+        "51533",
+        "51540",
+        "51541",
+        "68733"
       ]
     },
     {
@@ -56,22 +57,6 @@
       "zipcodes": [
         "51441",
         "51442",
-        "51448",
-        "51465",
-        "51520"
-      ]
-    },
-    {
-      "name": "SCHLESWIG PUBLIC LIBRARY",
-      "system": "SCHLESWIG PUBLIC LIBRARY",
-      "address": "202 CEDAR ST, SCHLESWIG, IA",
-      "website": "https://www.schleswig.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51441",
-        "51448",
-        "51461",
         "51465",
         "51520"
       ]
@@ -85,39 +70,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51439",
-        "51441",
-        "51448",
-        "51465",
-        "51520"
-      ]
-    },
-    {
-      "name": "MANILLA PUBLIC LIBRARY",
-      "system": "MANILLA PUBLIC LIBRARY",
-      "address": "447 MAIN ST, MANILLA, IA",
-      "website": "https://manilla-beta.vercel.app/city/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51441",
-        "51448",
-        "51454",
-        "51465",
-        "51520"
-      ]
-    },
-    {
-      "name": "WESTSIDE PUBLIC LIBRARY",
-      "system": "WESTSIDE PUBLIC LIBRARY",
-      "address": "150 MAIN ST, WESTSIDE, IA",
-      "website": "https://www.westside.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51441",
-        "51448",
-        "51465",
-        "51467",
         "51520"
       ]
     },
@@ -131,13 +83,7 @@
       "zipcodes": [
         "51446",
         "51447",
-        "51527",
-        "51530",
-        "51562",
-        "51565",
-        "51570",
-        "51574",
-        "51578"
+        "51527"
       ]
     },
     {
@@ -148,15 +94,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51447",
-        "51527",
-        "51530",
-        "51531",
-        "51562",
-        "51565",
-        "51570",
-        "51574",
-        "51578"
+        "51531"
       ]
     },
     {
@@ -168,9 +106,33 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50847",
-        "51532",
+        "51532"
+      ]
+    },
+    {
+      "name": "RED OAK PUBLIC LIBRARY",
+      "system": "RED OAK PUBLIC LIBRARY",
+      "address": "400 N 2ND ST, RED OAK, IA",
+      "website": "https://www.redoak.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
         "51566",
-        "51573"
+        "75152",
+        "75154"
+      ]
+    },
+    {
+      "name": "STANTON PUBLIC LIBRARY",
+      "system": "STANTON PUBLIC LIBRARY",
+      "address": "501 ELLIOTT ST SUITE A, STANTON, IA",
+      "website": "http://www.stanton.net/library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51573",
+        "58571",
+        "68779"
       ]
     },
     {
@@ -181,11 +143,45 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50274",
-        "50843",
-        "50853",
-        "51544",
-        "51552"
+        "51544"
+      ]
+    },
+    {
+      "name": "MALVERN PUBLIC LIBRARY",
+      "system": "MALVERN PUBLIC LIBRARY",
+      "address": "502 MAIN ST, MALVERN, IA",
+      "website": "https://www.chamberofcommerce.com/united-states/iowa/malvern/public-library/2000194553-malvern-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "19301",
+        "19333",
+        "19345",
+        "19355",
+        "51534",
+        "51540",
+        "51551"
+      ]
+    },
+    {
+      "name": "SILVER CITY PUBLIC LIBRARY",
+      "system": "SILVER CITY PUBLIC LIBRARY",
+      "address": "408 MAIN ST, SILVER CITY, IA",
+      "website": "https://www.silvercity.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51534",
+        "51540",
+        "51554",
+        "51571",
+        "88022",
+        "88023",
+        "88026",
+        "88040",
+        "88053",
+        "88061",
+        "88065"
       ]
     },
     {
@@ -196,11 +192,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50274",
-        "50843",
-        "50853",
-        "51535",
-        "51552"
+        "51535"
       ]
     },
     {
@@ -211,20 +203,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51501",
-        "51502",
         "51521",
-        "51525",
-        "51526",
         "51536",
-        "51542",
-        "51548",
-        "51549",
-        "51553",
-        "51559",
-        "51575",
-        "51576",
-        "51577"
+        "51559"
       ]
     },
     {
@@ -236,19 +217,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51501",
-        "51502",
         "51503",
-        "51525",
         "51526",
-        "51536",
-        "51542",
         "51548",
-        "51549",
-        "51553",
-        "51559",
-        "51575",
-        "51576",
-        "51577"
+        "51576"
       ]
     },
     {
@@ -259,20 +231,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51501",
-        "51502",
         "51525",
-        "51526",
         "51536",
-        "51542",
-        "51548",
         "51549",
         "51553",
-        "51559",
         "51560",
-        "51575",
-        "51576",
-        "51577"
+        "51575"
+      ]
+    },
+    {
+      "name": "WALNUT PUBLIC LIBRARY",
+      "system": "WALNUT PUBLIC LIBRARY",
+      "address": "224 ANTIQUE CITY DR, WALNUT, IA",
+      "website": "http://walnut.mykansaslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "51536",
+        "51577",
+        "66780"
       ]
     },
     {
@@ -283,12 +260,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51529",
-        "51545",
-        "51550",
-        "51563",
-        "51564",
-        "515HH"
+        "51529"
       ]
     },
     {
@@ -299,12 +271,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51545",
-        "51550",
-        "51555",
-        "51563",
-        "51564",
-        "515HH"
+        "51546",
+        "51555"
       ]
     },
     {
@@ -315,12 +283,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51545",
         "51550",
-        "51556",
-        "51563",
-        "51564",
-        "515HH"
+        "51556"
       ]
     },
     {
@@ -334,9 +298,7 @@
         "51545",
         "51550",
         "51557",
-        "51563",
-        "51564",
-        "515HH"
+        "51564"
       ]
     },
     {
@@ -347,12 +309,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51545",
-        "51550",
-        "51563",
-        "51564",
-        "51579",
-        "515HH"
+        "51546",
+        "51579"
       ]
     },
     {
@@ -364,13 +322,11 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51447",
-        "51527",
         "51530",
         "51537",
         "51562",
         "51565",
         "51570",
-        "51574",
         "51578"
       ]
     },
@@ -382,9 +338,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "51441",
-        "51448",
-        "51465",
         "51520",
         "51528"
       ]
@@ -398,19 +351,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51501",
-        "51502",
         "51510",
-        "51525",
         "51526",
-        "51536",
-        "51542",
-        "51548",
-        "51549",
-        "51553",
-        "51559",
-        "51575",
-        "51576",
-        "51577"
+        "51542"
       ]
     },
     {
@@ -421,12 +364,6 @@
       "formUrl": "https://larl.org/books-movies-more/suggest-a-purchase/",
       "formStatus": "verified",
       "zipcodes": [
-        "51010",
-        "51051",
-        "51059",
-        "51063",
-        "510HH",
-        "51523",
         "51558"
       ]
     },
@@ -439,11 +376,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "51010",
-        "51051",
-        "51059",
-        "51063",
-        "510HH",
-        "51523",
         "51572"
       ]
     },
@@ -456,40 +388,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50025",
-        "50042",
-        "50110",
         "50117",
         "51543"
-      ]
-    },
-    {
-      "name": "EXIRA PUBLIC LIBRARY",
-      "system": "EXIRA PUBLIC LIBRARY",
-      "address": "114 W WASHINGTON, EXIRA, IA",
-      "website": "https://www.exira.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50042",
-        "50076",
-        "50110",
-        "50117",
-        "51543"
-      ]
-    },
-    {
-      "name": "ANITA PUBLIC LIBRARY",
-      "system": "ANITA PUBLIC LIBRARY",
-      "address": "812 3RD ST, ANITA, IA",
-      "website": "https://www.anitalibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50020",
-        "50274",
-        "50843",
-        "50853",
-        "51552"
       ]
     },
     {
@@ -502,8 +402,6 @@
       "zipcodes": [
         "50022",
         "50274",
-        "50843",
-        "50853",
         "51552"
       ]
     },
@@ -515,46 +413,7 @@
       "formUrl": "https://www.onawa.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "51010",
         "51040",
-        "51051",
-        "51059",
-        "51063",
-        "510HH",
-        "51523"
-      ]
-    },
-    {
-      "name": "FISHER-WHITING MEMORIAL LIBRARY",
-      "system": "FISHER-WHITING MEMORIAL LIBRARY",
-      "address": "609 COURTRIGHT, MAPLETON, IA",
-      "website": "https://www.mapleton.lib.ia.us/",
-      "formUrl": "https://www.mapleton.lib.ia.us/services/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "51010",
-        "51034",
-        "51051",
-        "51059",
-        "51063",
-        "510HH",
-        "51523"
-      ]
-    },
-    {
-      "name": "UTE PUBLIC LIBRARY",
-      "system": "UTE PUBLIC LIBRARY",
-      "address": "130 MAIN ST, UTE, IA",
-      "website": "https://cityofute.com/community/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "51010",
-        "51051",
-        "51059",
-        "51060",
-        "51063",
-        "510HH",
         "51523"
       ]
     }

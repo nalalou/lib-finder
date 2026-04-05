@@ -1,21 +1,6 @@
 {
   "libraries": [
     {
-      "name": "CARNEGIE LIBRARY OF BALLINGER",
-      "system": "CARNEGIE LIBRARY OF BALLINGER",
-      "address": "204 N 8TH ST, BALLINGER, TX",
-      "website": "https://www.baltx.org/carnegie-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76821",
-        "76861",
-        "76865",
-        "76875",
-        "79566"
-      ]
-    },
-    {
       "name": "COLEMAN PUBLIC LIBRARY",
       "system": "COLEMAN PUBLIC LIBRARY",
       "address": "402 S COMMERCIAL AVE, COLEMAN, TX",
@@ -36,20 +21,6 @@
       ]
     },
     {
-      "name": "CROSS PLAINS PUBLIC LIBRARY",
-      "system": "CROSS PLAINS PUBLIC LIBRARY",
-      "address": "149 N MAIN ST, CROSS PLAINS, TX",
-      "website": "https://www.crossplainslibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76443",
-        "76469",
-        "79504",
-        "79510"
-      ]
-    },
-    {
       "name": "HOWARD COUNTY LIBRARY",
       "system": "HOWARD COUNTY LIBRARY",
       "address": "500 S MAIN ST, BIG SPRING, TX",
@@ -66,21 +37,20 @@
     {
       "name": "ABILENE PUBLIC LIBRARY",
       "system": "ABILENE PUBLIC LIBRARY",
-      "address": "209 NW 4TH, ABILENE, KS",
+      "address": "202 CEDAR ST, ABILENE, TX",
       "website": "http://abilene.lib.nckls.org/",
       "formUrl": "http://abilene.lib.nckls.org/",
       "formStatus": "verified",
       "zipcodes": [
         "67410",
+        "67441",
+        "67482",
         "79508",
         "79530",
         "79541",
-        "79561",
         "79562",
-        "79563",
         "79601",
         "79602",
-        "79603",
         "79605",
         "79606",
         "79607"
@@ -109,10 +79,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79501",
-        "79503",
         "79520",
-        "79525",
-        "79533"
+        "79525"
       ]
     },
     {
@@ -192,8 +160,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "79503",
-        "79520",
-        "79525",
         "79533",
         "79553"
       ]
@@ -221,9 +187,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76861",
         "76865",
-        "76875",
         "79566",
         "79567"
       ]
@@ -231,13 +195,14 @@
     {
       "name": "CLYDE PUBLIC LIBRARY",
       "system": "CLYDE PUBLIC LIBRARY",
-      "address": "222 W. BUCKEYE ST., CLYDE, OH",
+      "address": "125 OAK ST, CLYDE, TX",
       "website": "https://www.clyde-tx.gov/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "43410",
-        "76469",
+        "43464",
+        "44811",
         "79504",
         "79510"
       ]
@@ -263,19 +228,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "79508",
-        "79530",
         "79536",
-        "79541",
         "79561",
-        "79562",
         "79563",
-        "79601",
-        "79602",
-        "79603",
-        "79605",
-        "79606",
-        "79607"
+        "79603"
       ]
     }
   ]

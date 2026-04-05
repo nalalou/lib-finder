@@ -1,6 +1,34 @@
 {
   "libraries": [
     {
+      "name": "ALLENDALE HAMPTON JASPER REGIONAL LIBRARY",
+      "system": "ALLENDALE HAMPTON JASPER REGIONAL LIBRARY",
+      "address": "297 MAIN STREET NORTH, ALLENDALE, SC",
+      "website": "https://ahjlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29042",
+        "29081",
+        "29810",
+        "29812",
+        "29817",
+        "29827",
+        "29836",
+        "29843",
+        "29849",
+        "29911",
+        "29918",
+        "29921",
+        "29922",
+        "29923",
+        "29924",
+        "29932",
+        "29939",
+        "29944"
+      ]
+    },
+    {
       "name": "COLLETON COUNTY MEMORIAL LIBRARY",
       "system": "COLLETON COUNTY MEMORIAL LIBRARY",
       "address": "600 HAMPTON STREET, WALTERBORO, SC",
@@ -17,6 +45,7 @@
         "29481",
         "29488",
         "29493",
+        "29916",
         "29929",
         "29945"
       ]
@@ -34,11 +63,14 @@
         "29910",
         "29920",
         "29926",
+        "29927",
         "29928",
+        "29934",
         "29935",
+        "29936",
         "29940",
         "29941",
-        "299HH"
+        "29943"
       ]
     }
   ]

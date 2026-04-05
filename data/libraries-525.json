@@ -1,19 +1,86 @@
 {
   "libraries": [
     {
+      "name": "MILTON PUBLIC LIBRARY",
+      "system": "MILTON PUBLIC LIBRARY",
+      "address": "541 BROADWAY ST, MILTON, PA",
+      "website": "https://miltonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02170",
+        "02171",
+        "02186",
+        "02445",
+        "02446",
+        "17730",
+        "17772",
+        "17777",
+        "17847",
+        "17850",
+        "17865",
+        "52570",
+        "53505",
+        "53546",
+        "53563"
+      ]
+    },
+    {
+      "name": "BLOOMFIELD PUBLIC LIBRARY",
+      "system": "BLOOMFIELD PUBLIC LIBRARY",
+      "address": "90 BROAD STREET, BLOOMFIELD, NJ",
+      "website": "https://www.bplnj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06002",
+        "06089",
+        "06117",
+        "07003",
+        "07017",
+        "07107",
+        "14475",
+        "14585",
+        "17020",
+        "17024",
+        "17040",
+        "17062",
+        "17068",
+        "17074",
+        "17090",
+        "52537",
+        "52552",
+        "52560",
+        "52584",
+        "63735",
+        "63825",
+        "63846",
+        "68718",
+        "87037",
+        "87412",
+        "87413",
+        "87415"
+      ]
+    },
+    {
       "name": "OSKALOOSA PUBLIC LIBRARY",
       "system": "OSKALOOSA PUBLIC LIBRARY",
-      "address": "301 S MARKET, OSKALOOSA, IA",
+      "address": "315 JEFFERSON ST., OSKALOOSA, KS",
       "website": "https://oskielibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50143",
+        "52534",
+        "52543",
+        "52561",
         "52577",
+        "52586",
+        "52595",
         "66066",
         "66070",
         "66073",
-        "66097",
-        "66429"
+        "66097"
       ]
     },
     {
@@ -25,8 +92,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52501",
-        "52548",
-        "52566"
+        "52548"
       ]
     },
     {
@@ -37,9 +103,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52530",
-        "52548",
-        "52566"
+        "52530"
       ]
     },
     {
@@ -68,9 +132,7 @@
         "52555",
         "52574",
         "52581",
-        "52593",
-        "52594",
-        "525HH"
+        "52593"
       ]
     },
     {
@@ -81,9 +143,38 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52548",
-        "52554",
-        "52566"
+        "52554"
+      ]
+    },
+    {
+      "name": "FAIRFIELD PUBLIC LIBRARY",
+      "system": "FAIRFIELD PUBLIC LIBRARY",
+      "address": "104 W ADAMS AVE, FAIRFIELD, IA",
+      "website": "https://www.fairfield.lib.ia.us/",
+      "formUrl": "https://fairfieldia.bywatersolutions.com/cgi-bin/koha/opac-suggestions.pl?op=add_form",
+      "formStatus": "verified",
+      "zipcodes": [
+        "06605",
+        "06607",
+        "06608",
+        "52556",
+        "52567",
+        "52580",
+        "52635",
+        "62446",
+        "62809",
+        "62823",
+        "62833",
+        "62837",
+        "62842",
+        "62843",
+        "62878",
+        "62886",
+        "68452",
+        "68934",
+        "68935",
+        "68938",
+        "68941"
       ]
     },
     {
@@ -94,16 +185,8 @@
       "formUrl": "https://www.hedrick.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50104",
-        "50136",
-        "52231",
-        "52355",
         "52550",
-        "52562",
-        "52563",
-        "52568",
-        "52576",
-        "52585"
+        "52563"
       ]
     },
     {
@@ -114,14 +197,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52549",
-        "52555",
         "52571",
-        "52574",
-        "52581",
         "52593",
-        "52594",
-        "525HH"
+        "52594"
       ]
     },
     {
@@ -132,31 +210,64 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52549",
         "52555",
         "52572",
-        "52574",
-        "52581",
-        "52593",
-        "52594",
-        "525HH"
+        "52593"
+      ]
+    },
+    {
+      "name": "RICHLAND PUBLIC LIBRARY",
+      "system": "RICHLAND PUBLIC LIBRARY",
+      "address": "100 E MAIN, RICHLAND, IA",
+      "website": "https://www.richland.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52576",
+        "52585",
+        "99320",
+        "99326",
+        "99330",
+        "99338",
+        "99343",
+        "99345",
+        "99350",
+        "99352",
+        "99353"
+      ]
+    },
+    {
+      "name": "SEYMOUR COMMUNITY LIBRARY",
+      "system": "SEYMOUR COMMUNITY LIBRARY",
+      "address": "123 N 5TH ST, SEYMOUR, IA",
+      "website": "https://seymour.lib.mo.us/",
+      "formUrl": "https://seymour.lib.mo.us/services/other-services",
+      "formStatus": "verified",
+      "zipcodes": [
+        "52583",
+        "52590",
+        "65652",
+        "65746"
       ]
     },
     {
       "name": "BIRMINGHAM PUBLIC LIBRARY",
       "system": "BIRMINGHAM PUBLIC LIBRARY",
-      "address": "2100 PARK PLACE, BIRMINGHAM, AL",
-      "website": "https://librarytechnology.org/library/16759",
+      "address": "301 E MAIN ST, BIRMINGHAM, IA",
+      "website": "http://www.bplonline.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "35203",
+        "35204",
+        "35205",
+        "35207",
+        "35208",
+        "35222",
+        "35233",
+        "35234",
         "52535",
         "52551",
-        "52570",
-        "52573",
-        "52588",
-        "52630"
+        "52588"
       ]
     },
     {
@@ -167,13 +278,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52535",
-        "52551",
         "52565",
-        "52570",
-        "52573",
-        "52588",
-        "52630"
+        "52573"
       ]
     },
     {
@@ -184,13 +290,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52535",
         "52542",
-        "52551",
         "52570",
-        "52573",
-        "52588",
-        "52630"
+        "52573"
       ]
     },
     {
@@ -201,15 +303,10 @@
       "formUrl": "https://www.sigourney.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50104",
-        "50136",
         "52231",
         "52355",
         "52550",
-        "52562",
-        "52568",
         "52576",
-        "52585",
         "52591"
       ]
     },
@@ -235,10 +332,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52533",
-        "52556",
         "52567",
-        "52580",
-        "52635"
+        "52580"
       ]
     },
     {
@@ -250,44 +345,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52536",
-        "52548",
-        "52566"
-      ]
-    },
-    {
-      "name": "WILSON MEMORIAL LIBRARY",
-      "system": "WILSON MEMORIAL LIBRARY",
-      "address": "109 E WASHINGTON AVE, KEOTA, IA",
-      "website": "https://www.keota.lib.ia.us/",
-      "formUrl": "https://www.keota.lib.ia.us/services/interlibrary-loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "50104",
-        "50136",
-        "52231",
-        "52248",
-        "52355",
-        "52550",
-        "52562",
-        "52568",
-        "52576",
-        "52585"
-      ]
-    },
-    {
-      "name": "KALONA PUBLIC LIBRARY",
-      "system": "KALONA PUBLIC LIBRARY",
-      "address": "510 C AVE, KALONA, IA",
-      "website": "https://www.kalona.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52201",
-        "52247",
-        "52327",
-        "52359",
-        "52540",
-        "52621"
+        "52548"
       ]
     },
     {
@@ -301,31 +359,8 @@
         "50104",
         "50136",
         "50268",
-        "52231",
         "52355",
-        "52550",
-        "52562",
-        "52568",
-        "52576",
-        "52585"
-      ]
-    },
-    {
-      "name": "STILWELL PUBLIC LIBRARY",
-      "system": "STILWELL PUBLIC LIBRARY",
-      "address": "107 W MAPLE, NEW SHARON, IA",
-      "website": "https://www.newsharon.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50027",
-        "50143",
-        "50207",
-        "52534",
-        "52543",
-        "52561",
-        "52586",
-        "52595"
+        "52550"
       ]
     },
     {
@@ -337,63 +372,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52201",
-        "52327",
         "52353",
         "52359",
         "52540",
         "52621"
-      ]
-    },
-    {
-      "name": "WELLMAN-SCOFIELD PUBLIC LIBRARY",
-      "system": "WELLMAN-SCOFIELD PUBLIC LIBRARY",
-      "address": "711 4TH ST, WELLMAN, IA",
-      "website": "https://wellmanlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52201",
-        "52327",
-        "52356",
-        "52359",
-        "52540",
-        "52621"
-      ]
-    },
-    {
-      "name": "SOUTH ENGLISH PUBLIC LIBRARY",
-      "system": "SOUTH ENGLISH PUBLIC LIBRARY",
-      "address": "407 IVES ST, SOUTH ENGLISH, IA",
-      "website": "https://www.southenglish.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50104",
-        "50136",
-        "52231",
-        "52335",
-        "52355",
-        "52550",
-        "52562",
-        "52568",
-        "52576",
-        "52585"
-      ]
-    },
-    {
-      "name": "ALLERTON PUBLIC LIBRARY",
-      "system": "ALLERTON PUBLIC LIBRARY",
-      "address": "103 S CENTRAL, ALLERTON, IA",
-      "website": "https://www.allertonpubliclibrary.org/",
-      "formUrl": "https://www.allertonpubliclibrary.org/suggest-a-purchase",
-      "formStatus": "verified",
-      "zipcodes": [
-        "50008",
-        "50052",
-        "50147",
-        "50165",
-        "52583",
-        "52590"
       ]
     },
     {
@@ -404,28 +386,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50052",
         "50060",
-        "50147",
         "50165",
-        "52583",
-        "52590"
-      ]
-    },
-    {
-      "name": "HUMESTON PUBLIC LIBRARY",
-      "system": "HUMESTON PUBLIC LIBRARY",
-      "address": "302 BROAD ST, HUMESTON, IA",
-      "website": "https://www.humeston.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50052",
-        "50123",
-        "50147",
-        "50165",
-        "52583",
-        "52590"
+        "52583"
       ]
     },
     {
@@ -436,30 +399,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52535",
-        "52551",
-        "52570",
         "52573",
-        "52588",
         "52620",
         "52630"
-      ]
-    },
-    {
-      "name": "STOCKPORT PUBLIC LIBRARY",
-      "system": "STOCKPORT PUBLIC LIBRARY",
-      "address": "113 BESWICK ST, STOCKPORT, IA",
-      "website": "https://www.stockport.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52535",
-        "52551",
-        "52570",
-        "52573",
-        "52588",
-        "52630",
-        "52651"
       ]
     }
   ]

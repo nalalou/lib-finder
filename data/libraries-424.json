@@ -9,8 +9,32 @@
       "formStatus": "verified",
       "zipcodes": [
         "42411",
-        "42445",
-        "424HH"
+        "42445"
+      ]
+    },
+    {
+      "name": "HENDERSON COUNTY PUBLIC LIBRARY",
+      "system": "HENDERSON COUNTY PUBLIC LIBRARY",
+      "address": "101 SOUTH MAIN STREET, HENDERSON, KY",
+      "website": "https://www.hcpl.org/",
+      "formUrl": "https://www.hcpl.org/form/suggest-a-purchase",
+      "formStatus": "verified",
+      "zipcodes": [
+        "28726",
+        "28729",
+        "28731",
+        "28732",
+        "28735",
+        "28739",
+        "28742",
+        "28790",
+        "28791",
+        "28792",
+        "42406",
+        "42420",
+        "42451",
+        "42452",
+        "42458"
       ]
     },
     {
@@ -55,10 +79,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "42403",
         "42404",
         "42409",
-        "42444",
         "42450",
         "42455",
         "42456",

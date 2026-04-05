@@ -1,26 +1,6 @@
 {
   "libraries": [
     {
-      "name": "BASALT REGIONAL LIBRARY DISTRICT",
-      "system": "BASALT REGIONAL LIBRARY DISTRICT",
-      "address": "14 MIDLAND AVE, BASALT, CO",
-      "website": "https://basaltlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "80423",
-        "80426",
-        "80463",
-        "81620",
-        "81621",
-        "81632",
-        "81637",
-        "81645",
-        "81649",
-        "81655"
-      ]
-    },
-    {
       "name": "EAGLE VALLEY LIBRARY DISTRICT",
       "system": "EAGLE VALLEY LIBRARY DISTRICT",
       "address": "600 BROADWAY, EAGLE, CO",
@@ -28,32 +8,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80423",
         "80426",
         "80463",
-        "81620",
         "81631",
         "81632",
-        "81637",
-        "81645",
-        "81649",
-        "81655"
-      ]
-    },
-    {
-      "name": "WEST ROUTT LIBRARY DISTRICT/HAYDEN",
-      "system": "WEST ROUTT LIBRARY DISTRICT/HAYDEN",
-      "address": "201 EAST JEFFERSON AVENUE, HAYDEN, CO",
-      "website": "https://haydenpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "80428",
-        "80469",
-        "80479",
-        "80483",
-        "81639",
-        "81653"
+        "81637"
       ]
     },
     {
@@ -65,11 +24,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "80423",
-        "80426",
-        "80463",
         "81620",
-        "81632",
-        "81637",
         "81645",
         "81649",
         "81655",
@@ -79,20 +34,50 @@
     {
       "name": "SUMMIT COUNTY LIBRARY",
       "system": "SUMMIT COUNTY LIBRARY",
-      "address": "037 PEAK ONE DRIVE, FRISCO, CO",
+      "address": "1885 W UTE BLVD, PARK CITY, UT",
       "website": "https://www.thesummitcountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "80424",
+        "80435",
         "80443",
+        "80498",
         "84017",
         "84024",
         "84033",
-        "84036",
-        "84055",
         "84061",
-        "84098",
-        "840XX"
+        "84098"
+      ]
+    },
+    {
+      "name": "JACKSON COUNTY PUBLIC LIBRARY",
+      "system": "JACKSON COUNTY PUBLIC LIBRARY",
+      "address": "338 NORTH MAIN STREET, MCKEE, KY",
+      "website": "https://www.myjclibrary.org/",
+      "formUrl": "https://www.myjclibrary.org/request-materials/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "25239",
+        "25241",
+        "25244",
+        "25245",
+        "25248",
+        "25252",
+        "25262",
+        "25264",
+        "25271",
+        "25275",
+        "26164",
+        "40402",
+        "40447",
+        "40481",
+        "40486",
+        "47229",
+        "47274",
+        "80434",
+        "80473",
+        "80480"
       ]
     },
     {
@@ -104,8 +89,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "80422",
-        "80427",
-        "80474"
+        "80427"
       ]
     },
     {
@@ -123,9 +107,31 @@
         "80459",
         "80468",
         "80478",
-        "80482",
-        "804HH",
-        "804XX"
+        "80482"
+      ]
+    },
+    {
+      "name": "LAKE COUNTY PUBLIC LIBRARY",
+      "system": "LAKE COUNTY PUBLIC LIBRARY",
+      "address": "1115 HARRISON AVE, LEADVILLE, CO",
+      "website": "https://www.lakecountypubliclibrary.org/",
+      "formUrl": "https://www.lakecountypubliclibrary.org/request-our-book-bike-mobile-checkout",
+      "formStatus": "verified",
+      "zipcodes": [
+        "46303",
+        "46311",
+        "46319",
+        "46321",
+        "46342",
+        "46373",
+        "46375",
+        "46405",
+        "46407",
+        "46408",
+        "46409",
+        "46410",
+        "80461",
+        "81251"
       ]
     },
     {
@@ -155,12 +161,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80428",
         "80467",
         "80469",
         "80479",
-        "80483",
-        "81653"
+        "80483"
       ]
     },
     {
@@ -172,11 +176,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "80428",
-        "80469",
-        "80479",
-        "80483",
-        "80487",
-        "81653"
+        "80487"
       ]
     },
     {
@@ -202,62 +202,48 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80025",
-        "80026",
-        "80027",
-        "80301",
-        "80303",
-        "80304",
-        "80455",
         "80466",
-        "80481",
-        "80503",
-        "80510",
-        "80516"
+        "80481"
       ]
     },
     {
-      "name": "LONGMONT PUBLIC LIBRARY",
-      "system": "LONGMONT PUBLIC LIBRARY",
-      "address": "409 4TH AVE, LONGMONT, CO",
-      "website": "https://longmontcolorado.gov/Library/",
+      "name": "JEFFERSON COUNTY PUBLIC LIBRARY",
+      "system": "JEFFERSON COUNTY PUBLIC LIBRARY",
+      "address": "420 WEST MAIN STREET, MADISON, IN",
+      "website": "https://jeffcolibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80025",
-        "80026",
-        "80027",
-        "80301",
-        "80303",
-        "80304",
-        "80455",
-        "80481",
-        "80501",
-        "80503",
-        "80510",
-        "80516"
-      ]
-    },
-    {
-      "name": "LYONS REGIONAL LIBRARY DISTRICT",
-      "system": "LYONS REGIONAL LIBRARY DISTRICT",
-      "address": "451 4TH AVENUE, LYONS, CO",
-      "website": "https://lyons.colibraries.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "80025",
-        "80026",
-        "80027",
-        "80301",
-        "80303",
-        "80304",
-        "80455",
-        "80481",
-        "80503",
-        "80510",
-        "80516",
-        "80540"
+        "47230",
+        "47231",
+        "47243",
+        "47250",
+        "80002",
+        "80003",
+        "80004",
+        "80005",
+        "80007",
+        "80021",
+        "80033",
+        "80123",
+        "80127",
+        "80128",
+        "80214",
+        "80215",
+        "80226",
+        "80227",
+        "80228",
+        "80232",
+        "80235",
+        "80401",
+        "80403",
+        "80425",
+        "80433",
+        "80439",
+        "80454",
+        "80457",
+        "80465",
+        "80470"
       ]
     },
     {
@@ -270,16 +256,11 @@
       "zipcodes": [
         "80025",
         "80026",
-        "80027",
         "80301",
         "80302",
         "80303",
         "80304",
-        "80455",
-        "80481",
-        "80503",
-        "80510",
-        "80516"
+        "80455"
       ]
     }
   ]

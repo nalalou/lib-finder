@@ -1,29 +1,10 @@
 {
   "libraries": [
     {
-      "name": "BENTON HARBOR PUBLIC LIBRARY",
-      "system": "BENTON HARBOR PUBLIC LIBRARY",
-      "address": "213 EAST WALL STREET, BENTON HARBOR, MI",
-      "website": "https://www.bentonharborlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49022",
-        "49101",
-        "49102",
-        "49115",
-        "49116",
-        "49119",
-        "49125",
-        "49129",
-        "491HH"
-      ]
-    },
-    {
       "name": "CASS DISTRICT LIBRARY",
       "system": "CASS DISTRICT LIBRARY",
       "address": "319 M-62 NORTH, CASSOPOLIS, MI",
-      "website": "https://www.cassdistrictlibrary.org/",
+      "website": "http://cass.lib.mi.us/index.php",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
@@ -32,74 +13,6 @@
         "49095",
         "49112",
         "49130"
-      ]
-    },
-    {
-      "name": "DOWAGIAC DISTRICT LIBRARY",
-      "system": "DOWAGIAC DISTRICT LIBRARY",
-      "address": "211 COMMERCIAL STREET, DOWAGIAC, MI",
-      "website": "https://www.dowagiacdl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49047",
-        "49061",
-        "49095",
-        "49112",
-        "49130"
-      ]
-    },
-    {
-      "name": "MARCELLUS TOWNSHIP WOOD MEMORIAL LIBRARY",
-      "system": "MARCELLUS TOWNSHIP WOOD MEMORIAL LIBRARY",
-      "address": "205 EAST MAIN STREET, MARCELLUS, MI",
-      "website": "https://www.marcellus.michlibrary.org/",
-      "formUrl": "https://mel.org/welcome",
-      "formStatus": "verified",
-      "zipcodes": [
-        "49061",
-        "49067",
-        "49095",
-        "49112",
-        "49130"
-      ]
-    },
-    {
-      "name": "MAUD PRESTON PALENSKE MEMORIAL LIBRARY",
-      "system": "MAUD PRESTON PALENSKE MEMORIAL LIBRARY",
-      "address": "500 MARKET STREET, SAINT JOSEPH, MI",
-      "website": "https://www.youseemore.com/maudpreston/default.asp",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49085",
-        "49101",
-        "49102",
-        "49115",
-        "49116",
-        "49119",
-        "49125",
-        "49129",
-        "491HH"
-      ]
-    },
-    {
-      "name": "WATERVLIET DISTRICT LIBRARY",
-      "system": "WATERVLIET DISTRICT LIBRARY",
-      "address": "333 NORTH MAIN STREET, WATERVLIET, MI",
-      "website": "https://www.watervlietlibrary.net/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "49098",
-        "49101",
-        "49102",
-        "49115",
-        "49116",
-        "49119",
-        "49125",
-        "49129",
-        "491HH"
       ]
     },
     {
@@ -112,13 +25,7 @@
       "zipcodes": [
         "49101",
         "49102",
-        "49103",
-        "49115",
-        "49116",
-        "49119",
-        "49125",
-        "49129",
-        "491HH"
+        "49103"
       ]
     },
     {
@@ -130,14 +37,11 @@
       "formStatus": "unknown",
       "zipcodes": [
         "49101",
-        "49102",
         "49106",
         "49115",
         "49116",
         "49119",
-        "49125",
-        "49129",
-        "491HH"
+        "49125"
       ]
     },
     {
@@ -148,34 +52,19 @@
       "formUrl": "https://www.buchananlibrary.org/renew-reserve-request-or-defer-an-item",
       "formStatus": "verified",
       "zipcodes": [
-        "49101",
-        "49102",
-        "49107",
-        "49115",
-        "49116",
-        "49119",
-        "49125",
-        "49129",
-        "491HH"
+        "49107"
       ]
     },
     {
       "name": "EAU CLAIRE DISTRICT LIBRARY",
       "system": "EAU CLAIRE DISTRICT LIBRARY",
       "address": "6528 EAST MAIN STREET, EAU CLAIRE, MI",
-      "website": "https://eauclairedistrictlibrary.org/",
+      "website": "https://www.eauclaire.michlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49101",
         "49102",
-        "49111",
-        "49115",
-        "49116",
-        "49119",
-        "49125",
-        "49129",
-        "491HH"
+        "49111"
       ]
     },
     {
@@ -186,15 +75,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49101",
-        "49102",
         "49113",
-        "49115",
-        "49116",
         "49119",
         "49125",
-        "49129",
-        "491HH"
+        "49129"
       ]
     },
     {
@@ -206,14 +90,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "49101",
-        "49102",
-        "49115",
-        "49116",
-        "49119",
-        "49125",
-        "49127",
-        "49129",
-        "491HH"
+        "49127"
       ]
     },
     {
@@ -224,15 +101,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49101",
-        "49102",
         "49115",
         "49116",
         "49117",
-        "49119",
-        "49125",
-        "49129",
-        "491HH"
+        "49129"
       ]
     },
     {
@@ -243,15 +115,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49101",
         "49102",
-        "49115",
-        "49116",
-        "49119",
-        "49120",
-        "49125",
-        "49129",
-        "491HH"
+        "49120"
       ]
     },
     {
@@ -262,15 +127,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49101",
-        "49102",
-        "49115",
-        "49116",
-        "49119",
-        "49125",
-        "49126",
-        "49129",
-        "491HH"
+        "49126"
       ]
     },
     {
@@ -281,15 +138,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "49101",
-        "49102",
         "49115",
         "49116",
         "49119",
         "49125",
         "49128",
-        "49129",
-        "491HH"
+        "49129"
       ]
     }
   ]

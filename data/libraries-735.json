@@ -15,14 +15,13 @@
         "73539",
         "73549",
         "73556",
-        "73560",
-        "735XX"
+        "73560"
       ]
     },
     {
       "name": "DUNCAN PUBLIC LIBRARY",
       "system": "DUNCAN PUBLIC LIBRARY",
-      "address": "122 N HWY 75, DUNCAN, AZ",
+      "address": "3785 N. HIGHWAY 81, DUNCAN, OK",
       "website": "https://greenleelibraries.org/duncan-library-information/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -32,8 +31,7 @@
         "73491",
         "73529",
         "73533",
-        "73548",
-        "85534"
+        "73548"
       ]
     },
     {
@@ -47,7 +45,6 @@
         "73530",
         "73542",
         "73551",
-        "73553",
         "73555",
         "73570"
       ]
@@ -60,23 +57,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73530",
         "73546",
-        "73551",
-        "73553",
-        "73555",
-        "73570"
+        "73553"
       ]
     },
     {
       "name": "LAWTON PUBLIC LIBRARY",
       "system": "LAWTON PUBLIC LIBRARY",
-      "address": "125 SOUTH MAIN STREET, LAWTON, MI",
+      "address": "110 S W 4TH ST, LAWTON, OK",
       "website": "https://www.lawtonok.gov/departments/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "49065",
+        "49071",
         "73501",
         "73503",
         "73505",
@@ -84,12 +78,9 @@
         "73527",
         "73528",
         "73540",
-        "73541",
         "73543",
         "73552",
-        "73557",
-        "73567",
-        "735HH"
+        "73557"
       ]
     },
     {
@@ -100,8 +91,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73544",
         "73547",
+        "73550",
         "73554",
+        "73571",
         "73673"
       ]
     },
@@ -128,9 +122,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "73520",
-        "73561",
         "73565",
-        "73569",
         "73573"
       ]
     },
@@ -142,20 +134,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73501",
-        "73503",
-        "73505",
-        "73507",
-        "73527",
-        "73528",
         "73538",
-        "73540",
         "73541",
-        "73543",
-        "73552",
-        "73557",
-        "73567",
-        "735HH"
+        "73567"
       ]
     },
     {
@@ -166,10 +147,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73441",
         "73456",
-        "73520",
-        "73561",
-        "73565",
         "73569"
       ]
     },
@@ -181,47 +160,13 @@
       "formUrl": "https://www.hobartlibrary.okpls.org/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "73041",
-        "730XX",
         "73559",
         "73564",
         "73566",
         "73651",
-        "73655"
-      ]
-    },
-    {
-      "name": "MARLOW - GARLAND SMITH PUBLIC LIBRARY",
-      "system": "MARLOW - GARLAND SMITH PUBLIC LIBRARY",
-      "address": "702 W. MAIN, MARLOW, OK",
-      "website": "https://www.garlandsmithpubliclibrary.okpls.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73055",
-        "73425",
-        "73442",
-        "73491",
-        "73529",
-        "73533",
-        "73548"
-      ]
-    },
-    {
-      "name": "MT VIEW - ADDIE DAVIS MEMORIAL LIBRARY",
-      "system": "MT VIEW - ADDIE DAVIS MEMORIAL LIBRARY",
-      "address": "301 N. 4TH, MTN. VIEW, OK",
-      "website": "https://mountainviewok.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73041",
-        "73062",
-        "730XX",
-        "73559",
-        "73564",
-        "73566",
-        "73655"
+        "73655",
+        "73661",
+        "73664"
       ]
     }
   ]

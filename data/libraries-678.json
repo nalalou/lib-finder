@@ -3,7 +3,7 @@
     {
       "name": "SCOTT COUNTY LIBRARY",
       "system": "SCOTT COUNTY LIBRARY",
-      "address": "110 W. 8TH ST., SCOTT CITY, KS",
+      "address": "1615 WESTON COURT, SHAKOPEE, MN",
       "website": "https://www.sclibrary.info/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -21,12 +21,15 @@
     {
       "name": "GRANT COUNTY LIBRARY",
       "system": "GRANT COUNTY LIBRARY",
-      "address": "215 E. GRANT AVE., ULYSSES, KS",
+      "address": "105 E HARRISON ST., HYANNIS, NE",
       "website": "https://www.grantcolib.info/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "67880",
+        "69333",
+        "69350",
+        "69366",
         "97817",
         "97820",
         "97825",
@@ -36,20 +39,20 @@
         "97864",
         "97865",
         "97869",
-        "97872",
-        "97873",
-        "978XX"
+        "97873"
       ]
     },
     {
       "name": "FOWLER PUBLIC LIBRARY",
       "system": "FOWLER PUBLIC LIBRARY",
-      "address": "510 MAIN, FOWLER, KS",
+      "address": "411 6TH STREET, FOWLER, CO",
       "website": "https://www.fowlerlibrary.info/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67844"
+        "67844",
+        "81039",
+        "81058"
       ]
     },
     {
@@ -71,9 +74,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67837",
-        "67841",
-        "67853"
+        "67837"
       ]
     },
     {
@@ -95,7 +96,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67842",
         "67876",
         "67882"
       ]
@@ -108,9 +108,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67840",
-        "67865",
-        "678HH"
+        "67865"
       ]
     },
     {
@@ -122,8 +120,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67834",
-        "67842",
-        "67882"
+        "67842"
       ]
     },
     {
@@ -146,8 +143,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67831",
-        "67840",
-        "678HH"
+        "67840"
       ]
     },
     {
@@ -159,7 +155,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67841",
-        "67853",
         "67867"
       ]
     },
@@ -194,7 +189,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67835",
-        "67841",
         "67853"
       ]
     },
@@ -241,8 +235,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67879",
-        "678XX"
+        "67879"
       ]
     },
     {
@@ -302,7 +295,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67801",
-        "67842",
         "67882"
       ]
     },

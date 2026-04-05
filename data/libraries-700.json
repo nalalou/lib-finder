@@ -1,6 +1,67 @@
 {
   "libraries": [
     {
+      "name": "ASCENSION PARISH LIBRARY",
+      "system": "ASCENSION PARISH LIBRARY",
+      "address": "500 MISSISSIPPI STREET, DONALDSONVILLE, LA",
+      "website": "http://www.myapl.org",
+      "formUrl": "https://www.myapl.org/requests-16742",
+      "formStatus": "verified",
+      "zipcodes": [
+        "70086",
+        "70341",
+        "70346",
+        "70391",
+        "70393",
+        "70721",
+        "70723",
+        "70725",
+        "70734",
+        "70737",
+        "70778"
+      ]
+    },
+    {
+      "name": "NEW ORLEANS PUBLIC LIBRARY",
+      "system": "NEW ORLEANS PUBLIC LIBRARY",
+      "address": "219 LOYOLA AVENUE, NEW ORLEANS, LA",
+      "website": "https://www.nolalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70002",
+        "70003",
+        "70005",
+        "70006",
+        "70032",
+        "70053",
+        "70056",
+        "70058",
+        "70072",
+        "70075",
+        "70094",
+        "70112",
+        "70113",
+        "70114",
+        "70115",
+        "70116",
+        "70117",
+        "70118",
+        "70119",
+        "70121",
+        "70122",
+        "70123",
+        "70124",
+        "70125",
+        "70126",
+        "70127",
+        "70128",
+        "70130",
+        "70131",
+        "70163"
+      ]
+    },
+    {
       "name": "ST. JAMES PARISH LIBRARY",
       "system": "ST. JAMES PARISH LIBRARY",
       "address": "1879 W. MAIN STREET, LUTCHER, LA",
@@ -8,7 +69,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70071"
+        "70049",
+        "70051",
+        "70052",
+        "70071",
+        "70076",
+        "70084",
+        "70090",
+        "70449",
+        "70723",
+        "70743",
+        "70763",
+        "70774"
       ]
     },
     {
@@ -19,7 +91,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70037"
+        "70032",
+        "70036",
+        "70037",
+        "70038",
+        "70040",
+        "70041",
+        "70050",
+        "70053",
+        "70056",
+        "70058",
+        "70067",
+        "70072",
+        "70075",
+        "70082",
+        "70083",
+        "70091",
+        "70092",
+        "70114",
+        "70115",
+        "70117",
+        "70130",
+        "70131",
+        "70345",
+        "70358"
       ]
     },
     {
@@ -30,7 +125,11 @@
       "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSep7X32bo2Rz_MsFRDcuV5QEKtzCdwclDi8uSpyENtA3lfYzw/viewform",
       "formStatus": "verified",
       "zipcodes": [
-        "70068"
+        "70049",
+        "70057",
+        "70068",
+        "70079",
+        "70084"
       ]
     },
     {
@@ -41,7 +140,21 @@
       "formUrl": "https://www.myscpl.org/locations/east-regional/suggest",
       "formStatus": "verified",
       "zipcodes": [
-        "70047"
+        "70030",
+        "70031",
+        "70039",
+        "70047",
+        "70057",
+        "70062",
+        "70065",
+        "70070",
+        "70079",
+        "70080",
+        "70087",
+        "70094",
+        "70123",
+        "70355",
+        "70373"
       ]
     },
     {
@@ -52,7 +165,29 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70043"
+        "70032",
+        "70043",
+        "70053",
+        "70056",
+        "70058",
+        "70075",
+        "70085",
+        "70092",
+        "70113",
+        "70114",
+        "70116",
+        "70117",
+        "70119",
+        "70122",
+        "70125",
+        "70126",
+        "70127",
+        "70128",
+        "70129",
+        "70130",
+        "70131",
+        "70163",
+        "70461"
       ]
     },
     {
@@ -63,7 +198,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70001"
+        "70001",
+        "70002",
+        "70003",
+        "70005",
+        "70006",
+        "70031",
+        "70062",
+        "70065",
+        "70087",
+        "70094",
+        "70113",
+        "70115",
+        "70116",
+        "70118",
+        "70119",
+        "70121",
+        "70122",
+        "70123",
+        "70124",
+        "70125",
+        "70163"
       ]
     }
   ]

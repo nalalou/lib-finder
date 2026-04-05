@@ -1,6 +1,29 @@
 {
   "libraries": [
     {
+      "name": "HANDLEY REGIONAL LIBRARY",
+      "system": "HANDLEY REGIONAL LIBRARY",
+      "address": "100 W. PICCADILLY ST., WINCHESTER, VA",
+      "website": "https://www.handleyregional.org/",
+      "formUrl": "https://www.handleyregional.org/services/request/ill",
+      "formStatus": "verified",
+      "zipcodes": [
+        "20135",
+        "22601",
+        "22602",
+        "22603",
+        "22611",
+        "22620",
+        "22624",
+        "22625",
+        "22637",
+        "22646",
+        "22655",
+        "22656",
+        "22663"
+      ]
+    },
+    {
       "name": "CULPEPER COUNTY LIBRARY",
       "system": "CULPEPER COUNTY LIBRARY",
       "address": "271 SOUTHGATE SHOPPING CENTER, CULPEPER, VA",
@@ -19,8 +42,7 @@
         "22733",
         "22736",
         "22737",
-        "22741",
-        "22746"
+        "22741"
       ]
     },
     {
@@ -40,7 +62,6 @@
         "20190",
         "20191",
         "20194",
-        "201HH",
         "22003",
         "22015",
         "22027",
@@ -57,7 +78,6 @@
         "22060",
         "22066",
         "22079",
-        "220HH",
         "22101",
         "22102",
         "22124",
@@ -75,8 +95,7 @@
         "22309",
         "22310",
         "22312",
-        "22315",
-        "223HH"
+        "22315"
       ]
     },
     {
@@ -91,9 +110,7 @@
         "20119",
         "20130",
         "20137",
-        "20138",
         "20139",
-        "20140",
         "20144",
         "20184",
         "20186",
@@ -143,6 +160,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "20110",
         "20111"
       ]
     },
@@ -155,6 +173,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "20109",
+        "20110",
         "20112",
         "20136",
         "20143",
@@ -167,8 +186,7 @@
         "22172",
         "22191",
         "22192",
-        "22193",
-        "221HH"
+        "22193"
       ]
     }
   ]

@@ -1,302 +1,6 @@
 {
   "libraries": [
     {
-      "name": "MCINDOES ACADEMY LIBRARY",
-      "system": "MCINDOES ACADEMY LIBRARY",
-      "address": "37 ACADEMY LANE, MCINDOE FALLS, VT",
-      "website": "https://librarytechnology.org/library/25208",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "05050",
-        "056HH",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "BRADFORD PUBLIC",
-      "system": "BRADFORD PUBLIC",
-      "address": "21 S. MAIN ST., BRADFORD, VT",
-      "website": "https://bradfordvtlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05033",
-        "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
-      "name": "BROOKFIELD FREE PUBLIC",
-      "system": "BROOKFIELD FREE PUBLIC",
-      "address": "40 RALPH RD., BROOKFIELD, VT",
-      "website": "https://www.brookfieldvt.org/brookfield-free-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05036",
-        "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
-      "name": "CHELSEA PUBLIC",
-      "system": "CHELSEA PUBLIC",
-      "address": "296 RTE. 110, CHELSEA, VT",
-      "website": "https://www.chelsealibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05038",
-        "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
-      "name": "FAIRLEE PUBLIC",
-      "system": "FAIRLEE PUBLIC",
-      "address": "221 US RTE 5 N, FAIRLEE, VT",
-      "website": "https://www.fairleelibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05039",
-        "05041",
-        "05043",
-        "05045",
-        "05054",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
-      "name": "GROTON FREE PUBLIC",
-      "system": "GROTON FREE PUBLIC",
-      "address": "1304 SCOTT HWY., GROTON, VT",
-      "website": "https://grotonlibraryvt.org/",
-      "formUrl": "https://grotonlibraryvt.org/purchase-requests/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "05042",
-        "05046",
-        "056HH",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "TENNEY MEMORIAL",
-      "system": "TENNEY MEMORIAL",
-      "address": "4886 MAIN ST. S., NEWBURY, VT",
-      "website": "https://tenneymemoriallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05039",
-        "05041",
-        "05043",
-        "05051",
-        "05054",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
-      "name": "BALDWIN MEMORIAL",
-      "system": "BALDWIN MEMORIAL",
-      "address": "33 MAIN ST., WELLS RIVER, VT",
-      "website": "http://baldwinlibraryvt.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05081",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
-      "name": "KIMBALL PUBLIC",
-      "system": "KIMBALL PUBLIC",
-      "address": "67 N. MAIN ST., RANDOLPH, VT",
-      "website": "https://kimballlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05060",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
-      "name": "SOUTH RYEGATE PUBLIC",
-      "system": "SOUTH RYEGATE PUBLIC",
-      "address": "140 CHURCH ST., SOUTH RYEGATE, VT",
-      "website": "https://www.chamberofcommerce.com/business-directory/vermont/south-ryegate/library/2028506238-south-ryegate-public",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "05069",
-        "056HH",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "MORRILL MEM. & HARRIS",
-      "system": "MORRILL MEM. & HARRIS",
-      "address": "220 JUSTIN MORRILL HWY., STRAFFORD, VT",
-      "website": "https://norwoodlibrary.org/",
-      "formUrl": "https://www.minlib.net/services#suggest-purchase",
-      "formStatus": "verified",
-      "zipcodes": [
-        "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05061",
-        "05070",
-        "05072",
-        "05075",
-        "05076",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
-      "name": "LATHAM MEMORIAL",
-      "system": "LATHAM MEMORIAL",
-      "address": "16 LIBRARY LN., THETFORD, VT",
-      "website": "https://thetfordlibrary.org/latham/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05061",
-        "05070",
-        "05074",
-        "05075",
-        "05076",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
-      "name": "GEORGE PEABODY",
-      "system": "GEORGE PEABODY",
-      "address": "7922 RTE. 113, POST MILLS, VT",
-      "website": "https://thetfordlibrary.org/peabody/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05058",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
-      "name": "TUNBRIDGE PUBLIC",
-      "system": "TUNBRIDGE PUBLIC",
-      "address": "289 VT RTE. 110, TUNBRIDGE, VT",
-      "website": "http://www.tunbridgelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05077",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
       "name": "BLAKE MEMORIAL",
       "system": "BLAKE MEMORIAL",
       "address": "676 VILLAGE RD., E. CORINTH, VT",
@@ -306,58 +10,7 @@
       "zipcodes": [
         "05039",
         "05040",
-        "05041",
-        "05043",
-        "05054",
-        "05061",
-        "05070",
-        "05075",
         "05076",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
-      "name": "VERSHIRE COMMUNITY",
-      "system": "VERSHIRE COMMUNITY",
-      "address": "6946 RT. 113, VERSHIRE, VT",
-      "website": "https://vershare.org/church-orr-house/vershire-community-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05079",
-        "05085",
-        "05086",
-        "05649"
-      ]
-    },
-    {
-      "name": "WEST FAIRLEE FREE PUBLIC",
-      "system": "WEST FAIRLEE FREE PUBLIC",
-      "address": "380 RTE. 113, WEST FAIRLEE, VT",
-      "website": "https://westfairleevt.gov/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05083",
-        "05085",
         "05086",
         "05649"
       ]
@@ -370,17 +23,10 @@
       "formUrl": "https://www.aldrichpubliclibrary.org/ill",
       "formStatus": "verified",
       "zipcodes": [
-        "05640",
         "05641",
-        "05648",
-        "05650",
         "05651",
         "05654",
-        "05664",
-        "05666",
-        "05677",
-        "05678",
-        "05682"
+        "05678"
       ]
     },
     {
@@ -391,17 +37,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05640",
         "05647",
-        "05648",
-        "05650",
-        "05651",
-        "05654",
-        "05664",
-        "05666",
-        "05677",
-        "05678",
-        "05682"
+        "05650"
       ]
     },
     {
@@ -412,7 +49,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05442",
         "05652",
         "05653",
         "05655",
@@ -429,9 +65,7 @@
       "zipcodes": [
         "05442",
         "05652",
-        "05653",
-        "05656",
-        "05657"
+        "05656"
       ]
     },
     {
@@ -445,14 +79,7 @@
         "05640",
         "05648",
         "05650",
-        "05651",
-        "05654",
-        "05658",
-        "05664",
-        "05666",
-        "05677",
-        "05678",
-        "05682"
+        "05658"
       ]
     },
     {
@@ -465,13 +92,9 @@
       "zipcodes": [
         "05602",
         "05640",
-        "05648",
-        "05650",
         "05651",
         "05654",
         "05664",
-        "05666",
-        "05677",
         "05678",
         "05682"
       ]
@@ -484,17 +107,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05640",
-        "05648",
-        "05650",
-        "05651",
-        "05654",
-        "05660",
-        "05664",
-        "05666",
-        "05677",
-        "05678",
-        "05682"
+        "05660"
       ]
     },
     {
@@ -505,9 +118,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05442",
-        "05652",
-        "05653",
         "05657",
         "05661"
       ]
@@ -520,17 +130,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05640",
-        "05648",
-        "05650",
-        "05651",
         "05654",
         "05663",
-        "05664",
-        "05666",
-        "05677",
-        "05678",
-        "05682"
+        "05664"
       ]
     },
     {
@@ -543,15 +145,9 @@
       "zipcodes": [
         "05640",
         "05648",
-        "05650",
         "05651",
-        "05654",
-        "05664",
-        "05666",
         "05667",
-        "05677",
-        "05678",
-        "05682"
+        "05678"
       ]
     },
     {
@@ -562,17 +158,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05640",
-        "05648",
-        "05650",
-        "05651",
-        "05654",
         "05664",
-        "05666",
-        "05669",
-        "05677",
-        "05678",
-        "05682"
+        "05669"
       ]
     },
     {
@@ -583,10 +170,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05442",
-        "05652",
-        "05653",
-        "05657",
         "05672"
       ]
     },
@@ -598,17 +181,7 @@
       "formUrl": "https://www.joslinmemoriallibrary.com/book-request-and-interlibrary-loan-form.html",
       "formStatus": "verified",
       "zipcodes": [
-        "05640",
-        "05648",
-        "05650",
-        "05651",
-        "05654",
-        "05664",
-        "05666",
-        "05673",
-        "05677",
-        "05678",
-        "05682"
+        "05673"
       ]
     },
     {
@@ -619,17 +192,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05640",
-        "05648",
-        "05650",
-        "05651",
-        "05654",
-        "05664",
-        "05666",
-        "05674",
-        "05677",
-        "05678",
-        "05682"
+        "05674"
       ]
     },
     {
@@ -641,14 +204,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05085",
         "05086",
         "05649",
         "05675"
@@ -662,17 +217,8 @@
       "formUrl": "https://waterburypubliclibrary.com/",
       "formStatus": "verified",
       "zipcodes": [
-        "05640",
-        "05648",
-        "05650",
-        "05651",
-        "05654",
-        "05664",
-        "05666",
         "05676",
-        "05677",
-        "05678",
-        "05682"
+        "05677"
       ]
     },
     {
@@ -683,17 +229,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05039",
-        "05041",
-        "05043",
-        "05054",
-        "05061",
-        "05070",
-        "05075",
-        "05076",
-        "05085",
-        "05086",
-        "05649",
         "05679"
       ]
     },
@@ -705,9 +240,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05442",
-        "05652",
-        "05653",
         "05657",
         "05680"
       ]
@@ -720,212 +252,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05640",
         "05648",
         "05650",
-        "05651",
-        "05654",
-        "05664",
-        "05666",
-        "05677",
-        "05678",
         "05681",
         "05682"
-      ]
-    },
-    {
-      "name": "BARNET PUBLIC",
-      "system": "BARNET PUBLIC",
-      "address": "147 CHURCH ST., BARNET, VT",
-      "website": "https://barnetpubliclibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "056HH",
-        "05821",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "WEST BURKE",
-      "system": "WEST BURKE",
-      "address": "123 VT RT 5A, WEST BURKE, VT",
-      "website": "https://www.burkevermont.org/schools-libraries-and-parks",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "056HH",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "05871",
-        "058HH"
-      ]
-    },
-    {
-      "name": "POPE MEMORIAL",
-      "system": "POPE MEMORIAL",
-      "address": "121 PARK ST., DANVILLE, VT",
-      "website": "https://popememoriallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "056HH",
-        "05828",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "JEUDEVINE MEMORIAL",
-      "system": "JEUDEVINE MEMORIAL",
-      "address": "93 N. MAIN ST., HARDWICK, VT",
-      "website": "https://www.jeudevinememoriallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "056HH",
-        "05832",
-        "05836",
-        "05843",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "COBLEIGH PUBLIC",
-      "system": "COBLEIGH PUBLIC",
-      "address": "14 DEPOT ST., LYNDONVILLE, VT",
-      "website": "https://cobleighlibrary.org/main/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "056HH",
-        "05832",
-        "05836",
-        "05851",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "PEACHAM",
-      "system": "PEACHAM",
-      "address": "656 BAYLEY HAZEN RD., PEACHAM, VT",
-      "website": "https://peachamlibrary.org/",
-      "formUrl": "https://www.peachamlibrary.org/interlibrary-loan/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "05042",
-        "056HH",
-        "05832",
-        "05836",
-        "05862",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "ST. JOHNSBURY ATHENAEUM",
-      "system": "ST. JOHNSBURY ATHENAEUM",
-      "address": "1171 MAIN ST., ST. JOHNSBURY, VT",
-      "website": "http://www.stjathenaeum.org",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "056HH",
-        "05819",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "WALDEN COMMUNITY",
-      "system": "WALDEN COMMUNITY",
-      "address": "135 CAHOON FARM RD., WEST DANVILLE, VT",
-      "website": "https://librarytechnology.org/library/25345",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "056HH",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "05873",
-        "058HH"
-      ]
-    },
-    {
-      "name": "DAVIES MEMORIAL",
-      "system": "DAVIES MEMORIAL",
-      "address": "111 LOWER WATERFORD RD., LOWER WATERFORD, VT",
-      "website": "https://daviesmemoriallibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "056HH",
-        "05832",
-        "05836",
-        "05848",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "BRAINERD MEMORIAL",
-      "system": "BRAINERD MEMORIAL",
-      "address": "4215 BRUCE BADGER MEM. HWY., N. DANVILLE, VT",
-      "website": "https://www.danvillevtchamber.org/business-directory/11647/n-danville-brainerd-memorial-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "056HH",
-        "05828",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "VARNUM MEMORIAL",
-      "system": "VARNUM MEMORIAL",
-      "address": "194 MAIN ST., JEFFERSONVILLE, VT",
-      "website": "http://www.varnumlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05442",
-        "05464",
-        "05652",
-        "05653",
-        "05657"
       ]
     },
     {
@@ -938,9 +268,7 @@
       "zipcodes": [
         "05442",
         "05492",
-        "05652",
-        "05653",
-        "05657"
+        "05652"
       ]
     }
   ]

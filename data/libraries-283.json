@@ -1,6 +1,89 @@
 {
   "libraries": [
     {
+      "name": "CUMBERLAND COUNTY PUBLIC LIBRARY",
+      "system": "CUMBERLAND COUNTY PUBLIC LIBRARY",
+      "address": "1539 ANDERSON HIGHWAY, CUMBERLAND, VA",
+      "website": "https://cumberlandcountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23027",
+        "23040",
+        "23123",
+        "23936",
+        "28301",
+        "28303",
+        "28304",
+        "28305",
+        "28306",
+        "28307",
+        "28311",
+        "28314",
+        "28342",
+        "28348",
+        "28356",
+        "28390",
+        "28391",
+        "28395",
+        "42717",
+        "42731"
+      ]
+    },
+    {
+      "name": "WAYNE COUNTY PUBLIC LIBRARY",
+      "system": "WAYNE COUNTY PUBLIC LIBRARY",
+      "address": "157 ROLLING HILLS BLVD, MONTICELLO, KY",
+      "website": "https://www.visitwaynecountyohio.com/listing/wayne-county-public-library/93/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18405",
+        "18431",
+        "18438",
+        "18443",
+        "18456",
+        "18472",
+        "18473",
+        "25507",
+        "25511",
+        "25512",
+        "25514",
+        "25517",
+        "25530",
+        "25534",
+        "25535",
+        "25555",
+        "25570",
+        "25669",
+        "25699",
+        "25704",
+        "27530",
+        "27534",
+        "27830",
+        "27863",
+        "28333",
+        "28365",
+        "28578",
+        "38425",
+        "38450",
+        "38452",
+        "38463",
+        "38471",
+        "38485",
+        "42603",
+        "42633",
+        "44214",
+        "44217",
+        "44287",
+        "44606",
+        "44627",
+        "44676",
+        "44677",
+        "44691"
+      ]
+    },
+    {
       "name": "SANDHILL REGIONAL LIBRARY SYSTEM",
       "system": "SANDHILL REGIONAL LIBRARY SYSTEM",
       "address": "412 E FRANKLIN ST, ROCKINGHAM, NC",
@@ -8,6 +91,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "28091",
+        "28102",
+        "28119",
+        "28170",
         "28330",
         "28338",
         "28345",
@@ -29,11 +116,9 @@
         "28337",
         "28392",
         "28399",
-        "283HH",
         "28433",
         "28434",
-        "28448",
-        "284HH"
+        "28448"
       ]
     },
     {
@@ -69,13 +154,11 @@
         "28357",
         "28358",
         "28360",
-        "28362",
         "28364",
         "28369",
         "28371",
         "28372",
         "28377",
-        "28378",
         "28383",
         "28384",
         "28386"
@@ -105,7 +188,7 @@
     {
       "name": "SCOTLAND COUNTY MEMORIAL LIBRARY",
       "system": "SCOTLAND COUNTY MEMORIAL LIBRARY",
-      "address": "306 W MADISON ST, MEMPHIS, MO",
+      "address": "312 W CHURCH ST, LAURINBURG, NC",
       "website": "https://scotland.lib.mo.us/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -115,8 +198,11 @@
         "28352",
         "28363",
         "28396",
-        "283XX",
-        "63555"
+        "63432",
+        "63531",
+        "63543",
+        "63555",
+        "63563"
       ]
     },
     {
@@ -127,15 +213,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27242",
-        "27281",
-        "27325",
         "27376",
         "28315",
-        "28327",
         "28350",
         "28373",
         "28374",
+        "28376",
         "28387",
         "28394"
       ]
@@ -148,6 +231,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "27209",
+        "27229",
         "27242",
         "27281",
         "27325",
@@ -157,8 +242,7 @@
         "28350",
         "28370",
         "28373",
-        "28374",
-        "28394"
+        "28374"
       ]
     },
     {
@@ -171,14 +255,12 @@
       "zipcodes": [
         "27501",
         "27505",
-        "27506",
         "27521",
         "27546",
         "28323",
         "28326",
         "28334",
-        "28339",
-        "28368"
+        "28339"
       ]
     }
   ]

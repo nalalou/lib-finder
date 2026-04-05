@@ -3,15 +3,15 @@
     {
       "name": "AUSTIN PUBLIC LIBRARY",
       "system": "AUSTIN PUBLIC LIBRARY",
-      "address": "323 FOURTH AVE NE, AUSTIN, MN",
+      "address": "710 W C\u00c9SAR CH\u00c1VEZ ST, AUSTIN, TX",
       "website": "https://library.austintexas.gov/",
       "formUrl": "https://austin.bibliocommons.com/user/login?destination=%2Fsuggested_purchases",
       "formStatus": "verified",
       "zipcodes": [
         "55912",
-        "78652",
-        "78653",
-        "78669",
+        "55950",
+        "55953",
+        "55970",
         "78701",
         "78702",
         "78703",
@@ -23,15 +23,8 @@
         "78723",
         "78724",
         "78725",
-        "78726",
-        "78727",
-        "78730",
         "78731",
-        "78732",
-        "78733",
         "78735",
-        "78736",
-        "78739",
         "78741",
         "78742",
         "78744",
@@ -39,30 +32,26 @@
         "78747",
         "78748",
         "78749",
-        "78750",
         "78751",
         "78752",
         "78753",
         "78754",
         "78756",
         "78757",
-        "78758",
-        "78759",
-        "787HH"
+        "78758"
       ]
     },
     {
       "name": "CALEDONIA PUBLIC LIBRARY",
       "system": "CALEDONIA PUBLIC LIBRARY",
       "address": "231 E MAIN STREET, CALEDONIA, MN",
-      "website": "https://www.caledoniapubliclibrary.com/",
+      "website": "http://www.caledoniamn.gov/index.asp?Type=B_BASIC&SEC=%7BB58C8B43-26ED-48D7-BCE9-505F4468778A%7D",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "55919",
         "55921",
-        "55931",
-        "55943"
+        "55931"
       ]
     },
     {
@@ -73,15 +62,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55922",
         "55923",
         "55935",
-        "55961",
-        "55962",
-        "55965",
-        "55975",
-        "55990",
-        "559HH"
+        "55990"
       ]
     },
     {
@@ -107,14 +90,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "55922",
-        "55935",
-        "55939",
-        "55961",
-        "55962",
-        "55965",
-        "55975",
-        "55990",
-        "559HH"
+        "55939"
       ]
     },
     {
@@ -126,9 +102,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "55919",
-        "55931",
-        "55941",
-        "55943"
+        "55941"
       ]
     },
     {
@@ -139,7 +113,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55924",
         "55940",
         "55944",
         "55955"
@@ -153,10 +126,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55018",
-        "55026",
-        "55027",
-        "55089",
         "55946",
         "55983"
       ]
@@ -169,9 +138,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55919",
-        "55931",
-        "55943",
         "55947"
       ]
     },
@@ -183,15 +149,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55922",
         "55935",
         "55949",
-        "55961",
-        "55962",
-        "55965",
-        "55975",
-        "55990",
-        "559HH"
+        "55962"
       ]
     },
     {
@@ -203,14 +163,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "55922",
-        "55935",
-        "55954",
-        "55961",
-        "55962",
-        "55965",
-        "55975",
-        "55990",
-        "559HH"
+        "55954"
       ]
     },
     {
@@ -221,31 +174,87 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55018",
-        "55026",
-        "55027",
-        "55089",
-        "55963",
-        "55983"
+        "55963"
+      ]
+    },
+    {
+      "name": "PLAINVIEW PUBLIC LIBRARY",
+      "system": "PLAINVIEW PUBLIC LIBRARY",
+      "address": "345 1ST AVENUE NW, PLAINVIEW, MN",
+      "website": "https://libraries.ne.gov/plainview/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55932",
+        "55945",
+        "55957",
+        "55964",
+        "55991",
+        "68769"
       ]
     },
     {
       "name": "PRESTON PUBLIC LIBRARY",
       "system": "PRESTON PUBLIC LIBRARY",
-      "address": "389 ROUTE 2, PRESTON, CT",
+      "address": "101 ST PAUL ST NW, PRESTON, MN",
       "website": "https://prestonpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "06335",
         "06365",
-        "55922",
+        "52064",
+        "52069",
+        "52074",
         "55935",
-        "55961",
-        "55962",
         "55965",
-        "55975",
-        "55990",
-        "559HH"
+        "55990"
+      ]
+    },
+    {
+      "name": "ROCHESTER PUBLIC LIBRARY",
+      "system": "ROCHESTER PUBLIC LIBRARY",
+      "address": "101 2ND STREET SE, ROCHESTER, MN",
+      "website": "https://www.rochesterpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03839",
+        "03867",
+        "03868",
+        "14604",
+        "14605",
+        "14606",
+        "14607",
+        "14608",
+        "14609",
+        "14610",
+        "14611",
+        "14613",
+        "14614",
+        "14615",
+        "14616",
+        "14619",
+        "14620",
+        "14621",
+        "14622",
+        "15027",
+        "15042",
+        "15074",
+        "16123",
+        "16136",
+        "53105",
+        "53139",
+        "53167",
+        "53185",
+        "55901",
+        "55902",
+        "55904",
+        "55906",
+        "55920",
+        "55929",
+        "55934",
+        "55960"
       ]
     },
     {
@@ -256,34 +265,42 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55922",
-        "55935",
-        "55961",
         "55962",
-        "55965",
-        "55971",
-        "55975",
-        "55990",
-        "559HH"
+        "55971"
       ]
     },
     {
       "name": "ST. CHARLES PUBLIC LIBRARY",
       "system": "ST. CHARLES PUBLIC LIBRARY",
-      "address": "113 S LUMBER ST, ST. CHARLES, IA",
-      "website": "https://stcharles.lib.mn.us/",
+      "address": "125 W. 11TH STREET, ST. CHARLES, MN",
+      "website": "http://www.stcharlesmn.org/index.asp?Type=B_BASIC&SEC=%7B3948418E-8E86-4335-ADB0-4AFBC63E4562%7D",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50033",
+        "50218",
+        "50222",
         "50240",
+        "50257",
         "55910",
-        "55925",
         "55952",
-        "55959",
-        "55969",
         "55972",
-        "55979",
-        "55988"
+        "55979"
+      ]
+    },
+    {
+      "name": "SPRING VALLEY PUBLIC LIBRARY",
+      "system": "SPRING VALLEY PUBLIC LIBRARY",
+      "address": "121 WEST JEFFERSON ST, SPRING VALLEY, MN",
+      "website": "http://springvalley.lib.mn.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54740",
+        "54767",
+        "55961",
+        "55975",
+        "55990"
       ]
     },
     {
@@ -294,14 +311,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55901",
         "55902",
-        "55904",
-        "55906",
-        "55920",
-        "55929",
-        "55934",
-        "55960",
         "55976"
       ]
     },
@@ -313,25 +323,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55932",
         "55945",
-        "55956",
-        "55957",
-        "55964",
-        "55981",
-        "55991"
+        "55981"
       ]
     },
     {
       "name": "WEST CONCORD PUBLIC LIBRARY",
       "system": "WEST CONCORD PUBLIC LIBRARY",
       "address": "180 E MAIN STREET, WEST CONCORD, MN",
-      "website": "https://westconcord.lib.mn.us/",
+      "website": "http://www.westconcordmn.com/index.asp?Type=B_BASIC&SEC=%7BE1E08DA1-8B3D-4CB0-8C6F-4787F2B92AC3%7D",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55924",
-        "55940",
         "55955",
         "55985"
       ]
@@ -340,19 +343,14 @@
       "name": "WINONA PUBLIC LIBRARY",
       "system": "WINONA PUBLIC LIBRARY",
       "address": "151 W FIFTH STREET, WINONA, MN",
-      "website": "https://winona.lib.mn.us/",
+      "website": "http://www.cityofwinona.com/city-services/winona-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55910",
         "55925",
-        "55952",
         "55959",
         "55969",
-        "55972",
-        "55979",
-        "55987",
-        "55988"
+        "55987"
       ]
     },
     {
@@ -363,10 +361,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55018",
-        "55026",
         "55027",
-        "55089",
         "55983",
         "55992"
       ]
@@ -375,20 +370,15 @@
       "name": "BROWNSDALE PUBLIC LIBRARY",
       "system": "BROWNSDALE PUBLIC LIBRARY",
       "address": "103 E MAIN ST, BROWNSDALE, MN",
-      "website": "https://brownsdale.lib.mn.us/",
+      "website": "http://www.smig.net/brownsdalelibrary/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55909",
+        "55912",
         "55918",
         "55926",
-        "55933",
         "55950",
-        "55953",
-        "55967",
-        "55970",
         "55973",
-        "55977",
         "55982"
       ]
     },
@@ -400,17 +390,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55909",
         "55926",
         "55933",
         "55936",
-        "55950",
-        "55953",
-        "55967",
-        "55970",
-        "55973",
-        "55977",
-        "55982"
+        "55967"
       ]
     },
     {
@@ -422,16 +405,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "55909",
-        "55926",
-        "55933",
-        "55950",
         "55951",
-        "55953",
-        "55967",
-        "55970",
-        "55973",
-        "55977",
-        "55982"
+        "55977"
       ]
     },
     {
@@ -442,43 +417,104 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "55919",
-        "55931",
-        "55943",
         "55974"
+      ]
+    },
+    {
+      "name": "HOUSTON PUBLIC LIBRARY",
+      "system": "HOUSTON PUBLIC LIBRARY",
+      "address": "202 EAST CEDAR STREET, HOUSTON, MN",
+      "website": "https://houstonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55943",
+        "77002",
+        "77003",
+        "77004",
+        "77005",
+        "77006",
+        "77007",
+        "77008",
+        "77009",
+        "77010",
+        "77011",
+        "77012",
+        "77013",
+        "77014",
+        "77016",
+        "77018",
+        "77019",
+        "77020",
+        "77021",
+        "77022",
+        "77023",
+        "77024",
+        "77025",
+        "77026",
+        "77027",
+        "77028",
+        "77029",
+        "77030",
+        "77032",
+        "77035",
+        "77037",
+        "77038",
+        "77039",
+        "77040",
+        "77045",
+        "77046",
+        "77050",
+        "77051",
+        "77054",
+        "77055",
+        "77056",
+        "77057",
+        "77060",
+        "77063",
+        "77064",
+        "77066",
+        "77067",
+        "77068",
+        "77069",
+        "77070",
+        "77073",
+        "77076",
+        "77078",
+        "77080",
+        "77081",
+        "77086",
+        "77087",
+        "77088",
+        "77090",
+        "77091",
+        "77092",
+        "77093",
+        "77096",
+        "77098",
+        "77338",
+        "77339",
+        "77345",
+        "77346",
+        "77373",
+        "77375",
+        "77379",
+        "77388",
+        "77389",
+        "77396"
       ]
     },
     {
       "name": "LAKE CITY PUBLIC LIBRARY",
       "system": "LAKE CITY PUBLIC LIBRARY",
-      "address": "201 S HIGH STREET, LAKE CITY, MN",
+      "address": "110 E WASHINGTON ST, LAKE CITY, IA",
       "website": "http://www.lcplibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "51449",
         "55041",
-        "55932",
-        "55945",
-        "55956",
-        "55957",
-        "55964",
-        "55991"
-      ]
-    },
-    {
-      "name": "CANNON FALLS LIBRARY",
-      "system": "CANNON FALLS LIBRARY",
-      "address": "306 W. MILL ST., CANNON FALLS, MN",
-      "website": "https://cannonfalls.lib.mn.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "55009",
-        "55018",
-        "55026",
-        "55027",
-        "55089",
-        "55983"
+        "55956"
       ]
     },
     {
@@ -493,22 +529,6 @@
         "55060",
         "55917",
         "56026"
-      ]
-    },
-    {
-      "name": "RED WING PUBLIC LIBRARY",
-      "system": "RED WING PUBLIC LIBRARY",
-      "address": "225 EAST AVENUE, RED WING, MN",
-      "website": "https://redwing.lib.mn.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "55018",
-        "55026",
-        "55027",
-        "55066",
-        "55089",
-        "55983"
       ]
     }
   ]

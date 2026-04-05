@@ -3,38 +3,50 @@
     {
       "name": "CUMBERLAND COUNTY PUBLIC LIBRARY",
       "system": "CUMBERLAND COUNTY PUBLIC LIBRARY",
-      "address": "114 HILL STREET, BURKESVILLE, KY",
+      "address": "1539 ANDERSON HIGHWAY, CUMBERLAND, VA",
       "website": "https://cumberlandcountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "23027",
         "23040",
-        "42717"
+        "23123",
+        "23936",
+        "28301",
+        "28303",
+        "28304",
+        "28305",
+        "28306",
+        "28307",
+        "28311",
+        "28314",
+        "28342",
+        "28348",
+        "28356",
+        "28390",
+        "28391",
+        "28395",
+        "42717",
+        "42731"
       ]
     },
     {
-      "name": "BRECKINRIDGE COUNTY PUBLIC LIBRARY",
-      "system": "BRECKINRIDGE COUNTY PUBLIC LIBRARY",
-      "address": "308 OLD HIGHWAY 60, HARDINSBURG, KY",
-      "website": "https://bcplibrary.org/",
+      "name": "ADAIR COUNTY PUBLIC LIBRARY",
+      "system": "ADAIR COUNTY PUBLIC LIBRARY",
+      "address": "307 GREENSBURG STREET, COLUMBIA, KY",
+      "website": "https://www.adairco.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40111",
-        "40115",
-        "40140",
-        "40143",
-        "40144",
-        "40145",
-        "40146",
-        "40152",
-        "40164",
-        "40170",
-        "40171",
-        "40178",
-        "401HH",
-        "427HH"
+        "42715",
+        "42728",
+        "42741",
+        "42753",
+        "63501",
+        "63533",
+        "63540",
+        "63546",
+        "63559"
       ]
     },
     {
@@ -114,6 +126,23 @@
         "42716",
         "42748",
         "42757"
+      ]
+    },
+    {
+      "name": "TAYLOR COUNTY PUBLIC LIBRARY",
+      "system": "TAYLOR COUNTY PUBLIC LIBRARY",
+      "address": "1316 EAST BROADWAY STREET, CAMPBELLSVILLE, KY",
+      "website": "https://www.tcplibrary.org/",
+      "formUrl": "https://www.tcplibrary.org/form/suggest-a-title",
+      "formStatus": "verified",
+      "zipcodes": [
+        "26347",
+        "26354",
+        "26424",
+        "26435",
+        "26440",
+        "42718",
+        "42733"
       ]
     }
   ]

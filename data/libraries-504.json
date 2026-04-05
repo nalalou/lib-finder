@@ -8,12 +8,7 @@
       "formUrl": "https://www.swaledale.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50428",
-        "50433",
-        "50464",
-        "50477",
-        "50479",
-        "504HH"
+        "50477"
       ]
     },
     {
@@ -25,11 +20,20 @@
       "formStatus": "verified",
       "zipcodes": [
         "50401",
+        "50464"
+      ]
+    },
+    {
+      "name": "CLEAR LAKE PUBLIC LIBRARY",
+      "system": "CLEAR LAKE PUBLIC LIBRARY",
+      "address": "200 N 4TH ST, CLEAR LAKE, IA",
+      "website": "https://clearlakelibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
         "50428",
-        "50433",
-        "50464",
-        "50479",
-        "504HH"
+        "54004",
+        "54005"
       ]
     },
     {
@@ -40,12 +44,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50428",
-        "50433",
-        "50457",
-        "50464",
-        "50479",
-        "504HH"
+        "50457"
       ]
     },
     {
@@ -56,12 +55,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50428",
         "50433",
-        "50464",
-        "50469",
+        "50469"
+      ]
+    },
+    {
+      "name": "THORNTON PUBLIC LIBRARY",
+      "system": "THORNTON PUBLIC LIBRARY",
+      "address": "412 MAIN, THORNTON, IA",
+      "website": "https://thorntonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
         "50479",
-        "504HH"
+        "60425",
+        "60476"
       ]
     },
     {
@@ -72,13 +80,8 @@
       "formUrl": "https://www.alexander.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50041",
-        "50227",
         "50420",
-        "50441",
-        "50452",
-        "50475",
-        "50633"
+        "50452"
       ]
     },
     {
@@ -89,12 +92,50 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50428",
-        "50433",
-        "50464",
-        "50479",
-        "50482",
-        "504HH"
+        "50482"
+      ]
+    },
+    {
+      "name": "HAMPTON PUBLIC LIBRARY",
+      "system": "HAMPTON PUBLIC LIBRARY",
+      "address": "4 S FEDERAL ST, HAMPTON, IA",
+      "website": "https://www.hampton.lib.ia.us/",
+      "formUrl": "https://www.hampton.lib.ia.us/services/interlibrary-loan",
+      "formStatus": "verified",
+      "zipcodes": [
+        "23433",
+        "23503",
+        "23505",
+        "23508",
+        "23601",
+        "23605",
+        "23607",
+        "23651",
+        "23661",
+        "23663",
+        "23664",
+        "23665",
+        "23666",
+        "23669",
+        "23703",
+        "50041",
+        "50441",
+        "50452",
+        "50633"
+      ]
+    },
+    {
+      "name": "SHEFFIELD PUBLIC LIBRARY",
+      "system": "SHEFFIELD PUBLIC LIBRARY",
+      "address": "123 S 3RD ST, SHEFFIELD, IA",
+      "website": "http://sheffieldillinoispubliclibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35660",
+        "50475",
+        "61338",
+        "61361"
       ]
     },
     {
@@ -105,9 +146,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50423",
-        "50432",
-        "50439"
+        "50423"
       ]
     },
     {
@@ -118,9 +157,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50430",
-        "50432",
-        "50439"
+        "50430"
       ]
     },
     {
@@ -131,9 +168,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50432",
-        "50438",
-        "50439"
+        "50438"
       ]
     },
     {
@@ -144,7 +179,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50432",
         "50439",
         "50447"
       ]
@@ -157,7 +191,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50432",
         "50439",
         "50449"
       ]
@@ -170,8 +203,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50432",
-        "50439",
         "50484"
       ]
     },
@@ -186,21 +217,20 @@
         "50041",
         "50227",
         "50431",
-        "50441",
-        "50452",
-        "50475",
-        "50633"
+        "50452"
       ]
     },
     {
       "name": "THOMPSON PUBLIC LIBRARY",
       "system": "THOMPSON PUBLIC LIBRARY",
-      "address": "934 RIVERSIDE DRIVE, NORTH GROSVENORDALE, CT",
+      "address": "102 JACKSON ST N, THOMPSON, IA",
       "website": "https://thompsonpubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "06255",
+        "06262",
+        "06277",
         "50453",
         "50473",
         "50478"
@@ -215,7 +245,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50435",
-        "50468",
         "50471"
       ]
     },
@@ -227,10 +256,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50451",
-        "50517",
-        "50559",
-        "50560"
+        "50451"
       ]
     },
     {
@@ -241,10 +267,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50480",
-        "50517",
-        "50559",
-        "50560"
+        "50480"
       ]
     },
     {
@@ -255,10 +278,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50483",
-        "50517",
-        "50559",
-        "50560"
+        "50483"
       ]
     },
     {
@@ -269,10 +289,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50424",
-        "50453",
-        "50473",
-        "50478"
+        "50424"
       ]
     },
     {
@@ -284,9 +301,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "50436",
-        "50453",
-        "50473",
-        "50478"
+        "50453"
       ]
     },
     {
@@ -299,8 +314,7 @@
       "zipcodes": [
         "50450",
         "50453",
-        "50473",
-        "50478"
+        "50473"
       ]
     },
     {
@@ -311,10 +325,32 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50453",
-        "50465",
-        "50473",
-        "50478"
+        "50465"
+      ]
+    },
+    {
+      "name": "ROCKFORD PUBLIC LIBRARY",
+      "system": "ROCKFORD PUBLIC LIBRARY",
+      "address": "202 W MAIN AVE, ROCKFORD, IA",
+      "website": "https://www.rockfordpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35089",
+        "35136",
+        "35183",
+        "36026",
+        "50468",
+        "61101",
+        "61102",
+        "61103",
+        "61104",
+        "61107",
+        "61108",
+        "61109",
+        "61112",
+        "61114",
+        "61115"
       ]
     },
     {
@@ -325,11 +361,31 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50421"
+      ]
+    },
+    {
+      "name": "ROWAN PUBLIC LIBRARY",
+      "system": "ROWAN PUBLIC LIBRARY",
+      "address": "101 MAIN ST, ROWAN, IA",
+      "website": "https://www.chamberofcommerce.com/united-states/iowa/rowan/public-library/29437114-rowan-public-library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27013",
+        "27054",
+        "28023",
+        "28071",
+        "28072",
+        "28088",
+        "28125",
+        "28138",
+        "28144",
+        "28146",
+        "28147",
+        "28159",
         "50101",
-        "50421",
-        "50470",
-        "50542",
-        "50599"
+        "50470"
       ]
     },
     {
@@ -340,9 +396,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50435",
-        "50458",
-        "50468"
+        "50458"
       ]
     },
     {
@@ -353,8 +407,39 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50434",
-        "50440",
+        "50434"
+      ]
+    },
+    {
+      "name": "GRAFTON PUBLIC LIBRARY",
+      "system": "GRAFTON PUBLIC LIBRARY",
+      "address": "201 4TH AVE, GRAFTON, IA",
+      "website": "http://www.graftonlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01519",
+        "01536",
+        "01560",
+        "03240",
+        "50440"
+      ]
+    },
+    {
+      "name": "KINNEY MEMORIAL LIBRARY",
+      "system": "KINNEY MEMORIAL LIBRARY",
+      "address": "214 MAIN ST, HANLONTOWN, IA",
+      "website": "https://www.hanlontown.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13315",
+        "13337",
+        "13342",
+        "13348",
+        "13796",
+        "13810",
+        "13834",
         "50444"
       ]
     },
@@ -366,8 +451,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50440",
-        "50444",
         "50446"
       ]
     },
@@ -379,8 +462,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50440",
-        "50444",
         "50448"
       ]
     },
@@ -392,8 +473,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50440",
-        "50444",
         "50456"
       ]
     },
@@ -405,8 +484,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50440",
-        "50444",
         "50459"
       ]
     },
@@ -418,9 +495,7 @@
       "formUrl": "https://www.osage.lib.ia.us/https-nilc-tlcdelivers-com-8490/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50426",
         "50454",
-        "50455",
         "50460",
         "50461"
       ]
@@ -433,10 +508,7 @@
       "formUrl": "https://www.riceville.lib.ia.us/services/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "50426",
-        "50454",
         "50455",
-        "50460",
         "50466"
       ]
     },
@@ -450,8 +522,6 @@
       "zipcodes": [
         "50426",
         "50454",
-        "50455",
-        "50460",
         "50472"
       ]
     },
@@ -463,56 +533,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "50426",
         "50454",
         "50455",
-        "50460",
         "50476"
       ]
     },
     {
-      "name": "CLARION PUBLIC LIBRARY",
-      "system": "CLARION PUBLIC LIBRARY",
-      "address": "302 N MAIN, CLARION, IA",
-      "website": "https://www.clarion.lib.ia.us/",
-      "formUrl": "https://www.clarion.lib.ia.us/services/interlibrary-loan",
+      "name": "CRYSTAL LAKE PUBLIC LIBRARY",
+      "system": "CRYSTAL LAKE PUBLIC LIBRARY",
+      "address": "225 S STATE AVE, CRYSTAL LAKE, IA",
+      "website": "https://www.clpl.org/",
+      "formUrl": "https://www.clpl.org/contact-us/purchase-suggestion/",
       "formStatus": "verified",
       "zipcodes": [
-        "50101",
-        "50470",
-        "50525",
-        "50542",
-        "50599"
-      ]
-    },
-    {
-      "name": "EAGLE GROVE MEMORIAL LIBRARY",
-      "system": "EAGLE GROVE MEMORIAL LIBRARY",
-      "address": "101 S CADWELL, EAGLE GROVE, IA",
-      "website": "https://search.ne211.org/search/6de6b73c-d870-59c2-8393-5fe11f4d1bb4",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50101",
-        "50470",
-        "50533",
-        "50542",
-        "50599"
-      ]
-    },
-    {
-      "name": "DOWS COMMUNITY LIBRARY",
-      "system": "DOWS COMMUNITY LIBRARY",
-      "address": "114 W ELLSWORTH ST, DOWS, IA",
-      "website": "https://www.dows.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50071",
-        "50101",
-        "50470",
-        "50542",
-        "50599"
+        "50432",
+        "60012",
+        "60014"
       ]
     },
     {
@@ -524,21 +560,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "50435",
-        "50468",
         "50616"
-      ]
-    },
-    {
-      "name": "MARBLE ROCK PUBLIC LIBRARY",
-      "system": "MARBLE ROCK PUBLIC LIBRARY",
-      "address": "122 S MAIN ST, MARBLE ROCK, IA",
-      "website": "https://librarytechnology.org/library/16843",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "50435",
-        "50468",
-        "50653"
       ]
     }
   ]

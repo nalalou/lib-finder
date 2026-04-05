@@ -3,110 +3,101 @@
     {
       "name": "WINFIELD PUBLIC LIBRARY",
       "system": "WINFIELD PUBLIC LIBRARY",
-      "address": "112 W ASH, WINFIELD, IA",
+      "address": "185 ASHWOOD DRIVE, WINFIELD, AL",
       "website": "https://wpl.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "37732",
-        "37755",
-        "37847",
-        "37852",
+        "35548",
+        "35594",
+        "37841",
         "37892",
-        "52659"
+        "52644",
+        "52647",
+        "52654",
+        "52659",
+        "60190",
+        "60504",
+        "60519",
+        "60563",
+        "67019",
+        "67023",
+        "67038",
+        "67156"
       ]
     },
     {
-      "name": "BIRMINGHAM PUBLIC LIBRARY",
-      "system": "BIRMINGHAM PUBLIC LIBRARY",
-      "address": "2100 PARK PLACE, BIRMINGHAM, AL",
-      "website": "https://librarytechnology.org/library/16759",
-      "formUrl": null,
-      "formStatus": "unknown",
+      "name": "FAIRFIELD PUBLIC LIBRARY",
+      "system": "FAIRFIELD PUBLIC LIBRARY",
+      "address": "104 W ADAMS AVE, FAIRFIELD, IA",
+      "website": "https://www.fairfield.lib.ia.us/",
+      "formUrl": "https://fairfieldia.bywatersolutions.com/cgi-bin/koha/opac-suggestions.pl?op=add_form",
+      "formStatus": "verified",
       "zipcodes": [
-        "35203",
-        "52535",
-        "52551",
-        "52570",
-        "52573",
-        "52588",
-        "52630"
-      ]
-    },
-    {
-      "name": "KEOSAUQUA PUBLIC LIBRARY",
-      "system": "KEOSAUQUA PUBLIC LIBRARY",
-      "address": "608 1ST ST, KEOSAUQUA, IA",
-      "website": "https://www.keosauqua.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52535",
-        "52551",
-        "52565",
-        "52570",
-        "52573",
-        "52588",
-        "52630"
-      ]
-    },
-    {
-      "name": "CANTRIL PUBLIC LIBRARY",
-      "system": "CANTRIL PUBLIC LIBRARY",
-      "address": "104 W 3RD ST, CANTRIL, IA",
-      "website": "https://librarytechnology.org/library/16772",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52535",
-        "52542",
-        "52551",
-        "52570",
-        "52573",
-        "52588",
-        "52630"
-      ]
-    },
-    {
-      "name": "BATAVIA PUBLIC LIBRARY",
-      "system": "BATAVIA PUBLIC LIBRARY",
-      "address": "902 3RD ST, BATAVIA, IA",
-      "website": "https://cityofbatavia.com/library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52533",
+        "06605",
+        "06607",
+        "06608",
         "52556",
         "52567",
         "52580",
-        "52635"
+        "52635",
+        "62446",
+        "62809",
+        "62823",
+        "62833",
+        "62837",
+        "62842",
+        "62843",
+        "62878",
+        "62886",
+        "68452",
+        "68934",
+        "68935",
+        "68938",
+        "68941"
       ]
     },
     {
-      "name": "KALONA PUBLIC LIBRARY",
-      "system": "KALONA PUBLIC LIBRARY",
-      "address": "510 C AVE, KALONA, IA",
-      "website": "https://www.kalona.lib.ia.us/",
+      "name": "BURLINGTON PUBLIC LIBRARY",
+      "system": "BURLINGTON PUBLIC LIBRARY",
+      "address": "34 LIBRARY LANE, BURLINGTON, CT",
+      "website": "https://burlingtonctlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52201",
-        "52247",
-        "52327",
-        "52359",
-        "52540",
-        "52621"
+        "01803",
+        "06013",
+        "06020",
+        "06085",
+        "52601",
+        "52623",
+        "52638",
+        "52650",
+        "52655",
+        "53105",
+        "53167",
+        "53185",
+        "80807",
+        "98232",
+        "98233",
+        "98235",
+        "98238"
       ]
     },
     {
       "name": "MOUNT PLEASANT PUBLIC LIBRARY",
       "system": "MOUNT PLEASANT PUBLIC LIBRARY",
-      "address": "307 E MONROE SUITE 101, MOUNT PLEASANT, IA",
+      "address": "601 N MADISON AVE, MT PLEASANT, TX",
       "website": "https://www.mountpleasantlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "10532",
+        "10570",
+        "10594",
+        "10595",
         "52641",
+        "52644",
         "75455",
         "75487",
         "75493",
@@ -122,24 +113,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52201",
-        "52327",
         "52353",
-        "52359",
-        "52540",
-        "52621"
-      ]
-    },
-    {
-      "name": "WELLMAN-SCOFIELD PUBLIC LIBRARY",
-      "system": "WELLMAN-SCOFIELD PUBLIC LIBRARY",
-      "address": "711 4TH ST, WELLMAN, IA",
-      "website": "https://wellmanlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52201",
-        "52327",
-        "52356",
         "52359",
         "52540",
         "52621"
@@ -153,10 +127,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52640",
-        "52646",
-        "52737",
-        "52752"
+        "52640"
       ]
     },
     {
@@ -169,7 +140,6 @@
       "zipcodes": [
         "52646",
         "52653",
-        "52737",
         "52752"
       ]
     },
@@ -181,11 +151,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52619",
-        "52624",
-        "52631",
-        "52632",
-        "52658"
+        "52632"
       ]
     },
     {
@@ -196,11 +162,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52535",
-        "52551",
-        "52570",
         "52573",
-        "52588",
         "52620",
         "52630"
       ]
@@ -213,11 +175,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52535",
-        "52551",
-        "52570",
-        "52573",
-        "52588",
         "52630",
         "52651"
       ]
@@ -230,11 +187,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52619",
-        "52624",
-        "52625",
-        "52631",
-        "52658"
+        "52625"
       ]
     },
     {
@@ -245,10 +198,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52619",
         "52624",
         "52627",
-        "52631",
         "52658"
       ]
     },
@@ -261,10 +212,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52619",
-        "52624",
-        "52631",
-        "52639",
-        "52658"
+        "52639"
       ]
     },
     {
@@ -275,11 +223,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52619",
         "52624",
-        "52631",
-        "52656",
-        "52658"
+        "52656"
       ]
     },
     {
@@ -291,10 +236,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52644",
-        "52645",
-        "52647",
-        "52652",
-        "52654"
+        "52645"
       ]
     },
     {
@@ -305,11 +247,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52644",
-        "52647",
-        "52649",
-        "52652",
-        "52654"
+        "52641",
+        "52649"
       ]
     },
     {
@@ -320,42 +259,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52601",
-        "52623",
         "52637",
-        "52638",
         "52650",
-        "52655",
-        "52660",
-        "526HH"
-      ]
-    },
-    {
-      "name": "COLUMBUS JUNCTION PUBLIC LIBRARY",
-      "system": "COLUMBUS JUNCTION PUBLIC LIBRARY",
-      "address": "232 2ND ST, COLUMBUS JUNCTION, IA",
-      "website": "https://www.columbusjct.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52646",
-        "52737",
-        "52738",
-        "52752"
-      ]
-    },
-    {
-      "name": "LETTS PUBLIC LIBRARY",
-      "system": "LETTS PUBLIC LIBRARY",
-      "address": "125 E IOWA ST, LETTS, IA",
-      "website": "https://www.letts.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52646",
-        "52737",
-        "52752",
-        "52754"
+        "52660"
       ]
     },
     {
@@ -369,11 +275,11 @@
         "52626",
         "63430",
         "63445",
+        "63446",
         "63453",
         "63465",
         "63472",
-        "63474",
-        "634HH"
+        "63474"
       ]
     }
   ]

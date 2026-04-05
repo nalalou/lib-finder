@@ -1,177 +1,52 @@
 {
   "libraries": [
     {
-      "name": "ALPHA PARK PUBLIC LIBRARY DISTRICT",
-      "system": "ALPHA PARK PUBLIC LIBRARY DISTRICT",
-      "address": "3527 SOUTH AIRPORT ROAD, BARTONVILLE, IL",
-      "website": "http://alphapark.org/",
+      "name": "RUSHVILLE PUBLIC LIBRARY",
+      "system": "RUSHVILLE PUBLIC LIBRARY",
+      "address": "130 WEST THIRD STREET, RUSHVILLE, IN",
+      "website": "https://rushvilleillinois.us/library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61451",
-        "61526",
-        "61528",
-        "61533",
-        "61536",
-        "61539",
-        "61547",
-        "61552",
-        "61569",
-        "61603",
-        "61604",
-        "61605",
-        "61606",
-        "61607",
-        "61614",
-        "61615",
-        "616HH"
-      ]
-    },
-    {
-      "name": "PEORIA PUBLIC LIBRARY",
-      "system": "PEORIA PUBLIC LIBRARY",
-      "address": "107 NORTHEAST MONROE STREET, PEORIA, IL",
-      "website": "https://peoriapubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61451",
-        "61526",
-        "61528",
-        "61533",
-        "61536",
-        "61539",
-        "61547",
-        "61552",
-        "61569",
-        "61602",
-        "61603",
-        "61604",
-        "61605",
-        "61606",
-        "61614",
-        "61615",
-        "616HH"
-      ]
-    },
-    {
-      "name": "PEORIA HEIGHTS PUBLIC LIBRARY",
-      "system": "PEORIA HEIGHTS PUBLIC LIBRARY",
-      "address": "816 EAST GLEN AVENUE, PEORIA HEIGHTS, IL",
-      "website": "https://www.peoriaheightslibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61451",
-        "61526",
-        "61528",
-        "61533",
-        "61536",
-        "61539",
-        "61547",
-        "61552",
-        "61569",
-        "61603",
-        "61604",
-        "61605",
-        "61606",
-        "61614",
-        "61615",
-        "61616",
-        "616HH"
+        "46104",
+        "46127",
+        "46150",
+        "46155",
+        "46156",
+        "46173",
+        "61452",
+        "62319",
+        "62344",
+        "62624",
+        "62639",
+        "62681",
+        "69335",
+        "69340",
+        "69360",
+        "69365"
       ]
     },
     {
       "name": "KNOXVILLE PUBLIC LIBRARY",
       "system": "KNOXVILLE PUBLIC LIBRARY",
-      "address": "200 EAST MAIN STREET, KNOXVILLE, IL",
+      "address": "112 E MAIN ST., KNOXVILLE, PA",
       "website": "https://www.knoxvillepubliclibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16911",
-        "16917",
-        "16918",
-        "16921",
         "16928",
-        "16929",
-        "16930",
-        "16932",
         "16935",
-        "16936",
-        "16938",
-        "16939",
-        "16940",
         "16942",
-        "16943",
-        "16946",
-        "169HH",
-        "17765",
-        "61448"
-      ]
-    },
-    {
-      "name": "TOLUCA PUBLIC LIBRARY DISTRICT",
-      "system": "TOLUCA PUBLIC LIBRARY DISTRICT",
-      "address": "102 NORTH MAIN STREET, TOLUCA, IL",
-      "website": "https://librarylearning.org/toluca-public-library-district-toluca-public-library-district",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61369",
-        "61375",
-        "61424",
-        "61541",
-        "61565"
-      ]
-    },
-    {
-      "name": "BOND PUBLIC LIBRARY",
-      "system": "BOND PUBLIC LIBRARY",
-      "address": "208 SOUTH CHESTNUT STREET, WENONA, IL",
-      "website": "https://cityofwenona.org/community_post/wenona-bond-public-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61375",
-        "61377",
-        "61424",
-        "61541",
-        "61565"
-      ]
-    },
-    {
-      "name": "ANNAWAN-ALBA TOWNSHIP LIBRARY",
-      "system": "ANNAWAN-ALBA TOWNSHIP LIBRARY",
-      "address": "200 NORTH MEADOW LANE, SUITE 2, ANNAWAN, IL",
-      "website": "https://annawanil.org/library.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61233",
-        "61234",
-        "61262",
-        "61274",
-        "61413",
-        "61419",
-        "61468"
-      ]
-    },
-    {
-      "name": "ATKINSON PUBLIC LIBRARY DISTRICT",
-      "system": "ATKINSON PUBLIC LIBRARY DISTRICT",
-      "address": "109 SOUTH STATE STREET, ATKINSON, IL",
-      "website": "https://atkinson-library.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61233",
-        "61235",
-        "61262",
-        "61274",
-        "61413",
-        "61419",
-        "61468"
+        "50057",
+        "50062",
+        "50119",
+        "50138",
+        "61428",
+        "61430",
+        "61436",
+        "61439",
+        "61448",
+        "61488"
       ]
     },
     {
@@ -182,30 +57,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61233",
         "61238",
         "61262",
         "61274",
-        "61413",
-        "61419",
-        "61468"
-      ]
-    },
-    {
-      "name": "GENESEO PUBLIC LIBRARY DISTRICT",
-      "system": "GENESEO PUBLIC LIBRARY DISTRICT",
-      "address": "805 NORTH CHICAGO STREET, GENESEO, IL",
-      "website": "https://www.geneseo.lib.il.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61233",
-        "61254",
-        "61262",
-        "61274",
-        "61413",
-        "61419",
-        "61468"
+        "61419"
       ]
     },
     {
@@ -220,45 +75,8 @@
         "61260",
         "61263",
         "61272",
-        "61276",
         "61442",
-        "61466",
         "61476"
-      ]
-    },
-    {
-      "name": "SHERRARD PUBLIC LIBRARY DISTRICT",
-      "system": "SHERRARD PUBLIC LIBRARY DISTRICT",
-      "address": "501 THIRD STREET, SHERRARD, IL",
-      "website": "https://www.sherrardlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61260",
-        "61263",
-        "61272",
-        "61276",
-        "61281",
-        "61442",
-        "61466",
-        "61476"
-      ]
-    },
-    {
-      "name": "COLONA DISTRICT PUBLIC LIBRARY",
-      "system": "COLONA DISTRICT PUBLIC LIBRARY",
-      "address": "911 FIRST STREET, COLONA, IL",
-      "website": "https://www.colonalibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61233",
-        "61241",
-        "61262",
-        "61274",
-        "61413",
-        "61419",
-        "61468"
       ]
     },
     {
@@ -269,12 +87,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61233",
         "61262",
         "61273",
         "61274",
-        "61413",
-        "61419",
         "61468"
       ]
     },
@@ -286,18 +101,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61431",
         "61441",
-        "61459",
-        "61477",
-        "61482",
-        "61501",
-        "61519",
-        "61524",
-        "61543",
-        "61544",
-        "61563",
-        "615HH"
+        "61501"
       ]
     },
     {
@@ -309,162 +114,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61451",
-        "61517",
-        "61526",
-        "61528",
-        "61533",
-        "61536",
-        "61539",
-        "61547",
-        "61552",
-        "61569",
-        "61603",
-        "61604",
-        "61605",
-        "61606",
-        "61614",
-        "61615",
-        "616HH"
-      ]
-    },
-    {
-      "name": "PARLIN-INGERSOLL PUBLIC LIBRARY",
-      "system": "PARLIN-INGERSOLL PUBLIC LIBRARY",
-      "address": "205 WEST CHESTNUT STREET, CANTON, IL",
-      "website": "https://www.parliningersoll.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61431",
-        "61441",
-        "61459",
-        "61477",
-        "61482",
-        "61519",
-        "61520",
-        "61524",
-        "61543",
-        "61544",
-        "61563",
-        "615HH"
-      ]
-    },
-    {
-      "name": "CHILLICOTHE PUBLIC LIBRARY DISTRICT",
-      "system": "CHILLICOTHE PUBLIC LIBRARY DISTRICT",
-      "address": "430 NORTH BRADLEY AVENUE, CHILLICOTHE, IL",
-      "website": "https://www.chillicothepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61451",
-        "61523",
-        "61526",
-        "61528",
-        "61533",
-        "61536",
-        "61539",
-        "61547",
-        "61552",
-        "61569",
-        "61603",
-        "61604",
-        "61605",
-        "61606",
-        "61614",
-        "61615",
-        "616HH"
-      ]
-    },
-    {
-      "name": "DUNLAP PUBLIC LIBRARY DISTRICT",
-      "system": "DUNLAP PUBLIC LIBRARY DISTRICT",
-      "address": "302 SOUTH FIRST STREET, DUNLAP, IL",
-      "website": "https://www.dunlaplibrary.org/",
-      "formUrl": "https://www.dunlaplibrary.org/purchase-suggestion/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "61451",
-        "61525",
-        "61526",
-        "61528",
-        "61533",
-        "61536",
-        "61539",
-        "61547",
-        "61552",
-        "61569",
-        "61603",
-        "61604",
-        "61605",
-        "61606",
-        "61614",
-        "61615",
-        "616HH"
-      ]
-    },
-    {
-      "name": "MORRISON & MARY WILEY LIBRARY",
-      "system": "MORRISON & MARY WILEY LIBRARY",
-      "address": "206 WEST MAIN STREET, ELMWOOD, IL",
-      "website": "https://morrisonkids.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61451",
-        "61526",
-        "61528",
-        "61529",
-        "61533",
-        "61536",
-        "61539",
-        "61547",
-        "61552",
-        "61569",
-        "61603",
-        "61604",
-        "61605",
-        "61606",
-        "61614",
-        "61615",
-        "616HH"
-      ]
-    },
-    {
-      "name": "FARMINGTON AREA LIBRARY DISTRICT",
-      "system": "FARMINGTON AREA LIBRARY DISTRICT",
-      "address": "411 NORTH LIGHTFOOT ROAD, FARMINGTON, IL",
-      "website": "https://www.farmingtonpublic.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61431",
-        "61441",
-        "61459",
-        "61477",
-        "61482",
-        "61519",
-        "61524",
-        "61531",
-        "61543",
-        "61544",
-        "61563",
-        "615HH"
-      ]
-    },
-    {
-      "name": "HENRY PUBLIC LIBRARY",
-      "system": "HENRY PUBLIC LIBRARY",
-      "address": "702 FRONT STREET, HENRY, IL",
-      "website": "http://www.henry.lib.il.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61375",
-        "61424",
-        "61537",
-        "61541",
-        "61565"
+        "61517"
       ]
     },
     {
@@ -490,18 +140,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61431",
         "61441",
-        "61459",
-        "61477",
-        "61482",
         "61519",
         "61524",
         "61542",
         "61543",
-        "61544",
-        "61563",
-        "615HH"
+        "61563"
       ]
     },
     {
@@ -514,57 +158,7 @@
       "zipcodes": [
         "61451",
         "61526",
-        "61528",
-        "61533",
-        "61536",
-        "61539",
-        "61547",
-        "61552",
-        "61559",
-        "61569",
-        "61603",
-        "61604",
-        "61605",
-        "61606",
-        "61614",
-        "61615",
-        "616HH"
-      ]
-    },
-    {
-      "name": "SALEM TOWNSHIP PUBLIC LIBRARY DISTRICT",
-      "system": "SALEM TOWNSHIP PUBLIC LIBRARY DISTRICT",
-      "address": "102 NORTH BURSON STREET, YATES CITY, IL",
-      "website": "https://salemtownshiplibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61428",
-        "61430",
-        "61436",
-        "61439",
-        "61472",
-        "61474",
-        "61488",
-        "61572"
-      ]
-    },
-    {
-      "name": "COLCHESTER DISTRICT LIBRARY",
-      "system": "COLCHESTER DISTRICT LIBRARY",
-      "address": "203 MACOMB STREET, COLCHESTER, IL",
-      "website": "https://www.colchesterlibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "61411",
-        "61416",
-        "61438",
-        "61440",
-        "61470",
-        "61475",
-        "62326",
-        "62374"
+        "61559"
       ]
     },
     {
@@ -576,13 +170,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61410",
-        "61428",
-        "61430",
-        "61436",
-        "61439",
-        "61472",
-        "61474",
-        "61488"
+        "61474"
       ]
     },
     {
@@ -593,14 +181,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61414",
-        "61428",
-        "61430",
-        "61436",
-        "61439",
-        "61472",
-        "61474",
-        "61488"
+        "61414"
       ]
     },
     {
@@ -613,16 +194,7 @@
       "zipcodes": [
         "61415",
         "61431",
-        "61441",
-        "61459",
-        "61477",
-        "61482",
-        "61519",
-        "61524",
-        "61543",
-        "61544",
-        "61563",
-        "615HH"
+        "61459"
       ]
     },
     {
@@ -633,14 +205,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61411",
-        "61416",
         "61420",
-        "61438",
-        "61440",
-        "61470",
-        "61475",
-        "62374"
+        "61475"
       ]
     },
     {
@@ -652,9 +218,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61421",
-        "61426",
-        "61449",
-        "61479"
+        "61426"
       ]
     },
     {
@@ -665,14 +229,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61411",
         "61416",
         "61422",
         "61438",
-        "61440",
-        "61470",
-        "61475",
-        "62374"
+        "61470"
       ]
     },
     {
@@ -683,11 +243,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61233",
         "61262",
-        "61274",
         "61413",
-        "61419",
         "61468",
         "61490"
       ]
@@ -701,12 +258,10 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61401",
-        "61428",
         "61430",
         "61436",
         "61439",
-        "61472",
-        "61474",
+        "61448",
         "61488"
       ]
     },
@@ -718,13 +273,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61233",
-        "61262",
-        "61274",
-        "61413",
         "61419",
-        "61434",
-        "61468"
+        "61434"
       ]
     },
     {
@@ -742,8 +292,7 @@
         "61460",
         "61469",
         "61471",
-        "61480",
-        "614HH"
+        "61480"
       ]
     },
     {
@@ -754,13 +303,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61233",
-        "61262",
-        "61274",
-        "61413",
-        "61419",
-        "61443",
-        "61468"
+        "61443"
       ]
     },
     {
@@ -772,16 +315,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61450",
-        "62313",
-        "62316",
-        "62318",
-        "62330",
-        "62334",
-        "62336",
-        "62358",
-        "62367",
-        "62373",
-        "62380"
+        "62330"
       ]
     },
     {
@@ -796,10 +330,7 @@
         "61416",
         "61438",
         "61440",
-        "61455",
-        "61470",
-        "61475",
-        "62374"
+        "61455"
       ]
     },
     {
@@ -810,14 +341,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61428",
-        "61430",
         "61436",
-        "61439",
-        "61458",
-        "61472",
-        "61474",
-        "61488"
+        "61458"
       ]
     },
     {
@@ -828,14 +353,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61260",
-        "61263",
-        "61272",
-        "61276",
-        "61442",
         "61465",
-        "61466",
-        "61476"
+        "61466"
       ]
     },
     {
@@ -846,13 +365,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61428",
-        "61430",
-        "61436",
         "61439",
+        "61448",
         "61467",
         "61472",
-        "61474",
         "61488"
       ]
     },
@@ -866,16 +382,10 @@
       "zipcodes": [
         "61427",
         "61431",
-        "61441",
-        "61459",
         "61477",
-        "61482",
         "61519",
         "61524",
-        "61543",
-        "61544",
-        "61563",
-        "615HH"
+        "61563"
       ]
     },
     {
@@ -888,7 +398,6 @@
       "zipcodes": [
         "61426",
         "61449",
-        "61479",
         "61483"
       ]
     },
@@ -902,16 +411,7 @@
       "zipcodes": [
         "61431",
         "61432",
-        "61441",
-        "61459",
-        "61477",
-        "61482",
-        "61519",
-        "61524",
-        "61543",
-        "61544",
-        "61563",
-        "615HH"
+        "61544"
       ]
     },
     {
@@ -922,18 +422,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61431",
         "61441",
-        "61459",
-        "61477",
         "61482",
-        "61484",
-        "61519",
-        "61524",
-        "61543",
-        "61544",
-        "61563",
-        "615HH"
+        "61484"
       ]
     },
     {
@@ -945,13 +436,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61428",
-        "61430",
-        "61436",
-        "61439",
-        "61472",
-        "61474",
-        "61485",
-        "61488"
+        "61485"
       ]
     },
     {
@@ -962,13 +447,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "61260",
         "61263",
-        "61272",
         "61276",
-        "61442",
         "61466",
-        "61476",
         "61486"
       ]
     },
@@ -1000,7 +481,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61426",
-        "61449",
         "61479",
         "61491"
       ]
@@ -1014,12 +494,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "61428",
-        "61430",
-        "61436",
-        "61439",
-        "61472",
-        "61474",
-        "61488",
         "61489"
       ]
     }

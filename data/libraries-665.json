@@ -1,43 +1,26 @@
 {
   "libraries": [
     {
-      "name": "BALDWIN CITY LIBRARY",
-      "system": "BALDWIN CITY LIBRARY",
-      "address": "800 7TH ST., BALDWIN CITY, KS",
-      "website": "https://baldwin.mykansaslibrary.org/",
-      "formUrl": "https://en.wikipedia.org/wiki/Interlibrary_loan",
-      "formStatus": "verified",
-      "zipcodes": [
-        "66006",
-        "66044",
-        "66046",
-        "66047",
-        "66049",
-        "66050",
-        "665HH"
-      ]
-    },
-    {
-      "name": "EUDORA COMMUNITY LIBRARY",
-      "system": "EUDORA COMMUNITY LIBRARY",
-      "address": "14 E 9TH ST., EUDORA, KS",
-      "website": "https://www.eudoralibrary.org/",
+      "name": "WATERVILLE PUBLIC LIBRARY",
+      "system": "WATERVILLE PUBLIC LIBRARY",
+      "address": "206 WHITE STREET, WATERVILLE, NY",
+      "website": "http://www.watervillelibrary.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66025",
-        "66044",
-        "66046",
-        "66047",
-        "66049",
-        "66050",
-        "665HH"
+        "04901",
+        "04962",
+        "13318",
+        "13328",
+        "13480",
+        "52170",
+        "66548"
       ]
     },
     {
       "name": "MARYSVILLE PUBLIC LIBRARY",
       "system": "MARYSVILLE PUBLIC LIBRARY",
-      "address": "1009 BROADWAY, MARYSVILLE, KS",
+      "address": "231 S. PLUM ST., MARYSVILLE, OH",
       "website": "https://www.cityofmarysvilleks.com/library",
       "formUrl": null,
       "formStatus": "unknown",
@@ -47,7 +30,10 @@
         "43045",
         "43067",
         "43077",
-        "66508"
+        "66412",
+        "66438",
+        "66508",
+        "66518"
       ]
     },
     {
@@ -73,12 +59,25 @@
         "66611",
         "66612",
         "66614",
-        "66615",
         "66616",
         "66617",
         "66618",
-        "66619",
-        "666HH"
+        "66619"
+      ]
+    },
+    {
+      "name": "AXTELL PUBLIC LIBRARY",
+      "system": "AXTELL PUBLIC LIBRARY",
+      "address": "305 NORTH MAIN STREET, AXTELL, NE",
+      "website": "https://libraries.ne.gov/axtell/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "66403",
+        "66406",
+        "66541",
+        "68924",
+        "68982"
       ]
     },
     {
@@ -89,31 +88,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66442",
         "66449",
-        "664XX",
-        "66503",
-        "66506",
-        "66517",
-        "66554",
-        "665XX"
-      ]
-    },
-    {
-      "name": "FRANKFORT CITY LIBRARY",
-      "system": "FRANKFORT CITY LIBRARY",
-      "address": "104 E. SECOND ST, FRANKFORT, KS",
-      "website": "https://www.loc8nearme.com/kansas/frankfort/frankfort-city-library/8180192/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66406",
-        "66412",
-        "66427",
-        "66438",
-        "66518",
-        "66541",
-        "66548"
+        "66554"
       ]
     },
     {
@@ -124,12 +100,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66406",
         "66411",
-        "66412",
-        "66438",
-        "66518",
-        "66541",
         "66548"
       ]
     },
@@ -142,51 +113,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66441",
-        "664HH",
         "66514"
-      ]
-    },
-    {
-      "name": "CORNING CITY LIBRARY",
-      "system": "CORNING CITY LIBRARY",
-      "address": "6221 5TH ST., CORNING, KS",
-      "website": "https://corning.nextkansas.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66404",
-        "66417",
-        "66428",
-        "66522"
-      ]
-    },
-    {
-      "name": "CENTRALIA COMMUNITY LIBRARY",
-      "system": "CENTRALIA COMMUNITY LIBRARY",
-      "address": "520 4TH STREET, CENTRALIA, KS",
-      "website": "https://centralialibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66404",
-        "66415",
-        "66428",
-        "66522"
-      ]
-    },
-    {
-      "name": "BARNES READING ROOM",
-      "system": "BARNES READING ROOM",
-      "address": "640 MAIN STREET, EVEREST, KS",
-      "website": "https://everest.mykansaslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66424",
-        "66425",
-        "66515",
-        "66527",
-        "66532"
       ]
     },
     {
@@ -198,10 +125,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66413",
-        "66510",
-        "66528",
-        "66537",
-        "66543"
+        "66431",
+        "66537"
       ]
     },
     {
@@ -213,10 +138,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66414",
-        "66510",
-        "66528",
-        "66537",
-        "66543"
+        "66537"
       ]
     },
     {
@@ -230,7 +152,6 @@
         "66451",
         "66510",
         "66528",
-        "66537",
         "66543"
       ]
     },
@@ -242,11 +163,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66425",
         "66439",
-        "66515",
-        "66527",
-        "66532"
+        "66527"
       ]
     },
     {
@@ -260,7 +178,6 @@
         "66425",
         "66434",
         "66515",
-        "66527",
         "66532"
       ]
     },
@@ -272,9 +189,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66404",
         "66408",
-        "66428",
         "66522"
       ]
     },
@@ -306,9 +221,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66407",
-        "66422",
-        "66432",
-        "66450",
+        "66501",
         "66520",
         "66521",
         "66535",
@@ -327,12 +240,8 @@
         "66407",
         "66422",
         "66432",
-        "66450",
-        "66520",
-        "66521",
-        "66535",
-        "66536",
-        "66549"
+        "66526",
+        "66536"
       ]
     },
     {
@@ -344,13 +253,10 @@
       "formStatus": "verified",
       "zipcodes": [
         "66442",
-        "664XX",
         "66502",
         "66503",
         "66506",
-        "66517",
-        "66554",
-        "665XX"
+        "66517"
       ]
     },
     {
@@ -361,9 +267,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66404",
         "66428",
-        "66522",
         "66550"
       ]
     },
@@ -375,10 +279,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66066",
         "66070",
-        "66073",
-        "66097",
         "66429",
         "66512"
       ]
@@ -391,9 +292,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66510",
         "66524",
-        "66528",
         "66537",
         "66543"
       ]
@@ -406,27 +305,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66402",
-        "66409",
+        "66507",
         "66533",
-        "66542",
-        "66546",
-        "66603",
-        "66605",
-        "66606",
-        "66607",
-        "66608",
-        "66609",
-        "66610",
-        "66611",
-        "66612",
-        "66614",
-        "66615",
-        "66616",
-        "66617",
-        "66618",
-        "66619",
-        "666HH"
+        "66615"
       ]
     },
     {
@@ -437,27 +318,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66402",
-        "66409",
         "66539",
-        "66542",
-        "66546",
-        "66603",
-        "66605",
         "66606",
-        "66607",
-        "66608",
-        "66609",
         "66610",
-        "66611",
-        "66612",
         "66614",
         "66615",
-        "66616",
-        "66617",
-        "66618",
-        "66619",
-        "666HH"
+        "66618"
       ]
     },
     {
@@ -468,8 +334,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66404",
-        "66428",
         "66522",
         "66534"
       ]
@@ -483,7 +347,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66404",
-        "66428",
         "66522",
         "66538"
       ]
@@ -496,11 +359,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66510",
-        "66523",
-        "66528",
-        "66537",
-        "66543"
+        "66523"
       ]
     },
     {
@@ -511,13 +370,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66406",
-        "66412",
-        "66438",
-        "66518",
-        "66541",
-        "66544",
-        "66548"
+        "66544"
       ]
     },
     {
@@ -528,14 +381,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66442",
-        "664XX",
         "66503",
-        "66506",
-        "66517",
-        "66531",
-        "66554",
-        "665XX"
+        "66531"
       ]
     }
   ]

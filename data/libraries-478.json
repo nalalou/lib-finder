@@ -3,34 +3,38 @@
     {
       "name": "CLINTON PUBLIC LIBRARY",
       "system": "CLINTON PUBLIC LIBRARY",
-      "address": "313 SOUTH 4TH STREET, CLINTON, IN",
+      "address": "214 MILL ST., CLINTON, WI",
       "website": "https://www.als.lib.wi.us/CPL/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "37716",
+        "37754",
         "47842",
+        "47884",
+        "52701",
+        "52727",
+        "52732",
+        "52757",
         "53505",
         "53525",
-        "53534",
-        "53537",
         "53546"
       ]
     },
     {
       "name": "MONTEZUMA PUBLIC LIBRARY",
       "system": "MONTEZUMA PUBLIC LIBRARY",
-      "address": "270 CRAWFORD STREET, MONTEZUMA, IN",
+      "address": "500 E MAIN ST, MONTEZUMA, IA",
       "website": "http://www.montezuma.lib.in.us/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "47832",
-        "47836",
-        "47856",
-        "47859",
         "47860",
         "47862",
-        "47874"
+        "50171",
+        "50242",
+        "52222"
       ]
     },
     {
@@ -43,7 +47,6 @@
       "zipcodes": [
         "47847",
         "47854",
-        "47884",
         "47928",
         "47966",
         "47974"
@@ -52,7 +55,7 @@
     {
       "name": "SULLIVAN COUNTY PUBLIC LIBRARY",
       "system": "SULLIVAN COUNTY PUBLIC LIBRARY",
-      "address": "100 SOUTH CROWDER STREET, SULLIVAN, IN",
+      "address": "109 E SECOND ST, MILAN, MO",
       "website": "http://www.sullivan.lib.in.us/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -60,11 +63,43 @@
         "37617",
         "37618",
         "37620",
-        "37663",
-        "37664",
-        "37665",
         "37686",
-        "47882"
+        "47838",
+        "47848",
+        "47849",
+        "47850",
+        "47855",
+        "47861",
+        "47865",
+        "47879",
+        "47882",
+        "63544",
+        "63545",
+        "63556",
+        "63560",
+        "64645",
+        "64646",
+        "64667"
+      ]
+    },
+    {
+      "name": "OWEN COUNTY PUBLIC LIBRARY",
+      "system": "OWEN COUNTY PUBLIC LIBRARY",
+      "address": "10 SOUTH MONTGOMERY STREET, SPENCER, IN",
+      "website": "https://owenlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40359",
+        "40363",
+        "41098",
+        "47427",
+        "47431",
+        "47433",
+        "47455",
+        "47456",
+        "47460",
+        "47868"
       ]
     },
     {
@@ -96,9 +131,9 @@
       "zipcodes": [
         "47832",
         "47836",
-        "47856",
         "47859",
         "47860",
+        "47862",
         "47872",
         "47874"
       ]

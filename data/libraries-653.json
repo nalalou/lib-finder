@@ -19,21 +19,107 @@
       ]
     },
     {
+      "name": "HICKORY COUNTY LIBRARY",
+      "system": "HICKORY COUNTY LIBRARY",
+      "address": "18376 NEW HERMITAGE DRIVE, HERMITAGE, MO",
+      "website": "https://hickorylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65326",
+        "65355",
+        "65634",
+        "65650",
+        "65668",
+        "65724",
+        "65732",
+        "65735",
+        "65774",
+        "65779"
+      ]
+    },
+    {
+      "name": "MORGAN COUNTY LIBRARY",
+      "system": "MORGAN COUNTY LIBRARY",
+      "address": "50 NORTH 100 WEST, MORGAN, UT",
+      "website": "http://azalealibraries.org/morgan.htm",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65011",
+        "65026",
+        "65037",
+        "65072",
+        "65078",
+        "65084",
+        "65325",
+        "65329",
+        "65354",
+        "84018",
+        "84050"
+      ]
+    },
+    {
+      "name": "CAMDEN COUNTY LIBRARY",
+      "system": "CAMDEN COUNTY LIBRARY",
+      "address": "89 RODEO RD, CAMDENTON, MO",
+      "website": "http://www.camden.lib.nj.us",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08003",
+        "08043",
+        "08045",
+        "08049",
+        "08083",
+        "08084",
+        "65017",
+        "65020",
+        "65047",
+        "65049",
+        "65052",
+        "65065",
+        "65079",
+        "65082",
+        "65083",
+        "65324",
+        "65567",
+        "65591",
+        "65786",
+        "65787"
+      ]
+    },
+    {
+      "name": "PRICE JAMES MEMORIAL LIBRARY",
+      "system": "PRICE JAMES MEMORIAL LIBRARY",
+      "address": "104 E MORGAN ST, TIPTON, MO",
+      "website": "https://www.pricejames.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65018",
+        "65025",
+        "65034",
+        "65050",
+        "65081",
+        "65237",
+        "65276",
+        "65348"
+      ]
+    },
+    {
       "name": "SLATER PUBLIC LIBRARY",
       "system": "SLATER PUBLIC LIBRARY",
-      "address": "201 N MAIN ST, SLATER, MO",
+      "address": "105 N TAMA, SLATER, IA",
       "website": "https://slaterlibmo.ploud.net/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50134",
+        "50244",
         "65320",
-        "65321",
-        "65327",
         "65330",
-        "65339",
-        "65340",
         "65344",
-        "65347",
         "65349"
       ]
     },
@@ -50,9 +136,28 @@
         "64740",
         "64770",
         "64788",
-        "647HH",
         "65323",
         "65360"
+      ]
+    },
+    {
+      "name": "MARSHALL PUBLIC LIBRARY",
+      "system": "MARSHALL PUBLIC LIBRARY",
+      "address": "300 S ALAMO BLVD, MARSHALL, TX",
+      "website": "https://marshallpl.org/",
+      "formUrl": "https://marshallpl.org/interlibrary-loan/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "62423",
+        "62441",
+        "65322",
+        "65339",
+        "65340",
+        "65347",
+        "75650",
+        "75651",
+        "75670",
+        "75672"
       ]
     },
     {
@@ -64,10 +169,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "65301",
-        "65332",
-        "65333",
         "65334",
-        "65337",
         "65345",
         "65350"
       ]
@@ -84,8 +186,9 @@
         "65332",
         "65333",
         "65334",
+        "65335",
         "65337",
-        "65345",
+        "65338",
         "65350"
       ]
     },
@@ -97,14 +200,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "65320",
         "65321",
         "65327",
-        "65330",
-        "65339",
-        "65340",
-        "65344",
-        "65347",
         "65351"
       ]
     }

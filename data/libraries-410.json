@@ -14,8 +14,7 @@
         "41080",
         "41091",
         "41092",
-        "41094",
-        "410HH"
+        "41094"
       ]
     },
     {
@@ -110,6 +109,51 @@
       ]
     },
     {
+      "name": "MASON COUNTY PUBLIC LIBRARY",
+      "system": "MASON COUNTY PUBLIC LIBRARY",
+      "address": "218 EAST THIRD STREET, MAYSVILLE, KY",
+      "website": "https://www.masoncountylibrary.com/",
+      "formUrl": "https://www.masoncountylibrary.com/form/suggest-a-title",
+      "formStatus": "verified",
+      "zipcodes": [
+        "25106",
+        "25123",
+        "25187",
+        "25247",
+        "25253",
+        "25260",
+        "25265",
+        "25287",
+        "25502",
+        "25503",
+        "25515",
+        "25550",
+        "41034",
+        "41055",
+        "41056"
+      ]
+    },
+    {
+      "name": "PENDLETON COUNTY PUBLIC LIBRARY",
+      "system": "PENDLETON COUNTY PUBLIC LIBRARY",
+      "address": "801 ROBBINS AVENUE, FALMOUTH, KY",
+      "website": "https://www.pcplibrary.org/",
+      "formUrl": "https://www.pcplibrary.org/request-an-item",
+      "formStatus": "verified",
+      "zipcodes": [
+        "26802",
+        "26804",
+        "26807",
+        "26814",
+        "26815",
+        "26866",
+        "26884",
+        "41006",
+        "41033",
+        "41040"
+      ]
+    },
+    {
       "name": "GALLATIN COUNTY PUBLIC LIBRARY DISTRICT",
       "system": "GALLATIN COUNTY PUBLIC LIBRARY DISTRICT",
       "address": "209 WEST MARKET STREET, WARSAW, KY",
@@ -150,15 +194,21 @@
     {
       "name": "OWEN COUNTY PUBLIC LIBRARY",
       "system": "OWEN COUNTY PUBLIC LIBRARY",
-      "address": "1370 HIGHWAY 22 EAST, OWENTON, KY",
+      "address": "10 SOUTH MONTGOMERY STREET, SPENCER, IN",
       "website": "https://owenlib.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "40355",
         "40359",
         "40363",
-        "41098"
+        "41098",
+        "47427",
+        "47431",
+        "47433",
+        "47455",
+        "47456",
+        "47460",
+        "47868"
       ]
     }
   ]

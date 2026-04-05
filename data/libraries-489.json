@@ -1,32 +1,6 @@
 {
   "libraries": [
     {
-      "name": "POTTERVILLE-BENTON TOWNSHIP DISTRICT LIBRARY",
-      "system": "POTTERVILLE-BENTON TOWNSHIP DISTRICT LIBRARY",
-      "address": "150 LIBRARY LANE, POTTERVILLE, MI",
-      "website": "https://www.pottervillelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48876",
-        "489HH",
-        "49076"
-      ]
-    },
-    {
-      "name": "CHARLOTTE COMMUNITY LIBRARY",
-      "system": "CHARLOTTE COMMUNITY LIBRARY",
-      "address": "226 SOUTH BOSTWICK STREET, CHARLOTTE, MI",
-      "website": "https://charlottelibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48813",
-        "489HH",
-        "49076"
-      ]
-    },
-    {
       "name": "EAST LANSING PUBLIC LIBRARY",
       "system": "EAST LANSING PUBLIC LIBRARY",
       "address": "950 ABBOT ROAD, EAST LANSING, MI",
@@ -36,7 +10,6 @@
       "zipcodes": [
         "48819",
         "48823",
-        "48824",
         "48840",
         "48842",
         "48854",
@@ -49,73 +22,7 @@
         "48912",
         "48915",
         "49251",
-        "49264",
         "49285"
-      ]
-    },
-    {
-      "name": "EATON RAPIDS AREA DISTRICT LIBRARY",
-      "system": "EATON RAPIDS AREA DISTRICT LIBRARY",
-      "address": "220 SOUTH MAIN STREET, EATON RAPIDS, MI",
-      "website": "https://eradl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48827",
-        "489HH",
-        "49076"
-      ]
-    },
-    {
-      "name": "GRAND LEDGE AREA DISTRICT LIBRARY",
-      "system": "GRAND LEDGE AREA DISTRICT LIBRARY",
-      "address": "131 EAST JEFFERSON STREET, GRAND LEDGE, MI",
-      "website": "https://gladl.org/",
-      "formUrl": "https://gladl.org/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "48837",
-        "489HH",
-        "49076"
-      ]
-    },
-    {
-      "name": "MULLIKEN DISTRICT LIBRARY",
-      "system": "MULLIKEN DISTRICT LIBRARY",
-      "address": "135 MAIN STREET, MULLIKEN, MI",
-      "website": "http://www.mullikendistrictlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48861",
-        "489HH",
-        "49076"
-      ]
-    },
-    {
-      "name": "SUNFIELD DISTRICT LIBRARY",
-      "system": "SUNFIELD DISTRICT LIBRARY",
-      "address": "112 MAIN STREET, SUNFIELD, MI",
-      "website": "https://www.sunfieldlibrary.michlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48890",
-        "489HH",
-        "49076"
-      ]
-    },
-    {
-      "name": "DOROTHY HULL LIBRARY - WINDSOR TOWNSHIP",
-      "system": "DOROTHY HULL LIBRARY - WINDSOR TOWNSHIP",
-      "address": "405 WEST JEFFERSON STREET, DIMONDALE, MI",
-      "website": "https://windsortownship.com/dorothy-hull-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48821",
-        "489HH",
-        "49076"
       ]
     },
     {
@@ -126,23 +33,16 @@
       "formUrl": "https://www.cadl.org/contact-help/contact-forms/purchase-suggestions",
       "formStatus": "verified",
       "zipcodes": [
-        "48819",
-        "48824",
         "48840",
         "48842",
-        "48854",
         "48864",
-        "48892",
-        "48895",
         "48906",
         "48910",
         "48911",
         "48912",
         "48915",
         "48933",
-        "49251",
-        "49264",
-        "49285"
+        "49264"
       ]
     },
     {
@@ -153,35 +53,7 @@
       "formUrl": "https://www.dtdl.org/collections/request_materials.php",
       "formStatus": "verified",
       "zipcodes": [
-        "48917",
-        "489HH",
-        "49076"
-      ]
-    },
-    {
-      "name": "BELLEVUE TOWNSHIP LIBRARY",
-      "system": "BELLEVUE TOWNSHIP LIBRARY",
-      "address": "212 NORTH MAIN STREET, BELLEVUE, MI",
-      "website": "https://bellevuetownship.org/library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "489HH",
-        "49021",
-        "49076"
-      ]
-    },
-    {
-      "name": "VERMONTVILLE TOWNSHIP LIBRARY",
-      "system": "VERMONTVILLE TOWNSHIP LIBRARY",
-      "address": "120 EAST FIRST STREET, VERMONTVILLE, MI",
-      "website": "https://www.vmtlib.michlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "489HH",
-        "49076",
-        "49096"
+        "48917"
       ]
     }
   ]

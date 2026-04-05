@@ -8,15 +8,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "98356",
+        "98532",
+        "98538",
+        "98542",
+        "98564",
+        "98565",
         "98581",
-        "98603",
+        "98582",
+        "98585",
+        "98591",
+        "98593",
+        "98596",
         "98611",
         "98616",
-        "98632",
         "98645",
-        "98649",
-        "98674",
-        "986XX"
+        "98649"
       ]
     },
     {
@@ -27,9 +34,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "98572",
+        "98577",
+        "98586",
         "98612",
+        "98614",
         "98621",
+        "98624",
+        "98631",
+        "98638",
         "98643",
+        "98644",
         "98647"
       ]
     },
@@ -41,15 +56,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "98581",
         "98603",
-        "98616",
         "98625",
-        "98632",
-        "98645",
-        "98649",
-        "98674",
-        "986XX"
+        "98674"
       ]
     },
     {
@@ -61,24 +70,25 @@
       "formStatus": "unknown",
       "zipcodes": [
         "98601",
-        "98604",
+        "98602",
+        "98605",
         "98606",
         "98607",
-        "98629",
-        "98642",
-        "98660",
-        "98662",
-        "98663",
+        "98610",
+        "98617",
+        "98635",
+        "98639",
+        "98648",
+        "98650",
+        "98651",
         "98664",
-        "98665",
         "98671",
+        "98672",
+        "98673",
         "98675",
         "98682",
         "98683",
-        "98684",
-        "98685",
-        "98686",
-        "986HH"
+        "98684"
       ]
     },
     {
@@ -89,34 +99,24 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "98581",
-        "98603",
-        "98616",
-        "98626",
-        "98632",
-        "98645",
-        "98649",
-        "98674",
-        "986XX"
+        "98626"
       ]
     },
     {
       "name": "LONGVIEW PUBLIC LIBRARY",
       "system": "LONGVIEW PUBLIC LIBRARY",
-      "address": "222 W COTTON ST, LONGVIEW, TX",
+      "address": "1600 LOUISIANA STREET, LONGVIEW, WA",
       "website": "http://www.longviewlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "75601",
-        "98581",
-        "98603",
-        "98616",
-        "98632",
-        "98645",
-        "98649",
-        "98674",
-        "986XX"
+        "75602",
+        "75603",
+        "75604",
+        "75605",
+        "75641",
+        "98632"
       ]
     },
     {
@@ -127,9 +127,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "98601",
         "98604",
-        "98606",
         "98629",
         "98642",
         "98660",
@@ -138,14 +136,92 @@
         "98663",
         "98664",
         "98665",
-        "98671",
-        "98675",
         "98682",
         "98683",
         "98684",
         "98685",
-        "98686",
-        "986HH"
+        "98686"
+      ]
+    },
+    {
+      "name": "GRANDVIEW LIBRARY",
+      "system": "GRANDVIEW LIBRARY",
+      "address": "500 W. MAIN STREET, GRANDVIEW, WA",
+      "website": "https://www.grandview.wa.us/departments/grandview-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "98613",
+        "98620",
+        "98930",
+        "98932",
+        "98935",
+        "98938",
+        "98944",
+        "98948",
+        "99322",
+        "99349",
+        "99356"
+      ]
+    },
+    {
+      "name": "YAKIMA VALLEY REGIONAL LIBRARY",
+      "system": "YAKIMA VALLEY REGIONAL LIBRARY",
+      "address": "102 N THIRD ST, YAKIMA, WA",
+      "website": "https://www.yvl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "98361",
+        "98619",
+        "98628",
+        "98670",
+        "98901",
+        "98902",
+        "98903",
+        "98908",
+        "98923",
+        "98933",
+        "98936",
+        "98937",
+        "98942",
+        "98947",
+        "98951",
+        "98952",
+        "98953"
+      ]
+    },
+    {
+      "name": "OCEAN SHORES PUBLIC LIBRARY",
+      "system": "OCEAN SHORES PUBLIC LIBRARY",
+      "address": "573 POINT BROWN AVE NW, OCEAN SHORES, WA",
+      "website": "http://www.oslibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "98520",
+        "98526",
+        "98527",
+        "98535",
+        "98536",
+        "98537",
+        "98541",
+        "98547",
+        "98550",
+        "98552",
+        "98557",
+        "98559",
+        "98562",
+        "98563",
+        "98568",
+        "98569",
+        "98571",
+        "98575",
+        "98587",
+        "98590",
+        "98595",
+        "98640",
+        "98641"
       ]
     }
   ]

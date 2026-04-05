@@ -1,151 +1,115 @@
 {
   "libraries": [
     {
+      "name": "CLIFTON PUBLIC LIBRARY",
+      "system": "CLIFTON PUBLIC LIBRARY",
+      "address": "292 PIAGET AVENUE, CLIFTON, NJ",
+      "website": "https://cliftonpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07011",
+        "07012",
+        "07013",
+        "07014",
+        "07503",
+        "07504",
+        "07513",
+        "60911",
+        "60930",
+        "60951",
+        "67468",
+        "85533",
+        "85540",
+        "85922"
+      ]
+    },
+    {
       "name": "ENTERPRISE PUBLIC LIBRARY",
       "system": "ENTERPRISE PUBLIC LIBRARY",
-      "address": "202 S. FACTORY, ENTERPRISE, KS",
+      "address": "101 EAST GRUBBS STREET, ENTERPRISE, AL",
       "website": "https://enterprise.lib.nckls.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67441",
-        "67482",
-        "67492"
+        "36330",
+        "36351",
+        "67410",
+        "67441"
       ]
     },
     {
       "name": "WAKEFIELD PUBLIC LIBRARY",
       "system": "WAKEFIELD PUBLIC LIBRARY",
-      "address": "205 THIRD STREET, WAKEFIELD, KS",
+      "address": "401 HANCOCK STREET, WAKEFIELD, MI",
       "website": "https://citylibrary.com/public-libraries/wakefield-public-library/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "03259",
-        "03813",
         "03830",
-        "03832",
-        "03838",
-        "03845",
-        "03853",
-        "03864",
-        "03875",
-        "03882",
-        "03883",
-        "03897",
+        "49959",
+        "49968",
+        "67458",
         "67487"
       ]
     },
     {
-      "name": "GOESSEL PUBLIC LIBRARY",
-      "system": "GOESSEL PUBLIC LIBRARY",
-      "address": "101 S. CEDAR, GOESSEL, KS",
-      "website": "https://librarytechnology.org/library/18204",
+      "name": "HILLSBORO PUBLIC LIBRARY",
+      "system": "HILLSBORO PUBLIC LIBRARY",
+      "address": "120 E. GRAND AVE., HILLSBORO, KS",
+      "website": "https://www.hillsboro-oregon.gov/departments/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66858",
-        "66859",
-        "67053",
+        "54634",
         "67063",
         "67073",
         "67438",
-        "67475",
-        "67483"
+        "67483",
+        "97123",
+        "97124"
       ]
     },
     {
       "name": "SALINA PUBLIC LIBRARY",
       "system": "SALINA PUBLIC LIBRARY",
-      "address": "301 W. ELM STREET, SALINA, KS",
+      "address": "90 WEST MAIN STREET, SALINA, UT",
       "website": "https://salinapubliclibrary.org/",
       "formUrl": "https://salinapubliclibrary.org/books-media/interlibrary-loan-request/",
       "formStatus": "verified",
       "zipcodes": [
         "67401",
+        "67425",
+        "67442",
+        "67470",
+        "74365",
+        "74366",
+        "74367",
         "84620",
         "84652",
-        "84654",
-        "84657",
-        "84711",
-        "84724",
-        "84730",
-        "84739",
-        "84744",
-        "84754",
-        "84766"
+        "84654"
       ]
     },
     {
       "name": "ABILENE PUBLIC LIBRARY",
       "system": "ABILENE PUBLIC LIBRARY",
-      "address": "209 NW 4TH, ABILENE, KS",
+      "address": "202 CEDAR ST, ABILENE, TX",
       "website": "http://abilene.lib.nckls.org/",
       "formUrl": "http://abilene.lib.nckls.org/",
       "formStatus": "verified",
       "zipcodes": [
         "67410",
+        "67441",
+        "67482",
         "79508",
         "79530",
         "79541",
-        "79561",
         "79562",
-        "79563",
         "79601",
         "79602",
-        "79603",
         "79605",
         "79606",
         "79607"
-      ]
-    },
-    {
-      "name": "MOUNDRIDGE PUBLIC LIBRARY",
-      "system": "MOUNDRIDGE PUBLIC LIBRARY",
-      "address": "220 S. CHRISTIAN, MOUNDRIDGE, KS",
-      "website": "https://moundridge.scklslibrary.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67107",
-        "67443",
-        "67491"
-      ]
-    },
-    {
-      "name": "BURNS PUBLIC LIBRARY",
-      "system": "BURNS PUBLIC LIBRARY",
-      "address": "104 NORTH WASHINGTON AVE, BURNS, KS",
-      "website": "https://www.chamberofcommerce.com/united-states/kansas/burns/public-library/2000902030-burns-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66840",
-        "66858",
-        "66859",
-        "67063",
-        "67073",
-        "67438",
-        "67475",
-        "67483"
-      ]
-    },
-    {
-      "name": "PEABODY TOWNSHIP LIBRARY",
-      "system": "PEABODY TOWNSHIP LIBRARY",
-      "address": "214 N. WALNUT, PEABODY, KS",
-      "website": "http://peabody.mykansaslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66858",
-        "66859",
-        "66866",
-        "67063",
-        "67073",
-        "67438",
-        "67475",
-        "67483"
       ]
     },
     {
@@ -159,24 +123,7 @@
         "66858",
         "66859",
         "66861",
-        "67063",
-        "67073",
-        "67438",
-        "67475",
-        "67483"
-      ]
-    },
-    {
-      "name": "JAMESTOWN CITY LIBRARY",
-      "system": "JAMESTOWN CITY LIBRARY",
-      "address": "311 D WALNUT, JAMESTOWN, KS",
-      "website": "https://jamestown.mykansaslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66948",
-        "67417",
-        "67466"
+        "67475"
       ]
     },
     {
@@ -188,7 +135,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66938",
-        "67417",
         "67466"
       ]
     },
@@ -201,8 +147,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "66901",
-        "67417",
-        "67466"
+        "67417"
       ]
     },
     {
@@ -213,8 +158,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67418",
-        "67423",
         "67481"
       ]
     },
@@ -227,11 +170,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67416",
-        "67425",
-        "67442",
-        "67448",
-        "67470",
-        "674XX"
+        "67448"
       ]
     },
     {
@@ -243,9 +182,22 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67446",
-        "67452",
-        "67478",
-        "67485"
+        "67452"
+      ]
+    },
+    {
+      "name": "DELPHOS PUBLIC LIBRARY",
+      "system": "DELPHOS PUBLIC LIBRARY",
+      "address": "114 W. 2ND, DELPHOS, KS",
+      "website": "https://delphos.mykansaslibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45807",
+        "45809",
+        "45833",
+        "45887",
+        "67436"
       ]
     },
     {
@@ -256,9 +208,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67417",
-        "67445",
-        "67466"
+        "67445"
       ]
     },
     {
@@ -270,8 +220,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67430",
-        "67452",
-        "67478",
         "67485"
       ]
     },
@@ -283,9 +231,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67450",
-        "67454",
-        "67459"
+        "67454"
       ]
     },
     {
@@ -296,8 +242,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67450",
-        "67459",
         "67490"
       ]
     },
@@ -309,10 +253,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67437",
-        "67474",
-        "67623",
-        "67651"
+        "67437"
       ]
     },
     {
@@ -351,7 +292,6 @@
       "formStatus": "verified",
       "zipcodes": [
         "67422",
-        "67436",
         "67467",
         "67484"
       ]
@@ -378,9 +318,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67420",
-        "67452",
-        "67478",
-        "67485"
+        "67478"
       ]
     },
     {
@@ -391,9 +329,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67451",
-        "67482",
-        "67492"
+        "67451"
       ]
     },
     {
@@ -404,9 +340,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "67410",
         "67480",
-        "67482",
-        "67492"
+        "67482"
       ]
     },
     {
@@ -418,8 +354,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67431",
-        "67482",
-        "67492"
+        "67441"
       ]
     },
     {
@@ -431,7 +366,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67449",
-        "67482",
         "67492"
       ]
     },
@@ -443,12 +377,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "669HH",
         "67432",
         "67447",
-        "67458",
-        "67468",
-        "674HH"
+        "67468"
       ]
     },
     {
@@ -459,11 +390,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67444",
-        "67512",
-        "67524",
-        "67554",
-        "67573"
+        "67444"
       ]
     },
     {
@@ -474,11 +401,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67457",
-        "67512",
-        "67524",
-        "67554",
-        "67573"
+        "67457"
       ]
     },
     {
@@ -490,10 +413,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67427",
-        "67512",
-        "67524",
-        "67554",
-        "67573"
+        "67524"
       ]
     },
     {
@@ -504,7 +424,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67443",
         "67464",
         "67491"
       ]
@@ -518,8 +437,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67428",
-        "67443",
-        "67491"
+        "67443"
       ]
     },
     {
@@ -530,9 +448,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67443",
-        "67456",
-        "67491"
+        "67456"
       ]
     },
     {
@@ -544,21 +460,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "67443",
-        "67460",
-        "67491"
-      ]
-    },
-    {
-      "name": "INMAN PUBLIC LIBRARY",
-      "system": "INMAN PUBLIC LIBRARY",
-      "address": "100 N. MAIN, INMAN, KS",
-      "website": "https://librarytechnology.org/library/18334",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67443",
-        "67491",
-        "67546"
+        "67460"
       ]
     }
   ]

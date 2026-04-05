@@ -20,14 +20,17 @@
       "formUrl": "https://laurel.lib.ms.us/interlibrary-loan-services/",
       "formStatus": "verified",
       "zipcodes": [
-        "39436",
+        "39338",
+        "39422",
         "39437",
+        "39439",
         "39440",
         "39443",
         "39459",
         "39464",
         "39477",
-        "39480"
+        "39480",
+        "39481"
       ]
     },
     {
@@ -53,6 +56,9 @@
       "zipcodes": [
         "39423",
         "39425",
+        "39451",
+        "39456",
+        "39461",
         "39462",
         "39476"
       ]
@@ -65,9 +71,13 @@
       "formUrl": "https://www.smrl.lib.ms.us/copy-of-2nd-parent-caregivers",
       "formStatus": "verified",
       "zipcodes": [
+        "39427",
         "39429",
+        "39478",
         "39483",
-        "39643"
+        "39643",
+        "39656",
+        "39667"
       ]
     },
     {
@@ -78,8 +88,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "39111",
+        "39116",
         "39119",
+        "39153",
+        "39168",
+        "39421",
         "39428",
+        "39474",
         "39479"
       ]
     },
@@ -94,7 +110,26 @@
         "39402",
         "39455",
         "39475",
-        "39482"
+        "39482",
+        "39577"
+      ]
+    },
+    {
+      "name": "JACKSON-GEORGE REGIONAL LIBRARY SYSTEM",
+      "system": "JACKSON-GEORGE REGIONAL LIBRARY SYSTEM",
+      "address": "3214 PASCAGOULA STREET, PASCAGOULA, MS",
+      "website": "https://jgrls.org/pascagoula-public-library/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "39452",
+        "39553",
+        "39562",
+        "39563",
+        "39564",
+        "39565",
+        "39567",
+        "39581"
       ]
     }
   ]

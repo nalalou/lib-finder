@@ -1,16 +1,78 @@
 {
   "libraries": [
     {
+      "name": "ROCKFORD PUBLIC LIBRARY",
+      "system": "ROCKFORD PUBLIC LIBRARY",
+      "address": "202 W MAIN AVE, ROCKFORD, IA",
+      "website": "https://www.rockfordpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35089",
+        "35136",
+        "35183",
+        "36026",
+        "50468",
+        "61101",
+        "61102",
+        "61103",
+        "61104",
+        "61107",
+        "61108",
+        "61109",
+        "61112",
+        "61114",
+        "61115"
+      ]
+    },
+    {
+      "name": "LOUISVILLE PUBLIC LIBRARY",
+      "system": "LOUISVILLE PUBLIC LIBRARY",
+      "address": "951 SPRUCE STREET, LOUISVILLE, CO",
+      "website": "https://jefferson.public.lib.ga.us/library-branches/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36048",
+        "44632",
+        "44641",
+        "44669",
+        "44670",
+        "44703",
+        "44704",
+        "44705",
+        "44707",
+        "44709",
+        "44714",
+        "44721",
+        "44730",
+        "68016",
+        "68037",
+        "68058",
+        "68403",
+        "68407",
+        "80025",
+        "80026",
+        "80027",
+        "80301",
+        "80303",
+        "80304",
+        "80516"
+      ]
+    },
+    {
       "name": "LUVERNE PUBLIC LIBRARY",
       "system": "LUVERNE PUBLIC LIBRARY",
-      "address": "148 EAST THIRD STREET, LUVERNE, AL",
+      "address": "113 DEWITT ST, LUVERNE, IA",
       "website": "https://www.luvernepubliclibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "36041",
+        "36042",
+        "36046",
         "36049",
-        "50517",
-        "50559",
+        "36071",
         "50560"
       ]
     },
@@ -24,58 +86,8 @@
       "zipcodes": [
         "36028",
         "36420",
-        "36455",
         "36474",
-        "36476",
-        "36483"
-      ]
-    },
-    {
-      "name": "FLORALA PUBLIC LIBRARY",
-      "system": "FLORALA PUBLIC LIBRARY",
-      "address": "1214 FOURTH STREET, FLORALA, AL",
-      "website": "https://aplsnew-web.apls.state.al.us:10131/florala/web/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36028",
-        "36442",
-        "36455",
-        "36474",
-        "36476",
-        "36483"
-      ]
-    },
-    {
-      "name": "OPP PUBLIC LIBRARY",
-      "system": "OPP PUBLIC LIBRARY",
-      "address": "1604 NORTH MAIN STREET, OPP, AL",
-      "website": "http://www.opplibrary.com/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "36028",
-        "36455",
-        "36467",
-        "36474",
-        "36476",
-        "36483"
-      ]
-    },
-    {
-      "name": "GOODWATER PUBLIC LIBRARY",
-      "system": "GOODWATER PUBLIC LIBRARY",
-      "address": "62 COOSA COUNTY ROAD 66, GOODWATER, AL",
-      "website": "https://ils.apls.state.al.us:10041/eg/opac/home",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "35072",
-        "35089",
-        "350XX",
-        "35183",
-        "351XX",
-        "36026"
+        "36476"
       ]
     },
     {
@@ -89,7 +101,6 @@
         "35045",
         "35046",
         "35085",
-        "350HH",
         "35171",
         "36091",
         "36750",
@@ -99,23 +110,21 @@
     {
       "name": "TROY PUBLIC LIBRARY",
       "system": "TROY PUBLIC LIBRARY",
-      "address": "500 EAST WALNUT STREET, TROY, AL",
+      "address": "510 WEST BIG BEAVER ROAD, TROY, MI",
       "website": "http://www.thetroylibrary.org",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "12028",
-        "12052",
-        "12062",
-        "12063",
-        "12094",
-        "12121",
-        "12153",
-        "12156",
-        "12169",
         "12182",
-        "12196",
-        "36079"
+        "36034",
+        "36035",
+        "36079",
+        "36081",
+        "48009",
+        "48083",
+        "48084",
+        "48098",
+        "48304"
       ]
     },
     {
@@ -131,7 +140,6 @@
         "36043",
         "36052",
         "36064",
-        "36065",
         "36069",
         "36104",
         "36105",
@@ -144,8 +152,7 @@
         "36113",
         "36115",
         "36116",
-        "36117",
-        "361HH"
+        "36117"
       ]
     },
     {
@@ -157,10 +164,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36005",
-        "36010",
-        "36034",
-        "36035",
-        "36081"
+        "36010"
       ]
     },
     {
@@ -208,11 +212,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36009",
-        "36041",
-        "36042",
-        "36046",
-        "36071"
+        "36009"
       ]
     },
     {
@@ -226,9 +226,7 @@
         "36020",
         "36022",
         "36025",
-        "36054",
-        "36080",
-        "36093"
+        "36054"
       ]
     },
     {
@@ -239,10 +237,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36078",
-        "36256",
-        "36850",
-        "36861"
+        "36078"
       ]
     },
     {
@@ -254,7 +249,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36020",
-        "36022",
         "36025",
         "36080",
         "36092",
@@ -272,7 +266,6 @@
         "36030",
         "36033",
         "36037",
-        "360XX",
         "36456"
       ]
     },
@@ -301,7 +294,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36040",
-        "36047",
         "36752",
         "36785"
       ]
@@ -319,9 +311,7 @@
         "36051",
         "36066",
         "36067",
-        "360HH",
-        "36749",
-        "367HH"
+        "36749"
       ]
     },
     {
@@ -334,8 +324,7 @@
       "zipcodes": [
         "36040",
         "36047",
-        "36752",
-        "36785"
+        "36752"
       ]
     },
     {
@@ -346,8 +335,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36027",
-        "36048"
+        "36027"
       ]
     },
     {
@@ -359,9 +347,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "36032",
-        "36047",
-        "36752",
-        "36785"
+        "36047"
       ]
     },
     {
@@ -372,12 +358,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "36020",
-        "36022",
-        "36024",
-        "36025",
-        "36080",
-        "36093"
+        "36024"
       ]
     }
   ]

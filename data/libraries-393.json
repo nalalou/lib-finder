@@ -1,6 +1,24 @@
 {
   "libraries": [
     {
+      "name": "CHOCTAW COUNTY LIBRARY SYSTEM",
+      "system": "CHOCTAW COUNTY LIBRARY SYSTEM",
+      "address": "511 SOUTH LOUISVILLE ST, ACKERMAN, MS",
+      "website": "https://choctaw.lib.ms.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "39339",
+        "39735",
+        "39744",
+        "39745",
+        "39752",
+        "39767",
+        "39771",
+        "39772"
+      ]
+    },
+    {
       "name": "EAST MISSISSIPPI REGIONAL LIBRARY",
       "system": "EAST MISSISSIPPI REGIONAL LIBRARY",
       "address": "116 WATER STREET, QUITMAN, MS",
@@ -9,9 +27,13 @@
       "formStatus": "unknown",
       "zipcodes": [
         "39330",
+        "39347",
+        "39348",
         "39355",
+        "39356",
         "39360",
-        "39363"
+        "39363",
+        "39366"
       ]
     },
     {
@@ -23,12 +45,16 @@
       "formStatus": "unknown",
       "zipcodes": [
         "39057",
+        "39074",
+        "39092",
+        "39189",
         "39323",
         "39327",
         "39332",
         "39336",
         "39337",
         "39345",
+        "39359",
         "39365"
       ]
     },
@@ -47,6 +73,7 @@
         "39325",
         "39326",
         "39335",
+        "39352",
         "39364"
       ]
     },
@@ -58,7 +85,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "39350"
+        "39328",
+        "39346",
+        "39350",
+        "39354"
       ]
     },
     {
@@ -70,6 +100,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "39341",
+        "39358",
         "39361",
         "39739"
       ]
@@ -83,7 +114,29 @@
       "formStatus": "unknown",
       "zipcodes": [
         "39322",
+        "39362",
         "39367"
+      ]
+    },
+    {
+      "name": "LAUREL-JONES COUNTY LIBRARY SYSTEM, INC.",
+      "system": "LAUREL-JONES COUNTY LIBRARY SYSTEM, INC.",
+      "address": "530 COMMERCE STREET, LAUREL, MS",
+      "website": "https://laurel.lib.ms.us/",
+      "formUrl": "https://laurel.lib.ms.us/interlibrary-loan-services/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "39338",
+        "39422",
+        "39437",
+        "39439",
+        "39440",
+        "39443",
+        "39459",
+        "39464",
+        "39477",
+        "39480",
+        "39481"
       ]
     }
   ]

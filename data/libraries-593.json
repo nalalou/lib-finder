@@ -3,25 +3,38 @@
     {
       "name": "GARFIELD COUNTY LIBRARY",
       "system": "GARFIELD COUNTY LIBRARY",
-      "address": "202 MAIN ST, JORDAN, MT",
+      "address": "217 G STREET, BURWELL, NE",
       "website": "https://www.garfieldcountylibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "59058",
+        "59077",
+        "59318",
+        "59322",
         "59337",
+        "68637",
         "68823"
       ]
     },
     {
       "name": "PRAIRIE COUNTY LIBRARY",
       "system": "PRAIRIE COUNTY LIBRARY",
-      "address": "309 GARFIELD AVE, TERRY, MT",
+      "address": "201 US HWY 70 EAST, HAZEN, AR",
       "website": "https://prairiecounty.org/library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "59326",
-        "59349"
+        "59349",
+        "72017",
+        "72021",
+        "72029",
+        "72036",
+        "72040",
+        "72041",
+        "72064",
+        "72170"
       ]
     },
     {
@@ -48,9 +61,7 @@
         "59062",
         "59314",
         "59317",
-        "59343",
-        "59348",
-        "593XX"
+        "59343"
       ]
     },
     {
@@ -76,8 +87,10 @@
       "zipcodes": [
         "59003",
         "59012",
+        "59038",
         "59039",
         "59043",
+        "59076",
         "59323",
         "59327",
         "59333",

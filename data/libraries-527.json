@@ -1,6 +1,28 @@
 {
   "libraries": [
     {
+      "name": "DAVENPORT PUBLIC LIBRARY",
+      "system": "DAVENPORT PUBLIC LIBRARY",
+      "address": "321 MAIN ST, DAVENPORT, IA",
+      "website": "http://www.davenportlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52726",
+        "52728",
+        "52767",
+        "52801",
+        "52802",
+        "52803",
+        "52804",
+        "52806",
+        "52807",
+        "68326",
+        "68335",
+        "99122"
+      ]
+    },
+    {
       "name": "IOWA CITY PUBLIC LIBRARY",
       "system": "IOWA CITY PUBLIC LIBRARY",
       "address": "123 S LINN ST, IOWA CITY, IA",
@@ -13,39 +35,7 @@
         "52242",
         "52245",
         "52246",
-        "52322",
         "52755"
-      ]
-    },
-    {
-      "name": "CORALVILLE PUBLIC LIBRARY",
-      "system": "CORALVILLE PUBLIC LIBRARY",
-      "address": "1401 5TH ST, CORALVILLE, IA",
-      "website": "https://coralvillepubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52235",
-        "52241",
-        "52242",
-        "52245",
-        "52246",
-        "52322",
-        "52755"
-      ]
-    },
-    {
-      "name": "LOWDEN PUBLIC LIBRARY",
-      "system": "LOWDEN PUBLIC LIBRARY",
-      "address": "605 MAIN ST, LOWDEN, IA",
-      "website": "https://www.lowden.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52216",
-        "52255",
-        "52747",
-        "527HH"
       ]
     },
     {
@@ -57,164 +47,42 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52037",
-        "52226",
         "52254",
-        "52701",
-        "52727",
-        "52731",
-        "52732",
-        "52750",
-        "52751",
-        "52757",
-        "52774"
+        "52777"
       ]
     },
     {
       "name": "CURTIS MEMORIAL LIBRARY",
       "system": "CURTIS MEMORIAL LIBRARY",
-      "address": "116 S MAIN ST, WHEATLAND, IA",
+      "address": "23 PLEASANT STREET, BRUNSWICK, ME",
       "website": "http://www.curtislibrary.com",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "04003",
         "04011",
-        "04062",
-        "04069",
-        "04091",
-        "04097",
-        "040HH",
-        "04101",
-        "04102",
-        "04103",
-        "04108",
-        "04110",
-        "041HH",
+        "52751",
         "52777"
       ]
     },
     {
-      "name": "SOLON PUBLIC LIBRARY",
-      "system": "SOLON PUBLIC LIBRARY",
-      "address": "320 W MAIN ST, SOLON, IA",
-      "website": "https://www.solon.lib.ia.us/",
+      "name": "CLINTON PUBLIC LIBRARY",
+      "system": "CLINTON PUBLIC LIBRARY",
+      "address": "214 MILL ST., CLINTON, WI",
+      "website": "https://www.als.lib.wi.us/CPL/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52235",
-        "52242",
-        "52245",
-        "52246",
-        "52322",
-        "52333",
-        "52755"
-      ]
-    },
-    {
-      "name": "NORTH LIBERTY COMMUNITY LIBRARY",
-      "system": "NORTH LIBERTY COMMUNITY LIBRARY",
-      "address": "520 W CHERRY ST, NORTH LIBERTY, IA",
-      "website": "https://northlibertylibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52235",
-        "52242",
-        "52245",
-        "52246",
-        "52317",
-        "52322",
-        "52755"
-      ]
-    },
-    {
-      "name": "WEST BRANCH PUBLIC LIBRARY",
-      "system": "WEST BRANCH PUBLIC LIBRARY",
-      "address": "300 N DOWNEY ST, WEST BRANCH, IA",
-      "website": "https://wbpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52216",
-        "52358",
-        "52747",
-        "527HH"
-      ]
-    },
-    {
-      "name": "MECHANICSVILLE PUBLIC LIBRARY",
-      "system": "MECHANICSVILLE PUBLIC LIBRARY",
-      "address": "218 E 1ST ST, MECHANICSVILLE, IA",
-      "website": "https://www.mechanicsville.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52216",
-        "52306",
-        "52747",
-        "527HH"
-      ]
-    },
-    {
-      "name": "STANWOOD PUBLIC LIBRARY",
-      "system": "STANWOOD PUBLIC LIBRARY",
-      "address": "202 E BROADWAY, STANWOOD, IA",
-      "website": "https://www.stanwood.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52216",
-        "52337",
-        "52747",
-        "527HH"
-      ]
-    },
-    {
-      "name": "SPRINGMIER COMMUNITY LIBRARY",
-      "system": "SPRINGMIER COMMUNITY LIBRARY",
-      "address": "311 W MARENGO RD, TIFFIN, IA",
-      "website": "https://www.tiffin.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52235",
-        "52242",
-        "52245",
-        "52246",
-        "52322",
-        "52340",
-        "52755"
-      ]
-    },
-    {
-      "name": "SWISHER COMMUNITY LIBRARY",
-      "system": "SWISHER COMMUNITY LIBRARY",
-      "address": "72 2ND ST, SWISHER, IA",
-      "website": "https://www.swisherlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52235",
-        "52242",
-        "52245",
-        "52246",
-        "52322",
-        "52338",
-        "52755"
-      ]
-    },
-    {
-      "name": "MELLINGER MEMORIAL PUBLIC LIBRARY",
-      "system": "MELLINGER MEMORIAL PUBLIC LIBRARY",
-      "address": "11 DIVISION ST, MORNING SUN, IA",
-      "website": "https://www.morningsun.lib.ia.us/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "52640",
-        "52646",
-        "52737",
-        "52752"
+        "37716",
+        "37754",
+        "47842",
+        "47884",
+        "52701",
+        "52727",
+        "52732",
+        "52757",
+        "53505",
+        "53525",
+        "53546"
       ]
     },
     {
@@ -227,7 +95,6 @@
       "zipcodes": [
         "52646",
         "52653",
-        "52737",
         "52752"
       ]
     },
@@ -239,7 +106,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52646",
         "52737",
         "52738",
         "52752"
@@ -253,7 +119,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52646",
         "52737",
         "52752",
         "52754"
@@ -267,14 +132,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52720",
-        "52739",
         "52749",
         "52760",
-        "52761",
-        "52766",
-        "52769",
-        "52778"
+        "52761"
       ]
     },
     {
@@ -287,12 +147,25 @@
       "zipcodes": [
         "52720",
         "52739",
-        "52749",
         "52760",
         "52766",
+        "52776"
+      ]
+    },
+    {
+      "name": "WILTON PUBLIC LIBRARY",
+      "system": "WILTON PUBLIC LIBRARY",
+      "address": "1215 CYPRESS ST, WILTON, IA",
+      "website": "https://wiltonlibrary.wrlsweb.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "52720",
+        "52760",
         "52769",
-        "52776",
-        "52778"
+        "52778",
+        "54648",
+        "54670"
       ]
     },
     {
@@ -304,23 +177,12 @@
       "formStatus": "unknown",
       "zipcodes": [
         "52722",
-        "52726",
-        "52728",
-        "52745",
-        "52746",
-        "52756",
-        "52758",
-        "52765",
         "52767",
-        "52768",
-        "52773",
-        "52801",
         "52802",
         "52803",
         "52804",
         "52806",
-        "52807",
-        "528HH"
+        "52807"
       ]
     },
     {
@@ -331,24 +193,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52726",
-        "52728",
         "52745",
         "52746",
         "52748",
         "52756",
         "52758",
         "52765",
-        "52767",
-        "52768",
         "52773",
-        "52801",
-        "52802",
         "52803",
-        "52804",
         "52806",
-        "52807",
-        "528HH"
+        "52807"
       ]
     },
     {
@@ -359,10 +213,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52216",
         "52721",
-        "52747",
-        "527HH"
+        "52747"
       ]
     },
     {
@@ -373,17 +225,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52037",
-        "52226",
-        "52701",
-        "52727",
         "52729",
-        "52731",
-        "52732",
-        "52750",
         "52751",
-        "52757",
-        "52774"
+        "52777"
       ]
     },
     {
@@ -394,17 +238,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52037",
-        "52226",
-        "52701",
-        "52727",
         "52730",
-        "52731",
         "52732",
-        "52750",
-        "52751",
-        "52757",
-        "52774"
+        "52757"
       ]
     },
     {
@@ -415,12 +251,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52037",
-        "52226",
-        "52701",
-        "52727",
         "52731",
-        "52732",
         "52742",
         "52750",
         "52751",
@@ -436,10 +267,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52216",
-        "52747",
-        "52772",
-        "527HH"
+        "52772"
       ]
     },
     {
@@ -450,24 +278,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "52726",
-        "52728",
-        "52745",
-        "52746",
         "52753",
-        "52756",
-        "52758",
-        "52765",
         "52767",
-        "52768",
-        "52773",
-        "52801",
-        "52802",
-        "52803",
-        "52804",
-        "52806",
-        "52807",
-        "528HH"
+        "52768"
       ]
     }
   ]

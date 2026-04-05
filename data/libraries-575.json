@@ -23,6 +23,7 @@
       "zipcodes": [
         "57501",
         "57522",
+        "57532",
         "57536"
       ]
     },
@@ -37,10 +38,8 @@
         "57317",
         "57335",
         "57523",
-        "57529",
         "57538",
-        "57571",
-        "575HH"
+        "57571"
       ]
     },
     {
@@ -51,27 +50,27 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57317",
-        "57335",
         "57529",
-        "57533",
-        "57538",
-        "57571",
-        "575HH"
+        "57533"
       ]
     },
     {
       "name": "JACKSON COUNTY LIBRARY",
       "system": "JACKSON COUNTY LIBRARY",
-      "address": "311 THIRD STREET, JACKSON, MN",
+      "address": "910 MAIN ST, KADOKA, SD",
       "website": "https://jacksoncounty.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "56111",
+        "56137",
         "56143",
+        "56150",
+        "56161",
         "57521",
         "57543",
         "57547",
+        "57562",
         "57577",
         "57750"
       ]
@@ -109,10 +108,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57365",
-        "57542",
+        "57531",
+        "57559",
         "57568",
-        "57569",
         "57576"
       ]
     },
@@ -127,7 +125,6 @@
         "57528",
         "57534",
         "57541",
-        "57578",
         "57580",
         "57584"
       ]
@@ -140,11 +137,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57365",
-        "57542",
         "57544",
-        "57569",
-        "57576"
+        "57569"
       ]
     },
     {
@@ -168,12 +162,14 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57526",
         "57555",
+        "57560",
         "57563",
         "57566",
         "57570",
-        "57572"
+        "57572",
+        "57579",
+        "57585"
       ]
     },
     {
@@ -184,11 +180,23 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57339",
         "57365",
-        "57542",
-        "57548",
-        "57569",
-        "57576"
+        "57548"
+      ]
+    },
+    {
+      "name": "DAKOTA CLUB LIBRARY",
+      "system": "DAKOTA CLUB LIBRARY",
+      "address": "219 MAIN, EAGLE BUTTE, SD",
+      "website": "https://dakotaclub.yoursdlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57537",
+        "57622",
+        "57625",
+        "57636"
       ]
     }
   ]

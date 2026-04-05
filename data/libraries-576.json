@@ -3,17 +3,61 @@
     {
       "name": "NORTHWEST REGIONAL LIBRARY",
       "system": "NORTHWEST REGIONAL LIBRARY",
-      "address": "210 LABREE AVENUE NORTH, THIEF RIVER FALLS, MN",
+      "address": "185 ASHWOOD DRIVE, WINFIELD, AL",
       "website": "https://nwregional.yoursdlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "35548",
+        "35594",
+        "56516",
+        "56634",
+        "56644",
+        "56651",
+        "56652",
+        "56667",
+        "56671",
+        "56676",
         "56701",
+        "56714",
+        "56715",
+        "56724",
+        "56725",
+        "56726",
+        "56727",
+        "56729",
+        "56732",
+        "56733",
+        "56734",
+        "56735",
+        "56737",
+        "56738",
+        "56742",
+        "56748",
+        "56750",
+        "56751",
+        "56754",
+        "56758",
+        "56759",
+        "56760",
+        "56761",
         "57650",
         "57651",
         "57720",
         "57724",
         "57755"
+      ]
+    },
+    {
+      "name": "KATHRYN SCHULKOSKI PUBLIC LIBRARY",
+      "system": "KATHRYN SCHULKOSKI PUBLIC LIBRARY",
+      "address": "613 7TH ST, EUREKA, SD",
+      "website": "https://librarytechnology.org/library/24059",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "57437",
+        "57632"
       ]
     },
     {
@@ -28,7 +72,11 @@
         "57452",
         "57472",
         "57601",
-        "57631"
+        "57631",
+        "57642",
+        "57646",
+        "57648",
+        "57658"
       ]
     },
     {
@@ -39,17 +87,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57623",
         "57626",
-        "57706",
-        "57718",
-        "57736",
-        "57737",
+        "57748",
         "57758",
-        "57765",
-        "57777",
         "57787",
-        "57792",
-        "577HH"
+        "57792"
       ]
     },
     {
@@ -60,11 +103,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57634",
         "57638",
-        "57640",
-        "57644",
-        "57649",
-        "57653"
+        "57645",
+        "57660"
       ]
     },
     {
@@ -75,10 +117,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57621",
         "57633",
-        "57636",
+        "57641",
         "57652",
         "57656",
+        "57657",
         "57661"
       ]
     },
@@ -90,11 +134,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "57537",
+        "57622",
         "57625",
-        "57633",
-        "57636",
-        "57652",
-        "57661"
+        "57636"
       ]
     },
     {
@@ -108,8 +151,7 @@
         "57620",
         "57640",
         "57644",
-        "57649",
-        "57653"
+        "57649"
       ]
     }
   ]

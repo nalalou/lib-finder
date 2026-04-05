@@ -1,6 +1,82 @@
 {
   "libraries": [
     {
+      "name": "FLINT RIVER REGIONAL LIBRARY SYSTEM",
+      "system": "FLINT RIVER REGIONAL LIBRARY SYSTEM",
+      "address": "800 MEMORIAL DRIVE, GRIFFIN, GA",
+      "website": "https://public-libraries.com/spalding/griffin/flint-river-regional-library-spalding-griffin/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30204",
+        "30205",
+        "30206",
+        "30223",
+        "30224",
+        "30256",
+        "30257",
+        "30285",
+        "30292",
+        "30295",
+        "31097"
+      ]
+    },
+    {
+      "name": "PINE MOUNTAIN REGIONAL LIBRARY SYSTEM",
+      "system": "PINE MOUNTAIN REGIONAL LIBRARY SYSTEM",
+      "address": "218 W. PERRY STREET, MANCHESTER, GA",
+      "website": "https://www.pinemtnlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30218",
+        "30222",
+        "30251",
+        "30258",
+        "30286",
+        "30293",
+        "31039",
+        "31058",
+        "31810",
+        "31812",
+        "31816",
+        "31823",
+        "31826",
+        "31827",
+        "31830",
+        "31831",
+        "31836"
+      ]
+    },
+    {
+      "name": "JEFFERSON COUNTY LIBRARY SYSTEM",
+      "system": "JEFFERSON COUNTY LIBRARY SYSTEM",
+      "address": "306 E. BROAD STREET, LOUISVILLE, GA",
+      "website": "https://www.jeffersoncls.org/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30413",
+        "30434",
+        "30441",
+        "30477",
+        "30803",
+        "30810",
+        "30816",
+        "30818",
+        "30820",
+        "30823",
+        "30830",
+        "30833",
+        "31018",
+        "31035",
+        "31045",
+        "31049",
+        "31082",
+        "31094"
+      ]
+    },
+    {
       "name": "MIDDLE GEORGIA REGIONAL LIBRARY SYSTEM",
       "system": "MIDDLE GEORGIA REGIONAL LIBRARY SYSTEM",
       "address": "1180 WASHINGTON AVENUE, MACON, GA",
@@ -8,7 +84,17 @@
       "formUrl": "https://bibblib.org/services/interlibrary_loan_program.php",
       "formStatus": "verified",
       "zipcodes": [
+        "31020",
+        "31029",
+        "31031",
+        "31032",
+        "31033",
+        "31038",
+        "31044",
+        "31046",
         "31052",
+        "31054",
+        "31061",
         "31201",
         "31204",
         "31206",
@@ -16,8 +102,7 @@
         "31211",
         "31216",
         "31217",
-        "31220",
-        "312HH"
+        "31220"
       ]
     },
     {
@@ -28,10 +113,45 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "31001",
         "31011",
         "31012",
+        "31014",
         "31023",
-        "31077"
+        "31037",
+        "31055",
+        "31060",
+        "31071",
+        "31072",
+        "31077",
+        "31079",
+        "31083"
+      ]
+    },
+    {
+      "name": "HOUSTON COUNTY PUBLIC LIBRARY",
+      "system": "HOUSTON COUNTY PUBLIC LIBRARY",
+      "address": "1201 WASHINGTON STREET, PERRY, GA",
+      "website": "https://houstoncountytnlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31005",
+        "31025",
+        "31028",
+        "31036",
+        "31047",
+        "31063",
+        "31069",
+        "31070",
+        "31088",
+        "31091",
+        "31092",
+        "31093",
+        "31098",
+        "37061",
+        "37175",
+        "37178"
       ]
     },
     {
@@ -43,13 +163,21 @@
       "formStatus": "unknown",
       "zipcodes": [
         "30454",
+        "31002",
+        "31003",
         "31009",
+        "31017",
         "31019",
         "31021",
         "31022",
         "31027",
+        "31042",
         "31065",
-        "31075"
+        "31067",
+        "31075",
+        "31089",
+        "31090",
+        "31096"
       ]
     },
     {
@@ -60,8 +188,81 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "31006",
         "31008",
-        "31030"
+        "31016",
+        "31030",
+        "31050",
+        "31057",
+        "31066",
+        "31076",
+        "31078"
+      ]
+    },
+    {
+      "name": "AZALEA REGIONAL LIBRARY SYSTEM",
+      "system": "AZALEA REGIONAL LIBRARY SYSTEM",
+      "address": "1121 EAST AVENUE, MADISON, GA",
+      "website": "https://www.azalealibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30625",
+        "30641",
+        "30642",
+        "30650",
+        "30663",
+        "30665",
+        "30669",
+        "30678",
+        "31024",
+        "31085",
+        "31087"
+      ]
+    },
+    {
+      "name": "NEWTON COUNTY LIBRARY SYSTEM",
+      "system": "NEWTON COUNTY LIBRARY SYSTEM",
+      "address": "7116 FLOYD STREET, COVINGTON, GA",
+      "website": "https://newtonlibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30014",
+        "30016",
+        "30025",
+        "30054",
+        "30055",
+        "30056",
+        "30070",
+        "30655",
+        "31064"
+      ]
+    },
+    {
+      "name": "LAKE BLACKSHEAR REGIONAL LIBRARY SYSTEM",
+      "system": "LAKE BLACKSHEAR REGIONAL LIBRARY SYSTEM",
+      "address": "307 EAST LAMAR STREET, AMERICUS, GA",
+      "website": "https://www.lbrls.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31007",
+        "31015",
+        "31041",
+        "31051",
+        "31068",
+        "31081",
+        "31709",
+        "31711",
+        "31735",
+        "31743",
+        "31764",
+        "31780",
+        "31803",
+        "31806",
+        "31824",
+        "31825"
       ]
     }
   ]

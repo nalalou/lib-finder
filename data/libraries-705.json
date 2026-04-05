@@ -8,7 +8,12 @@
       "formUrl": "https://jdplibrary.org/",
       "formStatus": "verified",
       "zipcodes": [
-        "70546"
+        "70531",
+        "70537",
+        "70542",
+        "70546",
+        "70556",
+        "70581"
       ]
     },
     {
@@ -19,7 +24,14 @@
       "formUrl": "https://evangelinelibrary.org/request-a-book/",
       "formStatus": "verified",
       "zipcodes": [
-        "70586"
+        "70524",
+        "70576",
+        "70580",
+        "70585",
+        "70586",
+        "71322",
+        "71356",
+        "71367"
       ]
     },
     {
@@ -30,6 +42,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "70517",
+        "70518",
         "70582"
       ]
     },
@@ -41,7 +55,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70510"
+        "70510",
+        "70528",
+        "70533",
+        "70548",
+        "70555",
+        "70558"
       ]
     },
     {
@@ -52,7 +71,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70526"
+        "70526",
+        "70531",
+        "70534",
+        "70543",
+        "70559",
+        "70578"
       ]
     },
     {
@@ -63,7 +87,11 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70560"
+        "70513",
+        "70544",
+        "70552",
+        "70560",
+        "70563"
       ]
     },
     {
@@ -74,7 +102,38 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "70514",
+        "70523",
         "70538"
+      ]
+    },
+    {
+      "name": "LAFAYETTE PUBLIC LIBRARY",
+      "system": "LAFAYETTE PUBLIC LIBRARY",
+      "address": "301 W CONGRESS ST, LAFAYETTE, LA",
+      "website": "https://lafayetteco.gov/2570/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13063",
+        "13084",
+        "13110",
+        "13120",
+        "70501",
+        "70503",
+        "70506",
+        "70507",
+        "70508",
+        "70518",
+        "70520",
+        "70529",
+        "70558",
+        "70583",
+        "70592",
+        "80026",
+        "80301",
+        "80303",
+        "80516"
       ]
     },
     {
@@ -85,7 +144,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70546"
+        "70531",
+        "70537",
+        "70546",
+        "70549",
+        "70556",
+        "70581",
+        "70591",
+        "70640",
+        "70643",
+        "70646",
+        "70650"
       ]
     },
     {
@@ -96,7 +165,12 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "70570"
+        "70541",
+        "70550",
+        "70570",
+        "70577",
+        "70589",
+        "71345"
       ]
     },
     {
@@ -107,7 +181,48 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "70507",
+        "70512",
+        "70520",
+        "70525",
+        "70541",
         "70584"
+      ]
+    },
+    {
+      "name": "EUNICE PUBLIC LIBRARY",
+      "system": "EUNICE PUBLIC LIBRARY",
+      "address": "222 SOUTH SECOND STREET, EUNICE, LA",
+      "website": "https://cityofeunice.org/131/Eunice-Public-Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70515",
+        "70516",
+        "70524",
+        "70535",
+        "70554",
+        "88231"
+      ]
+    },
+    {
+      "name": "ALLEN PARISH LIBRARIES",
+      "system": "ALLEN PARISH LIBRARIES",
+      "address": "320 SOUTH SIXTH ST., OBERLIN, LA",
+      "website": "https://www.allen.lib.la.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70532",
+        "70637",
+        "70638",
+        "70644",
+        "70648",
+        "70651",
+        "70654",
+        "70655",
+        "70658",
+        "71463"
       ]
     }
   ]

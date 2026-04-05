@@ -28,10 +28,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "81401",
-        "81411",
-        "81422",
-        "81425",
-        "81431"
+        "81425"
       ]
     },
     {
@@ -43,9 +40,7 @@
       "formStatus": "verified",
       "zipcodes": [
         "81325",
-        "81423",
-        "81426",
-        "81430"
+        "81423"
       ]
     },
     {
@@ -59,7 +54,6 @@
         "81411",
         "81422",
         "81424",
-        "81425",
         "81431"
       ]
     },
@@ -82,8 +76,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "81433",
-        "814XX"
+        "81433"
       ]
     },
     {
@@ -94,7 +87,6 @@
       "formUrl": "https://telluridelibrary.org/books-more/purchase-suggestion-form/",
       "formStatus": "verified",
       "zipcodes": [
-        "81325",
         "81426",
         "81430",
         "81435"
@@ -121,9 +113,9 @@
       "name": "RIDGWAY PUBLIC LIBRARY DISTRICT",
       "system": "RIDGWAY PUBLIC LIBRARY DISTRICT",
       "address": "300 CHARLES STREET, RIDGWAY, CO",
-      "website": "https://www.ridgwaycolibrary.org/",
-      "formUrl": "https://www.ridgwaycolibrary.org/item-purchase-suggestion-0c68b3a",
-      "formStatus": "verified",
+      "website": "https://ridgway.colibraries.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
         "81432"
       ]

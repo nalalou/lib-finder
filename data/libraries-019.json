@@ -1,6 +1,35 @@
 {
   "libraries": [
     {
+      "name": "SALEM PUBLIC LIBRARY",
+      "system": "SALEM PUBLIC LIBRARY",
+      "address": "585 LIBERTY ST SE, SALEM, OR",
+      "website": "https://salempl.org/",
+      "formUrl": "https://salempl.org/purchase-suggestion/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "01960",
+        "01970",
+        "24015",
+        "24017",
+        "24153",
+        "44408",
+        "44460",
+        "44490",
+        "44625",
+        "44634",
+        "65440",
+        "65501",
+        "65541",
+        "65560",
+        "97301",
+        "97302",
+        "97303",
+        "97305",
+        "97306"
+      ]
+    },
+    {
       "name": "AMESBURY PUBLIC LIBRARY",
       "system": "AMESBURY PUBLIC LIBRARY",
       "address": "149 MAIN ST., AMESBURY, MA",
@@ -8,21 +37,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01913",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01913"
       ]
     },
     {
@@ -33,21 +48,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
         "01915",
-        "01951",
-        "01960",
-        "01966",
         "01970",
-        "01984",
-        "019HH"
+        "01984"
       ]
     },
     {
@@ -58,21 +61,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01921",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01845",
+        "01921"
       ]
     },
     {
@@ -83,21 +73,9 @@
       "formUrl": "https://danverslibrary.org/interlibrary-loan/",
       "formStatus": "verified",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
         "01923",
-        "01951",
         "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01984"
       ]
     },
     {
@@ -108,21 +86,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01929",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01929"
       ]
     },
     {
@@ -133,21 +97,7 @@
       "formUrl": "https://sawyerfreelibrary.org/discover/services-for-you/request-a-book/",
       "formStatus": "verified",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01930",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01930"
       ]
     },
     {
@@ -158,46 +108,20 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01938",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01938"
       ]
     },
     {
       "name": "LYNN PUBLIC LIBRARY",
       "system": "LYNN PUBLIC LIBRARY",
       "address": "5 NORTH COMMON ST., LYNN, MA",
-      "website": "https://lynnpubliclibrary.org/",
-      "formUrl": "https://lynnpubliclibrary.org/interlibrary-loans",
-      "formStatus": "verified",
+      "website": "https://www.noblenet.org/lynn/",
+      "formUrl": null,
+      "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
         "01902",
         "01904",
-        "01905",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01905"
       ]
     },
     {
@@ -208,21 +132,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01940",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01940"
       ]
     },
     {
@@ -233,21 +143,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01944",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01944"
       ]
     },
     {
@@ -258,21 +154,8 @@
       "formUrl": "https://abbotlibrary.org/what-we-offer/interlibrary-loan/",
       "formStatus": "verified",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
         "01945",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01970"
       ]
     },
     {
@@ -283,21 +166,7 @@
       "formUrl": "https://flintlibrary.org/index.php/suggest-a-title/",
       "formStatus": "verified",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01949",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01949"
       ]
     },
     {
@@ -308,21 +177,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01908",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01908"
       ]
     },
     {
@@ -333,21 +188,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01922",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01922"
       ]
     },
     {
@@ -358,21 +199,20 @@
       "formUrl": "https://newburyportpl.org/kids-teens/visit-the-childrens-room/find-a-great-book/",
       "formStatus": "verified",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
         "01950",
-        "01951",
-        "01960",
+        "01951"
+      ]
+    },
+    {
+      "name": "ROCKPORT PUBLIC LIBRARY",
+      "system": "ROCKPORT PUBLIC LIBRARY",
+      "address": "17 SCHOOL STREET, ROCKPORT, MA",
+      "website": "https://www.rockportlibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
         "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "04856"
       ]
     },
     {
@@ -383,21 +223,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
         "01951",
-        "01960",
-        "01966",
-        "01969",
-        "01970",
-        "01984",
-        "019HH"
+        "01969"
       ]
     },
     {
@@ -408,21 +235,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
         "01951",
-        "01952",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01952"
       ]
     },
     {
@@ -433,21 +247,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
         "01904",
         "01905",
-        "01906",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01906"
       ]
     },
     {
@@ -458,21 +260,9 @@
       "formUrl": "https://swampscottlibrary.org/forms/purchase-request/",
       "formStatus": "verified",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
         "01904",
         "01905",
-        "01907",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01907"
       ]
     },
     {
@@ -483,21 +273,7 @@
       "formUrl": "https://topsfieldlibrary.org/borrow/suggestapurchase/",
       "formStatus": "verified",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01983",
-        "01984",
-        "019HH"
+        "01983"
       ]
     },
     {
@@ -508,21 +284,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "01985",
-        "019HH"
+        "01985"
       ]
     },
     {
@@ -533,196 +295,8 @@
       "formUrl": "https://hwlibrary.org/interlibrary-loan/",
       "formStatus": "verified",
       "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
         "01982",
-        "01984",
-        "019HH"
-      ]
-    },
-    {
-      "name": "STEVENS MEMORIAL LIBRARY",
-      "system": "STEVENS MEMORIAL LIBRARY",
-      "address": "345 MAIN STREET, NORTH ANDOVER, MA",
-      "website": "https://www.stevensmemlib.org/",
-      "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfN97mZwkNcMdp6AgWDCi_GUVACwqoD1WuomPBPsdwlBQhMAw/viewform?usp=sf_link",
-      "formStatus": "verified",
-      "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "01845",
-        "018HH",
-        "01904",
-        "01905",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
-      ]
-    },
-    {
-      "name": "MEMORIAL HALL LIBRARY",
-      "system": "MEMORIAL HALL LIBRARY",
-      "address": "2 NORTH MAIN STREET, ANDOVER, MA",
-      "website": "https://www.mhl.org/",
-      "formUrl": "https://mhl.org/borrow/on-the-shelves/interlibrary-loan-requesting-an-item",
-      "formStatus": "verified",
-      "zipcodes": [
-        "01810",
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
-      ]
-    },
-    {
-      "name": "GEORGETOWN PEABODY LIBRARY",
-      "system": "GEORGETOWN PEABODY LIBRARY",
-      "address": "2 MAPLE ST, GEORGETOWN, MA",
-      "website": "https://georgetownpl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01832",
-        "01833",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
-      ]
-    },
-    {
-      "name": "LANGLEY ADAMS LIBRARY",
-      "system": "LANGLEY ADAMS LIBRARY",
-      "address": "185 MAIN STREET, GROVELAND, MA",
-      "website": "https://langleyadamslib.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "01832",
-        "01834",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
-      ]
-    },
-    {
-      "name": "HAVERHILL PUBLIC LIBRARY",
-      "system": "HAVERHILL PUBLIC LIBRARY",
-      "address": "99 MAIN ST., HAVERHILL, MA",
-      "website": "https://haverhillpl.org/",
-      "formUrl": "https://haverhillpl.org/purchase-request/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "01830",
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "018HH",
-        "01904",
-        "01905",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
-      ]
-    },
-    {
-      "name": "MERRIMAC PUBLIC LIBRARY",
-      "system": "MERRIMAC PUBLIC LIBRARY",
-      "address": "86 WEST MAIN ST., MERRIMAC, MA",
-      "website": "https://merrimaclibrary.org/",
-      "formUrl": "https://merrimaclibrary.org/interlibrary-loans/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "01860",
-        "018HH",
-        "01904",
-        "01905",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
-      ]
-    },
-    {
-      "name": "NEVINS MEMORIAL LIBRARY",
-      "system": "NEVINS MEMORIAL LIBRARY",
-      "address": "305 BROADWAY, METHUEN, MA",
-      "website": "https://www.nevinslibrary.org/",
-      "formUrl": "https://www.nevinslibrary.org/services/purchase-request/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "01832",
-        "01835",
-        "01840",
-        "01841",
-        "01843",
-        "01844",
-        "018HH",
-        "01904",
-        "01905",
-        "01951",
-        "01960",
-        "01966",
-        "01970",
-        "01984",
-        "019HH"
+        "01984"
       ]
     }
   ]

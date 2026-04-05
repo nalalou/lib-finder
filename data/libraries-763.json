@@ -1,27 +1,14 @@
 {
   "libraries": [
     {
-      "name": "LIBRARY OF GRAHAM",
-      "system": "LIBRARY OF GRAHAM",
-      "address": "910 CHERRY ST, GRAHAM, TX",
-      "website": "https://libraryofgrahamtx.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "76372",
-        "76450",
-        "76460",
-        "76481"
-      ]
-    },
-    {
       "name": "EDWARDS PUBLIC LIBRARY",
       "system": "EDWARDS PUBLIC LIBRARY",
-      "address": "210 W GILBERT ST, HENRIETTA, TX",
+      "address": "30 EAST STREET, SOUTHAMPTON, MA",
       "website": "https://southamptonlibrary.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "01073",
         "76228",
         "76357",
         "76365",
@@ -36,13 +23,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76302",
-        "76305",
-        "76306",
-        "76308",
-        "76309",
-        "76310",
-        "76311",
         "76360"
       ]
     },
@@ -58,9 +38,7 @@
         "76366",
         "76370",
         "76379",
-        "76389",
-        "763HH",
-        "763XX"
+        "76389"
       ]
     },
     {
@@ -71,12 +49,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76302",
-        "76305",
         "76306",
-        "76308",
         "76309",
-        "76310",
         "76311",
         "76367"
       ]
@@ -104,9 +78,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "76372",
-        "76374",
-        "76460",
-        "76481"
+        "76374"
       ]
     },
     {
@@ -160,12 +132,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "76302",
-        "76305",
-        "76306",
-        "76308",
-        "76309",
-        "76310",
         "76311",
         "76354"
       ]

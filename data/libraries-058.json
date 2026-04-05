@@ -1,60 +1,6 @@
 {
   "libraries": [
     {
-      "name": "MCINDOES ACADEMY LIBRARY",
-      "system": "MCINDOES ACADEMY LIBRARY",
-      "address": "37 ACADEMY LANE, MCINDOE FALLS, VT",
-      "website": "https://librarytechnology.org/library/25208",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "05050",
-        "056HH",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "GROTON FREE PUBLIC",
-      "system": "GROTON FREE PUBLIC",
-      "address": "1304 SCOTT HWY., GROTON, VT",
-      "website": "https://grotonlibraryvt.org/",
-      "formUrl": "https://grotonlibraryvt.org/purchase-requests/",
-      "formStatus": "verified",
-      "zipcodes": [
-        "05042",
-        "05046",
-        "056HH",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "SOUTH RYEGATE PUBLIC",
-      "system": "SOUTH RYEGATE PUBLIC",
-      "address": "140 CHURCH ST., SOUTH RYEGATE, VT",
-      "website": "https://www.chamberofcommerce.com/business-directory/vermont/south-ryegate/library/2028506238-south-ryegate-public",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05042",
-        "05069",
-        "056HH",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
       "name": "BARNET PUBLIC",
       "system": "BARNET PUBLIC",
       "address": "147 CHURCH ST., BARNET, VT",
@@ -62,14 +8,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05042",
-        "056HH",
-        "05821",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
+        "05821"
       ]
     },
     {
@@ -81,14 +20,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05822",
-        "05825",
-        "05833",
-        "05842",
-        "05845",
-        "05853",
-        "05857",
-        "05868",
-        "05872",
         "05875"
       ]
     },
@@ -101,15 +32,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05825",
-        "05833",
-        "05842",
         "05845",
-        "05853",
-        "05857",
         "05860",
-        "05868",
-        "05872",
-        "05875"
+        "05872"
       ]
     },
     {
@@ -120,13 +45,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05824",
         "05837",
-        "05840",
         "05846",
-        "05858",
-        "05902",
-        "05904",
         "05907"
       ]
     },
@@ -138,14 +58,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05042",
-        "056HH",
         "05832",
-        "05836",
         "05866",
         "05867",
-        "05871",
-        "058HH"
+        "05871"
       ]
     },
     {
@@ -156,16 +72,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05825",
         "05827",
-        "05833",
-        "05842",
-        "05845",
-        "05853",
-        "05857",
-        "05868",
-        "05872",
-        "05875"
+        "05842"
       ]
     },
     {
@@ -176,14 +84,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05042",
-        "056HH",
-        "05828",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
+        "05828"
       ]
     },
     {
@@ -194,16 +95,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05825",
         "05829",
         "05833",
-        "05842",
-        "05845",
         "05853",
-        "05857",
-        "05868",
-        "05872",
-        "05875"
+        "05872"
       ]
     },
     {
@@ -214,16 +109,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05825",
-        "05830",
-        "05833",
-        "05842",
-        "05845",
-        "05853",
-        "05857",
-        "05868",
-        "05872",
-        "05875"
+        "05830"
       ]
     },
     {
@@ -234,15 +120,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05825",
-        "05833",
         "05839",
-        "05842",
-        "05845",
-        "05853",
-        "05857",
-        "05868",
-        "05872",
         "05875"
       ]
     },
@@ -254,16 +132,8 @@
       "formUrl": "https://www.greensborofreelibrary.org/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "05825",
-        "05833",
         "05841",
-        "05842",
-        "05845",
-        "05853",
-        "05857",
-        "05868",
-        "05872",
-        "05875"
+        "05842"
       ]
     },
     {
@@ -274,14 +144,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05042",
-        "056HH",
-        "05832",
         "05836",
-        "05843",
-        "05866",
-        "05867",
-        "058HH"
+        "05843"
       ]
     },
     {
@@ -293,15 +157,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05825",
-        "05833",
-        "05842",
         "05845",
-        "05849",
-        "05853",
-        "05857",
-        "05868",
-        "05872",
-        "05875"
+        "05849"
       ]
     },
     {
@@ -312,16 +169,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05825",
-        "05833",
-        "05842",
-        "05845",
         "05847",
-        "05853",
-        "05857",
-        "05868",
-        "05872",
-        "05875"
+        "05868"
       ]
     },
     {
@@ -332,14 +181,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05042",
-        "056HH",
         "05832",
-        "05836",
         "05851",
         "05866",
-        "05867",
-        "058HH"
+        "05867"
       ]
     },
     {
@@ -351,15 +196,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05825",
-        "05833",
-        "05842",
-        "05845",
-        "05853",
         "05855",
         "05857",
-        "05868",
-        "05872",
-        "05875"
+        "05872"
       ]
     },
     {
@@ -370,14 +209,7 @@
       "formUrl": "https://www.peachamlibrary.org/interlibrary-loan/",
       "formStatus": "verified",
       "zipcodes": [
-        "05042",
-        "056HH",
-        "05832",
-        "05836",
-        "05862",
-        "05866",
-        "05867",
-        "058HH"
+        "05862"
       ]
     },
     {
@@ -388,14 +220,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05042",
-        "056HH",
-        "05819",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
+        "05819"
       ]
     },
     {
@@ -406,16 +231,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05825",
-        "05833",
-        "05842",
-        "05845",
-        "05853",
         "05857",
         "05859",
-        "05868",
-        "05872",
-        "05875"
+        "05868"
       ]
     },
     {
@@ -426,14 +244,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05042",
-        "056HH",
-        "05832",
         "05836",
-        "05866",
-        "05867",
-        "05873",
-        "058HH"
+        "05873"
       ]
     },
     {
@@ -444,14 +256,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05042",
-        "056HH",
-        "05832",
-        "05836",
-        "05848",
-        "05866",
-        "05867",
-        "058HH"
+        "05848"
       ]
     },
     {
@@ -462,16 +267,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05825",
-        "05833",
-        "05842",
-        "05845",
-        "05853",
         "05857",
         "05868",
-        "05872",
-        "05874",
-        "05875"
+        "05874"
       ]
     },
     {
@@ -483,15 +281,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05820",
-        "05825",
-        "05833",
-        "05842",
-        "05845",
-        "05853",
-        "05857",
-        "05868",
-        "05872",
-        "05875"
+        "05845"
       ]
     },
     {
@@ -502,15 +292,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05825",
         "05826",
-        "05833",
         "05842",
-        "05845",
-        "05853",
-        "05857",
-        "05868",
-        "05872",
         "05875"
       ]
     },
@@ -522,50 +305,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "05042",
-        "056HH",
         "05828",
-        "05832",
-        "05836",
-        "05866",
-        "05867",
-        "058HH"
-      ]
-    },
-    {
-      "name": "ALICE M. WARD MEMORIAL",
-      "system": "ALICE M. WARD MEMORIAL",
-      "address": "27 PARK ST., CANAAN, VT",
-      "website": "https://www.aliceward.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05824",
-        "05837",
-        "05840",
-        "05858",
-        "05902",
-        "05903",
-        "05904",
-        "05907"
-      ]
-    },
-    {
-      "name": "GUILDHALL PUBLIC",
-      "system": "GUILDHALL PUBLIC",
-      "address": "RTE. 102 N, GUILDHALL, VT",
-      "website": "https://librarytechnology.org/library/25258",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "05824",
-        "05837",
-        "05840",
-        "05858",
-        "05902",
-        "05904",
-        "05905",
-        "05907"
+        "05836"
       ]
     },
     {
@@ -577,13 +318,9 @@
       "formStatus": "unknown",
       "zipcodes": [
         "05824",
-        "05837",
-        "05840",
         "05858",
-        "05902",
         "05904",
-        "05906",
-        "05907"
+        "05906"
       ]
     }
   ]

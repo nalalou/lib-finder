@@ -1,36 +1,6 @@
 {
   "libraries": [
     {
-      "name": "CANTON PUBLIC LIBRARY",
-      "system": "CANTON PUBLIC LIBRARY",
-      "address": "1200 SOUTH CANTON CENTER ROAD, CANTON, MI",
-      "website": "https://cantonpubliclibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "48188",
-        "57013",
-        "57027",
-        "57077",
-        "57108"
-      ]
-    },
-    {
-      "name": "HUDSON PUBLIC LIBRARY",
-      "system": "HUDSON PUBLIC LIBRARY",
-      "address": "316 WHEELOCK, HUDSON, SD",
-      "website": "https://www.townofhudson.org/159/Hudson-Public-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57013",
-        "57027",
-        "57034",
-        "57077",
-        "57108"
-      ]
-    },
-    {
       "name": "SIOUXLAND LIBRARIES",
       "system": "SIOUXLAND LIBRARIES",
       "address": "200 NORTH DAKOTA AVE, SIOUX FALLS, SD",
@@ -38,14 +8,10 @@
       "formUrl": "https://www.siouxlandlib.org/books-and-more/purchase-suggestion",
       "formStatus": "verified",
       "zipcodes": [
-        "57003",
         "57005",
-        "57018",
         "57020",
-        "57030",
         "57033",
         "57035",
-        "57041",
         "57055",
         "57068",
         "57103",
@@ -58,48 +24,6 @@
       ]
     },
     {
-      "name": "DELL RAPIDS CARNEGIE PUBLIC LIBRARY",
-      "system": "DELL RAPIDS CARNEGIE PUBLIC LIBRARY",
-      "address": "513 N ORLEANS AVENUE, DELL RAPIDS, SD",
-      "website": "https://www.cityofdellrapids.org/departments/dell_rapids_carnegie_library/index.php",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57003",
-        "57005",
-        "57018",
-        "57020",
-        "57022",
-        "57030",
-        "57033",
-        "57035",
-        "57041",
-        "57055",
-        "57068",
-        "57103",
-        "57104",
-        "57105",
-        "57106",
-        "57107",
-        "57110"
-      ]
-    },
-    {
-      "name": "LENNOX COMMUNITY LIBRARY",
-      "system": "LENNOX COMMUNITY LIBRARY",
-      "address": "208 W. 5TH STREET, LENNOX, SD",
-      "website": "https://www.cityoflennoxsd.com/page/lennox-community-library/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "57013",
-        "57027",
-        "57039",
-        "57077",
-        "57108"
-      ]
-    },
-    {
       "name": "HARRISBURG COMMUNITY LIBRARY",
       "system": "HARRISBURG COMMUNITY LIBRARY",
       "address": "200 WILLOW STREET, ROOM C100, HARRISBURG, SD",
@@ -107,8 +31,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57013",
-        "57027",
         "57032",
         "57077",
         "57108"
@@ -122,10 +44,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "57013",
-        "57027",
         "57064",
-        "57077",
         "57108"
       ]
     }

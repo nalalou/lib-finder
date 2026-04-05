@@ -1,40 +1,52 @@
 {
   "libraries": [
     {
+      "name": "WINFIELD PUBLIC LIBRARY",
+      "system": "WINFIELD PUBLIC LIBRARY",
+      "address": "185 ASHWOOD DRIVE, WINFIELD, AL",
+      "website": "https://wpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35548",
+        "35594",
+        "37841",
+        "37892",
+        "52644",
+        "52647",
+        "52654",
+        "52659",
+        "60190",
+        "60504",
+        "60519",
+        "60563",
+        "67019",
+        "67023",
+        "67038",
+        "67156"
+      ]
+    },
+    {
       "name": "FALL RIVER PUBLIC LIBRARY",
       "system": "FALL RIVER PUBLIC LIBRARY",
-      "address": "314 MERCHANT AVE., FALL RIVER, KS",
+      "address": "104 NORTH MAIN ST., FALL RIVER, MA",
       "website": "https://fallriverlibrary.org/",
       "formUrl": "https://fallriverlibrary.org/suggest-an-item/",
       "formStatus": "verified",
       "zipcodes": [
-        "02048",
-        "02375",
-        "02702",
-        "02718",
         "02720",
         "02721",
         "02723",
         "02724",
         "02725",
-        "02726",
-        "02744",
-        "02745",
-        "02746",
-        "02747",
-        "02760",
-        "02763",
-        "02764",
-        "02766",
-        "02779",
-        "027HH",
-        "67047"
+        "67047",
+        "67137"
       ]
     },
     {
       "name": "CALDWELL PUBLIC LIBRARY",
       "system": "CALDWELL PUBLIC LIBRARY",
-      "address": "120 S. MAIN ST., CALDWELL, KS",
+      "address": "517 SPRUCE ST., CALDWELL, OH",
       "website": "https://caldwell.lib.oh.us/",
       "formUrl": null,
       "formStatus": "unknown",
@@ -48,14 +60,43 @@
       ]
     },
     {
+      "name": "ANDOVER PUBLIC LIBRARY",
+      "system": "ANDOVER PUBLIC LIBRARY",
+      "address": "142 W MAIN ST, ANDOVER, OH",
+      "website": "https://www.andoverconnecticut.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03216",
+        "03233",
+        "03287",
+        "04216",
+        "04226",
+        "04237",
+        "04275",
+        "06231",
+        "06232",
+        "44003",
+        "44032",
+        "44093",
+        "67002",
+        "67017"
+      ]
+    },
+    {
       "name": "LINCOLN LIBRARY",
       "system": "LINCOLN LIBRARY",
-      "address": "201 N. MAIN, MEDICINE LODGE, KS",
+      "address": "326 SOUTH SEVENTH STREET, SPRINGFIELD, IL",
       "website": "https://directory.sckls.info/library/?show=78",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67061",
+        "62625",
+        "62701",
+        "62702",
+        "62703",
+        "62704",
+        "62707",
         "67065",
         "67071",
         "67104",
@@ -71,14 +112,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66858",
-        "66859",
         "67053",
+        "67073"
+      ]
+    },
+    {
+      "name": "HILLSBORO PUBLIC LIBRARY",
+      "system": "HILLSBORO PUBLIC LIBRARY",
+      "address": "120 E. GRAND AVE., HILLSBORO, KS",
+      "website": "https://www.hillsboro-oregon.gov/departments/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54634",
         "67063",
         "67073",
         "67438",
-        "67475",
-        "67483"
+        "67483",
+        "97123",
+        "97124"
       ]
     },
     {
@@ -89,12 +141,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67057",
-        "67061",
-        "67065",
-        "67071",
-        "67138",
-        "67143"
+        "67057"
       ]
     },
     {
@@ -105,32 +152,25 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67035",
-        "67111",
-        "67112",
-        "67128",
-        "67142"
+        "67035"
       ]
     },
     {
       "name": "LEON PUBLIC LIBRARY",
       "system": "LEON PUBLIC LIBRARY",
-      "address": "200 W 1ST ST, LEON, IA",
+      "address": "711 N. WEST ST., LEON, KS",
       "website": "https://cityofleon.org/library-2",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "50065",
+        "50067",
+        "50108",
         "50144",
-        "66842",
-        "67002",
+        "50262",
         "67012",
-        "67017",
-        "67041",
         "67072",
-        "67074",
-        "670HH",
-        "67132",
-        "67144"
+        "67074"
       ]
     },
     {
@@ -141,12 +181,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67003",
-        "67009",
-        "67018",
-        "67036",
-        "67049",
-        "67150"
+        "67009"
       ]
     },
     {
@@ -158,12 +193,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67004",
-        "67051",
-        "67103",
-        "67105",
-        "67106",
-        "67119",
-        "67120"
+        "67105"
       ]
     },
     {
@@ -174,8 +204,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67020",
-        "67117"
+        "67020"
       ]
     },
     {
@@ -187,11 +216,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67061",
-        "67065",
-        "67070",
-        "67071",
-        "67138",
-        "67143"
+        "67070"
       ]
     },
     {
@@ -203,12 +228,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67031",
-        "67051",
         "67103",
-        "67105",
-        "67106",
-        "67119",
-        "67120"
+        "67106"
       ]
     },
     {
@@ -219,34 +240,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67016",
-        "67025",
-        "67026",
-        "67037",
-        "67067",
-        "67101",
-        "67202",
-        "67204",
-        "67205",
-        "67206",
-        "67207",
-        "67208",
-        "67209",
-        "67210",
-        "67211",
-        "67212",
-        "67213",
-        "67214",
-        "67215",
-        "67216",
-        "67217",
-        "67218",
-        "67220",
-        "67226",
-        "67230",
-        "67233",
-        "67235",
-        "672HH"
+        "67025"
       ]
     },
     {
@@ -257,12 +251,21 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67003",
-        "67018",
         "67036",
-        "67049",
-        "67058",
-        "67150"
+        "67058"
+      ]
+    },
+    {
+      "name": "CLEARWATER PUBLIC LIBRARY",
+      "system": "CLEARWATER PUBLIC LIBRARY",
+      "address": "109 E. ROSS, CLEARWATER, KS",
+      "website": "https://clearwaterpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67026",
+        "67215",
+        "68726"
       ]
     },
     {
@@ -274,33 +277,11 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67016",
-        "67026",
         "67030",
-        "67037",
-        "67067",
         "67101",
-        "67202",
-        "67204",
         "67205",
-        "67206",
-        "67207",
-        "67208",
-        "67209",
-        "67210",
-        "67211",
         "67212",
-        "67213",
-        "67214",
-        "67215",
-        "67216",
-        "67217",
-        "67218",
-        "67220",
-        "67226",
-        "67230",
-        "67233",
-        "67235",
-        "672HH"
+        "67235"
       ]
     },
     {
@@ -312,11 +293,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67013",
-        "67051",
-        "67103",
-        "67105",
-        "67106",
-        "67119",
         "67120"
       ]
     },
@@ -328,34 +304,10 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67016",
-        "67026",
-        "67037",
         "67052",
-        "67067",
-        "67101",
-        "67202",
-        "67204",
-        "67205",
-        "67206",
-        "67207",
-        "67208",
         "67209",
-        "67210",
-        "67211",
         "67212",
-        "67213",
-        "67214",
-        "67215",
-        "67216",
-        "67217",
-        "67218",
-        "67220",
-        "67226",
-        "67230",
-        "67233",
-        "67235",
-        "672HH"
+        "67235"
       ]
     },
     {
@@ -366,8 +318,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67056",
-        "67117"
+        "67056"
       ]
     },
     {
@@ -378,17 +329,26 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66842",
-        "67002",
-        "67012",
-        "67017",
-        "67039",
-        "67041",
-        "67072",
-        "67074",
-        "670HH",
-        "67132",
-        "67144"
+        "67039"
+      ]
+    },
+    {
+      "name": "ANTHONY PUBLIC LIBRARY",
+      "system": "ANTHONY PUBLIC LIBRARY",
+      "address": "624 E. MAIN ST., ANTHONY, KS",
+      "website": "https://directory.sckls.info/library/44",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "67003",
+        "67018",
+        "67049",
+        "67150",
+        "88021",
+        "88024",
+        "88027",
+        "88048",
+        "88072"
       ]
     },
     {
@@ -400,6 +360,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67062",
+        "67114",
         "67117"
       ]
     },
@@ -412,10 +373,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67068",
-        "67111",
-        "67112",
-        "67128",
-        "67142"
+        "67111"
       ]
     },
     {
@@ -439,17 +397,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66842",
         "67002",
-        "67010",
-        "67012",
-        "67017",
-        "67041",
-        "67072",
-        "67074",
-        "670HH",
-        "67132",
-        "67144"
+        "67010"
       ]
     },
     {
@@ -460,34 +409,17 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67016",
-        "67026",
-        "67037",
         "67060",
-        "67067",
-        "67101",
         "67202",
-        "67204",
-        "67205",
-        "67206",
         "67207",
-        "67208",
         "67209",
         "67210",
         "67211",
-        "67212",
         "67213",
-        "67214",
         "67215",
         "67216",
         "67217",
-        "67218",
-        "67220",
-        "67226",
-        "67230",
-        "67233",
-        "67235",
-        "672HH"
+        "67218"
       ]
     },
     {
@@ -499,54 +431,25 @@
       "formStatus": "unknown",
       "zipcodes": [
         "66842",
-        "67002",
-        "67012",
-        "67017",
-        "67041",
         "67042",
-        "67072",
-        "67074",
-        "670HH",
-        "67132",
-        "67144"
+        "67132"
       ]
     },
     {
       "name": "DERBY PUBLIC LIBRARY",
       "system": "DERBY PUBLIC LIBRARY",
-      "address": "313 ELIZABETH ST., DERBY, CT",
+      "address": "1600 E WALNUT GROVE, DERBY, KS",
       "website": "https://derbypubliclibrary.org/",
       "formUrl": "https://derbypubliclibrary.org/books-media-more/suggestion-for-purchase/",
       "formStatus": "verified",
       "zipcodes": [
-        "06418",
-        "67016",
-        "67026",
+        "06477",
         "67037",
-        "67067",
-        "67101",
-        "67202",
-        "67204",
-        "67205",
-        "67206",
         "67207",
-        "67208",
-        "67209",
         "67210",
-        "67211",
-        "67212",
-        "67213",
-        "67214",
-        "67215",
         "67216",
         "67217",
-        "67218",
-        "67220",
-        "67226",
-        "67230",
-        "67233",
-        "67235",
-        "672HH"
+        "67218"
       ]
     },
     {
@@ -557,15 +460,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67005",
-        "67008",
-        "67019",
-        "67023",
-        "67038",
-        "670XX",
-        "67102",
-        "67131",
-        "67156"
+        "67005"
       ]
     },
     {
@@ -576,11 +471,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67024",
-        "67334",
-        "67355",
-        "67360",
-        "673HH"
+        "67024"
       ]
     },
     {
@@ -591,12 +482,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66860",
-        "66863",
-        "66870",
         "67045",
-        "67122",
-        "67137"
+        "67122"
       ]
     },
     {
@@ -608,8 +495,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67029",
-        "67155",
-        "671HH"
+        "67155"
       ]
     },
     {
@@ -620,34 +506,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67016",
-        "67026",
-        "67037",
-        "67050",
-        "67067",
-        "67101",
-        "67202",
-        "67204",
-        "67205",
-        "67206",
-        "67207",
-        "67208",
-        "67209",
-        "67210",
-        "67211",
-        "67212",
-        "67213",
-        "67214",
-        "67215",
-        "67216",
-        "67217",
-        "67218",
-        "67220",
-        "67226",
-        "67230",
-        "67233",
-        "67235",
-        "672HH"
+        "67050"
       ]
     },
     {
@@ -658,72 +517,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67001",
-        "67016",
-        "67026",
-        "67037",
-        "67067",
-        "67101",
-        "67202",
-        "67204",
-        "67205",
-        "67206",
-        "67207",
-        "67208",
-        "67209",
-        "67210",
-        "67211",
-        "67212",
-        "67213",
-        "67214",
-        "67215",
-        "67216",
-        "67217",
-        "67218",
-        "67220",
-        "67226",
-        "67230",
-        "67233",
-        "67235",
-        "672HH"
-      ]
-    },
-    {
-      "name": "VIOLA TOWNSHIP",
-      "system": "VIOLA TOWNSHIP",
-      "address": "100 N. GRICE, VIOLA, KS",
-      "website": "https://directory.sckls.info/library/324",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67016",
-        "67026",
-        "67037",
-        "67067",
-        "67101",
-        "67149",
-        "67202",
-        "67204",
-        "67205",
-        "67206",
-        "67207",
-        "67208",
-        "67209",
-        "67210",
-        "67211",
-        "67212",
-        "67213",
-        "67214",
-        "67215",
-        "67216",
-        "67217",
-        "67218",
-        "67220",
-        "67226",
-        "67230",
-        "67233",
-        "67235",
-        "672HH"
+        "67001"
       ]
     },
     {
@@ -734,17 +528,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66842",
-        "67002",
-        "67012",
         "67017",
         "67041",
-        "67072",
-        "67074",
-        "670HH",
-        "67123",
-        "67132",
-        "67144"
+        "67123"
       ]
     },
     {
@@ -755,16 +541,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "66842",
-        "67002",
-        "67012",
-        "67017",
         "67041",
-        "67072",
-        "67074",
-        "670HH",
-        "67132",
-        "67144",
         "67154"
       ]
     },
@@ -777,11 +554,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67051",
-        "67103",
-        "67105",
-        "67106",
-        "67119",
-        "67120",
         "67140"
       ]
     },
@@ -794,14 +566,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67008",
-        "67019",
-        "67023",
-        "67038",
-        "670XX",
-        "67102",
         "67131",
-        "67146",
-        "67156"
+        "67146"
       ]
     },
     {
@@ -813,33 +579,23 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67016",
-        "67026",
-        "67037",
-        "67067",
-        "67101",
-        "67108",
-        "67202",
-        "67204",
-        "67205",
-        "67206",
-        "67207",
-        "67208",
-        "67209",
-        "67210",
-        "67211",
-        "67212",
-        "67213",
-        "67214",
-        "67215",
-        "67216",
-        "67217",
-        "67218",
-        "67220",
-        "67226",
-        "67230",
-        "67233",
-        "67235",
-        "672HH"
+        "67108"
+      ]
+    },
+    {
+      "name": "TOWANDA PUBLIC LIBRARY",
+      "system": "TOWANDA PUBLIC LIBRARY",
+      "address": "620 HIGHLAND, TOWANDA, KS",
+      "website": "https://towandapubliclibrary.org/services-programs/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18814",
+        "18848",
+        "18854",
+        "67002",
+        "67017",
+        "67144"
       ]
     },
     {
@@ -851,88 +607,15 @@
       "formStatus": "unknown",
       "zipcodes": [
         "67016",
-        "67026",
-        "67037",
         "67067",
         "67101",
         "67147",
-        "67202",
         "67204",
         "67205",
-        "67206",
-        "67207",
         "67208",
-        "67209",
-        "67210",
-        "67211",
-        "67212",
-        "67213",
         "67214",
-        "67215",
-        "67216",
-        "67217",
-        "67218",
         "67220",
-        "67226",
-        "67230",
-        "67233",
-        "67235",
-        "672HH"
-      ]
-    },
-    {
-      "name": "MULVANE PUBLIC LIBRARY",
-      "system": "MULVANE PUBLIC LIBRARY",
-      "address": "408 N. 2ND AVE., MULVANE, KS",
-      "website": "https://www.mulvanelibrary.org/",
-      "formUrl": "https://www.mulvanelibrary.org/request",
-      "formStatus": "verified",
-      "zipcodes": [
-        "67016",
-        "67026",
-        "67037",
-        "67067",
-        "67101",
-        "67110",
-        "67202",
-        "67204",
-        "67205",
-        "67206",
-        "67207",
-        "67208",
-        "67209",
-        "67210",
-        "67211",
-        "67212",
-        "67213",
-        "67214",
-        "67215",
-        "67216",
-        "67217",
-        "67218",
-        "67220",
-        "67226",
-        "67230",
-        "67233",
-        "67235",
-        "672HH"
-      ]
-    },
-    {
-      "name": "WELLINGTON PUBLIC",
-      "system": "WELLINGTON PUBLIC",
-      "address": "121 WEST 7TH, WELLINGTON, KS",
-      "website": "https://directory.sckls.info/library/99",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "67051",
-        "67103",
-        "67105",
-        "67106",
-        "67119",
-        "67120",
-        "67152"
+        "67226"
       ]
     },
     {
@@ -951,27 +634,6 @@
       ]
     },
     {
-      "name": "ROSE HILL PUBLIC LIBRARY",
-      "system": "ROSE HILL PUBLIC LIBRARY",
-      "address": "306 N ROSE HILL RD, ROSE HILL, KS",
-      "website": "https://rosehill.scklslibrary.info/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66842",
-        "67002",
-        "67012",
-        "67017",
-        "67041",
-        "67072",
-        "67074",
-        "670HH",
-        "67132",
-        "67133",
-        "67144"
-      ]
-    },
-    {
       "name": "WICHITA PUBLIC LIBRARY",
       "system": "WICHITA PUBLIC LIBRARY",
       "address": "711 W 2ND ST. N, WICHITA, KS",
@@ -979,11 +641,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67016",
-        "67026",
-        "67037",
         "67067",
-        "67101",
         "67202",
         "67203",
         "67204",
@@ -1004,9 +662,7 @@
         "67220",
         "67226",
         "67230",
-        "67233",
-        "67235",
-        "672HH"
+        "67235"
       ]
     },
     {
@@ -1017,88 +673,18 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "67016",
-        "67026",
-        "67037",
         "67067",
         "67101",
         "67202",
         "67204",
-        "67205",
         "67206",
-        "67207",
         "67208",
-        "67209",
-        "67210",
         "67211",
-        "67212",
         "67213",
         "67214",
-        "67215",
-        "67216",
-        "67217",
-        "67218",
         "67219",
         "67220",
-        "67226",
-        "67230",
-        "67233",
-        "67235",
-        "672HH"
-      ]
-    },
-    {
-      "name": "BURNS PUBLIC LIBRARY",
-      "system": "BURNS PUBLIC LIBRARY",
-      "address": "104 NORTH WASHINGTON AVE, BURNS, KS",
-      "website": "https://www.chamberofcommerce.com/united-states/kansas/burns/public-library/2000902030-burns-public-library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66840",
-        "66858",
-        "66859",
-        "67063",
-        "67073",
-        "67438",
-        "67475",
-        "67483"
-      ]
-    },
-    {
-      "name": "PEABODY TOWNSHIP LIBRARY",
-      "system": "PEABODY TOWNSHIP LIBRARY",
-      "address": "214 N. WALNUT, PEABODY, KS",
-      "website": "http://peabody.mykansaslibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66858",
-        "66859",
-        "66866",
-        "67063",
-        "67073",
-        "67438",
-        "67475",
-        "67483"
-      ]
-    },
-    {
-      "name": "MARION CITY LIBRARY",
-      "system": "MARION CITY LIBRARY",
-      "address": "101 LIBRARY ST, MARION, KS",
-      "website": "https://www.marionks.net/1292/Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "66858",
-        "66859",
-        "66861",
-        "67063",
-        "67073",
-        "67438",
-        "67475",
-        "67483"
+        "67226"
       ]
     }
   ]

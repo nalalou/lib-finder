@@ -1,60 +1,40 @@
 {
   "libraries": [
     {
+      "name": "SATILLA REGIONAL LIBRARY SYSTEM",
+      "system": "SATILLA REGIONAL LIBRARY SYSTEM",
+      "address": "200 S. MADISON AVENUE, SUITE D, DOUGLAS, GA",
+      "website": "https://librarytechnology.org/library/8373",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31512",
+        "31519",
+        "31532",
+        "31533",
+        "31535",
+        "31539",
+        "31544",
+        "31554",
+        "31567",
+        "31624",
+        "31642",
+        "31650",
+        "31798"
+      ]
+    },
+    {
       "name": "LEE COUNTY PUBLIC LIBRARY",
       "system": "LEE COUNTY PUBLIC LIBRARY",
-      "address": "445 OAKLAND PARKWAY, W., LEESBURG, GA",
+      "address": "255 INDUSTRIAL PARK ROAD, BEATTYVILLE, KY",
       "website": "https://librarytechnology.org/library/18565",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "31763",
+        "31787",
         "41311",
         "41397"
-      ]
-    },
-    {
-      "name": "SOUTHWEST GEORGIA REGIONAL LIBRARY SYSTEM",
-      "system": "SOUTHWEST GEORGIA REGIONAL LIBRARY SYSTEM",
-      "address": "301 S. MONROE STREET, BAINBRIDGE, GA",
-      "website": "https://www.swgrl.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "31715",
-        "31717",
-        "31725",
-        "31734",
-        "31752",
-        "39819"
-      ]
-    },
-    {
-      "name": "RODDENBERY MEMORIAL LIBRARY",
-      "system": "RODDENBERY MEMORIAL LIBRARY",
-      "address": "320 NORTH BROAD STREET, CAIRO, GA",
-      "website": "https://rmlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "31728",
-        "31729",
-        "31797",
-        "39828"
-      ]
-    },
-    {
-      "name": "KINCHAFOONEE REGIONAL LIBRARY SYSTEM",
-      "system": "KINCHAFOONEE REGIONAL LIBRARY SYSTEM",
-      "address": "913 FORRESTER DRIVE, SE, DAWSON, GA",
-      "website": "https://www.krlibrary.org/",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "31726",
-        "31742",
-        "31777",
-        "39842"
       ]
     },
     {
@@ -108,12 +88,22 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "31007",
+        "31015",
+        "31041",
+        "31051",
+        "31068",
+        "31081",
         "31709",
         "31711",
         "31735",
         "31743",
         "31764",
-        "31780"
+        "31780",
+        "31803",
+        "31806",
+        "31824",
+        "31825"
       ]
     },
     {
@@ -142,8 +132,16 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "31622",
+        "31637",
+        "31647",
         "31733",
+        "31749",
+        "31750",
+        "31774",
         "31775",
+        "31783",
+        "31790",
         "31794",
         "31795"
       ]
@@ -156,6 +154,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "31712",
+        "31714",
         "31772",
         "31781",
         "31789",

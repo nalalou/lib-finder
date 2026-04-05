@@ -8,26 +8,60 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73544",
         "73547",
+        "73550",
         "73554",
+        "73571",
         "73673"
       ]
     },
     {
-      "name": "OKEENE PUBLIC LIBRARY",
-      "system": "OKEENE PUBLIC LIBRARY",
-      "address": "215 N MAIN, OKEENE, OK",
-      "website": "https://okeene.okpls.org/",
+      "name": "SHATTUCK PUBLIC LIBRARY",
+      "system": "SHATTUCK PUBLIC LIBRARY",
+      "address": "101 SOUTH MAIN, SHATTUCK, OK",
+      "website": "https://shattuck.okpls.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73043",
-        "73646",
-        "73724",
-        "73744",
-        "73755",
-        "73763",
-        "737HH"
+        "73638",
+        "73642",
+        "73832",
+        "73840",
+        "73843",
+        "73858"
+      ]
+    },
+    {
+      "name": "MOORELAND - BEYOND THE PAGES",
+      "system": "MOORELAND - BEYOND THE PAGES",
+      "address": "223 S MAIN ST, MOORELAND, OK",
+      "website": "https://librarytechnology.org/library/199333",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73667",
+        "73835",
+        "73852",
+        "73853"
+      ]
+    },
+    {
+      "name": "FAIRVIEW CITY LIBRARY",
+      "system": "FAIRVIEW CITY LIBRARY",
+      "address": "115 S. 6TH, FAIRVIEW, OK",
+      "website": "http://www.fairviewoklibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73663",
+        "73718",
+        "73729",
+        "73737",
+        "73747",
+        "73760",
+        "73768",
+        "73838"
       ]
     },
     {
@@ -40,37 +74,26 @@
       "zipcodes": [
         "73043",
         "73646",
-        "73724",
+        "73658",
         "73744",
-        "73755",
-        "73772",
-        "737HH"
+        "73772"
       ]
     },
     {
       "name": "SAYRE PUBLIC LIBRARY",
       "system": "SAYRE PUBLIC LIBRARY",
-      "address": "113 E POPLAR, SAYRE, OK",
+      "address": "122 SOUTH ELMER AVE, SAYRE, PA",
       "website": "https://sayre.okpls.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "16914",
-        "16926",
-        "186HH",
-        "18814",
-        "18817",
-        "18829",
         "18831",
-        "18833",
-        "18837",
         "18840",
-        "18845",
-        "18846",
-        "18851",
-        "18854",
-        "188HH",
-        "73662"
+        "73627",
+        "73645",
+        "73660",
+        "73662",
+        "73666"
       ]
     },
     {
@@ -81,11 +104,15 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "73024",
         "73096",
         "73601",
         "73620",
+        "73622",
         "73625",
         "73639",
+        "73647",
+        "73659",
         "73669"
       ]
     },
@@ -97,12 +124,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "73627",
+        "73624",
+        "73626",
+        "73628",
+        "73641",
         "73644",
-        "73645",
-        "73668",
-        "736HH",
-        "736XX"
+        "73650",
+        "73654"
       ]
     },
     {
@@ -113,30 +141,13 @@
       "formUrl": "https://www.hobartlibrary.okpls.org/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "73041",
-        "730XX",
         "73559",
         "73564",
         "73566",
         "73651",
-        "73655"
-      ]
-    },
-    {
-      "name": "GEARY PUBLIC LIBRARY",
-      "system": "GEARY PUBLIC LIBRARY",
-      "address": "106 W MAIN ST, GEARY, OK",
-      "website": "https://librarytechnology.org/library/23086",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "73040",
-        "73043",
-        "73646",
-        "73724",
-        "73744",
-        "73755",
-        "737HH"
+        "73655",
+        "73661",
+        "73664"
       ]
     },
     {
@@ -149,11 +160,7 @@
       "zipcodes": [
         "73041",
         "73062",
-        "730XX",
-        "73559",
-        "73564",
-        "73566",
-        "73655"
+        "73632"
       ]
     }
   ]

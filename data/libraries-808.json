@@ -16,6 +16,53 @@
       ]
     },
     {
+      "name": "AKRON PUBLIC LIBRARY",
+      "system": "AKRON PUBLIC LIBRARY",
+      "address": "207 FIRST AVENUE SOUTH, AKRON, AL",
+      "website": "https://www.akron.lib.ia.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "35441",
+        "36776",
+        "51001",
+        "51062",
+        "80720",
+        "80740",
+        "80743",
+        "80757",
+        "80801",
+        "80812"
+      ]
+    },
+    {
+      "name": "BURLINGTON PUBLIC LIBRARY",
+      "system": "BURLINGTON PUBLIC LIBRARY",
+      "address": "34 LIBRARY LANE, BURLINGTON, CT",
+      "website": "https://burlingtonctlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01803",
+        "06013",
+        "06020",
+        "06085",
+        "52601",
+        "52623",
+        "52638",
+        "52650",
+        "52655",
+        "53105",
+        "53167",
+        "53185",
+        "80807",
+        "98232",
+        "98233",
+        "98235",
+        "98238"
+      ]
+    },
+    {
       "name": "WRAY PUBLIC LIBRARY",
       "system": "WRAY PUBLIC LIBRARY",
       "address": "301 W 7TH ST., WRAY, CO",
@@ -23,11 +70,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80727",
         "80735",
         "80755",
         "80758",
-        "80822",
         "80824"
       ]
     },
@@ -40,11 +85,8 @@
       "formStatus": "unknown",
       "zipcodes": [
         "80727",
-        "80735",
-        "80755",
         "80759",
-        "80822",
-        "80824"
+        "80822"
       ]
     },
     {
@@ -56,7 +98,6 @@
       "formStatus": "unknown",
       "zipcodes": [
         "80804",
-        "80818",
         "80821",
         "80823"
       ]
@@ -69,9 +110,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80804",
         "80818",
-        "80823",
         "80828"
       ]
     },
@@ -83,9 +122,6 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80804",
-        "80818",
-        "80823",
         "80828"
       ]
     },
@@ -98,10 +134,24 @@
       "formStatus": "unknown",
       "zipcodes": [
         "80813",
-        "80814",
         "80816",
-        "80860",
-        "80866"
+        "80860"
+      ]
+    },
+    {
+      "name": "STRATTON PUBLIC LIBRARY",
+      "system": "STRATTON PUBLIC LIBRARY",
+      "address": "331 NEW YORK AVENUE, STRATTON, CO",
+      "website": "http://www.stratton.lib.me.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04936",
+        "04982",
+        "69043",
+        "80805",
+        "80836",
+        "80861"
       ]
     },
     {
@@ -113,10 +163,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "80814",
-        "80816",
-        "80860",
-        "80863",
-        "80866"
+        "80863"
       ]
     },
     {
@@ -127,12 +174,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80805",
-        "80807",
         "80815",
-        "80834",
-        "80836",
-        "80861"
+        "80834"
       ]
     },
     {
@@ -179,16 +222,11 @@
         "80106",
         "80132",
         "80133",
-        "80808",
         "80809",
-        "80817",
         "80819",
         "80829",
         "80831",
-        "80832",
-        "80833",
         "80840",
-        "80864",
         "80903",
         "80904",
         "80905",
@@ -197,7 +235,6 @@
         "80908",
         "80909",
         "80910",
-        "80913",
         "80915",
         "80916",
         "80917",
@@ -205,12 +242,7 @@
         "80919",
         "80920",
         "80921",
-        "80922",
-        "80925",
-        "80926",
-        "80928",
-        "80929",
-        "80930"
+        "80922"
       ]
     },
     {
@@ -221,24 +253,13 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "80106",
-        "80132",
-        "80133",
         "80808",
-        "80809",
         "80817",
-        "80819",
-        "80829",
-        "80831",
         "80832",
         "80833",
-        "80840",
         "80864",
-        "80904",
         "80905",
         "80906",
-        "80907",
-        "80908",
         "80909",
         "80910",
         "80911",
@@ -246,10 +267,6 @@
         "80915",
         "80916",
         "80917",
-        "80918",
-        "80919",
-        "80920",
-        "80921",
         "80922",
         "80925",
         "80926",

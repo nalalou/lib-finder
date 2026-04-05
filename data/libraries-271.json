@@ -3,18 +3,25 @@
     {
       "name": "FORSYTH COUNTY PUBLIC LIBRARY",
       "system": "FORSYTH COUNTY PUBLIC LIBRARY",
-      "address": "585 DAHLONEGA STREET, CUMMING, GA",
+      "address": "660 W 5TH ST, WINSTON-SALEM, NC",
       "website": "https://www.forsythpl.org/cumming-library",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "27009",
         "27012",
+        "27016",
+        "27018",
+        "27019",
+        "27021",
         "27023",
         "27040",
+        "27043",
         "27045",
         "27050",
         "27051",
+        "27052",
+        "27053",
         "27101",
         "27103",
         "27104",
@@ -24,24 +31,8 @@
         "27109",
         "27127",
         "27284",
-        "30040"
-      ]
-    },
-    {
-      "name": "DAVIDSON COUNTY PUBLIC LIBRARY SYSTEM",
-      "system": "DAVIDSON COUNTY PUBLIC LIBRARY SYSTEM",
-      "address": "602 S MAIN ST, LEXINGTON, NC",
-      "website": "https://www.co.davidson.nc.us/284/Lexington-Public-Library",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "270HH",
-        "271HH",
-        "27239",
-        "27292",
-        "27295",
-        "27299",
-        "27360"
+        "30040",
+        "30041"
       ]
     }
   ]

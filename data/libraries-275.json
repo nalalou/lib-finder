@@ -1,6 +1,59 @@
 {
   "libraries": [
     {
+      "name": "WAYNE COUNTY PUBLIC LIBRARY",
+      "system": "WAYNE COUNTY PUBLIC LIBRARY",
+      "address": "157 ROLLING HILLS BLVD, MONTICELLO, KY",
+      "website": "https://www.visitwaynecountyohio.com/listing/wayne-county-public-library/93/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18405",
+        "18431",
+        "18438",
+        "18443",
+        "18456",
+        "18472",
+        "18473",
+        "25507",
+        "25511",
+        "25512",
+        "25514",
+        "25517",
+        "25530",
+        "25534",
+        "25535",
+        "25555",
+        "25570",
+        "25669",
+        "25699",
+        "25704",
+        "27530",
+        "27534",
+        "27830",
+        "27863",
+        "28333",
+        "28365",
+        "28578",
+        "38425",
+        "38450",
+        "38452",
+        "38463",
+        "38471",
+        "38485",
+        "42603",
+        "42633",
+        "44214",
+        "44217",
+        "44287",
+        "44606",
+        "44627",
+        "44676",
+        "44677",
+        "44691"
+      ]
+    },
+    {
       "name": "DURHAM COUNTY LIBRARY",
       "system": "DURHAM COUNTY LIBRARY",
       "address": "101 EAST MORGAN STREET, DURHAM, NC",
@@ -13,22 +66,23 @@
         "27703",
         "27704",
         "27705",
-        "27706",
         "27707",
         "27712",
-        "27713",
-        "277HH"
+        "27713"
       ]
     },
     {
       "name": "FRANKLIN COUNTY LIBRARY",
       "system": "FRANKLIN COUNTY LIBRARY",
-      "address": "906 N MAIN ST, LOUISBURG, NC",
+      "address": "100 E MAIN ST, MT VERNON, TX",
       "website": "https://www.franklincolibrary.com/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
+        "27508",
+        "27525",
         "27549",
+        "27596",
         "75457",
         "75480"
       ]
@@ -68,8 +122,7 @@
         "27613",
         "27614",
         "27615",
-        "27616",
-        "276HH"
+        "27616"
       ]
     },
     {
@@ -98,14 +151,12 @@
       "zipcodes": [
         "27501",
         "27505",
-        "27506",
         "27521",
         "27546",
         "28323",
         "28326",
         "28334",
-        "28339",
-        "28368"
+        "28339"
       ]
     },
     {
@@ -135,8 +186,7 @@
       "formStatus": "unknown",
       "zipcodes": [
         "27536",
-        "27544",
-        "27584"
+        "27544"
       ]
     },
     {
@@ -147,9 +197,6 @@
       "formUrl": "https://www.chapelhillpubliclibrary.org/suggest-purchase",
       "formStatus": "verified",
       "zipcodes": [
-        "27231",
-        "27243",
-        "27278",
         "27510",
         "27514",
         "27516"
@@ -166,7 +213,6 @@
         "27551",
         "27553",
         "27563",
-        "27570",
         "27589"
       ]
     },
@@ -193,32 +239,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "27504",
-        "27520",
-        "27524",
-        "27542",
-        "27555",
-        "27568",
-        "27569",
-        "27576"
-      ]
-    },
-    {
-      "name": "BRASWELL MEMORIAL PUBLIC LIBRARY",
-      "system": "BRASWELL MEMORIAL PUBLIC LIBRARY",
-      "address": "727 N GRACE ST, ROCKY MOUNT, NC",
-      "website": "https://braswell-library.libguides.com/home",
-      "formUrl": null,
-      "formStatus": "unknown",
-      "zipcodes": [
-        "27557",
-        "27803",
-        "27804",
-        "27807",
-        "27816",
-        "27878",
-        "27882",
-        "27891"
+        "27520"
       ]
     },
     {
@@ -234,9 +255,7 @@
         "27807",
         "27816",
         "27856",
-        "27878",
-        "27882",
-        "27891"
+        "27882"
       ]
     },
     {
@@ -250,11 +269,9 @@
         "27207",
         "27208",
         "27252",
-        "27256",
         "27312",
         "27344",
-        "27559",
-        "275HH"
+        "27559"
       ]
     }
   ]

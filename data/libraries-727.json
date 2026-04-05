@@ -3,12 +3,25 @@
     {
       "name": "WASHINGTON COUNTY LIBRARY SYSTEM",
       "system": "WASHINGTON COUNTY LIBRARY SYSTEM",
-      "address": "1080 WEST CLYDESDALE DR, FAYETTEVILLE, AR",
+      "address": "88 WEST 100 SOUTH, ST. GEORGE, UT",
       "website": "https://library.washco.utah.gov/st-george/",
       "formUrl": "https://library.washco.utah.gov/patron-request-for-purchase/",
       "formStatus": "verified",
       "zipcodes": [
-        "72701",
+        "72703",
+        "72704",
+        "72717",
+        "72721",
+        "72727",
+        "72729",
+        "72730",
+        "72744",
+        "72749",
+        "72753",
+        "72760",
+        "72769",
+        "72774",
+        "72959",
         "84722",
         "84725",
         "84733",
@@ -35,17 +48,11 @@
       "formUrl": "https://bentonvillelibrary.org/browse/interlibrary-loan",
       "formStatus": "verified",
       "zipcodes": [
-        "72711",
         "72712",
         "72715",
         "72718",
         "72719",
-        "72732",
-        "72739",
-        "72745",
-        "72747",
-        "72756",
-        "727HH"
+        "72739"
       ]
     },
     {
@@ -56,17 +63,10 @@
       "formUrl": "https://library.bellavistaar.gov/",
       "formStatus": "verified",
       "zipcodes": [
-        "72711",
         "72714",
         "72715",
-        "72718",
         "72719",
-        "72732",
-        "72739",
-        "72745",
-        "72747",
-        "72756",
-        "727HH"
+        "72739"
       ]
     },
     {
@@ -77,42 +77,30 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72711",
-        "72715",
         "72718",
         "72719",
-        "72732",
-        "72739",
         "72745",
-        "72747",
         "72756",
-        "72758",
-        "727HH"
+        "72758"
       ]
     },
     {
       "name": "FAYETTEVILLE PUBLIC LIBRARY",
       "system": "FAYETTEVILLE PUBLIC LIBRARY",
       "address": "401 W. MOUNTAIN STREET, FAYETTEVILLE, AR",
-      "website": "https://www.faylib.org/",
+      "website": "http://faylib.org/",
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
         "72701",
         "72703",
         "72704",
-        "72717",
-        "72727",
-        "72729",
         "72730",
-        "72744",
-        "72749",
-        "72753",
+        "72738",
         "72762",
         "72764",
-        "72769",
-        "72774",
-        "72959"
+        "72773",
+        "72774"
       ]
     },
     {
@@ -123,17 +111,8 @@
       "formUrl": "https://pearidgepubliclibrary.org/suggest-a-purchase/",
       "formStatus": "verified",
       "zipcodes": [
-        "72711",
-        "72715",
-        "72718",
-        "72719",
         "72732",
-        "72739",
-        "72745",
-        "72747",
-        "72751",
-        "72756",
-        "727HH"
+        "72751"
       ]
     },
     {
@@ -144,17 +123,9 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72711",
-        "72715",
-        "72718",
-        "72719",
-        "72732",
         "72736",
         "72739",
-        "72745",
-        "72747",
-        "72756",
-        "727HH"
+        "72747"
       ]
     },
     {
@@ -165,17 +136,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72711",
-        "72715",
-        "72718",
-        "72719",
-        "72732",
         "72734",
-        "72739",
-        "72745",
-        "72747",
-        "72756",
-        "727HH"
+        "72747"
       ]
     },
     {
@@ -186,17 +148,8 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72711",
-        "72715",
-        "72718",
-        "72719",
         "72722",
-        "72732",
-        "72739",
-        "72745",
-        "72747",
-        "72756",
-        "727HH"
+        "72747"
       ]
     },
     {
@@ -207,17 +160,7 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72711",
-        "72715",
-        "72718",
-        "72719",
-        "72732",
-        "72739",
-        "72745",
-        "72747",
-        "72756",
-        "72761",
-        "727HH"
+        "72761"
       ]
     },
     {
@@ -228,17 +171,50 @@
       "formUrl": null,
       "formStatus": "unknown",
       "zipcodes": [
-        "72711",
         "72715",
-        "72718",
-        "72719",
-        "72732",
-        "72739",
-        "72745",
-        "72747",
-        "72756",
-        "72768",
-        "727HH"
+        "72768"
+      ]
+    },
+    {
+      "name": "CARROLL AND MADISON LIBRARY SYSTEM",
+      "system": "CARROLL AND MADISON LIBRARY SYSTEM",
+      "address": "106 SPRING STREET, BERRYVILLE, AR",
+      "website": "https://camals.org/",
+      "formUrl": "https://camals.org/interlibrary-loan-policy/",
+      "formStatus": "verified",
+      "zipcodes": [
+        "72611",
+        "72616",
+        "72631",
+        "72632",
+        "72638",
+        "72660",
+        "72740"
+      ]
+    },
+    {
+      "name": "NEWTON COUNTY",
+      "system": "NEWTON COUNTY",
+      "address": "230 S. STONE, JASPER, AR",
+      "website": "https://www.newtoncountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72624",
+        "72628",
+        "72640",
+        "72641",
+        "72648",
+        "72655",
+        "72666",
+        "72683",
+        "72685",
+        "72742",
+        "72752",
+        "72776",
+        "72852",
+        "72854",
+        "72856"
       ]
     }
   ]
