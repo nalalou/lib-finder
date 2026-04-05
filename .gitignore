@@ -3,5 +3,10 @@ node_modules/
 scripts/__pycache__/
 scripts/*.pyc
 scripts/raw_data/
+scripts/discovery_results/
+scripts/screenshots/
+scripts/scraper_results.json
+tests/__pycache__/
+.pytest_cache/
 .env
 .env.local
