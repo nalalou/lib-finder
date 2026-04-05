@@ -1,0 +1,97 @@
+name: Approve Library Submission
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  approve:
+    if: github.event.label.name == 'approved'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Parse submission from issue body
+        id: parse
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.issue.body;
+            const libraryMatch = body.match(/\*\*Library:\*\*\s*(.+)/);
+            const zipcodeMatch = body.match(/\*\*Zipcode:\*\*\s*(\d{5})/);
+            const urlMatch = body.match(/\*\*Submitted URL:\*\*\s*(https?:\/\/\S+)/);
+
+            if (!libraryMatch || !zipcodeMatch || !urlMatch) {
+              core.setFailed('Could not parse submission from issue body');
+              return;
+            }
+
+            core.setOutput('library', libraryMatch[1].trim());
+            core.setOutput('zipcode', zipcodeMatch[1].trim());
+            core.setOutput('url', urlMatch[1].trim());
+            core.setOutput('prefix', zipcodeMatch[1].trim().slice(0, 3));
+
+      - name: Update data file
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const prefix = '${{ steps.parse.outputs.prefix }}';
+            const library = '${{ steps.parse.outputs.library }}';
+            const url = '${{ steps.parse.outputs.url }}';
+            const filepath = `data/libraries-${prefix}.json`;
+
+            if (!fs.existsSync(filepath)) {
+              core.setFailed(`Data file not found: ${filepath}`);
+              return;
+            }
+
+            const data = JSON.parse(fs.readFileSync(filepath, 'utf8'));
+            let updated = false;
+
+            for (const lib of data.libraries) {
+              if (lib.name === library) {
+                lib.formUrl = url;
+                lib.formStatus = 'verified';
+                updated = true;
+                break;
+              }
+            }
+
+            if (!updated) {
+              core.warning(`Library "${library}" not found in ${filepath}. Skipping.`);
+              return;
+            }
+
+            fs.writeFileSync(filepath, JSON.stringify(data, null, 2) + '\n');
+            core.info(`Updated ${library} in ${filepath} with form URL: ${url}`);
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+          git commit -m "feat: add form URL for ${{ steps.parse.outputs.library }} (via #${{ github.event.issue.number }})"
+          git push
+
+      - name: Close issue with comment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: '✅ Form URL has been added to the database. Thanks for contributing!'
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
