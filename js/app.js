@@ -84,68 +84,39 @@
     pickerLabel.textContent = libraries.length === 1
       ? "Your library:"
       : "We found " + libraries.length + " library systems serving your area:";
+    // Check if any library lacks a verified form — show submit prompt after the list
+    var anyUnverified = false;
+
     libraries.forEach(function (lib) {
       var li = document.createElement("li");
       var hasForm = lib.formStatus === "verified";
       var url = getLibraryUrl(lib);
 
-      // Library info (not clickable)
-      var info = document.createElement("div");
-      info.className = "lib-info";
-      info.innerHTML =
-        '<span class="lib-name">' + lib.name + "</span>" +
-        '<span class="lib-address">' + lib.address + "</span>";
-      li.appendChild(info);
-
-      // Actions
-      var actions = document.createElement("div");
-      actions.className = "lib-actions";
-
-      if (hasForm) {
-        // Clear CTA: opens the request form
-        var formLink = document.createElement("a");
-        formLink.href = url;
-        formLink.target = "_blank";
-        formLink.rel = "noopener";
-        formLink.className = "lib-btn lib-btn-primary";
-        formLink.textContent = "Request a purchase";
-        formLink.addEventListener("click", function (e) {
-          e.preventDefault();
-          openLibrary(lib);
-        });
-        actions.appendChild(formLink);
-      } else {
-        // Two actions: visit homepage + submit form link
-        var homepageLink = document.createElement("a");
-        homepageLink.href = url;
-        homepageLink.target = "_blank";
-        homepageLink.rel = "noopener";
-        homepageLink.className = "lib-btn lib-btn-secondary";
-        homepageLink.textContent = "Visit library website";
-        homepageLink.addEventListener("click", function (e) {
-          e.preventDefault();
-          openLibrary(lib);
-        });
-        actions.appendChild(homepageLink);
-
-        var submitLink = document.createElement("button");
-        submitLink.type = "button";
-        submitLink.className = "lib-btn lib-btn-text";
-        submitLink.textContent = "Have the request form link? Add it";
-        submitLink.addEventListener("click", function () {
-          currentLibraries = [lib];
-          submitContext.textContent = "Submitting for: " + lib.name;
-          searchBox.hidden = true;
-          multiPicker.hidden = true;
-          submitPrompt.hidden = false;
-          submitFormContainer.hidden = false;
-          submitUrl.focus();
-        });
-        actions.appendChild(submitLink);
-      }
-
-      li.appendChild(actions);
+      var a = document.createElement("a");
+      a.href = url;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.className = hasForm ? "lib-card lib-card-verified" : "lib-card";
+      a.innerHTML =
+        '<div class="lib-info">' +
+          '<span class="lib-name">' + lib.name + "</span>" +
+          '<span class="lib-address">' + lib.address + "</span>" +
+        '</div>' +
+        '<span class="lib-cta">' + (hasForm ? "Request a purchase \u2192" : "Visit website \u2192") + '</span>';
+      a.addEventListener("click", function (e) {
+        e.preventDefault();
+        openLibrary(lib);
+      });
+      li.appendChild(a);
       libraryList.appendChild(li);
+
+      if (!hasForm) anyUnverified = true;
+    });
+
+    // Show submit prompt if any library didn't have a direct form
+    if (anyUnverified) {
+      submitPrompt.hidden = false;
+    }
     });
     multiPicker.hidden = false;
   }
