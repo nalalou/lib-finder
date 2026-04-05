@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "BELL COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "BELL COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "126 SOUTH 20TH STREET, MIDDLESBORO, KY",
+      "website": "https://www.google.com/search?q=BELL+COUNTY+PUBLIC+LIBRARY+SYSTEM+MIDDLESBORO+KY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40965"
+      ]
+    },
+    {
+      "name": "CLAY COUNTY PUBLIC LIBRARY",
+      "system": "CLAY COUNTY PUBLIC LIBRARY",
+      "address": "211 BRIDGE STREET, MANCHESTER, KY",
+      "website": "https://www.google.com/search?q=CLAY+COUNTY+PUBLIC+LIBRARY+MANCHESTER+KY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40962"
+      ]
+    },
+    {
+      "name": "KNOX COUNTY PUBLIC LIBRARY",
+      "system": "KNOX COUNTY PUBLIC LIBRARY",
+      "address": "206 KNOX STREET, BARBOURVILLE, KY",
+      "website": "https://www.google.com/search?q=KNOX+COUNTY+PUBLIC+LIBRARY+BARBOURVILLE+KY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40906"
+      ]
+    }
+  ]
+}

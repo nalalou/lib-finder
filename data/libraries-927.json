@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "ORANGE COUNTY PUBLIC LIBRARIES",
+      "system": "ORANGE COUNTY PUBLIC LIBRARIES",
+      "address": "1501 E. ST. ANDREW PLACE, SANTA ANA, CA",
+      "website": "https://www.google.com/search?q=ORANGE+COUNTY+PUBLIC+LIBRARIES+SANTA+ANA+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "92705"
+      ]
+    },
+    {
+      "name": "SANTA ANA PUBLIC LIBRARY",
+      "system": "SANTA ANA PUBLIC LIBRARY",
+      "address": "26 CIVIC CENTER PLAZA, SANTA ANA, CA",
+      "website": "https://www.google.com/search?q=SANTA+ANA+PUBLIC+LIBRARY+SANTA+ANA+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "92701"
+      ]
+    },
+    {
+      "name": "ORANGE COUNTY PUBLIC LAW LIBRARY",
+      "system": "ORANGE COUNTY PUBLIC LAW LIBRARY",
+      "address": "515 N. FLOWER ST, SANTA ANA, CA",
+      "website": "https://www.google.com/search?q=ORANGE+COUNTY+PUBLIC+LAW+LIBRARY+SANTA+ANA+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "92703"
+      ]
+    }
+  ]
+}

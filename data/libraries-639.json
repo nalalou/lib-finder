@@ -1,0 +1,59 @@
+{
+  "libraries": [
+    {
+      "name": "PIEDMONT PUBLIC LIBRARY",
+      "system": "PIEDMONT PUBLIC LIBRARY",
+      "address": "118 W GREEN ST, PIEDMONT, MO",
+      "website": "https://www.google.com/search?q=PIEDMONT+PUBLIC+LIBRARY+PIEDMONT+MO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63957"
+      ]
+    },
+    {
+      "name": "POPLAR BLUFF MUNICIPAL LIBRARY DISTRICT",
+      "system": "POPLAR BLUFF MUNICIPAL LIBRARY DISTRICT",
+      "address": "318 N MAIN ST, POPLAR BLUFF, MO",
+      "website": "https://www.google.com/search?q=POPLAR+BLUFF+MUNICIPAL+LIBRARY+DISTRICT+POPLAR+BLUFF+MO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63901"
+      ]
+    },
+    {
+      "name": "DONIPHAN-RIPLEY COUNTY LIBRARY DISTRICT",
+      "system": "DONIPHAN-RIPLEY COUNTY LIBRARY DISTRICT",
+      "address": "207 LOCUST ST, DONIPHAN, MO",
+      "website": "https://www.google.com/search?q=DONIPHAN-RIPLEY+COUNTY+LIBRARY+DISTRICT+DONIPHAN+MO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63935"
+      ]
+    },
+    {
+      "name": "CARTER COUNTY LIBRARY",
+      "system": "CARTER COUNTY LIBRARY",
+      "address": "403 ASH ST, VAN BUREN, MO",
+      "website": "https://www.google.com/search?q=CARTER+COUNTY+LIBRARY+VAN+BUREN+MO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63965"
+      ]
+    },
+    {
+      "name": "PUXICO PUBLIC LIBRARY",
+      "system": "PUXICO PUBLIC LIBRARY",
+      "address": "201 N HICKMAN ST, PUXICO, MO",
+      "website": "https://www.google.com/search?q=PUXICO+PUBLIC+LIBRARY+PUXICO+MO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "63960"
+      ]
+    }
+  ]
+}

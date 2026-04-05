@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "BOSSIER PARISH LIBRARY",
+      "system": "BOSSIER PARISH LIBRARY",
+      "address": "2206 BECKETT STREET, BOSSIER CITY, LA",
+      "website": "https://www.google.com/search?q=BOSSIER+PARISH+LIBRARY+BOSSIER+CITY+LA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71111"
+      ]
+    },
+    {
+      "name": "SHREVE MEMORIAL LIBRARY",
+      "system": "SHREVE MEMORIAL LIBRARY",
+      "address": "424 TEXAS STREET, SHREVEPORT, LA",
+      "website": "https://www.google.com/search?q=SHREVE+MEMORIAL+LIBRARY+SHREVEPORT+LA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71101"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "HOYT LIBRARY",
+      "system": "HOYT LIBRARY",
+      "address": "284 WYOMING AVE, KINGSTON, PA",
+      "website": "http://www.saginawlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18704"
+      ]
+    },
+    {
+      "name": "MARIAN SUTHERLAND KIRBY LIB",
+      "system": "MARIAN SUTHERLAND KIRBY LIB",
+      "address": "35 KIRBY AVENUE, MOUNTAINTOP, PA",
+      "website": "https://www.google.com/search?q=MARIAN+SUTHERLAND+KIRBY+LIB+MOUNTAINTOP+PA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18707"
+      ]
+    },
+    {
+      "name": "OSTERHOUT FREE LIBRARY",
+      "system": "OSTERHOUT FREE LIBRARY",
+      "address": "71 SOUTH FRANKLIN ST, WILKES-BARRE, PA",
+      "website": "https://www.google.com/search?q=OSTERHOUT+FREE+LIBRARY+WILKES-BARRE+PA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18701"
+      ]
+    }
+  ]
+}

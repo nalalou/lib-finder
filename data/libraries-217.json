@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "CARROLL COUNTY PUBLIC LIBRARY",
+      "system": "CARROLL COUNTY PUBLIC LIBRARY",
+      "address": "1100 GREEN VALLEY ROAD, NEW WINDSOR, MD",
+      "website": "https://www.google.com/search?q=CARROLL+COUNTY+PUBLIC+LIBRARY+NEW+WINDSOR+MD+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "21776"
+      ]
+    },
+    {
+      "name": "FREDERICK COUNTY PUBLIC LIBRARIES",
+      "system": "FREDERICK COUNTY PUBLIC LIBRARIES",
+      "address": "110 EAST PATRICK STREET, FREDERICK, MD",
+      "website": "https://www.google.com/search?q=FREDERICK+COUNTY+PUBLIC+LIBRARIES+FREDERICK+MD+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "21701"
+      ]
+    },
+    {
+      "name": "WASHINGTON COUNTY FREE LIBRARY",
+      "system": "WASHINGTON COUNTY FREE LIBRARY",
+      "address": "100 S. POTOMAC ST., HAGERSTOWN, MD",
+      "website": "https://www.google.com/search?q=WASHINGTON+COUNTY+FREE+LIBRARY+HAGERSTOWN+MD+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "21740"
+      ]
+    }
+  ]
+}

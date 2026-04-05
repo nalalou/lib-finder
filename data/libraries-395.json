@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "HANCOCK COUNTY LIBRARY",
+      "system": "HANCOCK COUNTY LIBRARY",
+      "address": "312 HIGHWAY 90, BAY SAINT LOUIS, MS",
+      "website": "https://www.google.com/search?q=HANCOCK+COUNTY+LIBRARY+BAY+SAINT+LOUIS+MS+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "39520"
+      ]
+    },
+    {
+      "name": "HARRISON COUNTY LIBRARY SYSTEM",
+      "system": "HARRISON COUNTY LIBRARY SYSTEM",
+      "address": "12135 OLD HIGHWAY 49, GULFPORT, MS",
+      "website": "https://www.google.com/search?q=HARRISON+COUNTY+LIBRARY+SYSTEM+GULFPORT+MS+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "39503"
+      ]
+    },
+    {
+      "name": "JACKSON-GEORGE REGIONAL LIBRARY SYSTEM",
+      "system": "JACKSON-GEORGE REGIONAL LIBRARY SYSTEM",
+      "address": "3214 PASCAGOULA STREET, PASCAGOULA, MS",
+      "website": "https://www.google.com/search?q=JACKSON-GEORGE+REGIONAL+LIBRARY+SYSTEM+PASCAGOULA+MS+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "39567"
+      ]
+    },
+    {
+      "name": "LONG BEACH PUBLIC LIBRARY",
+      "system": "LONG BEACH PUBLIC LIBRARY",
+      "address": "209 JEFF DAVIS AVENUE, LONG BEACH, MS",
+      "website": "http://www.lbpl.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "39560"
+      ]
+    }
+  ]
+}

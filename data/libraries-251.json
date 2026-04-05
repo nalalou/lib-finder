@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "NITRO PUBLIC LIBRARY",
+      "system": "NITRO PUBLIC LIBRARY",
+      "address": "1700 PARK AVE., NITRO, WV",
+      "website": "https://www.google.com/search?q=NITRO+PUBLIC+LIBRARY+NITRO+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25143"
+      ]
+    },
+    {
+      "name": "BOONE-MADISON PUBLIC LIBRARY",
+      "system": "BOONE-MADISON PUBLIC LIBRARY",
+      "address": "375 MAIN STREET, MADISON, WV",
+      "website": "https://www.google.com/search?q=BOONE-MADISON+PUBLIC+LIBRARY+MADISON+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25130"
+      ]
+    }
+  ]
+}

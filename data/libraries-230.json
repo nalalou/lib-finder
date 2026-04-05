@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "CUMBERLAND COUNTY PUBLIC LIBRARY",
+      "system": "CUMBERLAND COUNTY PUBLIC LIBRARY",
+      "address": "1539 ANDERSON HIGHWAY, CUMBERLAND, VA",
+      "website": "https://www.google.com/search?q=CUMBERLAND+COUNTY+PUBLIC+LIBRARY+CUMBERLAND+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23040"
+      ]
+    },
+    {
+      "name": "GLOUCESTER COUNTY PUBLIC LIBRARY",
+      "system": "GLOUCESTER COUNTY PUBLIC LIBRARY",
+      "address": "6920 MAIN STREET, GLOUCESTER, VA",
+      "website": "https://www.google.com/search?q=GLOUCESTER+COUNTY+PUBLIC+LIBRARY+GLOUCESTER+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23061"
+      ]
+    },
+    {
+      "name": "JAMES L. HAMNER PUBLIC LIBRARY",
+      "system": "JAMES L. HAMNER PUBLIC LIBRARY",
+      "address": "16351 DUNN ST., AMELIA, VA",
+      "website": "https://www.google.com/search?q=JAMES+L.+HAMNER+PUBLIC+LIBRARY+AMELIA+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23002"
+      ]
+    },
+    {
+      "name": "PAMUNKEY REGIONAL LIBRARY",
+      "system": "PAMUNKEY REGIONAL LIBRARY",
+      "address": "7527 LIBRARY DRIVE, HANOVER, VA",
+      "website": "https://www.google.com/search?q=PAMUNKEY+REGIONAL+LIBRARY+HANOVER+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23069"
+      ]
+    }
+  ]
+}

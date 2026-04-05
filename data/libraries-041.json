@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "THOMAS MEMORIAL LIBRARY",
+      "system": "THOMAS MEMORIAL LIBRARY",
+      "address": "6 SCOTT DYER RD., CAPE ELIZABETH, ME",
+      "website": "https://www.google.com/search?q=THOMAS+MEMORIAL+LIBRARY+CAPE+ELIZABETH+ME+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04107"
+      ]
+    },
+    {
+      "name": "FALMOUTH MEMORIAL LIBRARY",
+      "system": "FALMOUTH MEMORIAL LIBRARY",
+      "address": "5 LUNT ROAD, FALMOUTH, ME",
+      "website": "https://www.falmouthmemoriallibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04105"
+      ]
+    },
+    {
+      "name": "PORTLAND PUBLIC LIBRARY",
+      "system": "PORTLAND PUBLIC LIBRARY",
+      "address": "5 MONUMENT SQUARE, PORTLAND, ME",
+      "website": "http://www.portlandlibrary.com",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04101"
+      ]
+    },
+    {
+      "name": "SOUTH PORTLAND PUBLIC LIBRARY",
+      "system": "SOUTH PORTLAND PUBLIC LIBRARY",
+      "address": "482 BROADWAY, SOUTH PORTLAND, ME",
+      "website": "http://southportlandlibrary.com",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "04106"
+      ]
+    }
+  ]
+}

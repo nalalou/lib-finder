@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "GREAT RIVER REGIONAL LIBRARY",
+      "system": "GREAT RIVER REGIONAL LIBRARY",
+      "address": "1300 WEST ST. GERMAIN ST., ST CLOUD, MN",
+      "website": "https://www.google.com/search?q=GREAT+RIVER+REGIONAL+LIBRARY+ST+CLOUD+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56301"
+      ]
+    },
+    {
+      "name": "GLENWOOD PUBLIC LIBRARY",
+      "system": "GLENWOOD PUBLIC LIBRARY",
+      "address": "108 SE FIRST AV, GLENWOOD, MN",
+      "website": "https://www.google.com/search?q=GLENWOOD+PUBLIC+LIBRARY+GLENWOOD+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56334"
+      ]
+    },
+    {
+      "name": "DOUGLAS COUNTY LIBRARY",
+      "system": "DOUGLAS COUNTY LIBRARY",
+      "address": "720 FILLMORE STREET, ALEXANDRIA, MN",
+      "website": "https://www.google.com/search?q=DOUGLAS+COUNTY+LIBRARY+ALEXANDRIA+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56308"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "CHICKASAW - INA PULLEN SMALLWOOD MEMORIAL LIBRARY",
+      "system": "CHICKASAW - INA PULLEN SMALLWOOD MEMORIAL LIBRARY",
+      "address": "224 GRANT STREET, CHICKASAW, AL",
+      "website": "https://www.google.com/search?q=CHICKASAW+-+INA+PULLEN+SMALLWOOD+MEMORIAL+LIBRARY+CHICKASAW+AL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36611"
+      ]
+    },
+    {
+      "name": "PRICHARD PUBLIC LIBRARY",
+      "system": "PRICHARD PUBLIC LIBRARY",
+      "address": "300 WEST LOVEJOY LOOP, PRICHARD, AL",
+      "website": "https://www.google.com/search?q=PRICHARD+PUBLIC+LIBRARY+PRICHARD+AL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36610"
+      ]
+    },
+    {
+      "name": "MOBILE PUBLIC LIBRARY",
+      "system": "MOBILE PUBLIC LIBRARY",
+      "address": "701 GOVERNMENT STREET, MOBILE, AL",
+      "website": "http://www.mplonline.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "36602"
+      ]
+    }
+  ]
+}

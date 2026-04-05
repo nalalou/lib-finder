@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "BREATHITT COUNTY PUBLIC LIBRARY",
+      "system": "BREATHITT COUNTY PUBLIC LIBRARY",
+      "address": "1024 COLLEGE AVENUE, JACKSON, KY",
+      "website": "https://www.google.com/search?q=BREATHITT+COUNTY+PUBLIC+LIBRARY+JACKSON+KY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "41339"
+      ]
+    },
+    {
+      "name": "LEE COUNTY PUBLIC LIBRARY",
+      "system": "LEE COUNTY PUBLIC LIBRARY",
+      "address": "255 INDUSTRIAL PARK ROAD, BEATTYVILLE, KY",
+      "website": "https://www.google.com/search?q=LEE+COUNTY+PUBLIC+LIBRARY+BEATTYVILLE+KY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "41311"
+      ]
+    },
+    {
+      "name": "OWSLEY COUNTY PUBLIC LIBRARY",
+      "system": "OWSLEY COUNTY PUBLIC LIBRARY",
+      "address": "185 NEW HIGHWAY 11, BOONEVILLE, KY",
+      "website": "https://www.google.com/search?q=OWSLEY+COUNTY+PUBLIC+LIBRARY+BOONEVILLE+KY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "41314"
+      ]
+    },
+    {
+      "name": "WOLFE COUNTY PUBLIC LIBRARY",
+      "system": "WOLFE COUNTY PUBLIC LIBRARY",
+      "address": "164 KENTUCKY HIGHWAY 15 NORTH, CAMPTON, KY",
+      "website": "https://www.google.com/search?q=WOLFE+COUNTY+PUBLIC+LIBRARY+CAMPTON+KY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "41301"
+      ]
+    }
+  ]
+}

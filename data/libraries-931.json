@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "SANTA BARBARA PUBLIC LIBRARY",
+      "system": "SANTA BARBARA PUBLIC LIBRARY",
+      "address": "40 E. ANAPAMU ST., SANTA BARBARA, CA",
+      "website": "https://www.google.com/search?q=SANTA+BARBARA+PUBLIC+LIBRARY+SANTA+BARBARA+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93101"
+      ]
+    },
+    {
+      "name": "SANTA BARBARA COUNTY LAW LIBRARY",
+      "system": "SANTA BARBARA COUNTY LAW LIBRARY",
+      "address": "1100 ANACAPA ST, 2ND FL., SANTA BARBARA, CA",
+      "website": "https://www.google.com/search?q=SANTA+BARBARA+COUNTY+LAW+LIBRARY+SANTA+BARBARA+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93101"
+      ]
+    },
+    {
+      "name": "GOLETA VALLEY LIBRARY",
+      "system": "GOLETA VALLEY LIBRARY",
+      "address": "500 N. FAIRVIEW AVE., GOLETA, CA",
+      "website": "https://www.google.com/search?q=GOLETA+VALLEY+LIBRARY+GOLETA+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93117"
+      ]
+    }
+  ]
+}

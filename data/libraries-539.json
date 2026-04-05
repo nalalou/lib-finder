@@ -1,0 +1,334 @@
+{
+  "libraries": [
+    {
+      "name": "ADAMS COUNTY LIBRARY",
+      "system": "ADAMS COUNTY LIBRARY",
+      "address": "569 N. CEDAR ST., SUITE 1, ADAMS, WI",
+      "website": "https://www.google.com/search?q=ADAMS+COUNTY+LIBRARY+ADAMS+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53910"
+      ]
+    },
+    {
+      "name": "CARNEGIE-SCHADDE MEMORIAL PUBLIC LIBRARY",
+      "system": "CARNEGIE-SCHADDE MEMORIAL PUBLIC LIBRARY",
+      "address": "230 FOURTH AVE., BARABOO, WI",
+      "website": "https://www.google.com/search?q=CARNEGIE-SCHADDE+MEMORIAL+PUBLIC+LIBRARY+BARABOO+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53913"
+      ]
+    },
+    {
+      "name": "BEAVER DAM COMMUNITY LIBRARY",
+      "system": "BEAVER DAM COMMUNITY LIBRARY",
+      "address": "311 N. SPRING ST., BEAVER DAM, WI",
+      "website": "https://www.google.com/search?q=BEAVER+DAM+COMMUNITY+LIBRARY+BEAVER+DAM+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53916"
+      ]
+    },
+    {
+      "name": "BRANDON PUBLIC LIBRARY",
+      "system": "BRANDON PUBLIC LIBRARY",
+      "address": "117 E. MAIN ST., BRANDON, WI",
+      "website": "https://www.google.com/search?q=BRANDON+PUBLIC+LIBRARY+BRANDON+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53919"
+      ]
+    },
+    {
+      "name": "JANE MORGAN MEMORIAL LIBRARY",
+      "system": "JANE MORGAN MEMORIAL LIBRARY",
+      "address": "109 W. EDGEWATER ST., CAMBRIA, WI",
+      "website": "https://www.google.com/search?q=JANE+MORGAN+MEMORIAL+LIBRARY+CAMBRIA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53923"
+      ]
+    },
+    {
+      "name": "COLUMBUS PUBLIC LIBRARY",
+      "system": "COLUMBUS PUBLIC LIBRARY",
+      "address": "223 W. JAMES ST., COLUMBUS, WI",
+      "website": "https://www.google.com/search?q=COLUMBUS+PUBLIC+LIBRARY+COLUMBUS+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53925"
+      ]
+    },
+    {
+      "name": "ELROY PUBLIC LIBRARY",
+      "system": "ELROY PUBLIC LIBRARY",
+      "address": "501 SECOND MAIN ST., ELROY, WI",
+      "website": "https://www.google.com/search?q=ELROY+PUBLIC+LIBRARY+ELROY+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53929"
+      ]
+    },
+    {
+      "name": "ENDEAVOR PUBLIC LIBRARY",
+      "system": "ENDEAVOR PUBLIC LIBRARY",
+      "address": "400 CHURCH ST., ENDEAVOR, WI",
+      "website": "https://www.google.com/search?q=ENDEAVOR+PUBLIC+LIBRARY+ENDEAVOR+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53930"
+      ]
+    },
+    {
+      "name": "FOX LAKE PUBLIC LIBRARY",
+      "system": "FOX LAKE PUBLIC LIBRARY",
+      "address": "117 W. STATE ST., FOX LAKE, WI",
+      "website": "https://www.google.com/search?q=FOX+LAKE+PUBLIC+LIBRARY+FOX+LAKE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53933"
+      ]
+    },
+    {
+      "name": "MILL POND PUBLIC LIBRARY",
+      "system": "MILL POND PUBLIC LIBRARY",
+      "address": "140 N. SOUTH ST., KINGSTON, WI",
+      "website": "https://www.google.com/search?q=MILL+POND+PUBLIC+LIBRARY+KINGSTON+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53939"
+      ]
+    },
+    {
+      "name": "LA VALLE PUBLIC LIBRARY",
+      "system": "LA VALLE PUBLIC LIBRARY",
+      "address": "101 W. MAIN ST., LA VALLE, WI",
+      "website": "https://www.google.com/search?q=LA+VALLE+PUBLIC+LIBRARY+LA+VALLE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53941"
+      ]
+    },
+    {
+      "name": "MARKESAN PUBLIC LIBRARY",
+      "system": "MARKESAN PUBLIC LIBRARY",
+      "address": "75 N. BRIDGE ST., MARKESAN, WI",
+      "website": "https://www.google.com/search?q=MARKESAN+PUBLIC+LIBRARY+MARKESAN+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53946"
+      ]
+    },
+    {
+      "name": "HATCH PUBLIC LIBRARY",
+      "system": "HATCH PUBLIC LIBRARY",
+      "address": "111 W. STATE ST., MAUSTON, WI",
+      "website": "https://www.google.com/search?q=HATCH+PUBLIC+LIBRARY+MAUSTON+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53948"
+      ]
+    },
+    {
+      "name": "MONTELLO PUBLIC LIBRARY",
+      "system": "MONTELLO PUBLIC LIBRARY",
+      "address": "128 LAKE CT., MONTELLO, WI",
+      "website": "https://www.google.com/search?q=MONTELLO+PUBLIC+LIBRARY+MONTELLO+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53949"
+      ]
+    },
+    {
+      "name": "NEW LISBON MEMORIAL LIBRARY",
+      "system": "NEW LISBON MEMORIAL LIBRARY",
+      "address": "115 W. PARK ST., NEW LISBON, WI",
+      "website": "https://www.google.com/search?q=NEW+LISBON+MEMORIAL+LIBRARY+NEW+LISBON+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53950"
+      ]
+    },
+    {
+      "name": "NORTH FREEDOM PUBLIC LIBRARY",
+      "system": "NORTH FREEDOM PUBLIC LIBRARY",
+      "address": "105 N. MAPLE ST., NORTH FREEDOM, WI",
+      "website": "https://www.google.com/search?q=NORTH+FREEDOM+PUBLIC+LIBRARY+NORTH+FREEDOM+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53951"
+      ]
+    },
+    {
+      "name": "OXFORD PUBLIC LIBRARY",
+      "system": "OXFORD PUBLIC LIBRARY",
+      "address": "129 S. FRANKLIN AVE., OXFORD, WI",
+      "website": "https://www.google.com/search?q=OXFORD+PUBLIC+LIBRARY+OXFORD+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53952"
+      ]
+    },
+    {
+      "name": "PACKWAUKEE PUBLIC LIBRARY",
+      "system": "PACKWAUKEE PUBLIC LIBRARY",
+      "address": "N3511 STATE ST., PACKWAUKEE, WI",
+      "website": "https://www.google.com/search?q=PACKWAUKEE+PUBLIC+LIBRARY+PACKWAUKEE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53953"
+      ]
+    },
+    {
+      "name": "ANGIE WILLIAMS COX PUBLIC LIBRARY",
+      "system": "ANGIE WILLIAMS COX PUBLIC LIBRARY",
+      "address": "119 N. MAIN ST., PARDEEVILLE, WI",
+      "website": "https://www.google.com/search?q=ANGIE+WILLIAMS+COX+PUBLIC+LIBRARY+PARDEEVILLE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53954"
+      ]
+    },
+    {
+      "name": "PORTAGE PUBLIC LIBRARY",
+      "system": "PORTAGE PUBLIC LIBRARY",
+      "address": "253 W. EDGEWATER ST., PORTAGE, WI",
+      "website": "https://www.google.com/search?q=PORTAGE+PUBLIC+LIBRARY+PORTAGE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53901"
+      ]
+    },
+    {
+      "name": "POYNETTE AREA PUBLIC LIBRARY",
+      "system": "POYNETTE AREA PUBLIC LIBRARY",
+      "address": "118 N. MAIN ST., POYNETTE, WI",
+      "website": "https://www.google.com/search?q=POYNETTE+AREA+PUBLIC+LIBRARY+POYNETTE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53955"
+      ]
+    },
+    {
+      "name": "HUTCHINSON MEMORIAL LIBRARY",
+      "system": "HUTCHINSON MEMORIAL LIBRARY",
+      "address": "228 N. HIGH ST., RANDOLPH, WI",
+      "website": "https://www.google.com/search?q=HUTCHINSON+MEMORIAL+LIBRARY+RANDOLPH+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53956"
+      ]
+    },
+    {
+      "name": "REEDSBURG PUBLIC LIBRARY",
+      "system": "REEDSBURG PUBLIC LIBRARY",
+      "address": "370 VINE ST., REEDSBURG, WI",
+      "website": "https://www.google.com/search?q=REEDSBURG+PUBLIC+LIBRARY+REEDSBURG+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53959"
+      ]
+    },
+    {
+      "name": "RIO COMMUNITY LIBRARY",
+      "system": "RIO COMMUNITY LIBRARY",
+      "address": "324 W. LYONS ST., RIO, WI",
+      "website": "https://www.google.com/search?q=RIO+COMMUNITY+LIBRARY+RIO+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53960"
+      ]
+    },
+    {
+      "name": "ROCK SPRINGS PUBLIC LIBRARY",
+      "system": "ROCK SPRINGS PUBLIC LIBRARY",
+      "address": "251 RAILROAD ST., ROCK SPRINGS, WI",
+      "website": "https://www.google.com/search?q=ROCK+SPRINGS+PUBLIC+LIBRARY+ROCK+SPRINGS+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53961"
+      ]
+    },
+    {
+      "name": "WAUPUN PUBLIC LIBRARY",
+      "system": "WAUPUN PUBLIC LIBRARY",
+      "address": "123 S. FOREST ST., WAUPUN, WI",
+      "website": "https://www.cityofwaupun.org/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53963"
+      ]
+    },
+    {
+      "name": "ETHEL EVERHARD MEMORIAL LIBRARY",
+      "system": "ETHEL EVERHARD MEMORIAL LIBRARY",
+      "address": "117 E. 3RD ST., WESTFIELD, WI",
+      "website": "https://www.google.com/search?q=ETHEL+EVERHARD+MEMORIAL+LIBRARY+WESTFIELD+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53964"
+      ]
+    },
+    {
+      "name": "KILBOURN PUBLIC LIBRARY",
+      "system": "KILBOURN PUBLIC LIBRARY",
+      "address": "620 ELM ST., WISCONSIN DELLS, WI",
+      "website": "https://www.google.com/search?q=KILBOURN+PUBLIC+LIBRARY+WISCONSIN+DELLS+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53965"
+      ]
+    },
+    {
+      "name": "WONEWOC PUBLIC LIBRARY",
+      "system": "WONEWOC PUBLIC LIBRARY",
+      "address": "305 CENTER ST., WONEWOC, WI",
+      "website": "https://www.google.com/search?q=WONEWOC+PUBLIC+LIBRARY+WONEWOC+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53968"
+      ]
+    },
+    {
+      "name": "WYOCENA PUBLIC LIBRARY",
+      "system": "WYOCENA PUBLIC LIBRARY",
+      "address": "165 E. DODGE ST., WYOCENA, WI",
+      "website": "https://www.google.com/search?q=WYOCENA+PUBLIC+LIBRARY+WYOCENA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53969"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "libraries": [
+    {
+      "name": "DALLAS PUBLIC LIBRARY",
+      "system": "DALLAS PUBLIC LIBRARY",
+      "address": "1515 YOUNG ST, DALLAS, TX",
+      "website": "http://www.dallaslibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75201"
+      ]
+    },
+    {
+      "name": "FARMERS BRANCH MANSKE PUBLIC LIBRARY",
+      "system": "FARMERS BRANCH MANSKE PUBLIC LIBRARY",
+      "address": "13613 WEBB CHAPEL RD, FARMERS BRANCH, TX",
+      "website": "https://www.google.com/search?q=FARMERS+BRANCH+MANSKE+PUBLIC+LIBRARY+FARMERS+BRANCH+TX+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75234"
+      ]
+    },
+    {
+      "name": "HIGHLAND PARK LIBRARY",
+      "system": "HIGHLAND PARK LIBRARY",
+      "address": "4700 DREXEL DR, HIGHLAND PARK, TX",
+      "website": "https://www.google.com/search?q=HIGHLAND+PARK+LIBRARY+HIGHLAND+PARK+TX+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75205"
+      ]
+    },
+    {
+      "name": "COCKRELL HILL PUBLIC LIBRARY",
+      "system": "COCKRELL HILL PUBLIC LIBRARY",
+      "address": "4125 W CLARENDON DR, DALLAS, TX",
+      "website": "https://www.google.com/search?q=COCKRELL+HILL+PUBLIC+LIBRARY+DALLAS+TX+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75211"
+      ]
+    },
+    {
+      "name": "UNIVERSITY PARK PUBLIC LIBRARY",
+      "system": "UNIVERSITY PARK PUBLIC LIBRARY",
+      "address": "8383 PLAZA AT PRESTON CTR STE 200, DALLAS, TX",
+      "website": "https://www.google.com/search?q=UNIVERSITY+PARK+PUBLIC+LIBRARY+DALLAS+TX+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "75225"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "FAUQUIER COUNTY PUBLIC LIBRARY",
+      "system": "FAUQUIER COUNTY PUBLIC LIBRARY",
+      "address": "11 WINCHESTER STREET, WARRENTON, VA",
+      "website": "https://www.google.com/search?q=FAUQUIER+COUNTY+PUBLIC+LIBRARY+WARRENTON+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "20186"
+      ]
+    },
+    {
+      "name": "LOUDOUN COUNTY PUBLIC LIBRARY",
+      "system": "LOUDOUN COUNTY PUBLIC LIBRARY",
+      "address": "102 NORTH STREET, NW SUITE A, LEESBURG, VA",
+      "website": "https://www.google.com/search?q=LOUDOUN+COUNTY+PUBLIC+LIBRARY+LEESBURG+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "20176"
+      ]
+    },
+    {
+      "name": "MANASSAS PARK CITY LIBRARY",
+      "system": "MANASSAS PARK CITY LIBRARY",
+      "address": "100 PARK CENTRAL PLAZA, SUITE 100, MANASSAS PARK, VA",
+      "website": "https://www.google.com/search?q=MANASSAS+PARK+CITY+LIBRARY+MANASSAS+PARK+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "20111"
+      ]
+    }
+  ]
+}

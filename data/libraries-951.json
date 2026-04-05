@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "SAN JOSE PUBLIC LIBRARY",
+      "system": "SAN JOSE PUBLIC LIBRARY",
+      "address": "150 E SAN FERNANDO STREET, SAN JOSE, CA",
+      "website": "http://www.sjpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95112"
+      ]
+    },
+    {
+      "name": "SANTA CLARA COUNTY LAW LIBRARY",
+      "system": "SANTA CLARA COUNTY LAW LIBRARY",
+      "address": "360 N. FIRST ST., SAN JOSE, CA",
+      "website": "https://www.google.com/search?q=SANTA+CLARA+COUNTY+LAW+LIBRARY+SAN+JOSE+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95113"
+      ]
+    }
+  ]
+}

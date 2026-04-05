@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "COLUMBIA COUNTY LIBRARY",
+      "system": "COLUMBIA COUNTY LIBRARY",
+      "address": "2057 NORTH JACKSON, MAGNOLIA, AR",
+      "website": "https://www.google.com/search?q=COLUMBIA+COUNTY+LIBRARY+MAGNOLIA+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71753"
+      ]
+    },
+    {
+      "name": "BARTON LIBRARY",
+      "system": "BARTON LIBRARY",
+      "address": "200 EAST 5TH STREET, EL DORADO, AR",
+      "website": "https://www.google.com/search?q=BARTON+LIBRARY+EL+DORADO+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71730"
+      ]
+    },
+    {
+      "name": "PUBLIC LIBRARY OF CAMDEN & OUACHITA COUNTY",
+      "system": "PUBLIC LIBRARY OF CAMDEN & OUACHITA COUNTY",
+      "address": "405 CASH RD, CAMDEN, AR",
+      "website": "https://www.google.com/search?q=PUBLIC+LIBRARY+OF+CAMDEN+&+OUACHITA+COUNTY+CAMDEN+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71701"
+      ]
+    },
+    {
+      "name": "CALHOUN COUNTY LIBRARY",
+      "system": "CALHOUN COUNTY LIBRARY",
+      "address": "113 SOUTH 2ND ST., HAMPTON, AR",
+      "website": "https://krlibrary.org/?page_id=18",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71744"
+      ]
+    }
+  ]
+}

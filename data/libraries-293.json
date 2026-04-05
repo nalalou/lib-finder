@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "CHEROKEE COUNTY PUBLIC LIBRARY",
+      "system": "CHEROKEE COUNTY PUBLIC LIBRARY",
+      "address": "300 E. RUTLEDGE AVENUE, GAFFNEY, SC",
+      "website": "https://www.google.com/search?q=CHEROKEE+COUNTY+PUBLIC+LIBRARY+GAFFNEY+SC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29340"
+      ]
+    },
+    {
+      "name": "LAURENS COUNTY LIBRARY SYSTEM",
+      "system": "LAURENS COUNTY LIBRARY SYSTEM",
+      "address": "1017 WEST MAIN STREET, LAURENS, SC",
+      "website": "https://www.google.com/search?q=LAURENS+COUNTY+LIBRARY+SYSTEM+LAURENS+SC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29360"
+      ]
+    },
+    {
+      "name": "SPARTANBURG COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "SPARTANBURG COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "151 S. CHURCH STREET, SPARTANBURG, SC",
+      "website": "https://www.google.com/search?q=SPARTANBURG+COUNTY+PUBLIC+LIBRARY+SYSTEM+SPARTANBURG+SC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29306"
+      ]
+    },
+    {
+      "name": "UNION COUNTY LIBRARY SYSTEM",
+      "system": "UNION COUNTY LIBRARY SYSTEM",
+      "address": "300 EAST SOUTH STREET, UNION, SC",
+      "website": "https://www.google.com/search?q=UNION+COUNTY+LIBRARY+SYSTEM+UNION+SC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29379"
+      ]
+    }
+  ]
+}

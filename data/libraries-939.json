@@ -1,0 +1,59 @@
+{
+  "libraries": [
+    {
+      "name": "HARRISON MEMORIAL LIBRARY",
+      "system": "HARRISON MEMORIAL LIBRARY",
+      "address": "OCEAN & LINCOLN AVE., CARMEL, CA",
+      "website": "https://www.google.com/search?q=HARRISON+MEMORIAL+LIBRARY+CARMEL+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93921"
+      ]
+    },
+    {
+      "name": "MONTEREY COUNTY FREE LIBRARIES",
+      "system": "MONTEREY COUNTY FREE LIBRARIES",
+      "address": "188 SEASIDE CIRCLE, MARINA, CA",
+      "website": "https://www.google.com/search?q=MONTEREY+COUNTY+FREE+LIBRARIES+MARINA+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93933"
+      ]
+    },
+    {
+      "name": "MONTEREY PUBLIC LIBRARY",
+      "system": "MONTEREY PUBLIC LIBRARY",
+      "address": "625 PACIFIC ST., MONTEREY, CA",
+      "website": "https://www.google.com/search?q=MONTEREY+PUBLIC+LIBRARY+MONTEREY+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93940"
+      ]
+    },
+    {
+      "name": "PACIFIC GROVE PUBLIC LIBRARY",
+      "system": "PACIFIC GROVE PUBLIC LIBRARY",
+      "address": "550 CENTRAL AVE., PACIFIC GROVE, CA",
+      "website": "https://www.google.com/search?q=PACIFIC+GROVE+PUBLIC+LIBRARY+PACIFIC+GROVE+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93950"
+      ]
+    },
+    {
+      "name": "SALINAS PUBLIC LIBRARY",
+      "system": "SALINAS PUBLIC LIBRARY",
+      "address": "350 LINCOLN AVE., SALINAS, CA",
+      "website": "https://www.google.com/search?q=SALINAS+PUBLIC+LIBRARY+SALINAS+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93901"
+      ]
+    }
+  ]
+}

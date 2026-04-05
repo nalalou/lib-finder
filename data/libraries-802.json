@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "DENVER PUBLIC LIBRARY",
+      "system": "DENVER PUBLIC LIBRARY",
+      "address": "10 W 14TH AVENUE PARKWAY, DENVER, CO",
+      "website": "http://denverlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80204"
+      ]
+    },
+    {
+      "name": "JEFFERSON COUNTY PUBLIC LIBRARY",
+      "system": "JEFFERSON COUNTY PUBLIC LIBRARY",
+      "address": "10200 W 20TH AVE, LAKEWOOD, CO",
+      "website": "https://jeffcolibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80215"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "libraries": [
+    {
+      "name": "ELMONT PUBLIC LIBRARY",
+      "system": "ELMONT PUBLIC LIBRARY",
+      "address": "700 HEMPSTEAD TURNPIKE, ELMONT, NY",
+      "website": "https://www.google.com/search?q=ELMONT+PUBLIC+LIBRARY+ELMONT+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11003"
+      ]
+    },
+    {
+      "name": "FLORAL PARK PUBLIC LIBRARY",
+      "system": "FLORAL PARK PUBLIC LIBRARY",
+      "address": "17 CAROLINE PLACE, FLORAL PARK, NY",
+      "website": "https://www.google.com/search?q=FLORAL+PARK+PUBLIC+LIBRARY+FLORAL+PARK+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11001"
+      ]
+    },
+    {
+      "name": "FRANKLIN SQUARE PUBLIC LIBRARY",
+      "system": "FRANKLIN SQUARE PUBLIC LIBRARY",
+      "address": "19 LINCOLN ROAD, FRANKLIN SQUARE, NY",
+      "website": "https://www.google.com/search?q=FRANKLIN+SQUARE+PUBLIC+LIBRARY+FRANKLIN+SQUARE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11010"
+      ]
+    },
+    {
+      "name": "GREAT NECK LIBRARY",
+      "system": "GREAT NECK LIBRARY",
+      "address": "159 BAYVIEW AVENUE, GREAT NECK, NY",
+      "website": "https://www.google.com/search?q=GREAT+NECK+LIBRARY+GREAT+NECK+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11023"
+      ]
+    },
+    {
+      "name": "MANHASSET PUBLIC LIBRARY",
+      "system": "MANHASSET PUBLIC LIBRARY",
+      "address": "30 ONDERDONK AVENUE, MANHASSET, NY",
+      "website": "https://www.google.com/search?q=MANHASSET+PUBLIC+LIBRARY+MANHASSET+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11030"
+      ]
+    },
+    {
+      "name": "HILLSIDE PUBLIC LIBRARY OF NEW HYDE PARK",
+      "system": "HILLSIDE PUBLIC LIBRARY OF NEW HYDE PARK",
+      "address": "155 LAKEVILLE ROAD, NEW HYDE PARK, NY",
+      "website": "https://www.google.com/search?q=HILLSIDE+PUBLIC+LIBRARY+OF+NEW+HYDE+PARK+NEW+HYDE+PARK+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11040"
+      ]
+    },
+    {
+      "name": "PORT WASHINGTON PUBLIC LIBRARY",
+      "system": "PORT WASHINGTON PUBLIC LIBRARY",
+      "address": "1 LIBRARY DRIVE, PORT WASHINGTON, NY",
+      "website": "https://www.google.com/search?q=PORT+WASHINGTON+PUBLIC+LIBRARY+PORT+WASHINGTON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11050"
+      ]
+    }
+  ]
+}

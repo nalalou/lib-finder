@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "THOUSAND OAKS LIBRARY",
+      "system": "THOUSAND OAKS LIBRARY",
+      "address": "1401 E. JANSS RD., THOUSAND OAKS, CA",
+      "website": "https://www.google.com/search?q=THOUSAND+OAKS+LIBRARY+THOUSAND+OAKS+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "91362"
+      ]
+    },
+    {
+      "name": "CALABASAS CITY LIBRARY",
+      "system": "CALABASAS CITY LIBRARY",
+      "address": "200 CIVIC CENTER WAY, CALABASAS, CA",
+      "website": "https://www.google.com/search?q=CALABASAS+CITY+LIBRARY+CALABASAS+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "91302"
+      ]
+    },
+    {
+      "name": "SANTA CLARITA PUBLIC LIBRARY",
+      "system": "SANTA CLARITA PUBLIC LIBRARY",
+      "address": "23743 VALENCIA BLVD., SANTA CLARITA, CA",
+      "website": "https://www.google.com/search?q=SANTA+CLARITA+PUBLIC+LIBRARY+SANTA+CLARITA+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "91355"
+      ]
+    }
+  ]
+}

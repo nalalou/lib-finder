@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "PARK COUNTY LIBRARY SYSTEM",
+      "system": "PARK COUNTY LIBRARY SYSTEM",
+      "address": "1500 HEART MOUNTAIN STREET, CODY, WY",
+      "website": "https://www.google.com/search?q=PARK+COUNTY+LIBRARY+SYSTEM+CODY+WY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82414"
+      ]
+    },
+    {
+      "name": "BIG HORN COUNTY LIBRARY",
+      "system": "BIG HORN COUNTY LIBRARY",
+      "address": "430 WEST C ST, BASIN, WY",
+      "website": "https://www.google.com/search?q=BIG+HORN+COUNTY+LIBRARY+BASIN+WY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82410"
+      ]
+    },
+    {
+      "name": "HOT SPRINGS COUNTY LIBRARY",
+      "system": "HOT SPRINGS COUNTY LIBRARY",
+      "address": "344 ARAPAHOE STREET, THERMOPOLIS, WY",
+      "website": "https://www.google.com/search?q=HOT+SPRINGS+COUNTY+LIBRARY+THERMOPOLIS+WY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82443"
+      ]
+    },
+    {
+      "name": "WASHAKIE COUNTY LIBRARY",
+      "system": "WASHAKIE COUNTY LIBRARY",
+      "address": "801 BIG HORN AVE., SUITE 100, WORLAND, WY",
+      "website": "https://www.google.com/search?q=WASHAKIE+COUNTY+LIBRARY+WORLAND+WY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82401"
+      ]
+    }
+  ]
+}

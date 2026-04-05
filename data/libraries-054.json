@@ -1,0 +1,466 @@
+{
+  "libraries": [
+    {
+      "name": "ALBURGH PUBLIC",
+      "system": "ALBURGH PUBLIC",
+      "address": "16 S. MAIN ST., ALBURG, VT",
+      "website": "https://www.google.com/search?q=ALBURGH+PUBLIC+ALBURG+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05440"
+      ]
+    },
+    {
+      "name": "H. F. BRIGHAM FREE",
+      "system": "H. F. BRIGHAM FREE",
+      "address": "104 MAIN ST., BAKERSFIELD, VT",
+      "website": "https://www.google.com/search?q=H.+F.+BRIGHAM+FREE+BAKERSFIELD+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05441"
+      ]
+    },
+    {
+      "name": "LAWRENCE MEMORIAL",
+      "system": "LAWRENCE MEMORIAL",
+      "address": "40 NORTH ST., BRISTOL, VT",
+      "website": "https://www.google.com/search?q=LAWRENCE+MEMORIAL+BRISTOL+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05443"
+      ]
+    },
+    {
+      "name": "FLETCHER FREE",
+      "system": "FLETCHER FREE",
+      "address": "235 COLLEGE ST., BURLINGTON, VT",
+      "website": "https://www.google.com/search?q=FLETCHER+FREE+BURLINGTON+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05401"
+      ]
+    },
+    {
+      "name": "VARNUM MEMORIAL",
+      "system": "VARNUM MEMORIAL",
+      "address": "194 MAIN ST., JEFFERSONVILLE, VT",
+      "website": "https://www.google.com/search?q=VARNUM+MEMORIAL+JEFFERSONVILLE+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05464"
+      ]
+    },
+    {
+      "name": "CHARLOTTE",
+      "system": "CHARLOTTE",
+      "address": "115 FERRY RD., CHARLOTTE, VT",
+      "website": "https://www.google.com/search?q=CHARLOTTE+CHARLOTTE+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05445"
+      ]
+    },
+    {
+      "name": "BURNHAM MEMORIAL",
+      "system": "BURNHAM MEMORIAL",
+      "address": "898 MAIN ST., COLCHESTER, VT",
+      "website": "https://www.google.com/search?q=BURNHAM+MEMORIAL+COLCHESTER+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05446"
+      ]
+    },
+    {
+      "name": "ENOSBURGH PUBLIC",
+      "system": "ENOSBURGH PUBLIC",
+      "address": "241 MAIN ST., ENOSBURGH FALLS, VT",
+      "website": "https://www.google.com/search?q=ENOSBURGH+PUBLIC+ENOSBURGH+FALLS+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05450"
+      ]
+    },
+    {
+      "name": "ESSEX FREE",
+      "system": "ESSEX FREE",
+      "address": "1 BROWNS RIVER RD., ESSEX, VT",
+      "website": "https://www.google.com/search?q=ESSEX+FREE+ESSEX+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05452"
+      ]
+    },
+    {
+      "name": "BROWNELL",
+      "system": "BROWNELL",
+      "address": "6 LINCOLN ST., ESSEX JUNCTION, VT",
+      "website": "https://www.google.com/search?q=BROWNELL+ESSEX+JUNCTION+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05452"
+      ]
+    },
+    {
+      "name": "FAIRFAX COMMUNITY",
+      "system": "FAIRFAX COMMUNITY",
+      "address": "75 HUNT ST., FAIRFAX, VT",
+      "website": "https://www.google.com/search?q=FAIRFAX+COMMUNITY+FAIRFAX+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05454"
+      ]
+    },
+    {
+      "name": "BENT NORTHROP MEMORIAL",
+      "system": "BENT NORTHROP MEMORIAL",
+      "address": "164 PARK ST., FAIRFIELD, VT",
+      "website": "https://www.google.com/search?q=BENT+NORTHROP+MEMORIAL+FAIRFIELD+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05455"
+      ]
+    },
+    {
+      "name": "HASTON",
+      "system": "HASTON",
+      "address": "5167 MAIN ST., FRANKLIN, VT",
+      "website": "https://www.google.com/search?q=HASTON+FRANKLIN+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05457"
+      ]
+    },
+    {
+      "name": "GEORGIA PUBLIC",
+      "system": "GEORGIA PUBLIC",
+      "address": "1697 ETHAN ALLEN HWY, FAIRFAX, VT",
+      "website": "https://www.google.com/search?q=GEORGIA+PUBLIC+FAIRFAX+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05454"
+      ]
+    },
+    {
+      "name": "GRAND ISLE FREE",
+      "system": "GRAND ISLE FREE",
+      "address": "10 HYDE RD., GRAND ISLE, VT",
+      "website": "https://www.google.com/search?q=GRAND+ISLE+FREE+GRAND+ISLE+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05458"
+      ]
+    },
+    {
+      "name": "HIGHGATE PUBLIC",
+      "system": "HIGHGATE PUBLIC",
+      "address": "17 MILL HILL, HIGHGATE, VT",
+      "website": "https://www.google.com/search?q=HIGHGATE+PUBLIC+HIGHGATE+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05459"
+      ]
+    },
+    {
+      "name": "CARPENTER CARSE",
+      "system": "CARPENTER CARSE",
+      "address": "69 BALLARDS CORNER RD., HINESBURG, VT",
+      "website": "https://www.google.com/search?q=CARPENTER+CARSE+HINESBURG+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05461"
+      ]
+    },
+    {
+      "name": "HUNTINGTON PUBLIC",
+      "system": "HUNTINGTON PUBLIC",
+      "address": "2156 MAIN RD., HUNTINGTON, VT",
+      "website": "https://www.google.com/search?q=HUNTINGTON+PUBLIC+HUNTINGTON+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05462"
+      ]
+    },
+    {
+      "name": "ISLE LA MOTTE FREE PUBLIC",
+      "system": "ISLE LA MOTTE FREE PUBLIC",
+      "address": "2238 MAIN ST., ISLE LA MOTTE, VT",
+      "website": "https://www.google.com/search?q=ISLE+LA+MOTTE+FREE+PUBLIC+ISLE+LA+MOTTE+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05463"
+      ]
+    },
+    {
+      "name": "JERICHO TOWN",
+      "system": "JERICHO TOWN",
+      "address": "7 JERICHO CENTER CIRCLE, JERICHO CENTER, VT",
+      "website": "https://www.google.com/search?q=JERICHO+TOWN+JERICHO+CENTER+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05465"
+      ]
+    },
+    {
+      "name": "LINCOLN",
+      "system": "LINCOLN",
+      "address": "222 WEST RIVER RD., LINCOLN, VT",
+      "website": "https://www.google.com/search?q=LINCOLN+LINCOLN+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05443"
+      ]
+    },
+    {
+      "name": "MILTON PUBLIC",
+      "system": "MILTON PUBLIC",
+      "address": "39 BOMBARDIER RD., MILTON, VT",
+      "website": "https://www.google.com/search?q=MILTON+PUBLIC+MILTON+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05468"
+      ]
+    },
+    {
+      "name": "RUSSELL MEMORIAL",
+      "system": "RUSSELL MEMORIAL",
+      "address": "92 MONKTON RIDGE RD., NORTH FERRISBURGH, VT",
+      "website": "https://www.google.com/search?q=RUSSELL+MEMORIAL+NORTH+FERRISBURGH+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05473"
+      ]
+    },
+    {
+      "name": "MONTGOMERY TOWN",
+      "system": "MONTGOMERY TOWN",
+      "address": "86 MOUNTAIN RD., MONTGOMERY CENTER, VT",
+      "website": "https://www.google.com/search?q=MONTGOMERY+TOWN+MONTGOMERY+CENTER+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05471"
+      ]
+    },
+    {
+      "name": "NEW HAVEN COMMUNITY",
+      "system": "NEW HAVEN COMMUNITY",
+      "address": "78 NORTH ST., SUITE 2, NEW HAVEN, VT",
+      "website": "https://www.google.com/search?q=NEW+HAVEN+COMMUNITY+NEW+HAVEN+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05472"
+      ]
+    },
+    {
+      "name": "NORTH HERO PUBLIC",
+      "system": "NORTH HERO PUBLIC",
+      "address": "3195 US RTE 2, NORTH HERO, VT",
+      "website": "https://www.google.com/search?q=NORTH+HERO+PUBLIC+NORTH+HERO+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05474"
+      ]
+    },
+    {
+      "name": "ARVIN A. BROWN PUBLIC",
+      "system": "ARVIN A. BROWN PUBLIC",
+      "address": "88 MAIN ST., RICHFORD, VT",
+      "website": "https://www.google.com/search?q=ARVIN+A.+BROWN+PUBLIC+RICHFORD+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05476"
+      ]
+    },
+    {
+      "name": "RICHMOND FREE",
+      "system": "RICHMOND FREE",
+      "address": "201 BRIDGE ST., RICHMOND, VT",
+      "website": "https://www.google.com/search?q=RICHMOND+FREE+RICHMOND+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05477"
+      ]
+    },
+    {
+      "name": "ST. ALBANS FREE",
+      "system": "ST. ALBANS FREE",
+      "address": "11 MAIDEN LANE, ST. ALBANS, VT",
+      "website": "https://www.google.com/search?q=ST.+ALBANS+FREE+ST.+ALBANS+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05478"
+      ]
+    },
+    {
+      "name": "PIERSON",
+      "system": "PIERSON",
+      "address": "5376 SHELBURNE RD., SHELBURNE, VT",
+      "website": "https://www.google.com/search?q=PIERSON+SHELBURNE+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05482"
+      ]
+    },
+    {
+      "name": "SHELDON MUNICIPAL",
+      "system": "SHELDON MUNICIPAL",
+      "address": "1640 MAIN ST., SHELDON, VT",
+      "website": "https://www.google.com/search?q=SHELDON+MUNICIPAL+SHELDON+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05483"
+      ]
+    },
+    {
+      "name": "SOUTH BURLINGTON",
+      "system": "SOUTH BURLINGTON",
+      "address": "550 DORSET ST., S. BURLINGTON, VT",
+      "website": "https://www.google.com/search?q=SOUTH+BURLINGTON+S.+BURLINGTON+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05403"
+      ]
+    },
+    {
+      "name": "WORTHEN LIBRARY",
+      "system": "WORTHEN LIBRARY",
+      "address": "75 SOUTH ST., SOUTH HERO, VT",
+      "website": "https://www.google.com/search?q=WORTHEN+LIBRARY+SOUTH+HERO+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05486"
+      ]
+    },
+    {
+      "name": "STARKSBORO PUBLIC",
+      "system": "STARKSBORO PUBLIC",
+      "address": "2827 RTE. 116, STARKSBORO, VT",
+      "website": "https://www.google.com/search?q=STARKSBORO+PUBLIC+STARKSBORO+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05487"
+      ]
+    },
+    {
+      "name": "SWANTON PUBLIC",
+      "system": "SWANTON PUBLIC",
+      "address": "1 FIRST ST., SWANTON, VT",
+      "website": "https://www.google.com/search?q=SWANTON+PUBLIC+SWANTON+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05488"
+      ]
+    },
+    {
+      "name": "BIXBY MEMORIAL",
+      "system": "BIXBY MEMORIAL",
+      "address": "258 MAIN ST., VERGENNES, VT",
+      "website": "https://www.google.com/search?q=BIXBY+MEMORIAL+VERGENNES+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05491"
+      ]
+    },
+    {
+      "name": "WATERVILLE TOWN",
+      "system": "WATERVILLE TOWN",
+      "address": "RTE. 109 & BEALS HILL, WATERVILLE, VT",
+      "website": "https://www.google.com/search?q=WATERVILLE+TOWN+WATERVILLE+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05492"
+      ]
+    },
+    {
+      "name": "WESTFORD PUBLIC",
+      "system": "WESTFORD PUBLIC",
+      "address": "1717 VT RTE. 128, WESTFORD, VT",
+      "website": "https://www.google.com/search?q=WESTFORD+PUBLIC+WESTFORD+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05494"
+      ]
+    },
+    {
+      "name": "DOROTHY ALLING MEMORIAL",
+      "system": "DOROTHY ALLING MEMORIAL",
+      "address": "21 LIBRARY LANE, WILLISTON, VT",
+      "website": "https://www.google.com/search?q=DOROTHY+ALLING+MEMORIAL+WILLISTON+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05495"
+      ]
+    },
+    {
+      "name": "WINOOSKI MEMORIAL",
+      "system": "WINOOSKI MEMORIAL",
+      "address": "32 MALLETTS BAY AVENUE, WINOOSKI, VT",
+      "website": "https://www.google.com/search?q=WINOOSKI+MEMORIAL+WINOOSKI+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05404"
+      ]
+    },
+    {
+      "name": "DEBORAH RAWSON MEMORIAL",
+      "system": "DEBORAH RAWSON MEMORIAL",
+      "address": "8 RIVER RD., JERICHO, VT",
+      "website": "https://www.google.com/search?q=DEBORAH+RAWSON+MEMORIAL+JERICHO+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05465"
+      ]
+    },
+    {
+      "name": "FRANKLIN-GRAND ISLE BOOKMOBILE",
+      "system": "FRANKLIN-GRAND ISLE BOOKMOBILE",
+      "address": "100 ROBIN HOOD DR., SWANTON, VT",
+      "website": "https://www.google.com/search?q=FRANKLIN-GRAND+ISLE+BOOKMOBILE+SWANTON+VT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "05488"
+      ]
+    }
+  ]
+}

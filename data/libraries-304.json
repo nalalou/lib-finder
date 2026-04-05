@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "STATESBORO REGIONAL PUBLIC LIBRARIES",
+      "system": "STATESBORO REGIONAL PUBLIC LIBRARIES",
+      "address": "124 SOUTH MAIN STREET, STATESBORO, GA",
+      "website": "https://www.google.com/search?q=STATESBORO+REGIONAL+PUBLIC+LIBRARIES+STATESBORO+GA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30458"
+      ]
+    },
+    {
+      "name": "JEFFERSON COUNTY LIBRARY SYSTEM",
+      "system": "JEFFERSON COUNTY LIBRARY SYSTEM",
+      "address": "306 E. BROAD STREET, LOUISVILLE, GA",
+      "website": "https://www.google.com/search?q=JEFFERSON+COUNTY+LIBRARY+SYSTEM+LOUISVILLE+GA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30434"
+      ]
+    },
+    {
+      "name": "SCREVEN-JENKINS REGIONAL LIBRARY SYSTEM",
+      "system": "SCREVEN-JENKINS REGIONAL LIBRARY SYSTEM",
+      "address": "106 S. COMMUNITY DR, SYLVANIA, GA",
+      "website": "https://www.google.com/search?q=SCREVEN-JENKINS+REGIONAL+LIBRARY+SYSTEM+SYLVANIA+GA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30467"
+      ]
+    },
+    {
+      "name": "OHOOPEE REGIONAL LIBRARY SYSTEM",
+      "system": "OHOOPEE REGIONAL LIBRARY SYSTEM",
+      "address": "610 JACKSON STREET, VIDALIA, GA",
+      "website": "https://www.google.com/search?q=OHOOPEE+REGIONAL+LIBRARY+SYSTEM+VIDALIA+GA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30474"
+      ]
+    }
+  ]
+}

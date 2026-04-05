@@ -1,0 +1,70 @@
+{
+  "libraries": [
+    {
+      "name": "BEVERLY HILLS PUBLIC LIBRARY",
+      "system": "BEVERLY HILLS PUBLIC LIBRARY",
+      "address": "444 N. REXFORD DR., BEVERLY HILLS, CA",
+      "website": "https://www.google.com/search?q=BEVERLY+HILLS+PUBLIC+LIBRARY+BEVERLY+HILLS+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "90210"
+      ]
+    },
+    {
+      "name": "DOWNEY CITY LIBRARY",
+      "system": "DOWNEY CITY LIBRARY",
+      "address": "11121 BROOKSHIRE AVE., DOWNEY, CA",
+      "website": "https://www.google.com/search?q=DOWNEY+CITY+LIBRARY+DOWNEY+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "90241"
+      ]
+    },
+    {
+      "name": "EL SEGUNDO PUBLIC LIBRARY",
+      "system": "EL SEGUNDO PUBLIC LIBRARY",
+      "address": "111 W. MARIPOSA AVE., EL SEGUNDO, CA",
+      "website": "https://www.google.com/search?q=EL+SEGUNDO+PUBLIC+LIBRARY+EL+SEGUNDO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "90245"
+      ]
+    },
+    {
+      "name": "LA COUNTY LIBRARY",
+      "system": "LA COUNTY LIBRARY",
+      "address": "7400 E. IMPERIAL HIGHWAY, DOWNEY, CA",
+      "website": "https://www.google.com/search?q=LA+COUNTY+LIBRARY+DOWNEY+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "90241"
+      ]
+    },
+    {
+      "name": "PALOS VERDES LIBRARY DISTRICT",
+      "system": "PALOS VERDES LIBRARY DISTRICT",
+      "address": "701 SILVER SPUR RD., ROLLING HILLS ESTATE, CA",
+      "website": "https://www.google.com/search?q=PALOS+VERDES+LIBRARY+DISTRICT+ROLLING+HILLS+ESTATE+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "90274"
+      ]
+    },
+    {
+      "name": "REDONDO BEACH PUBLIC LIBRARY",
+      "system": "REDONDO BEACH PUBLIC LIBRARY",
+      "address": "303 N. PACIFIC COAST HWY, REDONDO BEACH, CA",
+      "website": "https://www.google.com/search?q=REDONDO+BEACH+PUBLIC+LIBRARY+REDONDO+BEACH+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "90277"
+      ]
+    }
+  ]
+}

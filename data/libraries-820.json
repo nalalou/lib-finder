@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "ALBANY COUNTY PUBLIC LIBRARY",
+      "system": "ALBANY COUNTY PUBLIC LIBRARY",
+      "address": "310 SOUTH 8TH ST, LARAMIE, WY",
+      "website": "http://www.albanycountylibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82070"
+      ]
+    },
+    {
+      "name": "LARAMIE COUNTY LIBRARY SYSTEM",
+      "system": "LARAMIE COUNTY LIBRARY SYSTEM",
+      "address": "2200 PIONEER AVE, CHEYENNE, WY",
+      "website": "https://www.google.com/search?q=LARAMIE+COUNTY+LIBRARY+SYSTEM+CHEYENNE+WY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82001"
+      ]
+    }
+  ]
+}

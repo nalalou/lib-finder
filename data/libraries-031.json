@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "HOOKSETT PUBLIC LIBRARY",
+      "system": "HOOKSETT PUBLIC LIBRARY",
+      "address": "31 MOUNT SAINT MARY'S WAY, HOOKSETT, NH",
+      "website": "https://www.google.com/search?q=HOOKSETT+PUBLIC+LIBRARY+HOOKSETT+NH+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03106"
+      ]
+    },
+    {
+      "name": "MANCHESTER CITY LIBRARY",
+      "system": "MANCHESTER CITY LIBRARY",
+      "address": "405 PINE STREET, MANCHESTER, NH",
+      "website": "https://www.google.com/search?q=MANCHESTER+CITY+LIBRARY+MANCHESTER+NH+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03104"
+      ]
+    },
+    {
+      "name": "BEDFORD PUBLIC LIBRARY",
+      "system": "BEDFORD PUBLIC LIBRARY",
+      "address": "3 MEETINGHOUSE ROAD, BEDFORD, NH",
+      "website": "https://www.bedlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "03110"
+      ]
+    }
+  ]
+}

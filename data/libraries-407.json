@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "LAUREL COUNTY PUBLIC LIBRARY",
+      "system": "LAUREL COUNTY PUBLIC LIBRARY",
+      "address": "120 COLLEGE PARK DRIVE, LONDON, KY",
+      "website": "https://www.google.com/search?q=LAUREL+COUNTY+PUBLIC+LIBRARY+LONDON+KY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40741"
+      ]
+    },
+    {
+      "name": "WHITLEY COUNTY PUBLIC LIBRARY",
+      "system": "WHITLEY COUNTY PUBLIC LIBRARY",
+      "address": "285 SOUTH THIRD STREET, WILLIAMSBURG, KY",
+      "website": "https://www.google.com/search?q=WHITLEY+COUNTY+PUBLIC+LIBRARY+WILLIAMSBURG+KY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40769"
+      ]
+    },
+    {
+      "name": "CORBIN PUBLIC LIBRARY",
+      "system": "CORBIN PUBLIC LIBRARY",
+      "address": "215 ROY KIDD AVENUE, CORBIN, KY",
+      "website": "https://www.google.com/search?q=CORBIN+PUBLIC+LIBRARY+CORBIN+KY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "40701"
+      ]
+    }
+  ]
+}

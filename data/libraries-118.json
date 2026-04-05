@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "HICKSVILLE FREE PUBLIC LIBRARY",
+      "system": "HICKSVILLE FREE PUBLIC LIBRARY",
+      "address": "169 JERUSALEM AVENUE, HICKSVILLE, NY",
+      "website": "https://www.google.com/search?q=HICKSVILLE+FREE+PUBLIC+LIBRARY+HICKSVILLE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11801"
+      ]
+    },
+    {
+      "name": "PLAINVIEW-OLD BETHPAGE PUBLIC LIBRARY",
+      "system": "PLAINVIEW-OLD BETHPAGE PUBLIC LIBRARY",
+      "address": "999 OLD COUNTRY ROAD, PLAINVIEW, NY",
+      "website": "https://www.google.com/search?q=PLAINVIEW-OLD+BETHPAGE+PUBLIC+LIBRARY+PLAINVIEW+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11803"
+      ]
+    }
+  ]
+}

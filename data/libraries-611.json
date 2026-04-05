@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "NORTH SUBURBAN PUBLIC LIBRARY DISTRICT",
+      "system": "NORTH SUBURBAN PUBLIC LIBRARY DISTRICT",
+      "address": "6340 NORTH SECOND STREET, LOVES PARK, IL",
+      "website": "https://www.google.com/search?q=NORTH+SUBURBAN+PUBLIC+LIBRARY+DISTRICT+LOVES+PARK+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61111"
+      ]
+    },
+    {
+      "name": "ROCKFORD PUBLIC LIBRARY",
+      "system": "ROCKFORD PUBLIC LIBRARY",
+      "address": "214 NORTH CHURCH STREET, ROCKFORD, IL",
+      "website": "https://www.google.com/search?q=ROCKFORD+PUBLIC+LIBRARY+ROCKFORD+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "61101"
+      ]
+    }
+  ]
+}

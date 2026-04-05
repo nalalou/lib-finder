@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "BROOKS COUNTY PUBLIC LIBRARY",
+      "system": "BROOKS COUNTY PUBLIC LIBRARY",
+      "address": "404 BARWICK ROAD, QUITMAN, GA",
+      "website": "http://brooks.public.lib.ga.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31643"
+      ]
+    },
+    {
+      "name": "SOUTH GEORGIA REGIONAL LIBRARY",
+      "system": "SOUTH GEORGIA REGIONAL LIBRARY",
+      "address": "2906 JULIA DRIVE, VALDOSTA, GA",
+      "website": "https://www.google.com/search?q=SOUTH+GEORGIA+REGIONAL+LIBRARY+VALDOSTA+GA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "31602"
+      ]
+    }
+  ]
+}

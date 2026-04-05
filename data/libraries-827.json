@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "CAMPBELL COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "CAMPBELL COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "2101 S 4-J ROAD, GILLETTE, WY",
+      "website": "https://www.ccgov.net/384/Library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82718"
+      ]
+    },
+    {
+      "name": "CROOK COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "CROOK COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "414 MAIN STREET, SUNDANCE, WY",
+      "website": "https://www.google.com/search?q=CROOK+COUNTY+PUBLIC+LIBRARY+SYSTEM+SUNDANCE+WY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82729"
+      ]
+    },
+    {
+      "name": "WESTON COUNTY LIBRARY SYSTEM",
+      "system": "WESTON COUNTY LIBRARY SYSTEM",
+      "address": "23 WEST MAIN STREET, NEWCASTLE, WY",
+      "website": "https://www.google.com/search?q=WESTON+COUNTY+LIBRARY+SYSTEM+NEWCASTLE+WY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82701"
+      ]
+    }
+  ]
+}

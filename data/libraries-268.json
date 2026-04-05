@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "GRANT COUNTY PUBLIC LIBRARY",
+      "system": "GRANT COUNTY PUBLIC LIBRARY",
+      "address": "18 MT. VIEW STREET, PETERSBURG, WV",
+      "website": "http://grantlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26847"
+      ]
+    },
+    {
+      "name": "PENDLETON COUNTY PUBLIC LIBRARY",
+      "system": "PENDLETON COUNTY PUBLIC LIBRARY",
+      "address": "256 NORTH MAIN STREET, FRANKLIN, WV",
+      "website": "https://www.google.com/search?q=PENDLETON+COUNTY+PUBLIC+LIBRARY+FRANKLIN+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26807"
+      ]
+    },
+    {
+      "name": "HARDY COUNTY PUBLIC LIBRARY",
+      "system": "HARDY COUNTY PUBLIC LIBRARY",
+      "address": "102 N. MAIN ST., MOOREFIELD, WV",
+      "website": "http://hardycounty.martin.lib.wv.us",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26836"
+      ]
+    }
+  ]
+}

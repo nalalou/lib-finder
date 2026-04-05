@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "NEW ROCHELLE PUBLIC LIBRARY",
+      "system": "NEW ROCHELLE PUBLIC LIBRARY",
+      "address": "ONE LIBRARY PLAZA, NEW ROCHELLE, NY",
+      "website": "http://www.nrpl.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "10801"
+      ]
+    },
+    {
+      "name": "TOWN OF PELHAM PUBLIC LIBRARY",
+      "system": "TOWN OF PELHAM PUBLIC LIBRARY",
+      "address": "530 COLONIAL AVENUE, PELHAM, NY",
+      "website": "https://www.google.com/search?q=TOWN+OF+PELHAM+PUBLIC+LIBRARY+PELHAM+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "10803"
+      ]
+    }
+  ]
+}

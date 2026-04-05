@@ -1,0 +1,554 @@
+{
+  "libraries": [
+    {
+      "name": "BAYVILLE FREE LIBRARY",
+      "system": "BAYVILLE FREE LIBRARY",
+      "address": "34 SCHOOL STREET, BAYVILLE, NY",
+      "website": "https://www.google.com/search?q=BAYVILLE+FREE+LIBRARY+BAYVILLE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11709"
+      ]
+    },
+    {
+      "name": "BELLMORE MEMORIAL LIBRARY",
+      "system": "BELLMORE MEMORIAL LIBRARY",
+      "address": "2288 BEDFORD AVENUE, BELLMORE, NY",
+      "website": "https://www.google.com/search?q=BELLMORE+MEMORIAL+LIBRARY+BELLMORE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11710"
+      ]
+    },
+    {
+      "name": "BETHPAGE PUBLIC LIBRARY",
+      "system": "BETHPAGE PUBLIC LIBRARY",
+      "address": "47 POWELL AVENUE, BETHPAGE, NY",
+      "website": "https://www.google.com/search?q=BETHPAGE+PUBLIC+LIBRARY+BETHPAGE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11714"
+      ]
+    },
+    {
+      "name": "FARMINGDALE PUBLIC LIBRARY",
+      "system": "FARMINGDALE PUBLIC LIBRARY",
+      "address": "116 MERRITTS ROAD, FARMINGDALE, NY",
+      "website": "https://www.google.com/search?q=FARMINGDALE+PUBLIC+LIBRARY+FARMINGDALE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11735"
+      ]
+    },
+    {
+      "name": "ISLAND TREES PUBLIC LIBRARY",
+      "system": "ISLAND TREES PUBLIC LIBRARY",
+      "address": "38 FARMEDGE ROAD, LEVITTOWN, NY",
+      "website": "https://www.google.com/search?q=ISLAND+TREES+PUBLIC+LIBRARY+LEVITTOWN+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11756"
+      ]
+    },
+    {
+      "name": "JERICHO PUBLIC LIBRARY",
+      "system": "JERICHO PUBLIC LIBRARY",
+      "address": "1 MERRY LANE, JERICHO, NY",
+      "website": "https://www.google.com/search?q=JERICHO+PUBLIC+LIBRARY+JERICHO+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11753"
+      ]
+    },
+    {
+      "name": "LEVITTOWN PUBLIC LIBRARY",
+      "system": "LEVITTOWN PUBLIC LIBRARY",
+      "address": "1 BLUEGRASS LANE, LEVITTOWN, NY",
+      "website": "https://www.google.com/search?q=LEVITTOWN+PUBLIC+LIBRARY+LEVITTOWN+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11756"
+      ]
+    },
+    {
+      "name": "MASSAPEQUA PUBLIC LIBRARY",
+      "system": "MASSAPEQUA PUBLIC LIBRARY",
+      "address": "40 HARBOR LANE, MASSAPEQUA PARK, NY",
+      "website": "https://www.google.com/search?q=MASSAPEQUA+PUBLIC+LIBRARY+MASSAPEQUA+PARK+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11762"
+      ]
+    },
+    {
+      "name": "NORTH BELLMORE PUBLIC LIBRARY",
+      "system": "NORTH BELLMORE PUBLIC LIBRARY",
+      "address": "1551 NEWBRIDGE ROAD, NORTH BELLMORE, NY",
+      "website": "https://www.google.com/search?q=NORTH+BELLMORE+PUBLIC+LIBRARY+NORTH+BELLMORE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11710"
+      ]
+    },
+    {
+      "name": "OYSTER BAY-EAST NORWICH PUBLIC LIBRARY",
+      "system": "OYSTER BAY-EAST NORWICH PUBLIC LIBRARY",
+      "address": "89 EAST MAIN STREET, OYSTER BAY, NY",
+      "website": "https://www.google.com/search?q=OYSTER+BAY-EAST+NORWICH+PUBLIC+LIBRARY+OYSTER+BAY+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11771"
+      ]
+    },
+    {
+      "name": "PLAINEDGE PUBLIC LIBRARY",
+      "system": "PLAINEDGE PUBLIC LIBRARY",
+      "address": "1060 HICKSVILLE ROAD, NORTH MASSAPEQUA, NY",
+      "website": "https://www.google.com/search?q=PLAINEDGE+PUBLIC+LIBRARY+NORTH+MASSAPEQUA+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11758"
+      ]
+    },
+    {
+      "name": "SEAFORD PUBLIC LIBRARY",
+      "system": "SEAFORD PUBLIC LIBRARY",
+      "address": "2234 JACKSON AVENUE, SEAFORD, NY",
+      "website": "https://www.google.com/search?q=SEAFORD+PUBLIC+LIBRARY+SEAFORD+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11783"
+      ]
+    },
+    {
+      "name": "SYOSSET PUBLIC LIBRARY",
+      "system": "SYOSSET PUBLIC LIBRARY",
+      "address": "225 SOUTH OYSTER BAY ROAD, SYOSSET, NY",
+      "website": "https://www.google.com/search?q=SYOSSET+PUBLIC+LIBRARY+SYOSSET+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11791"
+      ]
+    },
+    {
+      "name": "WANTAGH PUBLIC LIBRARY",
+      "system": "WANTAGH PUBLIC LIBRARY",
+      "address": "3285 PARK AVENUE, WANTAGH, NY",
+      "website": "https://www.google.com/search?q=WANTAGH+PUBLIC+LIBRARY+WANTAGH+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11793"
+      ]
+    },
+    {
+      "name": "AMITYVILLE PUBLIC LIBRARY",
+      "system": "AMITYVILLE PUBLIC LIBRARY",
+      "address": "19 JOHN STREET, AMITYVILLE, NY",
+      "website": "https://www.google.com/search?q=AMITYVILLE+PUBLIC+LIBRARY+AMITYVILLE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11701"
+      ]
+    },
+    {
+      "name": "BABYLON SCHOOL DISTRICT PUBLIC LIBRARY",
+      "system": "BABYLON SCHOOL DISTRICT PUBLIC LIBRARY",
+      "address": "24 SOUTH CARLL AVENUE, BABYLON, NY",
+      "website": "https://www.google.com/search?q=BABYLON+SCHOOL+DISTRICT+PUBLIC+LIBRARY+BABYLON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11702"
+      ]
+    },
+    {
+      "name": "SOUTH COUNTRY LIBRARY",
+      "system": "SOUTH COUNTRY LIBRARY",
+      "address": "22 STATION ROAD, BELLPORT, NY",
+      "website": "https://www.google.com/search?q=SOUTH+COUNTRY+LIBRARY+BELLPORT+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11713"
+      ]
+    },
+    {
+      "name": "BAYPORT-BLUE POINT PUBLIC LIBRARY",
+      "system": "BAYPORT-BLUE POINT PUBLIC LIBRARY",
+      "address": "186 MIDDLE ROAD, BLUE POINT, NY",
+      "website": "https://www.google.com/search?q=BAYPORT-BLUE+POINT+PUBLIC+LIBRARY+BLUE+POINT+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11715"
+      ]
+    },
+    {
+      "name": "CONNETQUOT PUBLIC LIBRARY",
+      "system": "CONNETQUOT PUBLIC LIBRARY",
+      "address": "760 OCEAN AVENUE, BOHEMIA, NY",
+      "website": "https://www.google.com/search?q=CONNETQUOT+PUBLIC+LIBRARY+BOHEMIA+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11716"
+      ]
+    },
+    {
+      "name": "BRENTWOOD PUBLIC LIBRARY",
+      "system": "BRENTWOOD PUBLIC LIBRARY",
+      "address": "34 SECOND AVENUE, BRENTWOOD, NY",
+      "website": "http://www.brentwood.lib.mo.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11717"
+      ]
+    },
+    {
+      "name": "BAY SHORE-BRIGHTWATERS PUBLIC LIBRARY",
+      "system": "BAY SHORE-BRIGHTWATERS PUBLIC LIBRARY",
+      "address": "ONE SOUTH COUNTRY ROAD, BRIGHTWATERS, NY",
+      "website": "https://www.google.com/search?q=BAY+SHORE-BRIGHTWATERS+PUBLIC+LIBRARY+BRIGHTWATERS+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11718"
+      ]
+    },
+    {
+      "name": "BROOKHAVEN FREE LIBRARY",
+      "system": "BROOKHAVEN FREE LIBRARY",
+      "address": "273 BEAVER DAM ROAD, BROOKHAVEN, NY",
+      "website": "https://www.google.com/search?q=BROOKHAVEN+FREE+LIBRARY+BROOKHAVEN+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11719"
+      ]
+    },
+    {
+      "name": "MIDDLE COUNTRY PUBLIC LIBRARY",
+      "system": "MIDDLE COUNTRY PUBLIC LIBRARY",
+      "address": "101 EASTWOOD BOULEVARD, CENTEREACH, NY",
+      "website": "https://www.google.com/search?q=MIDDLE+COUNTRY+PUBLIC+LIBRARY+CENTEREACH+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11720"
+      ]
+    },
+    {
+      "name": "CENTRAL ISLIP PUBLIC LIBRARY",
+      "system": "CENTRAL ISLIP PUBLIC LIBRARY",
+      "address": "33 HAWTHORNE AVENUE, CENTRAL ISLIP, NY",
+      "website": "https://www.google.com/search?q=CENTRAL+ISLIP+PUBLIC+LIBRARY+CENTRAL+ISLIP+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11722"
+      ]
+    },
+    {
+      "name": "COLD SPRING HARBOR VILLAGE IMPROVEMENT SOCIETY LIBRARY",
+      "system": "COLD SPRING HARBOR VILLAGE IMPROVEMENT SOCIETY LIBRARY",
+      "address": "95 HARBOR RD, COLD SPRING HARBOR, NY",
+      "website": "https://www.google.com/search?q=COLD+SPRING+HARBOR+VILLAGE+IMPROVEMENT+SOCIETY+LIBRARY+COLD+SPRING+HARBOR+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11724"
+      ]
+    },
+    {
+      "name": "COMMACK PUBLIC LIBRARY DISTRICT",
+      "system": "COMMACK PUBLIC LIBRARY DISTRICT",
+      "address": "18 HAUPPAUGE ROAD, COMMACK, NY",
+      "website": "https://www.google.com/search?q=COMMACK+PUBLIC+LIBRARY+DISTRICT+COMMACK+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11725"
+      ]
+    },
+    {
+      "name": "COPIAGUE MEMORIAL PUBLIC LIBRARY",
+      "system": "COPIAGUE MEMORIAL PUBLIC LIBRARY",
+      "address": "50 DEAUVILLE BOULEVARD, COPIAGUE, NY",
+      "website": "https://www.google.com/search?q=COPIAGUE+MEMORIAL+PUBLIC+LIBRARY+COPIAGUE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11726"
+      ]
+    },
+    {
+      "name": "DEER PARK PUBLIC LIBRARY",
+      "system": "DEER PARK PUBLIC LIBRARY",
+      "address": "44 LAKE AVENUE, DEER PARK, NY",
+      "website": "https://www.google.com/search?q=DEER+PARK+PUBLIC+LIBRARY+DEER+PARK+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11729"
+      ]
+    },
+    {
+      "name": "HALF HOLLOW HILLS COMMUNITY PUBLIC LIBRARY",
+      "system": "HALF HOLLOW HILLS COMMUNITY PUBLIC LIBRARY",
+      "address": "55 VANDERBILT PARKWAY, DIX HILLS, NY",
+      "website": "https://www.google.com/search?q=HALF+HOLLOW+HILLS+COMMUNITY+PUBLIC+LIBRARY+DIX+HILLS+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11746"
+      ]
+    },
+    {
+      "name": "EAST ISLIP PUBLIC LIBRARY",
+      "system": "EAST ISLIP PUBLIC LIBRARY",
+      "address": "381 EAST MAIN STREET, EAST ISLIP, NY",
+      "website": "https://www.google.com/search?q=EAST+ISLIP+PUBLIC+LIBRARY+EAST+ISLIP+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11730"
+      ]
+    },
+    {
+      "name": "HARBORFIELDS PUBLIC LIBRARY",
+      "system": "HARBORFIELDS PUBLIC LIBRARY",
+      "address": "31 BROADWAY, GREENLAWN, NY",
+      "website": "https://www.google.com/search?q=HARBORFIELDS+PUBLIC+LIBRARY+GREENLAWN+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11740"
+      ]
+    },
+    {
+      "name": "SACHEM PUBLIC LIBRARY",
+      "system": "SACHEM PUBLIC LIBRARY",
+      "address": "150 HOLBROOK ROAD, HOLBROOK, NY",
+      "website": "https://www.sachemlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11741"
+      ]
+    },
+    {
+      "name": "HUNTINGTON PUBLIC LIBRARY",
+      "system": "HUNTINGTON PUBLIC LIBRARY",
+      "address": "338 MAIN STREET, HUNTINGTON, NY",
+      "website": "https://www.google.com/search?q=HUNTINGTON+PUBLIC+LIBRARY+HUNTINGTON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11743"
+      ]
+    },
+    {
+      "name": "SOUTH HUNTINGTON PUBLIC LIBRARY",
+      "system": "SOUTH HUNTINGTON PUBLIC LIBRARY",
+      "address": "145 PIDGEON HILL ROAD, HUNTINGTON STATIO, NY",
+      "website": "https://www.google.com/search?q=SOUTH+HUNTINGTON+PUBLIC+LIBRARY+HUNTINGTON+STATIO+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11746"
+      ]
+    },
+    {
+      "name": "ISLIP PUBLIC LIBRARY",
+      "system": "ISLIP PUBLIC LIBRARY",
+      "address": "71 MONELL AVENUE, ISLIP, NY",
+      "website": "https://www.google.com/search?q=ISLIP+PUBLIC+LIBRARY+ISLIP+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11751"
+      ]
+    },
+    {
+      "name": "LINDENHURST MEMORIAL LIBRARY",
+      "system": "LINDENHURST MEMORIAL LIBRARY",
+      "address": "ONE LEE AVENUE, LINDENHURST, NY",
+      "website": "http://www.lmlonline.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11757"
+      ]
+    },
+    {
+      "name": "NORTH BABYLON PUBLIC LIBRARY",
+      "system": "NORTH BABYLON PUBLIC LIBRARY",
+      "address": "815 DEER PARK AVENUE, NORTH BABYLON, NY",
+      "website": "https://www.google.com/search?q=NORTH+BABYLON+PUBLIC+LIBRARY+NORTH+BABYLON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11703"
+      ]
+    },
+    {
+      "name": "NORTHPORT PUBLIC LIBRARY",
+      "system": "NORTHPORT PUBLIC LIBRARY",
+      "address": "151 LAUREL AVENUE, NORTHPORT, NY",
+      "website": "https://www.google.com/search?q=NORTHPORT+PUBLIC+LIBRARY+NORTHPORT+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11768"
+      ]
+    },
+    {
+      "name": "PATCHOGUE-MEDFORD LIBRARY",
+      "system": "PATCHOGUE-MEDFORD LIBRARY",
+      "address": "54-60 EAST MAIN STREET, PATCHOGUE, NY",
+      "website": "https://www.google.com/search?q=PATCHOGUE-MEDFORD+LIBRARY+PATCHOGUE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11772"
+      ]
+    },
+    {
+      "name": "PORT JEFFERSON FREE LIBRARY",
+      "system": "PORT JEFFERSON FREE LIBRARY",
+      "address": "100 THOMPSON STREET, PORT JEFFERSON, NY",
+      "website": "https://www.google.com/search?q=PORT+JEFFERSON+FREE+LIBRARY+PORT+JEFFERSON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11777"
+      ]
+    },
+    {
+      "name": "COMSEWOGUE PUBLIC LIBRARY",
+      "system": "COMSEWOGUE PUBLIC LIBRARY",
+      "address": "170 TERRYVILLE ROAD, PORT JEFFERSON STATI, NY",
+      "website": "https://www.google.com/search?q=COMSEWOGUE+PUBLIC+LIBRARY+PORT+JEFFERSON+STATI+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11776"
+      ]
+    },
+    {
+      "name": "SAYVILLE LIBRARY",
+      "system": "SAYVILLE LIBRARY",
+      "address": "88 GREENE AVENUE, SAYVILLE, NY",
+      "website": "https://www.google.com/search?q=SAYVILLE+LIBRARY+SAYVILLE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11782"
+      ]
+    },
+    {
+      "name": "EMMA S. CLARK MEMORIAL LIBRARY",
+      "system": "EMMA S. CLARK MEMORIAL LIBRARY",
+      "address": "120 MAIN STREET, SETAUKET, NY",
+      "website": "https://www.google.com/search?q=EMMA+S.+CLARK+MEMORIAL+LIBRARY+SETAUKET+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11733"
+      ]
+    },
+    {
+      "name": "NORTH SHORE PUBLIC LIBRARY DISTRICT",
+      "system": "NORTH SHORE PUBLIC LIBRARY DISTRICT",
+      "address": "250 ROUTE 25A, SHOREHAM, NY",
+      "website": "https://www.google.com/search?q=NORTH+SHORE+PUBLIC+LIBRARY+DISTRICT+SHOREHAM+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11786"
+      ]
+    },
+    {
+      "name": "SMITHTOWN SPECIAL LIBRARY DISTRICT",
+      "system": "SMITHTOWN SPECIAL LIBRARY DISTRICT",
+      "address": "148 SMITHTOWN BOULEVARD, NESCONSET, NY",
+      "website": "https://www.google.com/search?q=SMITHTOWN+SPECIAL+LIBRARY+DISTRICT+NESCONSET+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11767"
+      ]
+    },
+    {
+      "name": "WEST BABYLON PUBLIC LIBRARY",
+      "system": "WEST BABYLON PUBLIC LIBRARY",
+      "address": "211 ROUTE 109, WEST BABYLON, NY",
+      "website": "https://www.google.com/search?q=WEST+BABYLON+PUBLIC+LIBRARY+WEST+BABYLON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11704"
+      ]
+    },
+    {
+      "name": "WEST ISLIP PUBLIC LIBRARY",
+      "system": "WEST ISLIP PUBLIC LIBRARY",
+      "address": "3 HIGBIE LANE, WEST ISLIP, NY",
+      "website": "https://www.google.com/search?q=WEST+ISLIP+PUBLIC+LIBRARY+WEST+ISLIP+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11795"
+      ]
+    },
+    {
+      "name": "WYANDANCH PUBLIC LIBRARY",
+      "system": "WYANDANCH PUBLIC LIBRARY",
+      "address": "14 SOUTH 20TH STREET, WYANDANCH, NY",
+      "website": "https://www.google.com/search?q=WYANDANCH+PUBLIC+LIBRARY+WYANDANCH+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11798"
+      ]
+    },
+    {
+      "name": "ELWOOD PUBLIC LIBRARY",
+      "system": "ELWOOD PUBLIC LIBRARY",
+      "address": "1929 JERICHO TURNPIKE, ELWOOD, NY",
+      "website": "https://www.google.com/search?q=ELWOOD+PUBLIC+LIBRARY+ELWOOD+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11731"
+      ]
+    },
+    {
+      "name": "HAUPPAUGE PUBLIC LIBRARY",
+      "system": "HAUPPAUGE PUBLIC LIBRARY",
+      "address": "1373 VETERANS MEMORIAL HWY., HAUPPAUGE, NY",
+      "website": "https://www.google.com/search?q=HAUPPAUGE+PUBLIC+LIBRARY+HAUPPAUGE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "11788"
+      ]
+    }
+  ]
+}

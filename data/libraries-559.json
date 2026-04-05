@@ -1,0 +1,312 @@
+{
+  "libraries": [
+    {
+      "name": "AUSTIN PUBLIC LIBRARY",
+      "system": "AUSTIN PUBLIC LIBRARY",
+      "address": "323 FOURTH AVE NE, AUSTIN, MN",
+      "website": "https://library.austintexas.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55912"
+      ]
+    },
+    {
+      "name": "CALEDONIA PUBLIC LIBRARY",
+      "system": "CALEDONIA PUBLIC LIBRARY",
+      "address": "231 E MAIN STREET, CALEDONIA, MN",
+      "website": "https://www.google.com/search?q=CALEDONIA+PUBLIC+LIBRARY+CALEDONIA+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55921"
+      ]
+    },
+    {
+      "name": "CHATFIELD PUBLIC LIBRARY",
+      "system": "CHATFIELD PUBLIC LIBRARY",
+      "address": "314 S MAIN STREET, CHATFIELD, MN",
+      "website": "http://www.chatfieldpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55923"
+      ]
+    },
+    {
+      "name": "DODGE CENTER PUBLIC LIBRARY",
+      "system": "DODGE CENTER PUBLIC LIBRARY",
+      "address": "13 1ST AVENUE NW, DODGE CENTER, MN",
+      "website": "https://www.google.com/search?q=DODGE+CENTER+PUBLIC+LIBRARY+DODGE+CENTER+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55927"
+      ]
+    },
+    {
+      "name": "HARMONY PUBLIC LIBRARY",
+      "system": "HARMONY PUBLIC LIBRARY",
+      "address": "225 3RD AV SW, HARMONY, MN",
+      "website": "https://www.google.com/search?q=HARMONY+PUBLIC+LIBRARY+HARMONY+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55939"
+      ]
+    },
+    {
+      "name": "HOKAH PUBLIC LIBRARY",
+      "system": "HOKAH PUBLIC LIBRARY",
+      "address": "57 MAIN, HOKAH, MN",
+      "website": "http://www.cityofhokah-mn.gov/library.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55941"
+      ]
+    },
+    {
+      "name": "KASSON PUBLIC LIBRARY",
+      "system": "KASSON PUBLIC LIBRARY",
+      "address": "607 FIRST STREET NW, KASSON, MN",
+      "website": "http://kasson.lib.mn.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55944"
+      ]
+    },
+    {
+      "name": "KENYON PUBLIC LIBRARY",
+      "system": "KENYON PUBLIC LIBRARY",
+      "address": "709 2ND STREET, KENYON, MN",
+      "website": "http://www.kenyon.lib.mn.us",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55946"
+      ]
+    },
+    {
+      "name": "LA CRESCENT PUBLIC LIBRARY",
+      "system": "LA CRESCENT PUBLIC LIBRARY",
+      "address": "321 MAIN STREET, LA CRESCENT, MN",
+      "website": "http://sites.google.com/site/lcrlib/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55947"
+      ]
+    },
+    {
+      "name": "LANESBORO PUBLIC LIBRARY",
+      "system": "LANESBORO PUBLIC LIBRARY",
+      "address": "202 PARKWAY AVE. S., LANESBORO, MN",
+      "website": "https://www.google.com/search?q=LANESBORO+PUBLIC+LIBRARY+LANESBORO+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55949"
+      ]
+    },
+    {
+      "name": "MABEL PUBLIC LIBRARY",
+      "system": "MABEL PUBLIC LIBRARY",
+      "address": "110 E. NEWBURG, MABEL, MN",
+      "website": "http://www.mabel.lib.mn.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55954"
+      ]
+    },
+    {
+      "name": "PINE ISLAND: VAN HORN PUBLIC LIBRARY",
+      "system": "PINE ISLAND: VAN HORN PUBLIC LIBRARY",
+      "address": "115 SE 3RD STREET, PINE ISLAND, MN",
+      "website": "http://pineisland.lib.mn.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55963"
+      ]
+    },
+    {
+      "name": "PLAINVIEW PUBLIC LIBRARY",
+      "system": "PLAINVIEW PUBLIC LIBRARY",
+      "address": "345 1ST AVENUE NW, PLAINVIEW, MN",
+      "website": "https://www.google.com/search?q=PLAINVIEW+PUBLIC+LIBRARY+PLAINVIEW+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55964"
+      ]
+    },
+    {
+      "name": "PRESTON PUBLIC LIBRARY",
+      "system": "PRESTON PUBLIC LIBRARY",
+      "address": "101 ST PAUL ST NW, PRESTON, MN",
+      "website": "https://www.google.com/search?q=PRESTON+PUBLIC+LIBRARY+PRESTON+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55965"
+      ]
+    },
+    {
+      "name": "ROCHESTER PUBLIC LIBRARY",
+      "system": "ROCHESTER PUBLIC LIBRARY",
+      "address": "101 2ND STREET SE, ROCHESTER, MN",
+      "website": "https://www.google.com/search?q=ROCHESTER+PUBLIC+LIBRARY+ROCHESTER+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55904"
+      ]
+    },
+    {
+      "name": "RUSHFORD PUBLIC LIBRARY",
+      "system": "RUSHFORD PUBLIC LIBRARY",
+      "address": "101 MILL STREET N, RUSHFORD, MN",
+      "website": "http://rushford.lib.mn.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55971"
+      ]
+    },
+    {
+      "name": "ST. CHARLES PUBLIC LIBRARY",
+      "system": "ST. CHARLES PUBLIC LIBRARY",
+      "address": "125 W. 11TH STREET, ST. CHARLES, MN",
+      "website": "https://www.google.com/search?q=ST.+CHARLES+PUBLIC+LIBRARY+ST.+CHARLES+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55972"
+      ]
+    },
+    {
+      "name": "SPRING VALLEY PUBLIC LIBRARY",
+      "system": "SPRING VALLEY PUBLIC LIBRARY",
+      "address": "121 WEST JEFFERSON ST, SPRING VALLEY, MN",
+      "website": "http://springvalley.lib.mn.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55975"
+      ]
+    },
+    {
+      "name": "STEWARTVILLE PUBLIC LIBRARY",
+      "system": "STEWARTVILLE PUBLIC LIBRARY",
+      "address": "110 2ND STREET SE, STEWARTVILLE, MN",
+      "website": "https://www.google.com/search?q=STEWARTVILLE+PUBLIC+LIBRARY+STEWARTVILLE+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55976"
+      ]
+    },
+    {
+      "name": "WABASHA PUBLIC LIBRARY",
+      "system": "WABASHA PUBLIC LIBRARY",
+      "address": "168 ALLEGHANY AVE, WABASHA, MN",
+      "website": "http://www.wabasha.lib.mn.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55981"
+      ]
+    },
+    {
+      "name": "WEST CONCORD PUBLIC LIBRARY",
+      "system": "WEST CONCORD PUBLIC LIBRARY",
+      "address": "180 E MAIN STREET, WEST CONCORD, MN",
+      "website": "https://www.google.com/search?q=WEST+CONCORD+PUBLIC+LIBRARY+WEST+CONCORD+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55985"
+      ]
+    },
+    {
+      "name": "WINONA PUBLIC LIBRARY",
+      "system": "WINONA PUBLIC LIBRARY",
+      "address": "151 W FIFTH STREET, WINONA, MN",
+      "website": "https://www.google.com/search?q=WINONA+PUBLIC+LIBRARY+WINONA+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55987"
+      ]
+    },
+    {
+      "name": "ZUMBROTA PUBLIC LIBRARY",
+      "system": "ZUMBROTA PUBLIC LIBRARY",
+      "address": "100 WEST AVE, ZUMBROTA, MN",
+      "website": "https://www.zumbrota.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55992"
+      ]
+    },
+    {
+      "name": "BROWNSDALE PUBLIC LIBRARY",
+      "system": "BROWNSDALE PUBLIC LIBRARY",
+      "address": "103 E MAIN ST, BROWNSDALE, MN",
+      "website": "https://www.google.com/search?q=BROWNSDALE+PUBLIC+LIBRARY+BROWNSDALE+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55918"
+      ]
+    },
+    {
+      "name": "GRAND MEADOW PUBLIC LIBRARY",
+      "system": "GRAND MEADOW PUBLIC LIBRARY",
+      "address": "125 GRAND AVE E, GRAND MEADOW, MN",
+      "website": "https://www.google.com/search?q=GRAND+MEADOW+PUBLIC+LIBRARY+GRAND+MEADOW+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55936"
+      ]
+    },
+    {
+      "name": "LEROY PUBLIC LIBRARY",
+      "system": "LEROY PUBLIC LIBRARY",
+      "address": "605 N BROADWAY, LEROY, MN",
+      "website": "https://www.google.com/search?q=LEROY+PUBLIC+LIBRARY+LEROY+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55951"
+      ]
+    },
+    {
+      "name": "SPRING GROVE PUBLIC LIBRARY",
+      "system": "SPRING GROVE PUBLIC LIBRARY",
+      "address": "172 WEST MAIN, SPRING GROVE, MN",
+      "website": "https://www.google.com/search?q=SPRING+GROVE+PUBLIC+LIBRARY+SPRING+GROVE+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55974"
+      ]
+    },
+    {
+      "name": "HOUSTON PUBLIC LIBRARY",
+      "system": "HOUSTON PUBLIC LIBRARY",
+      "address": "202 EAST CEDAR STREET, HOUSTON, MN",
+      "website": "https://houstonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55943"
+      ]
+    }
+  ]
+}

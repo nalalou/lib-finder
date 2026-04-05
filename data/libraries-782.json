@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "LEON VALLEY PUBLIC LIBRARY",
+      "system": "LEON VALLEY PUBLIC LIBRARY",
+      "address": "6425 EVERS RD, LEON VALLEY, TX",
+      "website": "https://www.google.com/search?q=LEON+VALLEY+PUBLIC+LIBRARY+LEON+VALLEY+TX+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78238"
+      ]
+    },
+    {
+      "name": "SAN ANTONIO PUBLIC LIBRARY",
+      "system": "SAN ANTONIO PUBLIC LIBRARY",
+      "address": "600 SOLEDAD ST, SAN ANTONIO, TX",
+      "website": "http://mysapl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78205"
+      ]
+    },
+    {
+      "name": "CITY OF GARDEN RIDGE LIBRARY",
+      "system": "CITY OF GARDEN RIDGE LIBRARY",
+      "address": "9400 MUNICIPAL PKWY, GARDEN RIDGE, TX",
+      "website": "https://www.google.com/search?q=CITY+OF+GARDEN+RIDGE+LIBRARY+GARDEN+RIDGE+TX+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78266"
+      ]
+    },
+    {
+      "name": "BIBLIOTECH",
+      "system": "BIBLIOTECH",
+      "address": "3505 PLEASANTON RD, SAN ANTONIO, TX",
+      "website": "https://www.google.com/search?q=BIBLIOTECH+SAN+ANTONIO+TX+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "78205"
+      ]
+    }
+  ]
+}

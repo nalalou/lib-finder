@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "DES MOINES PUBLIC LIBRARY",
+      "system": "DES MOINES PUBLIC LIBRARY",
+      "address": "1000 GRAND AVE, DES MOINES, IA",
+      "website": "http://dmpl.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50309"
+      ]
+    },
+    {
+      "name": "URBANDALE PUBLIC LIBRARY",
+      "system": "URBANDALE PUBLIC LIBRARY",
+      "address": "3520 86TH ST, URBANDALE, IA",
+      "website": "https://www.google.com/search?q=URBANDALE+PUBLIC+LIBRARY+URBANDALE+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50322"
+      ]
+    },
+    {
+      "name": "PLEASANT HILL PUBLIC LIBRARY",
+      "system": "PLEASANT HILL PUBLIC LIBRARY",
+      "address": "5151 MAPLE DR, PLEASANT HILL, IA",
+      "website": "https://www.google.com/search?q=PLEASANT+HILL+PUBLIC+LIBRARY+PLEASANT+HILL+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50327"
+      ]
+    },
+    {
+      "name": "CLIVE PUBLIC LIBRARY",
+      "system": "CLIVE PUBLIC LIBRARY",
+      "address": "1900 NW 114TH ST, CLIVE, IA",
+      "website": "https://www.google.com/search?q=CLIVE+PUBLIC+LIBRARY+CLIVE+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50325"
+      ]
+    }
+  ]
+}

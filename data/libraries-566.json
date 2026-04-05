@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "BAUDETTE PUBLIC LIBRARY",
+      "system": "BAUDETTE PUBLIC LIBRARY",
+      "address": "110 1ST AVENUE SW, BAUDETTE, MN",
+      "website": "https://www.google.com/search?q=BAUDETTE+PUBLIC+LIBRARY+BAUDETTE+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56623"
+      ]
+    },
+    {
+      "name": "INTERNATIONAL FALLS PUBLIC LIBRARY",
+      "system": "INTERNATIONAL FALLS PUBLIC LIBRARY",
+      "address": "750 4TH STREET, INTERNATIONAL FALLS, MN",
+      "website": "https://www.google.com/search?q=INTERNATIONAL+FALLS+PUBLIC+LIBRARY+INTERNATIONAL+FALLS+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "56649"
+      ]
+    }
+  ]
+}

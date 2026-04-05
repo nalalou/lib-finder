@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "COSHOCTON COUNTY DISTRICT LIBRARY",
+      "system": "COSHOCTON COUNTY DISTRICT LIBRARY",
+      "address": "655 MAIN ST., COSHOCTON, OH",
+      "website": "https://www.google.com/search?q=COSHOCTON+COUNTY+DISTRICT+LIBRARY+COSHOCTON+OH+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43812"
+      ]
+    },
+    {
+      "name": "NEWCOMERSTOWN PUBLIC LIBRARY",
+      "system": "NEWCOMERSTOWN PUBLIC LIBRARY",
+      "address": "123 EAST MAIN ST., NEWCOMERSTOWN, OH",
+      "website": "https://www.nctlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43832"
+      ]
+    }
+  ]
+}

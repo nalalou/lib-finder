@@ -1,0 +1,59 @@
+{
+  "libraries": [
+    {
+      "name": "HELPER CITY LIBRARY",
+      "system": "HELPER CITY LIBRARY",
+      "address": "19 SOUTH MAIN STREET, HELPER, UT",
+      "website": "https://www.google.com/search?q=HELPER+CITY+LIBRARY+HELPER+UT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84526"
+      ]
+    },
+    {
+      "name": "PRICE CITY LIBRARY",
+      "system": "PRICE CITY LIBRARY",
+      "address": "159 EAST MAIN STREET, PRICE, UT",
+      "website": "https://www.google.com/search?q=PRICE+CITY+LIBRARY+PRICE+UT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84501"
+      ]
+    },
+    {
+      "name": "EMERY COUNTY LIBRARY",
+      "system": "EMERY COUNTY LIBRARY",
+      "address": "75 EAST MAIN STREET, CASTLE DALE, UT",
+      "website": "https://www.google.com/search?q=EMERY+COUNTY+LIBRARY+CASTLE+DALE+UT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84513"
+      ]
+    },
+    {
+      "name": "GRAND COUNTY PUBLIC LIBRARY",
+      "system": "GRAND COUNTY PUBLIC LIBRARY",
+      "address": "257 EAST CENTER STREET, MOAB, UT",
+      "website": "https://www.google.com/search?q=GRAND+COUNTY+PUBLIC+LIBRARY+MOAB+UT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84532"
+      ]
+    },
+    {
+      "name": "SAN JUAN COUNTY LIBRARY",
+      "system": "SAN JUAN COUNTY LIBRARY",
+      "address": "25 WEST 300 SOUTH, BLANDING, UT",
+      "website": "https://www.google.com/search?q=SAN+JUAN+COUNTY+LIBRARY+BLANDING+UT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84511"
+      ]
+    }
+  ]
+}

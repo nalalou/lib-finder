@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "CHEROKEE REGIONAL LIBRARY SYSTEM",
+      "system": "CHEROKEE REGIONAL LIBRARY SYSTEM",
+      "address": "305 SOUTH DUKE STREET, LAFAYETTE, GA",
+      "website": "https://www.google.com/search?q=CHEROKEE+REGIONAL+LIBRARY+SYSTEM+LAFAYETTE+GA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30728"
+      ]
+    },
+    {
+      "name": "NORTHWEST GEORGIA REGIONAL LIBRARY SYSTEM",
+      "system": "NORTHWEST GEORGIA REGIONAL LIBRARY SYSTEM",
+      "address": "310 CAPPES STREET, DALTON, GA",
+      "website": "http://ngrl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30720"
+      ]
+    },
+    {
+      "name": "CATOOSA COUNTY LIBRARY",
+      "system": "CATOOSA COUNTY LIBRARY",
+      "address": "108 CATOOSA CIRCLE, RINGGOLD, GA",
+      "website": "https://www.catoosacountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "30736"
+      ]
+    }
+  ]
+}

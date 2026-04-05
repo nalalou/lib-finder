@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "GARY PUBLIC LIBRARY",
+      "system": "GARY PUBLIC LIBRARY",
+      "address": "220 W. 5TH AVENUE, GARY, IN",
+      "website": "http://www.garypubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46402"
+      ]
+    },
+    {
+      "name": "LAKE COUNTY PUBLIC LIBRARY",
+      "system": "LAKE COUNTY PUBLIC LIBRARY",
+      "address": "1919 WEST 81ST AVENUE, MERRILLVILLE, IN",
+      "website": "https://www.google.com/search?q=LAKE+COUNTY+PUBLIC+LIBRARY+MERRILLVILLE+IN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46410"
+      ]
+    }
+  ]
+}

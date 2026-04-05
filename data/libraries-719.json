@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "GARLAND COUNTY LIBRARY",
+      "system": "GARLAND COUNTY LIBRARY",
+      "address": "1427 MALVERN AVENUE, HOT SPRINGS, AR",
+      "website": "https://www.google.com/search?q=GARLAND+COUNTY+LIBRARY+HOT+SPRINGS+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71901"
+      ]
+    },
+    {
+      "name": "CLARK COUNTY LIBRARY",
+      "system": "CLARK COUNTY LIBRARY",
+      "address": "609 CADDO STREET, ARKADELPHIA, AR",
+      "website": "https://thelibrarydistrict.org/locations/CC/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71923"
+      ]
+    },
+    {
+      "name": "OUACHITA MOUNTAINS REGIONAL LIBRARY",
+      "system": "OUACHITA MOUNTAINS REGIONAL LIBRARY",
+      "address": "145A WHITTINGTON STREET, MT. IDA, AR",
+      "website": "https://www.google.com/search?q=OUACHITA+MOUNTAINS+REGIONAL+LIBRARY+MT.+IDA+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71957"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "CASEY COUNTY PUBLIC LIBRARY",
+      "system": "CASEY COUNTY PUBLIC LIBRARY",
+      "address": "238 MIDDLEBURG STREET, LIBERTY, KY",
+      "website": "https://www.google.com/search?q=CASEY+COUNTY+PUBLIC+LIBRARY+LIBERTY+KY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "42539"
+      ]
+    },
+    {
+      "name": "PULASKI COUNTY PUBLIC LIBRARY",
+      "system": "PULASKI COUNTY PUBLIC LIBRARY",
+      "address": "304 SOUTH MAIN STREET, SOMERSET, KY",
+      "website": "https://www.google.com/search?q=PULASKI+COUNTY+PUBLIC+LIBRARY+SOMERSET+KY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "42501"
+      ]
+    }
+  ]
+}

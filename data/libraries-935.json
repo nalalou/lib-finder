@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "INYO COUNTY FREE LIBRARY",
+      "system": "INYO COUNTY FREE LIBRARY",
+      "address": "168 N. EDWARDS, INDEPENDENCE, CA",
+      "website": "https://www.google.com/search?q=INYO+COUNTY+FREE+LIBRARY+INDEPENDENCE+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93526"
+      ]
+    },
+    {
+      "name": "MONO COUNTY FREE LIBRARY",
+      "system": "MONO COUNTY FREE LIBRARY",
+      "address": "400 SIERRA PARK RD., MAMMOTH LAKES, CA",
+      "website": "https://www.google.com/search?q=MONO+COUNTY+FREE+LIBRARY+MAMMOTH+LAKES+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93546"
+      ]
+    },
+    {
+      "name": "PALMDALE CITY LIBRARY",
+      "system": "PALMDALE CITY LIBRARY",
+      "address": "700 E. PALMDALE BLVD., PALMDALE, CA",
+      "website": "https://www.google.com/search?q=PALMDALE+CITY+LIBRARY+PALMDALE+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93550"
+      ]
+    }
+  ]
+}

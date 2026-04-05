@@ -1,0 +1,59 @@
+{
+  "libraries": [
+    {
+      "name": "AURORA PUBLIC LIBRARY",
+      "system": "AURORA PUBLIC LIBRARY",
+      "address": "14949 E ALAMEDA PARKWAY, AURORA, CO",
+      "website": "https://eapld.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80012"
+      ]
+    },
+    {
+      "name": "BROOMFIELD/EISENHOWER PUBLIC LIBRARY",
+      "system": "BROOMFIELD/EISENHOWER PUBLIC LIBRARY",
+      "address": "3 COMMUNITY PARK ROAD, BROOMFIELD, CO",
+      "website": "https://www.google.com/search?q=BROOMFIELD/EISENHOWER+PUBLIC+LIBRARY+BROOMFIELD+CO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80020"
+      ]
+    },
+    {
+      "name": "LAFAYETTE PUBLIC LIBRARY",
+      "system": "LAFAYETTE PUBLIC LIBRARY",
+      "address": "775 W BASELINE RD, LAFAYETTE, CO",
+      "website": "https://www.google.com/search?q=LAFAYETTE+PUBLIC+LIBRARY+LAFAYETTE+CO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80026"
+      ]
+    },
+    {
+      "name": "LOUISVILLE PUBLIC LIBRARY",
+      "system": "LOUISVILLE PUBLIC LIBRARY",
+      "address": "951 SPRUCE STREET, LOUISVILLE, CO",
+      "website": "https://www.google.com/search?q=LOUISVILLE+PUBLIC+LIBRARY+LOUISVILLE+CO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80027"
+      ]
+    },
+    {
+      "name": "WESTMINSTER PUBLIC LIBRARY",
+      "system": "WESTMINSTER PUBLIC LIBRARY",
+      "address": "3705 W. 112TH AVE, WESTMINSTER, CO",
+      "website": "https://www.google.com/search?q=WESTMINSTER+PUBLIC+LIBRARY+WESTMINSTER+CO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "80031"
+      ]
+    }
+  ]
+}

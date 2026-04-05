@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "WHITE RIVER REGIONAL LIBRARY",
+      "system": "WHITE RIVER REGIONAL LIBRARY",
+      "address": "503 WEST MAIN STREET, SUITE 3, MOUNTAIN VIEW, AR",
+      "website": "https://www.google.com/search?q=WHITE+RIVER+REGIONAL+LIBRARY+MOUNTAIN+VIEW+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72560"
+      ]
+    },
+    {
+      "name": "INDEPENDENCE COUNTY LIBRARY",
+      "system": "INDEPENDENCE COUNTY LIBRARY",
+      "address": "368 EAST MAIN STREET, BATESVILLE, AR",
+      "website": "https://www.google.com/search?q=INDEPENDENCE+COUNTY+LIBRARY+BATESVILLE+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72501"
+      ]
+    }
+  ]
+}

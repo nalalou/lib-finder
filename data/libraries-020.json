@@ -1,0 +1,257 @@
+{
+  "libraries": [
+    {
+      "name": "BELLINGHAM PUBLIC LIBRARY",
+      "system": "BELLINGHAM PUBLIC LIBRARY",
+      "address": "100 BLACKSTONE STREET, BELLINGHAM, MA",
+      "website": "http://bellinghampubliclibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02019"
+      ]
+    },
+    {
+      "name": "CANTON PUBLIC LIBRARY",
+      "system": "CANTON PUBLIC LIBRARY",
+      "address": "786 WASHINGTON ST., CANTON, MA",
+      "website": "https://www.google.com/search?q=CANTON+PUBLIC+LIBRARY+CANTON+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02021"
+      ]
+    },
+    {
+      "name": "PAUL PRATT MEMORIAL LIBRARY",
+      "system": "PAUL PRATT MEMORIAL LIBRARY",
+      "address": "35 RIPLEY RD., COHASSET, MA",
+      "website": "https://www.google.com/search?q=PAUL+PRATT+MEMORIAL+LIBRARY+COHASSET+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02025"
+      ]
+    },
+    {
+      "name": "DEDHAM PUBLIC LIBRARY",
+      "system": "DEDHAM PUBLIC LIBRARY",
+      "address": "43 CHURCH ST., DEDHAM, MA",
+      "website": "https://dedhamlibrary.com/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02026"
+      ]
+    },
+    {
+      "name": "DOVER TOWN LIBRARY",
+      "system": "DOVER TOWN LIBRARY",
+      "address": "56 DEDHAM ST., DOVER, MA",
+      "website": "https://www.google.com/search?q=DOVER+TOWN+LIBRARY+DOVER+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02030"
+      ]
+    },
+    {
+      "name": "BOYDEN LIBRARY",
+      "system": "BOYDEN LIBRARY",
+      "address": "10 BIRD ST., FOXBOROUGH, MA",
+      "website": "https://www.google.com/search?q=BOYDEN+LIBRARY+FOXBOROUGH+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02035"
+      ]
+    },
+    {
+      "name": "FRANKLIN PUBLIC LIBRARY",
+      "system": "FRANKLIN PUBLIC LIBRARY",
+      "address": "118 MAIN STREET, FRANKLIN, MA",
+      "website": "https://www.fspl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02038"
+      ]
+    },
+    {
+      "name": "HINGHAM PUBLIC LIBRARY",
+      "system": "HINGHAM PUBLIC LIBRARY",
+      "address": "66 LEAVITT ST., HINGHAM, MA",
+      "website": "https://www.google.com/search?q=HINGHAM+PUBLIC+LIBRARY+HINGHAM+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02043"
+      ]
+    },
+    {
+      "name": "HULL PUBLIC LIBRARY",
+      "system": "HULL PUBLIC LIBRARY",
+      "address": "9 MAIN ST., HULL, MA",
+      "website": "https://www.google.com/search?q=HULL+PUBLIC+LIBRARY+HULL+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02045"
+      ]
+    },
+    {
+      "name": "MANSFIELD PUBLIC LIBRARY",
+      "system": "MANSFIELD PUBLIC LIBRARY",
+      "address": "255 HOPE STREET, MANSFIELD, MA",
+      "website": "https://www.google.com/search?q=MANSFIELD+PUBLIC+LIBRARY+MANSFIELD+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02048"
+      ]
+    },
+    {
+      "name": "VENTRESS MEMORIAL LIBRARY",
+      "system": "VENTRESS MEMORIAL LIBRARY",
+      "address": "15 LIBRARY PLAZA, MARSHFIELD, MA",
+      "website": "https://www.google.com/search?q=VENTRESS+MEMORIAL+LIBRARY+MARSHFIELD+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02050"
+      ]
+    },
+    {
+      "name": "MEDFIELD MEMORIAL LIBRARY",
+      "system": "MEDFIELD MEMORIAL LIBRARY",
+      "address": "468 MAIN STREET, MEDFIELD, MA",
+      "website": "https://www.google.com/search?q=MEDFIELD+MEMORIAL+LIBRARY+MEDFIELD+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02052"
+      ]
+    },
+    {
+      "name": "MEDWAY PUBLIC LIBRARY",
+      "system": "MEDWAY PUBLIC LIBRARY",
+      "address": "26 HIGH ST., MEDWAY, MA",
+      "website": "https://www.google.com/search?q=MEDWAY+PUBLIC+LIBRARY+MEDWAY+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02053"
+      ]
+    },
+    {
+      "name": "MILLIS PUBLIC LIBRARY",
+      "system": "MILLIS PUBLIC LIBRARY",
+      "address": "961 MAIN STREET, MILLIS, MA",
+      "website": "https://www.google.com/search?q=MILLIS+PUBLIC+LIBRARY+MILLIS+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02054"
+      ]
+    },
+    {
+      "name": "NORFOLK PUBLIC LIBRARY",
+      "system": "NORFOLK PUBLIC LIBRARY",
+      "address": "2 LIBERTY LANE, NORFOLK, MA",
+      "website": "https://www.google.com/search?q=NORFOLK+PUBLIC+LIBRARY+NORFOLK+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02056"
+      ]
+    },
+    {
+      "name": "NORWELL PUBLIC LIBRARY",
+      "system": "NORWELL PUBLIC LIBRARY",
+      "address": "64 SOUTH ST., NORWELL, MA",
+      "website": "https://www.google.com/search?q=NORWELL+PUBLIC+LIBRARY+NORWELL+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02061"
+      ]
+    },
+    {
+      "name": "MORRILL MEMORIAL LIBRARY",
+      "system": "MORRILL MEMORIAL LIBRARY",
+      "address": "33 WALPOLE ST., NORWOOD, MA",
+      "website": "https://www.google.com/search?q=MORRILL+MEMORIAL+LIBRARY+NORWOOD+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02062"
+      ]
+    },
+    {
+      "name": "SCITUATE TOWN LIBRARY",
+      "system": "SCITUATE TOWN LIBRARY",
+      "address": "85 BRANCH ST., SCITUATE, MA",
+      "website": "https://www.google.com/search?q=SCITUATE+TOWN+LIBRARY+SCITUATE+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02066"
+      ]
+    },
+    {
+      "name": "SHARON PUBLIC LIBRARY",
+      "system": "SHARON PUBLIC LIBRARY",
+      "address": "11 NORTH MAIN ST., SHARON, MA",
+      "website": "https://www.google.com/search?q=SHARON+PUBLIC+LIBRARY+SHARON+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02067"
+      ]
+    },
+    {
+      "name": "STOUGHTON PUBLIC LIBRARY",
+      "system": "STOUGHTON PUBLIC LIBRARY",
+      "address": "84 PARK STREET, STOUGHTON, MA",
+      "website": "https://www.google.com/search?q=STOUGHTON+PUBLIC+LIBRARY+STOUGHTON+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02072"
+      ]
+    },
+    {
+      "name": "WALPOLE PUBLIC LIBRARY",
+      "system": "WALPOLE PUBLIC LIBRARY",
+      "address": "143 SCHOOL ST., WALPOLE, MA",
+      "website": "https://www.google.com/search?q=WALPOLE+PUBLIC+LIBRARY+WALPOLE+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02081"
+      ]
+    },
+    {
+      "name": "WESTWOOD PUBLIC LIBRARY",
+      "system": "WESTWOOD PUBLIC LIBRARY",
+      "address": "660 HIGH ST., WESTWOOD, MA",
+      "website": "https://www.google.com/search?q=WESTWOOD+PUBLIC+LIBRARY+WESTWOOD+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02090"
+      ]
+    },
+    {
+      "name": "FISKE PUBLIC LIBRARY",
+      "system": "FISKE PUBLIC LIBRARY",
+      "address": "110 RANDALL ROAD, WRENTHAM, MA",
+      "website": "https://www.google.com/search?q=FISKE+PUBLIC+LIBRARY+WRENTHAM+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02093"
+      ]
+    }
+  ]
+}

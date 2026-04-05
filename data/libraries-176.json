@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "LANCASTER PUBLIC LIBRARY",
+      "system": "LANCASTER PUBLIC LIBRARY",
+      "address": "151 NORTH QUEEN ST, LANCASTER, PA",
+      "website": "https://www.google.com/search?q=LANCASTER+PUBLIC+LIBRARY+LANCASTER+PA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17603"
+      ]
+    },
+    {
+      "name": "LANCASTER SYS ADMIN UNIT",
+      "system": "LANCASTER SYS ADMIN UNIT",
+      "address": "1866 COLONIAL VILLAGE LN, SUITE 107, LANCASTER, PA",
+      "website": "https://www.google.com/search?q=LANCASTER+SYS+ADMIN+UNIT+LANCASTER+PA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17601"
+      ]
+    },
+    {
+      "name": "MANHEIM TOWNSHIP PUBLIC LIBRARY",
+      "system": "MANHEIM TOWNSHIP PUBLIC LIBRARY",
+      "address": "595 GRANITE RUN DR, LANCASTER, PA",
+      "website": "https://www.google.com/search?q=MANHEIM+TOWNSHIP+PUBLIC+LIBRARY+LANCASTER+PA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "17601"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "libraries": [
+    {
+      "name": "FRANKLIN PUBLIC LIBRARY",
+      "system": "FRANKLIN PUBLIC LIBRARY",
+      "address": "44 E. 4TH ST, FRANKLIN, OH",
+      "website": "https://www.fspl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45005"
+      ]
+    },
+    {
+      "name": "LANE PUBLIC LIBRARY",
+      "system": "LANE PUBLIC LIBRARY",
+      "address": "300 N. THIRD ST., HAMILTON, OH",
+      "website": "https://www.google.com/search?q=LANE+PUBLIC+LIBRARY+HAMILTON+OH+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45011"
+      ]
+    },
+    {
+      "name": "LEBANON PUBLIC LIBRARY",
+      "system": "LEBANON PUBLIC LIBRARY",
+      "address": "101 S. BROADWAY, LEBANON, OH",
+      "website": "https://lebanonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45036"
+      ]
+    },
+    {
+      "name": "MASON PUBLIC LIBRARY",
+      "system": "MASON PUBLIC LIBRARY",
+      "address": "200 READING RD., MASON, OH",
+      "website": "https://masonpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45040"
+      ]
+    },
+    {
+      "name": "MIDPOINTE LIBRARY SYSTEM",
+      "system": "MIDPOINTE LIBRARY SYSTEM",
+      "address": "125 S. BROAD ST., MIDDLETOWN, OH",
+      "website": "https://www.google.com/search?q=MIDPOINTE+LIBRARY+SYSTEM+MIDDLETOWN+OH+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45044"
+      ]
+    },
+    {
+      "name": "MARY L. COOK PUBLIC LIBRARY",
+      "system": "MARY L. COOK PUBLIC LIBRARY",
+      "address": "381 OLD STAGE RD., WAYNESVILLE, OH",
+      "website": "https://www.mlcook.lib.oh.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "45068"
+      ]
+    }
+  ]
+}

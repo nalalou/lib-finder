@@ -1,0 +1,59 @@
+{
+  "libraries": [
+    {
+      "name": "SLATER PUBLIC LIBRARY",
+      "system": "SLATER PUBLIC LIBRARY",
+      "address": "201 N MAIN ST, SLATER, MO",
+      "website": "https://www.google.com/search?q=SLATER+PUBLIC+LIBRARY+SLATER+MO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65349"
+      ]
+    },
+    {
+      "name": "BOONSLICK REGIONAL LIBRARY",
+      "system": "BOONSLICK REGIONAL LIBRARY",
+      "address": "219 W THIRD ST, SEDALIA, MO",
+      "website": "https://www.google.com/search?q=BOONSLICK+REGIONAL+LIBRARY+SEDALIA+MO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65301"
+      ]
+    },
+    {
+      "name": "SEDALIA PUBLIC LIBRARY",
+      "system": "SEDALIA PUBLIC LIBRARY",
+      "address": "311 W 3RD ST, SEDALIA, MO",
+      "website": "https://www.google.com/search?q=SEDALIA+PUBLIC+LIBRARY+SEDALIA+MO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65301"
+      ]
+    },
+    {
+      "name": "SWEET SPRINGS PUBLIC LIBRARY",
+      "system": "SWEET SPRINGS PUBLIC LIBRARY",
+      "address": "217 TURNER STREET, SWEET SPRINGS, MO",
+      "website": "https://www.google.com/search?q=SWEET+SPRINGS+PUBLIC+LIBRARY+SWEET+SPRINGS+MO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65351"
+      ]
+    },
+    {
+      "name": "MARSHALL PUBLIC LIBRARY",
+      "system": "MARSHALL PUBLIC LIBRARY",
+      "address": "214 N LAFAYETTE AVE, MARSHALL, MO",
+      "website": "https://marshallpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65340"
+      ]
+    }
+  ]
+}

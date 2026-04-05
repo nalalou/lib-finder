@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "HARFORD COUNTY PUBLIC LIBRARY",
+      "system": "HARFORD COUNTY PUBLIC LIBRARY",
+      "address": "1221-A BRASS MILL ROAD, BELCAMP, MD",
+      "website": "https://www.google.com/search?q=HARFORD+COUNTY+PUBLIC+LIBRARY+BELCAMP+MD+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "21017"
+      ]
+    },
+    {
+      "name": "HOWARD COUNTY LIBRARY SYSTEM",
+      "system": "HOWARD COUNTY LIBRARY SYSTEM",
+      "address": "9411 FREDERICK ROAD, ELLICOTT CITY, MD",
+      "website": "https://www.google.com/search?q=HOWARD+COUNTY+LIBRARY+SYSTEM+ELLICOTT+CITY+MD+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "21042"
+      ]
+    }
+  ]
+}

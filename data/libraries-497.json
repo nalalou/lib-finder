@@ -1,0 +1,235 @@
+{
+  "libraries": [
+    {
+      "name": "SUPERIOR DISTRICT LIBRARY",
+      "system": "SUPERIOR DISTRICT LIBRARY",
+      "address": "541 LIBRARY DRIVE, SAULT STE MARIE, MI",
+      "website": "https://sdl.ploud.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49783"
+      ]
+    },
+    {
+      "name": "BEAVER ISLAND DISTRICT LIBRARY",
+      "system": "BEAVER ISLAND DISTRICT LIBRARY",
+      "address": "26400 DONEGAL BAY ROAD, BEAVER ISLAND, MI",
+      "website": "http://bidl.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49782"
+      ]
+    },
+    {
+      "name": "BOYNE DISTRICT LIBRARY",
+      "system": "BOYNE DISTRICT LIBRARY",
+      "address": "201 EAST MAIN STREET, BOYNE CITY, MI",
+      "website": "https://www.google.com/search?q=BOYNE+DISTRICT+LIBRARY+BOYNE+CITY+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49712"
+      ]
+    },
+    {
+      "name": "CHARLEVOIX PUBLIC LIBRARY",
+      "system": "CHARLEVOIX PUBLIC LIBRARY",
+      "address": "220 WEST CLINTON STREET, CHARLEVOIX, MI",
+      "website": "https://www.charlevoixlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49720"
+      ]
+    },
+    {
+      "name": "CHEBOYGAN AREA PUBLIC LIBRARY",
+      "system": "CHEBOYGAN AREA PUBLIC LIBRARY",
+      "address": "100 SOUTH BAILEY STREET, CHEBOYGAN, MI",
+      "website": "http://cheboyganlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49721"
+      ]
+    },
+    {
+      "name": "CRAWFORD COUNTY LIBRARY",
+      "system": "CRAWFORD COUNTY LIBRARY",
+      "address": "201 PLUM STREET, GRAYLING, MI",
+      "website": "https://www.google.com/search?q=CRAWFORD+COUNTY+LIBRARY+GRAYLING+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49738"
+      ]
+    },
+    {
+      "name": "CROOKED TREE DISTRICT LIBRARY",
+      "system": "CROOKED TREE DISTRICT LIBRARY",
+      "address": "2203 WALLOON STREET, WALLOON LAKE, MI",
+      "website": "https://www.google.com/search?q=CROOKED+TREE+DISTRICT+LIBRARY+WALLOON+LAKE+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49796"
+      ]
+    },
+    {
+      "name": "INDIAN RIVER AREA LIBRARY",
+      "system": "INDIAN RIVER AREA LIBRARY",
+      "address": "3546 SOUTH STRAITS HIGHWAY, INDIAN RIVER, MI",
+      "website": "https://www.google.com/search?q=INDIAN+RIVER+AREA+LIBRARY+INDIAN+RIVER+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49749"
+      ]
+    },
+    {
+      "name": "JORDAN VALLEY DISTRICT LIBRARY",
+      "system": "JORDAN VALLEY DISTRICT LIBRARY",
+      "address": "ONE LIBRARY LANE, EAST JORDAN, MI",
+      "website": "https://www.google.com/search?q=JORDAN+VALLEY+DISTRICT+LIBRARY+EAST+JORDAN+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49727"
+      ]
+    },
+    {
+      "name": "MACKINAC ISLAND PUBLIC LIBRARY",
+      "system": "MACKINAC ISLAND PUBLIC LIBRARY",
+      "address": "7549 MAIN STREET, MACKINAC ISLAND, MI",
+      "website": "https://www.google.com/search?q=MACKINAC+ISLAND+PUBLIC+LIBRARY+MACKINAC+ISLAND+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49757"
+      ]
+    },
+    {
+      "name": "MACKINAW AREA PUBLIC LIBRARY",
+      "system": "MACKINAW AREA PUBLIC LIBRARY",
+      "address": "528 WEST CENTRAL AVENUE, MACKINAW CITY, MI",
+      "website": "https://www.google.com/search?q=MACKINAW+AREA+PUBLIC+LIBRARY+MACKINAW+CITY+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49701"
+      ]
+    },
+    {
+      "name": "MONTMORENCY COUNTY PUBLIC LIBRARIES",
+      "system": "MONTMORENCY COUNTY PUBLIC LIBRARIES",
+      "address": "11901 HAYMEADOW, ATLANTA, MI",
+      "website": "https://www.google.com/search?q=MONTMORENCY+COUNTY+PUBLIC+LIBRARIES+ATLANTA+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49709"
+      ]
+    },
+    {
+      "name": "OTSEGO COUNTY LIBRARY",
+      "system": "OTSEGO COUNTY LIBRARY",
+      "address": "700 SOUTH OTSEGO AVENUE, GAYLORD, MI",
+      "website": "https://www.google.com/search?q=OTSEGO+COUNTY+LIBRARY+GAYLORD+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49735"
+      ]
+    },
+    {
+      "name": "PETOSKEY DISTRICT LIBRARY",
+      "system": "PETOSKEY DISTRICT LIBRARY",
+      "address": "500 EAST MITCHELL STREET, PETOSKEY, MI",
+      "website": "https://www.google.com/search?q=PETOSKEY+DISTRICT+LIBRARY+PETOSKEY+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49770"
+      ]
+    },
+    {
+      "name": "PRESQUE ISLE DISTRICT LIBRARY",
+      "system": "PRESQUE ISLE DISTRICT LIBRARY",
+      "address": "181 EAST ERIE STREET, ROGERS CITY, MI",
+      "website": "https://www.google.com/search?q=PRESQUE+ISLE+DISTRICT+LIBRARY+ROGERS+CITY+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49779"
+      ]
+    },
+    {
+      "name": "SAINT IGNACE PUBLIC LIBRARY",
+      "system": "SAINT IGNACE PUBLIC LIBRARY",
+      "address": "110 WEST SPRUCE STREET, ST. IGNACE, MI",
+      "website": "https://www.google.com/search?q=SAINT+IGNACE+PUBLIC+LIBRARY+ST.+IGNACE+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49781"
+      ]
+    },
+    {
+      "name": "TOPINABEE PUBLIC LIBRARY",
+      "system": "TOPINABEE PUBLIC LIBRARY",
+      "address": "1576 STRAITS HIGHWAY, TOPINABEE, MI",
+      "website": "https://www.google.com/search?q=TOPINABEE+PUBLIC+LIBRARY+TOPINABEE+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49791"
+      ]
+    },
+    {
+      "name": "WHITEFISH TOWNSHIP COMMUNITY LIBRARY",
+      "system": "WHITEFISH TOWNSHIP COMMUNITY LIBRARY",
+      "address": "7247 NORTH M-123, PARADISE, MI",
+      "website": "http://whitefishtownshiplibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49768"
+      ]
+    },
+    {
+      "name": "WOLVERINE COMMUNITY LIBRARY",
+      "system": "WOLVERINE COMMUNITY LIBRARY",
+      "address": "5716 WEST MAIN STREET, WOLVERINE, MI",
+      "website": "https://www.google.com/search?q=WOLVERINE+COMMUNITY+LIBRARY+WOLVERINE+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49799"
+      ]
+    },
+    {
+      "name": "ALANSON AREA PUBLIC LIBRARY",
+      "system": "ALANSON AREA PUBLIC LIBRARY",
+      "address": "7631 BURR AVENUE, ALANSON, MI",
+      "website": "https://www.google.com/search?q=ALANSON+AREA+PUBLIC+LIBRARY+ALANSON+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49706"
+      ]
+    },
+    {
+      "name": "ALPENA COUNTY LIBRARY",
+      "system": "ALPENA COUNTY LIBRARY",
+      "address": "211 NORTH FIRST AVENUE, ALPENA, MI",
+      "website": "https://www.google.com/search?q=ALPENA+COUNTY+LIBRARY+ALPENA+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "49707"
+      ]
+    }
+  ]
+}

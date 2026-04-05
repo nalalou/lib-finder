@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "NEW PORT RICHEY PUBLIC LIBRARY",
+      "system": "NEW PORT RICHEY PUBLIC LIBRARY",
+      "address": "5939 MAIN STREET, NEW PORT RICHEY, FL",
+      "website": "https://www.google.com/search?q=NEW+PORT+RICHEY+PUBLIC+LIBRARY+NEW+PORT+RICHEY+FL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "34652"
+      ]
+    },
+    {
+      "name": "PASCO COUNTY PUBLIC LIBRARY COOPERATIVE",
+      "system": "PASCO COUNTY PUBLIC LIBRARY COOPERATIVE",
+      "address": "8012 LIBRARY ROAD, HUDSON, FL",
+      "website": "https://www.google.com/search?q=PASCO+COUNTY+PUBLIC+LIBRARY+COOPERATIVE+HUDSON+FL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "34667"
+      ]
+    },
+    {
+      "name": "HERNANDO COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "HERNANDO COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "238 HOWELL AVE, BROOKSVILLE, FL",
+      "website": "https://www.google.com/search?q=HERNANDO+COUNTY+PUBLIC+LIBRARY+SYSTEM+BROOKSVILLE+FL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "34601"
+      ]
+    }
+  ]
+}

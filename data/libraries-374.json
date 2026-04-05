@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "EAST RIDGE CITY LIBRARY",
+      "system": "EAST RIDGE CITY LIBRARY",
+      "address": "1517 TOMBRAS AVENUE, EAST RIDGE (IN), TN",
+      "website": "https://www.google.com/search?q=EAST+RIDGE+CITY+LIBRARY+EAST+RIDGE+(IN)+TN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37412"
+      ]
+    },
+    {
+      "name": "CHATTANOOGA PUBLIC LIBRARY",
+      "system": "CHATTANOOGA PUBLIC LIBRARY",
+      "address": "1001 BROAD STREET, CHATTANOOGA (S), TN",
+      "website": "http://chattlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "37402"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "libraries": [
+    {
+      "name": "ATKINSON PUBLIC LIBRARY",
+      "system": "ATKINSON PUBLIC LIBRARY",
+      "address": "210 WEST STATE STREET, ATKINSON, NE",
+      "website": "https://www.google.com/search?q=ATKINSON+PUBLIC+LIBRARY+ATKINSON+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68713"
+      ]
+    },
+    {
+      "name": "ROCK COUNTY PUBLIC LIBRARY",
+      "system": "ROCK COUNTY PUBLIC LIBRARY",
+      "address": "201 EAST BERTHA, BASSETT, NE",
+      "website": "https://www.google.com/search?q=ROCK+COUNTY+PUBLIC+LIBRARY+BASSETT+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68714"
+      ]
+    },
+    {
+      "name": "LIED BATTLE CREEK PUBLIC LIBRARY",
+      "system": "LIED BATTLE CREEK PUBLIC LIBRARY",
+      "address": "100 S. 4TH STREET, BATTLE CREEK, NE",
+      "website": "https://www.google.com/search?q=LIED+BATTLE+CREEK+PUBLIC+LIBRARY+BATTLE+CREEK+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68715"
+      ]
+    },
+    {
+      "name": "KARLEN MEMORIAL LIBRARY",
+      "system": "KARLEN MEMORIAL LIBRARY",
+      "address": "815 3RD STREET, BEEMER, NE",
+      "website": "https://www.google.com/search?q=KARLEN+MEMORIAL+LIBRARY+BEEMER+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68716"
+      ]
+    },
+    {
+      "name": "BLOOMFIELD PUBLIC LIBRARY",
+      "system": "BLOOMFIELD PUBLIC LIBRARY",
+      "address": "121 SOUTH BROADWAY, BLOOMFIELD, NE",
+      "website": "https://www.google.com/search?q=BLOOMFIELD+PUBLIC+LIBRARY+BLOOMFIELD+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68718"
+      ]
+    },
+    {
+      "name": "LIED CARROLL PUBLIC LIBRARY",
+      "system": "LIED CARROLL PUBLIC LIBRARY",
+      "address": "506 MAIN STREET, CARROLL, NE",
+      "website": "https://www.google.com/search?q=LIED+CARROLL+PUBLIC+LIBRARY+CARROLL+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68723"
+      ]
+    },
+    {
+      "name": "CLEARWATER PUBLIC LIBRARY",
+      "system": "CLEARWATER PUBLIC LIBRARY",
+      "address": "626 MAIN STREET, CLEARWATER, NE",
+      "website": "https://www.google.com/search?q=CLEARWATER+PUBLIC+LIBRARY+CLEARWATER+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68726"
+      ]
+    },
+    {
+      "name": "CREIGHTON PUBLIC LIBRARY",
+      "system": "CREIGHTON PUBLIC LIBRARY",
+      "address": "701 STATE STREET, CREIGHTON, NE",
+      "website": "https://www.google.com/search?q=CREIGHTON+PUBLIC+LIBRARY+CREIGHTON+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68729"
+      ]
+    },
+    {
+      "name": "EASTERN TOWNSHIP LIBRARY",
+      "system": "EASTERN TOWNSHIP LIBRARY",
+      "address": "206 WEST MAIN STREET, CROFTON, NE",
+      "website": "https://www.google.com/search?q=EASTERN+TOWNSHIP+LIBRARY+CROFTON+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68730"
+      ]
+    },
+    {
+      "name": "DAKOTA CITY PUBLIC LIBRARY",
+      "system": "DAKOTA CITY PUBLIC LIBRARY",
+      "address": "1710 BROADWAY, DAKOTA CITY, NE",
+      "website": "https://www.google.com/search?q=DAKOTA+CITY+PUBLIC+LIBRARY+DAKOTA+CITY+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68731"
+      ]
+    },
+    {
+      "name": "EMERSON PUBLIC LIBRARY",
+      "system": "EMERSON PUBLIC LIBRARY",
+      "address": "205 WEST 3RD, EMERSON, NE",
+      "website": "https://www.google.com/search?q=EMERSON+PUBLIC+LIBRARY+EMERSON+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68733"
+      ]
+    },
+    {
+      "name": "HARTINGTON PUBLIC LIBRARY",
+      "system": "HARTINGTON PUBLIC LIBRARY",
+      "address": "106 SOUTH BROADWAY, HARTINGTON, NE",
+      "website": "https://www.google.com/search?q=HARTINGTON+PUBLIC+LIBRARY+HARTINGTON+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68739"
+      ]
+    },
+    {
+      "name": "MEADOW GROVE PUBLIC LIBRARY",
+      "system": "MEADOW GROVE PUBLIC LIBRARY",
+      "address": "205 MAIN STREET, MEADOW GROVE, NE",
+      "website": "https://www.google.com/search?q=MEADOW+GROVE+PUBLIC+LIBRARY+MEADOW+GROVE+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68752"
+      ]
+    },
+    {
+      "name": "NELIGH PUBLIC LIBRARY",
+      "system": "NELIGH PUBLIC LIBRARY",
+      "address": "710 MAIN STREET, NELIGH, NE",
+      "website": "https://www.google.com/search?q=NELIGH+PUBLIC+LIBRARY+NELIGH+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68756"
+      ]
+    },
+    {
+      "name": "NEWMAN GROVE PUBLIC LIBRARY",
+      "system": "NEWMAN GROVE PUBLIC LIBRARY",
+      "address": "615 HALE AVENUE, NEWMAN GROVE, NE",
+      "website": "https://www.google.com/search?q=NEWMAN+GROVE+PUBLIC+LIBRARY+NEWMAN+GROVE+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68758"
+      ]
+    },
+    {
+      "name": "NIOBRARA PUBLIC LIBRARY",
+      "system": "NIOBRARA PUBLIC LIBRARY",
+      "address": "25414 PARK AVENUE, SUITE 3, NIOBRARA, NE",
+      "website": "https://www.google.com/search?q=NIOBRARA+PUBLIC+LIBRARY+NIOBRARA+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68760"
+      ]
+    },
+    {
+      "name": "NORFOLK PUBLIC LIBRARY",
+      "system": "NORFOLK PUBLIC LIBRARY",
+      "address": "308 W PROSPECT AVENUE, NORFOLK, NE",
+      "website": "https://www.google.com/search?q=NORFOLK+PUBLIC+LIBRARY+NORFOLK+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68701"
+      ]
+    },
+    {
+      "name": "LOIS JOHNSON MEMORIAL LIBRARY",
+      "system": "LOIS JOHNSON MEMORIAL LIBRARY",
+      "address": "406 5TH STREET, OAKDALE, NE",
+      "website": "https://www.google.com/search?q=LOIS+JOHNSON+MEMORIAL+LIBRARY+OAKDALE+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68761"
+      ]
+    },
+    {
+      "name": "O`NEILL PUBLIC LIBRARY",
+      "system": "O`NEILL PUBLIC LIBRARY",
+      "address": "601 E. DOUGLAS ST., O'NEILL, NE",
+      "website": "https://www.google.com/search?q=O`NEILL+PUBLIC+LIBRARY+O'NEILL+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68763"
+      ]
+    },
+    {
+      "name": "ORCHARD PUBLIC LIBRARY",
+      "system": "ORCHARD PUBLIC LIBRARY",
+      "address": "407 EAST 4TH STREET, SUITE 200, ORCHARD, NE",
+      "website": "https://www.google.com/search?q=ORCHARD+PUBLIC+LIBRARY+ORCHARD+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68764"
+      ]
+    },
+    {
+      "name": "OSMOND PUBLIC LIBRARY",
+      "system": "OSMOND PUBLIC LIBRARY",
+      "address": "412 NORTH STATE STREET, OSMOND, NE",
+      "website": "https://www.google.com/search?q=OSMOND+PUBLIC+LIBRARY+OSMOND+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68765"
+      ]
+    },
+    {
+      "name": "LIED PIERCE PUBLIC LIBRARY",
+      "system": "LIED PIERCE PUBLIC LIBRARY",
+      "address": "207 WEST COURT, PIERCE, NE",
+      "website": "https://www.google.com/search?q=LIED+PIERCE+PUBLIC+LIBRARY+PIERCE+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68767"
+      ]
+    },
+    {
+      "name": "PILGER PUBLIC LIBRARY",
+      "system": "PILGER PUBLIC LIBRARY",
+      "address": "120 NORTH MAIN STREET, PILGER, NE",
+      "website": "https://www.google.com/search?q=PILGER+PUBLIC+LIBRARY+PILGER+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68768"
+      ]
+    },
+    {
+      "name": "PLAINVIEW PUBLIC LIBRARY",
+      "system": "PLAINVIEW PUBLIC LIBRARY",
+      "address": "209 N. PINE ST, PLAINVIEW, NE",
+      "website": "https://www.google.com/search?q=PLAINVIEW+PUBLIC+LIBRARY+PLAINVIEW+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68769"
+      ]
+    },
+    {
+      "name": "PONCA CARNEGIE LIBRARY",
+      "system": "PONCA CARNEGIE LIBRARY",
+      "address": "200 WEST SECOND STREET, PONCA, NE",
+      "website": "https://www.google.com/search?q=PONCA+CARNEGIE+LIBRARY+PONCA+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68770"
+      ]
+    },
+    {
+      "name": "LIED RANDOLPH PUBLIC LIBRARY",
+      "system": "LIED RANDOLPH PUBLIC LIBRARY",
+      "address": "111 NORTH DOUGLAS, RANDOLPH, NE",
+      "website": "https://www.google.com/search?q=LIED+RANDOLPH+PUBLIC+LIBRARY+RANDOLPH+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68771"
+      ]
+    },
+    {
+      "name": "SOUTH SIOUX CITY PUBLIC LIBRARY",
+      "system": "SOUTH SIOUX CITY PUBLIC LIBRARY",
+      "address": "2121 DAKOTA AVENUE, SOUTH SIOUX CITY, NE",
+      "website": "https://www.google.com/search?q=SOUTH+SIOUX+CITY+PUBLIC+LIBRARY+SOUTH+SIOUX+CITY+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68776"
+      ]
+    },
+    {
+      "name": "SPENCER TOWNSHIP LIBRARY",
+      "system": "SPENCER TOWNSHIP LIBRARY",
+      "address": "110 WEST MAIN STREET, SPENCER, NE",
+      "website": "https://www.google.com/search?q=SPENCER+TOWNSHIP+LIBRARY+SPENCER+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68777"
+      ]
+    },
+    {
+      "name": "STANTON PUBLIC LIBRARY",
+      "system": "STANTON PUBLIC LIBRARY",
+      "address": "1009 JACKPINE, STANTON, NE",
+      "website": "https://www.google.com/search?q=STANTON+PUBLIC+LIBRARY+STANTON+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68779"
+      ]
+    },
+    {
+      "name": "STUART TOWNSHIP LIBRARY",
+      "system": "STUART TOWNSHIP LIBRARY",
+      "address": "209 MAIN STREET, STUART, NE",
+      "website": "https://www.google.com/search?q=STUART+TOWNSHIP+LIBRARY+STUART+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68780"
+      ]
+    },
+    {
+      "name": "RAYMOND A. WHITWER TILDEN PUBLIC LIBRARY",
+      "system": "RAYMOND A. WHITWER TILDEN PUBLIC LIBRARY",
+      "address": "202 SOUTH CENTER STREET, TILDEN, NE",
+      "website": "https://libraries.ne.gov/tilden/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68781"
+      ]
+    },
+    {
+      "name": "VERDIGRE PUBLIC LIBRARY",
+      "system": "VERDIGRE PUBLIC LIBRARY",
+      "address": "101 EAST 3RD AVENUE, VERDIGRE, NE",
+      "website": "https://www.google.com/search?q=VERDIGRE+PUBLIC+LIBRARY+VERDIGRE+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68783"
+      ]
+    },
+    {
+      "name": "GARDNER PUBLIC LIBRARY",
+      "system": "GARDNER PUBLIC LIBRARY",
+      "address": "114 WEST THIRD STREET, WAKEFIELD, NE",
+      "website": "https://www.google.com/search?q=GARDNER+PUBLIC+LIBRARY+WAKEFIELD+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68784"
+      ]
+    },
+    {
+      "name": "LIED LINCOLN TOWNSHIP LIBRARY",
+      "system": "LIED LINCOLN TOWNSHIP LIBRARY",
+      "address": "603 E. NORRIS ST., WAUSA, NE",
+      "website": "https://www.google.com/search?q=LIED+LINCOLN+TOWNSHIP+LIBRARY+WAUSA+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68786"
+      ]
+    },
+    {
+      "name": "WAYNE PUBLIC LIBRARY",
+      "system": "WAYNE PUBLIC LIBRARY",
+      "address": "410 NORTH PEARL STREET, WAYNE, NE",
+      "website": "https://www.google.com/search?q=WAYNE+PUBLIC+LIBRARY+WAYNE+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68787"
+      ]
+    },
+    {
+      "name": "JOHN A STAHL LIBRARY",
+      "system": "JOHN A STAHL LIBRARY",
+      "address": "330 NORTH COLFAX, WEST POINT, NE",
+      "website": "https://www.google.com/search?q=JOHN+A+STAHL+LIBRARY+WEST+POINT+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68788"
+      ]
+    },
+    {
+      "name": "LIED WINSIDE PUBLIC LIBRARY",
+      "system": "LIED WINSIDE PUBLIC LIBRARY",
+      "address": "417 MAIN STREET, WINSIDE, NE",
+      "website": "https://www.google.com/search?q=LIED+WINSIDE+PUBLIC+LIBRARY+WINSIDE+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68790"
+      ]
+    },
+    {
+      "name": "WISNER PUBLIC LIBRARY",
+      "system": "WISNER PUBLIC LIBRARY",
+      "address": "1015 AVENUE E, WISNER, NE",
+      "website": "https://www.google.com/search?q=WISNER+PUBLIC+LIBRARY+WISNER+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68791"
+      ]
+    },
+    {
+      "name": "MADISON PUBLIC LIBRARY",
+      "system": "MADISON PUBLIC LIBRARY",
+      "address": "208 WEST 3RD STREET, MADISON, NE",
+      "website": "http://www.madisonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68748"
+      ]
+    },
+    {
+      "name": "EWING TOWNSHIP LIBRARY",
+      "system": "EWING TOWNSHIP LIBRARY",
+      "address": "202 EAST NEBRASKA, EWING, NE",
+      "website": "https://www.google.com/search?q=EWING+TOWNSHIP+LIBRARY+EWING+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68735"
+      ]
+    },
+    {
+      "name": "LAUREL COMMUNITY LEARNING CENTER",
+      "system": "LAUREL COMMUNITY LEARNING CENTER",
+      "address": "502 WAKEFIELD ST., LAUREL, NE",
+      "website": "https://www.google.com/search?q=LAUREL+COMMUNITY+LEARNING+CENTER+LAUREL+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68745"
+      ]
+    },
+    {
+      "name": "KEYA PAHA COUNTY LIBRARY",
+      "system": "KEYA PAHA COUNTY LIBRARY",
+      "address": "118 S. MAIN STREET, SPRINGVIEW, NE",
+      "website": "https://www.google.com/search?q=KEYA+PAHA+COUNTY+LIBRARY+SPRINGVIEW+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68778"
+      ]
+    },
+    {
+      "name": "SPRINGBANK TOWNSHIP LIBRARY",
+      "system": "SPRINGBANK TOWNSHIP LIBRARY",
+      "address": "100 EAST 2ND STREET, ALLEN, NE",
+      "website": "https://www.google.com/search?q=SPRINGBANK+TOWNSHIP+LIBRARY+ALLEN+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68710"
+      ]
+    },
+    {
+      "name": "JACKSON COMMUNITY LIBRARY",
+      "system": "JACKSON COMMUNITY LIBRARY",
+      "address": "223 N. JOHN ST., JACKSON, NE",
+      "website": "https://www.google.com/search?q=JACKSON+COMMUNITY+LIBRARY+JACKSON+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68743"
+      ]
+    }
+  ]
+}

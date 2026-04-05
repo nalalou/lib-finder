@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "MORGANTOWN PUBLIC LIBRARY",
+      "system": "MORGANTOWN PUBLIC LIBRARY",
+      "address": "373 SPRUCE STREET, MORGANTOWN, WV",
+      "website": "https://www.google.com/search?q=MORGANTOWN+PUBLIC+LIBRARY+MORGANTOWN+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26505"
+      ]
+    },
+    {
+      "name": "KINGWOOD PUBLIC LIBRARY",
+      "system": "KINGWOOD PUBLIC LIBRARY",
+      "address": "205 WEST MAIN ST, KINGWOOD, WV",
+      "website": "https://www.google.com/search?q=KINGWOOD+PUBLIC+LIBRARY+KINGWOOD+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26537"
+      ]
+    },
+    {
+      "name": "HUNDRED PUBLIC LIBRARY",
+      "system": "HUNDRED PUBLIC LIBRARY",
+      "address": "3527 HORNET HIGHWAY, HUNDRED, WV",
+      "website": "https://www.google.com/search?q=HUNDRED+PUBLIC+LIBRARY+HUNDRED+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26575"
+      ]
+    },
+    {
+      "name": "MARION COUNTY PUBLIC LIBRARY",
+      "system": "MARION COUNTY PUBLIC LIBRARY",
+      "address": "321 MONROE ST., FAIRMONT, WV",
+      "website": "https://www.google.com/search?q=MARION+COUNTY+PUBLIC+LIBRARY+FAIRMONT+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26554"
+      ]
+    }
+  ]
+}

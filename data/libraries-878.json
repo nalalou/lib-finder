@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "SOCORRO PUBLIC LIBRARY",
+      "system": "SOCORRO PUBLIC LIBRARY",
+      "address": "401 PARK STREET, SOCORRO, NM",
+      "website": "https://www.google.com/search?q=SOCORRO+PUBLIC+LIBRARY+SOCORRO+NM+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87801"
+      ]
+    },
+    {
+      "name": "MAGDALENA PUBLIC LIBRARY",
+      "system": "MAGDALENA PUBLIC LIBRARY",
+      "address": "108 N. MAIN STREET, MAGDALENA, NM",
+      "website": "https://www.google.com/search?q=MAGDALENA+PUBLIC+LIBRARY+MAGDALENA+NM+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87825"
+      ]
+    },
+    {
+      "name": "RESERVE PUBLIC LIBRARY",
+      "system": "RESERVE PUBLIC LIBRARY",
+      "address": "15 JAKE SCOTT ST., RESERVE, NM",
+      "website": "https://www.google.com/search?q=RESERVE+PUBLIC+LIBRARY+RESERVE+NM+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87830"
+      ]
+    }
+  ]
+}

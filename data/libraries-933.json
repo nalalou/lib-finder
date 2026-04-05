@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "KERN COUNTY LIBRARY",
+      "system": "KERN COUNTY LIBRARY",
+      "address": "701 TRUXTUN AVE., BAKERSFIELD, CA",
+      "website": "https://www.google.com/search?q=KERN+COUNTY+LIBRARY+BAKERSFIELD+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93301"
+      ]
+    },
+    {
+      "name": "KERN COUNTY LAW LIBRARY",
+      "system": "KERN COUNTY LAW LIBRARY",
+      "address": "1415 TRUXTUN AVE., BAKERSFIELD, CA",
+      "website": "https://www.google.com/search?q=KERN+COUNTY+LAW+LIBRARY+BAKERSFIELD+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "93301"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "ATLANTIC CITY FREE PUBLIC LIBRARY",
+      "system": "ATLANTIC CITY FREE PUBLIC LIBRARY",
+      "address": "1 N. TENNESSEE AVENUE, ATLANTIC CITY, NJ",
+      "website": "https://www.google.com/search?q=ATLANTIC+CITY+FREE+PUBLIC+LIBRARY+ATLANTIC+CITY+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08401"
+      ]
+    },
+    {
+      "name": "MARGATE CITY PUBLIC LIBRARY",
+      "system": "MARGATE CITY PUBLIC LIBRARY",
+      "address": "8100 ATLANTIC AVENUE, MARGATE, NJ",
+      "website": "https://www.google.com/search?q=MARGATE+CITY+PUBLIC+LIBRARY+MARGATE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08402"
+      ]
+    },
+    {
+      "name": "LONGPORT PUBLIC LIBRARY",
+      "system": "LONGPORT PUBLIC LIBRARY",
+      "address": "2305 ATLANTIC AVE, LONGPORT, NJ",
+      "website": "https://www.google.com/search?q=LONGPORT+PUBLIC+LIBRARY+LONGPORT+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08403"
+      ]
+    }
+  ]
+}

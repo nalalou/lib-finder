@@ -1,0 +1,59 @@
+{
+  "libraries": [
+    {
+      "name": "LAKE COUNTY LIBRARY",
+      "system": "LAKE COUNTY LIBRARY",
+      "address": "1425 N. HIGH ST, LAKEPORT, CA",
+      "website": "https://www.google.com/search?q=LAKE+COUNTY+LIBRARY+LAKEPORT+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95453"
+      ]
+    },
+    {
+      "name": "MENDOCINO COUNTY LIBRARY",
+      "system": "MENDOCINO COUNTY LIBRARY",
+      "address": "105 N. MAIN ST., UKIAH, CA",
+      "website": "https://www.google.com/search?q=MENDOCINO+COUNTY+LIBRARY+UKIAH+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95482"
+      ]
+    },
+    {
+      "name": "LAKE COUNTY LAW LIBRARY",
+      "system": "LAKE COUNTY LAW LIBRARY",
+      "address": "175 3RD ST., LAKEPORT, CA",
+      "website": "https://www.google.com/search?q=LAKE+COUNTY+LAW+LIBRARY+LAKEPORT+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95453"
+      ]
+    },
+    {
+      "name": "MENDOCINO COUNTY LAW LIBRARY",
+      "system": "MENDOCINO COUNTY LAW LIBRARY",
+      "address": "100 N. STATE ST., ROOM 307, UKIAH, CA",
+      "website": "https://www.google.com/search?q=MENDOCINO+COUNTY+LAW+LIBRARY+UKIAH+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95482"
+      ]
+    },
+    {
+      "name": "SONOMA COUNTY PUBLIC LAW LIBRARY",
+      "system": "SONOMA COUNTY PUBLIC LAW LIBRARY",
+      "address": "2604 VENTURA AVENUE, SANTA ROSA, CA",
+      "website": "https://www.google.com/search?q=SONOMA+COUNTY+PUBLIC+LAW+LIBRARY+SANTA+ROSA+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95403"
+      ]
+    }
+  ]
+}

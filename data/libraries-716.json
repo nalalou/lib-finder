@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "PINE BLUFF/JEFFERSON COUNTY LIBRARY SYSTEM",
+      "system": "PINE BLUFF/JEFFERSON COUNTY LIBRARY SYSTEM",
+      "address": "200 E. 8TH AVENUE, PINE BLUFF, AR",
+      "website": "https://www.google.com/search?q=PINE+BLUFF/JEFFERSON+COUNTY+LIBRARY+SYSTEM+PINE+BLUFF+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71601"
+      ]
+    },
+    {
+      "name": "SOUTHEAST ARKANSAS REGIONAL LIBRARY",
+      "system": "SOUTHEAST ARKANSAS REGIONAL LIBRARY",
+      "address": "114 W JEFFERSON, MONTICELLO, AR",
+      "website": "https://www.google.com/search?q=SOUTHEAST+ARKANSAS+REGIONAL+LIBRARY+MONTICELLO+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71655"
+      ]
+    },
+    {
+      "name": "ASHLEY COUNTY LIBRARY",
+      "system": "ASHLEY COUNTY LIBRARY",
+      "address": "211 EAST LINCOLN STREET, HAMBURG, AR",
+      "website": "https://www.google.com/search?q=ASHLEY+COUNTY+LIBRARY+HAMBURG+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "71646"
+      ]
+    }
+  ]
+}

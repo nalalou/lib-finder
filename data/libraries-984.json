@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "PIERCE COUNTY LIBRARY SYSTEM",
+      "system": "PIERCE COUNTY LIBRARY SYSTEM",
+      "address": "3005 112TH STREET EAST, TACOMA, WA",
+      "website": "https://www.google.com/search?q=PIERCE+COUNTY+LIBRARY+SYSTEM+TACOMA+WA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "98446"
+      ]
+    },
+    {
+      "name": "TACOMA PUBLIC LIBRARY",
+      "system": "TACOMA PUBLIC LIBRARY",
+      "address": "1102 TACOMA AVE S, TACOMA, WA",
+      "website": "https://www.google.com/search?q=TACOMA+PUBLIC+LIBRARY+TACOMA+WA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "98402"
+      ]
+    }
+  ]
+}

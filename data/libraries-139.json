@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "BROOME COUNTY PUBLIC LIBRARY",
+      "system": "BROOME COUNTY PUBLIC LIBRARY",
+      "address": "185 COURT STREET, BINGHAMTON, NY",
+      "website": "https://www.google.com/search?q=BROOME+COUNTY+PUBLIC+LIBRARY+BINGHAMTON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13901"
+      ]
+    },
+    {
+      "name": "FENTON FREE LIBRARY",
+      "system": "FENTON FREE LIBRARY",
+      "address": "1062 CHENANGO STREET, BINGHAMTON, NY",
+      "website": "https://www.google.com/search?q=FENTON+FREE+LIBRARY+BINGHAMTON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "13901"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "EASTERN SHORE PUBLIC LIBRARY",
+      "system": "EASTERN SHORE PUBLIC LIBRARY",
+      "address": "24313 BENNETT STREET, PARKSLEY, VA",
+      "website": "https://www.google.com/search?q=EASTERN+SHORE+PUBLIC+LIBRARY+PARKSLEY+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23421"
+      ]
+    },
+    {
+      "name": "SUFFOLK PUBLIC LIBRARY SYSTEM",
+      "system": "SUFFOLK PUBLIC LIBRARY SYSTEM",
+      "address": "443 WEST WASHINGTON STREET, SUFFOLK, VA",
+      "website": "https://www.google.com/search?q=SUFFOLK+PUBLIC+LIBRARY+SYSTEM+SUFFOLK+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23434"
+      ]
+    },
+    {
+      "name": "VIRGINIA BEACH PUBLIC LIBRARY",
+      "system": "VIRGINIA BEACH PUBLIC LIBRARY",
+      "address": "2416 COURTHOUSE DRIVE BUILDING 19, VIRGINIA BEACH, VA",
+      "website": "https://www.google.com/search?q=VIRGINIA+BEACH+PUBLIC+LIBRARY+VIRGINIA+BEACH+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23456"
+      ]
+    }
+  ]
+}

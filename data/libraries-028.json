@@ -1,0 +1,455 @@
+{
+  "libraries": [
+    {
+      "name": "BARRINGTON PUBLIC LIBRARY",
+      "system": "BARRINGTON PUBLIC LIBRARY",
+      "address": "281 COUNTY ROAD, BARRINGTON, RI",
+      "website": "https://www.google.com/search?q=BARRINGTON+PUBLIC+LIBRARY+BARRINGTON+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02806"
+      ]
+    },
+    {
+      "name": "ROGERS FREE LIBRARY",
+      "system": "ROGERS FREE LIBRARY",
+      "address": "525 HOPE STREET, BRISTOL, RI",
+      "website": "https://www.google.com/search?q=ROGERS+FREE+LIBRARY+BRISTOL+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02809"
+      ]
+    },
+    {
+      "name": "JESSE M. SMITH MEMORIAL LIBRARY",
+      "system": "JESSE M. SMITH MEMORIAL LIBRARY",
+      "address": "100 TINKHAM LANE, BURRILLVILLE, RI",
+      "website": "https://www.google.com/search?q=JESSE+M.+SMITH+MEMORIAL+LIBRARY+BURRILLVILLE+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02830"
+      ]
+    },
+    {
+      "name": "PASCOAG FREE PUBLIC LIBRARY",
+      "system": "PASCOAG FREE PUBLIC LIBRARY",
+      "address": "57 CHURCH STREET, BURRILLVILLE, RI",
+      "website": "https://www.google.com/search?q=PASCOAG+FREE+PUBLIC+LIBRARY+BURRILLVILLE+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02859"
+      ]
+    },
+    {
+      "name": "ADAMS PUBLIC LIBRARY",
+      "system": "ADAMS PUBLIC LIBRARY",
+      "address": "205 CENTRAL STREET, CENTRAL FALLS, RI",
+      "website": "https://www.google.com/search?q=ADAMS+PUBLIC+LIBRARY+CENTRAL+FALLS+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02863"
+      ]
+    },
+    {
+      "name": "CROSS' MILLS PUBLIC LIBRARY",
+      "system": "CROSS' MILLS PUBLIC LIBRARY",
+      "address": "4417 OLD POST ROAD, CHARLESTOWN, RI",
+      "website": "https://www.google.com/search?q=CROSS'+MILLS+PUBLIC+LIBRARY+CHARLESTOWN+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02813"
+      ]
+    },
+    {
+      "name": "COVENTRY PUBLIC LIBRARY",
+      "system": "COVENTRY PUBLIC LIBRARY",
+      "address": "1672 FLAT RIVER ROAD, COVENTRY, RI",
+      "website": "https://www.google.com/search?q=COVENTRY+PUBLIC+LIBRARY+COVENTRY+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02816"
+      ]
+    },
+    {
+      "name": "CUMBERLAND PUBLIC LIBRARY",
+      "system": "CUMBERLAND PUBLIC LIBRARY",
+      "address": "1464 DIAMOND HILL ROAD, CUMBERLAND, RI",
+      "website": "https://www.google.com/search?q=CUMBERLAND+PUBLIC+LIBRARY+CUMBERLAND+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02864"
+      ]
+    },
+    {
+      "name": "EAST GREENWICH FREE LIBRARY",
+      "system": "EAST GREENWICH FREE LIBRARY",
+      "address": "82 PEIRCE STREET, EAST GREENWICH, RI",
+      "website": "https://www.google.com/search?q=EAST+GREENWICH+FREE+LIBRARY+EAST+GREENWICH+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02818"
+      ]
+    },
+    {
+      "name": "EXETER PUBLIC LIBRARY",
+      "system": "EXETER PUBLIC LIBRARY",
+      "address": "773 TEN ROD ROAD, EXETER, RI",
+      "website": "https://www.google.com/search?q=EXETER+PUBLIC+LIBRARY+EXETER+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02822"
+      ]
+    },
+    {
+      "name": "LIBRARIES OF FOSTER",
+      "system": "LIBRARIES OF FOSTER",
+      "address": "184 HOWARD HILL ROAD, FOSTER, RI",
+      "website": "https://www.google.com/search?q=LIBRARIES+OF+FOSTER+FOSTER+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02825"
+      ]
+    },
+    {
+      "name": "HARMONY LIBRARY",
+      "system": "HARMONY LIBRARY",
+      "address": "195 PUTNAM PIKE, GLOCESTER, RI",
+      "website": "https://www.google.com/search?q=HARMONY+LIBRARY+GLOCESTER+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02829"
+      ]
+    },
+    {
+      "name": "GLOCESTER MANTON FREE PUBLIC LIBRARY",
+      "system": "GLOCESTER MANTON FREE PUBLIC LIBRARY",
+      "address": "1137 PUTNAM PIKE, GLOCESTER, RI",
+      "website": "https://www.google.com/search?q=GLOCESTER+MANTON+FREE+PUBLIC+LIBRARY+GLOCESTER+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02814"
+      ]
+    },
+    {
+      "name": "ASHAWAY FREE LIBRARY",
+      "system": "ASHAWAY FREE LIBRARY",
+      "address": "15 KNIGHT STREET, HOPKINTON, RI",
+      "website": "https://www.google.com/search?q=ASHAWAY+FREE+LIBRARY+HOPKINTON+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02804"
+      ]
+    },
+    {
+      "name": "LANGWORTHY PUBLIC LIBRARY",
+      "system": "LANGWORTHY PUBLIC LIBRARY",
+      "address": "24 SPRING STREET, HOPKINTON, RI",
+      "website": "https://www.google.com/search?q=LANGWORTHY+PUBLIC+LIBRARY+HOPKINTON+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02832"
+      ]
+    },
+    {
+      "name": "JAMESTOWN PHILOMENIAN LIBRARY",
+      "system": "JAMESTOWN PHILOMENIAN LIBRARY",
+      "address": "26 NORTH ROAD, JAMESTOWN, RI",
+      "website": "https://www.google.com/search?q=JAMESTOWN+PHILOMENIAN+LIBRARY+JAMESTOWN+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02835"
+      ]
+    },
+    {
+      "name": "LINCOLN PUBLIC LIBRARY",
+      "system": "LINCOLN PUBLIC LIBRARY",
+      "address": "145 OLD RIVER ROAD, LINCOLN, RI",
+      "website": "https://www.lincolnpl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02865"
+      ]
+    },
+    {
+      "name": "BROWNELL LIBRARY, HOME OF LITTLE COMPTON",
+      "system": "BROWNELL LIBRARY, HOME OF LITTLE COMPTON",
+      "address": "44 COMMONS, LITTLE COMPTON, RI",
+      "website": "https://www.google.com/search?q=BROWNELL+LIBRARY,+HOME+OF+LITTLE+COMPTON+LITTLE+COMPTON+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02837"
+      ]
+    },
+    {
+      "name": "MIDDLETOWN PUBLIC LIBRARY",
+      "system": "MIDDLETOWN PUBLIC LIBRARY",
+      "address": "700 WEST MAIN ROAD, MIDDLETOWN, RI",
+      "website": "https://www.google.com/search?q=MIDDLETOWN+PUBLIC+LIBRARY+MIDDLETOWN+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02842"
+      ]
+    },
+    {
+      "name": "MAURY LOONTJENS MEMORIAL LIBRARY (NARRAGANSETT)",
+      "system": "MAURY LOONTJENS MEMORIAL LIBRARY (NARRAGANSETT)",
+      "address": "35 KINGSTOWN ROAD, NARRAGANSETT, RI",
+      "website": "https://www.google.com/search?q=MAURY+LOONTJENS+MEMORIAL+LIBRARY+(NARRAGANSETT)+NARRAGANSETT+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02882"
+      ]
+    },
+    {
+      "name": "ISLAND FREE LIBRARY",
+      "system": "ISLAND FREE LIBRARY",
+      "address": "9 DODGE STREET, NEW SHOREHAM, RI",
+      "website": "https://www.google.com/search?q=ISLAND+FREE+LIBRARY+NEW+SHOREHAM+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02807"
+      ]
+    },
+    {
+      "name": "NEWPORT PUBLIC LIBRARY",
+      "system": "NEWPORT PUBLIC LIBRARY",
+      "address": "300 SPRING STREET, NEWPORT, RI",
+      "website": "http://www.newportlibraryri.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02840"
+      ]
+    },
+    {
+      "name": "NORTH KINGSTOWN FREE LIBRARY",
+      "system": "NORTH KINGSTOWN FREE LIBRARY",
+      "address": "100 BOONE STREET, NORTH KINGSTOWN, RI",
+      "website": "https://www.google.com/search?q=NORTH+KINGSTOWN+FREE+LIBRARY+NORTH+KINGSTOWN+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02852"
+      ]
+    },
+    {
+      "name": "WILLETT FREE LIBRARY",
+      "system": "WILLETT FREE LIBRARY",
+      "address": "45 FERRY ROAD, NORTH KINGSTOWN, RI",
+      "website": "https://www.google.com/search?q=WILLETT+FREE+LIBRARY+NORTH+KINGSTOWN+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02874"
+      ]
+    },
+    {
+      "name": "NORTH SMITHFIELD PUBLIC LIBRARY",
+      "system": "NORTH SMITHFIELD PUBLIC LIBRARY",
+      "address": "20 MAIN STREET, NORTH SMITHFIELD, RI",
+      "website": "http://www.nspl.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02876"
+      ]
+    },
+    {
+      "name": "PAWTUCKET PUBLIC LIBRARY",
+      "system": "PAWTUCKET PUBLIC LIBRARY",
+      "address": "13 SUMMER STREET, PAWTUCKET, RI",
+      "website": "https://www.google.com/search?q=PAWTUCKET+PUBLIC+LIBRARY+PAWTUCKET+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02860"
+      ]
+    },
+    {
+      "name": "PORTSMOUTH FREE PUBLIC LIBRARY",
+      "system": "PORTSMOUTH FREE PUBLIC LIBRARY",
+      "address": "2658 EAST MAIN ROAD, PORTSMOUTH, RI",
+      "website": "https://www.google.com/search?q=PORTSMOUTH+FREE+PUBLIC+LIBRARY+PORTSMOUTH+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02871"
+      ]
+    },
+    {
+      "name": "CLARK MEMORIAL LIBRARY",
+      "system": "CLARK MEMORIAL LIBRARY",
+      "address": "7 PINEHURST DRIVE, RICHMOND, RI",
+      "website": "https://www.google.com/search?q=CLARK+MEMORIAL+LIBRARY+RICHMOND+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02812"
+      ]
+    },
+    {
+      "name": "HOPE LIBRARY",
+      "system": "HOPE LIBRARY",
+      "address": "374 NORTH ROAD, SCITUATE, RI",
+      "website": "https://www.google.com/search?q=HOPE+LIBRARY+SCITUATE+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02831"
+      ]
+    },
+    {
+      "name": "NORTH SCITUATE PUBLIC LIBRARY",
+      "system": "NORTH SCITUATE PUBLIC LIBRARY",
+      "address": "606 WEST GREENVILLE ROAD, SCITUATE, RI",
+      "website": "https://www.google.com/search?q=NORTH+SCITUATE+PUBLIC+LIBRARY+SCITUATE+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02857"
+      ]
+    },
+    {
+      "name": "GREENVILLE PUBLIC LIBRARY",
+      "system": "GREENVILLE PUBLIC LIBRARY",
+      "address": "573 PUTNAM PIKE, SMITHFIELD, RI",
+      "website": "http://www.yourlibrary.ws/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02828"
+      ]
+    },
+    {
+      "name": "SOUTH KINGSTOWN PUBLIC LIBRARY",
+      "system": "SOUTH KINGSTOWN PUBLIC LIBRARY",
+      "address": "1057 KINGSTOWN ROAD, SOUTH KINGSTOWN, RI",
+      "website": "https://www.google.com/search?q=SOUTH+KINGSTOWN+PUBLIC+LIBRARY+SOUTH+KINGSTOWN+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02879"
+      ]
+    },
+    {
+      "name": "TIVERTON PUBLIC LIBRARY",
+      "system": "TIVERTON PUBLIC LIBRARY",
+      "address": "34 ROOSEVELT AVENUE, TIVERTON, RI",
+      "website": "https://www.google.com/search?q=TIVERTON+PUBLIC+LIBRARY+TIVERTON+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02878"
+      ]
+    },
+    {
+      "name": "GEORGE HAIL FREE LIBRARY",
+      "system": "GEORGE HAIL FREE LIBRARY",
+      "address": "530 MAIN STREET, WARREN, RI",
+      "website": "https://www.google.com/search?q=GEORGE+HAIL+FREE+LIBRARY+WARREN+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02885"
+      ]
+    },
+    {
+      "name": "WARWICK PUBLIC LIBRARY",
+      "system": "WARWICK PUBLIC LIBRARY",
+      "address": "600 SANDY LANE, WARWICK, RI",
+      "website": "https://www.google.com/search?q=WARWICK+PUBLIC+LIBRARY+WARWICK+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02889"
+      ]
+    },
+    {
+      "name": "PONTIAC FREE LIBRARY",
+      "system": "PONTIAC FREE LIBRARY",
+      "address": "101 GREENWICH AVENUE, WARWICK, RI",
+      "website": "https://www.google.com/search?q=PONTIAC+FREE+LIBRARY+WARWICK+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02886"
+      ]
+    },
+    {
+      "name": "LOUTTIT LIBRARY",
+      "system": "LOUTTIT LIBRARY",
+      "address": "274 VICTORY HIGHWAY, WEST GREENWICH, RI",
+      "website": "https://www.google.com/search?q=LOUTTIT+LIBRARY+WEST+GREENWICH+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02817"
+      ]
+    },
+    {
+      "name": "WEST WARWICK PUBLIC LIBRARY",
+      "system": "WEST WARWICK PUBLIC LIBRARY",
+      "address": "1043 MAIN STREET, WEST WARWICK, RI",
+      "website": "https://www.google.com/search?q=WEST+WARWICK+PUBLIC+LIBRARY+WEST+WARWICK+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02893"
+      ]
+    },
+    {
+      "name": "WESTERLY PUBLIC LIBRARY",
+      "system": "WESTERLY PUBLIC LIBRARY",
+      "address": "44 BROAD STREET, WESTERLY, RI",
+      "website": "https://www.google.com/search?q=WESTERLY+PUBLIC+LIBRARY+WESTERLY+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02891"
+      ]
+    },
+    {
+      "name": "WOONSOCKET HARRIS PUBLIC LIBRARY",
+      "system": "WOONSOCKET HARRIS PUBLIC LIBRARY",
+      "address": "303 CLINTON STREET, WOONSOCKET, RI",
+      "website": "https://www.google.com/search?q=WOONSOCKET+HARRIS+PUBLIC+LIBRARY+WOONSOCKET+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02895"
+      ]
+    },
+    {
+      "name": "DAVISVILLE FREE LIBRARY",
+      "system": "DAVISVILLE FREE LIBRARY",
+      "address": "481 DAVISVILLE ROAD, NORTH KINGSTOWN, RI",
+      "website": "https://www.google.com/search?q=DAVISVILLE+FREE+LIBRARY+NORTH+KINGSTOWN+RI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "02852"
+      ]
+    }
+  ]
+}

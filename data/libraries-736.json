@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "WESTERN PLAINS LIBRARY SYSTEM",
+      "system": "WESTERN PLAINS LIBRARY SYSTEM",
+      "address": "501 S. 28TH STREET, CLINTON, OK",
+      "website": "https://www.google.com/search?q=WESTERN+PLAINS+LIBRARY+SYSTEM+CLINTON+OK+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73601"
+      ]
+    },
+    {
+      "name": "ELK CITY CARNEGIE LIBRARY",
+      "system": "ELK CITY CARNEGIE LIBRARY",
+      "address": "221 WEST BROADWAY AVE, ELK CITY, OK",
+      "website": "https://www.google.com/search?q=ELK+CITY+CARNEGIE+LIBRARY+ELK+CITY+OK+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73644"
+      ]
+    },
+    {
+      "name": "HOBART PUBLIC LIBRARY",
+      "system": "HOBART PUBLIC LIBRARY",
+      "address": "200 S MAIN, HOBART, OK",
+      "website": "https://www.google.com/search?q=HOBART+PUBLIC+LIBRARY+HOBART+OK+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73651"
+      ]
+    },
+    {
+      "name": "SAYRE PUBLIC LIBRARY",
+      "system": "SAYRE PUBLIC LIBRARY",
+      "address": "113 E POPLAR, SAYRE, OK",
+      "website": "https://www.google.com/search?q=SAYRE+PUBLIC+LIBRARY+SAYRE+OK+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "73662"
+      ]
+    }
+  ]
+}

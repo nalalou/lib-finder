@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "BOLIVAR COUNTY LIBRARY",
+      "system": "BOLIVAR COUNTY LIBRARY",
+      "address": "104 SOUTH LEFLORE AVENUE, CLEVELAND, MS",
+      "website": "https://www.google.com/search?q=BOLIVAR+COUNTY+LIBRARY+CLEVELAND+MS+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38732"
+      ]
+    },
+    {
+      "name": "SUNFLOWER COUNTY LIBRARY",
+      "system": "SUNFLOWER COUNTY LIBRARY",
+      "address": "201 CYPRESS DRIVE, INDIANOLA, MS",
+      "website": "https://www.google.com/search?q=SUNFLOWER+COUNTY+LIBRARY+INDIANOLA+MS+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38751"
+      ]
+    },
+    {
+      "name": "WASHINGTON COUNTY LIBRARY",
+      "system": "WASHINGTON COUNTY LIBRARY",
+      "address": "341 MAIN STREET, GREENVILLE, MS",
+      "website": "https://www.google.com/search?q=WASHINGTON+COUNTY+LIBRARY+GREENVILLE+MS+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "38701"
+      ]
+    }
+  ]
+}

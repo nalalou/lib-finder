@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "SAN FRANCISCO PUBLIC LIBRARY",
+      "system": "SAN FRANCISCO PUBLIC LIBRARY",
+      "address": "100 LARKIN ST, SAN FRANCISCO, CA",
+      "website": "https://sfpl.org/es",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "94102"
+      ]
+    },
+    {
+      "name": "SAN FRANCISCO LAW LIBRARY",
+      "system": "SAN FRANCISCO LAW LIBRARY",
+      "address": "1145 MARKET ST., 4TH FLOOR, SAN FRANCISCO, CA",
+      "website": "https://www.google.com/search?q=SAN+FRANCISCO+LAW+LIBRARY+SAN+FRANCISCO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "94103"
+      ]
+    }
+  ]
+}

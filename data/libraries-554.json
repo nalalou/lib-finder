@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "ANOKA COUNTY LIBRARY",
+      "system": "ANOKA COUNTY LIBRARY",
+      "address": "707 COUNTY RD 10 NE, BLAINE, MN",
+      "website": "https://www.google.com/search?q=ANOKA+COUNTY+LIBRARY+BLAINE+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55434"
+      ]
+    },
+    {
+      "name": "COLUMBIA HEIGHTS PUBLIC LIBRARY",
+      "system": "COLUMBIA HEIGHTS PUBLIC LIBRARY",
+      "address": "3939 CENTRAL AVENUE NE, COLUMBIA HEIGHTS, MN",
+      "website": "https://www.columbiaheightsmn.gov/departments/library/index.php",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55421"
+      ]
+    }
+  ]
+}

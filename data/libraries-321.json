@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "FLAGLER BEACH PUBLIC LIBRARY",
+      "system": "FLAGLER BEACH PUBLIC LIBRARY",
+      "address": "315 SOUTH SEVENTH STREET, FLAGLER BEACH, FL",
+      "website": "https://www.google.com/search?q=FLAGLER+BEACH+PUBLIC+LIBRARY+FLAGLER+BEACH+FL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "32136"
+      ]
+    },
+    {
+      "name": "FLAGLER COUNTY PUBLIC LIBRARY",
+      "system": "FLAGLER COUNTY PUBLIC LIBRARY",
+      "address": "2500 PALM COAST PARKWAY NW, PALM COAST, FL",
+      "website": "https://www.google.com/search?q=FLAGLER+COUNTY+PUBLIC+LIBRARY+PALM+COAST+FL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "32137"
+      ]
+    },
+    {
+      "name": "VOLUSIA COUNTY PUBLIC LIBRARY",
+      "system": "VOLUSIA COUNTY PUBLIC LIBRARY",
+      "address": "1290 INDIAN LAKE ROAD, DAYTONA BEACH, FL",
+      "website": "http://volusialibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "32124"
+      ]
+    }
+  ]
+}

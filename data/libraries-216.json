@@ -1,0 +1,59 @@
+{
+  "libraries": [
+    {
+      "name": "CAROLINE COUNTY PUBLIC LIBRARY",
+      "system": "CAROLINE COUNTY PUBLIC LIBRARY",
+      "address": "100 MARKET STREET, DENTON, MD",
+      "website": "https://eshore.polarislibrary.com/polaris/default.aspx?ctx=3.1033.0.0.1",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "21629"
+      ]
+    },
+    {
+      "name": "DORCHESTER COUNTY PUBLIC LIBRARY",
+      "system": "DORCHESTER COUNTY PUBLIC LIBRARY",
+      "address": "303 GAY STREET, CAMBRIDGE, MD",
+      "website": "https://www.google.com/search?q=DORCHESTER+COUNTY+PUBLIC+LIBRARY+CAMBRIDGE+MD+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "21613"
+      ]
+    },
+    {
+      "name": "KENT COUNTY PUBLIC LIBRARY",
+      "system": "KENT COUNTY PUBLIC LIBRARY",
+      "address": "408 HIGH STREET, CHESTERTOWN, MD",
+      "website": "https://www.google.com/search?q=KENT+COUNTY+PUBLIC+LIBRARY+CHESTERTOWN+MD+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "21620"
+      ]
+    },
+    {
+      "name": "QUEEN ANNE`S COUNTY FREE LIBRARY",
+      "system": "QUEEN ANNE`S COUNTY FREE LIBRARY",
+      "address": "121 S COMMERCE STREET, CENTREVILLE, MD",
+      "website": "https://www.google.com/search?q=QUEEN+ANNE`S+COUNTY+FREE+LIBRARY+CENTREVILLE+MD+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "21617"
+      ]
+    },
+    {
+      "name": "TALBOT COUNTY FREE LIBRARY",
+      "system": "TALBOT COUNTY FREE LIBRARY",
+      "address": "100 W. DOVER ST., EASTON, MD",
+      "website": "https://www.google.com/search?q=TALBOT+COUNTY+FREE+LIBRARY+EASTON+MD+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "21601"
+      ]
+    }
+  ]
+}

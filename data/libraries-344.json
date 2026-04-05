@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "MARION COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "MARION COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "2720 EAST SILVER SPRINGS BOULEVARD, OCALA, FL",
+      "website": "https://www.google.com/search?q=MARION+COUNTY+PUBLIC+LIBRARY+SYSTEM+OCALA+FL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "34470"
+      ]
+    },
+    {
+      "name": "CITRUS COUNTY LIBRARY SYSTEM",
+      "system": "CITRUS COUNTY LIBRARY SYSTEM",
+      "address": "425 W. ROOSEVELT BOULEVARD, BEVERLY HILLS, FL",
+      "website": "https://www.google.com/search?q=CITRUS+COUNTY+LIBRARY+SYSTEM+BEVERLY+HILLS+FL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "34465"
+      ]
+    },
+    {
+      "name": "CITRUS SPRINGS MEMORIAL LIBRARY",
+      "system": "CITRUS SPRINGS MEMORIAL LIBRARY",
+      "address": "1826 WEST COUNTRY CLUB BOULEVARD, CITRUS SPRINGS, FL",
+      "website": "https://www.google.com/search?q=CITRUS+SPRINGS+MEMORIAL+LIBRARY+CITRUS+SPRINGS+FL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "34434"
+      ]
+    }
+  ]
+}

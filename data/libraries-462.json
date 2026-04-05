@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "SPEEDWAY PUBLIC LIBRARY",
+      "system": "SPEEDWAY PUBLIC LIBRARY",
+      "address": "5633 WEST 25TH STREET, SPEEDWAY, IN",
+      "website": "https://www.google.com/search?q=SPEEDWAY+PUBLIC+LIBRARY+SPEEDWAY+IN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46224"
+      ]
+    },
+    {
+      "name": "INDIANAPOLIS PUBLIC LIBRARY",
+      "system": "INDIANAPOLIS PUBLIC LIBRARY",
+      "address": "40 EAST ST CLAIR, INDIANAPOLIS, IN",
+      "website": "http://www.indypl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "46204"
+      ]
+    }
+  ]
+}

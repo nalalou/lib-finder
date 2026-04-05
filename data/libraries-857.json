@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "PIMA COUNTY PUBLIC LIBRARY",
+      "system": "PIMA COUNTY PUBLIC LIBRARY",
+      "address": "101 N STONE AVE, TUCSON, AZ",
+      "website": "http://www.library.pima.gov/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "85701"
+      ]
+    },
+    {
+      "name": "DR. FERNANDO ESCALANTE TRIBAL LIBRARY",
+      "system": "DR. FERNANDO ESCALANTE TRIBAL LIBRARY",
+      "address": "5100 W CALLE TETAKUSIM, TUCSON, AZ",
+      "website": "https://www.google.com/search?q=DR.+FERNANDO+ESCALANTE+TRIBAL+LIBRARY+TUCSON+AZ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "85757"
+      ]
+    },
+    {
+      "name": "SAN XAVIER LEARNING CENTER LIBRARY",
+      "system": "SAN XAVIER LEARNING CENTER LIBRARY",
+      "address": "1960 W WA:K LANE, TUCSON, AZ",
+      "website": "https://www.google.com/search?q=SAN+XAVIER+LEARNING+CENTER+LIBRARY+TUCSON+AZ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "85746"
+      ]
+    }
+  ]
+}

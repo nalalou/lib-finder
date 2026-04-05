@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "CERRITOS PUBLIC LIBRARY",
+      "system": "CERRITOS PUBLIC LIBRARY",
+      "address": "18025 BLOOMFIELD AVE., CERRITOS, CA",
+      "website": "https://www.google.com/search?q=CERRITOS+PUBLIC+LIBRARY+CERRITOS+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "90703"
+      ]
+    },
+    {
+      "name": "SIGNAL HILL PUBLIC LIBRARY",
+      "system": "SIGNAL HILL PUBLIC LIBRARY",
+      "address": "1800 EAST HILL STREET, SIGNAL HILL, CA",
+      "website": "https://www.google.com/search?q=SIGNAL+HILL+PUBLIC+LIBRARY+SIGNAL+HILL+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "90755"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "FORT SMITH PUBLIC LIBRARY",
+      "system": "FORT SMITH PUBLIC LIBRARY",
+      "address": "3201 ROGERS AVENUE, FORT SMITH, AR",
+      "website": "https://www.google.com/search?q=FORT+SMITH+PUBLIC+LIBRARY+FORT+SMITH+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72903"
+      ]
+    },
+    {
+      "name": "SCOTT SEBASTIAN REGIONAL LIBRARY",
+      "system": "SCOTT SEBASTIAN REGIONAL LIBRARY",
+      "address": "18 N. ADAIR STREET, GREENWOOD, AR",
+      "website": "https://www.google.com/search?q=SCOTT+SEBASTIAN+REGIONAL+LIBRARY+GREENWOOD+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72936"
+      ]
+    },
+    {
+      "name": "CRAWFORD COUNTY LIBRARY SYSTEM",
+      "system": "CRAWFORD COUNTY LIBRARY SYSTEM",
+      "address": "1409 MAIN ST., VAN BUREN, AR",
+      "website": "https://www.google.com/search?q=CRAWFORD+COUNTY+LIBRARY+SYSTEM+VAN+BUREN+AR+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "72956"
+      ]
+    }
+  ]
+}

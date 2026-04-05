@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "HIGHLAND PARK PUBLIC LIBRARY",
+      "system": "HIGHLAND PARK PUBLIC LIBRARY",
+      "address": "31 N. FIFTH AVENUE, HIGHLAND PARK, NJ",
+      "website": "https://www.google.com/search?q=HIGHLAND+PARK+PUBLIC+LIBRARY+HIGHLAND+PARK+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08904"
+      ]
+    },
+    {
+      "name": "NEW BRUNSWICK FREE PUBLIC LIBRARY",
+      "system": "NEW BRUNSWICK FREE PUBLIC LIBRARY",
+      "address": "60 LIVINGSTON AVENUE, NEW BRUNSWICK, NJ",
+      "website": "http://www.nbfpl.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08901"
+      ]
+    },
+    {
+      "name": "NORTH BRUNSWICK FREE PUBLIC LIBRARY",
+      "system": "NORTH BRUNSWICK FREE PUBLIC LIBRARY",
+      "address": "880 HERMANN ROAD, NORTH BRUNSWICK, NJ",
+      "website": "https://www.google.com/search?q=NORTH+BRUNSWICK+FREE+PUBLIC+LIBRARY+NORTH+BRUNSWICK+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08902"
+      ]
+    }
+  ]
+}

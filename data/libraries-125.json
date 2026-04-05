@@ -1,0 +1,444 @@
+{
+  "libraries": [
+    {
+      "name": "GERMANTOWN LIBRARY",
+      "system": "GERMANTOWN LIBRARY",
+      "address": "31 PALATINE PARK ROAD, GERMANTOWN, NY",
+      "website": "https://montgomerycountymd.gov/library/branches/germantown.html",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12526"
+      ]
+    },
+    {
+      "name": "ROELIFF JANSEN COMMUNITY LIBRARY",
+      "system": "ROELIFF JANSEN COMMUNITY LIBRARY",
+      "address": "9091 STATE ROUTE 22, HILLSDALE, NY",
+      "website": "https://www.google.com/search?q=ROELIFF+JANSEN+COMMUNITY+LIBRARY+HILLSDALE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12529"
+      ]
+    },
+    {
+      "name": "HUDSON AREA ASSOCIATION LIBRARY",
+      "system": "HUDSON AREA ASSOCIATION LIBRARY",
+      "address": "51 N. 5TH ST, HUDSON, NY",
+      "website": "https://www.google.com/search?q=HUDSON+AREA+ASSOCIATION+LIBRARY+HUDSON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12534"
+      ]
+    },
+    {
+      "name": "LIVINGSTON FREE LIBRARY",
+      "system": "LIVINGSTON FREE LIBRARY",
+      "address": "90 OLD POST ROAD, LIVINGSTON, NY",
+      "website": "https://www.google.com/search?q=LIVINGSTON+FREE+LIBRARY+LIVINGSTON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12541"
+      ]
+    },
+    {
+      "name": "PHILMONT PUBLIC LIBRARY",
+      "system": "PHILMONT PUBLIC LIBRARY",
+      "address": "101 MAIN STREET, PHILMONT, NY",
+      "website": "https://www.google.com/search?q=PHILMONT+PUBLIC+LIBRARY+PHILMONT+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12565"
+      ]
+    },
+    {
+      "name": "AMENIA FREE LIBRARY",
+      "system": "AMENIA FREE LIBRARY",
+      "address": "3309 ROUTE 343, AMENIA, NY",
+      "website": "https://www.google.com/search?q=AMENIA+FREE+LIBRARY+AMENIA+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12501"
+      ]
+    },
+    {
+      "name": "HOWLAND PUBLIC LIBRARY",
+      "system": "HOWLAND PUBLIC LIBRARY",
+      "address": "313 MAIN STREET, BEACON, NY",
+      "website": "https://www.google.com/search?q=HOWLAND+PUBLIC+LIBRARY+BEACON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12508"
+      ]
+    },
+    {
+      "name": "DOVER PLAINS LIBRARY",
+      "system": "DOVER PLAINS LIBRARY",
+      "address": "1797 ROUTE 22, WINGDALE, NY",
+      "website": "https://www.google.com/search?q=DOVER+PLAINS+LIBRARY+WINGDALE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12594"
+      ]
+    },
+    {
+      "name": "EAST FISHKILL PUBLIC LIBRARY DISTRICT",
+      "system": "EAST FISHKILL PUBLIC LIBRARY DISTRICT",
+      "address": "348 ROUTE 376, HOPEWELL JUNCTION, NY",
+      "website": "https://www.google.com/search?q=EAST+FISHKILL+PUBLIC+LIBRARY+DISTRICT+HOPEWELL+JUNCTION+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12533"
+      ]
+    },
+    {
+      "name": "BLODGETT MEMORIAL LIBRARY DISTRICT OF FISHKILL",
+      "system": "BLODGETT MEMORIAL LIBRARY DISTRICT OF FISHKILL",
+      "address": "37 BROAD STREET, FISHKILL, NY",
+      "website": "https://www.google.com/search?q=BLODGETT+MEMORIAL+LIBRARY+DISTRICT+OF+FISHKILL+FISHKILL+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12524"
+      ]
+    },
+    {
+      "name": "HYDE PARK LIBRARY DISTRICT",
+      "system": "HYDE PARK LIBRARY DISTRICT",
+      "address": "2 MAIN STREET, HYDE PARK, NY",
+      "website": "https://www.google.com/search?q=HYDE+PARK+LIBRARY+DISTRICT+HYDE+PARK+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12538"
+      ]
+    },
+    {
+      "name": "MILLBROOK LIBRARY",
+      "system": "MILLBROOK LIBRARY",
+      "address": "3 FRIENDLY LANE, MILLBROOK, NY",
+      "website": "https://www.google.com/search?q=MILLBROOK+LIBRARY+MILLBROOK+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12545"
+      ]
+    },
+    {
+      "name": "NORTH EAST- MILLERTON LIBRARY",
+      "system": "NORTH EAST- MILLERTON LIBRARY",
+      "address": "75 MAIN STREET, MILLERTON, NY",
+      "website": "https://www.google.com/search?q=NORTH+EAST-+MILLERTON+LIBRARY+MILLERTON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12546"
+      ]
+    },
+    {
+      "name": "PAWLING FREE LIBRARY",
+      "system": "PAWLING FREE LIBRARY",
+      "address": "11 BROAD STREET, PAWLING, NY",
+      "website": "https://www.google.com/search?q=PAWLING+FREE+LIBRARY+PAWLING+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12564"
+      ]
+    },
+    {
+      "name": "PINE PLAINS FREE LIBRARY",
+      "system": "PINE PLAINS FREE LIBRARY",
+      "address": "7775 SOUTH MAIN STREET, PINE PLAINS, NY",
+      "website": "https://www.google.com/search?q=PINE+PLAINS+FREE+LIBRARY+PINE+PLAINS+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12567"
+      ]
+    },
+    {
+      "name": "PLEASANT VALLEY FREE LIBRARY",
+      "system": "PLEASANT VALLEY FREE LIBRARY",
+      "address": "1584 MAIN STREET, PLEASANT VALLEY, NY",
+      "website": "https://www.google.com/search?q=PLEASANT+VALLEY+FREE+LIBRARY+PLEASANT+VALLEY+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12569"
+      ]
+    },
+    {
+      "name": "LAGRANGE ASSOCIATION LIBRARY",
+      "system": "LAGRANGE ASSOCIATION LIBRARY",
+      "address": "1110 ROUTE 55, LAGRANGEVILLE, NY",
+      "website": "https://www.google.com/search?q=LAGRANGE+ASSOCIATION+LIBRARY+LAGRANGEVILLE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12540"
+      ]
+    },
+    {
+      "name": "BEEKMAN LIBRARY",
+      "system": "BEEKMAN LIBRARY",
+      "address": "11 TOWN CENTER BLVD, HOPEWELL JUNCTION, NY",
+      "website": "https://www.google.com/search?q=BEEKMAN+LIBRARY+HOPEWELL+JUNCTION+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12533"
+      ]
+    },
+    {
+      "name": "RED HOOK PUBLIC LIBRARY",
+      "system": "RED HOOK PUBLIC LIBRARY",
+      "address": "7444 SOUTH BROADWAY, RED HOOK, NY",
+      "website": "https://www.google.com/search?q=RED+HOOK+PUBLIC+LIBRARY+RED+HOOK+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12571"
+      ]
+    },
+    {
+      "name": "STARR INSTITUTE",
+      "system": "STARR INSTITUTE",
+      "address": "68 WEST MARKET STREET, RHINEBECK, NY",
+      "website": "https://www.google.com/search?q=STARR+INSTITUTE+RHINEBECK+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12572"
+      ]
+    },
+    {
+      "name": "MORTON MEMORIAL LIBRARY AND COMMUNITY HOUSE",
+      "system": "MORTON MEMORIAL LIBRARY AND COMMUNITY HOUSE",
+      "address": "82 KELLY STREET, RHINECLIFF, NY",
+      "website": "https://www.google.com/search?q=MORTON+MEMORIAL+LIBRARY+AND+COMMUNITY+HOUSE+RHINECLIFF+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12574"
+      ]
+    },
+    {
+      "name": "STAATSBURG LIBRARY",
+      "system": "STAATSBURG LIBRARY",
+      "address": "72 OLD POST ROAD, STAATSBURG, NY",
+      "website": "https://www.google.com/search?q=STAATSBURG+LIBRARY+STAATSBURG+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12580"
+      ]
+    },
+    {
+      "name": "STANFORD FREE LIBRARY",
+      "system": "STANFORD FREE LIBRARY",
+      "address": "6035 ROUTE 82, STANFORDVILLE, NY",
+      "website": "https://www.google.com/search?q=STANFORD+FREE+LIBRARY+STANFORDVILLE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12581"
+      ]
+    },
+    {
+      "name": "TIVOLI FREE LIBRARY",
+      "system": "TIVOLI FREE LIBRARY",
+      "address": "86 BROADWAY, TIVOLI, NY",
+      "website": "https://www.google.com/search?q=TIVOLI+FREE+LIBRARY+TIVOLI+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12583"
+      ]
+    },
+    {
+      "name": "GRINNELL PUBLIC LIBRARY DISTRICT",
+      "system": "GRINNELL PUBLIC LIBRARY DISTRICT",
+      "address": "2642 EAST MAIN STREET, WAPPINGERS FALLS, NY",
+      "website": "https://www.google.com/search?q=GRINNELL+PUBLIC+LIBRARY+DISTRICT+WAPPINGERS+FALLS+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12590"
+      ]
+    },
+    {
+      "name": "PATTERSON LIBRARY",
+      "system": "PATTERSON LIBRARY",
+      "address": "1167 ROUTE 311, PATTERSON, NY",
+      "website": "https://www.google.com/search?q=PATTERSON+LIBRARY+PATTERSON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12563"
+      ]
+    },
+    {
+      "name": "HIGHLAND PUBLIC LIBRARY",
+      "system": "HIGHLAND PUBLIC LIBRARY",
+      "address": "14 ELTING PLACE, HIGHLAND, NY",
+      "website": "https://www.google.com/search?q=HIGHLAND+PUBLIC+LIBRARY+HIGHLAND+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12528"
+      ]
+    },
+    {
+      "name": "MARLBORO FREE LIBRARY",
+      "system": "MARLBORO FREE LIBRARY",
+      "address": "1251 ROUTE 9W, MARLBORO, NY",
+      "website": "https://www.google.com/search?q=MARLBORO+FREE+LIBRARY+MARLBORO+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12542"
+      ]
+    },
+    {
+      "name": "SARAH HULL HALLOCK FREE LIBRARY",
+      "system": "SARAH HULL HALLOCK FREE LIBRARY",
+      "address": "56-58 MAIN STREET, MILTON, NY",
+      "website": "https://www.google.com/search?q=SARAH+HULL+HALLOCK+FREE+LIBRARY+MILTON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12547"
+      ]
+    },
+    {
+      "name": "PLATTEKILL PUBLIC LIBRARY",
+      "system": "PLATTEKILL PUBLIC LIBRARY",
+      "address": "2047 ROUTE 32, MODENA, NY",
+      "website": "https://www.google.com/search?q=PLATTEKILL+PUBLIC+LIBRARY+MODENA+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12548"
+      ]
+    },
+    {
+      "name": "ELTING MEMORIAL LIBRARY",
+      "system": "ELTING MEMORIAL LIBRARY",
+      "address": "93 MAIN STREET, NEW PALTZ, NY",
+      "website": "https://www.google.com/search?q=ELTING+MEMORIAL+LIBRARY+NEW+PALTZ+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12561"
+      ]
+    },
+    {
+      "name": "CORNWALL PUBLIC LIBRARY",
+      "system": "CORNWALL PUBLIC LIBRARY",
+      "address": "395 HUDSON STREET, CORNWALL, NY",
+      "website": "https://www.google.com/search?q=CORNWALL+PUBLIC+LIBRARY+CORNWALL+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12518"
+      ]
+    },
+    {
+      "name": "MONTGOMERY FREE LIBRARY",
+      "system": "MONTGOMERY FREE LIBRARY",
+      "address": "133 CLINTON STREET, MONTGOMERY, NY",
+      "website": "https://www.google.com/search?q=MONTGOMERY+FREE+LIBRARY+MONTGOMERY+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12549"
+      ]
+    },
+    {
+      "name": "NEWBURGH FREE LIBRARY",
+      "system": "NEWBURGH FREE LIBRARY",
+      "address": "124 GRAND STREET, NEWBURGH, NY",
+      "website": "https://www.google.com/search?q=NEWBURGH+FREE+LIBRARY+NEWBURGH+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12550"
+      ]
+    },
+    {
+      "name": "PINE BUSH AREA PUBLIC LIBRARY DISTRICT",
+      "system": "PINE BUSH AREA PUBLIC LIBRARY DISTRICT",
+      "address": "223-227 MAPLE AVENUE, PINE BUSH, NY",
+      "website": "https://www.google.com/search?q=PINE+BUSH+AREA+PUBLIC+LIBRARY+DISTRICT+PINE+BUSH+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12566"
+      ]
+    },
+    {
+      "name": "JOSEPHINE-LOUISE PUBLIC LIBRARY",
+      "system": "JOSEPHINE-LOUISE PUBLIC LIBRARY",
+      "address": "5 SCOFIELD STREET, WALDEN, NY",
+      "website": "https://www.google.com/search?q=JOSEPHINE-LOUISE+PUBLIC+LIBRARY+WALDEN+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12586"
+      ]
+    },
+    {
+      "name": "WALLKILL PUBLIC LIBRARY",
+      "system": "WALLKILL PUBLIC LIBRARY",
+      "address": "7 BONA VENTURA, WALLKILL, NY",
+      "website": "https://www.google.com/search?q=WALLKILL+PUBLIC+LIBRARY+WALLKILL+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12589"
+      ]
+    },
+    {
+      "name": "GARDINER LIBRARY",
+      "system": "GARDINER LIBRARY",
+      "address": "133 FARMER'S TURNPIKE, GARDINER, NY",
+      "website": "https://www.google.com/search?q=GARDINER+LIBRARY+GARDINER+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12525"
+      ]
+    },
+    {
+      "name": "CLAVERACK FREE LIBRARY AND READING ROOM ASSOCIATION",
+      "system": "CLAVERACK FREE LIBRARY AND READING ROOM ASSOCIATION",
+      "address": "9 ROUTE 9H, CLAVERACK, NY",
+      "website": "https://www.google.com/search?q=CLAVERACK+FREE+LIBRARY+AND+READING+ROOM+ASSOCIATION+CLAVERACK+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12513"
+      ]
+    },
+    {
+      "name": "CLINTON COMMUNITY LIBRARY",
+      "system": "CLINTON COMMUNITY LIBRARY",
+      "address": "1215 CENTRE ROAD, RHINEBECK, NY",
+      "website": "https://www.google.com/search?q=CLINTON+COMMUNITY+LIBRARY+RHINEBECK+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12572"
+      ]
+    }
+  ]
+}

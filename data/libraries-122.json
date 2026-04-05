@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "ALBANY PUBLIC LIBRARY",
+      "system": "ALBANY PUBLIC LIBRARY",
+      "address": "161 WASHINGTON AVENUE, ALBANY, NY",
+      "website": "https://www.google.com/search?q=ALBANY+PUBLIC+LIBRARY+ALBANY+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12210"
+      ]
+    },
+    {
+      "name": "WILLIAM K SANFORD TOWN LIBRARY",
+      "system": "WILLIAM K SANFORD TOWN LIBRARY",
+      "address": "629 ALBANY SHAKER ROAD, LOUDONVILLE, NY",
+      "website": "https://www.google.com/search?q=WILLIAM+K+SANFORD+TOWN+LIBRARY+LOUDONVILLE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12211"
+      ]
+    },
+    {
+      "name": "MENANDS PUBLIC LIBRARY",
+      "system": "MENANDS PUBLIC LIBRARY",
+      "address": "4 NORTH LYONS AVENUE, MENANDS, NY",
+      "website": "https://www.google.com/search?q=MENANDS+PUBLIC+LIBRARY+MENANDS+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "12204"
+      ]
+    }
+  ]
+}

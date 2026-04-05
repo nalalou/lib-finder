@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "SCRANTON PUBLIC LIBRARY",
+      "system": "SCRANTON PUBLIC LIBRARY",
+      "address": "500 VINE STREET, SCRANTON, PA",
+      "website": "https://www.google.com/search?q=SCRANTON+PUBLIC+LIBRARY+SCRANTON+PA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18509"
+      ]
+    },
+    {
+      "name": "TAYLOR COMMUNITY LIBRARY",
+      "system": "TAYLOR COMMUNITY LIBRARY",
+      "address": "710 SOUTH MAIN STREET, TAYLOR, PA",
+      "website": "https://www.google.com/search?q=TAYLOR+COMMUNITY+LIBRARY+TAYLOR+PA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18517"
+      ]
+    }
+  ]
+}

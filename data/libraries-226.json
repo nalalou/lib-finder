@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "HANDLEY REGIONAL LIBRARY",
+      "system": "HANDLEY REGIONAL LIBRARY",
+      "address": "100 W. PICCADILLY ST., WINCHESTER, VA",
+      "website": "https://www.google.com/search?q=HANDLEY+REGIONAL+LIBRARY+WINCHESTER+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22601"
+      ]
+    },
+    {
+      "name": "SAMUELS PUBLIC LIBRARY",
+      "system": "SAMUELS PUBLIC LIBRARY",
+      "address": "330 EAST CRISER ROAD, FRONT ROYAL, VA",
+      "website": "https://www.google.com/search?q=SAMUELS+PUBLIC+LIBRARY+FRONT+ROYAL+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22630"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "PLATTE COUNTY LIBRARY SYSTEM",
+      "system": "PLATTE COUNTY LIBRARY SYSTEM",
+      "address": "904 9TH ST, WHEATLAND, WY",
+      "website": "https://www.google.com/search?q=PLATTE+COUNTY+LIBRARY+SYSTEM+WHEATLAND+WY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82201"
+      ]
+    },
+    {
+      "name": "GOSHEN COUNTY LIBRARY",
+      "system": "GOSHEN COUNTY LIBRARY",
+      "address": "2001 EAST A ST, TORRINGTON, WY",
+      "website": "https://www.google.com/search?q=GOSHEN+COUNTY+LIBRARY+TORRINGTON+WY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82240"
+      ]
+    },
+    {
+      "name": "NIOBRARA COUNTY LIBRARY",
+      "system": "NIOBRARA COUNTY LIBRARY",
+      "address": "425 S. MAIN ST., LUSK, WY",
+      "website": "https://www.google.com/search?q=NIOBRARA+COUNTY+LIBRARY+LUSK+WY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "82225"
+      ]
+    }
+  ]
+}

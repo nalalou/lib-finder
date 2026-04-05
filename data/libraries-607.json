@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "EISENHOWER PUBLIC LIBRARY DISTRICT",
+      "system": "EISENHOWER PUBLIC LIBRARY DISTRICT",
+      "address": "4613 NORTH OKETO AVENUE, HARWOOD HEIGHTS, IL",
+      "website": "http://www.eisenhowerlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60706"
+      ]
+    },
+    {
+      "name": "ELMWOOD PARK PUBLIC LIBRARY",
+      "system": "ELMWOOD PARK PUBLIC LIBRARY",
+      "address": "1 CONTI PARKWAY, ELMWOOD PARK, IL",
+      "website": "https://www.google.com/search?q=ELMWOOD+PARK+PUBLIC+LIBRARY+ELMWOOD+PARK+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60707"
+      ]
+    },
+    {
+      "name": "NILES-MAINE DISTRICT LIBRARY",
+      "system": "NILES-MAINE DISTRICT LIBRARY",
+      "address": "6960 OAKTON STREET, NILES, IL",
+      "website": "https://www.google.com/search?q=NILES-MAINE+DISTRICT+LIBRARY+NILES+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60714"
+      ]
+    },
+    {
+      "name": "LINCOLNWOOD PUBLIC LIBRARY DISTRICT",
+      "system": "LINCOLNWOOD PUBLIC LIBRARY DISTRICT",
+      "address": "4000 WEST PRATT AVENUE, LINCOLNWOOD, IL",
+      "website": "https://www.google.com/search?q=LINCOLNWOOD+PUBLIC+LIBRARY+DISTRICT+LINCOLNWOOD+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "60712"
+      ]
+    }
+  ]
+}

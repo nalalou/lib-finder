@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "ALLEN PARISH LIBRARIES",
+      "system": "ALLEN PARISH LIBRARIES",
+      "address": "320 SOUTH SIXTH ST., OBERLIN, LA",
+      "website": "https://www.google.com/search?q=ALLEN+PARISH+LIBRARIES+OBERLIN+LA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70655"
+      ]
+    },
+    {
+      "name": "CAMERON PARISH LIBRARY",
+      "system": "CAMERON PARISH LIBRARY",
+      "address": "512 MARSHALL ST., CAMERON, LA",
+      "website": "https://www.google.com/search?q=CAMERON+PARISH+LIBRARY+CAMERON+LA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70631"
+      ]
+    },
+    {
+      "name": "BEAUREGARD PARISH LIBRARY",
+      "system": "BEAUREGARD PARISH LIBRARY",
+      "address": "205 SOUTH WASHINGTON AVENUE, DERIDDER, LA",
+      "website": "https://www.google.com/search?q=BEAUREGARD+PARISH+LIBRARY+DERIDDER+LA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70634"
+      ]
+    },
+    {
+      "name": "CALCASIEU PARISH PUBLIC LIBRARY",
+      "system": "CALCASIEU PARISH PUBLIC LIBRARY",
+      "address": "301 WEST CLAUDE STREET, LAKE CHARLES, LA",
+      "website": "http://www.calcasieulibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "70605"
+      ]
+    }
+  ]
+}

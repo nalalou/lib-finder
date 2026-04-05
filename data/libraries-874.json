@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "AZTEC PUBLIC LIBRARY",
+      "system": "AZTEC PUBLIC LIBRARY",
+      "address": "319 S. ASH, AZTEC, NM",
+      "website": "http://www.azteclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87410"
+      ]
+    },
+    {
+      "name": "FARMINGTON PUBLIC LIBRARY",
+      "system": "FARMINGTON PUBLIC LIBRARY",
+      "address": "2101 FARMINGTON AVE., FARMINGTON, NM",
+      "website": "http://www.infoway.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87401"
+      ]
+    },
+    {
+      "name": "BLOOMFIELD PUBLIC LIBRARY",
+      "system": "BLOOMFIELD PUBLIC LIBRARY",
+      "address": "333 SOUTH FIRST STREET, BLOOMFIELD, NM",
+      "website": "https://www.google.com/search?q=BLOOMFIELD+PUBLIC+LIBRARY+BLOOMFIELD+NM+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87413"
+      ]
+    }
+  ]
+}

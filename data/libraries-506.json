@@ -1,0 +1,543 @@
+{
+  "libraries": [
+    {
+      "name": "ACKLEY PUBLIC LIBRARY",
+      "system": "ACKLEY PUBLIC LIBRARY",
+      "address": "401 STATE ST, ACKLEY, IA",
+      "website": "https://www.google.com/search?q=ACKLEY+PUBLIC+LIBRARY+ACKLEY+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50601"
+      ]
+    },
+    {
+      "name": "ELDORA PUBLIC LIBRARY",
+      "system": "ELDORA PUBLIC LIBRARY",
+      "address": "1202 10TH ST, ELDORA, IA",
+      "website": "https://www.google.com/search?q=ELDORA+PUBLIC+LIBRARY+ELDORA+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50627"
+      ]
+    },
+    {
+      "name": "BEAMAN COMMUNITY MEMORIAL LIBRARY",
+      "system": "BEAMAN COMMUNITY MEMORIAL LIBRARY",
+      "address": "223 MAIN ST, BEAMAN, IA",
+      "website": "https://www.google.com/search?q=BEAMAN+COMMUNITY+MEMORIAL+LIBRARY+BEAMAN+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50609"
+      ]
+    },
+    {
+      "name": "BENNY GAMBAIANI PUBLIC LIBRARY",
+      "system": "BENNY GAMBAIANI PUBLIC LIBRARY",
+      "address": "104 S CHERRY ST, SHELL ROCK, IA",
+      "website": "https://www.google.com/search?q=BENNY+GAMBAIANI+PUBLIC+LIBRARY+SHELL+ROCK+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50670"
+      ]
+    },
+    {
+      "name": "DIKE PUBLIC LIBRARY",
+      "system": "DIKE PUBLIC LIBRARY",
+      "address": "133 E ELDER, DIKE, IA",
+      "website": "https://www.google.com/search?q=DIKE+PUBLIC+LIBRARY+DIKE+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50624"
+      ]
+    },
+    {
+      "name": "UPHAM MEMORIAL LIBRARY",
+      "system": "UPHAM MEMORIAL LIBRARY",
+      "address": "138 W MAIN ST, FREDERICKSBURG, IA",
+      "website": "https://www.google.com/search?q=UPHAM+MEMORIAL+LIBRARY+FREDERICKSBURG+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50630"
+      ]
+    },
+    {
+      "name": "NASHUA PUBLIC LIBRARY",
+      "system": "NASHUA PUBLIC LIBRARY",
+      "address": "220 BRASHER ST, NASHUA, IA",
+      "website": "http://www.nashualibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50658"
+      ]
+    },
+    {
+      "name": "NEW HAMPTON PUBLIC LIBRARY",
+      "system": "NEW HAMPTON PUBLIC LIBRARY",
+      "address": "20 W SPRING ST, NEW HAMPTON, IA",
+      "website": "https://www.google.com/search?q=NEW+HAMPTON+PUBLIC+LIBRARY+NEW+HAMPTON+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50659"
+      ]
+    },
+    {
+      "name": "IONIA COMMUNITY LIBRARY",
+      "system": "IONIA COMMUNITY LIBRARY",
+      "address": "101 W IOWA ST, IONIA, IA",
+      "website": "https://www.google.com/search?q=IONIA+COMMUNITY+LIBRARY+IONIA+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50645"
+      ]
+    },
+    {
+      "name": "STEAMBOAT ROCK PUBLIC LIBRARY",
+      "system": "STEAMBOAT ROCK PUBLIC LIBRARY",
+      "address": "511 MARKET ST, STEAMBOAT ROCK, IA",
+      "website": "https://www.google.com/search?q=STEAMBOAT+ROCK+PUBLIC+LIBRARY+STEAMBOAT+ROCK+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50672"
+      ]
+    },
+    {
+      "name": "ALTA VISTA PUBLIC LIBRARY",
+      "system": "ALTA VISTA PUBLIC LIBRARY",
+      "address": "203 S WHITE AVE, ALTA VISTA, IA",
+      "website": "https://www.google.com/search?q=ALTA+VISTA+PUBLIC+LIBRARY+ALTA+VISTA+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50603"
+      ]
+    },
+    {
+      "name": "CHARLES CITY PUBLIC LIBRARY",
+      "system": "CHARLES CITY PUBLIC LIBRARY",
+      "address": "106 MILWAUKEE MALL, CHARLES CITY, IA",
+      "website": "https://www.google.com/search?q=CHARLES+CITY+PUBLIC+LIBRARY+CHARLES+CITY+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50616"
+      ]
+    },
+    {
+      "name": "MARBLE ROCK PUBLIC LIBRARY",
+      "system": "MARBLE ROCK PUBLIC LIBRARY",
+      "address": "122 S MAIN ST, MARBLE ROCK, IA",
+      "website": "https://www.google.com/search?q=MARBLE+ROCK+PUBLIC+LIBRARY+MARBLE+ROCK+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50653"
+      ]
+    },
+    {
+      "name": "PLAINFIELD PUBLIC LIBRARY",
+      "system": "PLAINFIELD PUBLIC LIBRARY",
+      "address": "723 MAIN ST, PLAINFIELD, IA",
+      "website": "https://www.google.com/search?q=PLAINFIELD+PUBLIC+LIBRARY+PLAINFIELD+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50666"
+      ]
+    },
+    {
+      "name": "CEDAR FALLS PUBLIC LIBRARY",
+      "system": "CEDAR FALLS PUBLIC LIBRARY",
+      "address": "524 MAIN ST, CEDAR FALLS, IA",
+      "website": "https://www.google.com/search?q=CEDAR+FALLS+PUBLIC+LIBRARY+CEDAR+FALLS+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50613"
+      ]
+    },
+    {
+      "name": "DUNKERTON PUBLIC LIBRARY",
+      "system": "DUNKERTON PUBLIC LIBRARY",
+      "address": "203 E TOWER ST, DUNKERTON, IA",
+      "website": "https://www.google.com/search?q=DUNKERTON+PUBLIC+LIBRARY+DUNKERTON+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50626"
+      ]
+    },
+    {
+      "name": "HUDSON PUBLIC LIBRARY",
+      "system": "HUDSON PUBLIC LIBRARY",
+      "address": "401 5TH ST, HUDSON, IA",
+      "website": "https://www.google.com/search?q=HUDSON+PUBLIC+LIBRARY+HUDSON+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50643"
+      ]
+    },
+    {
+      "name": "JANESVILLE PUBLIC LIBRARY",
+      "system": "JANESVILLE PUBLIC LIBRARY",
+      "address": "227 MAIN ST, JANESVILLE, IA",
+      "website": "https://www.google.com/search?q=JANESVILLE+PUBLIC+LIBRARY+JANESVILLE+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50647"
+      ]
+    },
+    {
+      "name": "HAWKINS MEMORIAL LIBRARY",
+      "system": "HAWKINS MEMORIAL LIBRARY",
+      "address": "308 MAIN ST, LA PORTE CITY, IA",
+      "website": "https://www.google.com/search?q=HAWKINS+MEMORIAL+LIBRARY+LA+PORTE+CITY+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50651"
+      ]
+    },
+    {
+      "name": "DENVER PUBLIC LIBRARY",
+      "system": "DENVER PUBLIC LIBRARY",
+      "address": "100 WASHINGTON ST, DENVER, IA",
+      "website": "http://denverlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50622"
+      ]
+    },
+    {
+      "name": "READLYN COMMUNITY LIBRARY",
+      "system": "READLYN COMMUNITY LIBRARY",
+      "address": "309 MAIN ST, READLYN, IA",
+      "website": "https://www.google.com/search?q=READLYN+COMMUNITY+LIBRARY+READLYN+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50668"
+      ]
+    },
+    {
+      "name": "SUMNER PUBLIC LIBRARY",
+      "system": "SUMNER PUBLIC LIBRARY",
+      "address": "206 N RAILROAD ST, SUMNER, IA",
+      "website": "https://www.google.com/search?q=SUMNER+PUBLIC+LIBRARY+SUMNER+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50674"
+      ]
+    },
+    {
+      "name": "TRIPOLI PUBLIC LIBRARY",
+      "system": "TRIPOLI PUBLIC LIBRARY",
+      "address": "101 4TH AVE SW, TRIPOLI, IA",
+      "website": "https://www.google.com/search?q=TRIPOLI+PUBLIC+LIBRARY+TRIPOLI+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50676"
+      ]
+    },
+    {
+      "name": "WAVERLY PUBLIC LIBRARY",
+      "system": "WAVERLY PUBLIC LIBRARY",
+      "address": "1500 W BREMER AVE, WAVERLY, IA",
+      "website": "https://www.google.com/search?q=WAVERLY+PUBLIC+LIBRARY+WAVERLY+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50677"
+      ]
+    },
+    {
+      "name": "FAIRBANK PUBLIC LIBRARY",
+      "system": "FAIRBANK PUBLIC LIBRARY",
+      "address": "212 MAIN ST, FAIRBANK, IA",
+      "website": "https://www.google.com/search?q=FAIRBANK+PUBLIC+LIBRARY+FAIRBANK+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50629"
+      ]
+    },
+    {
+      "name": "INDEPENDENCE PUBLIC LIBRARY",
+      "system": "INDEPENDENCE PUBLIC LIBRARY",
+      "address": "805 1ST ST E, INDEPENDENCE, IA",
+      "website": "http://iplks.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50644"
+      ]
+    },
+    {
+      "name": "JESUP PUBLIC LIBRARY",
+      "system": "JESUP PUBLIC LIBRARY",
+      "address": "721 6TH ST, JESUP, IA",
+      "website": "https://www.google.com/search?q=JESUP+PUBLIC+LIBRARY+JESUP+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50648"
+      ]
+    },
+    {
+      "name": "LAMONT PUBLIC LIBRARY",
+      "system": "LAMONT PUBLIC LIBRARY",
+      "address": "616 BUSH ST, LAMONT, IA",
+      "website": "https://www.google.com/search?q=LAMONT+PUBLIC+LIBRARY+LAMONT+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50650"
+      ]
+    },
+    {
+      "name": "WINTHROP PUBLIC LIBRARY",
+      "system": "WINTHROP PUBLIC LIBRARY",
+      "address": "354 W MADISON ST, WINTHROP, IA",
+      "website": "https://www.google.com/search?q=WINTHROP+PUBLIC+LIBRARY+WINTHROP+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50682"
+      ]
+    },
+    {
+      "name": "ALLISON PUBLIC LIBRARY",
+      "system": "ALLISON PUBLIC LIBRARY",
+      "address": "412 3RD ST, ALLISON, IA",
+      "website": "https://www.google.com/search?q=ALLISON+PUBLIC+LIBRARY+ALLISON+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50602"
+      ]
+    },
+    {
+      "name": "APLINGTON LEGION MEMORIAL LIBRARY",
+      "system": "APLINGTON LEGION MEMORIAL LIBRARY",
+      "address": "929 PARRIOTT ST, APLINGTON, IA",
+      "website": "https://www.google.com/search?q=APLINGTON+LEGION+MEMORIAL+LIBRARY+APLINGTON+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50604"
+      ]
+    },
+    {
+      "name": "CLARKSVILLE PUBLIC LIBRARY",
+      "system": "CLARKSVILLE PUBLIC LIBRARY",
+      "address": "103 W GREENE ST, CLARKSVILLE, IA",
+      "website": "https://www.google.com/search?q=CLARKSVILLE+PUBLIC+LIBRARY+CLARKSVILLE+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50619"
+      ]
+    },
+    {
+      "name": "GREENE PUBLIC LIBRARY",
+      "system": "GREENE PUBLIC LIBRARY",
+      "address": "231 W TRAER ST, GREENE, IA",
+      "website": "https://www.google.com/search?q=GREENE+PUBLIC+LIBRARY+GREENE+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50636"
+      ]
+    },
+    {
+      "name": "ELIZABETH RASMUSSEN MARTIN MEMORIAL LIBRARY",
+      "system": "ELIZABETH RASMUSSEN MARTIN MEMORIAL LIBRARY",
+      "address": "406 PACKWAUKEE, NEW HARTFORD, IA",
+      "website": "https://www.google.com/search?q=ELIZABETH+RASMUSSEN+MARTIN+MEMORIAL+LIBRARY+NEW+HARTFORD+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50660"
+      ]
+    },
+    {
+      "name": "KOTHE MEMORIAL LIBRARY",
+      "system": "KOTHE MEMORIAL LIBRARY",
+      "address": "309 3RD ST, PARKERSBURG, IA",
+      "website": "https://www.google.com/search?q=KOTHE+MEMORIAL+LIBRARY+PARKERSBURG+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50665"
+      ]
+    },
+    {
+      "name": "GARWIN PUBLIC LIBRARY",
+      "system": "GARWIN PUBLIC LIBRARY",
+      "address": "308 4TH ST, GARWIN, IA",
+      "website": "https://www.google.com/search?q=GARWIN+PUBLIC+LIBRARY+GARWIN+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50632"
+      ]
+    },
+    {
+      "name": "GLADBROOK PUBLIC LIBRARY",
+      "system": "GLADBROOK PUBLIC LIBRARY",
+      "address": "301 2ND ST, GLADBROOK, IA",
+      "website": "https://www.google.com/search?q=GLADBROOK+PUBLIC+LIBRARY+GLADBROOK+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50635"
+      ]
+    },
+    {
+      "name": "TRAER PUBLIC LIBRARY",
+      "system": "TRAER PUBLIC LIBRARY",
+      "address": "531 2ND ST, TRAER, IA",
+      "website": "https://www.google.com/search?q=TRAER+PUBLIC+LIBRARY+TRAER+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50675"
+      ]
+    },
+    {
+      "name": "ARLINGTON PUBLIC LIBRARY",
+      "system": "ARLINGTON PUBLIC LIBRARY",
+      "address": "711 MAIN ST, ARLINGTON, IA",
+      "website": "http://library.arlingtonva.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50606"
+      ]
+    },
+    {
+      "name": "MAYNARD COMMUNITY LIBRARY",
+      "system": "MAYNARD COMMUNITY LIBRARY",
+      "address": "245 MAIN ST W, MAYNARD, IA",
+      "website": "https://www.google.com/search?q=MAYNARD+COMMUNITY+LIBRARY+MAYNARD+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50655"
+      ]
+    },
+    {
+      "name": "OELWEIN PUBLIC LIBRARY",
+      "system": "OELWEIN PUBLIC LIBRARY",
+      "address": "201 E CHARLES ST, OELWEIN, IA",
+      "website": "https://www.google.com/search?q=OELWEIN+PUBLIC+LIBRARY+OELWEIN+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50662"
+      ]
+    },
+    {
+      "name": "WESTGATE PUBLIC LIBRARY",
+      "system": "WESTGATE PUBLIC LIBRARY",
+      "address": "180 MAIN ST, WESTGATE, IA",
+      "website": "https://www.google.com/search?q=WESTGATE+PUBLIC+LIBRARY+WESTGATE+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50681"
+      ]
+    },
+    {
+      "name": "CONRAD PUBLIC LIBRARY",
+      "system": "CONRAD PUBLIC LIBRARY",
+      "address": "114 N MAIN ST, CONRAD, IA",
+      "website": "https://www.google.com/search?q=CONRAD+PUBLIC+LIBRARY+CONRAD+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50621"
+      ]
+    },
+    {
+      "name": "KLING MEMORIAL LIBRARY",
+      "system": "KLING MEMORIAL LIBRARY",
+      "address": "708 7TH ST, GRUNDY CENTER, IA",
+      "website": "https://www.google.com/search?q=KLING+MEMORIAL+LIBRARY+GRUNDY+CENTER+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50638"
+      ]
+    },
+    {
+      "name": "REINBECK PUBLIC LIBRARY",
+      "system": "REINBECK PUBLIC LIBRARY",
+      "address": "501 CLARK ST, REINBECK, IA",
+      "website": "https://www.google.com/search?q=REINBECK+PUBLIC+LIBRARY+REINBECK+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50669"
+      ]
+    },
+    {
+      "name": "WELLSBURG PUBLIC LIBRARY",
+      "system": "WELLSBURG PUBLIC LIBRARY",
+      "address": "411 N ADAMS ST, WELLSBURG, IA",
+      "website": "https://www.google.com/search?q=WELLSBURG+PUBLIC+LIBRARY+WELLSBURG+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50680"
+      ]
+    },
+    {
+      "name": "ELMA PUBLIC LIBRARY",
+      "system": "ELMA PUBLIC LIBRARY",
+      "address": "319 OAK ST, ELMA, IA",
+      "website": "https://www.google.com/search?q=ELMA+PUBLIC+LIBRARY+ELMA+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50628"
+      ]
+    },
+    {
+      "name": "DUMONT COMMUNITY LIBRARY",
+      "system": "DUMONT COMMUNITY LIBRARY",
+      "address": "602 2ND ST, DUMONT, IA",
+      "website": "https://www.google.com/search?q=DUMONT+COMMUNITY+LIBRARY+DUMONT+IA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50625"
+      ]
+    },
+    {
+      "name": "AURORA PUBLIC LIBRARY",
+      "system": "AURORA PUBLIC LIBRARY",
+      "address": "401 WOODRUFF ST, AURORA, IA",
+      "website": "https://eapld.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "50607"
+      ]
+    }
+  ]
+}

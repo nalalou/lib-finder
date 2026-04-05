@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "SAN BERNARDINO COUNTY LIBRARY",
+      "system": "SAN BERNARDINO COUNTY LIBRARY",
+      "address": "777 EAST RIALTO AVE, SAN BERNARDINO, CA",
+      "website": "https://www.google.com/search?q=SAN+BERNARDINO+COUNTY+LIBRARY+SAN+BERNARDINO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "92415"
+      ]
+    },
+    {
+      "name": "SAN BERNARDINO PUBLIC LIBRARY",
+      "system": "SAN BERNARDINO PUBLIC LIBRARY",
+      "address": "555 W. SIXTH ST., SAN BERNARDINO, CA",
+      "website": "https://www.google.com/search?q=SAN+BERNARDINO+PUBLIC+LIBRARY+SAN+BERNARDINO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "92410"
+      ]
+    },
+    {
+      "name": "LAW LIBRARY FOR SAN BERNARDINO COUNTY",
+      "system": "LAW LIBRARY FOR SAN BERNARDINO COUNTY",
+      "address": "402 N. D ST., SAN BERNARDINO, CA",
+      "website": "https://www.google.com/search?q=LAW+LIBRARY+FOR+SAN+BERNARDINO+COUNTY+SAN+BERNARDINO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "92401"
+      ]
+    }
+  ]
+}

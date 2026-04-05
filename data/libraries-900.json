@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "CITY OF COMMERCE PUBLIC LIBRARY",
+      "system": "CITY OF COMMERCE PUBLIC LIBRARY",
+      "address": "5655 JILLSON ST., COMMERCE, CA",
+      "website": "https://www.google.com/search?q=CITY+OF+COMMERCE+PUBLIC+LIBRARY+COMMERCE+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "90040"
+      ]
+    },
+    {
+      "name": "LOS ANGELES PUBLIC LIBRARY",
+      "system": "LOS ANGELES PUBLIC LIBRARY",
+      "address": "630 W. FIFTH ST., LOS ANGELES, CA",
+      "website": "https://www.google.com/search?q=LOS+ANGELES+PUBLIC+LIBRARY+LOS+ANGELES+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "90071"
+      ]
+    },
+    {
+      "name": "LOS ANGELES COUNTY LAW LIBRARY",
+      "system": "LOS ANGELES COUNTY LAW LIBRARY",
+      "address": "301 WEST FIRST ST., LOS ANGELES, CA",
+      "website": "https://www.google.com/search?q=LOS+ANGELES+COUNTY+LAW+LIBRARY+LOS+ANGELES+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "90012"
+      ]
+    }
+  ]
+}

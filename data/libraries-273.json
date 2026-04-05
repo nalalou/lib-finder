@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "LEE COUNTY LIBRARY",
+      "system": "LEE COUNTY LIBRARY",
+      "address": "107 HAWKINS AVE, SANFORD, NC",
+      "website": "https://www.google.com/search?q=LEE+COUNTY+LIBRARY+SANFORD+NC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27330"
+      ]
+    },
+    {
+      "name": "CHATHAM COUNTY PUBLIC LIBRARIES",
+      "system": "CHATHAM COUNTY PUBLIC LIBRARIES",
+      "address": "197 NC HWY 87 N, PITTSBORO, NC",
+      "website": "https://www.google.com/search?q=CHATHAM+COUNTY+PUBLIC+LIBRARIES+PITTSBORO+NC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27312"
+      ]
+    },
+    {
+      "name": "CASWELL COUNTY PUBLIC LIBRARY",
+      "system": "CASWELL COUNTY PUBLIC LIBRARY",
+      "address": "161 MAIN STREET EAST, YANCEYVILLE, NC",
+      "website": "https://www.google.com/search?q=CASWELL+COUNTY+PUBLIC+LIBRARY+YANCEYVILLE+NC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27379"
+      ]
+    }
+  ]
+}

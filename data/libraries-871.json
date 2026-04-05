@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "ALBUQUERQUE/BERNALILLO COUNTY LIBRARY SYSTEM",
+      "system": "ALBUQUERQUE/BERNALILLO COUNTY LIBRARY SYSTEM",
+      "address": "501 COPPER AVE. NW, ALBUQUERQUE, NM",
+      "website": "https://abqlibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87102"
+      ]
+    },
+    {
+      "name": "RIO RANCHO PUBLIC LIBRARY",
+      "system": "RIO RANCHO PUBLIC LIBRARY",
+      "address": "755 LOMA COLORADO BLVD., NE, RIO RANCHO, NM",
+      "website": "https://www.google.com/search?q=RIO+RANCHO+PUBLIC+LIBRARY+RIO+RANCHO+NM+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87124"
+      ]
+    },
+    {
+      "name": "PUEBLO OF ISLETA PUBLIC LIBRARY",
+      "system": "PUEBLO OF ISLETA PUBLIC LIBRARY",
+      "address": "950 MOONLIGHT DR., ALBUQUERQUE, NM",
+      "website": "https://www.google.com/search?q=PUEBLO+OF+ISLETA+PUBLIC+LIBRARY+ALBUQUERQUE+NM+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "87105"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "ROLLA PUBLIC LIBRARY",
+      "system": "ROLLA PUBLIC LIBRARY",
+      "address": "900 PINE ST, ROLLA, MO",
+      "website": "https://www.google.com/search?q=ROLLA+PUBLIC+LIBRARY+ROLLA+MO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65401"
+      ]
+    },
+    {
+      "name": "TEXAS COUNTY LIBRARY",
+      "system": "TEXAS COUNTY LIBRARY",
+      "address": "117 W WALNUT ST, HOUSTON, MO",
+      "website": "https://www.google.com/search?q=TEXAS+COUNTY+LIBRARY+HOUSTON+MO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "65483"
+      ]
+    }
+  ]
+}

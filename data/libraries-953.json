@@ -1,0 +1,59 @@
+{
+  "libraries": [
+    {
+      "name": "MERCED COUNTY LIBRARY",
+      "system": "MERCED COUNTY LIBRARY",
+      "address": "2100 O ST., MERCED, CA",
+      "website": "https://www.google.com/search?q=MERCED+COUNTY+LIBRARY+MERCED+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95340"
+      ]
+    },
+    {
+      "name": "STANISLAUS COUNTY FREE LIBRARY",
+      "system": "STANISLAUS COUNTY FREE LIBRARY",
+      "address": "1500 I ST., MODESTO, CA",
+      "website": "https://www.google.com/search?q=STANISLAUS+COUNTY+FREE+LIBRARY+MODESTO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95354"
+      ]
+    },
+    {
+      "name": "TUOLUMNE COUNTY LIBRARY",
+      "system": "TUOLUMNE COUNTY LIBRARY",
+      "address": "480 GREENLEY RD., SONORA, CA",
+      "website": "https://www.google.com/search?q=TUOLUMNE+COUNTY+LIBRARY+SONORA+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95370"
+      ]
+    },
+    {
+      "name": "MARIPOSA COUNTY LIBRARY",
+      "system": "MARIPOSA COUNTY LIBRARY",
+      "address": "4978 10TH ST., MARIPOSA, CA",
+      "website": "https://www.google.com/search?q=MARIPOSA+COUNTY+LIBRARY+MARIPOSA+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95338"
+      ]
+    },
+    {
+      "name": "STANISLAUS COUNTY LAW LIBRARY",
+      "system": "STANISLAUS COUNTY LAW LIBRARY",
+      "address": "1101 13TH ST., MODESTO, CA",
+      "website": "https://www.google.com/search?q=STANISLAUS+COUNTY+LAW+LIBRARY+MODESTO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95354"
+      ]
+    }
+  ]
+}

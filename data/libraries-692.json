@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "AINSWORTH PUBLIC LIBRARY",
+      "system": "AINSWORTH PUBLIC LIBRARY",
+      "address": "445 NORTH MAIN STREET, AINSWORTH, NE",
+      "website": "https://www.google.com/search?q=AINSWORTH+PUBLIC+LIBRARY+AINSWORTH+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "69210"
+      ]
+    },
+    {
+      "name": "VALENTINE PUBLIC LIBRARY",
+      "system": "VALENTINE PUBLIC LIBRARY",
+      "address": "324 NORTH MAIN STREET, VALENTINE, NE",
+      "website": "https://www.google.com/search?q=VALENTINE+PUBLIC+LIBRARY+VALENTINE+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "69201"
+      ]
+    }
+  ]
+}

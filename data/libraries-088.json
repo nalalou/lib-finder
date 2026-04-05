@@ -1,0 +1,312 @@
+{
+  "libraries": [
+    {
+      "name": "HUNTERDON COUNTY LIBRARY",
+      "system": "HUNTERDON COUNTY LIBRARY",
+      "address": "314 STATE HIGHWAY 12, BLDG. #3, FLEMINGTON, NJ",
+      "website": "https://www.google.com/search?q=HUNTERDON+COUNTY+LIBRARY+FLEMINGTON+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08822"
+      ]
+    },
+    {
+      "name": "FLEMINGTON FREE PUBLIC LIBRARY",
+      "system": "FLEMINGTON FREE PUBLIC LIBRARY",
+      "address": "118 MAIN STREET, FLEMINGTON, NJ",
+      "website": "https://www.google.com/search?q=FLEMINGTON+FREE+PUBLIC+LIBRARY+FLEMINGTON+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08822"
+      ]
+    },
+    {
+      "name": "FRENCHTOWN PUBLIC LIBRARY",
+      "system": "FRENCHTOWN PUBLIC LIBRARY",
+      "address": "29 SECOND STREET, FRENCHTOWN, NJ",
+      "website": "https://www.google.com/search?q=FRENCHTOWN+PUBLIC+LIBRARY+FRENCHTOWN+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08825"
+      ]
+    },
+    {
+      "name": "HIGH BRIDGE PUBLIC LIBRARY",
+      "system": "HIGH BRIDGE PUBLIC LIBRARY",
+      "address": "71 MAIN STREET, HIGH BRIDGE, NJ",
+      "website": "https://www.google.com/search?q=HIGH+BRIDGE+PUBLIC+LIBRARY+HIGH+BRIDGE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08829"
+      ]
+    },
+    {
+      "name": "HOLLAND TOWNSHIP FREE PUBLIC LIBRARY",
+      "system": "HOLLAND TOWNSHIP FREE PUBLIC LIBRARY",
+      "address": "129 SPRING MILLS ROAD, MILFORD, NJ",
+      "website": "https://www.google.com/search?q=HOLLAND+TOWNSHIP+FREE+PUBLIC+LIBRARY+MILFORD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08848"
+      ]
+    },
+    {
+      "name": "MILFORD PUBLIC LIBRARY",
+      "system": "MILFORD PUBLIC LIBRARY",
+      "address": "40 FRENCHTOWN ROAD, MILFORD, NJ",
+      "website": "https://www.google.com/search?q=MILFORD+PUBLIC+LIBRARY+MILFORD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08848"
+      ]
+    },
+    {
+      "name": "TEWKSBURY TOWNSHIP PUBLIC LIBRARY",
+      "system": "TEWKSBURY TOWNSHIP PUBLIC LIBRARY",
+      "address": "31 OLD TURNPIKE ROAD, OLDWICK, NJ",
+      "website": "https://www.google.com/search?q=TEWKSBURY+TOWNSHIP+PUBLIC+LIBRARY+OLDWICK+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08858"
+      ]
+    },
+    {
+      "name": "DUNELLEN FREE PUBLIC LIBRARY",
+      "system": "DUNELLEN FREE PUBLIC LIBRARY",
+      "address": "NEW MARKET ROAD, DUNELLEN, NJ",
+      "website": "https://www.google.com/search?q=DUNELLEN+FREE+PUBLIC+LIBRARY+DUNELLEN+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08812"
+      ]
+    },
+    {
+      "name": "EAST BRUNSWICK PUBLIC LIBRARY",
+      "system": "EAST BRUNSWICK PUBLIC LIBRARY",
+      "address": "2 JEAN WALLING CIVIC CENTER, EAST BRUNSWICK, NJ",
+      "website": "https://www.google.com/search?q=EAST+BRUNSWICK+PUBLIC+LIBRARY+EAST+BRUNSWICK+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08816"
+      ]
+    },
+    {
+      "name": "EDISON TOWNSHIP FREE PUBLIC LIBRARY",
+      "system": "EDISON TOWNSHIP FREE PUBLIC LIBRARY",
+      "address": "340 PLAINFIELD AVENUE, EDISON, NJ",
+      "website": "https://www.google.com/search?q=EDISON+TOWNSHIP+FREE+PUBLIC+LIBRARY+EDISON+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08817"
+      ]
+    },
+    {
+      "name": "JAMESBURG PUBLIC LIBRARY",
+      "system": "JAMESBURG PUBLIC LIBRARY",
+      "address": "229 GATZMER AVENUE, JAMESBURG, NJ",
+      "website": "https://www.google.com/search?q=JAMESBURG+PUBLIC+LIBRARY+JAMESBURG+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08831"
+      ]
+    },
+    {
+      "name": "METUCHEN PUBLIC LIBRARY",
+      "system": "METUCHEN PUBLIC LIBRARY",
+      "address": "480 MIDDLESEX AVENUE, METUCHEN, NJ",
+      "website": "https://www.google.com/search?q=METUCHEN+PUBLIC+LIBRARY+METUCHEN+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08840"
+      ]
+    },
+    {
+      "name": "MIDDLESEX PUBLIC LIBRARY",
+      "system": "MIDDLESEX PUBLIC LIBRARY",
+      "address": "1300 MOUNTAIN AVENUE, MIDDLESEX, NJ",
+      "website": "https://www.google.com/search?q=MIDDLESEX+PUBLIC+LIBRARY+MIDDLESEX+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08846"
+      ]
+    },
+    {
+      "name": "MILLTOWN PUBLIC LIBRARY",
+      "system": "MILLTOWN PUBLIC LIBRARY",
+      "address": "20 W. CHURCH STREET, MILLTOWN, NJ",
+      "website": "https://www.google.com/search?q=MILLTOWN+PUBLIC+LIBRARY+MILLTOWN+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08850"
+      ]
+    },
+    {
+      "name": "MONROE TWP PUBLIC LIBRARY/MIDDLESEX",
+      "system": "MONROE TWP PUBLIC LIBRARY/MIDDLESEX",
+      "address": "4 MUNICIPAL PLAZA, MONROE TOWNSHIP, NJ",
+      "website": "https://www.google.com/search?q=MONROE+TWP+PUBLIC+LIBRARY/MIDDLESEX+MONROE+TOWNSHIP+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08831"
+      ]
+    },
+    {
+      "name": "OLD BRIDGE PUBLIC LIBRARY",
+      "system": "OLD BRIDGE PUBLIC LIBRARY",
+      "address": "1 OLD BRIDGE PLAZA, OLD BRIDGE, NJ",
+      "website": "https://www.google.com/search?q=OLD+BRIDGE+PUBLIC+LIBRARY+OLD+BRIDGE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08857"
+      ]
+    },
+    {
+      "name": "PERTH AMBOY FREE PUBLIC LIBRARY",
+      "system": "PERTH AMBOY FREE PUBLIC LIBRARY",
+      "address": "196 JEFFERSON STREET, PERTH AMBOY, NJ",
+      "website": "https://www.google.com/search?q=PERTH+AMBOY+FREE+PUBLIC+LIBRARY+PERTH+AMBOY+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08861"
+      ]
+    },
+    {
+      "name": "PISCATAWAY PUBLIC LIBRARY",
+      "system": "PISCATAWAY PUBLIC LIBRARY",
+      "address": "500 HOES LANE, PISCATAWAY, NJ",
+      "website": "https://www.google.com/search?q=PISCATAWAY+PUBLIC+LIBRARY+PISCATAWAY+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08854"
+      ]
+    },
+    {
+      "name": "SAYREVILLE FREE PUBLIC LIBRARY",
+      "system": "SAYREVILLE FREE PUBLIC LIBRARY",
+      "address": "1050 WASHINGTON ROAD, PARLIN, NJ",
+      "website": "https://www.google.com/search?q=SAYREVILLE+FREE+PUBLIC+LIBRARY+PARLIN+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08859"
+      ]
+    },
+    {
+      "name": "DOWDELL LIBRARY OF SOUTH AMBOY",
+      "system": "DOWDELL LIBRARY OF SOUTH AMBOY",
+      "address": "100 HAROLD G. HOFFMAN PLAZA, SOUTH AMBOY, NJ",
+      "website": "https://www.google.com/search?q=DOWDELL+LIBRARY+OF+SOUTH+AMBOY+SOUTH+AMBOY+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08879"
+      ]
+    },
+    {
+      "name": "SOUTH BRUNSWICK PUBLIC LIBRARY",
+      "system": "SOUTH BRUNSWICK PUBLIC LIBRARY",
+      "address": "110 KINGSTON LANE, MONMOUTH JUNCTION, NJ",
+      "website": "https://www.sbpl.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08852"
+      ]
+    },
+    {
+      "name": "SOUTH RIVER PUBLIC LIBRARY",
+      "system": "SOUTH RIVER PUBLIC LIBRARY",
+      "address": "55 APPLEBY AVENUE, SOUTH RIVER, NJ",
+      "website": "https://www.google.com/search?q=SOUTH+RIVER+PUBLIC+LIBRARY+SOUTH+RIVER+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08882"
+      ]
+    },
+    {
+      "name": "SPOTSWOOD PUBLIC LIBRARY",
+      "system": "SPOTSWOOD PUBLIC LIBRARY",
+      "address": "548 MAIN STREET, SPOTSWOOD, NJ",
+      "website": "https://www.google.com/search?q=SPOTSWOOD+PUBLIC+LIBRARY+SPOTSWOOD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08884"
+      ]
+    },
+    {
+      "name": "SOMERSET COUNTY LIBRARY",
+      "system": "SOMERSET COUNTY LIBRARY",
+      "address": "1 VOGT DRIVE, BRIDGEWATER, NJ",
+      "website": "https://www.google.com/search?q=SOMERSET+COUNTY+LIBRARY+BRIDGEWATER+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08807"
+      ]
+    },
+    {
+      "name": "FRANKLIN TWP PUBLIC LIBRARY/SOMERSET",
+      "system": "FRANKLIN TWP PUBLIC LIBRARY/SOMERSET",
+      "address": "485 DEMOTT LANE, SOMERSET, NJ",
+      "website": "https://www.google.com/search?q=FRANKLIN+TWP+PUBLIC+LIBRARY/SOMERSET+SOMERSET+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08873"
+      ]
+    },
+    {
+      "name": "RARITAN PUBLIC LIBRARY",
+      "system": "RARITAN PUBLIC LIBRARY",
+      "address": "54 E. SOMERSET STREET, RARITAN, NJ",
+      "website": "https://www.google.com/search?q=RARITAN+PUBLIC+LIBRARY+RARITAN+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08869"
+      ]
+    },
+    {
+      "name": "W.H. WALTERS FREE PUBLIC LIBRARY",
+      "system": "W.H. WALTERS FREE PUBLIC LIBRARY",
+      "address": "1001 EAST BLVD, ALPHA, NJ",
+      "website": "https://www.google.com/search?q=W.H.+WALTERS+FREE+PUBLIC+LIBRARY+ALPHA+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08865"
+      ]
+    },
+    {
+      "name": "PHILLIPSBURG FREE PUBLIC LIBRARY",
+      "system": "PHILLIPSBURG FREE PUBLIC LIBRARY",
+      "address": "200 BROUBALOW WAY, PHILLIPSBURG, NJ",
+      "website": "https://www.google.com/search?q=PHILLIPSBURG+FREE+PUBLIC+LIBRARY+PHILLIPSBURG+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08865"
+      ]
+    }
+  ]
+}

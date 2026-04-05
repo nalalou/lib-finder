@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "CAPITAL AREA DISTRICT LIBRARY",
+      "system": "CAPITAL AREA DISTRICT LIBRARY",
+      "address": "401 SOUTH CAPITOL AVENUE, LANSING, MI",
+      "website": "https://www.google.com/search?q=CAPITAL+AREA+DISTRICT+LIBRARY+LANSING+MI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48933"
+      ]
+    },
+    {
+      "name": "DELTA TOWNSHIP DISTRICT LIBRARY",
+      "system": "DELTA TOWNSHIP DISTRICT LIBRARY",
+      "address": "5130 DAVENPORT DRIVE, LANSING, MI",
+      "website": "https://www.dtdl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "48917"
+      ]
+    }
+  ]
+}

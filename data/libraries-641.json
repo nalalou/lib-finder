@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "KANSAS CITY PUBLIC LIBRARY",
+      "system": "KANSAS CITY PUBLIC LIBRARY",
+      "address": "913 BALTIMORE AVE, KANSAS CITY, MO",
+      "website": "https://kclibrary.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "64105"
+      ]
+    },
+    {
+      "name": "NORTH KANSAS CITY PUBLIC LIBRARY",
+      "system": "NORTH KANSAS CITY PUBLIC LIBRARY",
+      "address": "2251 HOWELL ST, NORTH KANSAS CITY, MO",
+      "website": "https://www.google.com/search?q=NORTH+KANSAS+CITY+PUBLIC+LIBRARY+NORTH+KANSAS+CITY+MO+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "64116"
+      ]
+    }
+  ]
+}

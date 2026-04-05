@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "CLOVIS CARVER PUBLIC LIBRARY",
+      "system": "CLOVIS CARVER PUBLIC LIBRARY",
+      "address": "701 MAIN ST, CLOVIS, NM",
+      "website": "https://www.google.com/search?q=CLOVIS+CARVER+PUBLIC+LIBRARY+CLOVIS+NM+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "88101"
+      ]
+    },
+    {
+      "name": "FORT SUMNER PUBLIC LIBRARY",
+      "system": "FORT SUMNER PUBLIC LIBRARY",
+      "address": "235 W. SUMNER AVENUE, FORT SUMNER, NM",
+      "website": "https://www.google.com/search?q=FORT+SUMNER+PUBLIC+LIBRARY+FORT+SUMNER+NM+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "88119"
+      ]
+    },
+    {
+      "name": "PORTALES PUBLIC LIBRARY",
+      "system": "PORTALES PUBLIC LIBRARY",
+      "address": "218 S. AVE. B, PORTALES, NM",
+      "website": "https://www.google.com/search?q=PORTALES+PUBLIC+LIBRARY+PORTALES+NM+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "88130"
+      ]
+    }
+  ]
+}

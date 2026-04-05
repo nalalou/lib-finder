@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "RICHARDS MEMORIAL LIBRARY",
+      "system": "RICHARDS MEMORIAL LIBRARY",
+      "address": "44 RICHARDS AVE., PAXTON, MA",
+      "website": "https://www.google.com/search?q=RICHARDS+MEMORIAL+LIBRARY+PAXTON+MA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01612"
+      ]
+    },
+    {
+      "name": "WORCESTER PUBLIC LIBRARY",
+      "system": "WORCESTER PUBLIC LIBRARY",
+      "address": "3 SALEM SQUARE, WORCESTER, MA",
+      "website": "http://www.worcpublib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "01608"
+      ]
+    }
+  ]
+}

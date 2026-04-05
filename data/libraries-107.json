@@ -1,0 +1,59 @@
+{
+  "libraries": [
+    {
+      "name": "BRONXVILLE PUBLIC LIBRARY",
+      "system": "BRONXVILLE PUBLIC LIBRARY",
+      "address": "201 PONDFIELD ROAD, BRONXVILLE, NY",
+      "website": "https://www.google.com/search?q=BRONXVILLE+PUBLIC+LIBRARY+BRONXVILLE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "10708"
+      ]
+    },
+    {
+      "name": "EASTCHESTER PUBLIC LIBRARY",
+      "system": "EASTCHESTER PUBLIC LIBRARY",
+      "address": "11 OAKRIDGE PLACE, EASTCHESTER, NY",
+      "website": "https://www.google.com/search?q=EASTCHESTER+PUBLIC+LIBRARY+EASTCHESTER+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "10709"
+      ]
+    },
+    {
+      "name": "HASTINGS-ON-HUDSON PUBLIC LIBRARY",
+      "system": "HASTINGS-ON-HUDSON PUBLIC LIBRARY",
+      "address": "7 MAPLE AVENUE, HASTINGS-ON-HUDSON, NY",
+      "website": "https://www.google.com/search?q=HASTINGS-ON-HUDSON+PUBLIC+LIBRARY+HASTINGS-ON-HUDSON+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "10706"
+      ]
+    },
+    {
+      "name": "TUCKAHOE PUBLIC LIBRARY",
+      "system": "TUCKAHOE PUBLIC LIBRARY",
+      "address": "71 COLUMBUS AVENUE, TUCKAHOE, NY",
+      "website": "https://www.google.com/search?q=TUCKAHOE+PUBLIC+LIBRARY+TUCKAHOE+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "10707"
+      ]
+    },
+    {
+      "name": "YONKERS PUBLIC LIBRARY",
+      "system": "YONKERS PUBLIC LIBRARY",
+      "address": "ONE LARKIN CENTER, YONKERS, NY",
+      "website": "https://www.google.com/search?q=YONKERS+PUBLIC+LIBRARY+YONKERS+NY+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "10701"
+      ]
+    }
+  ]
+}

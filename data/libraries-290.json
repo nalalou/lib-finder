@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "KERSHAW COUNTY LIBRARY",
+      "system": "KERSHAW COUNTY LIBRARY",
+      "address": "1304 BROAD STREET, CAMDEN, SC",
+      "website": "https://www.google.com/search?q=KERSHAW+COUNTY+LIBRARY+CAMDEN+SC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29020"
+      ]
+    },
+    {
+      "name": "LEE COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "LEE COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "200 NORTH MAIN STREET, BISHOPVILLE, SC",
+      "website": "https://www.google.com/search?q=LEE+COUNTY+PUBLIC+LIBRARY+SYSTEM+BISHOPVILLE+SC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29010"
+      ]
+    },
+    {
+      "name": "LEXINGTON COUNTY PUBLIC LIBRARY SYSTEM",
+      "system": "LEXINGTON COUNTY PUBLIC LIBRARY SYSTEM",
+      "address": "5440 AUGUSTA ROAD, LEXINGTON, SC",
+      "website": "https://www.google.com/search?q=LEXINGTON+COUNTY+PUBLIC+LIBRARY+SYSTEM+LEXINGTON+SC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "29072"
+      ]
+    }
+  ]
+}

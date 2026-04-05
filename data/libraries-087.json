@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "BRIELLE PUBLIC LIBRARY",
+      "system": "BRIELLE PUBLIC LIBRARY",
+      "address": "610 SOUTH STREET, BRIELLE, NJ",
+      "website": "https://www.google.com/search?q=BRIELLE+PUBLIC+LIBRARY+BRIELLE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08730"
+      ]
+    },
+    {
+      "name": "MANASQUAN PUBLIC LIBRARY",
+      "system": "MANASQUAN PUBLIC LIBRARY",
+      "address": "55 BROAD STREET, MANASQUAN, NJ",
+      "website": "https://www.google.com/search?q=MANASQUAN+PUBLIC+LIBRARY+MANASQUAN+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08736"
+      ]
+    },
+    {
+      "name": "OCEAN COUNTY LIBRARY",
+      "system": "OCEAN COUNTY LIBRARY",
+      "address": "101 WASHINGTON STREET, TOMS RIVER, NJ",
+      "website": "http://www.theoceancountylibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08753"
+      ]
+    },
+    {
+      "name": "SEA GIRT LIBRARY",
+      "system": "SEA GIRT LIBRARY",
+      "address": "RAILROAD STATION AT THE PLAZA, SEA GIRT, NJ",
+      "website": "https://www.google.com/search?q=SEA+GIRT+LIBRARY+SEA+GIRT+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "08750"
+      ]
+    }
+  ]
+}

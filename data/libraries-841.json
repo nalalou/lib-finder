@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "MURRAY PUBLIC LIBRARY",
+      "system": "MURRAY PUBLIC LIBRARY",
+      "address": "166 EAST 5300 SOUTH, MURRAY, UT",
+      "website": "https://www.google.com/search?q=MURRAY+PUBLIC+LIBRARY+MURRAY+UT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84107"
+      ]
+    },
+    {
+      "name": "SALT LAKE CITY PUBLIC LIBRARY SYSTEM",
+      "system": "SALT LAKE CITY PUBLIC LIBRARY SYSTEM",
+      "address": "210 EAST 400 SOUTH, SALT LAKE CITY, UT",
+      "website": "https://www.google.com/search?q=SALT+LAKE+CITY+PUBLIC+LIBRARY+SYSTEM+SALT+LAKE+CITY+UT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "84111"
+      ]
+    }
+  ]
+}

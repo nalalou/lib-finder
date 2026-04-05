@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "HENRICO COUNTY PUBLIC LIBRARY",
+      "system": "HENRICO COUNTY PUBLIC LIBRARY",
+      "address": "1700 NORTH PARHAM ROAD, HENRICO, VA",
+      "website": "https://www.google.com/search?q=HENRICO+COUNTY+PUBLIC+LIBRARY+HENRICO+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23229"
+      ]
+    },
+    {
+      "name": "RICHMOND PUBLIC LIBRARY",
+      "system": "RICHMOND PUBLIC LIBRARY",
+      "address": "101 EAST FRANKLIN STREET, RICHMOND, VA",
+      "website": "https://rvalibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23219"
+      ]
+    }
+  ]
+}

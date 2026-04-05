@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "BRISTOL PUBLIC LIBRARY",
+      "system": "BRISTOL PUBLIC LIBRARY",
+      "address": "701 GOODE STREET, BRISTOL, VA",
+      "website": "https://www.google.com/search?q=BRISTOL+PUBLIC+LIBRARY+BRISTOL+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24201"
+      ]
+    },
+    {
+      "name": "LONESOME PINE REGIONAL LIBRARY",
+      "system": "LONESOME PINE REGIONAL LIBRARY",
+      "address": "124 LIBRARY ROAD SW, WISE, VA",
+      "website": "https://www.google.com/search?q=LONESOME+PINE+REGIONAL+LIBRARY+WISE+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24293"
+      ]
+    },
+    {
+      "name": "RUSSELL COUNTY PUBLIC LIBRARY",
+      "system": "RUSSELL COUNTY PUBLIC LIBRARY",
+      "address": "248 W MAIN STREET, LEBANON, VA",
+      "website": "https://www.google.com/search?q=RUSSELL+COUNTY+PUBLIC+LIBRARY+LEBANON+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24266"
+      ]
+    },
+    {
+      "name": "WASHINGTON COUNTY PUBLIC LIBRARY",
+      "system": "WASHINGTON COUNTY PUBLIC LIBRARY",
+      "address": "205 OAK HILL STREET, ABINGDON, VA",
+      "website": "https://www.google.com/search?q=WASHINGTON+COUNTY+PUBLIC+LIBRARY+ABINGDON+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24210"
+      ]
+    }
+  ]
+}

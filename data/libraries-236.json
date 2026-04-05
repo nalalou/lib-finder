@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "HAMPTON PUBLIC LIBRARY",
+      "system": "HAMPTON PUBLIC LIBRARY",
+      "address": "4207 VICTORIA BLVD, HAMPTON, VA",
+      "website": "https://www.google.com/search?q=HAMPTON+PUBLIC+LIBRARY+HAMPTON+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23669"
+      ]
+    },
+    {
+      "name": "NEWPORT NEWS PUBLIC LIBRARY SYSTEM",
+      "system": "NEWPORT NEWS PUBLIC LIBRARY SYSTEM",
+      "address": "700 TOWN CENTER DR., STE. 300, NEWPORT NEWS, VA",
+      "website": "https://www.google.com/search?q=NEWPORT+NEWS+PUBLIC+LIBRARY+SYSTEM+NEWPORT+NEWS+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23606"
+      ]
+    },
+    {
+      "name": "POQUOSON PUBLIC LIBRARY",
+      "system": "POQUOSON PUBLIC LIBRARY",
+      "address": "500 CITY HALL AVE., POQUOSON, VA",
+      "website": "https://www.google.com/search?q=POQUOSON+PUBLIC+LIBRARY+POQUOSON+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23662"
+      ]
+    },
+    {
+      "name": "YORK COUNTY PUBLIC LIBRARY",
+      "system": "YORK COUNTY PUBLIC LIBRARY",
+      "address": "100 LONG GREEN BOULEVARD, YORKTOWN, VA",
+      "website": "https://www.google.com/search?q=YORK+COUNTY+PUBLIC+LIBRARY+YORKTOWN+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "23693"
+      ]
+    }
+  ]
+}

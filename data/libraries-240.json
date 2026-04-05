@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "BOTETOURT COUNTY LIBRARY",
+      "system": "BOTETOURT COUNTY LIBRARY",
+      "address": "28 AVERY ROW, ROANOKE, VA",
+      "website": "https://www.google.com/search?q=BOTETOURT+COUNTY+LIBRARY+ROANOKE+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24012"
+      ]
+    },
+    {
+      "name": "MONTGOMERY-FLOYD REGIONAL LIBRARY",
+      "system": "MONTGOMERY-FLOYD REGIONAL LIBRARY",
+      "address": "125 SHELTMAN STREET, CHRISTIANSBURG, VA",
+      "website": "https://www.google.com/search?q=MONTGOMERY-FLOYD+REGIONAL+LIBRARY+CHRISTIANSBURG+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24073"
+      ]
+    },
+    {
+      "name": "ROANOKE CITY PUBLIC LIBRARY",
+      "system": "ROANOKE CITY PUBLIC LIBRARY",
+      "address": "706 S. JEFFERSON ST., ROANOKE, VA",
+      "website": "https://www.google.com/search?q=ROANOKE+CITY+PUBLIC+LIBRARY+ROANOKE+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24016"
+      ]
+    },
+    {
+      "name": "ROANOKE COUNTY PUBLIC LIBRARY",
+      "system": "ROANOKE COUNTY PUBLIC LIBRARY",
+      "address": "6303 MERRIMAN ROAD S.W., ROANOKE, VA",
+      "website": "https://www.google.com/search?q=ROANOKE+COUNTY+PUBLIC+LIBRARY+ROANOKE+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "24018"
+      ]
+    }
+  ]
+}

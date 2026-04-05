@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "MINGO COUNTY PUBLIC LIBRARY",
+      "system": "MINGO COUNTY PUBLIC LIBRARY",
+      "address": "2027 STATE ROUTE 65, DELBARTON, WV",
+      "website": "https://www.google.com/search?q=MINGO+COUNTY+PUBLIC+LIBRARY+DELBARTON+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25670"
+      ]
+    },
+    {
+      "name": "WILLIAMSON PUBLIC LIBRARY",
+      "system": "WILLIAMSON PUBLIC LIBRARY",
+      "address": "101 LOGAN STREET, WILLIAMSON, WV",
+      "website": "https://www.google.com/search?q=WILLIAMSON+PUBLIC+LIBRARY+WILLIAMSON+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25661"
+      ]
+    },
+    {
+      "name": "BUFFALO CREEK MEMORIAL LIBRARY",
+      "system": "BUFFALO CREEK MEMORIAL LIBRARY",
+      "address": "511 E. MCDONALD AVE., MAN, WV",
+      "website": "https://www.google.com/search?q=BUFFALO+CREEK+MEMORIAL+LIBRARY+MAN+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25635"
+      ]
+    },
+    {
+      "name": "LOGAN AREA PUBLIC LIBRARY",
+      "system": "LOGAN AREA PUBLIC LIBRARY",
+      "address": "16 WILDCAT WAY, LOGAN, WV",
+      "website": "https://www.google.com/search?q=LOGAN+AREA+PUBLIC+LIBRARY+LOGAN+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25601"
+      ]
+    }
+  ]
+}

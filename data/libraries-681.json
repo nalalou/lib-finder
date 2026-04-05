@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "OMAHA PUBLIC LIBRARY",
+      "system": "OMAHA PUBLIC LIBRARY",
+      "address": "3020 S 84 STREET, OMAHA, NE",
+      "website": "https://www.google.com/search?q=OMAHA+PUBLIC+LIBRARY+OMAHA+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68124"
+      ]
+    },
+    {
+      "name": "LA VISTA PUBLIC LIBRARY",
+      "system": "LA VISTA PUBLIC LIBRARY",
+      "address": "9110 GILES ROAD, LA VISTA, NE",
+      "website": "https://www.google.com/search?q=LA+VISTA+PUBLIC+LIBRARY+LA+VISTA+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68128"
+      ]
+    },
+    {
+      "name": "BARIGHT PUBLIC LIBRARY",
+      "system": "BARIGHT PUBLIC LIBRARY",
+      "address": "5555 SOUTH 77TH STREET, RALSTON, NE",
+      "website": "https://www.google.com/search?q=BARIGHT+PUBLIC+LIBRARY+RALSTON+NE+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "68127"
+      ]
+    }
+  ]
+}

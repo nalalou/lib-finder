@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "GASSAWAY PUBLIC LIBRARY",
+      "system": "GASSAWAY PUBLIC LIBRARY",
+      "address": "536 ELK STREET, GASSAWAY, WV",
+      "website": "http://gassaway.lib.wv.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26624"
+      ]
+    },
+    {
+      "name": "SUTTON PUBLIC LIBRARY",
+      "system": "SUTTON PUBLIC LIBRARY",
+      "address": "500 MAIN STREET, SUTTON, WV",
+      "website": "https://www.google.com/search?q=SUTTON+PUBLIC+LIBRARY+SUTTON+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26601"
+      ]
+    },
+    {
+      "name": "SUMMERSVILLE PUBLIC LIBRARY",
+      "system": "SUMMERSVILLE PUBLIC LIBRARY",
+      "address": "6201 WEBSTER ROAD, SUMMERSVILLE, WV",
+      "website": "https://www.google.com/search?q=SUMMERSVILLE+PUBLIC+LIBRARY+SUMMERSVILLE+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "26651"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "BRUNSWICK COUNTY LIBRARY",
+      "system": "BRUNSWICK COUNTY LIBRARY",
+      "address": "109 W MOORE ST, SOUTHPORT, NC",
+      "website": "https://www.google.com/search?q=BRUNSWICK+COUNTY+LIBRARY+SOUTHPORT+NC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28461"
+      ]
+    },
+    {
+      "name": "COLUMBUS COUNTY PUBLIC LIBRARY",
+      "system": "COLUMBUS COUNTY PUBLIC LIBRARY",
+      "address": "407 N JK POWELL BLVD, WHITEVILLE, NC",
+      "website": "https://www.google.com/search?q=COLUMBUS+COUNTY+PUBLIC+LIBRARY+WHITEVILLE+NC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28472"
+      ]
+    },
+    {
+      "name": "NEW HANOVER COUNTY PUBLIC LIBRARY",
+      "system": "NEW HANOVER COUNTY PUBLIC LIBRARY",
+      "address": "201 CHESTNUT ST, WILMINGTON, NC",
+      "website": "https://www.google.com/search?q=NEW+HANOVER+COUNTY+PUBLIC+LIBRARY+WILMINGTON+NC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28401"
+      ]
+    },
+    {
+      "name": "PENDER COUNTY PUBLIC LIBRARY",
+      "system": "PENDER COUNTY PUBLIC LIBRARY",
+      "address": "103 S COWAN ST, BURGAW, NC",
+      "website": "https://www.google.com/search?q=PENDER+COUNTY+PUBLIC+LIBRARY+BURGAW+NC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "28425"
+      ]
+    }
+  ]
+}

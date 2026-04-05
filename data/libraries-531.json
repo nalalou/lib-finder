@@ -1,0 +1,334 @@
+{
+  "libraries": [
+    {
+      "name": "BIG BEND VILLAGE LIBRARY",
+      "system": "BIG BEND VILLAGE LIBRARY",
+      "address": "W230 S9185 NEVINS ST., BIG BEND, WI",
+      "website": "https://www.bigbend.lib.wi.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53103"
+      ]
+    },
+    {
+      "name": "BURLINGTON PUBLIC LIBRARY",
+      "system": "BURLINGTON PUBLIC LIBRARY",
+      "address": "166 E. JEFFERSON ST., BURLINGTON, WI",
+      "website": "https://www.google.com/search?q=BURLINGTON+PUBLIC+LIBRARY+BURLINGTON+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53105"
+      ]
+    },
+    {
+      "name": "CUDAHY FAMILY LIBRARY",
+      "system": "CUDAHY FAMILY LIBRARY",
+      "address": "3500 LIBRARY DR., CUDAHY, WI",
+      "website": "https://www.google.com/search?q=CUDAHY+FAMILY+LIBRARY+CUDAHY+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53110"
+      ]
+    },
+    {
+      "name": "DARIEN PUBLIC LIBRARY",
+      "system": "DARIEN PUBLIC LIBRARY",
+      "address": "47 PARK ST., DARIEN, WI",
+      "website": "https://www.google.com/search?q=DARIEN+PUBLIC+LIBRARY+DARIEN+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53114"
+      ]
+    },
+    {
+      "name": "ARAM PUBLIC LIBRARY",
+      "system": "ARAM PUBLIC LIBRARY",
+      "address": "404 E. WALWORTH AVE., DELAVAN, WI",
+      "website": "https://www.google.com/search?q=ARAM+PUBLIC+LIBRARY+DELAVAN+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53115"
+      ]
+    },
+    {
+      "name": "ALICE BAKER MEMORIAL PUBLIC LIBRARY",
+      "system": "ALICE BAKER MEMORIAL PUBLIC LIBRARY",
+      "address": "820 E. MAIN ST., EAGLE, WI",
+      "website": "https://www.google.com/search?q=ALICE+BAKER+MEMORIAL+PUBLIC+LIBRARY+EAGLE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53119"
+      ]
+    },
+    {
+      "name": "EAST TROY LIONS PUBLIC LIBRARY",
+      "system": "EAST TROY LIONS PUBLIC LIBRARY",
+      "address": "3094 GRAYDON AVE., EAST TROY, WI",
+      "website": "https://www.google.com/search?q=EAST+TROY+LIONS+PUBLIC+LIBRARY+EAST+TROY+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53120"
+      ]
+    },
+    {
+      "name": "MATHESON MEMORIAL LIBRARY",
+      "system": "MATHESON MEMORIAL LIBRARY",
+      "address": "101 N. WISCONSIN ST., ELKHORN, WI",
+      "website": "https://www.google.com/search?q=MATHESON+MEMORIAL+LIBRARY+ELKHORN+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53121"
+      ]
+    },
+    {
+      "name": "ELM GROVE PUBLIC LIBRARY",
+      "system": "ELM GROVE PUBLIC LIBRARY",
+      "address": "13600 JUNEAU BLVD., ELM GROVE, WI",
+      "website": "https://www.google.com/search?q=ELM+GROVE+PUBLIC+LIBRARY+ELM+GROVE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53122"
+      ]
+    },
+    {
+      "name": "FONTANA PUBLIC LIBRARY",
+      "system": "FONTANA PUBLIC LIBRARY",
+      "address": "166 2ND AVE., FONTANA, WI",
+      "website": "https://www.google.com/search?q=FONTANA+PUBLIC+LIBRARY+FONTANA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53125"
+      ]
+    },
+    {
+      "name": "FRANKLIN PUBLIC LIBRARY",
+      "system": "FRANKLIN PUBLIC LIBRARY",
+      "address": "9151 W. LOOMIS RD., FRANKLIN, WI",
+      "website": "https://www.fspl.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53132"
+      ]
+    },
+    {
+      "name": "GENOA CITY PUBLIC LIBRARY",
+      "system": "GENOA CITY PUBLIC LIBRARY",
+      "address": "126 FREEMAN ST., GENOA CITY, WI",
+      "website": "https://www.google.com/search?q=GENOA+CITY+PUBLIC+LIBRARY+GENOA+CITY+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53128"
+      ]
+    },
+    {
+      "name": "GREENDALE PUBLIC LIBRARY",
+      "system": "GREENDALE PUBLIC LIBRARY",
+      "address": "5647 BROAD ST., GREENDALE, WI",
+      "website": "https://www.google.com/search?q=GREENDALE+PUBLIC+LIBRARY+GREENDALE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53129"
+      ]
+    },
+    {
+      "name": "HALES CORNERS PUBLIC LIBRARY",
+      "system": "HALES CORNERS PUBLIC LIBRARY",
+      "address": "5885 S. 116TH ST., HALES CORNERS, WI",
+      "website": "https://www.google.com/search?q=HALES+CORNERS+PUBLIC+LIBRARY+HALES+CORNERS+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53130"
+      ]
+    },
+    {
+      "name": "KENOSHA PUBLIC LIBRARY",
+      "system": "KENOSHA PUBLIC LIBRARY",
+      "address": "7979 38TH AVE., KENOSHA, WI",
+      "website": "https://www.google.com/search?q=KENOSHA+PUBLIC+LIBRARY+KENOSHA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53142"
+      ]
+    },
+    {
+      "name": "LAKE GENEVA PUBLIC LIBRARY",
+      "system": "LAKE GENEVA PUBLIC LIBRARY",
+      "address": "918 W. MAIN ST., LAKE GENEVA, WI",
+      "website": "https://www.google.com/search?q=LAKE+GENEVA+PUBLIC+LIBRARY+LAKE+GENEVA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53147"
+      ]
+    },
+    {
+      "name": "MUSKEGO PUBLIC LIBRARY",
+      "system": "MUSKEGO PUBLIC LIBRARY",
+      "address": "S73 W16663 JANESVILLE RD., MUSKEGO, WI",
+      "website": "https://www.google.com/search?q=MUSKEGO+PUBLIC+LIBRARY+MUSKEGO+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53150"
+      ]
+    },
+    {
+      "name": "NEW BERLIN PUBLIC LIBRARY",
+      "system": "NEW BERLIN PUBLIC LIBRARY",
+      "address": "15105 LIBRARY LN., NEW BERLIN, WI",
+      "website": "https://www.google.com/search?q=NEW+BERLIN+PUBLIC+LIBRARY+NEW+BERLIN+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53151"
+      ]
+    },
+    {
+      "name": "OAK CREEK PUBLIC LIBRARY",
+      "system": "OAK CREEK PUBLIC LIBRARY",
+      "address": "8040 S. 6TH ST., OAK CREEK, WI",
+      "website": "https://www.google.com/search?q=OAK+CREEK+PUBLIC+LIBRARY+OAK+CREEK+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53154"
+      ]
+    },
+    {
+      "name": "ROCHESTER PUBLIC LIBRARY",
+      "system": "ROCHESTER PUBLIC LIBRARY",
+      "address": "208 W. SPRING ST., ROCHESTER, WI",
+      "website": "https://www.google.com/search?q=ROCHESTER+PUBLIC+LIBRARY+ROCHESTER+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53167"
+      ]
+    },
+    {
+      "name": "COMMUNITY LIBRARY",
+      "system": "COMMUNITY LIBRARY",
+      "address": "24615 89TH ST., SALEM, WI",
+      "website": "https://comlib.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53168"
+      ]
+    },
+    {
+      "name": "SOUTH MILWAUKEE PUBLIC LIBRARY",
+      "system": "SOUTH MILWAUKEE PUBLIC LIBRARY",
+      "address": "1907 10TH AVE., SOUTH MILWAUKEE, WI",
+      "website": "https://www.google.com/search?q=SOUTH+MILWAUKEE+PUBLIC+LIBRARY+SOUTH+MILWAUKEE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53172"
+      ]
+    },
+    {
+      "name": "GRAHAM PUBLIC LIBRARY",
+      "system": "GRAHAM PUBLIC LIBRARY",
+      "address": "1215 MAIN ST., UNION GROVE, WI",
+      "website": "https://www.google.com/search?q=GRAHAM+PUBLIC+LIBRARY+UNION+GROVE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53182"
+      ]
+    },
+    {
+      "name": "WALWORTH MEMORIAL LIBRARY",
+      "system": "WALWORTH MEMORIAL LIBRARY",
+      "address": "525 KENOSHA ST., STE. L, WALWORTH, WI",
+      "website": "https://www.google.com/search?q=WALWORTH+MEMORIAL+LIBRARY+WALWORTH+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53184"
+      ]
+    },
+    {
+      "name": "WATERFORD PUBLIC LIBRARY",
+      "system": "WATERFORD PUBLIC LIBRARY",
+      "address": "101 N. RIVER ST., WATERFORD, WI",
+      "website": "https://www.google.com/search?q=WATERFORD+PUBLIC+LIBRARY+WATERFORD+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53185"
+      ]
+    },
+    {
+      "name": "WAUKESHA PUBLIC LIBRARY",
+      "system": "WAUKESHA PUBLIC LIBRARY",
+      "address": "321 WISCONSIN AVE., WAUKESHA, WI",
+      "website": "https://www.google.com/search?q=WAUKESHA+PUBLIC+LIBRARY+WAUKESHA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53186"
+      ]
+    },
+    {
+      "name": "IRVIN L. YOUNG MEMORIAL LIBRARY",
+      "system": "IRVIN L. YOUNG MEMORIAL LIBRARY",
+      "address": "431 W. CENTER ST., WHITEWATER, WI",
+      "website": "https://www.google.com/search?q=IRVIN+L.+YOUNG+MEMORIAL+LIBRARY+WHITEWATER+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53190"
+      ]
+    },
+    {
+      "name": "BARRETT MEMORIAL LIBRARY",
+      "system": "BARRETT MEMORIAL LIBRARY",
+      "address": "65 W. GENEVA ST., WILLIAMS BAY, WI",
+      "website": "https://www.google.com/search?q=BARRETT+MEMORIAL+LIBRARY+WILLIAMS+BAY+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53191"
+      ]
+    },
+    {
+      "name": "MUKWONAGO COMMUNITY LIBRARY",
+      "system": "MUKWONAGO COMMUNITY LIBRARY",
+      "address": "511 DIVISION ST., MUKWONAGO, WI",
+      "website": "https://www.google.com/search?q=MUKWONAGO+COMMUNITY+LIBRARY+MUKWONAGO+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53149"
+      ]
+    },
+    {
+      "name": "POWERS MEMORIAL LIBRARY",
+      "system": "POWERS MEMORIAL LIBRARY",
+      "address": "115 W. MAIN ST., PALMYRA, WI",
+      "website": "https://www.google.com/search?q=POWERS+MEMORIAL+LIBRARY+PALMYRA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53156"
+      ]
+    }
+  ]
+}

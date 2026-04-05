@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "BEXLEY PUBLIC LIBRARY",
+      "system": "BEXLEY PUBLIC LIBRARY",
+      "address": "2411 E. MAIN ST., BEXLEY, OH",
+      "website": "https://www.google.com/search?q=BEXLEY+PUBLIC+LIBRARY+BEXLEY+OH+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43209"
+      ]
+    },
+    {
+      "name": "COLUMBUS METROPOLITAN LIBRARY",
+      "system": "COLUMBUS METROPOLITAN LIBRARY",
+      "address": "96 S. GRANT AVENUE, COLUMBUS, OH",
+      "website": "https://www.google.com/search?q=COLUMBUS+METROPOLITAN+LIBRARY+COLUMBUS+OH+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43215"
+      ]
+    },
+    {
+      "name": "GRANDVIEW HEIGHTS PUBLIC LIBRARY",
+      "system": "GRANDVIEW HEIGHTS PUBLIC LIBRARY",
+      "address": "1685 W. FIRST AVE., GRANDVIEW HTS., OH",
+      "website": "https://www.google.com/search?q=GRANDVIEW+HEIGHTS+PUBLIC+LIBRARY+GRANDVIEW+HTS.+OH+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43212"
+      ]
+    },
+    {
+      "name": "UPPER ARLINGTON PUBLIC LIBRARY",
+      "system": "UPPER ARLINGTON PUBLIC LIBRARY",
+      "address": "2800 TREMONT RD., UPPER ARLINGTON, OH",
+      "website": "https://www.ualibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "43221"
+      ]
+    }
+  ]
+}

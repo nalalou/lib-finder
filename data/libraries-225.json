@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "CAROLINE COUNTY LIBRARY",
+      "system": "CAROLINE COUNTY LIBRARY",
+      "address": "17202 RICHMOND TURNPIKE, MILFORD, VA",
+      "website": "https://www.google.com/search?q=CAROLINE+COUNTY+LIBRARY+MILFORD+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22514"
+      ]
+    },
+    {
+      "name": "ESSEX PUBLIC LIBRARY",
+      "system": "ESSEX PUBLIC LIBRARY",
+      "address": "117 N. CHURCH LANE, TAPPAHANNOCK, VA",
+      "website": "https://www.google.com/search?q=ESSEX+PUBLIC+LIBRARY+TAPPAHANNOCK+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22560"
+      ]
+    },
+    {
+      "name": "RICHMOND COUNTY PUBLIC LIBRARY",
+      "system": "RICHMOND COUNTY PUBLIC LIBRARY",
+      "address": "52 CAMPUS DRIVE, WARSAW, VA",
+      "website": "https://www.google.com/search?q=RICHMOND+COUNTY+PUBLIC+LIBRARY+WARSAW+VA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "22572"
+      ]
+    }
+  ]
+}

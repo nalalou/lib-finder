@@ -1,0 +1,411 @@
+{
+  "libraries": [
+    {
+      "name": "BELLEVILLE PUBLIC LIBRARY",
+      "system": "BELLEVILLE PUBLIC LIBRARY",
+      "address": "121 EAST WASHINGTON STREET, BELLEVILLE, IL",
+      "website": "https://www.google.com/search?q=BELLEVILLE+PUBLIC+LIBRARY+BELLEVILLE+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62220"
+      ]
+    },
+    {
+      "name": "BREESE PUBLIC LIBRARY",
+      "system": "BREESE PUBLIC LIBRARY",
+      "address": "530 NORTH THIRD STREET, BREESE, IL",
+      "website": "https://www.google.com/search?q=BREESE+PUBLIC+LIBRARY+BREESE+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62230"
+      ]
+    },
+    {
+      "name": "CAHOKIA PUBLIC LIBRARY DISTRICT",
+      "system": "CAHOKIA PUBLIC LIBRARY DISTRICT",
+      "address": "140 CAHOKIA PARK DRIVE, CAHOKIA HEIGHTS, IL",
+      "website": "https://www.google.com/search?q=CAHOKIA+PUBLIC+LIBRARY+DISTRICT+CAHOKIA+HEIGHTS+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62206"
+      ]
+    },
+    {
+      "name": "CASE-HALSTEAD PUBLIC LIBRARY",
+      "system": "CASE-HALSTEAD PUBLIC LIBRARY",
+      "address": "550 SIXTH STREET, CARLYLE, IL",
+      "website": "https://www.google.com/search?q=CASE-HALSTEAD+PUBLIC+LIBRARY+CARLYLE+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62231"
+      ]
+    },
+    {
+      "name": "CASEYVILLE PUBLIC LIBRARY DISTRICT",
+      "system": "CASEYVILLE PUBLIC LIBRARY DISTRICT",
+      "address": "419 SOUTH SECOND STREET, CASEYVILLE, IL",
+      "website": "https://www.google.com/search?q=CASEYVILLE+PUBLIC+LIBRARY+DISTRICT+CASEYVILLE+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62232"
+      ]
+    },
+    {
+      "name": "CENTRAL PUBLIC LIBRARY DISTRICT",
+      "system": "CENTRAL PUBLIC LIBRARY DISTRICT",
+      "address": "701 SOUTH OAK STREET #A, EVANSVILLE, IL",
+      "website": "https://www.google.com/search?q=CENTRAL+PUBLIC+LIBRARY+DISTRICT+EVANSVILLE+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62242"
+      ]
+    },
+    {
+      "name": "CHESTER PUBLIC LIBRARY",
+      "system": "CHESTER PUBLIC LIBRARY",
+      "address": "733 STATE STREET, CHESTER, IL",
+      "website": "https://www.google.com/search?q=CHESTER+PUBLIC+LIBRARY+CHESTER+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62233"
+      ]
+    },
+    {
+      "name": "MISSISSIPPI VALLEY LIBRARY DISTRICT",
+      "system": "MISSISSIPPI VALLEY LIBRARY DISTRICT",
+      "address": "408 WEST MAIN STREET, COLLINSVILLE, IL",
+      "website": "https://www.google.com/search?q=MISSISSIPPI+VALLEY+LIBRARY+DISTRICT+COLLINSVILLE+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62234"
+      ]
+    },
+    {
+      "name": "COLUMBIA PUBLIC LIBRARY",
+      "system": "COLUMBIA PUBLIC LIBRARY",
+      "address": "106 NORTH METTER AVENUE, COLUMBIA, IL",
+      "website": "https://www.google.com/search?q=COLUMBIA+PUBLIC+LIBRARY+COLUMBIA+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62236"
+      ]
+    },
+    {
+      "name": "COULTERVILLE PUBLIC LIBRARY",
+      "system": "COULTERVILLE PUBLIC LIBRARY",
+      "address": "103 SOUTH FOURTH STREET, COULTERVILLE, IL",
+      "website": "https://www.google.com/search?q=COULTERVILLE+PUBLIC+LIBRARY+COULTERVILLE+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62237"
+      ]
+    },
+    {
+      "name": "CUTLER PUBLIC LIBRARY",
+      "system": "CUTLER PUBLIC LIBRARY",
+      "address": "409 SOUTH MAIN STREET, CUTLER, IL",
+      "website": "https://www.google.com/search?q=CUTLER+PUBLIC+LIBRARY+CUTLER+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62238"
+      ]
+    },
+    {
+      "name": "DAUGHERTY PUBLIC LIBRARY DISTRICT",
+      "system": "DAUGHERTY PUBLIC LIBRARY DISTRICT",
+      "address": "220 SOUTH FIFTH STREET, DUPO, IL",
+      "website": "https://www.google.com/search?q=DAUGHERTY+PUBLIC+LIBRARY+DISTRICT+DUPO+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62239"
+      ]
+    },
+    {
+      "name": "EAST SAINT LOUIS PUBLIC LIBRARY",
+      "system": "EAST SAINT LOUIS PUBLIC LIBRARY",
+      "address": "5300 STATE STREET, EAST SAINT LOUIS, IL",
+      "website": "https://www.google.com/search?q=EAST+SAINT+LOUIS+PUBLIC+LIBRARY+EAST+SAINT+LOUIS+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62203"
+      ]
+    },
+    {
+      "name": "EVANSVILLE PUBLIC LIBRARY",
+      "system": "EVANSVILLE PUBLIC LIBRARY",
+      "address": "602 PUBLIC STREET, EVANSVILLE, IL",
+      "website": "https://www.google.com/search?q=EVANSVILLE+PUBLIC+LIBRARY+EVANSVILLE+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62242"
+      ]
+    },
+    {
+      "name": "FAIRVIEW HEIGHTS PUBLIC LIBRARY",
+      "system": "FAIRVIEW HEIGHTS PUBLIC LIBRARY",
+      "address": "10017 BUNKUM ROAD, FAIRVIEW HEIGHTS, IL",
+      "website": "https://www.google.com/search?q=FAIRVIEW+HEIGHTS+PUBLIC+LIBRARY+FAIRVIEW+HEIGHTS+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62208"
+      ]
+    },
+    {
+      "name": "GREENVILLE PUBLIC LIBRARY",
+      "system": "GREENVILLE PUBLIC LIBRARY",
+      "address": "414 WEST MAIN STREET, GREENVILLE, IL",
+      "website": "http://www.yourlibrary.ws/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62246"
+      ]
+    },
+    {
+      "name": "LOUIS LATZER MEMORIAL PUBLIC LIBRARY",
+      "system": "LOUIS LATZER MEMORIAL PUBLIC LIBRARY",
+      "address": "1001 NINTH STREET, HIGHLAND, IL",
+      "website": "https://www.google.com/search?q=LOUIS+LATZER+MEMORIAL+PUBLIC+LIBRARY+HIGHLAND+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62249"
+      ]
+    },
+    {
+      "name": "LEBANON PUBLIC LIBRARY",
+      "system": "LEBANON PUBLIC LIBRARY",
+      "address": "314 WEST SAINT LOUIS STREET, LEBANON, IL",
+      "website": "https://lebanonlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62254"
+      ]
+    },
+    {
+      "name": "MARISSA AREA PUBLIC LIBRARY DISTRICT",
+      "system": "MARISSA AREA PUBLIC LIBRARY DISTRICT",
+      "address": "212 NORTH MAIN STREET, MARISSA, IL",
+      "website": "https://www.google.com/search?q=MARISSA+AREA+PUBLIC+LIBRARY+DISTRICT+MARISSA+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62257"
+      ]
+    },
+    {
+      "name": "MASCOUTAH PUBLIC LIBRARY",
+      "system": "MASCOUTAH PUBLIC LIBRARY",
+      "address": "3 WEST CHURCH STREET, MASCOUTAH, IL",
+      "website": "https://www.google.com/search?q=MASCOUTAH+PUBLIC+LIBRARY+MASCOUTAH+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62258"
+      ]
+    },
+    {
+      "name": "MILLSTADT LIBRARY DISTRICT",
+      "system": "MILLSTADT LIBRARY DISTRICT",
+      "address": "115 WEST LAUREL STREET, MILLSTADT, IL",
+      "website": "https://www.google.com/search?q=MILLSTADT+LIBRARY+DISTRICT+MILLSTADT+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62260"
+      ]
+    },
+    {
+      "name": "NASHVILLE PUBLIC LIBRARY",
+      "system": "NASHVILLE PUBLIC LIBRARY",
+      "address": "219 EAST ELM STREET, NASHVILLE, IL",
+      "website": "https://library.nashville.org",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62263"
+      ]
+    },
+    {
+      "name": "NEW ATHENS DISTRICT LIBRARY",
+      "system": "NEW ATHENS DISTRICT LIBRARY",
+      "address": "201 NORTH VAN BUREN STREET, NEW ATHENS, IL",
+      "website": "https://www.google.com/search?q=NEW+ATHENS+DISTRICT+LIBRARY+NEW+ATHENS+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62264"
+      ]
+    },
+    {
+      "name": "NEW BADEN PUBLIC LIBRARY",
+      "system": "NEW BADEN PUBLIC LIBRARY",
+      "address": "210 NORTH FIRST STREET, NEW BADEN, IL",
+      "website": "https://www.google.com/search?q=NEW+BADEN+PUBLIC+LIBRARY+NEW+BADEN+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62265"
+      ]
+    },
+    {
+      "name": "O'FALLON PUBLIC LIBRARY",
+      "system": "O'FALLON PUBLIC LIBRARY",
+      "address": "120 CIVIC PLAZA, O'FALLON, IL",
+      "website": "https://www.google.com/search?q=O'FALLON+PUBLIC+LIBRARY+O'FALLON+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62269"
+      ]
+    },
+    {
+      "name": "PINCKNEYVILLE PUBLIC LIBRARY",
+      "system": "PINCKNEYVILLE PUBLIC LIBRARY",
+      "address": "312 SOUTH WALNUT STREET, PINCKNEYVILLE, IL",
+      "website": "https://www.google.com/search?q=PINCKNEYVILLE+PUBLIC+LIBRARY+PINCKNEYVILLE+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62274"
+      ]
+    },
+    {
+      "name": "RED BUD PUBLIC LIBRARY",
+      "system": "RED BUD PUBLIC LIBRARY",
+      "address": "925 SOUTH MAIN STREET, RED BUD, IL",
+      "website": "https://www.google.com/search?q=RED+BUD+PUBLIC+LIBRARY+RED+BUD+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62278"
+      ]
+    },
+    {
+      "name": "SPARTA PUBLIC LIBRARY",
+      "system": "SPARTA PUBLIC LIBRARY",
+      "address": "211 WEST BROADWAY STREET, SPARTA, IL",
+      "website": "https://www.google.com/search?q=SPARTA+PUBLIC+LIBRARY+SPARTA+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62286"
+      ]
+    },
+    {
+      "name": "STEELEVILLE AREA PUBLIC LIBRARY DISTRICT",
+      "system": "STEELEVILLE AREA PUBLIC LIBRARY DISTRICT",
+      "address": "625 SOUTH SPARTA STREET, STEELEVILLE, IL",
+      "website": "https://www.google.com/search?q=STEELEVILLE+AREA+PUBLIC+LIBRARY+DISTRICT+STEELEVILLE+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62288"
+      ]
+    },
+    {
+      "name": "TRENTON PUBLIC LIBRARY",
+      "system": "TRENTON PUBLIC LIBRARY",
+      "address": "118 EAST INDIANA STREET, TRENTON, IL",
+      "website": "https://www.google.com/search?q=TRENTON+PUBLIC+LIBRARY+TRENTON+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62293"
+      ]
+    },
+    {
+      "name": "TRI-TOWNSHIP PUBLIC LIBRARY DISTRICT",
+      "system": "TRI-TOWNSHIP PUBLIC LIBRARY DISTRICT",
+      "address": "209 SOUTH MAIN STREET, TROY, IL",
+      "website": "https://www.google.com/search?q=TRI-TOWNSHIP+PUBLIC+LIBRARY+DISTRICT+TROY+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62294"
+      ]
+    },
+    {
+      "name": "VALMEYER PUBLIC LIBRARY DISTRICT",
+      "system": "VALMEYER PUBLIC LIBRARY DISTRICT",
+      "address": "300 SOUTH CEDAR BLUFF DRIVE, VALMEYER, IL",
+      "website": "https://www.google.com/search?q=VALMEYER+PUBLIC+LIBRARY+DISTRICT+VALMEYER+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62295"
+      ]
+    },
+    {
+      "name": "MORRISON-TALBOTT LIBRARY",
+      "system": "MORRISON-TALBOTT LIBRARY",
+      "address": "215 PARK STREET, WATERLOO, IL",
+      "website": "https://www.google.com/search?q=MORRISON-TALBOTT+LIBRARY+WATERLOO+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62298"
+      ]
+    },
+    {
+      "name": "SMITHTON PUBLIC LIBRARY DISTRICT",
+      "system": "SMITHTON PUBLIC LIBRARY DISTRICT",
+      "address": "109 SOUTH MAIN STREET, SMITHTON, IL",
+      "website": "https://www.google.com/search?q=SMITHTON+PUBLIC+LIBRARY+DISTRICT+SMITHTON+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62285"
+      ]
+    },
+    {
+      "name": "GERMANTOWN PUBLIC LIBRARY DISTRICT",
+      "system": "GERMANTOWN PUBLIC LIBRARY DISTRICT",
+      "address": "403 MUNSTER STREET, GERMANTOWN, IL",
+      "website": "https://www.google.com/search?q=GERMANTOWN+PUBLIC+LIBRARY+DISTRICT+GERMANTOWN+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62245"
+      ]
+    },
+    {
+      "name": "FREEBURG AREA LIBRARY DISTRICT",
+      "system": "FREEBURG AREA LIBRARY DISTRICT",
+      "address": "407 SOUTH BELLEVILLE STREET, FREEBURG, IL",
+      "website": "https://www.google.com/search?q=FREEBURG+AREA+LIBRARY+DISTRICT+FREEBURG+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62243"
+      ]
+    },
+    {
+      "name": "TILDEN PUBLIC LIBRARY",
+      "system": "TILDEN PUBLIC LIBRARY",
+      "address": "381 BUTLER STREET, TILDEN, IL",
+      "website": "https://www.google.com/search?q=TILDEN+PUBLIC+LIBRARY+TILDEN+IL+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "62292"
+      ]
+    }
+  ]
+}

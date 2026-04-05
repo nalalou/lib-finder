@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "ALBEMARLE REGIONAL LIBRARY",
+      "system": "ALBEMARLE REGIONAL LIBRARY",
+      "address": "303 W TRYON ST, WINTON, NC",
+      "website": "https://www.google.com/search?q=ALBEMARLE+REGIONAL+LIBRARY+WINTON+NC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27986"
+      ]
+    },
+    {
+      "name": "EAST ALBEMARLE REGIONAL LIBRARY",
+      "system": "EAST ALBEMARLE REGIONAL LIBRARY",
+      "address": "100 E COLONIAL AVE, ELIZABETH CITY, NC",
+      "website": "https://www.google.com/search?q=EAST+ALBEMARLE+REGIONAL+LIBRARY+ELIZABETH+CITY+NC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27909"
+      ]
+    },
+    {
+      "name": "PETTIGREW REGIONAL LIBRARY",
+      "system": "PETTIGREW REGIONAL LIBRARY",
+      "address": "201 E THIRD ST, PLYMOUTH, NC",
+      "website": "https://www.google.com/search?q=PETTIGREW+REGIONAL+LIBRARY+PLYMOUTH+NC+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "27962"
+      ]
+    }
+  ]
+}

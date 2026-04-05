@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "MADISON PUBLIC LIBRARY",
+      "system": "MADISON PUBLIC LIBRARY",
+      "address": "201 W. MIFFLIN ST., MADISON, WI",
+      "website": "http://www.madisonpubliclibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53703"
+      ]
+    },
+    {
+      "name": "MONONA PUBLIC LIBRARY",
+      "system": "MONONA PUBLIC LIBRARY",
+      "address": "1000 NICHOLS RD., MONONA, WI",
+      "website": "https://www.google.com/search?q=MONONA+PUBLIC+LIBRARY+MONONA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53716"
+      ]
+    },
+    {
+      "name": "FITCHBURG PUBLIC LIBRARY",
+      "system": "FITCHBURG PUBLIC LIBRARY",
+      "address": "5530 LACY RD., FITCHBURG, WI",
+      "website": "https://www.google.com/search?q=FITCHBURG+PUBLIC+LIBRARY+FITCHBURG+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "53711"
+      ]
+    }
+  ]
+}

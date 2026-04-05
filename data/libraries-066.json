@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "BRIDGEPORT PUBLIC LIBRARY",
+      "system": "BRIDGEPORT PUBLIC LIBRARY",
+      "address": "925 BROAD ST., BRIDGEPORT, CT",
+      "website": "https://www.google.com/search?q=BRIDGEPORT+PUBLIC+LIBRARY+BRIDGEPORT+CT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06604"
+      ]
+    },
+    {
+      "name": "EASTON PUBLIC LIBRARY",
+      "system": "EASTON PUBLIC LIBRARY",
+      "address": "691 MOREHOUSE RD., EASTON, CT",
+      "website": "https://www.google.com/search?q=EASTON+PUBLIC+LIBRARY+EASTON+CT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06612"
+      ]
+    },
+    {
+      "name": "STRATFORD LIBRARY ASSOCIATION",
+      "system": "STRATFORD LIBRARY ASSOCIATION",
+      "address": "2203 MAIN STREET, STRATFORD, CT",
+      "website": "https://www.google.com/search?q=STRATFORD+LIBRARY+ASSOCIATION+STRATFORD+CT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06615"
+      ]
+    },
+    {
+      "name": "TRUMBULL LIBRARY",
+      "system": "TRUMBULL LIBRARY",
+      "address": "33 QUALITY ST., TRUMBULL, CT",
+      "website": "https://www.google.com/search?q=TRUMBULL+LIBRARY+TRUMBULL+CT+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "06611"
+      ]
+    }
+  ]
+}

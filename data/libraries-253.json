@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "KANAWHA COUNTY PUBLIC LIBRARY",
+      "system": "KANAWHA COUNTY PUBLIC LIBRARY",
+      "address": "123 CAPITOL ST., CHARLESTON, WV",
+      "website": "https://www.google.com/search?q=KANAWHA+COUNTY+PUBLIC+LIBRARY+CHARLESTON+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25301"
+      ]
+    },
+    {
+      "name": "SOUTH CHARLESTON PUBLIC LIBRARY",
+      "system": "SOUTH CHARLESTON PUBLIC LIBRARY",
+      "address": "312 4TH AVENUE, SOUTH CHARLESTON, WV",
+      "website": "https://www.google.com/search?q=SOUTH+CHARLESTON+PUBLIC+LIBRARY+SOUTH+CHARLESTON+WV+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "25303"
+      ]
+    }
+  ]
+}

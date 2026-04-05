@@ -1,0 +1,664 @@
+{
+  "libraries": [
+    {
+      "name": "WILLIAM E. DERMODY FREE PUBLIC LIBRARY",
+      "system": "WILLIAM E. DERMODY FREE PUBLIC LIBRARY",
+      "address": "420 HACKENSACK STREET, CARLSTADT, NJ",
+      "website": "https://www.google.com/search?q=WILLIAM+E.+DERMODY+FREE+PUBLIC+LIBRARY+CARLSTADT+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07072"
+      ]
+    },
+    {
+      "name": "CLIFFSIDE PARK FREE PUBLIC LIBRARY",
+      "system": "CLIFFSIDE PARK FREE PUBLIC LIBRARY",
+      "address": "505 PALISADE AVENUE, CLIFFSIDE PARK, NJ",
+      "website": "https://www.google.com/search?q=CLIFFSIDE+PARK+FREE+PUBLIC+LIBRARY+CLIFFSIDE+PARK+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07010"
+      ]
+    },
+    {
+      "name": "EAST RUTHERFORD MEMORIAL LIBRARY",
+      "system": "EAST RUTHERFORD MEMORIAL LIBRARY",
+      "address": "143 BOILING SPRINGS AVENUE, EAST RUTHERFORD, NJ",
+      "website": "https://www.google.com/search?q=EAST+RUTHERFORD+MEMORIAL+LIBRARY+EAST+RUTHERFORD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07073"
+      ]
+    },
+    {
+      "name": "EDGEWATER FREE PUBLIC LIBRARY",
+      "system": "EDGEWATER FREE PUBLIC LIBRARY",
+      "address": "49 HUDSON AVENUE, EDGEWATER, NJ",
+      "website": "https://www.google.com/search?q=EDGEWATER+FREE+PUBLIC+LIBRARY+EDGEWATER+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07020"
+      ]
+    },
+    {
+      "name": "FAIRVIEW FREE PUBLIC LIBRARY",
+      "system": "FAIRVIEW FREE PUBLIC LIBRARY",
+      "address": "213 ANDERSON AVENUE, FAIRVIEW, NJ",
+      "website": "https://www.google.com/search?q=FAIRVIEW+FREE+PUBLIC+LIBRARY+FAIRVIEW+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07022"
+      ]
+    },
+    {
+      "name": "FORT LEE FREE PUBLIC LIBRARY",
+      "system": "FORT LEE FREE PUBLIC LIBRARY",
+      "address": "320 MAIN STREET, FORT LEE, NJ",
+      "website": "https://www.google.com/search?q=FORT+LEE+FREE+PUBLIC+LIBRARY+FORT+LEE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07024"
+      ]
+    },
+    {
+      "name": "GARFIELD FREE PUBLIC LIBRARY",
+      "system": "GARFIELD FREE PUBLIC LIBRARY",
+      "address": "500 MIDLAND AVENUE, GARFIELD, NJ",
+      "website": "https://www.google.com/search?q=GARFIELD+FREE+PUBLIC+LIBRARY+GARFIELD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07026"
+      ]
+    },
+    {
+      "name": "LYNDHURST FREE PUBLIC LIBRARY",
+      "system": "LYNDHURST FREE PUBLIC LIBRARY",
+      "address": "355 VALLEY BROOK AVENUE, LYNDHURST, NJ",
+      "website": "https://www.google.com/search?q=LYNDHURST+FREE+PUBLIC+LIBRARY+LYNDHURST+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07071"
+      ]
+    },
+    {
+      "name": "NORTH ARLINGTON PUBLIC LIBRARY",
+      "system": "NORTH ARLINGTON PUBLIC LIBRARY",
+      "address": "210 RIDGE ROAD, NORTH ARLINGTON, NJ",
+      "website": "https://www.google.com/search?q=NORTH+ARLINGTON+PUBLIC+LIBRARY+NORTH+ARLINGTON+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07031"
+      ]
+    },
+    {
+      "name": "RUTHERFORD FREE PUBLIC LIBRARY",
+      "system": "RUTHERFORD FREE PUBLIC LIBRARY",
+      "address": "150 PARK AVENUE, RUTHERFORD, NJ",
+      "website": "https://www.google.com/search?q=RUTHERFORD+FREE+PUBLIC+LIBRARY+RUTHERFORD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07070"
+      ]
+    },
+    {
+      "name": "JOHN F. KENNEDY MEMORIAL LIBRARY",
+      "system": "JOHN F. KENNEDY MEMORIAL LIBRARY",
+      "address": "92 HATHAWAY STREET, WALLINGTON, NJ",
+      "website": "https://www.calstatela.edu/library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07057"
+      ]
+    },
+    {
+      "name": "WOOD-RIDGE MEMORIAL LIBRARY",
+      "system": "WOOD-RIDGE MEMORIAL LIBRARY",
+      "address": "231 HACKENSACK STREET, WOOD-RIDGE, NJ",
+      "website": "https://www.google.com/search?q=WOOD-RIDGE+MEMORIAL+LIBRARY+WOOD-RIDGE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07075"
+      ]
+    },
+    {
+      "name": "BLOOMFIELD PUBLIC LIBRARY",
+      "system": "BLOOMFIELD PUBLIC LIBRARY",
+      "address": "90 BROAD STREET, BLOOMFIELD, NJ",
+      "website": "https://www.google.com/search?q=BLOOMFIELD+PUBLIC+LIBRARY+BLOOMFIELD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07003"
+      ]
+    },
+    {
+      "name": "CALDWELL FREE PUBLIC LIBRARY",
+      "system": "CALDWELL FREE PUBLIC LIBRARY",
+      "address": "268 BLOOMFIELD AVENUE, CALDWELL, NJ",
+      "website": "https://www.google.com/search?q=CALDWELL+FREE+PUBLIC+LIBRARY+CALDWELL+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07006"
+      ]
+    },
+    {
+      "name": "CEDAR GROVE FREE PUBLIC LIBRARY",
+      "system": "CEDAR GROVE FREE PUBLIC LIBRARY",
+      "address": "ONE MUNICIPAL PLAZA, CEDAR GROVE, NJ",
+      "website": "https://www.google.com/search?q=CEDAR+GROVE+FREE+PUBLIC+LIBRARY+CEDAR+GROVE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07009"
+      ]
+    },
+    {
+      "name": "EAST ORANGE PUBLIC LIBRARY",
+      "system": "EAST ORANGE PUBLIC LIBRARY",
+      "address": "21 S. ARLINGTON AVENUE, EAST ORANGE, NJ",
+      "website": "https://www.google.com/search?q=EAST+ORANGE+PUBLIC+LIBRARY+EAST+ORANGE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07018"
+      ]
+    },
+    {
+      "name": "ANTHONY PIO COSTA MEMORIAL LIBRARY",
+      "system": "ANTHONY PIO COSTA MEMORIAL LIBRARY",
+      "address": "261 HOLLYWOOD AVENUE, FAIRFIELD, NJ",
+      "website": "https://www.google.com/search?q=ANTHONY+PIO+COSTA+MEMORIAL+LIBRARY+FAIRFIELD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07004"
+      ]
+    },
+    {
+      "name": "GLEN RIDGE FREE PUBLIC LIBRARY",
+      "system": "GLEN RIDGE FREE PUBLIC LIBRARY",
+      "address": "240 RIDGEWOOD AVENUE, GLEN RIDGE, NJ",
+      "website": "https://www.google.com/search?q=GLEN+RIDGE+FREE+PUBLIC+LIBRARY+GLEN+RIDGE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07028"
+      ]
+    },
+    {
+      "name": "RUTH L. ROCKWOOD MEMORIAL LIBRARY",
+      "system": "RUTH L. ROCKWOOD MEMORIAL LIBRARY",
+      "address": "10 ROBERT H. HARP DRIVE, LIVINGSTON, NJ",
+      "website": "https://www.google.com/search?q=RUTH+L.+ROCKWOOD+MEMORIAL+LIBRARY+LIVINGSTON+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07039"
+      ]
+    },
+    {
+      "name": "MAPLEWOOD MEMORIAL LIBRARY",
+      "system": "MAPLEWOOD MEMORIAL LIBRARY",
+      "address": "51 BAKER STREET, MAPLEWOOD, NJ",
+      "website": "https://www.google.com/search?q=MAPLEWOOD+MEMORIAL+LIBRARY+MAPLEWOOD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07040"
+      ]
+    },
+    {
+      "name": "MILLBURN FREE PUBLIC LIBRARY",
+      "system": "MILLBURN FREE PUBLIC LIBRARY",
+      "address": "200 GLEN AVENUE, MILLBURN, NJ",
+      "website": "https://www.google.com/search?q=MILLBURN+FREE+PUBLIC+LIBRARY+MILLBURN+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07041"
+      ]
+    },
+    {
+      "name": "MONTCLAIR PUBLIC LIBRARY",
+      "system": "MONTCLAIR PUBLIC LIBRARY",
+      "address": "50 S. FULLERTON AVENUE, MONTCLAIR, NJ",
+      "website": "http://www.montclairlibrary.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07042"
+      ]
+    },
+    {
+      "name": "THE ORANGE PUBLIC LIBRARY",
+      "system": "THE ORANGE PUBLIC LIBRARY",
+      "address": "348 MAIN STREET, ORANGE, NJ",
+      "website": "https://www.google.com/search?q=THE+ORANGE+PUBLIC+LIBRARY+ORANGE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07050"
+      ]
+    },
+    {
+      "name": "ROSELAND FREE PUBLIC LIBRARY",
+      "system": "ROSELAND FREE PUBLIC LIBRARY",
+      "address": "20 ROSELAND AVENUE, ROSELAND, NJ",
+      "website": "https://www.google.com/search?q=ROSELAND+FREE+PUBLIC+LIBRARY+ROSELAND+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07068"
+      ]
+    },
+    {
+      "name": "SOUTH ORANGE PUBLIC LIBRARY",
+      "system": "SOUTH ORANGE PUBLIC LIBRARY",
+      "address": "65 SCOTLAND ROAD, SOUTH ORANGE, NJ",
+      "website": "https://www.google.com/search?q=SOUTH+ORANGE+PUBLIC+LIBRARY+SOUTH+ORANGE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07079"
+      ]
+    },
+    {
+      "name": "VERONA FREE PUBLIC LIBRARY",
+      "system": "VERONA FREE PUBLIC LIBRARY",
+      "address": "17 GOULD STREET, VERONA, NJ",
+      "website": "https://www.google.com/search?q=VERONA+FREE+PUBLIC+LIBRARY+VERONA+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07044"
+      ]
+    },
+    {
+      "name": "WEST CALDWELL PUBLIC LIBRARY",
+      "system": "WEST CALDWELL PUBLIC LIBRARY",
+      "address": "30 CLINTON ROAD, WEST CALDWELL, NJ",
+      "website": "https://www.google.com/search?q=WEST+CALDWELL+PUBLIC+LIBRARY+WEST+CALDWELL+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07006"
+      ]
+    },
+    {
+      "name": "WEST ORANGE FREE PUBLIC LIBRARY",
+      "system": "WEST ORANGE FREE PUBLIC LIBRARY",
+      "address": "46 MT. PLEASANT AVENUE, WEST ORANGE, NJ",
+      "website": "https://www.google.com/search?q=WEST+ORANGE+FREE+PUBLIC+LIBRARY+WEST+ORANGE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07052"
+      ]
+    },
+    {
+      "name": "BAYONNE FREE PUBLIC LIBRARY",
+      "system": "BAYONNE FREE PUBLIC LIBRARY",
+      "address": "697 AVENUE C, BAYONNE, NJ",
+      "website": "https://www.google.com/search?q=BAYONNE+FREE+PUBLIC+LIBRARY+BAYONNE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07002"
+      ]
+    },
+    {
+      "name": "HARRISON PUBLIC LIBRARY",
+      "system": "HARRISON PUBLIC LIBRARY",
+      "address": "415 HARRISON AVE., HARRISON, NJ",
+      "website": "https://www.google.com/search?q=HARRISON+PUBLIC+LIBRARY+HARRISON+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07029"
+      ]
+    },
+    {
+      "name": "HOBOKEN PUBLIC LIBRARY",
+      "system": "HOBOKEN PUBLIC LIBRARY",
+      "address": "500 PARK AVENUE, HOBOKEN, NJ",
+      "website": "https://www.google.com/search?q=HOBOKEN+PUBLIC+LIBRARY+HOBOKEN+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07030"
+      ]
+    },
+    {
+      "name": "KEARNY PUBLIC LIBRARY",
+      "system": "KEARNY PUBLIC LIBRARY",
+      "address": "318 KEARNY AVENUE, KEARNY, NJ",
+      "website": "https://www.google.com/search?q=KEARNY+PUBLIC+LIBRARY+KEARNY+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07032"
+      ]
+    },
+    {
+      "name": "NORTH BERGEN FREE PUBLIC LIBRARY",
+      "system": "NORTH BERGEN FREE PUBLIC LIBRARY",
+      "address": "8411 BERGENLINE AVENUE, NORTH BERGEN, NJ",
+      "website": "https://www.google.com/search?q=NORTH+BERGEN+FREE+PUBLIC+LIBRARY+NORTH+BERGEN+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07047"
+      ]
+    },
+    {
+      "name": "SECAUCUS FREE PUBLIC LIBRARY",
+      "system": "SECAUCUS FREE PUBLIC LIBRARY",
+      "address": "1379 PATERSON PLANK ROAD, SECAUCUS, NJ",
+      "website": "https://www.google.com/search?q=SECAUCUS+FREE+PUBLIC+LIBRARY+SECAUCUS+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07094"
+      ]
+    },
+    {
+      "name": "UNION CITY PUBLIC LIBRARY",
+      "system": "UNION CITY PUBLIC LIBRARY",
+      "address": "324 43RD STREET, UNION CITY, NJ",
+      "website": "https://www.google.com/search?q=UNION+CITY+PUBLIC+LIBRARY+UNION+CITY+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07087"
+      ]
+    },
+    {
+      "name": "WEEHAWKEN FREE PUBLIC LIBRARY",
+      "system": "WEEHAWKEN FREE PUBLIC LIBRARY",
+      "address": "49 HAUXHURST AVENUE, WEEHAWKEN, NJ",
+      "website": "https://www.google.com/search?q=WEEHAWKEN+FREE+PUBLIC+LIBRARY+WEEHAWKEN+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07086"
+      ]
+    },
+    {
+      "name": "WEST NEW YORK FREE PUBLIC LIBRARY",
+      "system": "WEST NEW YORK FREE PUBLIC LIBRARY",
+      "address": "425 60TH STREET, WEST NEW YORK, NJ",
+      "website": "https://www.google.com/search?q=WEST+NEW+YORK+FREE+PUBLIC+LIBRARY+WEST+NEW+YORK+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07093"
+      ]
+    },
+    {
+      "name": "CARTERET FREE PUBLIC LIBRARY",
+      "system": "CARTERET FREE PUBLIC LIBRARY",
+      "address": "100 COOKE AVENUE, CARTERET, NJ",
+      "website": "https://www.google.com/search?q=CARTERET+FREE+PUBLIC+LIBRARY+CARTERET+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07008"
+      ]
+    },
+    {
+      "name": "SOUTH PLAINFIELD FREE PUBLIC LIBRARY",
+      "system": "SOUTH PLAINFIELD FREE PUBLIC LIBRARY",
+      "address": "2484 PLAINFIELD AVENUE, SOUTH PLAINFIELD, NJ",
+      "website": "https://www.google.com/search?q=SOUTH+PLAINFIELD+FREE+PUBLIC+LIBRARY+SOUTH+PLAINFIELD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07080"
+      ]
+    },
+    {
+      "name": "WOODBRIDGE PUBLIC LIBRARY",
+      "system": "WOODBRIDGE PUBLIC LIBRARY",
+      "address": "GEORGE FREDERICK PLAZA, WOODBRIDGE, NJ",
+      "website": "https://www.google.com/search?q=WOODBRIDGE+PUBLIC+LIBRARY+WOODBRIDGE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07095"
+      ]
+    },
+    {
+      "name": "BOONTON HOLMES PUBLIC LIBRARY",
+      "system": "BOONTON HOLMES PUBLIC LIBRARY",
+      "address": "621 MAIN STREET, BOONTON, NJ",
+      "website": "https://www.google.com/search?q=BOONTON+HOLMES+PUBLIC+LIBRARY+BOONTON+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07005"
+      ]
+    },
+    {
+      "name": "LINCOLN PARK PUBLIC LIBRARY",
+      "system": "LINCOLN PARK PUBLIC LIBRARY",
+      "address": "12 BOONTON TURNPIKE, LINCOLN PARK, NJ",
+      "website": "https://www.google.com/search?q=LINCOLN+PARK+PUBLIC+LIBRARY+LINCOLN+PARK+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07035"
+      ]
+    },
+    {
+      "name": "MONTVILLE TOWNSHIP PUBLIC LIBRARY",
+      "system": "MONTVILLE TOWNSHIP PUBLIC LIBRARY",
+      "address": "90 HORSENECK ROAD, MONTVILLE, NJ",
+      "website": "https://www.google.com/search?q=MONTVILLE+TOWNSHIP+PUBLIC+LIBRARY+MONTVILLE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07045"
+      ]
+    },
+    {
+      "name": "MOUNTAIN LAKES FREE PUBLIC LIBRARY",
+      "system": "MOUNTAIN LAKES FREE PUBLIC LIBRARY",
+      "address": "9 ELM ROAD, MOUNTAIN LAKES, NJ",
+      "website": "https://www.google.com/search?q=MOUNTAIN+LAKES+FREE+PUBLIC+LIBRARY+MOUNTAIN+LAKES+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07046"
+      ]
+    },
+    {
+      "name": "PARSIPPANY-TROY HILLS PUBLIC LIBRARY",
+      "system": "PARSIPPANY-TROY HILLS PUBLIC LIBRARY",
+      "address": "449 HALSEY ROAD, PARSIPPANY, NJ",
+      "website": "https://www.google.com/search?q=PARSIPPANY-TROY+HILLS+PUBLIC+LIBRARY+PARSIPPANY+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07054"
+      ]
+    },
+    {
+      "name": "CLIFTON PUBLIC LIBRARY",
+      "system": "CLIFTON PUBLIC LIBRARY",
+      "address": "292 PIAGET AVENUE, CLIFTON, NJ",
+      "website": "https://www.google.com/search?q=CLIFTON+PUBLIC+LIBRARY+CLIFTON+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07011"
+      ]
+    },
+    {
+      "name": "PASSAIC PUBLIC LIBRARY",
+      "system": "PASSAIC PUBLIC LIBRARY",
+      "address": "195 GREGORY AVENUE, PASSAIC, NJ",
+      "website": "https://www.google.com/search?q=PASSAIC+PUBLIC+LIBRARY+PASSAIC+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07055"
+      ]
+    },
+    {
+      "name": "CLARK PUBLIC LIBRARY",
+      "system": "CLARK PUBLIC LIBRARY",
+      "address": "303 WESTFIELD AVENUE, CLARK, NJ",
+      "website": "https://www.google.com/search?q=CLARK+PUBLIC+LIBRARY+CLARK+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07066"
+      ]
+    },
+    {
+      "name": "CRANFORD PUBLIC LIBRARY",
+      "system": "CRANFORD PUBLIC LIBRARY",
+      "address": "224 WALNUT AVENUE, CRANFORD, NJ",
+      "website": "https://www.google.com/search?q=CRANFORD+PUBLIC+LIBRARY+CRANFORD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07016"
+      ]
+    },
+    {
+      "name": "FANWOOD MEMORIAL LIBRARY",
+      "system": "FANWOOD MEMORIAL LIBRARY",
+      "address": "14 TILLOTSON ROAD, FANWOOD, NJ",
+      "website": "https://www.google.com/search?q=FANWOOD+MEMORIAL+LIBRARY+FANWOOD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07023"
+      ]
+    },
+    {
+      "name": "GARWOOD FREE PUBLIC LIBRARY",
+      "system": "GARWOOD FREE PUBLIC LIBRARY",
+      "address": "411 THIRD AVENUE, GARWOOD, NJ",
+      "website": "https://www.google.com/search?q=GARWOOD+FREE+PUBLIC+LIBRARY+GARWOOD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07027"
+      ]
+    },
+    {
+      "name": "KENILWORTH PUBLIC LIBRARY",
+      "system": "KENILWORTH PUBLIC LIBRARY",
+      "address": "548 BOULEVARD, KENILWORTH, NJ",
+      "website": "https://www.google.com/search?q=KENILWORTH+PUBLIC+LIBRARY+KENILWORTH+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07033"
+      ]
+    },
+    {
+      "name": "LINDEN FREE PUBLIC LIBRARY",
+      "system": "LINDEN FREE PUBLIC LIBRARY",
+      "address": "31 E. HENRY STREET, LINDEN, NJ",
+      "website": "https://www.google.com/search?q=LINDEN+FREE+PUBLIC+LIBRARY+LINDEN+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07036"
+      ]
+    },
+    {
+      "name": "MOUNTAINSIDE FREE PUBLIC LIBRARY",
+      "system": "MOUNTAINSIDE FREE PUBLIC LIBRARY",
+      "address": "1 CONSTITUTION PLAZA, MOUNTAINSIDE, NJ",
+      "website": "https://www.google.com/search?q=MOUNTAINSIDE+FREE+PUBLIC+LIBRARY+MOUNTAINSIDE+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07092"
+      ]
+    },
+    {
+      "name": "PLAINFIELD FREE PUBLIC LIBRARY",
+      "system": "PLAINFIELD FREE PUBLIC LIBRARY",
+      "address": "800 PARK AVENUE, PLAINFIELD, NJ",
+      "website": "http://www.plainfieldlibrary.info/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07060"
+      ]
+    },
+    {
+      "name": "RAHWAY PUBLIC LIBRARY",
+      "system": "RAHWAY PUBLIC LIBRARY",
+      "address": "2 CITY HALL PLAZA, RAHWAY, NJ",
+      "website": "https://www.google.com/search?q=RAHWAY+PUBLIC+LIBRARY+RAHWAY+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07065"
+      ]
+    },
+    {
+      "name": "SCOTCH PLAINS PUBLIC LIBRARY",
+      "system": "SCOTCH PLAINS PUBLIC LIBRARY",
+      "address": "1927 BARTLE AVENUE, SCOTCH PLAINS, NJ",
+      "website": "https://www.google.com/search?q=SCOTCH+PLAINS+PUBLIC+LIBRARY+SCOTCH+PLAINS+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07076"
+      ]
+    },
+    {
+      "name": "SPRINGFIELD FREE PUBLIC LIBRARY",
+      "system": "SPRINGFIELD FREE PUBLIC LIBRARY",
+      "address": "66 MOUNTAIN AVENUE, SPRINGFIELD, NJ",
+      "website": "https://www.google.com/search?q=SPRINGFIELD+FREE+PUBLIC+LIBRARY+SPRINGFIELD+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07081"
+      ]
+    },
+    {
+      "name": "UNION FREE PUBLIC LIBRARY",
+      "system": "UNION FREE PUBLIC LIBRARY",
+      "address": "1980 MORRIS AVENUE, UNION, NJ",
+      "website": "https://www.google.com/search?q=UNION+FREE+PUBLIC+LIBRARY+UNION+NJ+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07083"
+      ]
+    },
+    {
+      "name": "WESTFIELD MEMORIAL LIBRARY",
+      "system": "WESTFIELD MEMORIAL LIBRARY",
+      "address": "550 E. BROAD STREET, WESTFIELD, NJ",
+      "website": "http://www.wmlnj.org/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "07090"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "libraries": [
+    {
+      "name": "COWETA PUBLIC LIBRARY",
+      "system": "COWETA PUBLIC LIBRARY",
+      "address": "120 EAST SYCAMORE, COWETA, OK",
+      "website": "https://www.google.com/search?q=COWETA+PUBLIC+LIBRARY+COWETA+OK+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74429"
+      ]
+    },
+    {
+      "name": "HENRYETTA PUBLIC LIBRARY",
+      "system": "HENRYETTA PUBLIC LIBRARY",
+      "address": "518 W. MAIN, HENRYETTA, OK",
+      "website": "https://www.google.com/search?q=HENRYETTA+PUBLIC+LIBRARY+HENRYETTA+OK+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74437"
+      ]
+    },
+    {
+      "name": "EASTERN OKLAHOMA LIBRARY SYSTEM",
+      "system": "EASTERN OKLAHOMA LIBRARY SYSTEM",
+      "address": "14 E. SHAWNEE, MUSKOGEE, OK",
+      "website": "https://www.google.com/search?q=EASTERN+OKLAHOMA+LIBRARY+SYSTEM+MUSKOGEE+OK+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74403"
+      ]
+    },
+    {
+      "name": "OKMULGEE PUBLIC LIBRARY",
+      "system": "OKMULGEE PUBLIC LIBRARY",
+      "address": "218 S OKMULGEE, OKMULGEE, OK",
+      "website": "https://www.google.com/search?q=OKMULGEE+PUBLIC+LIBRARY+OKMULGEE+OK+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74447"
+      ]
+    },
+    {
+      "name": "WAGONER CITY PUBLIC LIBRARY",
+      "system": "WAGONER CITY PUBLIC LIBRARY",
+      "address": "302 N. MAIN, WAGONER, OK",
+      "website": "https://www.google.com/search?q=WAGONER+CITY+PUBLIC+LIBRARY+WAGONER+OK+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "74467"
+      ]
+    }
+  ]
+}

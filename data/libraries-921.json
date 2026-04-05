@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "SAN DIEGO COUNTY LIBRARY",
+      "system": "SAN DIEGO COUNTY LIBRARY",
+      "address": "5560 OVERLAND AVE., SUITE 110, SAN DIEGO, CA",
+      "website": "https://www.google.com/search?q=SAN+DIEGO+COUNTY+LIBRARY+SAN+DIEGO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "92123"
+      ]
+    },
+    {
+      "name": "SAN DIEGO PUBLIC LIBRARY",
+      "system": "SAN DIEGO PUBLIC LIBRARY",
+      "address": "330 PARK BLVD, SAN DIEGO, CA",
+      "website": "https://www.google.com/search?q=SAN+DIEGO+PUBLIC+LIBRARY+SAN+DIEGO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "92101"
+      ]
+    },
+    {
+      "name": "CORONADO PUBLIC LIBRARY",
+      "system": "CORONADO PUBLIC LIBRARY",
+      "address": "640 ORANGE AVE., CORONADO, CA",
+      "website": "https://www.google.com/search?q=CORONADO+PUBLIC+LIBRARY+CORONADO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "92118"
+      ]
+    },
+    {
+      "name": "SAN DIEGO COUNTY PUBLIC LAW LIBRARY",
+      "system": "SAN DIEGO COUNTY PUBLIC LAW LIBRARY",
+      "address": "1105 FRONT ST., SAN DIEGO, CA",
+      "website": "https://www.google.com/search?q=SAN+DIEGO+COUNTY+PUBLIC+LAW+LIBRARY+SAN+DIEGO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "92101"
+      ]
+    }
+  ]
+}

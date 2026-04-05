@@ -1,0 +1,37 @@
+{
+  "libraries": [
+    {
+      "name": "BOISE PUBLIC",
+      "system": "BOISE PUBLIC",
+      "address": "715 S CAPITOL BLVD, BOISE, ID",
+      "website": "https://www.google.com/search?q=BOISE+PUBLIC+BOISE+ID+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "83702"
+      ]
+    },
+    {
+      "name": "ADA COUNTY DISTRICT",
+      "system": "ADA COUNTY DISTRICT",
+      "address": "10664 W VICTORY RD, BOISE, ID",
+      "website": "https://www.google.com/search?q=ADA+COUNTY+DISTRICT+BOISE+ID+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "83709"
+      ]
+    },
+    {
+      "name": "GARDEN CITY PUBLIC",
+      "system": "GARDEN CITY PUBLIC",
+      "address": "6015 GLENWOOD ST, GARDEN CITY, ID",
+      "website": "https://www.google.com/search?q=GARDEN+CITY+PUBLIC+GARDEN+CITY+ID+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "83714"
+      ]
+    }
+  ]
+}

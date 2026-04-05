@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "SACRAMENTO PUBLIC LIBRARY",
+      "system": "SACRAMENTO PUBLIC LIBRARY",
+      "address": "828 I ST., SACRAMENTO, CA",
+      "website": "https://www.google.com/search?q=SACRAMENTO+PUBLIC+LIBRARY+SACRAMENTO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95814"
+      ]
+    },
+    {
+      "name": "SACRAMENTO COUNTY PUBLIC LAW LIBRARY",
+      "system": "SACRAMENTO COUNTY PUBLIC LAW LIBRARY",
+      "address": "609 9TH ST., SACRAMENTO, CA",
+      "website": "https://www.google.com/search?q=SACRAMENTO+COUNTY+PUBLIC+LAW+LIBRARY+SACRAMENTO+CA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "95814"
+      ]
+    }
+  ]
+}

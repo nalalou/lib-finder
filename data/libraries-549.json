@@ -1,0 +1,345 @@
+{
+  "libraries": [
+    {
+      "name": "APPLETON PUBLIC LIBRARY",
+      "system": "APPLETON PUBLIC LIBRARY",
+      "address": "3000 E. COLLEGE AVE, APPLETON, WI",
+      "website": "https://www.google.com/search?q=APPLETON+PUBLIC+LIBRARY+APPLETON+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54915"
+      ]
+    },
+    {
+      "name": "BERLIN PUBLIC LIBRARY",
+      "system": "BERLIN PUBLIC LIBRARY",
+      "address": "121 W. PARK AVE., BERLIN, WI",
+      "website": "https://www.google.com/search?q=BERLIN+PUBLIC+LIBRARY+BERLIN+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54923"
+      ]
+    },
+    {
+      "name": "CLINTONVILLE PUBLIC LIBRARY",
+      "system": "CLINTONVILLE PUBLIC LIBRARY",
+      "address": "75 HEMLOCK ST., CLINTONVILLE, WI",
+      "website": "https://www.google.com/search?q=CLINTONVILLE+PUBLIC+LIBRARY+CLINTONVILLE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54929"
+      ]
+    },
+    {
+      "name": "FOND DU LAC PUBLIC LIBRARY",
+      "system": "FOND DU LAC PUBLIC LIBRARY",
+      "address": "32 SHEBOYGAN ST., FOND DU LAC, WI",
+      "website": "https://www.google.com/search?q=FOND+DU+LAC+PUBLIC+LIBRARY+FOND+DU+LAC+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54935"
+      ]
+    },
+    {
+      "name": "NEUSCHAFER COMMUNITY LIBRARY",
+      "system": "NEUSCHAFER COMMUNITY LIBRARY",
+      "address": "317 WOLF RIVER DR., FREMONT, WI",
+      "website": "https://www.google.com/search?q=NEUSCHAFER+COMMUNITY+LIBRARY+FREMONT+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54940"
+      ]
+    },
+    {
+      "name": "CAESTECKER PUBLIC LIBRARY",
+      "system": "CAESTECKER PUBLIC LIBRARY",
+      "address": "518 HILL ST., GREEN LAKE, WI",
+      "website": "https://www.google.com/search?q=CAESTECKER+PUBLIC+LIBRARY+GREEN+LAKE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54941"
+      ]
+    },
+    {
+      "name": "HANCOCK PUBLIC LIBRARY",
+      "system": "HANCOCK PUBLIC LIBRARY",
+      "address": "114 S. MAIN ST., HANCOCK, WI",
+      "website": "https://www.google.com/search?q=HANCOCK+PUBLIC+LIBRARY+HANCOCK+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54943"
+      ]
+    },
+    {
+      "name": "HORTONVILLE PUBLIC LIBRARY",
+      "system": "HORTONVILLE PUBLIC LIBRARY",
+      "address": "531 N. NASH ST., HORTONVILLE, WI",
+      "website": "https://www.google.com/search?q=HORTONVILLE+PUBLIC+LIBRARY+HORTONVILLE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54944"
+      ]
+    },
+    {
+      "name": "IOLA VILLAGE LIBRARY",
+      "system": "IOLA VILLAGE LIBRARY",
+      "address": "180 S. MAIN ST., IOLA, WI",
+      "website": "https://www.google.com/search?q=IOLA+VILLAGE+LIBRARY+IOLA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54945"
+      ]
+    },
+    {
+      "name": "STURM MEMORIAL LIBRARY",
+      "system": "STURM MEMORIAL LIBRARY",
+      "address": "130 N. BRIDGE ST., MANAWA, WI",
+      "website": "https://www.google.com/search?q=STURM+MEMORIAL+LIBRARY+MANAWA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54949"
+      ]
+    },
+    {
+      "name": "MARION PUBLIC LIBRARY",
+      "system": "MARION PUBLIC LIBRARY",
+      "address": "120 N. MAIN ST., MARION, WI",
+      "website": "https://www.google.com/search?q=MARION+PUBLIC+LIBRARY+MARION+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54950"
+      ]
+    },
+    {
+      "name": "ELISHA D. SMITH PUBLIC LIBRARY",
+      "system": "ELISHA D. SMITH PUBLIC LIBRARY",
+      "address": "440 FIRST ST., MENASHA, WI",
+      "website": "https://www.google.com/search?q=ELISHA+D.+SMITH+PUBLIC+LIBRARY+MENASHA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54952"
+      ]
+    },
+    {
+      "name": "NEENAH PUBLIC LIBRARY",
+      "system": "NEENAH PUBLIC LIBRARY",
+      "address": "240 E. WISCONSIN AVE., NEENAH, WI",
+      "website": "https://www.google.com/search?q=NEENAH+PUBLIC+LIBRARY+NEENAH+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54957"
+      ]
+    },
+    {
+      "name": "NESHKORO PUBLIC LIBRARY",
+      "system": "NESHKORO PUBLIC LIBRARY",
+      "address": "132 S. MAIN ST., NESHKORO, WI",
+      "website": "https://www.google.com/search?q=NESHKORO+PUBLIC+LIBRARY+NESHKORO+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54960"
+      ]
+    },
+    {
+      "name": "NEW LONDON PUBLIC LIBRARY",
+      "system": "NEW LONDON PUBLIC LIBRARY",
+      "address": "406 S. PEARL ST., NEW LONDON, WI",
+      "website": "https://www.google.com/search?q=NEW+LONDON+PUBLIC+LIBRARY+NEW+LONDON+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54961"
+      ]
+    },
+    {
+      "name": "SPILLMAN PUBLIC LIBRARY",
+      "system": "SPILLMAN PUBLIC LIBRARY",
+      "address": "719 WISCONSIN AVE., NORTH FOND DU LAC, WI",
+      "website": "https://www.google.com/search?q=SPILLMAN+PUBLIC+LIBRARY+NORTH+FOND+DU+LAC+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54937"
+      ]
+    },
+    {
+      "name": "CARTER MEMORIAL LIBRARY",
+      "system": "CARTER MEMORIAL LIBRARY",
+      "address": "405 E. HURON ST., OMRO, WI",
+      "website": "https://www.google.com/search?q=CARTER+MEMORIAL+LIBRARY+OMRO+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54963"
+      ]
+    },
+    {
+      "name": "OSHKOSH PUBLIC LIBRARY",
+      "system": "OSHKOSH PUBLIC LIBRARY",
+      "address": "106 WASHINGTON AVE., OSHKOSH, WI",
+      "website": "https://www.google.com/search?q=OSHKOSH+PUBLIC+LIBRARY+OSHKOSH+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54901"
+      ]
+    },
+    {
+      "name": "LEON-SAXEVILLE TOWNSHIP LIBRARY",
+      "system": "LEON-SAXEVILLE TOWNSHIP LIBRARY",
+      "address": "N4715 COUNTY RD. E, PINE RIVER, WI",
+      "website": "https://www.google.com/search?q=LEON-SAXEVILLE+TOWNSHIP+LIBRARY+PINE+RIVER+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54965"
+      ]
+    },
+    {
+      "name": "PLAINFIELD PUBLIC LIBRARY",
+      "system": "PLAINFIELD PUBLIC LIBRARY",
+      "address": "126 S. MAIN ST., PLAINFIELD, WI",
+      "website": "https://www.google.com/search?q=PLAINFIELD+PUBLIC+LIBRARY+PLAINFIELD+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54966"
+      ]
+    },
+    {
+      "name": "POY SIPPI PUBLIC LIBRARY",
+      "system": "POY SIPPI PUBLIC LIBRARY",
+      "address": "W2251 COMMERCIAL ST., POY SIPPI, WI",
+      "website": "https://www.google.com/search?q=POY+SIPPI+PUBLIC+LIBRARY+POY+SIPPI+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54967"
+      ]
+    },
+    {
+      "name": "PRINCETON PUBLIC LIBRARY",
+      "system": "PRINCETON PUBLIC LIBRARY",
+      "address": "424 W. WATER ST., PRINCETON, WI",
+      "website": "http://www.princetonpl.lib.in.us/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54968"
+      ]
+    },
+    {
+      "name": "REDGRANITE PUBLIC LIBRARY",
+      "system": "REDGRANITE PUBLIC LIBRARY",
+      "address": "135 W. BANNERMAN AVE., REDGRANITE, WI",
+      "website": "https://www.google.com/search?q=REDGRANITE+PUBLIC+LIBRARY+REDGRANITE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54970"
+      ]
+    },
+    {
+      "name": "RIPON PUBLIC LIBRARY",
+      "system": "RIPON PUBLIC LIBRARY",
+      "address": "120 JEFFERSON ST., RIPON, WI",
+      "website": "https://www.google.com/search?q=RIPON+PUBLIC+LIBRARY+RIPON+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54971"
+      ]
+    },
+    {
+      "name": "WAUPACA AREA PUBLIC LIBRARY",
+      "system": "WAUPACA AREA PUBLIC LIBRARY",
+      "address": "107 S. MAIN ST., WAUPACA, WI",
+      "website": "https://www.google.com/search?q=WAUPACA+AREA+PUBLIC+LIBRARY+WAUPACA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54981"
+      ]
+    },
+    {
+      "name": "WAUTOMA PUBLIC LIBRARY",
+      "system": "WAUTOMA PUBLIC LIBRARY",
+      "address": "410 W. MAIN ST., WAUTOMA, WI",
+      "website": "https://www.google.com/search?q=WAUTOMA+PUBLIC+LIBRARY+WAUTOMA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54982"
+      ]
+    },
+    {
+      "name": "WEYAUWEGA PUBLIC LIBRARY",
+      "system": "WEYAUWEGA PUBLIC LIBRARY",
+      "address": "301 S. MILL ST., WEYAUWEGA, WI",
+      "website": "https://www.google.com/search?q=WEYAUWEGA+PUBLIC+LIBRARY+WEYAUWEGA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54983"
+      ]
+    },
+    {
+      "name": "PATTERSON MEMORIAL LIBRARY",
+      "system": "PATTERSON MEMORIAL LIBRARY",
+      "address": "500 DIVISION ST., WILD ROSE, WI",
+      "website": "https://www.google.com/search?q=PATTERSON+MEMORIAL+LIBRARY+WILD+ROSE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54984"
+      ]
+    },
+    {
+      "name": "WINNECONNE PUBLIC LIBRARY",
+      "system": "WINNECONNE PUBLIC LIBRARY",
+      "address": "31 S. SECOND ST., WINNECONNE, WI",
+      "website": "https://www.google.com/search?q=WINNECONNE+PUBLIC+LIBRARY+WINNECONNE+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54986"
+      ]
+    },
+    {
+      "name": "COLOMA PUBLIC LIBRARY",
+      "system": "COLOMA PUBLIC LIBRARY",
+      "address": "155 S. FRONT ST., COLOMA, WI",
+      "website": "https://colomapubliclibrary.net/",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54930"
+      ]
+    },
+    {
+      "name": "SCANDINAVIA PUBLIC LIBRARY",
+      "system": "SCANDINAVIA PUBLIC LIBRARY",
+      "address": "349 N. MAIN ST., SCANDINAVIA, WI",
+      "website": "https://www.google.com/search?q=SCANDINAVIA+PUBLIC+LIBRARY+SCANDINAVIA+WI+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "54977"
+      ]
+    }
+  ]
+}

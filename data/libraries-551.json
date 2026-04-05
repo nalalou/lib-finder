@@ -1,0 +1,48 @@
+{
+  "libraries": [
+    {
+      "name": "DAKOTA COUNTY LIBRARY",
+      "system": "DAKOTA COUNTY LIBRARY",
+      "address": "1340 WESCOTT ROAD, EAGAN, MN",
+      "website": "https://www.google.com/search?q=DAKOTA+COUNTY+LIBRARY+EAGAN+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55123"
+      ]
+    },
+    {
+      "name": "RAMSEY COUNTY LIBRARY",
+      "system": "RAMSEY COUNTY LIBRARY",
+      "address": "4560 N VICTORIA ST, SHOREVIEW, MN",
+      "website": "https://www.google.com/search?q=RAMSEY+COUNTY+LIBRARY+SHOREVIEW+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55126"
+      ]
+    },
+    {
+      "name": "SAINT PAUL PUBLIC LIBRARY",
+      "system": "SAINT PAUL PUBLIC LIBRARY",
+      "address": "90 WEST FOURTH STREET, SAINT PAUL, MN",
+      "website": "https://www.google.com/search?q=SAINT+PAUL+PUBLIC+LIBRARY+SAINT+PAUL+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55102"
+      ]
+    },
+    {
+      "name": "WASHINGTON COUNTY LIBRARY",
+      "system": "WASHINGTON COUNTY LIBRARY",
+      "address": "8595 CENTRAL PARK PLACE, WOODBURY, MN",
+      "website": "https://www.google.com/search?q=WASHINGTON+COUNTY+LIBRARY+WOODBURY+MN+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "55125"
+      ]
+    }
+  ]
+}

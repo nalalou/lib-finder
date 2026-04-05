@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "ALLENTOWN PUBLIC LIBRARY",
+      "system": "ALLENTOWN PUBLIC LIBRARY",
+      "address": "1210 HAMILTON ST, ALLENTOWN, PA",
+      "website": "https://www.google.com/search?q=ALLENTOWN+PUBLIC+LIBRARY+ALLENTOWN+PA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18102"
+      ]
+    },
+    {
+      "name": "PARKLAND COMMUNITY LIBRARY",
+      "system": "PARKLAND COMMUNITY LIBRARY",
+      "address": "4422 WALBERT AVENUE, ALLENTOWN, PA",
+      "website": "https://www.google.com/search?q=PARKLAND+COMMUNITY+LIBRARY+ALLENTOWN+PA+library",
+      "formUrl": null,
+      "formStatus": "unknown",
+      "zipcodes": [
+        "18104"
+      ]
+    }
+  ]
+}
