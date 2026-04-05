@@ -117,7 +117,7 @@
     if (anyUnverified) {
       submitPrompt.hidden = false;
     }
-    });
+
     multiPicker.hidden = false;
   }
 
