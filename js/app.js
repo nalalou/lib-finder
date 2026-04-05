@@ -53,6 +53,8 @@
     errorMsg.hidden = true;
   }
 
+  var searchBox = document.querySelector(".search-box");
+
   function resetUI() {
     clearError();
     multiPicker.hidden = true;
@@ -62,6 +64,7 @@
     submitStatus.className = "submit-status";
     libraryList.innerHTML = "";
     currentLibraries = [];
+    searchBox.hidden = false;
   }
 
   function openLibrary(library) {
@@ -193,6 +196,7 @@
   });
 
   showSubmitFormBtn.addEventListener("click", function () {
+    searchBox.hidden = true;
     submitFormContainer.hidden = false;
     submitUrl.focus();
   });
