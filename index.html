@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Library Finder</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <main>
+    <div class="hero">
+      <h1>Request a book from your library</h1>
+      <p class="subtitle">Enter your zipcode and we'll take you to your library's purchase request form.</p>
+
+      <div class="search-box">
+        <input
+          type="text"
+          id="zipcode-input"
+          inputmode="numeric"
+          pattern="[0-9]*"
+          maxlength="5"
+          placeholder="Zipcode"
+          aria-label="Enter your 5-digit zipcode"
+          autofocus
+        >
+        <button id="find-btn" type="button">Find your library</button>
+      </div>
+
+      <p id="error-msg" class="error" role="alert" aria-live="polite" hidden></p>
+
+      <div id="multi-picker" class="picker" hidden>
+        <p>We found multiple library systems serving your area:</p>
+        <ul id="library-list"></ul>
+      </div>
+
+      <div id="submit-prompt" hidden>
+        <p class="submit-cta">
+          Know the direct link to the request form?
+          <button id="show-submit-form" type="button" class="link-btn">Submit it here.</button>
+        </p>
+
+        <div id="submit-form-container" hidden>
+          <div class="submit-form">
+            <p id="submit-context" class="submit-context"></p>
+            <input
+              type="url"
+              id="submit-url"
+              placeholder="Paste the purchase request form URL"
+              aria-label="Purchase request form URL"
+            >
+            <!-- Honeypot -->
+            <input type="text" name="website" id="honeypot" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px">
+            <button id="submit-btn" type="button">Submit</button>
+            <p id="submit-status" class="submit-status" role="status" aria-live="polite"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <p>Built and improved by librarians and readers.</p>
+    </footer>
+  </main>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>
