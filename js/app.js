@@ -128,11 +128,8 @@
 
       currentLibraries = libraries;
 
-      if (libraries.length === 1) {
-        openLibrary(libraries[0]);
-      } else {
-        renderPicker(libraries);
-      }
+      // Always show the picker — user clicks to open in new tab
+      renderPicker(libraries);
     } catch (e) {
       showError("Something went wrong. Please try again.");
     }
